@@ -1,0 +1,6 @@
+﻿Domain,Direction,Source,Translation,Reference,BLEU_Score,Latency_ms,Model
+General,ES→EN,El cielo es azul y el sol brilla.,The sky is blue and the sun is shining.,The sky is blue and the sun shines.,66.06,515.15,facebook/nllb-200-3.3B
+General,EN→ES,The quick brown fox jumps over the lazy dog.,"El rapido zorro marrón, el veloz zorro, el rápido zorro pardo, salta sobre el perro perezoso, el perro vago.",El rápido zorro marrón salta sobre el perro perezoso.,19.38,1099.44,facebook/nllb-200-3.3B
+Medical,ES→EN,El paciente presenta fiebre alta y tos seca.,The patient presents a high fever and a dry cough.,The patient presents with high fever and a dry cough.,70.17,553.99,facebook/nllb-200-3.3B
+Technical,ES→EN,El paciente tiene <bold>fiebre</bold>.,"The patient has a fever, and the patient has fever. This is a very common occurrence.",The patient has <bold>fever</bold>.,8.56,802.09,facebook/nllb-200-3.3B
+Automotive,EN→ES,The torque converter must be replaced.,El convertidor de torque debe ser sustituido.,El convertidor de par debe ser reemplazado.,27.05,477.94,facebook/nllb-200-3.3B
