@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<MedlinePlus-document>
+<record>
+<header>
+<identifier>https://medlineplus.gov/drugsafety.html</identifier>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title type="alternate" xml:lang="es">Medicamentos, Seguridad de los</dc:title>
+<dc:type>Text</dc:type>
+<dc:language>spa</dc:language>
+<dc:language>eng</dc:language>
+<dc:title xml:lang="es">Seguridad de los medicamentos</dc:title>
+<dc:title xml:lang="en">Drug Safety</dc:title>
+<dc:publisher>National Library of Medicine</dc:publisher>
+<dc:relation type="IsPartOf">Drug Therapy</dc:relation>
+<dc:relation type="IsPartOf">Safety Issues</dc:relation>
+<dc:date type="created">2002-07-21</dc:date>
+<dc:date type="modified">2017-10-25</dc:date>
+<dc:identifier type="URL" xml:lang="es">https://medlineplus.gov/spanish/drugsafety.html</dc:identifier>
+<dc:identifier type="URL" xml:lang="en">https://medlineplus.gov/drugsafety.html</dc:identifier>
+<dc:description xml:lang="es">En Estados Unidos, la Administración de Alimentos y Medicamentos de los Estados Unidos (FDA, por sus siglas en inglés) debe aprobar cualquier medicamento antes de que se pueda vender, ya sea con o sin receta médica. La FDA evalúa la seguridad de un medicamento observando: Efectos secundarios Cómo se fabricó Resultados de las pruebas en animales y ensayos clínicos Para usted, seguridad con medicamentos y equipos médicos significa comprar medicinas por internet solamente de farmacias legítimas y tomar sus medicinas correctamente.</dc:description>
+<dc:description xml:lang="en">In the U.S., the government's Food and Drug Administration (FDA) must approve any drug before it can be sold. This is true whether it's a prescription or an over-the-counter drug. The FDA evaluates the safety of a drug by looking at Side effects How it's manufactured Results of animal testing and clinical trials The FDA also monitors a drug's safety after approval. For you, drug safety means buying online from only legitimate pharmacies and taking your medicines correctly.</dc:description>
+<dc:subject dcterms="mesh">Drug and Narcotic Control</dc:subject>
+<dc:subject dcterms="mesh">Counterfeit Drugs</dc:subject>
+<dc:subject xml:lang="es">Seguridad de los medicamentos</dc:subject>
+<dc:subject xml:lang="es">Medicamentos</dc:subject>
+<dc:subject xml:lang="es">Seguridad de los</dc:subject>
+<dc:subject xml:lang="en">Drug Safety</dc:subject>
+</metadata>
+</record>
+</MedlinePlus-document>

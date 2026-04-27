@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<MedlinePlus-document>
+<record>
+<header>
+<identifier>https://medlineplus.gov/naildiseases.html</identifier>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title type="alternate" xml:lang="es">Uñas, Enfermedades de las</dc:title>
+<dc:title type="alternate" xml:lang="es">Hemorragias en astilla</dc:title>
+<dc:title type="alternate" xml:lang="es">Paroniquia</dc:title>
+<dc:title type="alternate" xml:lang="es">Uñas encarnadas</dc:title>
+<dc:title type="alternate" xml:lang="en">Fingernails</dc:title>
+<dc:title type="alternate" xml:lang="en">Toenails</dc:title>
+<dc:title type="alternate" xml:lang="en">Ingrown Nail</dc:title>
+<dc:title type="alternate" xml:lang="en">Paronychia</dc:title>
+<dc:title type="alternate" xml:lang="en">Onychomycosis</dc:title>
+<dc:type>Text</dc:type>
+<dc:language>spa</dc:language>
+<dc:language>eng</dc:language>
+<dc:title xml:lang="es">Enfermedades de las uñas</dc:title>
+<dc:title xml:lang="en">Nail Diseases</dc:title>
+<dc:publisher>National Library of Medicine</dc:publisher>
+<dc:relation type="IsPartOf">Skin, Hair and Nails</dc:relation>
+<dc:date type="created">2002-12-30</dc:date>
+<dc:date type="modified">2018-01-17</dc:date>
+<dc:identifier type="URL" xml:lang="es">https://medlineplus.gov/spanish/naildiseases.html</dc:identifier>
+<dc:identifier type="URL" xml:lang="en">https://medlineplus.gov/naildiseases.html</dc:identifier>
+<dc:description xml:lang="es">Las uñas de las manos y los pies protegen los tejidos de los dedos. Están formadas por capas de una proteína endurecida llamada queratina, que también se encuentra en el pelo y la piel. La salud de las uñas puede ser un indicador de su estado general de salud. Las uñas saludables suelen ser lisas y de un color uniforme. Los tipos específicos en la decoloración de las uñas y cambios en la tasa de crecimiento pueden indicar varias enfermedades pulmonares, cardíacas, renales y hepáticas, así como diabetes y anemia. Las manchas blancas y las crestas verticales son inofensivas. Los problemas de las uñas que a veces requieren tratamiento incluyen: Infecciones por bacterias y hongos Uñas encarnadas Tumores Verrugas Mantener las uñas limpias, secas y bien cortadas puede ayudarle a evitar algunos problemas. No se corte la cutícula, ya que puede causar infecciones.</dc:description>
+<dc:description xml:lang="en">Your toenails and fingernails protect the tissues of your toes and fingers. They are made up of layers of a hardened protein called keratin, which is also in your hair and skin. The health of your nails can be a clue to your overall health. Healthy nails are usually smooth and consistent in color. Specific types of nail discoloration and changes in growth rate can be signs of lung, heart, kidney, and liver diseases, as well as diabetes and anemia. White spots and vertical ridges are harmless. Nail problems that sometimes require treatment include Bacterial and fungal infections Ingrown nails Tumors Warts Keeping your nails clean, dry, and trimmed can help you avoid some problems. Do not remove the cuticle, which can cause infection.</dc:description>
+<dc:subject dcterms="mesh">Nail Diseases</dc:subject>
+<dc:subject xml:lang="es">Enfermedades de las uñas</dc:subject>
+<dc:subject xml:lang="es">Uñas</dc:subject>
+<dc:subject xml:lang="es">Enfermedades de las</dc:subject>
+<dc:subject xml:lang="es">Hemorragias en astilla</dc:subject>
+<dc:subject xml:lang="es">Paroniquia</dc:subject>
+<dc:subject xml:lang="es">Uñas encarnadas</dc:subject>
+<dc:subject xml:lang="en">Nail Diseases</dc:subject>
+<dc:subject xml:lang="en">Fingernails</dc:subject>
+<dc:subject xml:lang="en">Toenails</dc:subject>
+<dc:subject xml:lang="en">Ingrown Nail</dc:subject>
+<dc:subject xml:lang="en">Paronychia</dc:subject>
+<dc:subject xml:lang="en">Onychomycosis</dc:subject>
+</metadata>
+</record>
+</MedlinePlus-document>

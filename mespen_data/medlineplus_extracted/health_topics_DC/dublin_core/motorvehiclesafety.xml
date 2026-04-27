@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<MedlinePlus-document>
+<record>
+<header>
+<identifier>https://medlineplus.gov/motorvehiclesafety.html</identifier>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title type="alternate" xml:lang="es">Accidentes de tránsito</dc:title>
+<dc:title type="alternate" xml:lang="es">Vehículos de motor, Seguridad en</dc:title>
+<dc:title type="alternate" xml:lang="es">Tránsito, Accidentes de</dc:title>
+<dc:title type="alternate" xml:lang="es">Sillas para niños en el automóvil</dc:title>
+<dc:title type="alternate" xml:lang="es">Asientos para niños en el auto</dc:title>
+<dc:title type="alternate" xml:lang="es">Coche, Seguridad</dc:title>
+<dc:title type="alternate" xml:lang="es">Carro, Seguridad</dc:title>
+<dc:title type="alternate" xml:lang="es">Auto, Seguridad</dc:title>
+<dc:title type="alternate" xml:lang="es">Seguridad en los vehículos de motor</dc:title>
+<dc:title type="alternate" xml:lang="es">Manejar, Seguridad al</dc:title>
+<dc:title type="alternate" xml:lang="en">Automobile Safety</dc:title>
+<dc:title type="alternate" xml:lang="en">Car Safety</dc:title>
+<dc:title type="alternate" xml:lang="en">Traffic Accidents</dc:title>
+<dc:title type="alternate" xml:lang="en">Vehicle Safety</dc:title>
+<dc:title type="alternate" xml:lang="en">Car Seats</dc:title>
+<dc:title type="alternate" xml:lang="en">Driving</dc:title>
+<dc:type>Text</dc:type>
+<dc:language>spa</dc:language>
+<dc:language>eng</dc:language>
+<dc:title xml:lang="es">Seguridad al conducir</dc:title>
+<dc:title xml:lang="en">Motor Vehicle Safety</dc:title>
+<dc:publisher>National Library of Medicine</dc:publisher>
+<dc:relation type="IsPartOf">Safety Issues</dc:relation>
+<dc:date type="created">2002-07-21</dc:date>
+<dc:date type="modified">2017-12-29</dc:date>
+<dc:identifier type="URL" xml:lang="es">https://medlineplus.gov/spanish/motorvehiclesafety.html</dc:identifier>
+<dc:identifier type="URL" xml:lang="en">https://medlineplus.gov/motorvehiclesafety.html</dc:identifier>
+<dc:description xml:lang="es">Cada año miles de personas en Estados Unidos muere en un accidente automovilístico. Tratar de prevenir estos accidentes es una parte de la seguridad al conducir. Éstas son algunas cosas que puede hacer para estar más seguro en las carreteras y caminos: Asegúrese de que el vehículo es seguro y funciona correctamente Utilice asientos de seguridad para los niños Use el cinturón de seguridad No conduzca demasiado rápido o agresivamente No conduzca si no está en condiciones de hacerlo Seguridad también significa estar pendiente de otros. Comparta la calle con bicicletas y motos y preste atención a los peatones.</dc:description>
+<dc:description xml:lang="en">Every year thousands of people in the U.S. die from motor vehicle crashes. Trying to prevent these crashes is one part of motor vehicle safety. Here are some things you can do to be safer on the road: Make sure your vehicle is safe and in working order Use car seats for children Wear your seat belt Don't speed or drive aggressively Don't drive impaired Safety also involves being aware of others. Share the road with bicycles and motorcycles, and watch for pedestrians.</dc:description>
+<dc:subject dcterms="mesh">Automobile Driving</dc:subject>
+<dc:subject dcterms="mesh">Accidents, Traffic</dc:subject>
+<dc:subject dcterms="mesh">Safety</dc:subject>
+<dc:subject xml:lang="es">Seguridad al conducir</dc:subject>
+<dc:subject xml:lang="es">Accidentes de tránsito</dc:subject>
+<dc:subject xml:lang="es">Vehículos de motor</dc:subject>
+<dc:subject xml:lang="es">Seguridad en</dc:subject>
+<dc:subject xml:lang="es">Tránsito</dc:subject>
+<dc:subject xml:lang="es">Accidentes de</dc:subject>
+<dc:subject xml:lang="es">Sillas para niños en el automóvil</dc:subject>
+<dc:subject xml:lang="es">Asientos para niños en el auto</dc:subject>
+<dc:subject xml:lang="es">Coche</dc:subject>
+<dc:subject xml:lang="es">Seguridad</dc:subject>
+<dc:subject xml:lang="es">Carro</dc:subject>
+<dc:subject xml:lang="es">Seguridad</dc:subject>
+<dc:subject xml:lang="es">Auto</dc:subject>
+<dc:subject xml:lang="es">Seguridad</dc:subject>
+<dc:subject xml:lang="es">Seguridad en los vehículos de motor</dc:subject>
+<dc:subject xml:lang="es">Manejar</dc:subject>
+<dc:subject xml:lang="es">Seguridad al</dc:subject>
+<dc:subject xml:lang="en">Motor Vehicle Safety</dc:subject>
+<dc:subject xml:lang="en">Automobile Safety</dc:subject>
+<dc:subject xml:lang="en">Car Safety</dc:subject>
+<dc:subject xml:lang="en">Traffic Accidents</dc:subject>
+<dc:subject xml:lang="en">Vehicle Safety</dc:subject>
+<dc:subject xml:lang="en">Car Seats</dc:subject>
+<dc:subject xml:lang="en">Driving</dc:subject>
+</metadata>
+</record>
+</MedlinePlus-document>

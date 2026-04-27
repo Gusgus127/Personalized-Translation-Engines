@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<MedlinePlus-document>
+<record>
+<header>
+<identifier>https://medlineplus.gov/antibiotics.html</identifier>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:type>Text</dc:type>
+<dc:language>spa</dc:language>
+<dc:language>eng</dc:language>
+<dc:title xml:lang="es">Antibióticos</dc:title>
+<dc:title xml:lang="en">Antibiotics</dc:title>
+<dc:publisher>National Library of Medicine</dc:publisher>
+<dc:relation type="IsPartOf">Drug Therapy</dc:relation>
+<dc:relation type="IsPartOf">Infections</dc:relation>
+<dc:date type="created">2002-07-21</dc:date>
+<dc:date type="modified">2018-01-09</dc:date>
+<dc:identifier type="URL" xml:lang="es">https://medlineplus.gov/spanish/antibiotics.html</dc:identifier>
+<dc:identifier type="URL" xml:lang="en">https://medlineplus.gov/antibiotics.html</dc:identifier>
+<dc:description xml:lang="es">Los antibióticos son medicamentos potentes que combaten las infecciones bacterianas. Su uso correcto puede salvar vidas. Actúan matando las bacterias o impidiendo que se reproduzcan. Después de tomar los antibióticos, las defensas naturales del cuerpo son suficientes. Los antibióticos no combaten las infecciones causadas por virus, como por ejemplo: Resfríos Gripe La mayoría de las causas de tos y bronquitis Dolores de garganta, excepto que el causante sea una infección por estreptococo Si un virus (y no una bacteria) es la causa de una enfermedad, tomar antibióticos puede provocar más daños que beneficios. Usar antibióticos cuando no los necesita puede causar una resistencia a estos. Esto sucede cuando la bacteria cambia y puede resistir los efectos de los antibióticos. Cuando tome antibióticos, siga cuidadosamente las instrucciones. Es importante que, aunque se sienta mejor, termine con el tratamiento. Si deja de tomar los antibióticos antes de lo recomendado por el médico, algunas bacterias pueden sobrevivir en su cuerpo y pueden reinfectarlo. No guarde los antibióticos para después, ni consuma la receta de otra persona. Centros para el Control y la Prevención de Enfermedades</dc:description>
+<dc:description xml:lang="en">Antibiotics are powerful medicines that fight bacterial infections. Used properly, antibiotics can save lives. They either kill bacteria or keep them from reproducing. Your body's natural defenses can usually take it from there. Antibiotics do not fight infections caused by viruses, such as Colds Flu Most coughs and bronchitis Sore throats, unless caused by strep If a virus is making you sick, taking antibiotics may do more harm than good. Using antibiotics when you don't need them, or not using them properly, can add to antibiotic resistance. This happens when bacteria change and become able to resist the effects of an antibiotic. When you take antibiotics, follow the directions carefully. It is important to finish your medicine even if you feel better. If you stop treatment too soon, some bacteria may survive and re-infect you. Do not save antibiotics for later or use someone else's prescription. Centers for Disease Control and Prevention</dc:description>
+<dc:subject dcterms="mesh">Anti-Bacterial Agents</dc:subject>
+<dc:subject xml:lang="es">Antibióticos</dc:subject>
+<dc:subject xml:lang="en">Antibiotics</dc:subject>
+</metadata>
+</record>
+</MedlinePlus-document>

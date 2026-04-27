@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<MedlinePlus-document>
+<record>
+<header>
+<identifier>https://medlineplus.gov/benigntumors.html</identifier>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title type="alternate" xml:lang="es">Cáncer benigno</dc:title>
+<dc:title type="alternate" xml:lang="es">Tumor benigno</dc:title>
+<dc:title type="alternate" xml:lang="es">Lipomas</dc:title>
+<dc:title type="alternate" xml:lang="es">Nódulos tiroideos</dc:title>
+<dc:title type="alternate" xml:lang="es">Tumores pituitarios</dc:title>
+<dc:title type="alternate" xml:lang="en">Cancer, Benign</dc:title>
+<dc:title type="alternate" xml:lang="en">Tumors, Benign</dc:title>
+<dc:title type="alternate" xml:lang="en">Adenoma</dc:title>
+<dc:title type="alternate" xml:lang="en">Hemangioma</dc:title>
+<dc:type>Text</dc:type>
+<dc:language>spa</dc:language>
+<dc:language>eng</dc:language>
+<dc:title xml:lang="es">Tumores benignos</dc:title>
+<dc:title xml:lang="en">Benign Tumors</dc:title>
+<dc:publisher>National Library of Medicine</dc:publisher>
+<dc:relation type="IsPartOf">Cancers</dc:relation>
+<dc:date type="created">2003-10-06</dc:date>
+<dc:date type="modified">2018-01-03</dc:date>
+<dc:identifier type="URL" xml:lang="es">https://medlineplus.gov/spanish/benigntumors.html</dc:identifier>
+<dc:identifier type="URL" xml:lang="en">https://medlineplus.gov/benigntumors.html</dc:identifier>
+<dc:description xml:lang="es">Los tumores son crecimientos anormales en el cuerpo. Pueden ser benignos o malignos. Los tumores benignos no son cáncer, pero los malignos sí. Los tumores benignos solo crecen en una parte del cuerpo. No pueden aparecer ni invadir otras partes del cuerpo. Aún así, pueden ser peligrosos si presionan órganos importantes, tales como el cerebro. Los tumores están formados por células extras. En general, las células crecen y se dividen en otras células cuando el cuerpo las necesita. Cuando las células envejecen, se mueren y otras células nuevas toman su lugar. Algunas veces, este proceso no resulta como se espera: se forman células nuevas, aún cuando no son necesarias y las células viejas no mueren cuando deberían. Cuando estas células adicionales forman una masa, se les conoce como un tumor. Con frecuencia, el tratamiento incluye cirugía. Los tumores benignos no suelen crecer nuevamente. NIH: Instituto Nacional del Cáncer</dc:description>
+<dc:description xml:lang="en">Tumors are abnormal growths in your body. They can be either benign or malignant. Benign tumors aren't cancer. Malignant ones are. Benign tumors grow only in one place. They cannot spread or invade other parts of your body. Even so, they can be dangerous if they press on vital organs, such as your brain. Tumors are made up of extra cells. Normally, cells grow and divide to form new cells as your body needs them. When cells grow old, they die, and new cells take their place. Sometimes, this process goes wrong. New cells form when your body does not need them, and old cells do not die when they should. These extra cells can divide without stopping and may form tumor. Treatment often involves surgery. Benign tumors usually don't grow back. NIH: National Cancer Institute</dc:description>
+<dc:subject dcterms="mesh">Myoma</dc:subject>
+<dc:subject dcterms="mesh">Neoplasms</dc:subject>
+<dc:subject dcterms="mesh">Adenoma</dc:subject>
+<dc:subject dcterms="mesh">Fibroma</dc:subject>
+<dc:subject dcterms="mesh">Lipoma</dc:subject>
+<dc:subject dcterms="mesh">Papilloma</dc:subject>
+<dc:subject xml:lang="es">Tumores benignos</dc:subject>
+<dc:subject xml:lang="es">Cáncer benigno</dc:subject>
+<dc:subject xml:lang="es">Tumor benigno</dc:subject>
+<dc:subject xml:lang="es">Lipomas</dc:subject>
+<dc:subject xml:lang="es">Nódulos tiroideos</dc:subject>
+<dc:subject xml:lang="es">Tumores pituitarios</dc:subject>
+<dc:subject xml:lang="en">Benign Tumors</dc:subject>
+<dc:subject xml:lang="en">Cancer</dc:subject>
+<dc:subject xml:lang="en">Benign</dc:subject>
+<dc:subject xml:lang="en">Tumors</dc:subject>
+<dc:subject xml:lang="en">Benign</dc:subject>
+<dc:subject xml:lang="en">Adenoma</dc:subject>
+<dc:subject xml:lang="en">Hemangioma</dc:subject>
+</metadata>
+</record>
+</MedlinePlus-document>

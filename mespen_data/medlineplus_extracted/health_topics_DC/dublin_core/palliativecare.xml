@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<MedlinePlus-document>
+<record>
+<header>
+<identifier>https://medlineplus.gov/palliativecare.html</identifier>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:type>Text</dc:type>
+<dc:language>spa</dc:language>
+<dc:language>eng</dc:language>
+<dc:title xml:lang="es">Cuidado paliativo</dc:title>
+<dc:title xml:lang="en">Palliative Care</dc:title>
+<dc:publisher>National Library of Medicine</dc:publisher>
+<dc:relation type="IsPartOf">Personal Health Issues</dc:relation>
+<dc:relation type="IsPartOf">Health System</dc:relation>
+<dc:date type="created">2010-09-29</dc:date>
+<dc:date type="modified">2017-09-20</dc:date>
+<dc:identifier type="URL" xml:lang="es">https://medlineplus.gov/spanish/palliativecare.html</dc:identifier>
+<dc:identifier type="URL" xml:lang="en">https://medlineplus.gov/palliativecare.html</dc:identifier>
+<dc:description xml:lang="es">Los cuidados paliativos son el tratamiento para la incomodidad, los síntomas y el estrés que produce una enfermedad grave. Proporciona alivio de los síntomas problemáticos, incluyendo: Dolor Falta de aliento Fatiga Estreñimiento Náusea Pérdida de apetito Problemas con el sueño También puede ayudarle a lidiar con los efectos secundarios de los tratamientos médicos que está recibiendo. Los cuidados de hospicio, la atención que se entrega al final de la vida, siempre incluye cuidados paliativos. Sin embargo, usted puede recibir cuidados paliativos en cualquier etapa de una enfermedad. El objetivo es hacerle sentir cómodo y mejorar su calidad de vida. NIH: Instituto Nacional de Investigación en Enfermería</dc:description>
+<dc:description xml:lang="en">Palliative care is treatment of the discomfort, symptoms, and stress of serious illness. It provides relief from distressing symptoms including Pain Shortness of breath Fatigue Constipation Nausea Loss of appetite Problems with sleep It can also help you deal with the side effects of the medical treatments you're receiving. Hospice care, care at the end of life, always includes palliative care. But you may receive palliative care at any stage of an illness. The goal is to make you comfortable and improve your quality of life. NIH: National Institute of Nursing Research</dc:description>
+<dc:subject dcterms="mesh">Palliative Care</dc:subject>
+<dc:subject xml:lang="es">Cuidado paliativo</dc:subject>
+<dc:subject xml:lang="en">Palliative Care</dc:subject>
+</metadata>
+</record>
+</MedlinePlus-document>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<MedlinePlus-document>
+<record>
+<header>
+<identifier>https://medlineplus.gov/bonecancer.html</identifier>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title type="alternate" xml:lang="es">Hueso, Cáncer de</dc:title>
+<dc:title type="alternate" xml:lang="es">Tumor de Ewing</dc:title>
+<dc:title type="alternate" xml:lang="es">Osteorsacoma</dc:title>
+<dc:title type="alternate" xml:lang="en">Osteosarcoma</dc:title>
+<dc:title type="alternate" xml:lang="en">Ewing's Sarcoma</dc:title>
+<dc:title type="alternate" xml:lang="en">Sarcoma, Ewing's</dc:title>
+<dc:type>Text</dc:type>
+<dc:language>spa</dc:language>
+<dc:language>eng</dc:language>
+<dc:title xml:lang="es">Cáncer de hueso</dc:title>
+<dc:title xml:lang="en">Bone Cancer</dc:title>
+<dc:publisher>National Library of Medicine</dc:publisher>
+<dc:relation type="IsPartOf">Bones, Joints and Muscles</dc:relation>
+<dc:relation type="IsPartOf">Cancers</dc:relation>
+<dc:date type="created">2002-07-21</dc:date>
+<dc:date type="modified">2018-02-12</dc:date>
+<dc:identifier type="URL" xml:lang="es">https://medlineplus.gov/spanish/bonecancer.html</dc:identifier>
+<dc:identifier type="URL" xml:lang="en">https://medlineplus.gov/bonecancer.html</dc:identifier>
+<dc:description xml:lang="es">Es raro que un cáncer empiece su desarrollo en el hueso. Es más común que el cáncer se haya diseminado al hueso desde otras partes del cuerpo. Existen tres tipos de cáncer óseo: Osteosarcoma: generalmente, se desarrolla entre los 10 y 19 años de edad y ocurre más comúnmente en la rodilla o en la parte superior del brazo Condrosarcoma: comienza en el cartílago, por lo general después de los 50 años de edad Sarcoma de Ewing: ocurre más frecuentemente en niños y adolescentes varones menores de 19 años. El síntoma más común del cáncer de hueso es el dolor. Otros síntomas varían dependiendo de la ubicación y el tamaño del cáncer. La cirugía suele ser el tratamiento habitual. Otros tratamientos pueden incluir amputación, quimioterapia y radiación. Debido a que el cáncer de hueso puede volver después del tratamiento, es importante que se realicen visitas regulares de seguimiento. NIH: Instituto Nacional del Cáncer</dc:description>
+<dc:description xml:lang="en">Cancer that starts in a bone is uncommon. Cancer that has spread to the bone from another part of the body is more common. There are three types of bone cancer: Osteosarcoma - occurs most often between ages 10 and 19. It is more common in the knee and upper arm. Chondrosarcoma - starts in cartilage, usually after age 40 Ewing's sarcoma - occurs most often in children and teens under 19. It is more common in boys than girls. The most common symptom of bone cancer is pain. Other symptoms vary, depending on the location and size of the cancer. Surgery is often the main treatment for bone cancer. Other treatments may include amputation, chemotherapy, and radiation therapy. Because bone cancer can come back after treatment, regular follow-up visits are important. NIH: National Cancer Institute</dc:description>
+<dc:subject dcterms="mesh">Bone Neoplasms</dc:subject>
+<dc:subject xml:lang="es">Cáncer de hueso</dc:subject>
+<dc:subject xml:lang="es">Hueso</dc:subject>
+<dc:subject xml:lang="es">Cáncer de</dc:subject>
+<dc:subject xml:lang="es">Tumor de Ewing</dc:subject>
+<dc:subject xml:lang="es">Osteorsacoma</dc:subject>
+<dc:subject xml:lang="en">Bone Cancer</dc:subject>
+<dc:subject xml:lang="en">Osteosarcoma</dc:subject>
+<dc:subject xml:lang="en">Ewing's Sarcoma</dc:subject>
+<dc:subject xml:lang="en">Sarcoma</dc:subject>
+<dc:subject xml:lang="en">Ewing's</dc:subject>
+</metadata>
+</record>
+</MedlinePlus-document>

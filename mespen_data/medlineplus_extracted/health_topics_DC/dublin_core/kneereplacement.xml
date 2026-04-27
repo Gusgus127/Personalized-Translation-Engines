@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<MedlinePlus-document>
+<record>
+<header>
+<identifier>https://medlineplus.gov/kneereplacement.html</identifier>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:type>Text</dc:type>
+<dc:language>spa</dc:language>
+<dc:language>eng</dc:language>
+<dc:title xml:lang="es">Reemplazo de rodilla</dc:title>
+<dc:title xml:lang="en">Knee Replacement</dc:title>
+<dc:publisher>National Library of Medicine</dc:publisher>
+<dc:relation type="IsPartOf">Bones, Joints and Muscles</dc:relation>
+<dc:relation type="IsPartOf">Surgery and Rehabilitation</dc:relation>
+<dc:date type="created">2004-10-05</dc:date>
+<dc:date type="modified">2018-01-03</dc:date>
+<dc:identifier type="URL" xml:lang="es">https://medlineplus.gov/spanish/kneereplacement.html</dc:identifier>
+<dc:identifier type="URL" xml:lang="en">https://medlineplus.gov/kneereplacement.html</dc:identifier>
+<dc:description xml:lang="es">El reemplazo de rodilla es una cirugía para personas con daños graves en la rodilla. El reemplazo de la rodilla puede aliviar el dolor y permitirle ser más activo. El médico puede recomendarle el procedimiento si tiene dolor en la rodilla y si otros tratamientos ya no son efectivos. Cuando se somete a un reemplazo total de rodilla, el cirujano elimina el cartílago y el hueso dañado de la superficie de la articulación de la rodilla y los reemplaza por superficies artificiales de metal y plástico. En el reemplazo parcial de rodilla, el cirujano sólo reemplaza una parte de la articulación de la rodilla. La cirugía también puede causar cicatrices, coágulos sanguíneos y, en raras ocasiones, infecciones. Después de un reemplazo de rodilla, no podrá realizar algunas actividades como correr y deportes de alto impacto.</dc:description>
+<dc:description xml:lang="en">Knee replacement is surgery for people with severe knee damage. Knee replacement can relieve pain and allow you to be more active. Your doctor may recommend it if you have knee pain and medicine and other treatments are not helping you anymore. When you have a total knee replacement, the surgeon removes damaged cartilage and bone from the surface of your knee joint and replaces them with a man-made surface of metal and plastic. In a partial knee replacement, the surgeon only replaces one part of your knee joint. The surgery can cause scarring, blood clots, and, rarely, infections. After a knee replacement, you will no longer be able to do certain activities, such as jogging and high-impact sports.</dc:description>
+<dc:subject dcterms="mesh">Arthroplasty, Replacement, Knee</dc:subject>
+<dc:subject xml:lang="es">Reemplazo de rodilla</dc:subject>
+<dc:subject xml:lang="en">Knee Replacement</dc:subject>
+<dc:subject xml:lang="en">Arthroplasty</dc:subject>
+</metadata>
+</record>
+</MedlinePlus-document>

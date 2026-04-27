@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<MedlinePlus-document>
+<record>
+<header>
+<identifier>https://medlineplus.gov/lactoseintolerance.html</identifier>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title type="alternate" xml:lang="es">Lactosa, Intolerancia a la</dc:title>
+<dc:title type="alternate" xml:lang="en">Milk Intolerance</dc:title>
+<dc:type>Text</dc:type>
+<dc:language>spa</dc:language>
+<dc:language>eng</dc:language>
+<dc:title xml:lang="es">Intolerancia a la lactosa</dc:title>
+<dc:title xml:lang="en">Lactose Intolerance</dc:title>
+<dc:publisher>National Library of Medicine</dc:publisher>
+<dc:relation type="IsPartOf">Metabolic Problems</dc:relation>
+<dc:relation type="IsPartOf">Digestive System</dc:relation>
+<dc:date type="created">2002-07-21</dc:date>
+<dc:date type="modified">2018-01-25</dc:date>
+<dc:identifier type="URL" xml:lang="es">https://medlineplus.gov/spanish/lactoseintolerance.html</dc:identifier>
+<dc:identifier type="URL" xml:lang="en">https://medlineplus.gov/lactoseintolerance.html</dc:identifier>
+<dc:description xml:lang="es">Intolerancia a la lactosa significa que usted no puede digerir alimentos que contienen lactosa. La lactosa es el azúcar que se encuentra en la leche y los alimentos preparados con leche. Después de ingerir alimentos que contienen lactosa, es posible que tenga malestar estomacal. También puede presentar: Gases Diarrea Inflamación en el estómago El médico puede hacerle un análisis de sangre, una prueba de aliento o un análisis de heces para detectar si sus problemas se deben a la intolerancia a la lactosa. La intolerancia a la lactosa no es un cuadro serio. Consumir menos alimentos con lactosa o utilizar pastillas o gotas que lo ayuden a digerir la lactosa suelen ser de ayuda. Es posible que necesite tomar suplementos de calcio, ya que la leche y los productos lácteos son las fuentes más comunes de calcio para la mayoría de las personas. NIH: Instituto Nacional de la Diabetes y las Enfermedades Digestivas y Renales</dc:description>
+<dc:description xml:lang="en">Lactose intolerance means that you cannot digest foods with lactose in them. Lactose is the sugar found in milk and foods made with milk. After eating foods with lactose in them, you may feel sick to your stomach. You may also have Gas Diarrhea Swelling in your stomach Your doctor may do a blood, breath or stool test to find out if your problems are due to lactose intolerance. Lactose intolerance is not serious. Eating less food with lactose, or using pills or drops to help you digest lactose usually helps. You may need to take a calcium supplement if you don't get enough of it from your diet, since milk and foods made with milk are the most common source of calcium for most people. NIH: National Institute of Diabetes and Digestive and Kidney Diseases</dc:description>
+<dc:subject dcterms="mesh">Lactose Intolerance</dc:subject>
+<dc:subject xml:lang="es">Intolerancia a la lactosa</dc:subject>
+<dc:subject xml:lang="es">Lactosa</dc:subject>
+<dc:subject xml:lang="es">Intolerancia a la</dc:subject>
+<dc:subject xml:lang="en">Lactose Intolerance</dc:subject>
+<dc:subject xml:lang="en">Milk Intolerance</dc:subject>
+</metadata>
+</record>
+</MedlinePlus-document>

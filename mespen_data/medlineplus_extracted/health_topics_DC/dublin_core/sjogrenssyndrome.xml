@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<MedlinePlus-document>
+<record>
+<header>
+<identifier>https://medlineplus.gov/sjogrenssyndrome.html</identifier>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title type="alternate" xml:lang="es">Sjögren, Síndrome de</dc:title>
+<dc:type>Text</dc:type>
+<dc:language>spa</dc:language>
+<dc:language>eng</dc:language>
+<dc:title xml:lang="es">Síndrome de Sjögren</dc:title>
+<dc:title xml:lang="en">Sjogren's Syndrome</dc:title>
+<dc:publisher>National Library of Medicine</dc:publisher>
+<dc:relation type="IsPartOf">Immune System</dc:relation>
+<dc:relation type="IsPartOf">Bones, Joints and Muscles</dc:relation>
+<dc:date type="created">2002-07-21</dc:date>
+<dc:date type="modified">2017-12-04</dc:date>
+<dc:identifier type="URL" xml:lang="es">https://medlineplus.gov/spanish/sjogrenssyndrome.html</dc:identifier>
+<dc:identifier type="URL" xml:lang="en">https://medlineplus.gov/sjogrenssyndrome.html</dc:identifier>
+<dc:description xml:lang="es">El síndrome de Sjögren es una enfermedad autoinmune. Esto significa que el sistema inmunitario ataca partes de su propio cuerpo por error. En el síndrome de Sjögren, éste ataca las glándulas que producen las lágrimas y la saliva. Esto provoca boca seca y ojos secos. Es posible que tenga sequedad en otros órganos que necesitan humedad, como la nariz, la garganta y la piel. El síndrome también puede afectar otras partes del cuerpo, incluyendo las articulaciones, pulmones, riñones, vasos sanguíneos, órganos digestivos y los nervios. La mayoría de las personas con síndrome de Sjögren son mujeres. Por lo general, comienza después de los 40 años, a veces vinculado a otras enfermedades como la artritis reumatoide y el lupus. Para hacer un diagnóstico, los médicos pueden utilizar la historia clínica, un examen físico, algunas pruebas para los ojos y la boca, análisis de sangre y biopsias. El tratamiento se centra en aliviar los síntomas. Puede ser diferente para cada persona dependiendo de la parte del cuerpo afectada. Puede incluir lágrimas artificiales para los ojos y chupar caramelos sin azúcar o tomar agua a menudo para la boca seca. Los medicamentos pueden ayudar con síntomas severos. NIH: Instituto Nacional de Artritis y Enfermedades Musculoesqueléticas y de la Piel</dc:description>
+<dc:description xml:lang="en">Sjogren's syndrome is an autoimmune disease. This means that your immune system attacks parts of your own body by mistake. In Sjogren's syndrome, it attacks the glands that make tears and saliva. This causes a dry mouth and dry eyes. You may have dryness in other places that need moisture, such as your nose, throat, and skin. Sjogren's can also affect other parts of the body, including your joints, lungs, kidneys, blood vessels, digestive organs, and nerves. Most people with Sjogren's syndrome are women. It usually starts after age 40. It is sometimes linked to other diseases such as rheumatoid arthritis and lupus. To make a diagnosis, doctors may use a medical history, physical exam, certain eye and mouth tests, blood tests, and biopsies. Treatment focuses on relieving symptoms. It can differ for each person; it depends on what parts of the body are affected. It may include artificial tears for dye eyes and sucking on sugar-free candy or drinking water often for a dry mouth. Medicines may help with severe symptoms. NIH: National Institute of Arthritis and Musculoskeletal and Skin Diseases</dc:description>
+<dc:subject dcterms="mesh">Sjogren's Syndrome</dc:subject>
+<dc:subject xml:lang="es">Síndrome de Sjögren</dc:subject>
+<dc:subject xml:lang="es">Sjögren</dc:subject>
+<dc:subject xml:lang="es">Síndrome de</dc:subject>
+<dc:subject xml:lang="en">Sjogren's Syndrome</dc:subject>
+</metadata>
+</record>
+</MedlinePlus-document>

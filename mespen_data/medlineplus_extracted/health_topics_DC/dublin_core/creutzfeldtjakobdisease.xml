@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<MedlinePlus-document>
+<record>
+<header>
+<identifier>https://medlineplus.gov/creutzfeldtjakobdisease.html</identifier>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title type="alternate" xml:lang="es">Encefalopatía espongiforme bovina</dc:title>
+<dc:title type="alternate" xml:lang="es">Enfermedad de la vaca loca</dc:title>
+<dc:title type="alternate" xml:lang="es">Creutzfeldt-Jakob, Enfermedad de</dc:title>
+<dc:title type="alternate" xml:lang="es">Vaca loca, Enfermedad de</dc:title>
+<dc:title type="alternate" xml:lang="es">EEB</dc:title>
+<dc:title type="alternate" xml:lang="en">CJD</dc:title>
+<dc:title type="alternate" xml:lang="en">Jakob-Creutzfeldt Disease</dc:title>
+<dc:title type="alternate" xml:lang="en">Mad Cow Disease</dc:title>
+<dc:title type="alternate" xml:lang="en">BSE</dc:title>
+<dc:title type="alternate" xml:lang="en">Bovine Spongiform Encephalopathy</dc:title>
+<dc:title type="alternate" xml:lang="en">vCJD</dc:title>
+<dc:title type="alternate" xml:lang="en">Prion Diseases</dc:title>
+<dc:type>Text</dc:type>
+<dc:language>spa</dc:language>
+<dc:language>eng</dc:language>
+<dc:title xml:lang="es">Enfermedad de Creutzfeldt-Jakob</dc:title>
+<dc:title xml:lang="en">Creutzfeldt-Jakob Disease</dc:title>
+<dc:publisher>National Library of Medicine</dc:publisher>
+<dc:relation type="IsPartOf">Brain and Nerves</dc:relation>
+<dc:date type="created">2002-07-21</dc:date>
+<dc:date type="modified">2017-05-17</dc:date>
+<dc:identifier type="URL" xml:lang="es">https://medlineplus.gov/spanish/creutzfeldtjakobdisease.html</dc:identifier>
+<dc:identifier type="URL" xml:lang="en">https://medlineplus.gov/creutzfeldtjakobdisease.html</dc:identifier>
+<dc:description xml:lang="es">La enfermedad de Creutzfeldt-Jakob (CJD, por sus siglas en inglés) es un trastorno cerebral degenerativo poco común. Los síntomas suelen comenzar alrededor de los 60 años de edad. Problemas con la memoria, cambios en la conducta, problemas con la vista y la mala coordinación muscular conducen rápidamente hacia la demencia, el coma y la muerte. La mayoría de los pacientes muere en el primer año. Existen tres categorías principales de CJD: CJD esporádica, que ocurre sin ningún motivo conocido CJD hereditaria, que tiene tendencia familiar CJD adquirida, que ocurre por el contacto con tejido infectado, generalmente durante un procedimiento médico El ganado puede adquirir una enfermedad relacionada con la enfermedad CJD llamada encefalopatía espongiforme bovina o "enfermedad de la vaca loca". Existe preocupación de que las personas adquieran una variante de la CJD por comer carne de animales infectados, pero no hay prueba directa que lo confirme. NIH: Instituto Nacional de Trastornos Neurológicos y Accidentes Cerebrovasculares</dc:description>
+<dc:description xml:lang="en">Creutzfeldt-Jakob disease (CJD) is a rare, degenerative brain disorder. Symptoms usually start around age 60. Memory problems, behavior changes, vision problems, and poor muscle coordination progress quickly to dementia, coma, and death. Most patients die within a year. The three main categories of CJD are Sporadic CJD, which occurs for no known reason Hereditary CJD, which runs in families Acquired CJD, which occurs from contact with infected tissue, usually during a medical procedure Cattle can get a disease related to CJD called bovine spongiform encephalopathy (BSE) or "mad cow disease." There is concern that people can get a variant of CJD from eating beef from an infected animal, but there is no direct proof to support this. NIH: National Institute of Neurological Disorders and Stroke</dc:description>
+<dc:subject dcterms="mesh">Creutzfeldt-Jakob Syndrome</dc:subject>
+<dc:subject xml:lang="es">Enfermedad de Creutzfeldt-Jakob</dc:subject>
+<dc:subject xml:lang="es">Encefalopatía espongiforme bovina</dc:subject>
+<dc:subject xml:lang="es">Enfermedad de la vaca loca</dc:subject>
+<dc:subject xml:lang="es">Creutzfeldt-Jakob</dc:subject>
+<dc:subject xml:lang="es">Enfermedad de</dc:subject>
+<dc:subject xml:lang="es">Vaca loca</dc:subject>
+<dc:subject xml:lang="es">Enfermedad de</dc:subject>
+<dc:subject xml:lang="es">EEB</dc:subject>
+<dc:subject xml:lang="en">Creutzfeldt-Jakob Disease</dc:subject>
+<dc:subject xml:lang="en">CJD</dc:subject>
+<dc:subject xml:lang="en">Jakob-Creutzfeldt Disease</dc:subject>
+<dc:subject xml:lang="en">Mad Cow Disease</dc:subject>
+<dc:subject xml:lang="en">BSE</dc:subject>
+<dc:subject xml:lang="en">Bovine Spongiform Encephalopathy</dc:subject>
+<dc:subject xml:lang="en">vCJD</dc:subject>
+<dc:subject xml:lang="en">Prion Diseases</dc:subject>
+</metadata>
+</record>
+</MedlinePlus-document>

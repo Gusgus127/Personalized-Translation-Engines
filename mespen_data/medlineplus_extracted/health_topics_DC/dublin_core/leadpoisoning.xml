@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<MedlinePlus-document>
+<record>
+<header>
+<identifier>https://medlineplus.gov/leadpoisoning.html</identifier>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title type="alternate" xml:lang="es">Plomo, Envenenamiento por</dc:title>
+<dc:title type="alternate" xml:lang="es">Intoxicación por plomo</dc:title>
+<dc:title type="alternate" xml:lang="en">Plumbism</dc:title>
+<dc:type>Text</dc:type>
+<dc:language>spa</dc:language>
+<dc:language>eng</dc:language>
+<dc:title xml:lang="es">Envenenamiento con plomo</dc:title>
+<dc:title xml:lang="en">Lead Poisoning</dc:title>
+<dc:publisher>National Library of Medicine</dc:publisher>
+<dc:relation type="IsPartOf">Children and Teenagers</dc:relation>
+<dc:relation type="IsPartOf">Poisoning, Toxicology, Environmental Health</dc:relation>
+<dc:date type="created">2002-07-21</dc:date>
+<dc:date type="modified">2018-02-08</dc:date>
+<dc:identifier type="URL" xml:lang="es">https://medlineplus.gov/spanish/leadpoisoning.html</dc:identifier>
+<dc:identifier type="URL" xml:lang="en">https://medlineplus.gov/leadpoisoning.html</dc:identifier>
+<dc:description xml:lang="es">El plomo es un metal que se encuentra en forma natural en la corteza terrestre. Se puede encontrar en todas partes del medio ambiente. Gran parte de él proviene de actividades humanas como la minería y la industria. El plomo solía estar presente en la pintura. Las casas antiguas aun pueden estar pintadas con pintura que contiene plomo. Usted puede estar expuesto al plomo al: Comer alimentos o agua contaminados con plomo. Las tuberías de agua en casas antiguas pueden contener plomo Trabajar en una labor donde se utiliza plomo Tener un pasatiempo en el cual se use plomo, como hacer vitrales o cerámica vidriada con plomo Usar remedios caseros, tales como hierbas o alimentos que contengan plomo Respirar aire, tomar agua potable, comer alimentos o tragar o tocar cosas contaminadas con plomo puede causar muchos problemas de salud. El plomo puede afectar a casi todos los órganos y sistemas del cuerpo. En adultos, el plomo puede aumentar la presión arterial y causar infertilidad, trastornos nerviosos y dolores en los músculos y en las articulaciones. También le puede hacer sentir irritable y afectar su capacidad para concentrarse y recordar. El plomo es especialmente peligroso para los niños. Un niño que ingiera grandes cantidades de plomo puede desarrollar anemia, dolor de estómago severo, debilidad muscular y daño cerebral. Incluso en niveles bajos, el plomo puede afectar el crecimiento físico y mental de un niño. Agencia para Sustancias Tóxicas y el Registro de Enfermedades</dc:description>
+<dc:description xml:lang="en">Lead is a metal that occurs naturally in the earth's crust. Lead can be found in all parts of our environment. Much of it comes from human activities such as mining and manufacturing. Lead used to be in paint; older houses may still have lead paint. You could be exposed to lead by Eating food or drinking water that contains lead. Water pipes in older homes may contain lead. Working in a job where lead is used Using lead in a hobby, such as making stained glass or lead-glazed pottery Using folk remedies such as herbs or foods that contain lead Breathing air, drinking water, eating food, or swallowing or touching dirt that contains lead can cause many health problems. Lead can affect almost every organ and system in your body. In adults, lead can increase blood pressure and cause infertility, nerve disorders, and muscle and joint pain. It can also make you irritable and affect your ability to concentrate and remember. Lead is especially dangerous for children. A child who swallows large amounts of lead may develop anemia, severe stomachache, muscle weakness, and brain damage. Even at low levels, lead can affect a child's mental and physical growth. Agency for Toxic Substances Disease Registry</dc:description>
+<dc:subject dcterms="mesh">Lead Poisoning</dc:subject>
+<dc:subject xml:lang="es">Envenenamiento con plomo</dc:subject>
+<dc:subject xml:lang="es">Plomo</dc:subject>
+<dc:subject xml:lang="es">Envenenamiento por</dc:subject>
+<dc:subject xml:lang="es">Intoxicación por plomo</dc:subject>
+<dc:subject xml:lang="en">Lead Poisoning</dc:subject>
+<dc:subject xml:lang="en">Plumbism</dc:subject>
+</metadata>
+</record>
+</MedlinePlus-document>

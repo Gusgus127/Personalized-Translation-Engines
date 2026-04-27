@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<MedlinePlus-document>
+<record>
+<header>
+<identifier>https://medlineplus.gov/noseinjuriesanddisorders.html</identifier>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title type="alternate" xml:lang="es">Problemas nasales</dc:title>
+<dc:title type="alternate" xml:lang="es">Nariz, Enfermedades de la</dc:title>
+<dc:title type="alternate" xml:lang="es">Nasales, Problemas</dc:title>
+<dc:title type="alternate" xml:lang="es">Sangrado de nariz</dc:title>
+<dc:title type="alternate" xml:lang="es">Nariz, Sangrado</dc:title>
+<dc:title type="alternate" xml:lang="es">Rinitis</dc:title>
+<dc:title type="alternate" xml:lang="es">Nariz, Lesiones</dc:title>
+<dc:title type="alternate" xml:lang="es">Enfermedades de la nariz</dc:title>
+<dc:title type="alternate" xml:lang="en">Nasal Disorders</dc:title>
+<dc:title type="alternate" xml:lang="en">Nosebleed</dc:title>
+<dc:type>Text</dc:type>
+<dc:language>spa</dc:language>
+<dc:language>eng</dc:language>
+<dc:title xml:lang="es">Lesiones y enfermedades de la nariz</dc:title>
+<dc:title xml:lang="en">Nose Injuries and Disorders</dc:title>
+<dc:publisher>National Library of Medicine</dc:publisher>
+<dc:relation type="IsPartOf">Ear, Nose and Throat</dc:relation>
+<dc:date type="created">2002-07-21</dc:date>
+<dc:date type="modified">2018-02-14</dc:date>
+<dc:identifier type="URL" xml:lang="es">https://medlineplus.gov/spanish/noseinjuriesanddisorders.html</dc:identifier>
+<dc:identifier type="URL" xml:lang="en">https://medlineplus.gov/noseinjuriesanddisorders.html</dc:identifier>
+<dc:description xml:lang="es">La nariz es importante para su salud. Esta filtra el aire que respira, eliminando el polvo, los gérmenes y los irritantes. Calienta y humedece el aire para evitar que los pulmones y los tubos que conducen a ellos se resequen. La nariz también contiene células nerviosas que ayudan al sentido del olfato. Cuando existe un problema en la nariz, todo el cuerpo puede sufrir. Por ejemplo, la nariz tapada por un resfrío puede dificultar la respiración, el sueño o el bienestar general. Además del resfrío, muchos otros problemas pueden afectar la nariz. Entre ellos: Tabique nasal desviado: es un desvío de la pared que divide la cavidad nasal en mitades Pólipos nasales: masas blandas que se desarrollan en la mucosa nasal o de los senos paranasales Hemorragias nasales Rinitis alérgica: inflamación de la nariz y de los senos paranasales, a veces causado por alergias. El principal síntoma es la secreción nasal. Fracturas</dc:description>
+<dc:description xml:lang="en">Your nose is important to your health. It filters the air you breathe, removing dust, germs, and irritants. It warms and moistens the air to keep your lungs and tubes that lead to them from drying out. Your nose also contains the nerve cells that help your sense of smell. When there is a problem with your nose, your whole body can suffer. For example, the stuffy nose of the common cold can make it hard for you to breathe, sleep, or get comfortable. Many problems besides the common cold can affect the nose. They include Deviated septum - a shifting of the wall that divides the nasal cavity into halves Nasal polyps - soft growths that develop on the lining of your nose or sinuses Nosebleeds Rhinitis - inflammation of the nose and sinuses sometimes caused by allergies. The main symptom is a runny nose. Nasal fractures, also known as a broken nose</dc:description>
+<dc:subject dcterms="mesh">Nose Diseases</dc:subject>
+<dc:subject xml:lang="es">Lesiones y enfermedades de la nariz</dc:subject>
+<dc:subject xml:lang="es">Problemas nasales</dc:subject>
+<dc:subject xml:lang="es">Nariz</dc:subject>
+<dc:subject xml:lang="es">Enfermedades de la</dc:subject>
+<dc:subject xml:lang="es">Nasales</dc:subject>
+<dc:subject xml:lang="es">Problemas</dc:subject>
+<dc:subject xml:lang="es">Sangrado de nariz</dc:subject>
+<dc:subject xml:lang="es">Nariz</dc:subject>
+<dc:subject xml:lang="es">Sangrado</dc:subject>
+<dc:subject xml:lang="es">Rinitis</dc:subject>
+<dc:subject xml:lang="es">Nariz</dc:subject>
+<dc:subject xml:lang="es">Lesiones</dc:subject>
+<dc:subject xml:lang="es">Enfermedades de la nariz</dc:subject>
+<dc:subject xml:lang="en">Nose Injuries and Disorders</dc:subject>
+<dc:subject xml:lang="en">Nasal Disorders</dc:subject>
+<dc:subject xml:lang="en">Nosebleed</dc:subject>
+</metadata>
+</record>
+</MedlinePlus-document>

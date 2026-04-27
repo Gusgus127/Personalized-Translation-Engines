@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<MedlinePlus-document>
+<record>
+<header>
+<identifier>https://medlineplus.gov/carbohydratemetabolismdisorders.html</identifier>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title type="alternate" xml:lang="es">Carbohidratos, Trastornos metabólicos de los</dc:title>
+<dc:title type="alternate" xml:lang="es">Hidratos de carbono, Trastornos metabólicos de los</dc:title>
+<dc:title type="alternate" xml:lang="en">Mucopolysaccharidoses</dc:title>
+<dc:type>Text</dc:type>
+<dc:language>spa</dc:language>
+<dc:language>eng</dc:language>
+<dc:title xml:lang="es">Trastornos del metabolismo de los carbohidratos</dc:title>
+<dc:title xml:lang="en">Carbohydrate Metabolism Disorders</dc:title>
+<dc:publisher>National Library of Medicine</dc:publisher>
+<dc:relation type="IsPartOf">Metabolic Problems</dc:relation>
+<dc:date type="created">2016-10-05</dc:date>
+<dc:date type="modified">2017-12-21</dc:date>
+<dc:identifier type="URL" xml:lang="es">https://medlineplus.gov/spanish/carbohydratemetabolismdisorders.html</dc:identifier>
+<dc:identifier type="URL" xml:lang="en">https://medlineplus.gov/carbohydratemetabolismdisorders.html</dc:identifier>
+<dc:description xml:lang="es">El metabolismo es el proceso que su cuerpo utiliza para producir energía a partir de los alimentos que consume. Los alimentos se componen de proteínas, carbohidratos y grasas. Los productos químicos en su sistema digestivo (enzimas) descomponen la comida en azúcares y ácidos, el combustible para su cuerpo. Usted puede utilizar este combustible en forma inmediata, o puede almacenarlo en sus tejidos corporales. Si usted tiene un trastorno metabólico, hay un problema en este proceso. Los trastornos del metabolismo de los carbohidratos son un grupo de trastornos metabólicos. En general, sus enzimas descomponen los carbohidratos en glucosa, un tipo de azúcar. Si usted tiene alguno de estos trastornos, puede que no tenga suficientes enzimas para descomponer los carbohidratos, o puede que las enzimas no funcionen en forma correcta. Esto hace que una cantidad dañina de azúcar se acumule en su organismo. Esto puede conducir a problemas de salud, incluso graves. Algunos de estos trastornos son fatales. Estos trastornos se heredan. Muchos bebés recién nacidos son sometidos a pruebas mediante análisis de sangre. Si hay historia familiar de uno de estos trastornos, los padres pueden obtener pruebas genéticas para ver si son portadores del gen. Otras pruebas genéticas pueden determinar si el feto tiene el trastorno o si es portador del gen del trastorno. Los tratamientos pueden incluir dietas especiales, suplementos y medicamentos. Algunos bebés también pueden necesitar tratamientos adicionales, si se presentan complicaciones. Para algunos trastornos no existe cura, pero los tratamientos pueden ayudar con los síntomas.</dc:description>
+<dc:description xml:lang="en">Metabolism is the process your body uses to make energy from the food you eat. Food is made up of proteins, carbohydrates, and fats. Chemicals in your digestive system (enzymes) break the food parts down into sugars and acids, your body's fuel. Your body can use this fuel right away, or it can store the energy in your body tissues. If you have a metabolic disorder, something goes wrong with this process. Carbohydrate metabolism disorders are a group of metabolic disorders. Normally your enzymes break carbohydrates down into glucose (a type of sugar). If you have one of these disorders, you may not have enough enzymes to break down the carbohydrates. Or the enzymes may not work properly. This causes a harmful amount of sugar to build up in your body. That can lead to health problems, some of which can be serious. Some of the disorders are fatal. These disorders are inherited. Newborn babies get screened for many of them, using blood tests. If there is a family history of one of these disorders, parents can get genetic testing to see whether they carry the gene. Other genetic tests can tell whether the fetus has the disorder or carries the gene for the disorder. Treatments may include special diets, supplements, and medicines. Some babies may also need additional treatments, if there are complications. For some disorders, there is no cure, but treatments may help with symptoms.</dc:description>
+<dc:subject dcterms="mesh">Carbohydrate Metabolism, Inborn Errors</dc:subject>
+<dc:subject xml:lang="es">Trastornos del metabolismo de los carbohidratos</dc:subject>
+<dc:subject xml:lang="es">Carbohidratos</dc:subject>
+<dc:subject xml:lang="es">Trastornos metabólicos de los</dc:subject>
+<dc:subject xml:lang="es">Hidratos de carbono</dc:subject>
+<dc:subject xml:lang="es">Trastornos metabólicos de los</dc:subject>
+<dc:subject xml:lang="en">Carbohydrate Metabolism Disorders</dc:subject>
+<dc:subject xml:lang="en">Mucopolysaccharidoses</dc:subject>
+</metadata>
+</record>
+</MedlinePlus-document>

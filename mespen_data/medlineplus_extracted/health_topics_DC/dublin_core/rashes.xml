@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<MedlinePlus-document>
+<record>
+<header>
+<identifier>https://medlineplus.gov/rashes.html</identifier>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:type>Text</dc:type>
+<dc:language>spa</dc:language>
+<dc:language>eng</dc:language>
+<dc:title xml:lang="es">Sarpullido</dc:title>
+<dc:title xml:lang="en">Rashes</dc:title>
+<dc:publisher>National Library of Medicine</dc:publisher>
+<dc:relation type="IsPartOf">Skin, Hair and Nails</dc:relation>
+<dc:date type="created">2002-07-21</dc:date>
+<dc:date type="modified">2018-01-03</dc:date>
+<dc:identifier type="URL" xml:lang="es">https://medlineplus.gov/spanish/rashes.html</dc:identifier>
+<dc:identifier type="URL" xml:lang="en">https://medlineplus.gov/rashes.html</dc:identifier>
+<dc:description xml:lang="es">Un sarpullido es un área en la piel que está irritada o inflamada. Muchos sarpullidos son rojos, dolorosos, irritados y pican. Algunos sarpullidos también pueden conducir a ampollas o partes de piel en carne viva. El sarpullido es un síntoma de muchos cuadros clínicos diferentes. Otras causas incluyen sustancias irritantes y alergias. Ciertos genes pueden hacer a las personas más propensas a estas erupciones. La dermatitis por contacto es un tipo común de sarpullido. Causa enrojecimiento, picazón y en ocasiones pequeñas protuberancias. Usted presenta la erupción tras haber tocado un irritante, como un producto químico, o algo a lo que usted es alérgico, como la hiedra venenosa. Algunos sarpullidos se desarrollan inmediatamente. Otros se forman en el transcurso de varios días. Aunque la mayoría de los sarpullidos desaparecen en forma rápida, otros toman tiempo y necesitan tratamiento de largo plazo. Debido a que los sarpullidos tienen muchas causas, es importante averiguar el tipo que usted tiene antes de tratarlo. Si es un sarpullido serio, si no mejora o si presenta otros síntomas, debe ver a su proveedor de salud. Los tratamientos incluyen humectantes, lociones, baños, cremas con cortisona que alivian la inflamación y antihistamínicos, los cuales alivian la picazón.</dc:description>
+<dc:description xml:lang="en">A rash is an area of irritated or swollen skin. Many rashes are itchy, red, painful, and irritated. Some rashes can also lead to blisters or patches of raw skin. Rashes are a symptom of many different medical problems. Other causes include irritating substances and allergies. Certain genes can make people more likely to get rashes. Contact dermatitis is a common type of rash. It causes redness, itching, and sometimes small bumps. You get the rash where you have touched an irritant, such as a chemical, or something you are allergic to, like poison ivy. Some rashes develop right away. Others form over several days. Although most rashes clear up fairly quickly, others are long-lasting and need long-term treatment. Because rashes can be caused by many different things, it's important to figure out what kind you have before you treat it. If it is a bad rash, if it does not go away, or if you have other symptoms, you should see your health care provider. Treatments may include moisturizers, lotions, baths, cortisone creams that relieve swelling, and antihistamines, which relieve itching.</dc:description>
+<dc:subject dcterms="mesh">Exanthema</dc:subject>
+<dc:subject xml:lang="es">Sarpullido</dc:subject>
+<dc:subject xml:lang="en">Rashes</dc:subject>
+<dc:subject xml:lang="en">Contact Dermatitis</dc:subject>
+<dc:subject xml:lang="en">Diaper Rash</dc:subject>
+<dc:subject xml:lang="en">Skin Rash</dc:subject>
+<dc:subject xml:lang="en">Dermatitis</dc:subject>
+</metadata>
+</record>
+</MedlinePlus-document>

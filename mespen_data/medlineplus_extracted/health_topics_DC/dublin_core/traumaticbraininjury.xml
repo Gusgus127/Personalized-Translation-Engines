@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<MedlinePlus-document>
+<record>
+<header>
+<identifier>https://medlineplus.gov/traumaticbraininjury.html</identifier>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title type="alternate" xml:lang="es">Trauma cerebral</dc:title>
+<dc:title type="alternate" xml:lang="es">Trauma del cráneo</dc:title>
+<dc:title type="alternate" xml:lang="es">Cerebro, Trauma</dc:title>
+<dc:title type="alternate" xml:lang="es">Bebé sacudido, Síndrome</dc:title>
+<dc:title type="alternate" xml:lang="es">Síndrome de bebé sacudido</dc:title>
+<dc:title type="alternate" xml:lang="es">Traumatismo cerebral y de cabeza</dc:title>
+<dc:title type="alternate" xml:lang="es">Traumatismo craneoencefálico</dc:title>
+<dc:title type="alternate" xml:lang="en">TBI</dc:title>
+<dc:type>Text</dc:type>
+<dc:language>spa</dc:language>
+<dc:language>eng</dc:language>
+<dc:title xml:lang="es">Lesión cerebral traumática</dc:title>
+<dc:title xml:lang="en">Traumatic Brain Injury</dc:title>
+<dc:publisher>National Library of Medicine</dc:publisher>
+<dc:relation type="IsPartOf">Brain and Nerves</dc:relation>
+<dc:relation type="IsPartOf">Injuries and Wounds</dc:relation>
+<dc:date type="created">2002-07-21</dc:date>
+<dc:date type="modified">2018-01-19</dc:date>
+<dc:identifier type="URL" xml:lang="es">https://medlineplus.gov/spanish/traumaticbraininjury.html</dc:identifier>
+<dc:identifier type="URL" xml:lang="en">https://medlineplus.gov/traumaticbraininjury.html</dc:identifier>
+<dc:description xml:lang="es">La lesión cerebral traumática ocurre cuando un golpe, impacto, sacudida u otra lesión en la cabeza causa daño al cerebro. Cada año, millones de personas en los Estados Unidos sufren lesiones cerebrales. Más de la mitad son lo suficientemente serias como para terminar en el hospital. Las lesiones más graves pueden causar daño cerebral permanente o la muerte. La mitad de todas las lesiones cerebrales traumáticas se deben a accidentes de tránsito. El personal militar en las zonas de combate también está en riesgo. Los síntomas de una lesión cerebral traumática pueden no aparecer hasta días o semanas después del golpe. Una conmoción cerebral es el tipo más leve. Puede causar dolor de cabeza o de cuello, náuseas, zumbidos en los oídos, mareos y cansancio. Las personas con una lesión cerebral moderada o grave pueden tener estos y otros síntomas: Dolor de cabeza que empeora o no desaparece Vómitos o náuseas repetidos Convulsiones Incapacidad para despertar del sueño Problemas para hablar Debilidad o entumecimiento en los brazos y las piernas Pupilas dilatadas Los proveedores de salud utilizan un examen neurológico y pruebas de imagen para evaluar las lesiones cerebrales traumáticas. Las graves necesitan tratamiento de emergencia. El tratamiento y los resultados dependen de su gravedad. La lesión puede causar una amplia gama de cambios que afectan el pensamiento, la sensación, el lenguaje o las emociones. También puede estar asociada con el trastorno de estrés postraumático. Las personas con lesiones graves suelen necesitar rehabilitación. NIH: Instituto Nacional de Trastornos Neurológicos y Accidentes Cerebrovasculares</dc:description>
+<dc:description xml:lang="en">Traumatic brain injury (TBI) happens when a bump, blow, jolt, or other head injury causes damage to the brain. Every year, millions of people in the U.S. suffer brain injuries. More than half are bad enough that people must go to the hospital. The worst injuries can lead to permanent brain damage or death. Half of all TBIs are from motor vehicle accidents. Military personnel in combat zones are also at risk. Symptoms of a TBI may not appear until days or weeks following the injury. A concussion is the mildest type. It can cause a headache or neck pain, nausea, ringing in the ears, dizziness, and tiredness. People with a moderate or severe TBI may have those, plus other symptoms: A headache that gets worse or does not go away Repeated vomiting or nausea Convulsions or seizures Inability to awaken from sleep Slurred speech Weakness or numbness in the arms and legs Dilated eye pupils Health care professionals use a neurological exam and imaging tests to assess TBI. Serious traumatic brain injuries need emergency treatment. Treatment and outcome depend on how severe the injury is. TBI can cause a wide range of changes affecting thinking, sensation, language, or emotions. TBI can be associated with post-traumatic stress disorder. People with severe injuries usually need rehabilitation. NIH: National Institute of Neurological Disorders and Stroke</dc:description>
+<dc:subject dcterms="mesh">Brain Injuries, Traumatic</dc:subject>
+<dc:subject xml:lang="es">Lesión cerebral traumática</dc:subject>
+<dc:subject xml:lang="es">Trauma cerebral</dc:subject>
+<dc:subject xml:lang="es">Trauma del cráneo</dc:subject>
+<dc:subject xml:lang="es">Cerebro</dc:subject>
+<dc:subject xml:lang="es">Trauma</dc:subject>
+<dc:subject xml:lang="es">Bebé sacudido</dc:subject>
+<dc:subject xml:lang="es">Síndrome</dc:subject>
+<dc:subject xml:lang="es">Síndrome de bebé sacudido</dc:subject>
+<dc:subject xml:lang="es">Traumatismo cerebral y de cabeza</dc:subject>
+<dc:subject xml:lang="es">Traumatismo craneoencefálico</dc:subject>
+<dc:subject xml:lang="en">Traumatic Brain Injury</dc:subject>
+<dc:subject xml:lang="en">TBI</dc:subject>
+</metadata>
+</record>
+</MedlinePlus-document>

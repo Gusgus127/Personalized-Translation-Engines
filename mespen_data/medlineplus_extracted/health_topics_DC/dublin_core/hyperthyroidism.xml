@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<MedlinePlus-document>
+<record>
+<header>
+<identifier>https://medlineplus.gov/hyperthyroidism.html</identifier>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title type="alternate" xml:lang="es">Tiroides, Hiperfunción</dc:title>
+<dc:title type="alternate" xml:lang="en">Graves' Disease</dc:title>
+<dc:title type="alternate" xml:lang="en">Basedow's Disease</dc:title>
+<dc:title type="alternate" xml:lang="en">Overactive Thyroid</dc:title>
+<dc:title type="alternate" xml:lang="en">Thyrotoxicosis</dc:title>
+<dc:type>Text</dc:type>
+<dc:language>spa</dc:language>
+<dc:language>eng</dc:language>
+<dc:title xml:lang="es">Hipertiroidismo</dc:title>
+<dc:title xml:lang="en">Hyperthyroidism</dc:title>
+<dc:publisher>National Library of Medicine</dc:publisher>
+<dc:relation type="IsPartOf">Endocrine System</dc:relation>
+<dc:date type="created">2014-01-02</dc:date>
+<dc:date type="modified">2017-11-13</dc:date>
+<dc:identifier type="URL" xml:lang="es">https://medlineplus.gov/spanish/hyperthyroidism.html</dc:identifier>
+<dc:identifier type="URL" xml:lang="en">https://medlineplus.gov/hyperthyroidism.html</dc:identifier>
+<dc:description xml:lang="es">La tiroides es una glándula con forma de mariposa que está en el cuello, ubicada encima de la clavícula. Es una de las glándulas endocrinas que producen hormonas. Las hormonas tiroideas controlan el ritmo de muchas actividades en su cuerpo. Estas incluyen la rapidez con que usted quema calorías y la rapidez con que su corazón late. Todas estas actividades son parte del metabolismo de su cuerpo. Si su tiroides está demasiado activa, produce más hormonas tiroideas de las que su cuerpo necesita. Esto se llama hipertiroidismo. El hipertiroidismo es más común en las mujeres, en las personas con otros problemas de la tiroides y en las personas mayores de 60 años de edad. La enfermedad de Grave, un trastorno autoinmune, es la causa más común. Otras causas incluyen los nódulos tiroideos, la tiroiditis, el consumo excesivo de yodo y tomar demasiada hormona tiroidea sintética. Los síntomas pueden variar de persona a persona. Estos pueden incluir Estar nervioso o irritado Cambios de humor Fatiga o debilidad muscular Intolerancia al calor Problemas para dormir Temblor en las manos Latidos cardiacos rápidos o irregulares Movimientos intestinales frecuentes o diarrea Pérdida de peso Bocio, lo cual es una tiroides agrandada que puede causar que el cuello parezca hinchado Para diagnosticar el hipertiroidismo, el médico le examinará, analizará sus síntomas y realizará pruebas para la tiroides. El tratamiento se realiza con medicamentos, terapia con yodo radiactivo o cirugía de tiroides. Estos tratamientos funcionan de diferente manera para cada persona. NIH: Instituto Nacional de la Diabetes y las Enfermedades Digestivas y Renales</dc:description>
+<dc:description xml:lang="en">Your thyroid is a butterfly-shaped gland in your neck, just above your collarbone. It is one of your endocrine glands, which make hormones. Thyroid hormones control the rate of many activities in your body. These include how fast you burn calories and how fast your heart beats. All of these activities are your body's metabolism. If your thyroid is too active, it makes more thyroid hormones than your body needs. This is called hyperthyroidism. Hyperthyroidism is more common in women, people with other thyroid problems, and those over 60 years old. Graves' disease, an autoimmune disorder, is the most common cause. Other causes include thyroid nodules, thyroiditis, consuming too much iodine, and taking too much synthetic thyroid hormone. The symptoms can vary from person to person. They may include Being nervous or irritable Mood swings Fatigue or muscle weakness Heat intolerance Trouble sleeping Hand tremors Rapid and irregular heartbeat Frequent bowel movements or diarrhea Weight loss Goiter, which is an enlarged thyroid that may cause the neck to look swollen To diagnose hyperthyroidism, your doctor will do a physical exam, look at your symptoms, and do thyroid tests. Treatment is with medicines, radioiodine therapy, or thyroid surgery. No single treatment works for everyone. NIH: National Institute of Diabetes and Digestive and Kidney Diseases</dc:description>
+<dc:subject dcterms="mesh">Hyperthyroidism</dc:subject>
+<dc:subject xml:lang="es">Hipertiroidismo</dc:subject>
+<dc:subject xml:lang="es">Tiroides</dc:subject>
+<dc:subject xml:lang="es">Hiperfunción</dc:subject>
+<dc:subject xml:lang="en">Hyperthyroidism</dc:subject>
+<dc:subject xml:lang="en">Graves' Disease</dc:subject>
+<dc:subject xml:lang="en">Basedow's Disease</dc:subject>
+<dc:subject xml:lang="en">Overactive Thyroid</dc:subject>
+<dc:subject xml:lang="en">Thyrotoxicosis</dc:subject>
+</metadata>
+</record>
+</MedlinePlus-document>

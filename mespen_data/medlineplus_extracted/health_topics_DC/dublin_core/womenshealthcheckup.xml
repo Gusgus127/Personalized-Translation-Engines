@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<MedlinePlus-document>
+<record>
+<header>
+<identifier>https://medlineplus.gov/womenshealthcheckup.html</identifier>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title type="alternate" xml:lang="es">Mujer, Chequeo médico</dc:title>
+<dc:title type="alternate" xml:lang="es">Exámenes ginecológicos</dc:title>
+<dc:title type="alternate" xml:lang="es">Ginecológicos, Exámenes</dc:title>
+<dc:title type="alternate" xml:lang="en">Pelvic Exam</dc:title>
+<dc:type>Text</dc:type>
+<dc:language>spa</dc:language>
+<dc:language>eng</dc:language>
+<dc:title xml:lang="es">Chequeo médico de la mujer</dc:title>
+<dc:title xml:lang="en">Women's Health Checkup</dc:title>
+<dc:publisher>National Library of Medicine</dc:publisher>
+<dc:relation type="IsPartOf">Wellness and Lifestyle</dc:relation>
+<dc:relation type="IsPartOf">Women</dc:relation>
+<dc:date type="created">2010-01-08</dc:date>
+<dc:date type="modified">2018-01-11</dc:date>
+<dc:identifier type="URL" xml:lang="es">https://medlineplus.gov/spanish/womenshealthcheckup.html</dc:identifier>
+<dc:identifier type="URL" xml:lang="en">https://medlineplus.gov/womenshealthcheckup.html</dc:identifier>
+<dc:description xml:lang="es">Hacerse exámenes y tests con frecuencia puede ayudar a encontrar problemas antes de que comiencen. También pueden encontrarlos antes, cuando las posibilidades de tratamiento son mejores. Como mujer, usted necesita algunos chequeos y exámenes especiales. Durante su examen, su proveedor de cuidados generalmente hará lo siguiente: Un examen pélvico: un examen para palpar si los órganos femeninos son normales y del tamaño adecuado Un pap: un examen para detectar cáncer cervical. El cérvix es la abertura hacia el útero. Se extraen células del útero para analizarlas bajo un microscopio. Un examen clínico de mamas: para detectar si hay cáncer de seno palpando y examinando sus pechos. Su proveedor de servicios médicos quizás recomiende otros exámenes que pueden incluir una mamografía o un test de VPH (virus del papiloma humano).</dc:description>
+<dc:description xml:lang="en">Regular health exams and tests can help find problems before they start. They also can help find problems early, when your chances for treatment are better. As a woman, you need some special exams and screenings. During your checkup, your health care provider will usually do: A pelvic exam - an exam to check if internal female organs are normal by feeling their shape and size. A Pap test - a test to check for cancer of the cervix, the opening to a woman's uterus. Cells from the cervix are examined under a microscope. A clinical breast exam - to check for breast cancer by feeling and looking at your breasts. Your health care provider may also recommend other tests, including a mammogram or a test for HPV.</dc:description>
+<dc:subject dcterms="mesh">Women's Health</dc:subject>
+<dc:subject dcterms="mesh">Physical Examination</dc:subject>
+<dc:subject xml:lang="es">Chequeo médico de la mujer</dc:subject>
+<dc:subject xml:lang="es">Mujer</dc:subject>
+<dc:subject xml:lang="es">Chequeo médico</dc:subject>
+<dc:subject xml:lang="es">Exámenes ginecológicos</dc:subject>
+<dc:subject xml:lang="es">Ginecológicos</dc:subject>
+<dc:subject xml:lang="es">Exámenes</dc:subject>
+<dc:subject xml:lang="en">Women's Health Checkup</dc:subject>
+<dc:subject xml:lang="en">Pelvic Exam</dc:subject>
+</metadata>
+</record>
+</MedlinePlus-document>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<MedlinePlus-document>
+<record>
+<header>
+<identifier>https://medlineplus.gov/pneumococcalinfections.html</identifier>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title type="alternate" xml:lang="es">Neumococo, Infecciones por</dc:title>
+<dc:title type="alternate" xml:lang="en">Streptococcus Pneumoniae Infections</dc:title>
+<dc:type>Text</dc:type>
+<dc:language>spa</dc:language>
+<dc:language>eng</dc:language>
+<dc:title xml:lang="es">Infecciones por neumococo</dc:title>
+<dc:title xml:lang="en">Pneumococcal Infections</dc:title>
+<dc:publisher>National Library of Medicine</dc:publisher>
+<dc:relation type="IsPartOf">Infections</dc:relation>
+<dc:date type="created">2010-11-24</dc:date>
+<dc:date type="modified">2017-11-08</dc:date>
+<dc:identifier type="URL" xml:lang="es">https://medlineplus.gov/spanish/pneumococcalinfections.html</dc:identifier>
+<dc:identifier type="URL" xml:lang="en">https://medlineplus.gov/pneumococcalinfections.html</dc:identifier>
+<dc:description xml:lang="es">El neumococo es un tipo de bacteria estreptocócica. La bacteria se disemina a través del contacto con personas que están infectadas o con personas que no están enfermas pero que portan la bacteria en la parte posterior de su nariz. Las infecciones neumocócicas pueden ser leves o graves. Las infecciones más comunes son Infecciones del oído Sinusitis Neumonía Sepsis Meningitis El tratamiento es con antibióticos. Las vacunas previenen las infecciones por neumococo. Existen dos vacunas. Una para recién nacidos y niños pequeños. La otra es para personas en riesgo, incluyendo aquellas personas mayores de 65 años o que padecen de una enfermedad crónica o que tienen un sistema inmune debilitado o que fuman o tienen asma o viven en residencias de cuidado. Centros para el Control y la Prevención de Enfermedades</dc:description>
+<dc:description xml:lang="en">Pneumococci are a type of streptococcus bacteria. The bacteria spread through contact with people who are ill or by healthy people who carry the bacteria in the back of their nose. Pneumococcal infections can be mild or severe. The most common types of infections are Ear infections Sinus infections Pneumonia Sepsis Meningitis How the diagnosis is made depends upon where the infection is. Your doctor will do a physical exam and health history. Possible tests may include blood, imaging, or lab tests. Treatment is with antibiotics. Vaccines can prevent pneumococcal infections. There are two vaccines. One is for infants and young children. The other is for people at high risk, including those who are over 65 years old, have chronic illnesses or weak immune systems, smoke, have asthma, or live in long-term care facilities. Centers for Disease Control and Prevention</dc:description>
+<dc:subject dcterms="mesh">Pneumococcal Infections</dc:subject>
+<dc:subject xml:lang="es">Infecciones por neumococo</dc:subject>
+<dc:subject xml:lang="es">Neumococo</dc:subject>
+<dc:subject xml:lang="es">Infecciones por</dc:subject>
+<dc:subject xml:lang="en">Pneumococcal Infections</dc:subject>
+<dc:subject xml:lang="en">Streptococcus Pneumoniae Infections</dc:subject>
+</metadata>
+</record>
+</MedlinePlus-document>

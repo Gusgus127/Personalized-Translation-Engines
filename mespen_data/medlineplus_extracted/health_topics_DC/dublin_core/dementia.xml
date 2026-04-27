@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<MedlinePlus-document>
+<record>
+<header>
+<identifier>https://medlineplus.gov/dementia.html</identifier>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title type="alternate" xml:lang="es">Senilidad</dc:title>
+<dc:title type="alternate" xml:lang="en">Senility</dc:title>
+<dc:type>Text</dc:type>
+<dc:language>spa</dc:language>
+<dc:language>eng</dc:language>
+<dc:title xml:lang="es">Demencia</dc:title>
+<dc:title xml:lang="en">Dementia</dc:title>
+<dc:publisher>National Library of Medicine</dc:publisher>
+<dc:relation type="IsPartOf">Mental Health and Behavior</dc:relation>
+<dc:relation type="IsPartOf">Seniors</dc:relation>
+<dc:relation type="IsPartOf">Brain and Nerves</dc:relation>
+<dc:date type="created">2002-07-21</dc:date>
+<dc:date type="modified">2018-01-19</dc:date>
+<dc:identifier type="URL" xml:lang="es">https://medlineplus.gov/spanish/dementia.html</dc:identifier>
+<dc:identifier type="URL" xml:lang="en">https://medlineplus.gov/dementia.html</dc:identifier>
+<dc:description xml:lang="es">Demencia es el nombre que designa a un grupo de síntomas causados por trastornos que afectan el cerebro. No es una enfermedad específica. Las personas con demencia pueden dejar de ser capaces de pensar lo suficientemente bien para llevar a cabo las actividades normales, tales como vestirse o comer. Pueden perder su capacidad para resolver problemas o controlar sus emociones. Puede haber cambios de personalidad. Los pacientes pueden estar agitados o ver cosas que no existen. La pérdida de la memoria es un síntoma común de demencia. Sin embargo, la pérdida de la memoria en sí no quiere decir que usted tiene demencia. Las personas con demencia tienen problemas serios con dos o más funciones cerebrales, tales como la memoria y el lenguaje. Aunque la demencia es común en personas mayores, no es parte normal del envejecimiento. Muchas enfermedades diferentes pueden causar demencia, incluyendo la enfermedad de Alzheimer y el derrame cerebral (ACV). Existen medicamentos que se encuentran disponibles para tratar estas enfermedades. Aunque estas medicinas no pueden curar la demencia o reparar el daño cerebral, pueden mejorar los síntomas o hacer más lento el avance de la enfermedad. NIH: Instituto Nacional de Trastornos Neurológicos y Accidentes Cerebrovasculares</dc:description>
+<dc:description xml:lang="en">Dementia is the name for a group of symptoms caused by disorders that affect the brain. It is not a specific disease. People with dementia may not be able to think well enough to do normal activities, such as getting dressed or eating. They may lose their ability to solve problems or control their emotions. Their personalities may change. They may become agitated or see things that are not there. Memory loss is a common symptom of dementia. However, memory loss by itself does not mean you have dementia. People with dementia have serious problems with two or more brain functions, such as memory and language. Although dementia is common in very elderly people, it is not part of normal aging. Many different diseases can cause dementia, including Alzheimer's disease and stroke. Drugs are available to treat some of these diseases. While these drugs cannot cure dementia or repair brain damage, they may improve symptoms or slow down the disease. NIH: National Institute of Neurological Disorders and Stroke</dc:description>
+<dc:subject dcterms="mesh">Dementia</dc:subject>
+<dc:subject xml:lang="es">Demencia</dc:subject>
+<dc:subject xml:lang="es">Senilidad</dc:subject>
+<dc:subject xml:lang="en">Dementia</dc:subject>
+<dc:subject xml:lang="en">Senility</dc:subject>
+</metadata>
+</record>
+</MedlinePlus-document>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<MedlinePlus-document>
+<record>
+<header>
+<identifier>https://medlineplus.gov/kaposisarcoma.html</identifier>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:type>Text</dc:type>
+<dc:language>spa</dc:language>
+<dc:language>eng</dc:language>
+<dc:title xml:lang="es">Sarcoma de Kaposi</dc:title>
+<dc:title xml:lang="en">Kaposi Sarcoma</dc:title>
+<dc:publisher>National Library of Medicine</dc:publisher>
+<dc:relation type="IsPartOf">Skin, Hair and Nails</dc:relation>
+<dc:relation type="IsPartOf">Cancers</dc:relation>
+<dc:date type="created">2002-07-21</dc:date>
+<dc:date type="modified">2017-09-19</dc:date>
+<dc:identifier type="URL" xml:lang="es">https://medlineplus.gov/spanish/kaposisarcoma.html</dc:identifier>
+<dc:identifier type="URL" xml:lang="en">https://medlineplus.gov/kaposisarcoma.html</dc:identifier>
+<dc:description xml:lang="es">El sarcoma de Kaposi es un cáncer que produce parches de tejido anormal que crecen debajo de la piel, en el revestimiento de la boca, la nariz y la garganta, en los ganglios linfáticos o en otros órganos. Por lo general, estos parches o lesiones son de color rojo o púrpura. Están hechos de células cancerosas, vasos sanguíneos y células sanguíneas. El sarcoma de Kaposi es causado por la infección con el virus del herpes humano 8 (VHH-8). La mayoría de las personas infectadas con el VHH-8 no desarrollan sarcoma de Kaposi. Por lo general ocurre en: Personas con sistemas inmunitarios débiles, debido al VIH/SIDA, medicamentos que se toman después de un trasplante de órganos u otra enfermedad Hombres mayores de ascendencia judía o mediterránea Hombres jóvenes en África Las lesiones en la piel pueden no causar síntomas. Sin embargo, pueden propagarse a otras partes del cuerpo, especialmente en personas con VIH/SIDA. Si se propagan en el tracto digestivo o los pulmones, pueden causar sangrado. Las lesiones en los pulmones también pueden dificultar la respiración. El tratamiento depende del lugar donde se ubican las lesiones y su gravedad. Las opciones incluyen radioterapia, cirugía, quimioterapia y terapia biológica. Las personas con VIH/SIDA también toman medicamentos contra el VIH/SIDA. NIH: Instituto Nacional del Cáncer</dc:description>
+<dc:description xml:lang="en">Kaposi sarcoma (KS) is a cancer that causes patches of abnormal tissue to grow under the skin, in the lining of the mouth, nose, and throat, in lymph nodes, or in other organs. These patches, or lesions, are usually red or purple. They are made of cancer cells, blood vessels, and blood cells. KS is caused by infection with human herpesvirus-8 (HHV-8). Most people infected with HHV-8 don't get KS. It usually happens in People with weak immune systems, due to HIV/AIDS, drugs taken after an organ transplant, or another disease Older men of Jewish or Mediterranean descent Young men in Africa The skin lesions may not cause symptoms. But they can spread to other parts of the body, especially in people with HIV/AIDS. If they spread to the digestive tract or lungs, they can cause bleeding. Lesions on the lungs can also make it hard to breathe. Treatment depends on where the lesions are and how bad they are. Options include radiation therapy, surgery, chemotherapy, and biologic therapy. People with HIV/AIDS also take HIV/AIDS Medicines. NIH: National Cancer Institute</dc:description>
+<dc:subject dcterms="mesh">Sarcoma, Kaposi</dc:subject>
+<dc:subject xml:lang="es">Sarcoma de Kaposi</dc:subject>
+<dc:subject xml:lang="en">Kaposi Sarcoma</dc:subject>
+</metadata>
+</record>
+</MedlinePlus-document>

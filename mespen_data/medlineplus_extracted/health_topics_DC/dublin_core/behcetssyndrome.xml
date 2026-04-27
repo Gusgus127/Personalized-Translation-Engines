@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<MedlinePlus-document>
+<record>
+<header>
+<identifier>https://medlineplus.gov/behcetssyndrome.html</identifier>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title type="alternate" xml:lang="es">Behcet, Síndrome</dc:title>
+<dc:type>Text</dc:type>
+<dc:language>spa</dc:language>
+<dc:language>eng</dc:language>
+<dc:title xml:lang="es">Síndrome de Behcet</dc:title>
+<dc:title xml:lang="en">Behcet's Syndrome</dc:title>
+<dc:publisher>National Library of Medicine</dc:publisher>
+<dc:relation type="IsPartOf">Eyes and Vision</dc:relation>
+<dc:relation type="IsPartOf">Mouth and Teeth</dc:relation>
+<dc:relation type="IsPartOf">Blood, Heart and Circulation</dc:relation>
+<dc:relation type="IsPartOf">Skin, Hair and Nails</dc:relation>
+<dc:date type="created">2008-09-22</dc:date>
+<dc:date type="modified">2017-10-11</dc:date>
+<dc:identifier type="URL" xml:lang="es">https://medlineplus.gov/spanish/behcetssyndrome.html</dc:identifier>
+<dc:identifier type="URL" xml:lang="en">https://medlineplus.gov/behcetssyndrome.html</dc:identifier>
+<dc:description xml:lang="es">El síndrome de Behcet es una enfermedad que se caracteriza por la inflamación de los vasos sanguíneos y que causa problemas en muchas partes del cuerpo. Los síntomas más comunes son: Llagas en la boca Llagas en los órganos sexuales Llagas en otras regiones de la piel Hinchazón de ciertas partes del ojo Dolor, hinchazón y rigidez de las articulaciones Los problemas más serios pueden incluir meningitis, coágulos sanguíneos, inflamación del sistema digestivo y ceguera. Los médicos no están seguros de cuál es la causa del síndrome de Behcet. Es poco frecuente en Estados Unidos, pero es común en el Medio Oriente y Asia. Afecta principalmente a las personas entre los 20 y los 30 años de edad. El diagnóstico puede tomarse mucho tiempo, ya que los síntomas pueden aparecer y desaparecer y quizá pueden pasar meses o años hasta que aparezcan todos los síntomas. No existe una cura. El tratamiento se enfoca en la disminución del dolor y la prevención de los problemas más graves. La mayoría de las personas pueden controlar los síntomas con el tratamiento. NIH: Instituto Nacional de Artritis y Enfermedades Musculoesqueléticas y de la Piel</dc:description>
+<dc:description xml:lang="en">Behcet's syndrome is a disease that involves vasculitis, which is inflammation of the blood vessels. It causes problems in many parts of the body. The most common symptoms are Sores in the mouth Sores on the sex organs Other skin sores Swelling of parts of the eye Pain, swelling and stiffness of the joints More serious problems can include meningitis, blood clots, inflammation of the digestive system and blindness. Doctors aren't sure what causes Behcet's. It is rare in the United States, but is common in the Middle East and Asia. It mainly affects people in their 20s and 30s. Diagnosing Behcet's can take a long time, because symptoms may come and go, and it may take months or even years to have all of the symptoms. There is no cure. Treatment focuses on reducing pain and preventing serious problems. Most people can control symptoms with treatment. NIH: National Institute of Arthritis and Musculoskeletal and Skin Diseases</dc:description>
+<dc:subject dcterms="mesh">Behcet Syndrome</dc:subject>
+<dc:subject xml:lang="es">Síndrome de Behcet</dc:subject>
+<dc:subject xml:lang="es">Behcet</dc:subject>
+<dc:subject xml:lang="es">Síndrome</dc:subject>
+<dc:subject xml:lang="en">Behcet's Syndrome</dc:subject>
+</metadata>
+</record>
+</MedlinePlus-document>

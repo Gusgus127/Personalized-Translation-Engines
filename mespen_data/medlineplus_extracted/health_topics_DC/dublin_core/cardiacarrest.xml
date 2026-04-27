@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<MedlinePlus-document>
+<record>
+<header>
+<identifier>https://medlineplus.gov/cardiacarrest.html</identifier>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:type>Text</dc:type>
+<dc:language>spa</dc:language>
+<dc:language>eng</dc:language>
+<dc:title xml:lang="es">Paro cardíaco</dc:title>
+<dc:title xml:lang="en">Cardiac Arrest</dc:title>
+<dc:publisher>National Library of Medicine</dc:publisher>
+<dc:relation type="IsPartOf">Blood, Heart and Circulation</dc:relation>
+<dc:date type="created">2006-06-06</dc:date>
+<dc:date type="modified">2018-02-07</dc:date>
+<dc:identifier type="URL" xml:lang="es">https://medlineplus.gov/spanish/cardiacarrest.html</dc:identifier>
+<dc:identifier type="URL" xml:lang="en">https://medlineplus.gov/cardiacarrest.html</dc:identifier>
+<dc:description xml:lang="es">El corazón tiene un sistema eléctrico interno que controla el ritmo de los latidos cardíacos. Ciertos problemas pueden causar ritmos cardíacos anormales llamados arritmias. Existen muchos tipos de éstas. Durante una arritmia, el corazón puede latir demasiado lento, demasiado rápido o dejar de latir. Cuando el corazón desarrolla una arritmia donde este deja de latir, se produce un paro cardíaco súbito. Es distinto de un ataque al corazón (infarto), en el que el corazón suele continuar latiendo pero el flujo sanguíneo hacia el órgano se encuentra bloqueado. Hay muchas causas posibles de paro cardíaco. Entre ellas, la enfermedad cardíaca coronaria, estrés físico y algunas condiciones genéticas. Pero, a veces, no es posible saber la causa. Sin atención médica, la persona morirá en pocos minutos. Las personas tienen más posibilidades de sobrevivir si reciben desfibrilación rápidamente. La desfibrilación envía un choque eléctrico para restaurar el ritmo cardíaco normal. La persona que está sufriendo un paro debería recibir resucitación cardiopulmonar (RCP) hasta que la desfibrilación esté disponible. Las personas que han tenido un paro cardíaco pueden beneficiarse con un desfibrilador implantable. Esto disminuye el riesgo de morir a causa de un segundo paro cardíaco. NIH: Instituto Nacional del Corazón, los Pulmones y la Sangre</dc:description>
+<dc:description xml:lang="en">The heart has an internal electrical system that controls the rhythm of the heartbeat. Problems can cause abnormal heart rhythms, called arrhythmias. There are many types of arrhythmia. During an arrhythmia, the heart can beat too fast, too slow, or it can stop beating. Sudden cardiac arrest (SCA) occurs when the heart develops an arrhythmia that causes it to stop beating. This is different than a heart attack, where the heart usually continues to beat but blood flow to the heart is blocked. There are many possible causes of SCA. They include coronary heart disease, physical stress, and some inherited disorders. Sometimes there is no known cause for the SCA. Without medical attention, the person will die within a few minutes. People are less likely to die if they have early defibrillation. Defibrillation sends an electric shock to restore the heart rhythm to normal. You should give cardiopulmonary resuscitation (CPR) to a person having SCA until defibrillation can be done. If you have had an SCA, an implantable cardiac defibrillator (ICD) reduces the chance of dying from a second SCA. NIH: National Heart, Lung, and Blood Institute</dc:description>
+<dc:subject dcterms="mesh">Heart Arrest</dc:subject>
+<dc:subject xml:lang="es">Paro cardíaco</dc:subject>
+<dc:subject xml:lang="en">Cardiac Arrest</dc:subject>
+<dc:subject xml:lang="en">Automated External Defibrillators</dc:subject>
+<dc:subject xml:lang="en">Sudden Cardiac Death</dc:subject>
+<dc:subject xml:lang="en">SCA</dc:subject>
+</metadata>
+</record>
+</MedlinePlus-document>

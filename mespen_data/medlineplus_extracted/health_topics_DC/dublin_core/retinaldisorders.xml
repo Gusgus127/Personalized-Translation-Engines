@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<MedlinePlus-document>
+<record>
+<header>
+<identifier>https://medlineplus.gov/retinaldisorders.html</identifier>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title type="alternate" xml:lang="es">Retina, Enfermedades de la</dc:title>
+<dc:title type="alternate" xml:lang="es">Flotadores</dc:title>
+<dc:title type="alternate" xml:lang="es">Manchas flotantes y centelleos</dc:title>
+<dc:title type="alternate" xml:lang="es">Retinopatia</dc:title>
+<dc:title type="alternate" xml:lang="es">Desgarro retiniano</dc:title>
+<dc:title type="alternate" xml:lang="en">Floater</dc:title>
+<dc:type>Text</dc:type>
+<dc:language>spa</dc:language>
+<dc:language>eng</dc:language>
+<dc:title xml:lang="es">Enfermedades de la retina</dc:title>
+<dc:title xml:lang="en">Retinal Disorders</dc:title>
+<dc:publisher>National Library of Medicine</dc:publisher>
+<dc:relation type="IsPartOf">Eyes and Vision</dc:relation>
+<dc:date type="created">2002-07-21</dc:date>
+<dc:date type="modified">2017-08-24</dc:date>
+<dc:identifier type="URL" xml:lang="es">https://medlineplus.gov/spanish/retinaldisorders.html</dc:identifier>
+<dc:identifier type="URL" xml:lang="en">https://medlineplus.gov/retinaldisorders.html</dc:identifier>
+<dc:description xml:lang="es">La retina es una capa de tejido en la parte posterior del ojo que percibe la luz y envía las imágenes al cerebro. En el centro de este tejido nervioso se encuentra la mácula. Provee la capacidad de enfoque central y la agudeza necesaria para leer, conducir y ver en forma clara los detalles. Las enfermedades de la retina afectan este importante tejido. Puede afectarle la vista y algunas son lo suficientemente graves como para causar ceguera. Algunos ejemplos son: Degeneración macular: Enfermedad que destruye la agudeza de la visión central Enfermedad diabética del ojo Desprendimiento de retina: Urgencia médica que ocurre cuando la retina se despega de la parte posterior del ojo Retinoblastoma: Cáncer de la retina. Es más común en niños pequeños Membrana epirretínica: Tejido cicatricial en la mácula Agujero macular: Pequeña ruptura en la mácula que suele ocurrir en personas mayores de 60 años Cuerpos flotantes: Telarañas o pequeñas manchas en el campo de la vista NIH: Instituto Nacional del Ojo</dc:description>
+<dc:description xml:lang="en">The retina is a layer of tissue in the back of your eye that senses light and sends images to your brain. In the center of this nerve tissue is the macula. It provides the sharp, central vision needed for reading, driving and seeing fine detail. Retinal disorders affect this vital tissue. They can affect your vision, and some can be serious enough to cause blindness. Examples are Macular degeneration - a disease that destroys your sharp, central vision Diabetic eye disease Retinal detachment - a medical emergency, when the retina is pulled away from the back of the eye Retinoblastoma - cancer of the retina. It is most common in young children. Macular pucker - scar tissue on the macula Macular hole - a small break in the macula that usually happens to people over 60 Floaters - cobwebs or specks in your field of vision NIH: National Eye Institute</dc:description>
+<dc:subject dcterms="mesh">Retinal Diseases</dc:subject>
+<dc:subject xml:lang="es">Enfermedades de la retina</dc:subject>
+<dc:subject xml:lang="es">Retina</dc:subject>
+<dc:subject xml:lang="es">Enfermedades de la</dc:subject>
+<dc:subject xml:lang="es">Flotadores</dc:subject>
+<dc:subject xml:lang="es">Manchas flotantes y centelleos</dc:subject>
+<dc:subject xml:lang="es">Retinopatia</dc:subject>
+<dc:subject xml:lang="es">Desgarro retiniano</dc:subject>
+<dc:subject xml:lang="en">Retinal Disorders</dc:subject>
+<dc:subject xml:lang="en">Floater</dc:subject>
+</metadata>
+</record>
+</MedlinePlus-document>

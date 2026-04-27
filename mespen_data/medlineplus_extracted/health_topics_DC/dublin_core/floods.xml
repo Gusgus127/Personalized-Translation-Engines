@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<MedlinePlus-document>
+<record>
+<header>
+<identifier>https://medlineplus.gov/floods.html</identifier>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title type="alternate" xml:lang="es">Desastres naturales</dc:title>
+<dc:title type="alternate" xml:lang="en">Natural Disasters</dc:title>
+<dc:type>Text</dc:type>
+<dc:language>spa</dc:language>
+<dc:language>eng</dc:language>
+<dc:title xml:lang="es">Inundaciones</dc:title>
+<dc:title xml:lang="en">Floods</dc:title>
+<dc:publisher>National Library of Medicine</dc:publisher>
+<dc:relation type="IsPartOf">Disasters</dc:relation>
+<dc:date type="created">2008-06-25</dc:date>
+<dc:date type="modified">2017-09-08</dc:date>
+<dc:identifier type="URL" xml:lang="es">https://medlineplus.gov/spanish/floods.html</dc:identifier>
+<dc:identifier type="URL" xml:lang="en">https://medlineplus.gov/floods.html</dc:identifier>
+<dc:description xml:lang="es">Las inundaciones son comunes en Estados Unidos. Las lluvias fuertes, tormentas o huracanes pueden provocar inundaciones. Las inundaciones también pueden ocurrir cuando un río o una corriente de agua se desbordan de su lecho, cuando se agrieta un dique o cuando se rompe una represa. Las inundaciones repentinas, que pueden desarrollarse rápidamente, suelen tener una peligrosa pared de agua turbulenta que arrastra piedras, lodo y escombros y que pueden barrer casi todo lo que encuentran a su paso. Tenga conciencia de los riesgos de inundación independientemente del lugar en el que se vive, pero en especial si vive en áreas bajas, cercanas al agua o aguas abajo de una represa. Aunque no hay garantías de seguridad durante una inundación, es posible tomar medidas para protegerse. Debe tener un plan de acción para casos de desastres. Estar preparado puede ayudar a reducir el miedo, la ansiedad y las pérdidas. Si usted experimenta un desastre, es normal sentirse estresado. Usted puede necesitar ayuda para superar la situación. Agencia Federal para el Manejo de Emergencias</dc:description>
+<dc:description xml:lang="en">Floods are common in the United States. Weather such as heavy rain, thunderstorms, hurricanes, or tsunamis can cause flooding. Flooding can also happen when a river or stream overflows its bank, when a levee is breached, or when a dam breaks. Flash floods, which can develop quickly, often have a dangerous wall of roaring water. The wall carries rocks, mud, and rubble and can sweep away most things in its path. Be aware of flood hazards no matter where you live, but especially if you live in a low-lying area, near water or downstream from a dam. Although there are no guarantees of safety during a flood, you can take actions to protect yourself. You should have a disaster plan. Being prepared can help reduce fear, anxiety, and losses. If you do experience a disaster, it is normal to feel stressed. You may need help in finding ways to cope. Federal Emergency Management Agency</dc:description>
+<dc:subject dcterms="mesh">Floods</dc:subject>
+<dc:subject xml:lang="es">Inundaciones</dc:subject>
+<dc:subject xml:lang="es">Desastres naturales</dc:subject>
+<dc:subject xml:lang="en">Floods</dc:subject>
+<dc:subject xml:lang="en">Natural Disasters</dc:subject>
+</metadata>
+</record>
+</MedlinePlus-document>

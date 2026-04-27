@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<MedlinePlus-document>
+<record>
+<header>
+<identifier>https://medlineplus.gov/endoscopy.html</identifier>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:type>Text</dc:type>
+<dc:language>spa</dc:language>
+<dc:language>eng</dc:language>
+<dc:title xml:lang="es">Endoscopia</dc:title>
+<dc:title xml:lang="en">Endoscopy</dc:title>
+<dc:publisher>National Library of Medicine</dc:publisher>
+<dc:relation type="IsPartOf">Diagnostic Tests</dc:relation>
+<dc:relation type="IsPartOf">Surgery and Rehabilitation</dc:relation>
+<dc:date type="created">2007-08-16</dc:date>
+<dc:date type="modified">2017-10-04</dc:date>
+<dc:identifier type="URL" xml:lang="es">https://medlineplus.gov/spanish/endoscopy.html</dc:identifier>
+<dc:identifier type="URL" xml:lang="en">https://medlineplus.gov/endoscopy.html</dc:identifier>
+<dc:description xml:lang="es">Una endoscopía es un procedimiento que permite que el médico vea el interior de su cuerpo. Utiliza un instrumento llamado endoscopio o tubo visor. Los endoscopios tienen una cámara diminuta unida a un tubo largo y delgado. El médico lo mueve a través de un túnel o apertura del cuerpo para ver el interior de un órgano. Algunas veces, los endoscopios se usan para cirugía, como en el caso de la extirpación de pólipos del colon. Existen muchos tipos distintos de endoscopías. Estos son algunos de sus nombres y los órganos que se observan. Artroscopía: articulaciones Broncoscopía: pulmones Colonoscopía y sigmoidoscopía: intestino grueso Cistoscopía y ureteroscopía: sistema urinario Laparoscopía: abdomen o pelvis Endoscopía gastrointestinal superior: esófago y estómago</dc:description>
+<dc:description xml:lang="en">Endoscopy is a procedure that lets your doctor look inside your body. It uses an instrument called an endoscope, or scope for short. Scopes have a tiny camera attached to a long, thin tube. The doctor moves it through a body passageway or opening to see inside an organ. Sometimes scopes are used for surgery, such as for removing polyps from the colon. There are many different kinds of endoscopy. Here are the names of some of them and where they look. Arthroscopy: joints Bronchoscopy: lungs Colonoscopy and sigmoidoscopy: large intestine Cystoscopy and ureteroscopy: urinary system Laparoscopy: abdomen or pelvis Upper gastrointestinal endoscopy: esophagus and stomach</dc:description>
+<dc:subject dcterms="mesh">Endoscopy</dc:subject>
+<dc:subject xml:lang="es">Endoscopia</dc:subject>
+<dc:subject xml:lang="en">Endoscopy</dc:subject>
+</metadata>
+</record>
+</MedlinePlus-document>

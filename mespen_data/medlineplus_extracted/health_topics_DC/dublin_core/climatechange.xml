@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<MedlinePlus-document>
+<record>
+<header>
+<identifier>https://medlineplus.gov/climatechange.html</identifier>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title type="alternate" xml:lang="es">Efecto invernadero</dc:title>
+<dc:title type="alternate" xml:lang="en">Global Warming</dc:title>
+<dc:type>Text</dc:type>
+<dc:language>spa</dc:language>
+<dc:language>eng</dc:language>
+<dc:title xml:lang="es">Cambio climático</dc:title>
+<dc:title xml:lang="en">Climate Change</dc:title>
+<dc:publisher>National Library of Medicine</dc:publisher>
+<dc:relation type="IsPartOf">Poisoning, Toxicology, Environmental Health</dc:relation>
+<dc:date type="created">2009-10-14</dc:date>
+<dc:date type="modified">2017-08-23</dc:date>
+<dc:identifier type="URL" xml:lang="es">https://medlineplus.gov/spanish/climatechange.html</dc:identifier>
+<dc:identifier type="URL" xml:lang="en">https://medlineplus.gov/climatechange.html</dc:identifier>
+<dc:description xml:lang="es">El clima es la temperatura promedio en un lugar en un determinado período de tiempo. El cambio climático es un cambio importante de temperatura, lluvias, nieve o patrones de viento que duran muchos años. Puede ser causado por la naturaleza o por las actividades de los seres humanos. Hoy en día, los cambios climáticos están ocurriendo a un ritmo cada vez más acelerado. El cambio climático puede afectar su salud y causar: Más casos de enfermedades y muertes causados por el calor Más polen, moho y contaminación del aire. Esto puede aumentar los casos de alergia, asma y problemas respiratorios Los mosquitos (zancudos) y otros insectos que portan enfermedades pueden empezar a aparecer en áreas que solían ser demasiado frías para ellos Más inundaciones y aumento del nivel del mar. Esto puede causar más casos de contaminación de alimentos y agua Eventos climáticos más extremos como huracanes e incendios forestales. Esto puede causar muertes, heridas, estrés y problemas de salud mental Los investigadores están estudiando la menor manera de mitigar el cambio climático y reducir el impacto en nuestra salud. NIH: Instituto Nacional de las Ciencias de Salud Ambiental</dc:description>
+<dc:description xml:lang="en">Climate is the average weather in a place over a period of time. Climate change is major change in temperature, rainfall, snow, or wind patterns lasting for many years. It can be caused by natural factors or by human activities. Today climate changes are occurring at an increasingly rapid rate. Climate change can affect our health. It can lead to More heat-related illness and deaths More pollen, mold, and air pollution. This can cause an increase in allergies, asthma, and breathing problems. Mosquitoes and other insects that carry diseases spreading to areas that used to be too cold for them. More floods and rising sea levels. This can cause an increase in contamination of food and water. More extreme weather events, such as hurricanes and wildfires. These can cause death, injuries, stress, and mental health problems. Researchers are studying the best ways to lessen climate change and reduce its impact on our health. NIH: National Institute of Environmental Health Sciences</dc:description>
+<dc:subject dcterms="mesh">Climate Change</dc:subject>
+<dc:subject xml:lang="es">Cambio climático</dc:subject>
+<dc:subject xml:lang="es">Efecto invernadero</dc:subject>
+<dc:subject xml:lang="en">Climate Change</dc:subject>
+<dc:subject xml:lang="en">Global Warming</dc:subject>
+</metadata>
+</record>
+</MedlinePlus-document>

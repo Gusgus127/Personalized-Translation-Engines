@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<MedlinePlus-document>
+<record>
+<header>
+<identifier>https://medlineplus.gov/boneinfections.html</identifier>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title type="alternate" xml:lang="es">Huesos, Infecciones de los</dc:title>
+<dc:title type="alternate" xml:lang="en">Osteomyelitis</dc:title>
+<dc:type>Text</dc:type>
+<dc:language>spa</dc:language>
+<dc:language>eng</dc:language>
+<dc:title xml:lang="es">Infecciones de los huesos</dc:title>
+<dc:title xml:lang="en">Bone Infections</dc:title>
+<dc:publisher>National Library of Medicine</dc:publisher>
+<dc:relation type="IsPartOf">Bones, Joints and Muscles</dc:relation>
+<dc:relation type="IsPartOf">Infections</dc:relation>
+<dc:date type="created">2010-12-23</dc:date>
+<dc:date type="modified">2018-02-12</dc:date>
+<dc:identifier type="URL" xml:lang="es">https://medlineplus.gov/spanish/boneinfections.html</dc:identifier>
+<dc:identifier type="URL" xml:lang="en">https://medlineplus.gov/boneinfections.html</dc:identifier>
+<dc:description xml:lang="es">Como otras partes del cuerpo, los huesos pueden infectarse. Las infecciones son generalmente causadas por bacterias (bacterianas) pero también pueden ser causadas por hongos. Pueden extenderse al hueso desde la piel cercana, los músculos de alrededor o a través del torrente sanguíneo. Las personas con mayor riesgo de infecciones óseas son las que padecen de diabetes, mala circulación o una lesión reciente en el hueso. También las personas que son tratadas con hemodiálisis. Los síntomas de una infección en un hueso incluyen Dolor en el área infectada Escalofríos y fiebre Hinchazón, calor y enrojecimiento del área infectada Un examen de sangre o un diagnóstico por imágenes (como rayos X) pueden develar una infección en un hueso. El tratamiento incluye antibióticos y muchas veces, cirugía.</dc:description>
+<dc:description xml:lang="en">Like other parts of the body, bones can get infected. The infections are usually bacterial, but can also be fungal. They may spread to the bone from nearby skin or muscles, or from another part of the body through the bloodstream. People who are at risk for bone infections include those with diabetes, poor circulation, or recent injury to the bone. You may also be at risk if you are having hemodialysis. Symptoms of bone infections include Pain in the infected area Chills and fever Swelling, warmth, and redness A blood test or imaging test such as an x-ray can tell if you have a bone infection. Treatment includes antibiotics and often surgery.</dc:description>
+<dc:subject dcterms="mesh">Bone Diseases, Infectious</dc:subject>
+<dc:subject xml:lang="es">Infecciones de los huesos</dc:subject>
+<dc:subject xml:lang="es">Huesos</dc:subject>
+<dc:subject xml:lang="es">Infecciones de los</dc:subject>
+<dc:subject xml:lang="en">Bone Infections</dc:subject>
+<dc:subject xml:lang="en">Osteomyelitis</dc:subject>
+</metadata>
+</record>
+</MedlinePlus-document>

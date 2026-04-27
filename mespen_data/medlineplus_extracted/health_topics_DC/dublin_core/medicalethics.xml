@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<MedlinePlus-document>
+<record>
+<header>
+<identifier>https://medlineplus.gov/medicalethics.html</identifier>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:type>Text</dc:type>
+<dc:language>spa</dc:language>
+<dc:language>eng</dc:language>
+<dc:title xml:lang="es">Etica médica</dc:title>
+<dc:title xml:lang="en">Medical Ethics</dc:title>
+<dc:publisher>National Library of Medicine</dc:publisher>
+<dc:relation type="IsPartOf">Social/Family Issues</dc:relation>
+<dc:relation type="IsPartOf">Personal Health Issues</dc:relation>
+<dc:relation type="IsPartOf">Health System</dc:relation>
+<dc:date type="modified"/>
+<dc:identifier type="URL" xml:lang="es">https://medlineplus.gov/spanish/medicalethics.html</dc:identifier>
+<dc:identifier type="URL" xml:lang="en">https://medlineplus.gov/medicalethics.html</dc:identifier>
+<dc:description xml:lang="es"/>
+<dc:description xml:lang="en">The field of ethics studies principles of right and wrong. There is hardly an area in medicine that doesn't have an ethical aspect. For example, there are ethical issues relating to End of life care: Should a patient receive nutrition? What about advance directives and resuscitation orders? Abortion: When does life begin? Is it ethical to terminate a pregnancy with a birth defect? Genetic and prenatal testing: What happens if you are a carrier of a defect? What if testing shows that your unborn baby has a defect? Birth control: Should it be available to minors? Is it ethical to harvest embryonic stem cells to treat diseases? Organ donation: Must a relative donate an organ to a sick relative? Your personal health information: who has access to your records? Patient rights: Do you have the right to refuse treatment? When you talk with your doctor, is it ethical for her to withhold information from you or your family?</dc:description>
+<dc:subject dcterms="mesh">Ethics, Medical</dc:subject>
+<dc:subject xml:lang="es">Etica médica</dc:subject>
+<dc:subject xml:lang="en">Medical Ethics</dc:subject>
+<dc:subject xml:lang="en">Bioethics</dc:subject>
+</metadata>
+</record>
+</MedlinePlus-document>

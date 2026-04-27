@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<MedlinePlus-document>
+<record>
+<header>
+<identifier>https://medlineplus.gov/gallbladderdiseases.html</identifier>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title type="alternate" xml:lang="es">Colecistectomía</dc:title>
+<dc:title type="alternate" xml:lang="es">Vesícula biliar, Enfermedades de</dc:title>
+<dc:title type="alternate" xml:lang="es">Colecistitis aguda</dc:title>
+<dc:title type="alternate" xml:lang="es">Colecistitis crónica</dc:title>
+<dc:title type="alternate" xml:lang="en">Cholecystectomy</dc:title>
+<dc:title type="alternate" xml:lang="en">Biliary Tract Diseases</dc:title>
+<dc:type>Text</dc:type>
+<dc:language>spa</dc:language>
+<dc:language>eng</dc:language>
+<dc:title xml:lang="es">Enfermedades de la vesícula biliar</dc:title>
+<dc:title xml:lang="en">Gallbladder Diseases</dc:title>
+<dc:publisher>National Library of Medicine</dc:publisher>
+<dc:relation type="IsPartOf">Digestive System</dc:relation>
+<dc:date type="created">2002-07-21</dc:date>
+<dc:date type="modified">2017-12-07</dc:date>
+<dc:identifier type="URL" xml:lang="es">https://medlineplus.gov/spanish/gallbladderdiseases.html</dc:identifier>
+<dc:identifier type="URL" xml:lang="en">https://medlineplus.gov/gallbladderdiseases.html</dc:identifier>
+<dc:description xml:lang="es">La vesícula biliar es un órgano con forma de pera ubicada bajo el hígado. Almacena bilis, un líquido producido por el hígado para digerir las grasas. Cuando el estómago y el intestino digieren los alimentos, la vesícula biliar libera bilis a través de un tubo denominado conducto biliar común. Ese conducto conecta a la vesícula biliar y el hígado con el intestino delgado. Es más probable que la vesícula cause problemas si algo obstruye el flujo de bilis por los conductos biliares. Eso suele ocurrir con los cálculos biliares. Los cálculos se forman cuando hay sustancias en la bilis que se endurecen. En forma menos común se puede desarrollar cáncer en la vesícula. Muchos de los problemas de la vesícula se solucionan al extirparla. Afortunadamente, la vesícula biliar no es un órgano imprescindible para la vida. La bilis tiene otras vías para llegar al intestino delgado.</dc:description>
+<dc:description xml:lang="en">Your gallbladder is a pear-shaped organ under your liver. It stores bile, a fluid made by your liver to digest fat. As your stomach and intestines digest food, your gallbladder releases bile through a tube called the common bile duct. The duct connects your gallbladder and liver to your small intestine. Your gallbladder is most likely to give you trouble if something blocks the flow of bile through the bile ducts. That is usually a gallstone. Gallstones form when substances in bile harden. Rarely, you can also get cancer in your gallbladder. Many gallbladder problems get better with removal of the gallbladder. Fortunately, you can live without a gallbladder. Bile has other ways of reaching your small intestine.</dc:description>
+<dc:subject dcterms="mesh">Gallbladder Diseases</dc:subject>
+<dc:subject xml:lang="es">Enfermedades de la vesícula biliar</dc:subject>
+<dc:subject xml:lang="es">Colecistectomía</dc:subject>
+<dc:subject xml:lang="es">Vesícula biliar</dc:subject>
+<dc:subject xml:lang="es">Enfermedades de</dc:subject>
+<dc:subject xml:lang="es">Colecistitis aguda</dc:subject>
+<dc:subject xml:lang="es">Colecistitis crónica</dc:subject>
+<dc:subject xml:lang="en">Gallbladder Diseases</dc:subject>
+<dc:subject xml:lang="en">Cholecystectomy</dc:subject>
+<dc:subject xml:lang="en">Biliary Tract Diseases</dc:subject>
+</metadata>
+</record>
+</MedlinePlus-document>

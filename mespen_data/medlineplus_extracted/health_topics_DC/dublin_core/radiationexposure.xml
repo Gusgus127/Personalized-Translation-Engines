@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<MedlinePlus-document>
+<record>
+<header>
+<identifier>https://medlineplus.gov/radiationexposure.html</identifier>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title type="alternate" xml:lang="es">Radiación, Exposición a</dc:title>
+<dc:type>Text</dc:type>
+<dc:language>spa</dc:language>
+<dc:language>eng</dc:language>
+<dc:title xml:lang="es">Exposición a la radiación</dc:title>
+<dc:title xml:lang="en">Radiation Exposure</dc:title>
+<dc:publisher>National Library of Medicine</dc:publisher>
+<dc:relation type="IsPartOf">Injuries and Wounds</dc:relation>
+<dc:relation type="IsPartOf">Poisoning, Toxicology, Environmental Health</dc:relation>
+<dc:date type="created">2002-07-21</dc:date>
+<dc:date type="modified">2018-01-23</dc:date>
+<dc:identifier type="URL" xml:lang="es">https://medlineplus.gov/spanish/radiationexposure.html</dc:identifier>
+<dc:identifier type="URL" xml:lang="en">https://medlineplus.gov/radiationexposure.html</dc:identifier>
+<dc:description xml:lang="es">La radiación es energía que viaja en forma de ondas o partículas de alta velocidad. Ocurre naturalmente bajo los rayos del sol. La radiación creada por el hombre se usa en los rayos X, las armas nucleares, las plantas de energía nuclear y el tratamiento contra el cáncer. La exposición a pequeñas cantidades de radiación durante un largo período de tiempo, aumenta el riesgo de cáncer. También puede causar mutaciones en los genes, que podrían transmitirse a cualquier niño que sea concebido después de la exposición. Mucha radiación por un corto período de tiempo, como las emergencias causadas por radiación, puede causar quemaduras o enfermedades por radiación. Los síntomas de la enfermedad por radiación incluyen náusea, debilidad, caída del cabello, quemaduras en la piel y disminución de la función de algunos órganos. Si la exposición es lo suficientemente grande, puede causar envejecimiento prematuro o inclusive la muerte. Es posible que tenga que tomar medicinas para disminuir el material radioactivo en su cuerpo. Agencia de Protección Ambiental</dc:description>
+<dc:description xml:lang="en">Radiation is energy that travels in the form of waves or high-speed particles. It occurs naturally in sunlight. Man-made radiation is used in X-rays, nuclear weapons, nuclear power plants and cancer treatment. If you are exposed to small amounts of radiation over a long time, it raises your risk of cancer. It can also cause mutations in your genes, which you could pass on to any children you have after the exposure. A lot of radiation over a short period, such as from a radiation emergency, can cause burns or radiation sickness. Symptoms of radiation sickness include nausea, weakness, hair loss, skin burns and reduced organ function. If the exposure is large enough, it can cause premature aging or even death. You may be able to take medicine to reduce the radioactive material in your body. Environmental Protection Agency</dc:description>
+<dc:subject dcterms="mesh">Environmental Exposure</dc:subject>
+<dc:subject dcterms="mesh">Radiation</dc:subject>
+<dc:subject dcterms="mesh">Radiation Exposure</dc:subject>
+<dc:subject xml:lang="es">Exposición a la radiación</dc:subject>
+<dc:subject xml:lang="es">Radiación</dc:subject>
+<dc:subject xml:lang="es">Exposición a</dc:subject>
+<dc:subject xml:lang="en">Radiation Exposure</dc:subject>
+</metadata>
+</record>
+</MedlinePlus-document>

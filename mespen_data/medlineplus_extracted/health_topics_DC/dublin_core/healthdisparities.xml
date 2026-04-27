@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<MedlinePlus-document>
+<record>
+<header>
+<identifier>https://medlineplus.gov/healthdisparities.html</identifier>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:type>Text</dc:type>
+<dc:language>spa</dc:language>
+<dc:language>eng</dc:language>
+<dc:title xml:lang="es">Disparidades de la salud</dc:title>
+<dc:title xml:lang="en">Health Disparities</dc:title>
+<dc:publisher>National Library of Medicine</dc:publisher>
+<dc:relation type="IsPartOf">Population Groups</dc:relation>
+<dc:relation type="IsPartOf">Health System</dc:relation>
+<dc:date type="created">2009-09-15</dc:date>
+<dc:date type="modified">2017-10-25</dc:date>
+<dc:identifier type="URL" xml:lang="es">https://medlineplus.gov/spanish/healthdisparities.html</dc:identifier>
+<dc:identifier type="URL" xml:lang="en">https://medlineplus.gov/healthdisparities.html</dc:identifier>
+<dc:description xml:lang="es">Las disparidades en la atención de la salud se refieren a las diferencias en el estado de salud de diferentes grupos de personas. Algunos grupos de personas tienen tasas más altas de ciertas enfermedades, y más muertes y sufrimiento por ellas, en comparación con otros. Estos grupos pueden estar basados en: Raza Etnicidad Estado inmigratorio Discapacidad Sexo o género Orientación sexual Geografía Ingresos NIH: Instituto Nacional de Salud de las Minorías y Disparidades en la Salud</dc:description>
+<dc:description xml:lang="en">Health disparities refer to differences in the health status of different groups of people. Some groups of people have higher rates of certain diseases, and more deaths and suffering from them, compared to others. These groups may be based on Race Ethnicity Immigrant status Disability Sex or gender Sexual orientation Geography Income NIH: National Institute on Minority Health and Health Disparities</dc:description>
+<dc:subject dcterms="mesh">Health Status Disparities</dc:subject>
+<dc:subject dcterms="mesh">Healthcare Disparities</dc:subject>
+<dc:subject xml:lang="es">Disparidades de la salud</dc:subject>
+<dc:subject xml:lang="en">Health Disparities</dc:subject>
+<dc:subject xml:lang="en">Health Equity</dc:subject>
+</metadata>
+</record>
+</MedlinePlus-document>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<MedlinePlus-document>
+<record>
+<header>
+<identifier>https://medlineplus.gov/botox.html</identifier>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title type="alternate" xml:lang="es">Toxina botulínica</dc:title>
+<dc:title type="alternate" xml:lang="en">Botulinum Toxin</dc:title>
+<dc:type>Text</dc:type>
+<dc:language>spa</dc:language>
+<dc:language>eng</dc:language>
+<dc:title xml:lang="es">Botox</dc:title>
+<dc:title xml:lang="en">Botox</dc:title>
+<dc:publisher>National Library of Medicine</dc:publisher>
+<dc:relation type="IsPartOf">Skin, Hair and Nails</dc:relation>
+<dc:date type="created">2007-07-30</dc:date>
+<dc:date type="modified">2016-06-01</dc:date>
+<dc:identifier type="URL" xml:lang="es">https://medlineplus.gov/spanish/botox.html</dc:identifier>
+<dc:identifier type="URL" xml:lang="en">https://medlineplus.gov/botox.html</dc:identifier>
+<dc:description xml:lang="es">El botox es una droga hecha de una toxina producida por la bacteria Clostridium botulinum. Es la misma toxina que causa un tipo de intoxicación alimentaria peligrosa para la vida llamada botulismo. Los médicos la utilizan en pequeñas dosis para tratar problemas de salud, entre ellos: Eliminación temporal de las arrugas faciales Sudoración severa de las axilas Distonía cervical: un trastorno neurológico que causa contracciones musculares severas en el cuello y los hombros Blefarospasmo: parpadeo incontrolable Estrabismo: ojos desviados Las inyecciones de botox funcionan debilitando y paralizando determinados músculos o bloqueando algunos nervios. Los efectos perduran entre tres o cuatro meses. Los efectos secundarios pueden incluir dolor en el lugar de la inyección, síntomas similares a los de una gripe, dolor de cabeza y malestar estomacal. Las inyecciones en la cara también pueden causar una caída temporal de los párpados. No se debe utilizar botox durante el embarazo o la lactancia. Administración de Alimentos y Medicamentos</dc:description>
+<dc:description xml:lang="en">Botox is a drug made from a toxin produced by the bacterium Clostridium botulinum. It's the same toxin that causes a life-threatening type of food poisoning called botulism. Doctors use it in small doses to treat health problems, including Temporary smoothing of facial wrinkles and improving your appearance Severe underarm sweating Cervical dystonia - a neurological disorder that causes severe neck and shoulder muscle contractions Blepharospasm - uncontrollable blinking Strabismus - misaligned eyes Chronic migraine Overactive bladder Botox injections work by weakening or paralyzing certain muscles or by blocking certain nerves. The effects last about three to twelve months, depending on what you are treating. The most common side effects are pain, swelling, or bruising at the injection site. You could also have flu-like symptoms, headache, and upset stomach. Injections in the face may also cause temporary drooping eyelids. You should not use Botox if you are pregnant or breastfeeding.</dc:description>
+<dc:subject dcterms="mesh">Botulinum Toxins, Type A</dc:subject>
+<dc:subject xml:lang="es">Botox</dc:subject>
+<dc:subject xml:lang="es">Toxina botulínica</dc:subject>
+<dc:subject xml:lang="en">Botox</dc:subject>
+<dc:subject xml:lang="en">Botulinum Toxin</dc:subject>
+</metadata>
+</record>
+</MedlinePlus-document>

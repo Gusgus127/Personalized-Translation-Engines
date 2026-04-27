@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<MedlinePlus-document>
+<record>
+<header>
+<identifier>https://medlineplus.gov/chronicmyeloidleukemia.html</identifier>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:type>Text</dc:type>
+<dc:language>spa</dc:language>
+<dc:language>eng</dc:language>
+<dc:title xml:lang="es">Leucemia mielógena crónica</dc:title>
+<dc:title xml:lang="en">Chronic Myeloid Leukemia</dc:title>
+<dc:publisher>National Library of Medicine</dc:publisher>
+<dc:relation type="IsPartOf">Cancers</dc:relation>
+<dc:relation type="IsPartOf">Blood, Heart and Circulation</dc:relation>
+<dc:date type="created">2010-10-18</dc:date>
+<dc:date type="modified">2017-12-12</dc:date>
+<dc:identifier type="URL" xml:lang="es">https://medlineplus.gov/spanish/chronicmyeloidleukemia.html</dc:identifier>
+<dc:identifier type="URL" xml:lang="en">https://medlineplus.gov/chronicmyeloidleukemia.html</dc:identifier>
+<dc:description xml:lang="es">La leucemia es un cáncer de los glóbulos blancos, que son las células que ayudan al cuerpo a combatir infecciones. Las células sanguíneas se forman en la médula ósea. Sin embargo, en personas con leucemia, la médula ósea produce glóbulos blancos anormales. Estas células reemplazan a las células sanguíneas sanas y dificultan que la sangre cumpla su función. En la leucemia mielógena crónica, hay demasiados granulocitos, que son un tipo específico de glóbulos blancos. La mayoría de las personas con este tipo de leucemia tiene una mutación (cambio) en un gen. Este gen se llama el cromosoma de Filadelfia, que no se trasmite de padres a hijos. A veces, la LMC no causa ningún síntoma pero si una persona los tiene, pueden ser: Fatiga Pérdida de peso Sudores nocturnos Fiebre Dolor o sensación de llenura debajo de las costillas en el lado izquierdo Para detectar (encontrar) y diagnosticar la leucemia mielógena crónica, se utilizan pruebas que examinan la sangre y la médula ósea. Los tratamientos incluyen quimioterapia, trasplantes de células madre, infusión de linfocitos de un donante después de trasplantes de células madre, cirugía para extirpar el bazo y terapias biológicas y dirigidas. La terapia biológica estimula la capacidad de su propio cuerpo para combatir el cáncer. La terapia dirigida es un tipo de tratamiento en el que se utilizan sustancias para identificar y atacar células cancerosas específicas sin dañar las células normales NIH: Instituto Nacional del Cáncer</dc:description>
+<dc:description xml:lang="en">Leukemia is cancer of the white blood cells. White blood cells help your body fight infection. Your blood cells form in your bone marrow. In leukemia, the bone marrow produces abnormal white blood cells. These cells crowd out the healthy blood cells, making it hard for blood to do its work. In chronic myeloid leukemia (CML), there are too many granulocytes, a type of white blood cell. Most people with CML have a gene mutation (change) called the Philadelphia chromosome. Sometimes CML does not cause any symptoms. If you have symptoms, they may include: Fatigue Weight loss Night sweats Fever Pain or a feeling of fullness below the ribs on the left side Tests that examine the blood and bone marrow diagnose CML. Treatments include chemotherapy, stem cell transplants, infusion of donated white blood cells following stem cell transplants, surgery to remove the spleen, and biologic and targeted therapies. Biologic therapy boosts your body's own ability to fight cancer. Targeted therapy uses substances that attack cancer cells without harming normal cells. NIH: National Cancer Institute</dc:description>
+<dc:subject dcterms="mesh">Leukemia, Myeloid, Chronic, Atypical, BCR-ABL Negative</dc:subject>
+<dc:subject dcterms="mesh">Leukemia, Myelogenous, Chronic, BCR-ABL Positive</dc:subject>
+<dc:subject xml:lang="es">Leucemia mielógena crónica</dc:subject>
+<dc:subject xml:lang="en">Chronic Myeloid Leukemia</dc:subject>
+<dc:subject xml:lang="en">Leukemia</dc:subject>
+<dc:subject xml:lang="en">Myeloid</dc:subject>
+<dc:subject xml:lang="en">Chronic</dc:subject>
+<dc:subject xml:lang="en">CML</dc:subject>
+<dc:subject xml:lang="en">Chronic Myelogenous Leukemia</dc:subject>
+<dc:subject xml:lang="en">Chronic Granulocytic Leukemia</dc:subject>
+</metadata>
+</record>
+</MedlinePlus-document>

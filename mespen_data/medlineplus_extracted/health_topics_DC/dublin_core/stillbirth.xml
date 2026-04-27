@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<MedlinePlus-document>
+<record>
+<header>
+<identifier>https://medlineplus.gov/stillbirth.html</identifier>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:type>Text</dc:type>
+<dc:language>spa</dc:language>
+<dc:language>eng</dc:language>
+<dc:title xml:lang="es">Parto de feto muerto</dc:title>
+<dc:title xml:lang="en">Stillbirth</dc:title>
+<dc:publisher>National Library of Medicine</dc:publisher>
+<dc:relation type="IsPartOf">Pregnancy and Reproduction</dc:relation>
+<dc:relation type="IsPartOf">Female Reproductive System</dc:relation>
+<dc:relation type="IsPartOf">Women</dc:relation>
+<dc:date type="created">2010-10-26</dc:date>
+<dc:date type="modified">2017-10-13</dc:date>
+<dc:identifier type="URL" xml:lang="es">https://medlineplus.gov/spanish/stillbirth.html</dc:identifier>
+<dc:identifier type="URL" xml:lang="en">https://medlineplus.gov/stillbirth.html</dc:identifier>
+<dc:description xml:lang="es">Cuando una mujer pierde su embarazo después de 20 semanas, se le llama parto de un feto muerto. El parto de un feto muerto sucede por causas naturales. Puede suceder antes o durante el parto. Las causas incluyen Problemas con la placenta, el órgano que transporta oxígeno y nutrientes al feto Problemas genéticos del feto Infecciones del feto Otros problemas físicos del feto Por lo menos en la mitad de los casos, no se sabe por qué el bebé falleció. Si el feto muere antes del parto, su proveedor de cuidados de salud puede inducir el parto o realizar una cesárea para parir al feto. En otros casos, usted puede ir a trabajo de parto. Esto generalmente sucede dentro de las dos semanas de la muerte del feto. La asesoría puede ayudarla a sobrellevar el dolor. Más adelante, si usted desea intentarlo de nuevo, trabaje de cerca con su proveedor de cuidados para disminuir los riesgos. Muchas mujeres que experimentaron una muerte fetal tendrán bebés sanos. NIH: Instituto Nacional de Salud Infantil y Desarrollo</dc:description>
+<dc:description xml:lang="en">If a woman loses a pregnancy after she's past her 20th week, it's called a stillbirth. Stillbirths are due to natural causes. They can happen before delivery or during delivery. Causes include: Problems with the placenta, the organ that transports oxygen and nutrients to the fetus Genetic problems with the fetus Fetal infections Other physical problems in the fetus In at least half of all cases, it is not possible to tell why the baby died. If stillbirth happens before delivery, your health care provider may induce labor or perform a Cesarean section to deliver the fetus. In some cases, you can wait until you go into labor yourself. This usually happens within two weeks of stillbirth. Counseling may help you cope with your grief. Later, if you do decide to try again, work closely with your health care provider to lower the risks. Many women who have a stillbirth go on to have healthy babies. NIH: National Institute of Child Health and Human Development</dc:description>
+<dc:subject dcterms="mesh">Stillbirth</dc:subject>
+<dc:subject xml:lang="es">Parto de feto muerto</dc:subject>
+<dc:subject xml:lang="en">Stillbirth</dc:subject>
+<dc:subject xml:lang="en">Pregnancy Loss</dc:subject>
+</metadata>
+</record>
+</MedlinePlus-document>

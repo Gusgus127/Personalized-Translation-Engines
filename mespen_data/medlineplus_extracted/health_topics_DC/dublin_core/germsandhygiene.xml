@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<MedlinePlus-document>
+<record>
+<header>
+<identifier>https://medlineplus.gov/germsandhygiene.html</identifier>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:type>Text</dc:type>
+<dc:language>spa</dc:language>
+<dc:language>eng</dc:language>
+<dc:title xml:lang="es">Gérmenes e higiene</dc:title>
+<dc:title xml:lang="en">Germs and Hygiene</dc:title>
+<dc:publisher>National Library of Medicine</dc:publisher>
+<dc:relation type="IsPartOf">Skin, Hair and Nails</dc:relation>
+<dc:relation type="IsPartOf">Infections</dc:relation>
+<dc:date type="created">2005-11-10</dc:date>
+<dc:date type="modified">2018-01-08</dc:date>
+<dc:identifier type="URL" xml:lang="es">https://medlineplus.gov/spanish/germsandhygiene.html</dc:identifier>
+<dc:identifier type="URL" xml:lang="en">https://medlineplus.gov/germsandhygiene.html</dc:identifier>
+<dc:description xml:lang="es">Cuando tose o estornuda, lanza al aire gotas diminutas cargadas de gérmenes. Los resfríos y la gripe suelen diseminarse de esta forma. Usted puede detener la diseminación de los gérmenes si: Se cubre la boca y la nariz al estornudar o toser. Estornude o tosa en la parte interior de su codo, no en sus manos Se lava las manos con frecuencia: siempre antes de comer o preparar alimentos y después de ir al baño o cambiar pañales Evita tocarse los ojos, la nariz o la boca El lavado de manos es una de las formas más eficaces y frecuentemente ignoradas para detener una enfermedad. El agua y el jabón son muy eficaces para matar gérmenes. Lávese por lo menos por 20 segundos y frótese las manos vigorosamente. Las toallitas desechables para las manos o el gel desinfectante también surten buen efecto.</dc:description>
+<dc:description xml:lang="en">When you cough or sneeze, you send tiny germ-filled droplets into the air. Colds and flu usually spread that way. You can help stop the spread of germs by Covering your mouth and nose when you sneeze or cough. Sneeze or cough into your elbow, not your hands. Cleaning your hands often - always before you eat or prepare food, and after you use the bathroom or change a diaper Avoiding touching your eyes, nose or mouth Hand washing is one of the most effective and most overlooked ways to stop disease. Soap and water work well to kill germs. Wash for at least 20 seconds and rub your hands briskly. Disposable hand wipes or gel sanitizers also work well.</dc:description>
+<dc:subject dcterms="mesh">Disinfection</dc:subject>
+<dc:subject dcterms="mesh">Hand Hygiene</dc:subject>
+<dc:subject dcterms="mesh">Hand Sanitizers</dc:subject>
+<dc:subject xml:lang="es">Gérmenes e higiene</dc:subject>
+<dc:subject xml:lang="en">Germs and Hygiene</dc:subject>
+<dc:subject xml:lang="en">Handwashing</dc:subject>
+<dc:subject xml:lang="en">Body Odor</dc:subject>
+</metadata>
+</record>
+</MedlinePlus-document>

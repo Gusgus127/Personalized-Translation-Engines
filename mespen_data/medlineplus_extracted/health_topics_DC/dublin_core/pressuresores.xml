@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<MedlinePlus-document>
+<record>
+<header>
+<identifier>https://medlineplus.gov/pressuresores.html</identifier>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title type="alternate" xml:lang="es">Úlcera por decúbito</dc:title>
+<dc:title type="alternate" xml:lang="es">Escaras</dc:title>
+<dc:title type="alternate" xml:lang="en">Decubitus Ulcers</dc:title>
+<dc:title type="alternate" xml:lang="en">Bedsores</dc:title>
+<dc:type>Text</dc:type>
+<dc:language>spa</dc:language>
+<dc:language>eng</dc:language>
+<dc:title xml:lang="es">Úlcera por presión</dc:title>
+<dc:title xml:lang="en">Pressure Sores</dc:title>
+<dc:publisher>National Library of Medicine</dc:publisher>
+<dc:relation type="IsPartOf">Skin, Hair and Nails</dc:relation>
+<dc:date type="created">2002-07-21</dc:date>
+<dc:date type="modified">2017-10-11</dc:date>
+<dc:identifier type="URL" xml:lang="es">https://medlineplus.gov/spanish/pressuresores.html</dc:identifier>
+<dc:identifier type="URL" xml:lang="en">https://medlineplus.gov/pressuresores.html</dc:identifier>
+<dc:description xml:lang="es">Las úlceras por presión son áreas de piel lesionada por permanecer en una misma posición durante demasiado tiempo. Comúnmente se forman donde los huesos están más cerca de la piel, como los tobillos, los talones y las caderas. El riesgo es mayor si está recluido en una cama, utiliza una silla de ruedas o no puede cambiar de posición. Las úlceras por presión pueden causar infecciones graves, algunas de las cuales pueden poner la vida en peligro. Pueden constituir un problema para las personas en los centros de cuidados especializados. Para prevenir las úlceras: Mantenga la piel limpia y seca Cambie de posición cada dos horas Utilice almohadas y productos que alivien la presión Las úlceras por presión tienen una variedad de tratamientos. Las úlceras más avanzadas se curan lentamente, de modo que lo mejor es el tratamiento anticipado.</dc:description>
+<dc:description xml:lang="en">Pressure sores are areas of damaged skin caused by staying in one position for too long. They commonly form where your bones are close to your skin, such as your ankles, back, elbows, heels and hips. You are at risk if you are bedridden, use a wheelchair, or are unable to change your position. Pressure sores can cause serious infections, some of which are life-threatening. They can be a problem for people in nursing homes. You can prevent the sores by Keeping skin clean and dry Changing position every two hours Using pillows and products that relieve pressure Pressure sores have a variety of treatments. Advanced sores are slow to heal, so early treatment is best.</dc:description>
+<dc:subject dcterms="mesh">Pressure Ulcer</dc:subject>
+<dc:subject xml:lang="es">Úlcera por presión</dc:subject>
+<dc:subject xml:lang="es">Úlcera por decúbito</dc:subject>
+<dc:subject xml:lang="es">Escaras</dc:subject>
+<dc:subject xml:lang="en">Pressure Sores</dc:subject>
+<dc:subject xml:lang="en">Decubitus Ulcers</dc:subject>
+<dc:subject xml:lang="en">Bedsores</dc:subject>
+</metadata>
+</record>
+</MedlinePlus-document>

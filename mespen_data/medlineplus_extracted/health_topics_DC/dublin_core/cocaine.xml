@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<MedlinePlus-document>
+<record>
+<header>
+<identifier>https://medlineplus.gov/cocaine.html</identifier>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title type="alternate" xml:lang="es">Crack</dc:title>
+<dc:title type="alternate" xml:lang="es">Abuso de cocaína</dc:title>
+<dc:title type="alternate" xml:lang="en">Crack</dc:title>
+<dc:type>Text</dc:type>
+<dc:language>spa</dc:language>
+<dc:language>eng</dc:language>
+<dc:title xml:lang="es">Cocaína</dc:title>
+<dc:title xml:lang="en">Cocaine</dc:title>
+<dc:publisher>National Library of Medicine</dc:publisher>
+<dc:relation type="IsPartOf">Substance Abuse Problems</dc:relation>
+<dc:date type="created">2002-07-21</dc:date>
+<dc:date type="modified">2018-01-03</dc:date>
+<dc:identifier type="URL" xml:lang="es">https://medlineplus.gov/spanish/cocaine.html</dc:identifier>
+<dc:identifier type="URL" xml:lang="en">https://medlineplus.gov/cocaine.html</dc:identifier>
+<dc:description xml:lang="es">La cocaína es un polvo blanco. Se puede inhalar por la nariz o mezclarse con agua e inyectarse con una aguja. La cocaína también se puede convertir en pequeñas rocas blancas, llamada crack. El crack se fuma en una pipa de vidrio pequeña. La cocaína acelera todo su cuerpo. Usted puede sentirse lleno de energía, feliz y emocionado. Pero luego su estado de ánimo puede cambiar. Usted puede sentirse enojado, nervioso y temeroso de que alguien está tratando de hacerle daño. Usted puede hacer cosas que no tienen sentido. Después de acabarse la sensación de excitación tras consumir cocaína, se puede "estrellar" y sentirse cansado y triste por días. También causa un fuerte deseo de tomar la droga de nuevo para tratar de sentirse mejor. No importa cómo se consuma la cocaína, es peligrosa. Algunos de los problemas graves más comunes incluyen ataque cardiaco y accidente cerebrovascular. Usted también está en riesgo de contraer VIH/SIDA y hepatitis al compartir agujas o tener relaciones sexuales sin protección. La cocaína es más peligrosa cuando se combina con otras drogas o alcohol. Es fácil perder el control sobre el consumo de cocaína y convertirse en adicto. Entonces, incluso si usted recibe tratamiento, puede ser difícil mantenerse sin consumir la droga. Las personas que dejaron de usar cocaína todavía pueden sentir fuertes antojos de la droga, a veces incluso años más tarde. NIH: Instituto Nacional sobre el Abuso de Drogas</dc:description>
+<dc:description xml:lang="en">Cocaine is a white powder. It can be snorted up the nose or mixed with water and injected with a needle. Cocaine can also be made into small white rocks, called crack. Crack is smoked in a small glass pipe. Cocaine speeds up your whole body. You may feel full of energy, happy, and excited. But then your mood can change. You can become angry, nervous, and afraid that someone's out to get you. You might do things that make no sense. After the "high" of the cocaine wears off, you can "crash" and feel tired and sad for days. You also get a strong craving to take the drug again to try to feel better. No matter how cocaine is taken, it is dangerous. Some of the most common serious problems include heart attack and stroke. You are also at risk for HIV/AIDS and hepatitis, from sharing needles or having unsafe sex. Cocaine is more dangerous when combined with other drugs or alcohol. It is easy to lose control over cocaine use and become addicted. Then, even if you get treatment, it can be hard to stay off the drug. People who stopped using cocaine can still feel strong cravings for the drug, sometimes even years later. NIH: National Institute on Drug Abuse</dc:description>
+<dc:subject dcterms="mesh">Cocaine Smoking</dc:subject>
+<dc:subject dcterms="mesh">Cocaine-Related Disorders</dc:subject>
+<dc:subject xml:lang="es">Cocaína</dc:subject>
+<dc:subject xml:lang="es">Crack</dc:subject>
+<dc:subject xml:lang="es">Abuso de cocaína</dc:subject>
+<dc:subject xml:lang="en">Cocaine</dc:subject>
+<dc:subject xml:lang="en">Crack</dc:subject>
+</metadata>
+</record>
+</MedlinePlus-document>

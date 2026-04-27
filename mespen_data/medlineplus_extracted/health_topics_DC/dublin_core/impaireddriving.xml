@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<MedlinePlus-document>
+<record>
+<header>
+<identifier>https://medlineplus.gov/impaireddriving.html</identifier>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title type="alternate" xml:lang="es">Distracción al manejar</dc:title>
+<dc:title type="alternate" xml:lang="es">Ineptitud para conducir</dc:title>
+<dc:title type="alternate" xml:lang="es">Manejar alcoholizado</dc:title>
+<dc:title type="alternate" xml:lang="es">Conducir embriagado</dc:title>
+<dc:title type="alternate" xml:lang="es">Conducir hablando por teléfono</dc:title>
+<dc:title type="alternate" xml:lang="en">Drunk Driving</dc:title>
+<dc:title type="alternate" xml:lang="en">Drugged Driving</dc:title>
+<dc:title type="alternate" xml:lang="en">Driving</dc:title>
+<dc:type>Text</dc:type>
+<dc:language>spa</dc:language>
+<dc:language>eng</dc:language>
+<dc:title xml:lang="es">Inhabilidad para conducir</dc:title>
+<dc:title xml:lang="en">Impaired Driving</dc:title>
+<dc:publisher>National Library of Medicine</dc:publisher>
+<dc:relation type="IsPartOf">Safety Issues</dc:relation>
+<dc:date type="created">2009-08-05</dc:date>
+<dc:date type="modified">2017-12-29</dc:date>
+<dc:identifier type="URL" xml:lang="es">https://medlineplus.gov/spanish/impaireddriving.html</dc:identifier>
+<dc:identifier type="URL" xml:lang="en">https://medlineplus.gov/impaireddriving.html</dc:identifier>
+<dc:description xml:lang="es">Conducir cuando no se está en condiciones de hacerlo es peligroso. Es la causa de más de la mitad de todos los choques de autos. Significa operar un vehículo motorizado bajo los efectos de: Alcohol Drogas ilegales o legales Sueño Distracciones, como usar un teléfono celular o enviar mensajes de texto Una condición médica que afecta su manera de conducir Por su seguridad y la seguridad de otros, no conduzca cuando no esté en condiciones de hacerlo. Pídale a otra persona que lo lleve o use transporte público cuando no pueda conducir. Si necesita hablar por teléfono o enviar un mensaje de texto, deténgase al costado del camino. Administración Nacional de Seguridad del Tráfico en las Carreteras</dc:description>
+<dc:description xml:lang="en">Impaired driving is dangerous. It's the cause of more than half of all car crashes. It means operating a motor vehicle while you are affected by Alcohol Legal or illegal drugs Sleepiness Distractions, such as using a cell phone or texting Having a medical condition which affects your driving For your safety and the safety of others, do not drive while impaired. Have someone else drive you or take public transportation when you cannot drive. If you need to take a call or send a text message, pull over. National Highway Traffic Safety Administration</dc:description>
+<dc:subject dcterms="mesh">Driving Under the Influence</dc:subject>
+<dc:subject dcterms="mesh">Distracted Driving</dc:subject>
+<dc:subject xml:lang="es">Inhabilidad para conducir</dc:subject>
+<dc:subject xml:lang="es">Distracción al manejar</dc:subject>
+<dc:subject xml:lang="es">Ineptitud para conducir</dc:subject>
+<dc:subject xml:lang="es">Manejar alcoholizado</dc:subject>
+<dc:subject xml:lang="es">Conducir embriagado</dc:subject>
+<dc:subject xml:lang="es">Conducir hablando por teléfono</dc:subject>
+<dc:subject xml:lang="en">Impaired Driving</dc:subject>
+<dc:subject xml:lang="en">Drunk Driving</dc:subject>
+<dc:subject xml:lang="en">Drugged Driving</dc:subject>
+<dc:subject xml:lang="en">Driving</dc:subject>
+</metadata>
+</record>
+</MedlinePlus-document>

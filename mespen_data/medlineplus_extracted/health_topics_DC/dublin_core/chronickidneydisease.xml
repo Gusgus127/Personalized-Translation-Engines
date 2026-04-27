@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<MedlinePlus-document>
+<record>
+<header>
+<identifier>https://medlineplus.gov/chronickidneydisease.html</identifier>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title type="alternate" xml:lang="es">Riñones, Enfermedad crónica</dc:title>
+<dc:title type="alternate" xml:lang="en">CKD</dc:title>
+<dc:type>Text</dc:type>
+<dc:language>spa</dc:language>
+<dc:language>eng</dc:language>
+<dc:title xml:lang="es">Enfermedad renal crónica</dc:title>
+<dc:title xml:lang="en">Chronic Kidney Disease</dc:title>
+<dc:publisher>National Library of Medicine</dc:publisher>
+<dc:relation type="IsPartOf">Kidneys and Urinary System</dc:relation>
+<dc:date type="created">2012-02-29</dc:date>
+<dc:date type="modified">2017-12-08</dc:date>
+<dc:identifier type="URL" xml:lang="es">https://medlineplus.gov/spanish/chronickidneydisease.html</dc:identifier>
+<dc:identifier type="URL" xml:lang="en">https://medlineplus.gov/chronickidneydisease.html</dc:identifier>
+<dc:description xml:lang="es">Usted tiene dos riñones, cada uno cerca del tamaño de su puño. Su función principal es filtrar su sangre. Ellos eliminan el desecho y el exceso de agua, lo que se vuelve orina. También mantienen el equilibrio químico del cuerpo, ayudan a controlar la presión arterial y a producir hormonas. La enfermedad renal crónica significa que sus riñones están dañados y no pueden filtrar la sangre como deberían. Este daño puede ocasionar que los desechos se acumulen en su cuerpo y causen otros problemas que podrían perjudicar su salud. La diabetes y la hipertensión arterial son las causas más comunes de enfermedad renal crónica. El daño renal se produce lentamente durante muchos años. Muchas personas no tienen ningún síntoma hasta que la enfermedad renal está muy avanzada. Los análisis de sangre y orina son la única manera de saber si usted tiene enfermedad renal. Los tratamientos no pueden curar la enfermedad renal, pero pueden retrasarla. Incluyen medicamentos para reducir la presión arterial, controlar el azúcar en la sangre y reducir el colesterol. La enfermedad renal crónica aún puede empeorar con el tiempo. A veces puede conducir a insuficiencia renal. Si sus riñones fallan, necesitará diálisis o un trasplante de riñón. Usted puede tomar estas medidas para mantener sus riñones sanos por más tiempo: Elija alimentos con menos sal (sodio) Controle su presión arterial. Su proveedor de salud puede decirle cuál debe ser su presión arterial Si tiene diabetes, mantenga su nivel de azúcar en la sangre bajo control Limite la cantidad de alcohol que bebe Elija alimentos que sean saludables para su corazón: Frutas, verduras, granos integrales y productos lácteos bajos en grasa Si tiene sobrepeso, baje de peso Manténgase físicamente activo No fume NIH: Instituto Nacional de la Diabetes y las Enfermedades Digestivas y Renales</dc:description>
+<dc:description xml:lang="en">You have two kidneys, each about the size of your fist. Their main job is to filter your blood. They remove wastes and extra water, which become urine. They also keep the body's chemicals balanced, help control blood pressure, and make hormones. Chronic kidney disease (CKD) means that your kidneys are damaged and can't filter blood as they should. This damage can cause wastes to build up in your body. It can also cause other problems that can harm your health. Diabetes and high blood pressure are the most common causes of CKD. The kidney damage occurs slowly over many years. Many people don't have any symptoms until their kidney disease is very advanced. Blood and urine tests are the only way to know if you have kidney disease. Treatments cannot cure kidney disease, but they may slow kidney disease. They include medicines to lower blood pressure, control blood sugar, and lower cholesterol. CKD may still get worse over time. Sometimes it can lead to kidney failure. If your kidneys fail, you will need dialysis or a kidney transplantation. You can take steps to keep your kidneys healthier longer: Choose foods with less salt (sodium) Control your blood pressure; your health care provider can tell you what your blood pressure should be Keep your blood sugar in the target range, if you have diabetes Limit the amount of alcohol you drink Choose foods that are healthy for your heart: fruits, vegetables, whole grains, and low-fat dairy foods Lose weight if you are overweight Be physically active Don't smoke NIH: National Institute of Diabetes and Digestive and Kidney Diseases</dc:description>
+<dc:subject dcterms="mesh">Renal Insufficiency, Chronic</dc:subject>
+<dc:subject xml:lang="es">Enfermedad renal crónica</dc:subject>
+<dc:subject xml:lang="es">Riñones</dc:subject>
+<dc:subject xml:lang="es">Enfermedad crónica</dc:subject>
+<dc:subject xml:lang="en">Chronic Kidney Disease</dc:subject>
+<dc:subject xml:lang="en">CKD</dc:subject>
+</metadata>
+</record>
+</MedlinePlus-document>

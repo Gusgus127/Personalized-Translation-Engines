@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<MedlinePlus-document>
+<record>
+<header>
+<identifier>https://medlineplus.gov/measles.html</identifier>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:type>Text</dc:type>
+<dc:language>spa</dc:language>
+<dc:language>eng</dc:language>
+<dc:title xml:lang="es">Sarampión</dc:title>
+<dc:title xml:lang="en">Measles</dc:title>
+<dc:publisher>National Library of Medicine</dc:publisher>
+<dc:relation type="IsPartOf">Infections</dc:relation>
+<dc:relation type="IsPartOf">Skin, Hair and Nails</dc:relation>
+<dc:relation type="IsPartOf">Children and Teenagers</dc:relation>
+<dc:date type="created">2002-07-21</dc:date>
+<dc:date type="modified">2017-08-03</dc:date>
+<dc:identifier type="URL" xml:lang="es">https://medlineplus.gov/spanish/measles.html</dc:identifier>
+<dc:identifier type="URL" xml:lang="en">https://medlineplus.gov/measles.html</dc:identifier>
+<dc:description xml:lang="es">El sarampión es una enfermedad infecciosa causada por un virus. Se disemina fácilmente de persona a persona y causa una erupción en la piel de color roja con manchas. Esta erupción suele comenzar en la cabeza y descender al resto del cuerpo. Otros síntomas pueden incluir: Fiebre Tos Moqueo nasal Conjuntivitis Sensación de dolor y malestar Pequeñas manchas blancas dentro de la boca Algunas veces, el sarampión puede conducir a problemas serios. No existe un tratamiento, pero la vacuna contra sarampión-paperas-rubéola (MMR) puede prevenirlo. Es posible que haya oído hablar sobre la rubéola, que es otra enfermedad que causa erupción y picazón pero que no está relacionada con el sarampión. Centros para el Control y la Prevención de Enfermedades</dc:description>
+<dc:description xml:lang="en">Measles is an infectious disease caused by a virus. It spreads easily from person to person. It causes a blotchy red rash. The rash often starts on the head and moves down the body. Other symptoms include Fever Cough Runny nose Conjunctivitis (pink eye) Feeling achy and run down Tiny white spots inside the mouth Sometimes measles can lead to serious problems. There is no treatment for measles, but the measles-mumps-rubella (MMR) vaccine can prevent it. "German measles", also known as rubella, is a completely different illness. Centers for Disease Control and Prevention</dc:description>
+<dc:subject dcterms="mesh">Measles</dc:subject>
+<dc:subject xml:lang="es">Sarampión</dc:subject>
+<dc:subject xml:lang="en">Measles</dc:subject>
+<dc:subject xml:lang="en">Rubeola</dc:subject>
+</metadata>
+</record>
+</MedlinePlus-document>

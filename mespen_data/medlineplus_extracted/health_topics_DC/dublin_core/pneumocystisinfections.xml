@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<MedlinePlus-document>
+<record>
+<header>
+<identifier>https://medlineplus.gov/pneumocystisinfections.html</identifier>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title type="alternate" xml:lang="es">Neumocistosis</dc:title>
+<dc:title type="alternate" xml:lang="es">Pneumocystis, Infecciones por</dc:title>
+<dc:title type="alternate" xml:lang="es">Pneumocystis jiroveci</dc:title>
+<dc:type>Text</dc:type>
+<dc:language>spa</dc:language>
+<dc:language>eng</dc:language>
+<dc:title xml:lang="es">Infecciones por Pneumocystis</dc:title>
+<dc:title xml:lang="en">Pneumocystis Infections</dc:title>
+<dc:publisher>National Library of Medicine</dc:publisher>
+<dc:relation type="IsPartOf">Infections</dc:relation>
+<dc:relation type="IsPartOf">Lungs and Breathing</dc:relation>
+<dc:relation type="IsPartOf">Immune System</dc:relation>
+<dc:date type="created">2002-07-21</dc:date>
+<dc:date type="modified">2017-07-11</dc:date>
+<dc:identifier type="URL" xml:lang="es">https://medlineplus.gov/spanish/pneumocystisinfections.html</dc:identifier>
+<dc:identifier type="URL" xml:lang="en">https://medlineplus.gov/pneumocystisinfections.html</dc:identifier>
+<dc:description xml:lang="es">El pneumocystis jirovecii es un pequeño hongo que vive en los pulmones de muchas personas. El sistema inmunitario de la mayoría de las personas es capaz de controlar los hongos. Pero si tiene un sistema inmunitario débil, los hongos pueden causarle enfermedades muy serias. El tipo de infección más común es la neumonía por Pneumocystis. En otras épocas, la neumonía por Pneumocystis fue la mayor causa de muerte en las personas con VIH/SIDA. Pero hoy es posible prevenir o tratar la mayoría de los casos. La clave para sobrevivir la neumonía por Pneumocystis es el tratamiento temprano. Los primeros signos de neumonía por Pneumocystis son fiebre, tos seca, dificultades para respirar y fatiga. Si tiene estos síntomas, consulte a su médico de inmediato. Para diagnosticar la neumonía por Pneumocystis, los médicos usan un microscopio para buscar el hongo en una muestra de fluido o tejido pulmonar. El tratamiento es con antibióticos. No hay vacuna para prevenir la neumonía por Pneumocystis. Algunas personas que están en alto riesgo de contraer la neumonía por Pneumocystis pueden necesitar tomar antibióticos para prevenirla.</dc:description>
+<dc:description xml:lang="en">Pneumocystis jirovecii is a tiny fungus that lives in the lungs of many people. Most people's immune systems keep the fungus under control. But if you have a weakened immune system, the fungus can make you very sick. The most common type of infection is pneumocystis pneumonia (PCP). PCP once was the major cause of death for people with HIV/AIDS. But now, it is possible to prevent or treat most cases. The key to surviving PCP is early treatment. The first signs of PCP are fever, dry cough, shortness of breath, and fatigue. If you have a weakened immune system and have these symptoms, see your doctor right away. To diagnose PCP, doctors use a microscope to look for the fungus in a sample of lung fluid or tissue. Treatment is with antibiotics. There is no vaccine to prevent PCP. Some people who are at high risk of getting PCP may need to take antibiotics to prevent it.</dc:description>
+<dc:subject dcterms="mesh">Pneumocystis Infections</dc:subject>
+<dc:subject xml:lang="es">Infecciones por Pneumocystis</dc:subject>
+<dc:subject xml:lang="es">Neumocistosis</dc:subject>
+<dc:subject xml:lang="es">Pneumocystis</dc:subject>
+<dc:subject xml:lang="es">Infecciones por</dc:subject>
+<dc:subject xml:lang="es">Pneumocystis jiroveci</dc:subject>
+<dc:subject xml:lang="en">Pneumocystis Infections</dc:subject>
+</metadata>
+</record>
+</MedlinePlus-document>

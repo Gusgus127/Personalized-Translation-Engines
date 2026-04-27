@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<MedlinePlus-document>
+<record>
+<header>
+<identifier>https://medlineplus.gov/smokelesstobacco.html</identifier>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title type="alternate" xml:lang="es">Tabaco de mascar</dc:title>
+<dc:title type="alternate" xml:lang="es">Tabaco en polvo (rapé)</dc:title>
+<dc:title type="alternate" xml:lang="es">Tabaco por vía oral</dc:title>
+<dc:title type="alternate" xml:lang="en">Spit Tobacco</dc:title>
+<dc:title type="alternate" xml:lang="en">Chewing Tobacco</dc:title>
+<dc:title type="alternate" xml:lang="en">Snuff</dc:title>
+<dc:title type="alternate" xml:lang="en">Tobacco, Smokeless</dc:title>
+<dc:title type="alternate" xml:lang="en">Oral Tobacco</dc:title>
+<dc:title type="alternate" xml:lang="en">Dip</dc:title>
+<dc:type>Text</dc:type>
+<dc:language>spa</dc:language>
+<dc:language>eng</dc:language>
+<dc:title xml:lang="es">Tabaco que no se fuma</dc:title>
+<dc:title xml:lang="en">Smokeless Tobacco</dc:title>
+<dc:publisher>National Library of Medicine</dc:publisher>
+<dc:relation type="IsPartOf">Substance Abuse Problems</dc:relation>
+<dc:relation type="IsPartOf">Mouth and Teeth</dc:relation>
+<dc:date type="created">2002-07-21</dc:date>
+<dc:date type="modified">2017-05-30</dc:date>
+<dc:identifier type="URL" xml:lang="es">https://medlineplus.gov/spanish/smokelesstobacco.html</dc:identifier>
+<dc:identifier type="URL" xml:lang="en">https://medlineplus.gov/smokelesstobacco.html</dc:identifier>
+<dc:description xml:lang="es">Muchas personas que mascan tabaco o consumen rapé piensan que es más sano que fumar. Pero no hace falta fumar el tabaco para que éste sea peligroso. Mascarlo o consumir rapé conlleva a riesgos como: Cáncer de la boca Caries en las raíces expuestas de los dientes Retracción de las encías Manchas blancas o llagas rojas en la boca que pueden volverse cancerosas Estudios recientes demuestran que los peligros del tabaco que no se fuma pueden ir más allá de la boca. Su consumo también puede representar un papel en la aparición de otros cánceres, enfermedades cardíacas y derrames cerebrales. El tabaco que no se fuma contiene más nicotina que los cigarrillos. La nicotina es una droga altamente adictiva que dificulta dejar de consumir el tabaco. Determinar una fecha y un plan para dejarlo puede ayudarlo a abandonar el hábito exitosamente. NIH: Instituto Nacional de Investigación Dental y Craneofacial</dc:description>
+<dc:description xml:lang="en">Many people who chew tobacco or dip snuff think it's safer than smoking. But you don't have to smoke tobacco for it to be dangerous. Chewing or dipping carries risks like Cancer of the mouth Decay of exposed tooth roots Pulling away of the gums from the teeth White patches or red sores in the mouth that can turn to cancer Recent research shows the dangers of smokeless tobacco may go beyond the mouth. It might also play a role in other cancers, heart disease and stroke. Smokeless tobacco contains more nicotine than cigarettes. Nicotine is a highly addictive drug that makes it hard to stop using tobacco once you start. Having a quit date and a quitting plan can help you stop successfully. NIH: National Institute of Dental and Craniofacial Research</dc:description>
+<dc:subject dcterms="mesh">Tobacco, Smokeless</dc:subject>
+<dc:subject xml:lang="es">Tabaco que no se fuma</dc:subject>
+<dc:subject xml:lang="es">Tabaco de mascar</dc:subject>
+<dc:subject xml:lang="es">Tabaco en polvo (rapé)</dc:subject>
+<dc:subject xml:lang="es">Tabaco por vía oral</dc:subject>
+<dc:subject xml:lang="en">Smokeless Tobacco</dc:subject>
+<dc:subject xml:lang="en">Spit Tobacco</dc:subject>
+<dc:subject xml:lang="en">Chewing Tobacco</dc:subject>
+<dc:subject xml:lang="en">Snuff</dc:subject>
+<dc:subject xml:lang="en">Tobacco</dc:subject>
+<dc:subject xml:lang="en">Smokeless</dc:subject>
+<dc:subject xml:lang="en">Oral Tobacco</dc:subject>
+<dc:subject xml:lang="en">Dip</dc:subject>
+</metadata>
+</record>
+</MedlinePlus-document>

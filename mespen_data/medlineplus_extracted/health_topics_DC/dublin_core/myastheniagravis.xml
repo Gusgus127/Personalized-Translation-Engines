@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<MedlinePlus-document>
+<record>
+<header>
+<identifier>https://medlineplus.gov/myastheniagravis.html</identifier>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:type>Text</dc:type>
+<dc:language>spa</dc:language>
+<dc:language>eng</dc:language>
+<dc:title xml:lang="es">Miastenia grave</dc:title>
+<dc:title xml:lang="en">Myasthenia Gravis</dc:title>
+<dc:publisher>National Library of Medicine</dc:publisher>
+<dc:relation type="IsPartOf">Brain and Nerves</dc:relation>
+<dc:date type="created">2002-07-21</dc:date>
+<dc:date type="modified">2018-01-29</dc:date>
+<dc:identifier type="URL" xml:lang="es">https://medlineplus.gov/spanish/myastheniagravis.html</dc:identifier>
+<dc:identifier type="URL" xml:lang="en">https://medlineplus.gov/myastheniagravis.html</dc:identifier>
+<dc:description xml:lang="es">La miastenia grave es una enfermedad que causa debilitamiento en los músculos voluntarios. Estos son los músculos que usted puede controlar. Por ejemplo, usted puede tener debilidad en los músculos involucrados en el movimiento del ojo, expresiones faciales y el tragar. También puede tener debilidad en otros músculos. Esta debilidad empeora con la actividad y mejora con el descanso. La miastenia grave es una enfermedad autoinmune. Su propio sistema inmunitario genera anticuerpos que obstruyen y cambian algunas de las señales nerviosas a sus músculos. Esto los debilita. Otras enfermedades pueden causar debilidad muscular, por lo que la miastenia grave puede ser difícil de diagnosticar. Las pruebas para diagnosticarla incluyen pruebas de sangre, nervios, músculos y de imagen. Con el tratamiento, la debilidad muscular a menudo mejora bastante. Los medicamentos ayudan a mejorar los mensajes de los nervios a los músculos y fortalecer los músculos. Otras medicinas evitan que su cuerpo produzca tantos anticuerpos anormales. Estas drogas pueden tener efectos secundarios severos, por lo que deben ser usadas con cuidado. Existen también tratamientos que filtran anticuerpos de la sangre o agregan anticuerpos sanos de sangre donada. A veces, la cirugía para extirpar el timo puede ayudar. Algunas personas con miastenia grave entran en remisión, lo que significa que no muestran síntomas. La remisión es generalmente temporal, pero a veces puede ser permanente. NIH: Instituto Nacional de Trastornos Neurológicos y Accidentes Cerebrovasculares</dc:description>
+<dc:description xml:lang="en">Myasthenia gravis is a disease that causes weakness in your voluntary muscles. These are the muscles that you control. For example, you may have weakness in the muscles for eye movement, facial expressions, and swallowing. You can also have weakness in other muscles. This weakness gets worse with activity, and better with rest. Myasthenia gravis is an autoimmune disease. Your body's immune system makes antibodies that block or change some of the nerve signals to your muscles. This makes your muscles weaker. Other conditions can cause muscle weakness, so myasthenia gravis can be hard to diagnose. Tests used to make a diagnosis include blood, nerve, muscle, and imaging tests. With treatment, the muscle weakness often gets much better. Medicines can help improve nerve-to-muscle messages and make muscles stronger. Other drugs keep your body from making so many abnormal antibodies. These medicines can have major side effects, so they should be used carefully. There are also treatments which filter abnormal antibodies from the blood or add healthy antibodies from donated blood. Sometimes, surgery to take out the thymus gland helps. Some people with myasthenia gravis go into remission. This means that they do not have symptoms. The remission is usually temporary, but sometimes it can be permanent. NIH: National Institute of Neurological Disorders and Stroke</dc:description>
+<dc:subject dcterms="mesh">Myasthenia Gravis</dc:subject>
+<dc:subject xml:lang="es">Miastenia grave</dc:subject>
+<dc:subject xml:lang="en">Myasthenia Gravis</dc:subject>
+</metadata>
+</record>
+</MedlinePlus-document>

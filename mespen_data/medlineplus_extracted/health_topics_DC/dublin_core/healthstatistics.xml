@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<MedlinePlus-document>
+<record>
+<header>
+<identifier>https://medlineplus.gov/healthstatistics.html</identifier>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:type>Text</dc:type>
+<dc:language>spa</dc:language>
+<dc:language>eng</dc:language>
+<dc:title xml:lang="es">Estadísticas de salud</dc:title>
+<dc:title xml:lang="en">Health Statistics</dc:title>
+<dc:publisher>National Library of Medicine</dc:publisher>
+<dc:relation type="IsPartOf">Health System</dc:relation>
+<dc:date type="created">2002-07-21</dc:date>
+<dc:date type="modified">2017-12-29</dc:date>
+<dc:identifier type="URL" xml:lang="es">https://medlineplus.gov/spanish/healthstatistics.html</dc:identifier>
+<dc:identifier type="URL" xml:lang="en">https://medlineplus.gov/healthstatistics.html</dc:identifier>
+<dc:description xml:lang="es">Se las ve siempre en las noticias: el número de personas que estuvo en el hospital el año pasado, el porcentaje de niños con sobrepeso, el índice de personas que tienen gripe, el costo promedio de un procedimiento médico. Todos son tipos de estadísticas de salud. Las estadísticas de salud son números relacionados con algún aspecto de la salud. Las estadísticas sobre nacimientos, muertes, matrimonios y divorcios a veces se llaman "estadísticas vitales." Los investigadores usan las estadísticas para ver los patrones de enfermedades en grupos de personas. Eso puede ayudar a averiguar quién está en riesgo de contraer algunas enfermedades, encontrar maneras de controlar ciertas afecciones y decidir qué patologías deben estudiarse.</dc:description>
+<dc:description xml:lang="en">You see them all the time in the news - the number of people who were in the hospital last year, the percentage of kids who are overweight, the rate at which people are catching the flu, the average cost of a medical procedure. These are all types of health statistics. Health statistics are numbers about some aspect of health. Statistics about births, deaths, marriages, and divorces are sometimes called "vital statistics." Researchers use statistics to see patterns of diseases in groups of people. This can help in figuring out who is at risk for certain diseases, finding ways to control diseases and deciding which diseases should be studied.</dc:description>
+<dc:subject dcterms="mesh">Statistics as Topic</dc:subject>
+<dc:subject xml:lang="es">Estadísticas de salud</dc:subject>
+<dc:subject xml:lang="en">Health Statistics</dc:subject>
+<dc:subject xml:lang="en">Statistics</dc:subject>
+</metadata>
+</record>
+</MedlinePlus-document>

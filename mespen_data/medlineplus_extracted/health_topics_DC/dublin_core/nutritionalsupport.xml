@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<MedlinePlus-document>
+<record>
+<header>
+<identifier>https://medlineplus.gov/nutritionalsupport.html</identifier>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title type="alternate" xml:lang="es">Alimentación artificial</dc:title>
+<dc:title type="alternate" xml:lang="es">Alimentación asistida</dc:title>
+<dc:title type="alternate" xml:lang="en">Parenteral Nutrition</dc:title>
+<dc:title type="alternate" xml:lang="en">TPN</dc:title>
+<dc:title type="alternate" xml:lang="en">Artificial Feeding</dc:title>
+<dc:type>Text</dc:type>
+<dc:language>spa</dc:language>
+<dc:language>eng</dc:language>
+<dc:title xml:lang="es">Nutrición artificial</dc:title>
+<dc:title xml:lang="en">Nutritional Support</dc:title>
+<dc:publisher>National Library of Medicine</dc:publisher>
+<dc:relation type="IsPartOf">Food and Nutrition</dc:relation>
+<dc:date type="created">2003-03-14</dc:date>
+<dc:date type="modified">2017-10-30</dc:date>
+<dc:identifier type="URL" xml:lang="es">https://medlineplus.gov/spanish/nutritionalsupport.html</dc:identifier>
+<dc:identifier type="URL" xml:lang="en">https://medlineplus.gov/nutritionalsupport.html</dc:identifier>
+<dc:description xml:lang="es">La nutrición artificial es para las personas que no reciben suficientes nutrientes a través de las comidas o las bebidas. Es posible que lo necesite si: No puede tragar Tiene problemas de apetito Tiene una desnutrición severa No puede absorber los nutrientes a través del sistema digestivo Usted puede nutrirse artificialmente a través de una aguja o un catéter colocado en una vena o con un tubo de alimentación, que va hasta el estómago.</dc:description>
+<dc:description xml:lang="en">Nutritional support is therapy for people who cannot get enough nourishment by eating or drinking. You may need it if you Can't swallow Have problems with your appetite Are severely malnourished Can't absorb nutrients through your digestive system You receive nutritional support through a needle or catheter placed in your vein or with a feeding tube, which goes into your stomach.</dc:description>
+<dc:subject dcterms="mesh">Nutritional Support</dc:subject>
+<dc:subject xml:lang="es">Nutrición artificial</dc:subject>
+<dc:subject xml:lang="es">Alimentación artificial</dc:subject>
+<dc:subject xml:lang="es">Alimentación asistida</dc:subject>
+<dc:subject xml:lang="en">Nutritional Support</dc:subject>
+<dc:subject xml:lang="en">Parenteral Nutrition</dc:subject>
+<dc:subject xml:lang="en">TPN</dc:subject>
+<dc:subject xml:lang="en">Artificial Feeding</dc:subject>
+</metadata>
+</record>
+</MedlinePlus-document>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<MedlinePlus-document>
+<record>
+<header>
+<identifier>https://medlineplus.gov/obesityinchildren.html</identifier>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title type="alternate" xml:lang="es">Obesidad, Chicos</dc:title>
+<dc:title type="alternate" xml:lang="es">Adolescentes, Obesidad</dc:title>
+<dc:title type="alternate" xml:lang="en">Childhood Obesity</dc:title>
+<dc:type>Text</dc:type>
+<dc:language>spa</dc:language>
+<dc:language>eng</dc:language>
+<dc:title xml:lang="es">Obesidad en niños</dc:title>
+<dc:title xml:lang="en">Obesity in Children</dc:title>
+<dc:publisher>National Library of Medicine</dc:publisher>
+<dc:relation type="IsPartOf">Food and Nutrition</dc:relation>
+<dc:relation type="IsPartOf">Children and Teenagers</dc:relation>
+<dc:relation type="IsPartOf">Metabolic Problems</dc:relation>
+<dc:date type="created">2005-04-19</dc:date>
+<dc:date type="modified">2017-11-29</dc:date>
+<dc:identifier type="URL" xml:lang="es">https://medlineplus.gov/spanish/obesityinchildren.html</dc:identifier>
+<dc:identifier type="URL" xml:lang="en">https://medlineplus.gov/obesityinchildren.html</dc:identifier>
+<dc:description xml:lang="es">La obesidad se caracteriza por la acumulación de grasa en el cuerpo. Se diferencia del sobrepeso, que significa pesar más de lo recomendado. Ambos términos significan que el peso de una persona está por encima de lo que se considera saludable según su estatura. Los niños crecen a distintas velocidades, por lo que no siempre es fácil saber cuándo un niño tiene sobrepeso u obesidad. Pídale a su proveedor de atención médica que examine si el peso y la estatura de su hijo se encuentran dentro de lo que se considera saludable. Si es necesario comenzar un programa para bajar de peso, involucre a toda la familia para que su hijo no se sienta solo. Fomente una alimentación saludable al: Servir más frutas y vegetales Comprar menos gaseosas y meriendas altas en calorías y grasas Asegurarse que su hijo tome su desayuno todos los días No comer comida basura en forma frecuente No usar la comida como un premio La actividad física también es muy importante. Los niños necesitan unos 60 minutos diarios de actividad física, aunque no todos de una vez. Esta puede dividirse en períodos cortos y ser igual de productiva. NIH: Instituto Nacional de la Diabetes y las Enfermedades Digestivas y Renales</dc:description>
+<dc:description xml:lang="en">Obesity means having too much body fat. It is different from being overweight, which means weighing too much. Both terms mean that a person's weight is greater than what's considered healthy for his or her height. Children grow at different rates, so it isn't always easy to know when a child has obesity or is overweight. Ask your health care provider to check whether your child's weight and height are in a healthy range. If a weight-loss program is necessary, involve the whole family in healthy habits so your child doesn't feel singled out. Encourage healthy eating by Serving more fruits and vegetables Buying fewer soft drinks and high-fat, high-calorie snack foods Making sure your child eats breakfast every day Eating fast food less often Not using food as a reward Physical activity is also very important. Kids need about 60 minutes each day. It does not have to happen all at once. Several short periods of activity during the day are just as good. NIH: National Institute of Diabetes and Digestive and Kidney Diseases</dc:description>
+<dc:subject dcterms="mesh">Pediatric Obesity</dc:subject>
+<dc:subject dcterms="mesh">Obesity</dc:subject>
+<dc:subject xml:lang="es">Obesidad en niños</dc:subject>
+<dc:subject xml:lang="es">Obesidad</dc:subject>
+<dc:subject xml:lang="es">Chicos</dc:subject>
+<dc:subject xml:lang="es">Adolescentes</dc:subject>
+<dc:subject xml:lang="es">Obesidad</dc:subject>
+<dc:subject xml:lang="en">Obesity in Children</dc:subject>
+<dc:subject xml:lang="en">Childhood Obesity</dc:subject>
+</metadata>
+</record>
+</MedlinePlus-document>

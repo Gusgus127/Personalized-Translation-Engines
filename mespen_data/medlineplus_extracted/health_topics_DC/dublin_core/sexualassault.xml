@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<MedlinePlus-document>
+<record>
+<header>
+<identifier>https://medlineplus.gov/sexualassault.html</identifier>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title type="alternate" xml:lang="es">Violación</dc:title>
+<dc:title type="alternate" xml:lang="en">Rape</dc:title>
+<dc:type>Text</dc:type>
+<dc:language>spa</dc:language>
+<dc:language>eng</dc:language>
+<dc:title xml:lang="es">Agresión sexual</dc:title>
+<dc:title xml:lang="en">Sexual Assault</dc:title>
+<dc:publisher>National Library of Medicine</dc:publisher>
+<dc:relation type="IsPartOf">Women</dc:relation>
+<dc:relation type="IsPartOf">Injuries and Wounds</dc:relation>
+<dc:relation type="IsPartOf">Social/Family Issues</dc:relation>
+<dc:date type="created">2002-07-21</dc:date>
+<dc:date type="modified">2017-11-30</dc:date>
+<dc:identifier type="URL" xml:lang="es">https://medlineplus.gov/spanish/sexualassault.html</dc:identifier>
+<dc:identifier type="URL" xml:lang="en">https://medlineplus.gov/sexualassault.html</dc:identifier>
+<dc:description xml:lang="es">Una violación es cualquier actividad sexual en la que usted no ha dado su autorización. Esto incluye intentos y realización de actos sexuales sin que usted lo desee. A veces, puede ser contra una víctima que esté incapacitada para dar su permiso. También incluye contacto sexual abusivo. Puede sucederles a los hombres, mujeres y niños. El agresor puede ser cualquiera - una pareja actual o pasada, un familiar, una persona de confianza o en una posición de poder, un amigo, un conocido o un desconocido. Una violación puede afectar su salud de varias maneras. Puede acarrear problemas de salud y emocionales de larga duración. Es importante que busque ayuda si usted ha sufrido una violación. Primero, vaya a un lugar seguro. Luego, llame al 911 o diríjase a un hospital para recibir ayuda médica. Es posible que quiera hablar con un consejero para lidiar con sus sentimientos. Lo más importante que debe saber es que la violación no fue su culpa. Centros para el Control y la Prevención de Enfermedades</dc:description>
+<dc:description xml:lang="en">Sexual assault is any sexual activity to which you haven't freely given your consent. This includes completed or attempted sex acts that are against your will. Sometimes it can involve a victim who is unable to consent. It also includes abusive sexual contact. It can happen to men, women or children. The attacker can be anyone - a current or former partner, a family member, a person in position of power or trust, a friend, an acquaintance, or a stranger. Sexual assault can affect your health in many ways. It can lead to long-term health and emotional problems. It is important to seek help if you have been assaulted. First, get to a safe place. Then dial 9-1-1 or go to a hospital for medical care. You may want to have counseling to deal with your feelings. The most important thing to know is that the assault was not your fault. Centers for Disease Control and Prevention</dc:description>
+<dc:subject dcterms="mesh">Sex Offenses</dc:subject>
+<dc:subject xml:lang="es">Agresión sexual</dc:subject>
+<dc:subject xml:lang="es">Violación</dc:subject>
+<dc:subject xml:lang="en">Sexual Assault</dc:subject>
+<dc:subject xml:lang="en">Rape</dc:subject>
+</metadata>
+</record>
+</MedlinePlus-document>

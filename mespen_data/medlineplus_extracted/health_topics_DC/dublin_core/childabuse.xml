@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<MedlinePlus-document>
+<record>
+<header>
+<identifier>https://medlineplus.gov/childabuse.html</identifier>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title type="alternate" xml:lang="es">Síndrome del bebé sacudido</dc:title>
+<dc:title type="alternate" xml:lang="es">Bebé sacudido, Síndrome del</dc:title>
+<dc:title type="alternate" xml:lang="es">Abuso de menores</dc:title>
+<dc:title type="alternate" xml:lang="es">Abuso de niños</dc:title>
+<dc:title type="alternate" xml:lang="es">Niños, Abuso</dc:title>
+<dc:title type="alternate" xml:lang="es">Abuso infantil</dc:title>
+<dc:title type="alternate" xml:lang="es">Infantil, Abuso</dc:title>
+<dc:title type="alternate" xml:lang="es">Chicos, Abuso</dc:title>
+<dc:title type="alternate" xml:lang="en">Violence</dc:title>
+<dc:title type="alternate" xml:lang="en">Abuse</dc:title>
+<dc:title type="alternate" xml:lang="en">Shaken Baby Syndrome</dc:title>
+<dc:type>Text</dc:type>
+<dc:language>spa</dc:language>
+<dc:language>eng</dc:language>
+<dc:title xml:lang="es">Maltrato al menor</dc:title>
+<dc:title xml:lang="en">Child Abuse</dc:title>
+<dc:publisher>National Library of Medicine</dc:publisher>
+<dc:relation type="IsPartOf">Children and Teenagers</dc:relation>
+<dc:relation type="IsPartOf">Injuries and Wounds</dc:relation>
+<dc:relation type="IsPartOf">Social/Family Issues</dc:relation>
+<dc:date type="created">2002-07-21</dc:date>
+<dc:date type="modified">2017-07-10</dc:date>
+<dc:identifier type="URL" xml:lang="es">https://medlineplus.gov/spanish/childabuse.html</dc:identifier>
+<dc:identifier type="URL" xml:lang="en">https://medlineplus.gov/childabuse.html</dc:identifier>
+<dc:description xml:lang="es">Maltratar a un menor es hacer algo, o dejar de hacer algo, que resulte en un daño para un niño o lo ponga en riesgo de lastimarse. El maltrato al menor puede ser físico, sexual o emocional. La negligencia, o el no cubrir las necesidades de un niño, también es una forma de abuso. La mayoría de los niños maltratados sufren más daños emocionales que físicos. Un niño maltratado puede deprimirse. Puede retraerse, pensar en suicidarse o tornarse violento. Los niños más grandes pueden consumir drogas o alcohol, intentar huir o abusar de otros. El maltrato al menor es un problema serio. Si sospecha que algún niño sufre maltratos o negligencia, llame a la policía o a la agencia local para el bienestar infantil.</dc:description>
+<dc:description xml:lang="en">Child abuse is doing something or failing to do something that results in harm to a child or puts a child at risk of harm. Child abuse can be physical, sexual or emotional. Neglect, or not providing for a child's needs, is also a form of abuse. Most abused children suffer greater emotional than physical damage. An abused child may become depressed. He or she may withdraw, think of suicide or become violent. An older child may use drugs or alcohol, try to run away or abuse others. Child abuse is a serious problem. If you suspect a child is being abused or neglected, call the police or your local child welfare agency.</dc:description>
+<dc:subject dcterms="mesh">Child Abuse</dc:subject>
+<dc:subject xml:lang="es">Maltrato al menor</dc:subject>
+<dc:subject xml:lang="es">Síndrome del bebé sacudido</dc:subject>
+<dc:subject xml:lang="es">Bebé sacudido</dc:subject>
+<dc:subject xml:lang="es">Síndrome del</dc:subject>
+<dc:subject xml:lang="es">Abuso de menores</dc:subject>
+<dc:subject xml:lang="es">Abuso de niños</dc:subject>
+<dc:subject xml:lang="es">Niños</dc:subject>
+<dc:subject xml:lang="es">Abuso</dc:subject>
+<dc:subject xml:lang="es">Abuso infantil</dc:subject>
+<dc:subject xml:lang="es">Infantil</dc:subject>
+<dc:subject xml:lang="es">Abuso</dc:subject>
+<dc:subject xml:lang="es">Chicos</dc:subject>
+<dc:subject xml:lang="es">Abuso</dc:subject>
+<dc:subject xml:lang="en">Child Abuse</dc:subject>
+<dc:subject xml:lang="en">Violence</dc:subject>
+<dc:subject xml:lang="en">Abuse</dc:subject>
+<dc:subject xml:lang="en">Shaken Baby Syndrome</dc:subject>
+</metadata>
+</record>
+</MedlinePlus-document>

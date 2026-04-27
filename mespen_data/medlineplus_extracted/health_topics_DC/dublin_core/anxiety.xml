@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<MedlinePlus-document>
+<record>
+<header>
+<identifier>https://medlineplus.gov/anxiety.html</identifier>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:type>Text</dc:type>
+<dc:language>spa</dc:language>
+<dc:language>eng</dc:language>
+<dc:title xml:lang="es">Ansiedad</dc:title>
+<dc:title xml:lang="en">Anxiety</dc:title>
+<dc:publisher>National Library of Medicine</dc:publisher>
+<dc:relation type="IsPartOf">Mental Health and Behavior</dc:relation>
+<dc:date type="created">2002-07-21</dc:date>
+<dc:date type="modified">2017-08-08</dc:date>
+<dc:identifier type="URL" xml:lang="es">https://medlineplus.gov/spanish/anxiety.html</dc:identifier>
+<dc:identifier type="URL" xml:lang="en">https://medlineplus.gov/anxiety.html</dc:identifier>
+<dc:description xml:lang="es">El miedo y la ansiedad es parte de la vida. Puede sentirse ansioso antes de presentar una prueba o al caminar por una calle oscura. Este tipo de ansiedad es útil - puede permitirle estar más alerta o ser más cuidadoso. Suele terminar poco tiempo después de que salga de la situación que la provocó. Pero, para millones de personas en los Estados Unidos, la ansiedad no desaparece y empeora con el tiempo. Pueden sentir dolores en el pecho y tener pesadillas. Hasta pueden tener miedo de salir de sus casas. Estas personas tienen trastornos de ansiedad. Los tipos incluyen: Trastorno de pánico Trastorno obsesivo-compulsivo Trastorno de estrés postraumático Fobias Trastorno de ansiedad generalizada El tratamiento puede incluir medicinas, terapia o ambos. NIH: Instituto Nacional de la Salud Mental</dc:description>
+<dc:description xml:lang="en">Fear and anxiety are part of life. You may feel anxious before you take a test or walk down a dark street. This kind of anxiety is useful - it can make you more alert or careful. It usually ends soon after you are out of the situation that caused it. But for millions of people in the United States, the anxiety does not go away, and gets worse over time. They may have chest pains or nightmares. They may even be afraid to leave home. These people have anxiety disorders. Types include Panic disorder Obsessive-compulsive disorder Post-traumatic stress disorder Phobias Generalized anxiety disorder Treatment can involve medicines, therapy or both. NIH: National Institute of Mental Health</dc:description>
+<dc:subject dcterms="mesh">Anxiety</dc:subject>
+<dc:subject dcterms="mesh">Anxiety Disorders</dc:subject>
+<dc:subject xml:lang="es">Ansiedad</dc:subject>
+<dc:subject xml:lang="en">Anxiety</dc:subject>
+<dc:subject xml:lang="en">Generalized Anxiety Disorder</dc:subject>
+</metadata>
+</record>
+</MedlinePlus-document>

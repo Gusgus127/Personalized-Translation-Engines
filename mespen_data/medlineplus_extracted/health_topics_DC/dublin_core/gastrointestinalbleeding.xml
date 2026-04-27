@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<MedlinePlus-document>
+<record>
+<header>
+<identifier>https://medlineplus.gov/gastrointestinalbleeding.html</identifier>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title type="alternate" xml:lang="es">Digestivo, Sangrado del aparato</dc:title>
+<dc:title type="alternate" xml:lang="es">Sangrado gastrointestinal</dc:title>
+<dc:title type="alternate" xml:lang="en">GI Bleeding</dc:title>
+<dc:title type="alternate" xml:lang="en">Bleeding, Gastrointestinal</dc:title>
+<dc:title type="alternate" xml:lang="en">Rectal Bleeding</dc:title>
+<dc:type>Text</dc:type>
+<dc:language>spa</dc:language>
+<dc:language>eng</dc:language>
+<dc:title xml:lang="es">Hemorragia gastrointestinal</dc:title>
+<dc:title xml:lang="en">Gastrointestinal Bleeding</dc:title>
+<dc:publisher>National Library of Medicine</dc:publisher>
+<dc:relation type="IsPartOf">Symptoms</dc:relation>
+<dc:relation type="IsPartOf">Digestive System</dc:relation>
+<dc:date type="created">2002-07-21</dc:date>
+<dc:date type="modified">2018-01-03</dc:date>
+<dc:identifier type="URL" xml:lang="es">https://medlineplus.gov/spanish/gastrointestinalbleeding.html</dc:identifier>
+<dc:identifier type="URL" xml:lang="en">https://medlineplus.gov/gastrointestinalbleeding.html</dc:identifier>
+<dc:description xml:lang="es">Las vías intestinales o gastrointestinales incluyen el esófago, el estómago, el intestino delgado, el intestino grueso o colon, el recto y el ano. La hemorragia (sangrado) puede provenir de una o más de estas zonas. La cantidad de sangre puede ser tan pequeña que sólo se detecta con pruebas de laboratorio. Los signos de hemorragia en el tracto digestivo dependen de dónde se encuentra y cuánto sangrando hay. Los signos de sangrado en el tracto digestivo superior incluyen: Sangre de un color rojo brillante en el vómito Vómito que parece café molido Heces negras o alquitranadas Sangre oscura mezclada con heces Heces mezcladas o recubiertas de sangre de color rojo brillante Los signos de sangrado en el tracto digestivo inferior incluyen: Heces negras o alquitranadas Sangre oscura mezclada con heces Heces mezcladas o recubiertos de sangre de color rojo brillante La hemorragia gastrointestinal no es una enfermedad, sino el síntoma de una enfermedad. Existen muchas causas posibles de hemorragia gastrointestinal, entre ellas se encuentran hemorroides, úlceras pépticas, desgarres o inflamación en el esófago, diverticulosis y diverticulitis, colitis ulcerativa o ulcerosa y enfermedad de Crohn, pólipos del colon o cáncer de colon, estómago o esófago. La prueba que se utiliza con mayor frecuencia para conocer la causa de la hemorragia gastrointestinal se llama endoscopía. Se utiliza un instrumento flexible que se inserta a través de la boca o el recto para ver el interior de las vías intestinales (GI). Un tipo de endoscopía que analiza el intestino grueso se llama colonoscopía. NIH: Instituto Nacional de la Diabetes y las Enfermedades Digestivas y Renales</dc:description>
+<dc:description xml:lang="en">Your digestive or gastrointestinal (GI) tract includes the esophagus, stomach, small intestine, large intestine or colon, rectum, and anus. Bleeding can come from any of these areas. The amount of bleeding can be so small that only a lab test can find it. Signs of bleeding in the digestive tract depend where it is and how much bleeding there is. Signs of bleeding in the upper digestive tract include Bright red blood in vomit Vomit that looks like coffee grounds Black or tarry stool Dark blood mixed with stool Signs of bleeding in the lower digestive tract include Black or tarry stool Dark blood mixed with stool Stool mixed or coated with bright red blood GI bleeding is not a disease, but a symptom of a disease. There are many possible causes of GI bleeding, including hemorrhoids, peptic ulcers, tears or inflammation in the esophagus, diverticulosis and diverticulitis, ulcerative colitis and Crohn's disease, colonic polyps, or cancer in the colon, stomach or esophagus. The test used most often to look for the cause of GI bleeding is called endoscopy. It uses a flexible instrument inserted through the mouth or rectum to view the inside of the GI tract. A type of endoscopy called colonoscopy looks at the large intestine. NIH: National Institute of Diabetes and Digestive and Kidney Diseases</dc:description>
+<dc:subject dcterms="mesh">Gastrointestinal Hemorrhage</dc:subject>
+<dc:subject xml:lang="es">Hemorragia gastrointestinal</dc:subject>
+<dc:subject xml:lang="es">Digestivo</dc:subject>
+<dc:subject xml:lang="es">Sangrado del aparato</dc:subject>
+<dc:subject xml:lang="es">Sangrado gastrointestinal</dc:subject>
+<dc:subject xml:lang="en">Gastrointestinal Bleeding</dc:subject>
+<dc:subject xml:lang="en">GI Bleeding</dc:subject>
+<dc:subject xml:lang="en">Bleeding</dc:subject>
+<dc:subject xml:lang="en">Gastrointestinal</dc:subject>
+<dc:subject xml:lang="en">Rectal Bleeding</dc:subject>
+</metadata>
+</record>
+</MedlinePlus-document>

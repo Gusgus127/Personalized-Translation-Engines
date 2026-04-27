@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<MedlinePlus-document>
+<record>
+<header>
+<identifier>https://medlineplus.gov/occupationalhealthforhealthcareproviders.html</identifier>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title type="alternate" xml:lang="es">Proveedores de salud, Salud ocupacional</dc:title>
+<dc:title type="alternate" xml:lang="es">Doctores, Salud</dc:title>
+<dc:title type="alternate" xml:lang="en">Blood-Borne Pathogens</dc:title>
+<dc:type>Text</dc:type>
+<dc:language>spa</dc:language>
+<dc:language>eng</dc:language>
+<dc:title xml:lang="es">Salud ocupacional de proveedores de salud</dc:title>
+<dc:title xml:lang="en">Occupational Health for Health Care Providers</dc:title>
+<dc:publisher>National Library of Medicine</dc:publisher>
+<dc:relation type="IsPartOf">Safety Issues</dc:relation>
+<dc:relation type="IsPartOf">Health System</dc:relation>
+<dc:date type="created">2004-04-06</dc:date>
+<dc:date type="modified">2017-12-29</dc:date>
+<dc:identifier type="URL" xml:lang="es">https://medlineplus.gov/spanish/occupationalhealthforhealthcareproviders.html</dc:identifier>
+<dc:identifier type="URL" xml:lang="en">https://medlineplus.gov/occupationalhealthforhealthcareproviders.html</dc:identifier>
+<dc:description xml:lang="es">Los empleados dedicados al cuidado de la salud están expuestos a muchos riesgos laborales. Ellos pueden incluir: Infecciones Lesiones con agujas Lesiones en la espalda Sustancias que causan alergias Violencia Estrés Se deben seguir buenas prácticas de seguridad laboral y prevenir las lesiones. Eso puede reducir los riesgos de tener problemas con la salud. Use equipo protector, siga las pautas para el control de infecciones, aprenda la forma correcta de levantar objetos pesados y encuentre maneras para controlar el estrés. Instituto Nacional de la Seguridad y la Salud Ocupacional</dc:description>
+<dc:description xml:lang="en">Health care workers are exposed to many job hazards. These can include Infections Needle injuries Back injuries Allergy-causing substances Violence Stress Follow good job safety and injury prevention practices. They can reduce your risk of health problems. Use protective equipment, follow infection control guidelines, learn the right way to lift heavy objects, and find ways to manage stress. National Institute for Occupational Safety and Health</dc:description>
+<dc:subject dcterms="mesh">Occupational Exposure</dc:subject>
+<dc:subject dcterms="mesh">Health Occupations</dc:subject>
+<dc:subject dcterms="mesh">Occupational Health</dc:subject>
+<dc:subject xml:lang="es">Salud ocupacional de proveedores de salud</dc:subject>
+<dc:subject xml:lang="es">Proveedores de salud</dc:subject>
+<dc:subject xml:lang="es">Salud ocupacional</dc:subject>
+<dc:subject xml:lang="es">Doctores</dc:subject>
+<dc:subject xml:lang="es">Salud</dc:subject>
+<dc:subject xml:lang="en">Occupational Health for Health Care Providers</dc:subject>
+<dc:subject xml:lang="en">Blood-Borne Pathogens</dc:subject>
+</metadata>
+</record>
+</MedlinePlus-document>

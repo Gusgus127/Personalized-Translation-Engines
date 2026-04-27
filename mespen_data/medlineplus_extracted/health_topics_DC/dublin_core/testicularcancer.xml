@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<MedlinePlus-document>
+<record>
+<header>
+<identifier>https://medlineplus.gov/testicularcancer.html</identifier>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title type="alternate" xml:lang="es">Testículo, Cáncer de</dc:title>
+<dc:title type="alternate" xml:lang="en">Seminoma</dc:title>
+<dc:type>Text</dc:type>
+<dc:language>spa</dc:language>
+<dc:language>eng</dc:language>
+<dc:title xml:lang="es">Cáncer de testículo</dc:title>
+<dc:title xml:lang="en">Testicular Cancer</dc:title>
+<dc:publisher>National Library of Medicine</dc:publisher>
+<dc:relation type="IsPartOf">Cancers</dc:relation>
+<dc:relation type="IsPartOf">Men</dc:relation>
+<dc:relation type="IsPartOf">Male Reproductive System</dc:relation>
+<dc:relation type="IsPartOf">Endocrine System</dc:relation>
+<dc:date type="created">2002-07-21</dc:date>
+<dc:date type="modified">2018-01-25</dc:date>
+<dc:identifier type="URL" xml:lang="es">https://medlineplus.gov/spanish/testicularcancer.html</dc:identifier>
+<dc:identifier type="URL" xml:lang="en">https://medlineplus.gov/testicularcancer.html</dc:identifier>
+<dc:description xml:lang="es">Los testículos producen hormonas masculinas y semen. Son dos órganos con forma ovalada que se ubican dentro del escroto, la bolsa de piel ubicada debajo del pene. Se puede desarrollar cáncer en uno o ambos testículos. El cáncer de testículos afecta principalmente a hombres jóvenes entre los 20 y 39 años. También es más común en hombres que: Tuvieron un desarrollo testicular anormal Tuvieron un testículo no descendido Tienen antecedentes familiares de cáncer Los síntomas incluyen dolor, inflamación o nódulos en los testículos o la región inguinal. Los médicos utilizan exámenes físicos, de laboratorio, de imagen y una biopsia para diagnosticarlo. La mayoría de los casos son tratables, especialmente cuando se detectan con anticipación. Las opciones de tratamiento incluyen cirugía, radiación y quimioterapia. Los análisis habituales después del tratamiento son importantes. Los tratamientos también pueden causar infertilidad. Si desea tener hijos más adelante, deberá tomar en consideración acudir a un banco de esperma antes del tratamiento. NIH: Instituto Nacional del Cáncer</dc:description>
+<dc:description xml:lang="en">Testicles, or testes, make male hormones and sperm. They are two egg-shaped organs inside the scrotum, the loose sac of skin behind the penis. You can get cancer in one or both testicles. Testicular cancer mainly affects young men between the ages of 20 and 39. It is also more common in men who Have had abnormal testicle development Have had an undescended testicle Have a family history of the cancer Symptoms include pain, swelling, or lumps in your testicles or groin area. Doctors use a physical exam, lab tests, imaging tests, and a biopsy to diagnose testicular cancer. Most cases can be treated, especially if found early. Treatment options include surgery, radiation, and/or chemotherapy. Regular exams after treatment are important. Treatments may also cause infertility. If you may want children later on, you should consider sperm banking before treatment. NIH: National Cancer Institute</dc:description>
+<dc:subject dcterms="mesh">Testicular Neoplasms</dc:subject>
+<dc:subject xml:lang="es">Cáncer de testículo</dc:subject>
+<dc:subject xml:lang="es">Testículo</dc:subject>
+<dc:subject xml:lang="es">Cáncer de</dc:subject>
+<dc:subject xml:lang="en">Testicular Cancer</dc:subject>
+<dc:subject xml:lang="en">Seminoma</dc:subject>
+</metadata>
+</record>
+</MedlinePlus-document>

@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<MedlinePlus-document>
+<record>
+<header>
+<identifier>https://medlineplus.gov/leginjuriesanddisorders.html</identifier>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title type="alternate" xml:lang="es">Pierna, Lesiones y enfermedades de la</dc:title>
+<dc:title type="alternate" xml:lang="es">Rengueo</dc:title>
+<dc:title type="alternate" xml:lang="en">Claudication</dc:title>
+<dc:title type="alternate" xml:lang="en">Intermittent Claudication</dc:title>
+<dc:title type="alternate" xml:lang="en">Leg Cramps</dc:title>
+<dc:title type="alternate" xml:lang="en">Ulcer, Leg</dc:title>
+<dc:type>Text</dc:type>
+<dc:language>spa</dc:language>
+<dc:language>eng</dc:language>
+<dc:title xml:lang="es">Lesiones y enfermedades de la pierna</dc:title>
+<dc:title xml:lang="en">Leg Injuries and Disorders</dc:title>
+<dc:publisher>National Library of Medicine</dc:publisher>
+<dc:relation type="IsPartOf">Bones, Joints and Muscles</dc:relation>
+<dc:relation type="IsPartOf">Injuries and Wounds</dc:relation>
+<dc:date type="created">2002-07-21</dc:date>
+<dc:date type="modified">2018-02-12</dc:date>
+<dc:identifier type="URL" xml:lang="es">https://medlineplus.gov/spanish/leginjuriesanddisorders.html</dc:identifier>
+<dc:identifier type="URL" xml:lang="en">https://medlineplus.gov/leginjuriesanddisorders.html</dc:identifier>
+<dc:description xml:lang="es">Las piernas están formadas por huesos, vasos sanguíneos, músculos y otros tejidos conectivos. Son importantes para moverse y como soporte del cuerpo. La práctica deportiva, correr, las caídas o los accidentes pueden lesionar sus piernas. Las lesiones más comunes incluyen torceduras y distensiones, dislocaciones de una articulación y fracturas. Estas lesiones pueden afectar toda la pierna o solamente el pie, el tobillo, la rodilla o la cadera. Algunas enfermedades también causan problemas en las piernas. Por ejemplo, la osteoartritis de la rodilla, común en personas mayores, puede causar dolor y limitarles sus movimientos. Los problemas en las venas de las piernas pueden causar várices o trombosis venosa profunda.</dc:description>
+<dc:description xml:lang="en">Your legs are made up of bones, blood vessels, muscles, and other connective tissue. They are important for motion and standing. Playing sports, running, falling, or having an accident can damage your legs. Common leg injuries include sprains and strains, joint dislocations, and fractures. These injuries can affect the entire leg, or just the foot, ankle, knee, or hip. Certain diseases also lead to leg problems. For example, knee osteoarthritis, common in older people, can cause pain and limited motion. Problems in your veins in your legs can lead to varicose veins or deep vein thrombosis.</dc:description>
+<dc:subject dcterms="mesh">Leg Injuries</dc:subject>
+<dc:subject dcterms="mesh">Tibial Fractures</dc:subject>
+<dc:subject dcterms="mesh">Femoral Fractures</dc:subject>
+<dc:subject dcterms="mesh">Leg Ulcer</dc:subject>
+<dc:subject dcterms="mesh">Leg Length Inequality</dc:subject>
+<dc:subject xml:lang="es">Lesiones y enfermedades de la pierna</dc:subject>
+<dc:subject xml:lang="es">Pierna</dc:subject>
+<dc:subject xml:lang="es">Lesiones y enfermedades de la</dc:subject>
+<dc:subject xml:lang="es">Rengueo</dc:subject>
+<dc:subject xml:lang="en">Leg Injuries and Disorders</dc:subject>
+<dc:subject xml:lang="en">Claudication</dc:subject>
+<dc:subject xml:lang="en">Intermittent Claudication</dc:subject>
+<dc:subject xml:lang="en">Leg Cramps</dc:subject>
+<dc:subject xml:lang="en">Ulcer</dc:subject>
+<dc:subject xml:lang="en">Leg</dc:subject>
+</metadata>
+</record>
+</MedlinePlus-document>

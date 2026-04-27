@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<MedlinePlus-document>
+<record>
+<header>
+<identifier>https://medlineplus.gov/neuroblastoma.html</identifier>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:type>Text</dc:type>
+<dc:language>spa</dc:language>
+<dc:language>eng</dc:language>
+<dc:title xml:lang="es">Neuroblastoma</dc:title>
+<dc:title xml:lang="en">Neuroblastoma</dc:title>
+<dc:publisher>National Library of Medicine</dc:publisher>
+<dc:relation type="IsPartOf">Cancers</dc:relation>
+<dc:relation type="IsPartOf">Brain and Nerves</dc:relation>
+<dc:date type="created">2002-07-21</dc:date>
+<dc:date type="modified">2017-01-31</dc:date>
+<dc:identifier type="URL" xml:lang="es">https://medlineplus.gov/spanish/neuroblastoma.html</dc:identifier>
+<dc:identifier type="URL" xml:lang="en">https://medlineplus.gov/neuroblastoma.html</dc:identifier>
+<dc:description xml:lang="es">El neuroblastoma es un cáncer que se forma en el tejido nervioso. Suele comenzar en las glándulas suprarrenales, o adrenales, que se ubican en la parte superior de los riñones. También puede comenzar en el cuello, el pecho o la médula espinal. Frecuentemente, el cáncer comienza en la infancia temprana. Algunas veces, comienza antes del nacimiento. Cuando llega el momento en que los médicos lo detectan, por lo general ya se ha diseminado a otras partes del cuerpo. Los síntomas más comunes son: Un bulto en el abdomen, el cuello o el pecho Ojos saltones Círculos oscuros alrededor de los ojos Dolor de los huesos Inflamación del estómago y problemas respiratorios en los bebés Bultos de color azulado, no dolorosos en la piel de los bebés Incapacidad para mover una parte del cuerpo El tratamiento incluye cirugía, radiación, quimioterapia o una combinación de todas. Algunas veces, antes de administrar el tratamiento, los médicos esperan para ver si los síntomas empeoran. Eso se conoce como conducta expectante. NIH: Instituto Nacional del Cáncer</dc:description>
+<dc:description xml:lang="en">Neuroblastoma is a cancer that forms in your nerve tissue. It usually begins in the adrenal glands, which sit atop your kidneys. It may also begin in your neck, chest or spinal cord. The cancer often begins in early childhood. Sometimes it begins before a child is born. By the time doctors find the cancer, it has usually spread to other parts of the body. The most common symptoms are A lump in the abdomen, neck or chest Bulging eyes Dark circles around the eyes Bone pain Swollen stomach and trouble breathing in babies Painless, bluish lumps under the skin in babies Inability to move a body part Treatments include surgery, radiation therapy, chemotherapy, biologic therapy, or a combination. Biologic therapy boosts your body's own ability to fight cancer. Sometimes before giving treatment, doctors wait to see whether symptoms get worse. This is called watchful waiting. NIH: National Cancer Institute</dc:description>
+<dc:subject dcterms="mesh">Neuroblastoma</dc:subject>
+<dc:subject xml:lang="es">Neuroblastoma</dc:subject>
+<dc:subject xml:lang="en">Neuroblastoma</dc:subject>
+</metadata>
+</record>
+</MedlinePlus-document>

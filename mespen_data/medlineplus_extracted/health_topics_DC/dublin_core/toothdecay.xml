@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<MedlinePlus-document>
+<record>
+<header>
+<identifier>https://medlineplus.gov/toothdecay.html</identifier>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:type>Text</dc:type>
+<dc:language>spa</dc:language>
+<dc:language>eng</dc:language>
+<dc:title xml:lang="es">Caries</dc:title>
+<dc:title xml:lang="en">Tooth Decay</dc:title>
+<dc:publisher>National Library of Medicine</dc:publisher>
+<dc:relation type="IsPartOf">Mouth and Teeth</dc:relation>
+<dc:date type="created">2012-01-17</dc:date>
+<dc:date type="modified">2017-12-04</dc:date>
+<dc:identifier type="URL" xml:lang="es">https://medlineplus.gov/spanish/toothdecay.html</dc:identifier>
+<dc:identifier type="URL" xml:lang="en">https://medlineplus.gov/toothdecay.html</dc:identifier>
+<dc:description xml:lang="es">Usted lo llama caries. Su dentista le llama caries dental o caries del diente. Todos son nombres de un hueco en el diente. La causa de la caries dental es la placa, una sustancia pegajosa en su boca que se compone principalmente de gérmenes. La caries dental se inicia en la capa externa, llamada esmalte. Sin esa capa, la caries puede penetrar más profundamente en el diente y en sus nervios y causar dolor o abscesos. Para prevenir las caries Cepille sus dientes todos los días con pasta dental con fluoruro Use diariamente el hilo dental para remover residuos entre los dientes Tenga cuidado con lo que come, limite los bocadillos azucarados Visite a su dentista o al profesional de la salud oral con regularidad</dc:description>
+<dc:description xml:lang="en">You call it a cavity. Your dentist calls it tooth decay or dental caries. They're all names for a hole in your tooth. The cause of tooth decay is plaque, a sticky substance in your mouth made up mostly of germs. Tooth decay starts in the outer layer, called the enamel. Without a filling, the decay can get deep into the tooth and its nerves and cause a toothache or abscess. To help prevent cavities Brush your teeth every day with a fluoride toothpaste Clean between your teeth every day with floss or another type of between-the-teeth cleaner Snack smart - limit sugary snacks See your dentist or oral health professional regularly</dc:description>
+<dc:subject dcterms="mesh">Dental Caries</dc:subject>
+<dc:subject xml:lang="es">Caries</dc:subject>
+<dc:subject xml:lang="en">Tooth Decay</dc:subject>
+<dc:subject xml:lang="en">Cavities</dc:subject>
+<dc:subject xml:lang="en">Dental Caries</dc:subject>
+<dc:subject xml:lang="en">Dental Sealants</dc:subject>
+<dc:subject xml:lang="en">Plaque</dc:subject>
+<dc:subject xml:lang="en">Dental</dc:subject>
+</metadata>
+</record>
+</MedlinePlus-document>

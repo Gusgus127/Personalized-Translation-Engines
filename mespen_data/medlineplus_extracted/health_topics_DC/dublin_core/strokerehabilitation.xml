@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<MedlinePlus-document>
+<record>
+<header>
+<identifier>https://medlineplus.gov/strokerehabilitation.html</identifier>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title type="alternate" xml:lang="es">ACV, Recuperación</dc:title>
+<dc:title type="alternate" xml:lang="es">Ataque cerebral, Recuperación</dc:title>
+<dc:title type="alternate" xml:lang="es">Derrame cerebral, Recuperación</dc:title>
+<dc:type>Text</dc:type>
+<dc:language>spa</dc:language>
+<dc:language>eng</dc:language>
+<dc:title xml:lang="es">Recuperación de un ataque cerebral</dc:title>
+<dc:title xml:lang="en">Stroke Rehabilitation</dc:title>
+<dc:publisher>National Library of Medicine</dc:publisher>
+<dc:relation type="IsPartOf">Brain and Nerves</dc:relation>
+<dc:relation type="IsPartOf">Surgery and Rehabilitation</dc:relation>
+<dc:date type="created">2011-11-14</dc:date>
+<dc:date type="modified">2018-01-19</dc:date>
+<dc:identifier type="URL" xml:lang="es">https://medlineplus.gov/spanish/strokerehabilitation.html</dc:identifier>
+<dc:identifier type="URL" xml:lang="en">https://medlineplus.gov/strokerehabilitation.html</dc:identifier>
+<dc:description xml:lang="es">Un ataque cerebrovascular puede causar daño cerebral permanente. Las personas que sobreviven a un derrame cerebral necesitan volver a aprender las habilidades que perdieron. Los efectos del ataque cerebral dependen del área del cerebro dañada. Los tipos de discapacidades que pueden causar los ataques cerebrales incluyen: Parálisis o problemas de control del movimiento Dolor u otros problemas con los sentidos Problemas para usar o entender lo que se le dice Alteraciones emocionales La recuperación de un ataque cerebral involucra a varios profesionales de la salud. El objetivo es ayudar a los sobrevivientes de un ataque cerebral a ser lo más independiente posible y a tener la mejor calidad de vida que se pueda. NIH: Instituto Nacional de Trastornos Neurológicos y Accidentes Cerebrovasculares</dc:description>
+<dc:description xml:lang="en">A stroke can cause lasting brain damage. People who survive a stroke need to relearn skills they lost because of the damage. Rehabilitation can help them relearn those skills. The effects of a stroke depend on which area of the brain was damaged. The types of disabilities a stroke can cause include Paralysis or problems controlling movement Pain and other problems with the senses Problems using or understanding language Problems with thinking and memory Emotional disturbances Stroke rehabilitation involves many kinds of health professionals. The goal is to help stroke survivors become as independent as possible and to have the best possible quality of life. NIH: National Institute of Neurological Disorders and Stroke</dc:description>
+<dc:subject dcterms="mesh">Stroke Rehabilitation</dc:subject>
+<dc:subject xml:lang="es">Recuperación de un ataque cerebral</dc:subject>
+<dc:subject xml:lang="es">ACV</dc:subject>
+<dc:subject xml:lang="es">Recuperación</dc:subject>
+<dc:subject xml:lang="es">Ataque cerebral</dc:subject>
+<dc:subject xml:lang="es">Recuperación</dc:subject>
+<dc:subject xml:lang="es">Derrame cerebral</dc:subject>
+<dc:subject xml:lang="es">Recuperación</dc:subject>
+<dc:subject xml:lang="en">Stroke Rehabilitation</dc:subject>
+</metadata>
+</record>
+</MedlinePlus-document>

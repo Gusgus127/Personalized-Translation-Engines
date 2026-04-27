@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<MedlinePlus-document>
+<record>
+<header>
+<identifier>https://medlineplus.gov/amblyopia.html</identifier>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title type="alternate" xml:lang="es">Ojo perezoso</dc:title>
+<dc:title type="alternate" xml:lang="en">Lazy Eye</dc:title>
+<dc:type>Text</dc:type>
+<dc:language>spa</dc:language>
+<dc:language>eng</dc:language>
+<dc:title xml:lang="es">Ambliopía</dc:title>
+<dc:title xml:lang="en">Amblyopia</dc:title>
+<dc:publisher>National Library of Medicine</dc:publisher>
+<dc:relation type="IsPartOf">Eyes and Vision</dc:relation>
+<dc:date type="created">2014-05-01</dc:date>
+<dc:date type="modified">2017-07-19</dc:date>
+<dc:identifier type="URL" xml:lang="es">https://medlineplus.gov/spanish/amblyopia.html</dc:identifier>
+<dc:identifier type="URL" xml:lang="en">https://medlineplus.gov/amblyopia.html</dc:identifier>
+<dc:description xml:lang="es">Ambliopía u "ojo perezoso" es uno de los problemas más comunes de la visión en niños. Esto sucede porque uno de los ojos no se comunica bien con el cerebro. El ojo puede parecer normal pero el cerebro "prefiere" el otro ojo. En algunos casos, los dos ojos pueden estar afectados. Las causas incluyen: Estrabismo u ojo bizco: una condición en la cual los ojos no miran en la misma dirección Errores de refracción en un ojo: cuando uno de los ojos no puede focalizar tan bien como el otro por un problema de su forma. Esto incluye miopía, hipermetropía (hiperopía) y astigmatismo. Catarata, que opaca o nubla el lente del ojo El tratamiento para la ambliopía es forzar a usar el ojo perezoso. Hay dos maneras de hacer esto. Uno es que el niño use el parche en el ojo "bueno" por varias horas todos los días por unas semanas o meses. La otra es con gotas que nublan la visión temporariamente. En este caso, se coloca una gota de una medicina que se llama atropina en el ojo "bueno" del niño. A veces, también es necesario tratar la causa subyacente. Esto puede incluir anteojos o cirugía. NIH: Instituto Nacional del Ojo</dc:description>
+<dc:description xml:lang="en">Amblyopia, or "lazy eye," is the most common cause of visual impairment in children. It happens when an eye fails to work properly with the brain. The eye may look normal, but the brain favors the other eye. In some cases, it can affect both eyes. Causes include Strabismus - a disorder in which the two eyes don't line up in the same direction Refractive error in an eye - when one eye cannot focus as well as the other, because of a problem with its shape. This includes nearsightedness, farsightedness, and astigmatism. Cataract - a clouding in the lens of the eye It can be hard to diagnose amblyopia. It is often found during a routine vision exam. Treatment for amblyopia forces the child to use the eye with weaker vision. There are two common ways to do this. One is to have the child wear a patch over the good eye for several hours each day, over a number of weeks to months. The other is with eye drops that temporarily blur vision. Each day, the child gets a drop of a drug called atropine in the stronger eye. It is also sometimes necessary to treat the underlying cause. This could include glasses or surgery. NIH: National Eye Institute</dc:description>
+<dc:subject dcterms="mesh">Amblyopia</dc:subject>
+<dc:subject xml:lang="es">Ambliopía</dc:subject>
+<dc:subject xml:lang="es">Ojo perezoso</dc:subject>
+<dc:subject xml:lang="en">Amblyopia</dc:subject>
+<dc:subject xml:lang="en">Lazy Eye</dc:subject>
+</metadata>
+</record>
+</MedlinePlus-document>

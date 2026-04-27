@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<MedlinePlus-document>
+<record>
+<header>
+<identifier>https://medlineplus.gov/shingles.html</identifier>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title type="alternate" xml:lang="es">Herpes zoster</dc:title>
+<dc:title type="alternate" xml:lang="en">Herpes Zoster</dc:title>
+<dc:title type="alternate" xml:lang="en">Post-herpetic Neuralgia</dc:title>
+<dc:type>Text</dc:type>
+<dc:language>spa</dc:language>
+<dc:language>eng</dc:language>
+<dc:title xml:lang="es">Culebrilla (herpes zóster)</dc:title>
+<dc:title xml:lang="en">Shingles</dc:title>
+<dc:publisher>National Library of Medicine</dc:publisher>
+<dc:relation type="IsPartOf">Seniors</dc:relation>
+<dc:relation type="IsPartOf">Infections</dc:relation>
+<dc:relation type="IsPartOf">Skin, Hair and Nails</dc:relation>
+<dc:relation type="IsPartOf">Brain and Nerves</dc:relation>
+<dc:date type="created">2002-07-21</dc:date>
+<dc:date type="modified">2018-01-19</dc:date>
+<dc:identifier type="URL" xml:lang="es">https://medlineplus.gov/spanish/shingles.html</dc:identifier>
+<dc:identifier type="URL" xml:lang="en">https://medlineplus.gov/shingles.html</dc:identifier>
+<dc:description xml:lang="es">El herpes zóster es una enfermedad causada por el virus de la varicela zoster, el mismo que causa la varicela. Después de tener varicela, el virus permanece en el cuerpo. Puede no causar problemas durante muchos años. A medida que envejece, el virus puede reaparecer como herpes zóster. Aunque es más común en personas mayores de 50 años de edad, cualquier persona que haya tenido varicela está en riesgo. Usted no puede contagiarse con la culebrilla. Sin embargo, si usted tiene una erupción de culebrilla, puede transmitir el virus a alguien que nunca ha tenido varicela. Esto suele ocurrir en niños, quienes podrían contraer la varicela en lugar de herpes zóster. El virus se propaga a través del contacto directo con la erupción, y no puede propagarse por el aire. Los primeros signos de herpes zóster incluyen ardor o dolor punzante y hormigueo o picazón, generalmente en un lado del cuerpo o la cara. El dolor puede ser leve o severo. Las erupciones o ampollas aparecen entre uno y 14 días después. Si la culebrilla aparece en su cara, puede afectar la vista o el oído. El dolor de la culebrilla puede durar semanas, meses o incluso años después de que las ampollas han sanado. No hay cura para el herpes zóster. El tratamiento temprano con medicamentos que combaten el virus puede ayudar. Estos medicamentos también pueden ayudar a prevenir el persistente dolor. Una vacuna puede prevenir la culebrilla o disminuir sus efectos. La vacuna se recomienda para las personas de 60 años o más. En algunos casos, los médicos pueden recomendarla a personas de entre 50 a 59 años. NIH: Instituto Nacional de Alergias y Enfermedades Infecciosas</dc:description>
+<dc:description xml:lang="en">Shingles is a disease caused by the varicella-zoster virus - the same virus that causes chickenpox. After you have chickenpox, the virus stays in your body. It may not cause problems for many years. As you get older, the virus may reappear as shingles. Although it is most common in people over age 50, anyone who has had chickenpox is at risk. You can't catch shingles from someone who has it. However, if you have a shingles rash, you can pass the virus to someone who has never had chickenpox. This would usually be a child, who could get chickenpox instead of shingles. The virus spreads through direct contact with the rash, and cannot spread through the air. Early signs of shingles include burning or shooting pain and tingling or itching, usually on one side of the body or face. The pain can be mild to severe. Rashes or blisters appear anywhere from one to 14 days later. If shingles appears on your face, it may affect your vision or hearing. The pain of shingles may last for weeks, months, or even years after the blisters have healed. There is no cure for shingles. Early treatment with medicines that fight the virus may help. These medicines may also help prevent lingering pain. A vaccine may prevent shingles or lessen its effects. The vaccine is recommended for people 60 or over. In some cases doctors may give it to people ages 50 to 59. NIH: National Institute of Allergy and Infectious Diseases</dc:description>
+<dc:subject dcterms="mesh">Neuralgia, Postherpetic</dc:subject>
+<dc:subject dcterms="mesh">Herpes Zoster</dc:subject>
+<dc:subject xml:lang="es">Culebrilla (herpes zóster)</dc:subject>
+<dc:subject xml:lang="es">Herpes zoster</dc:subject>
+<dc:subject xml:lang="en">Shingles</dc:subject>
+<dc:subject xml:lang="en">Herpes Zoster</dc:subject>
+<dc:subject xml:lang="en">Post-herpetic Neuralgia</dc:subject>
+</metadata>
+</record>
+</MedlinePlus-document>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<MedlinePlus-document>
+<record>
+<header>
+<identifier>https://medlineplus.gov/ectopicpregnancy.html</identifier>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:type>Text</dc:type>
+<dc:language>spa</dc:language>
+<dc:language>eng</dc:language>
+<dc:title xml:lang="es">Embarazo ectópico</dc:title>
+<dc:title xml:lang="en">Ectopic Pregnancy</dc:title>
+<dc:publisher>National Library of Medicine</dc:publisher>
+<dc:relation type="IsPartOf">Women</dc:relation>
+<dc:relation type="IsPartOf">Pregnancy and Reproduction</dc:relation>
+<dc:relation type="IsPartOf">Female Reproductive System</dc:relation>
+<dc:date type="created">2011-07-11</dc:date>
+<dc:date type="modified">2017-10-13</dc:date>
+<dc:identifier type="URL" xml:lang="es">https://medlineplus.gov/spanish/ectopicpregnancy.html</dc:identifier>
+<dc:identifier type="URL" xml:lang="en">https://medlineplus.gov/ectopicpregnancy.html</dc:identifier>
+<dc:description xml:lang="es">El útero, o matriz, es el órgano donde el feto crece cuando una mujer esta embarazada. Si usted tiene un embarazo ectópico, el óvulo fertilizado crece en un lugar equivocado, fuera del útero, generalmente en las trompas de Falopio. Esto, suele resultar en un aborto espontáneo. Un embarazo ectópico puede ser una emergencia médica si se desgarra. Los avisos de un embarazo ectópico incluyen: Dolor abdominal Dolor en los hombros Sangrado vaginal Mareo y vértigo Busque atención médica de inmediato si se presentan estos indicios. Los doctores usan medicamentos o cirugía para extirpar tejido ectópico y, así, no dañar otros órganos. Muchas mujeres que tienen un embarazo ectópico, tendrán embarazos saludables más adelante. Oficina para la Salud de la Mujer del Departamento de Salud y Servicios Humanos de los EE. UU.</dc:description>
+<dc:description xml:lang="en">The uterus, or womb, is the place where a baby grows when a woman is pregnant. If you have an ectopic pregnancy, the fertilized egg grows in the wrong place, outside the uterus, usually in the fallopian tubes. The result is usually a miscarriage. Ectopic pregnancy can be a medical emergency if it ruptures. Signs of ectopic pregnancy include Abdominal pain Shoulder pain Vaginal bleeding Feeling dizzy or faint Get medical care right away if you have these signs. Doctors use drugs or surgery to remove the ectopic tissue so it doesn't damage your organs. Many women who have had ectopic pregnancies go on to have healthy pregnancies later. Dept. of Health and Human Services Office on Women's Health</dc:description>
+<dc:subject dcterms="mesh">Pregnancy, Ectopic</dc:subject>
+<dc:subject xml:lang="es">Embarazo ectópico</dc:subject>
+<dc:subject xml:lang="en">Ectopic Pregnancy</dc:subject>
+<dc:subject xml:lang="en">Tubal Pregnancy</dc:subject>
+<dc:subject xml:lang="en">Abdominal Pregnancy</dc:subject>
+<dc:subject xml:lang="en">Cervical Pregnancy</dc:subject>
+</metadata>
+</record>
+</MedlinePlus-document>

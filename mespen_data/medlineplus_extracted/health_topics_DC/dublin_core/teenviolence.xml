@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<MedlinePlus-document>
+<record>
+<header>
+<identifier>https://medlineplus.gov/teenviolence.html</identifier>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:type>Text</dc:type>
+<dc:language>spa</dc:language>
+<dc:language>eng</dc:language>
+<dc:title xml:lang="es">Violencia en los adolescentes</dc:title>
+<dc:title xml:lang="en">Teen Violence</dc:title>
+<dc:publisher>National Library of Medicine</dc:publisher>
+<dc:relation type="IsPartOf">Children and Teenagers</dc:relation>
+<dc:relation type="IsPartOf">Social/Family Issues</dc:relation>
+<dc:date type="created">2002-07-21</dc:date>
+<dc:date type="modified">2017-03-02</dc:date>
+<dc:identifier type="URL" xml:lang="es">https://medlineplus.gov/spanish/teenviolence.html</dc:identifier>
+<dc:identifier type="URL" xml:lang="en">https://medlineplus.gov/teenviolence.html</dc:identifier>
+<dc:description xml:lang="es">La violencia en los adolescentes se refiere a acciones dañinas que comienzan temprano y continúan hasta que la persona es un adulto joven. El o la joven puede ser la víctima, el agresor o el testigo de un acto de violencia. Los actos violentos pueden ser: Intimidación Peleas, incluyendo puñetazos, patadas, bofetadas o golpes Uso de armas, como pistolas o cuchillos Algunos actos violentos pueden causar más daño emocional que físico. Otros pueden causar lesiones graves o incluso la muerte. Un importante factor de riesgo para la violencia en los adolescentes es el comportamiento de sus amigos y compañeros de clase. Usted debería de saber con quién se relacionan sus hijos y fomentar un comportamiento y amistades saludables. Centros para el Control y la Prevención de Enfermedades</dc:description>
+<dc:description xml:lang="en">Teen violence refers to harmful behaviors that can start early and continue into young adulthood. The young person can be a victim, an offender, or a witness to the violence. Violent acts can include Bullying Fighting, including punching, kicking, slapping, or hitting Use of weapons such as guns or knives Some violent acts can cause more emotional harm than physical harm. Others can lead to serious injury or even death. An important risk factor for violence in teens is the behavior of their friends and classmates. You should know who your kids hang out with and encourage healthy behavior and relationships. Centers for Disease Control and Prevention</dc:description>
+<dc:subject dcterms="mesh">Violence</dc:subject>
+<dc:subject dcterms="mesh">Adolescent Behavior</dc:subject>
+<dc:subject xml:lang="es">Violencia en los adolescentes</dc:subject>
+<dc:subject xml:lang="en">Teen Violence</dc:subject>
+<dc:subject xml:lang="en">Violence</dc:subject>
+<dc:subject xml:lang="en">Youth Violence</dc:subject>
+</metadata>
+</record>
+</MedlinePlus-document>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<MedlinePlus-document>
+<record>
+<header>
+<identifier>https://medlineplus.gov/mildcognitiveimpairment.html</identifier>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:type>Text</dc:type>
+<dc:language>spa</dc:language>
+<dc:language>eng</dc:language>
+<dc:title xml:lang="es">Deterioro cognitivo leve</dc:title>
+<dc:title xml:lang="en">Mild Cognitive Impairment</dc:title>
+<dc:publisher>National Library of Medicine</dc:publisher>
+<dc:relation type="IsPartOf">Mental Health and Behavior</dc:relation>
+<dc:relation type="IsPartOf">Seniors</dc:relation>
+<dc:relation type="IsPartOf">Brain and Nerves</dc:relation>
+<dc:date type="created">2011-01-10</dc:date>
+<dc:date type="modified">2017-09-21</dc:date>
+<dc:identifier type="URL" xml:lang="es">https://medlineplus.gov/spanish/mildcognitiveimpairment.html</dc:identifier>
+<dc:identifier type="URL" xml:lang="en">https://medlineplus.gov/mildcognitiveimpairment.html</dc:identifier>
+<dc:description xml:lang="es">Algunos olvidos pueden ser parte normal del envejecimiento. Sin embargo, algunas personas tienen más problemas de memoria que otras de su misma edad. Esta es una condición llamada deterioro cognitivo leve. La gente con deterioro cognitivo leve puede cuidarse a sí misma y puede desarrollar sus actividades normalmente. Los problemas de memoria del deterioro cognitivo leve pueden incluir Perder objetos frecuentemente Olvidarse de ir a programas y citas Tener más problemas para encontrar las palabras adecuadas en un momento dado que otras personas Su proveedor de cuidados de salud puede realizar pruebas de pensamiento, de memoria y del habla para determinar si usted sufre de deterioro cognitivo leve. También puede sugerirle consultar a un especialista para obtener más pruebas. Dado que el deterioro cognitivo leve puede ser una señal temprana de la enfermedad de Alzheimer, es muy importante ver a su proveedor de cuidados de salud cada 6 a 12 meses. En este momento no hay un tratamiento efectivo contra el deterioro cognitivo leve. Su proveedor de cuidados de salud puede ir examinando si aparece algún cambio en su memoria o proceso intelectual en el transcurso del tiempo.</dc:description>
+<dc:description xml:lang="en">Some forgetfulness can be a normal part of aging. However, some people have more memory problems than other people their age. This condition is called mild cognitive impairment, or MCI. People with MCI can take care of themselves and do their normal activities. MCI memory problems may include Losing things often Forgetting to go to events and appointments Having more trouble coming up with words than other people of the same age Memory problems can also have other causes, including certain medicines and diseases that affect the blood vessels that supply the brain. Some of the problems brought on by these conditions can be managed or reversed. Your health care provider can do thinking, memory, and language tests to see if you have MCI. You may also need to see a specialist for more tests. Because MCI may be an early sign of Alzheimer's disease, it's really important to see your health care provider every 6 to 12 months. At this time, there is no proven drug treatment for MCI. Your health care provider can check to see if you have any changes in your memory or thinking skills over time. NIH: National Institute on Aging</dc:description>
+<dc:subject dcterms="mesh">Cognitive Dysfunction</dc:subject>
+<dc:subject xml:lang="es">Deterioro cognitivo leve</dc:subject>
+<dc:subject xml:lang="en">Mild Cognitive Impairment</dc:subject>
+<dc:subject xml:lang="en">MCI</dc:subject>
+</metadata>
+</record>
+</MedlinePlus-document>

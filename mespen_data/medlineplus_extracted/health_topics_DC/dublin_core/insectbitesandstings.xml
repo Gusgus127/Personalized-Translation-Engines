@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<MedlinePlus-document>
+<record>
+<header>
+<identifier>https://medlineplus.gov/insectbitesandstings.html</identifier>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title type="alternate" xml:lang="es">Repelentes de insectos</dc:title>
+<dc:title type="alternate" xml:lang="es">Mosquito, Picadura de</dc:title>
+<dc:title type="alternate" xml:lang="es">Insectos, Mordeduras y picaduras</dc:title>
+<dc:title type="alternate" xml:lang="es">Chinches, Picaduras</dc:title>
+<dc:title type="alternate" xml:lang="es">Ciempiés, Picadura</dc:title>
+<dc:title type="alternate" xml:lang="es">Escorpiones, Picaduras</dc:title>
+<dc:title type="alternate" xml:lang="es">Abejas, Picadura</dc:title>
+<dc:title type="alternate" xml:lang="es">Avispa, Picadura</dc:title>
+<dc:title type="alternate" xml:lang="en">Bee Stings</dc:title>
+<dc:title type="alternate" xml:lang="en">Flea Bites</dc:title>
+<dc:title type="alternate" xml:lang="en">Insect Repellents</dc:title>
+<dc:type>Text</dc:type>
+<dc:language>spa</dc:language>
+<dc:language>eng</dc:language>
+<dc:title xml:lang="es">Picaduras y mordeduras de insectos</dc:title>
+<dc:title xml:lang="en">Insect Bites and Stings</dc:title>
+<dc:publisher>National Library of Medicine</dc:publisher>
+<dc:relation type="IsPartOf">Skin, Hair and Nails</dc:relation>
+<dc:relation type="IsPartOf">Injuries and Wounds</dc:relation>
+<dc:date type="created">2002-07-21</dc:date>
+<dc:date type="modified">2018-01-09</dc:date>
+<dc:identifier type="URL" xml:lang="es">https://medlineplus.gov/spanish/insectbitesandstings.html</dc:identifier>
+<dc:identifier type="URL" xml:lang="en">https://medlineplus.gov/insectbitesandstings.html</dc:identifier>
+<dc:description xml:lang="es">La mayoría de las picaduras de insectos son inofensivas, aunque a veces causen molestias. Las picaduras de los aguijones de las abejas, las avispas, los avispones y mordeduras de las hormigas rojas suelen ser dolorosas. Las picaduras de mosquitos y las pulgas causan picazón. Los insectos también transmiten enfermedades. En Estados Unidos, algunos mosquitos trasmiten el virus del Nilo occidental. Las personas que viajan fuera de los Estados Unidos pueden estar en riesgo de contraer malaria y otras infecciones. Para prevenir las picaduras de insectos y sus complicaciones: No moleste a los insectos Use repelente contra insectos Use ropa protectora Sea cuidadoso si come afuera porque la comida atrae a los insectos Si sabe que tiene reacciones alérgicas a picaduras o mordeduras de insectos (como anafilaxia), lleve consigo un botiquín de emergencia con epinefrina</dc:description>
+<dc:description xml:lang="en">Most insect bites are harmless, though they sometimes cause discomfort. Bee, wasp, and hornet stings and fire ant bites usually hurt. Mosquito and flea bites usually itch. Insects can also spread diseases. In the United States, some mosquitoes spread West Nile virus. Travelers outside the United States may be at risk for malaria and other infections. To prevent insect bites and their complications Don't bother insects Use insect repellant Wear protective clothing Be careful when you eat outside because food attracts insects If you know you have severe allergic reactions to insect bites and stings (such as anaphylaxis), carry an emergency epinephrine kit</dc:description>
+<dc:subject dcterms="mesh">Insect Bites and Stings</dc:subject>
+<dc:subject xml:lang="es">Picaduras y mordeduras de insectos</dc:subject>
+<dc:subject xml:lang="es">Repelentes de insectos</dc:subject>
+<dc:subject xml:lang="es">Mosquito</dc:subject>
+<dc:subject xml:lang="es">Picadura de</dc:subject>
+<dc:subject xml:lang="es">Insectos</dc:subject>
+<dc:subject xml:lang="es">Mordeduras y picaduras</dc:subject>
+<dc:subject xml:lang="es">Chinches</dc:subject>
+<dc:subject xml:lang="es">Picaduras</dc:subject>
+<dc:subject xml:lang="es">Ciempiés</dc:subject>
+<dc:subject xml:lang="es">Picadura</dc:subject>
+<dc:subject xml:lang="es">Escorpiones</dc:subject>
+<dc:subject xml:lang="es">Picaduras</dc:subject>
+<dc:subject xml:lang="es">Abejas</dc:subject>
+<dc:subject xml:lang="es">Picadura</dc:subject>
+<dc:subject xml:lang="es">Avispa</dc:subject>
+<dc:subject xml:lang="es">Picadura</dc:subject>
+<dc:subject xml:lang="en">Insect Bites and Stings</dc:subject>
+<dc:subject xml:lang="en">Bee Stings</dc:subject>
+<dc:subject xml:lang="en">Flea Bites</dc:subject>
+<dc:subject xml:lang="en">Insect Repellents</dc:subject>
+</metadata>
+</record>
+</MedlinePlus-document>

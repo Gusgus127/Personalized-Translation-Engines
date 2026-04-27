@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<MedlinePlus-document>
+<record>
+<header>
+<identifier>https://medlineplus.gov/colonicdiseases.html</identifier>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title type="alternate" xml:lang="es">Colon, Enfermedades del (General)</dc:title>
+<dc:title type="alternate" xml:lang="es">Colitis</dc:title>
+<dc:title type="alternate" xml:lang="es">Intestino largo, Enfermedades del</dc:title>
+<dc:title type="alternate" xml:lang="es">Intestino grueso, Enfermedades del</dc:title>
+<dc:title type="alternate" xml:lang="es">Colitis isquémica</dc:title>
+<dc:title type="alternate" xml:lang="es">Hirschsprung, Enfermedad de</dc:title>
+<dc:title type="alternate" xml:lang="en">Intestinal Diseases</dc:title>
+<dc:type>Text</dc:type>
+<dc:language>spa</dc:language>
+<dc:language>eng</dc:language>
+<dc:title xml:lang="es">Enfermedades del colon</dc:title>
+<dc:title xml:lang="en">Colonic Diseases</dc:title>
+<dc:publisher>National Library of Medicine</dc:publisher>
+<dc:relation type="IsPartOf">Digestive System</dc:relation>
+<dc:date type="created">2002-07-21</dc:date>
+<dc:date type="modified">2017-12-28</dc:date>
+<dc:identifier type="URL" xml:lang="es">https://medlineplus.gov/spanish/colonicdiseases.html</dc:identifier>
+<dc:identifier type="URL" xml:lang="en">https://medlineplus.gov/colonicdiseases.html</dc:identifier>
+<dc:description xml:lang="es">El colon, también llamado intestino grueso, es parte de su sistema digestivo. Es un tubo largo y hueco que se encuentra al final del sistema digestivo, en el cual el cuerpo produce y almacena las heces. Existen muchos trastornos que pueden afectar su capacidad para funcionar adecuadamente. Entre ellos: Cáncer colorrectal Pólipos del colon: crecimientos de tejido en el colon que pueden hacerse cancerosos Colitis ulcerativa: úlceras en el colon y el recto Diverticulitis: inflamación o infección de pequeños sacos o divertículos en el colon Síndrome del intestino irritable: un cuadro molesto que causa cólicos abdominales y otros síntomas El tratamiento de las enfermedades de colon varía ampliamente dependiendo de la enfermedad y su severidad. Puede incluir dieta, medicinas y, en algunos casos, la cirugía. NIH: Instituto Nacional de la Diabetes y las Enfermedades Digestivas y Renales</dc:description>
+<dc:description xml:lang="en">Your colon, also known as the large intestine, is part of your digestive system. It's a long, hollow tube at the end of your digestive tract where your body makes and stores stool. Many disorders affect the colon's ability to work properly. Some of these include Colorectal cancer Colonic polyps - extra tissue growing in the colon that can become cancerous Ulcerative colitis - ulcers of the colon and rectum Diverticulitis - inflammation or infection of pouches in the colon Irritable bowel syndrome - an uncomfortable condition causing abdominal cramping and other symptoms Treatment for colonic diseases varies greatly depending on the disease and its severity. Treatment may involve diet, medicines and in some cases, surgery. NIH: National Institute of Diabetes and Digestive and Kidney Diseases</dc:description>
+<dc:subject dcterms="mesh">Colonic Diseases</dc:subject>
+<dc:subject xml:lang="es">Enfermedades del colon</dc:subject>
+<dc:subject xml:lang="es">Colon</dc:subject>
+<dc:subject xml:lang="es">Enfermedades del (General)</dc:subject>
+<dc:subject xml:lang="es">Colitis</dc:subject>
+<dc:subject xml:lang="es">Intestino largo</dc:subject>
+<dc:subject xml:lang="es">Enfermedades del</dc:subject>
+<dc:subject xml:lang="es">Intestino grueso</dc:subject>
+<dc:subject xml:lang="es">Enfermedades del</dc:subject>
+<dc:subject xml:lang="es">Colitis isquémica</dc:subject>
+<dc:subject xml:lang="es">Hirschsprung</dc:subject>
+<dc:subject xml:lang="es">Enfermedad de</dc:subject>
+<dc:subject xml:lang="en">Colonic Diseases</dc:subject>
+<dc:subject xml:lang="en">Intestinal Diseases</dc:subject>
+</metadata>
+</record>
+</MedlinePlus-document>

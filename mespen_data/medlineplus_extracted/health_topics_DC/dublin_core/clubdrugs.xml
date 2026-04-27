@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<MedlinePlus-document>
+<record>
+<header>
+<identifier>https://medlineplus.gov/clubdrugs.html</identifier>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title type="alternate" xml:lang="es">Éxtasis</dc:title>
+<dc:title type="alternate" xml:lang="es">GHB (Gama-hidroxibutirato)</dc:title>
+<dc:title type="alternate" xml:lang="es">Rohipnol</dc:title>
+<dc:title type="alternate" xml:lang="es">MDMA</dc:title>
+<dc:title type="alternate" xml:lang="es">Drogas recreativas</dc:title>
+<dc:title type="alternate" xml:lang="es">Drogas de diseño</dc:title>
+<dc:title type="alternate" xml:lang="es">Drogas sintéticas</dc:title>
+<dc:title type="alternate" xml:lang="es">Sintéticas, Drogas</dc:title>
+<dc:title type="alternate" xml:lang="es">Anfetamina</dc:title>
+<dc:title type="alternate" xml:lang="en">Hallucinogens</dc:title>
+<dc:title type="alternate" xml:lang="en">Ecstasy</dc:title>
+<dc:title type="alternate" xml:lang="en">Rohypnol</dc:title>
+<dc:title type="alternate" xml:lang="en">GHB</dc:title>
+<dc:title type="alternate" xml:lang="en">MDMA</dc:title>
+<dc:title type="alternate" xml:lang="en">Amphetamines</dc:title>
+<dc:type>Text</dc:type>
+<dc:language>spa</dc:language>
+<dc:language>eng</dc:language>
+<dc:title xml:lang="es">Drogas de club</dc:title>
+<dc:title xml:lang="en">Club Drugs</dc:title>
+<dc:publisher>National Library of Medicine</dc:publisher>
+<dc:relation type="IsPartOf">Substance Abuse Problems</dc:relation>
+<dc:date type="created">2002-07-21</dc:date>
+<dc:date type="modified">2017-08-07</dc:date>
+<dc:identifier type="URL" xml:lang="es">https://medlineplus.gov/spanish/clubdrugs.html</dc:identifier>
+<dc:identifier type="URL" xml:lang="en">https://medlineplus.gov/clubdrugs.html</dc:identifier>
+<dc:description xml:lang="es">El término drogas de club o de diseño se refiere a una amplia gama de drogas peligrosas. Estas drogas suelen ser abusadas por adultos jóvenes en fiestas bailables que duran toda la noche, clubes nocturnos, discos y bares. Estas incluyen: Metilendioximetanfetamina (MDMA), también conocida como Éxtasis, Rola, X, Pepa, Abrazo, Adán, Amores, Eva, Tacha, Claridad, Droga del abrazo, Droga del amor, E, XTC Gamahidroxibutirato (GHB), también conocida como G, Éxtasis líquido y G, Líquido E, Líquido X, Aminos, Dormir, FX, Tranquili G, Néctar, Vita G Ketamina, también conocida como Súper KC, Tranquilizante de gato, Vitamina K, Especial CK, Verde Rohypnol, también conocido como la Pastilla olvidarme, Valium mexicano, R2, Roches, Rufis, Rufinol, Cuerda, Rofis Metanfetamina, también conocida como anfetas, meta y tiza Dietilamida del ácido lisérgico (LSD), también conocida como ácido y micropuntos Las drogas de club pueden ser también usadas para violaciones en citas. En este caso, la droga hace que la víctima no pueda negarse o defenderse contra una agresión sexual. El abuso de estas drogas puede causar graves problemas de salud y, a veces, la muerte. Son aún más peligrosas cuando se consumen con bebidas alcohólicas. NIH: Instituto Nacional sobre el Abuso de Drogas</dc:description>
+<dc:description xml:lang="en">Club drugs are group of psychoactive drugs. They act on the central nervous system and can cause changes in mood, awareness, and how you act. These drugs are often abused by young adults at all-night dance parties, dance clubs, and bars. They include Methylenedioxymethamphetamine (MDMA), also known as Ecstasy XTC, X, E, Adam, Molly, Hug Beans, and Love Drug Gamma-hydroxybutyrate (GHB), also known as G, Liquid Ecstasy, and Soap Ketamine, also known as Special K, K, Vitamin K, and Jet Rohypnol, also known as Roofies Methamphetamine, also known as Speed, Ice, Chalk, Meth, Crystal, Crank, and Glass Lysergic Acid Diethylamide (LSD), also known as Acid, Blotter, and Dots Some of these drugs are approved for certain medical uses. Other uses of these drugs are abuse. Club drugs are also sometimes used as "date rape" drugs, to make someone unable to say no to or fight back against sexual assault. Abusing these drugs can cause serious health problems and sometimes death. They are even more dangerous if you use them with alcohol. NIH: National Institute on Drug Abuse</dc:description>
+<dc:subject dcterms="mesh">Flunitrazepam</dc:subject>
+<dc:subject dcterms="mesh">Sodium Oxybate</dc:subject>
+<dc:subject dcterms="mesh">N-Methyl-3,4-methylenedioxyamphetamine</dc:subject>
+<dc:subject xml:lang="es">Drogas de club</dc:subject>
+<dc:subject xml:lang="es">Éxtasis</dc:subject>
+<dc:subject xml:lang="es">GHB (Gama-hidroxibutirato)</dc:subject>
+<dc:subject xml:lang="es">Rohipnol</dc:subject>
+<dc:subject xml:lang="es">MDMA</dc:subject>
+<dc:subject xml:lang="es">Drogas recreativas</dc:subject>
+<dc:subject xml:lang="es">Drogas de diseño</dc:subject>
+<dc:subject xml:lang="es">Drogas sintéticas</dc:subject>
+<dc:subject xml:lang="es">Sintéticas</dc:subject>
+<dc:subject xml:lang="es">Drogas</dc:subject>
+<dc:subject xml:lang="es">Anfetamina</dc:subject>
+<dc:subject xml:lang="en">Club Drugs</dc:subject>
+<dc:subject xml:lang="en">Hallucinogens</dc:subject>
+<dc:subject xml:lang="en">Ecstasy</dc:subject>
+<dc:subject xml:lang="en">Rohypnol</dc:subject>
+<dc:subject xml:lang="en">GHB</dc:subject>
+<dc:subject xml:lang="en">MDMA</dc:subject>
+<dc:subject xml:lang="en">Amphetamines</dc:subject>
+</metadata>
+</record>
+</MedlinePlus-document>

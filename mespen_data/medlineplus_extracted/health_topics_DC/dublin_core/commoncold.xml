@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<MedlinePlus-document>
+<record>
+<header>
+<identifier>https://medlineplus.gov/commoncold.html</identifier>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title type="alternate" xml:lang="es">Resfriado</dc:title>
+<dc:title type="alternate" xml:lang="en">Cold, Common</dc:title>
+<dc:type>Text</dc:type>
+<dc:language>spa</dc:language>
+<dc:language>eng</dc:language>
+<dc:title xml:lang="es">Resfrío</dc:title>
+<dc:title xml:lang="en">Common Cold</dc:title>
+<dc:publisher>National Library of Medicine</dc:publisher>
+<dc:relation type="IsPartOf">Infections</dc:relation>
+<dc:relation type="IsPartOf">Ear, Nose and Throat</dc:relation>
+<dc:date type="created">2002-07-21</dc:date>
+<dc:date type="modified">2018-01-23</dc:date>
+<dc:identifier type="URL" xml:lang="es">https://medlineplus.gov/spanish/commoncold.html</dc:identifier>
+<dc:identifier type="URL" xml:lang="en">https://medlineplus.gov/commoncold.html</dc:identifier>
+<dc:description xml:lang="es">Estornudos, dolor de garganta, nariz tapada, tos: todos conocemos los síntomas del resfrío. Probablemente sea la enfermedad más común. En el curso de un año, las personas en los Estados Unidos sufren mil millones de resfríos. Se puede contraer un resfrío al tocarse los ojos o la nariz después de haber tocado superficies con los gérmenes del resfrío. También se pueden inhalar los gérmenes. Los síntomas suelen comenzar 2 ó 3 días después de la infección y duran de 2 a 14 días. El lavado de manos y mantenerse alejado de las personas resfriadas ayuda a evitar los resfríos. El resfrío común no tiene cura. Para aliviar los síntomas, pruebe Descansar Ingerir líquidos Hacer gárgaras con agua tibia con sal Usar pastillas para la tos o aerosoles para la garganta Tomar medicamentos de venta libre para el dolor o el resfrío Sin embargo, no le dé aspirina a los niños y no le dé medicinas para la tos a niños menores de cuatro años. NIH: Instituto Nacional de Alergias y Enfermedades Infecciosas</dc:description>
+<dc:description xml:lang="en">Sneezing, sore throat, a stuffy nose, coughing - everyone knows the symptoms of the common cold. It is probably the most common illness. In the course of a year, people in the United States suffer 1 billion colds. You can get a cold by touching your eyes or nose after you touch surfaces with cold germs on them. You can also inhale the germs. Symptoms usually begin 2 or 3 days after infection and last 2 to 14 days. Washing your hands and staying away from people with colds will help you avoid colds. There is no cure for the common cold. For relief, try Getting plenty of rest Drinking fluids Gargling with warm salt water Using cough drops or throat sprays Taking over-the-counter pain or cold medicines However, do not give aspirin to children. And do not give cough medicine to children under four. NIH: National Institute of Allergy and Infectious Diseases</dc:description>
+<dc:subject dcterms="mesh">Common Cold</dc:subject>
+<dc:subject xml:lang="es">Resfrío</dc:subject>
+<dc:subject xml:lang="es">Resfriado</dc:subject>
+<dc:subject xml:lang="en">Common Cold</dc:subject>
+<dc:subject xml:lang="en">Cold</dc:subject>
+<dc:subject xml:lang="en">Common</dc:subject>
+</metadata>
+</record>
+</MedlinePlus-document>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<MedlinePlus-document>
+<record>
+<header>
+<identifier>https://medlineplus.gov/anatomy.html</identifier>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:type>Text</dc:type>
+<dc:language>spa</dc:language>
+<dc:language>eng</dc:language>
+<dc:title xml:lang="es">Anatomía</dc:title>
+<dc:title xml:lang="en">Anatomy</dc:title>
+<dc:publisher>National Library of Medicine</dc:publisher>
+<dc:relation type="IsPartOf">Mouth and Teeth</dc:relation>
+<dc:relation type="IsPartOf">Digestive System</dc:relation>
+<dc:relation type="IsPartOf">Lungs and Breathing</dc:relation>
+<dc:relation type="IsPartOf">Male Reproductive System</dc:relation>
+<dc:relation type="IsPartOf">Pregnancy and Reproduction</dc:relation>
+<dc:relation type="IsPartOf">Ear, Nose and Throat</dc:relation>
+<dc:relation type="IsPartOf">Endocrine System</dc:relation>
+<dc:relation type="IsPartOf">Skin, Hair and Nails</dc:relation>
+<dc:relation type="IsPartOf">Eyes and Vision</dc:relation>
+<dc:relation type="IsPartOf">Bones, Joints and Muscles</dc:relation>
+<dc:relation type="IsPartOf">Blood, Heart and Circulation</dc:relation>
+<dc:relation type="IsPartOf">Kidneys and Urinary System</dc:relation>
+<dc:relation type="IsPartOf">Brain and Nerves</dc:relation>
+<dc:relation type="IsPartOf">Immune System</dc:relation>
+<dc:date type="created">2002-07-21</dc:date>
+<dc:date type="modified">2018-02-07</dc:date>
+<dc:identifier type="URL" xml:lang="es">https://medlineplus.gov/spanish/anatomy.html</dc:identifier>
+<dc:identifier type="URL" xml:lang="en">https://medlineplus.gov/anatomy.html</dc:identifier>
+<dc:description xml:lang="es">Anatomía es la ciencia que estudia la estructura del cuerpo. En esta página, encontrará enlaces a descripciones e imágenes de partes del cuerpo humano y sistemas de órganos de la cabeza a los pies.</dc:description>
+<dc:description xml:lang="en">Anatomy is the science that studies the structure of the body. On this page, you'll find links to descriptions and pictures of the human body's parts and organ systems from head to toe.</dc:description>
+<dc:subject dcterms="mesh">Anatomy</dc:subject>
+<dc:subject xml:lang="es">Anatomía</dc:subject>
+<dc:subject xml:lang="en">Anatomy</dc:subject>
+</metadata>
+</record>
+</MedlinePlus-document>

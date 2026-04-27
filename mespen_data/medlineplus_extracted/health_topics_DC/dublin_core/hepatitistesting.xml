@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<MedlinePlus-document>
+<record>
+<header>
+<identifier>https://medlineplus.gov/hepatitistesting.html</identifier>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title type="alternate" xml:lang="es">Hepatitis, Pruebas de detección</dc:title>
+<dc:type>Text</dc:type>
+<dc:language>spa</dc:language>
+<dc:language>eng</dc:language>
+<dc:title xml:lang="es">Pruebas y exámenes para la hepatitis</dc:title>
+<dc:title xml:lang="en">Hepatitis Testing</dc:title>
+<dc:publisher>National Library of Medicine</dc:publisher>
+<dc:relation type="IsPartOf">Digestive System</dc:relation>
+<dc:relation type="IsPartOf">Infections</dc:relation>
+<dc:relation type="IsPartOf">Diagnostic Tests</dc:relation>
+<dc:date type="created">2016-07-19</dc:date>
+<dc:date type="modified">2017-11-08</dc:date>
+<dc:identifier type="URL" xml:lang="es">https://medlineplus.gov/spanish/hepatitistesting.html</dc:identifier>
+<dc:identifier type="URL" xml:lang="en">https://medlineplus.gov/hepatitistesting.html</dc:identifier>
+<dc:description xml:lang="es">El hígado es el órgano más grande dentro de su cuerpo. Ayuda al organismo a digerir los alimentos, almacenar energía y eliminar las toxinas. La hepatitis es una inflamación del hígado. Hay diferentes tipos de hepatitis. Algunas son causadas por virus. Incluyen la hepatitis A, la hepatitis B y la hepatitis C. Para diagnosticar la hepatitis, su médico le preguntará sobre su historia familiar y sus síntomas, le hará un examen físico y solicitará un análisis de sangre. Hay pruebas de sangre para cada tipo de hepatitis viral. Algunos exámenes detectan anticuerpos contra el virus. Los anticuerpos son proteínas de la sangre que su sistema inmunitario produce en respuesta al virus. Otros exámenes de sangre buscan partes del virus, como proteínas o material genético. Algunas pruebas muestran que usted tiene la infección por ahora. Otras pruebas muestran que usted la ha tenido en algún momento, o que tiene inmunidad a ella. Los médicos utilizan las pruebas para diagnosticar la hepatitis y para examinar a las personas que están en riesgo de contraer la hepatitis B o C. Los factores de riesgo son diferentes para cada tipo. Los médicos también pueden utilizar las pruebas en las personas que tienen hepatitis, para comprobar qué tan contagiosas resultan ser o para ver si está funcionando el tratamiento.</dc:description>
+<dc:description xml:lang="en">Your liver is the largest organ inside your body. It helps your body digest food, store energy, and remove poisons. Hepatitis is an inflammation of the liver. There are different types of hepatitis. Some are caused by viruses. They include hepatitis A, hepatitis B, and hepatitis C. To diagnose hepatitis, your health care provider will ask you about your medical history and symptoms, do a physical exam, and order blood tests. There are blood tests for each type of viral hepatitis. Some tests check for antibodies to the virus. Antibodies are blood proteins that your immune system makes in response to the virus. Other blood tests look for parts of the virus, such as proteins or genetic material. Some tests show that you have the infection now. Other tests show that you have had it at some time, or that you have immunity to it. Doctors use the tests to diagnose hepatitis, and to screen people who are at risk for hepatitis B or C. The risk factors are different for each type. Doctors may also use the tests in people who have hepatitis, to check how contagious they are or to see how well treatment is working.</dc:description>
+<dc:subject dcterms="mesh">Hepatitis</dc:subject>
+<dc:subject xml:lang="es">Pruebas y exámenes para la hepatitis</dc:subject>
+<dc:subject xml:lang="es">Hepatitis</dc:subject>
+<dc:subject xml:lang="es">Pruebas de detección</dc:subject>
+<dc:subject xml:lang="en">Hepatitis Testing</dc:subject>
+</metadata>
+</record>
+</MedlinePlus-document>

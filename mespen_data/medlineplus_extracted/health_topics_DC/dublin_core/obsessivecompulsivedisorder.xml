@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<MedlinePlus-document>
+<record>
+<header>
+<identifier>https://medlineplus.gov/obsessivecompulsivedisorder.html</identifier>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title type="alternate" xml:lang="es">Obsesivo-compulsivo, Trastorno</dc:title>
+<dc:title type="alternate" xml:lang="en">OCD</dc:title>
+<dc:title type="alternate" xml:lang="en">Hoarding</dc:title>
+<dc:type>Text</dc:type>
+<dc:language>spa</dc:language>
+<dc:language>eng</dc:language>
+<dc:title xml:lang="es">Trastorno obsesivo-compulsivo</dc:title>
+<dc:title xml:lang="en">Obsessive-Compulsive Disorder</dc:title>
+<dc:publisher>National Library of Medicine</dc:publisher>
+<dc:relation type="IsPartOf">Mental Health and Behavior</dc:relation>
+<dc:date type="created">2002-07-21</dc:date>
+<dc:date type="modified">2016-12-07</dc:date>
+<dc:identifier type="URL" xml:lang="es">https://medlineplus.gov/spanish/obsessivecompulsivedisorder.html</dc:identifier>
+<dc:identifier type="URL" xml:lang="en">https://medlineplus.gov/obsessivecompulsivedisorder.html</dc:identifier>
+<dc:description xml:lang="es">El trastorno obsesivo-compulsivo (TOC) es un tipo de trastorno de ansiedad. Las personas con TOC, tienen pensamientos repetidos y angustiantes denominados obsesiones. Con el fin de intentar controlar estas obsesiones, las personas con TOC sienten una necesidad imperiosa de realizar rituales o comportamientos, llamados compulsiones. Algunos ejemplos de obsesiones son el miedo a los gérmenes o el miedo a lastimarse. Entre las compulsiones se incluye lavarse las manos, contar, revisar una y otra vez las cosas o limpiar. Esos ritos y pensamientos interfieren en sus vidas diarias. Los investigadores piensan que tal vez los circuitos cerebrales no funcionen adecuadamente en las personas con TOC. Esta condición tiene una tendencia familiar. Con frecuencia, los síntomas comienzan en la infancia o la adolescencia. Los tratamientos incluyen terapia, medicamentos o una combinación de ambos. Un tipo de terapia llamada terapia de comportamiento es especialmente útil para tratar esta condición. NIH: Instituto Nacional de la Salud Mental</dc:description>
+<dc:description xml:lang="en">Obsessive-compulsive disorder (OCD) is a type of anxiety disorder. If you have OCD, you have frequent, upsetting thoughts called obsessions. To try to control the thoughts, you feel an overwhelming urge to repeat certain rituals or behaviors. These are called compulsions. Examples of obsessions are a fear of germs or a fear of being hurt. Compulsions include washing your hands, counting, checking on things, or cleaning. With OCD, the thoughts and rituals cause distress and get in the way of your daily life. Researchers think brain circuits may not work properly in people who have OCD. It tends to run in families. The symptoms often begin in children or teens. Treatments include therapy, medicines, or both. One type of therapy, cognitive behavioral therapy, is useful for treating OCD. NIH: National Institute of Mental Health</dc:description>
+<dc:subject dcterms="mesh">Obsessive-Compulsive Disorder</dc:subject>
+<dc:subject xml:lang="es">Trastorno obsesivo-compulsivo</dc:subject>
+<dc:subject xml:lang="es">Obsesivo-compulsivo</dc:subject>
+<dc:subject xml:lang="es">Trastorno</dc:subject>
+<dc:subject xml:lang="en">Obsessive-Compulsive Disorder</dc:subject>
+<dc:subject xml:lang="en">OCD</dc:subject>
+<dc:subject xml:lang="en">Hoarding</dc:subject>
+</metadata>
+</record>
+</MedlinePlus-document>

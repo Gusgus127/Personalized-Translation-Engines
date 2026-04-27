@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<MedlinePlus-document>
+<record>
+<header>
+<identifier>https://medlineplus.gov/hemorrhoids.html</identifier>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:type>Text</dc:type>
+<dc:language>spa</dc:language>
+<dc:language>eng</dc:language>
+<dc:title xml:lang="es">Hemorroides</dc:title>
+<dc:title xml:lang="en">Hemorrhoids</dc:title>
+<dc:publisher>National Library of Medicine</dc:publisher>
+<dc:relation type="IsPartOf">Digestive System</dc:relation>
+<dc:date type="created">2002-07-21</dc:date>
+<dc:date type="modified">2018-01-10</dc:date>
+<dc:identifier type="URL" xml:lang="es">https://medlineplus.gov/spanish/hemorrhoids.html</dc:identifier>
+<dc:identifier type="URL" xml:lang="en">https://medlineplus.gov/hemorrhoids.html</dc:identifier>
+<dc:description xml:lang="es">Las hemorroides son venas hinchadas, inflamadas alrededor del ano o la parte inferior del recto. Pueden encontrarse dentro del ano o debajo de la piel que rodea el ano. Con frecuencia son a consecuencia del esfuerzo para evacuar el intestino. Otros factores incluyen el embarazo, el envejecimiento y el estreñimiento crónico o la diarrea. Las hemorroides son muy comunes entre los hombres y mujeres. Aproximadamente la mitad de las personas tienen hemorroides a los 50 años. El síntoma más común de las hemorroides dentro del ano es sangre roja brillante en las heces, en el papel higiénico o en el escusado. Los síntomas suelen desaparecer en algunos días. Si tiene una hemorragia rectal debe consultar a un médico. Es necesario asegurarse que la sangre no sea a causa de un cuadro más serio, como un cáncer colorrectal o anal. El tratamiento puede incluir baños tibios y una crema u otra medicina. Si tiene hemorroides grandes, es posible que requiera cirugía y otros tratamientos. NIH: Instituto Nacional de la Diabetes y las Enfermedades Digestivas y Renales</dc:description>
+<dc:description xml:lang="en">Hemorrhoids are swollen, inflamed veins around the anus or lower rectum. They are either inside the anus or under the skin around the anus. They often result from straining to have a bowel movement. Other factors include pregnancy, aging and chronic constipation or diarrhea. Hemorrhoids are very common in both men and women. About half of all people have hemorrhoids by age 50. The most common symptom of hemorrhoids inside the anus is bright red blood covering the stool, on toilet paper or in the toilet bowl. Symptoms usually go away within a few days. If you have rectal bleeding you should see a doctor. You need to make sure bleeding is not from a more serious condition such as colorectal or anal cancer. Treatment may include warm baths and a cream or other medicine. If you have large hemorrhoids, you may need surgery and other treatments. NIH: National Institute of Diabetes and Digestive and Kidney Diseases</dc:description>
+<dc:subject dcterms="mesh">Hemorrhoids</dc:subject>
+<dc:subject dcterms="mesh">Hemorrhoidectomy</dc:subject>
+<dc:subject xml:lang="es">Hemorroides</dc:subject>
+<dc:subject xml:lang="en">Hemorrhoids</dc:subject>
+<dc:subject xml:lang="en">Piles</dc:subject>
+</metadata>
+</record>
+</MedlinePlus-document>

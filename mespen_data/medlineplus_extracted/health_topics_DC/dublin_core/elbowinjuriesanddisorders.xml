@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<MedlinePlus-document>
+<record>
+<header>
+<identifier>https://medlineplus.gov/elbowinjuriesanddisorders.html</identifier>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title type="alternate" xml:lang="es">Codo de tenista</dc:title>
+<dc:title type="alternate" xml:lang="es">Codo, Lesiones y enfermedades del</dc:title>
+<dc:title type="alternate" xml:lang="en">Tennis Elbow</dc:title>
+<dc:title type="alternate" xml:lang="en">Cubital Tunnel Syndrome</dc:title>
+<dc:type>Text</dc:type>
+<dc:language>spa</dc:language>
+<dc:language>eng</dc:language>
+<dc:title xml:lang="es">Lesiones y enfermedades del codo</dc:title>
+<dc:title xml:lang="en">Elbow Injuries and Disorders</dc:title>
+<dc:publisher>National Library of Medicine</dc:publisher>
+<dc:relation type="IsPartOf">Injuries and Wounds</dc:relation>
+<dc:relation type="IsPartOf">Bones, Joints and Muscles</dc:relation>
+<dc:date type="created">2002-07-21</dc:date>
+<dc:date type="modified">2018-01-03</dc:date>
+<dc:identifier type="URL" xml:lang="es">https://medlineplus.gov/spanish/elbowinjuriesanddisorders.html</dc:identifier>
+<dc:identifier type="URL" xml:lang="en">https://medlineplus.gov/elbowinjuriesanddisorders.html</dc:identifier>
+<dc:description xml:lang="es">La articulación del codo se compone del hueso, cartílago, ligamentos y líquidos. Los músculos y los tendones ayudan a que el codo se mueva en su articulación. Cuando alguna de estas estructuras se lastima o se enferma, surgen los problemas en el codo. Hay muchas cosas que pueden ocasionar dolor en el codo. Una causa común es la tendinitis, una inflamación o lesión de los tendones que unen los músculos al hueso. La tendinitis del codo es una lesión deportiva, con frecuencia por jugar tenis o golf. También puede ocurrir una tendinitis por usar excesivamente el codo. Otras causas de dolor en el codo incluyen distensiones, torceduras, fracturas, dislocaciones, bursitis y artritis. El tratamiento dependerá de la causa.</dc:description>
+<dc:description xml:lang="en">Your elbow joint is made up of bone, cartilage, ligaments and fluid. Muscles and tendons help the elbow joint move. When any of these structures is hurt or diseased, you have elbow problems. Many things can make your elbow hurt. A common cause is tendinitis, an inflammation or injury to the tendons that attach muscle to bone. Tendinitis of the elbow is a sports injury, often from playing tennis or golf. You may also get tendinitis from overuse of the elbow. Other causes of elbow pain include sprains, strains, fractures, dislocations, bursitis and arthritis. Treatment depends on the cause.</dc:description>
+<dc:subject dcterms="mesh">Elbow Joint</dc:subject>
+<dc:subject dcterms="mesh">Tennis Elbow</dc:subject>
+<dc:subject dcterms="mesh">Elbow</dc:subject>
+<dc:subject xml:lang="es">Lesiones y enfermedades del codo</dc:subject>
+<dc:subject xml:lang="es">Codo de tenista</dc:subject>
+<dc:subject xml:lang="es">Codo</dc:subject>
+<dc:subject xml:lang="es">Lesiones y enfermedades del</dc:subject>
+<dc:subject xml:lang="en">Elbow Injuries and Disorders</dc:subject>
+<dc:subject xml:lang="en">Tennis Elbow</dc:subject>
+<dc:subject xml:lang="en">Cubital Tunnel Syndrome</dc:subject>
+</metadata>
+</record>
+</MedlinePlus-document>

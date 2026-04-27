@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<MedlinePlus-document>
+<record>
+<header>
+<identifier>https://medlineplus.gov/geneticdisorders.html</identifier>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title type="alternate" xml:lang="es">Genética, Enfermedades</dc:title>
+<dc:title type="alternate" xml:lang="es">Batten, Enfermedad de</dc:title>
+<dc:title type="alternate" xml:lang="es">Barth, Síndrome de</dc:title>
+<dc:title type="alternate" xml:lang="en">Progeria</dc:title>
+<dc:type>Text</dc:type>
+<dc:language>spa</dc:language>
+<dc:language>eng</dc:language>
+<dc:title xml:lang="es">Enfermedades genéticas</dc:title>
+<dc:title xml:lang="en">Genetic Disorders</dc:title>
+<dc:publisher>National Library of Medicine</dc:publisher>
+<dc:relation type="IsPartOf">Genetics/Birth Defects</dc:relation>
+<dc:date type="created">2002-07-21</dc:date>
+<dc:date type="modified">2017-09-27</dc:date>
+<dc:identifier type="URL" xml:lang="es">https://medlineplus.gov/spanish/geneticdisorders.html</dc:identifier>
+<dc:identifier type="URL" xml:lang="en">https://medlineplus.gov/geneticdisorders.html</dc:identifier>
+<dc:description xml:lang="es">Los genes son los ladrillos de la herencia. Se pasan de padres a hijos. Los genes contienen el ADN, las instrucciones para fabricar proteínas. Estas son las que realizan la mayor parte de las funciones dentro de las células. Las proteínas mueven moléculas de un lugar a otro, construyen estructuras, descomponen toxinas y realizan otros tipos de tareas de mantenimiento. A veces, se produce una mutación, un cambio en un gen o en varios genes. Esta mutación cambia las instrucciones para fabricar las proteínas y esto hace que las proteínas no funcionen correctamente o falten. Esto puede causar una enfermedad genética. Usted puede heredar una mutación genética de uno o de ambos padres. Pero también puede suceder durante su vida. Hay tres tipos de enfermedades genéticas: Defectos monogenéticos, que afectan solo un gen Trastornos cromosómicos, donde los cromosomas (o parte de cromosomas) faltan o cambian. Los cromosomas son las estructuras que contienen nuestros genes. El síndrome de Down es un trastorno cromosómico Multifactoriales, donde hay mutaciones en dos o más genes. En este tipo, nuestro estilo de vida y medio ambiente influyen. El cáncer de colon es un ejemplo Las pruebas genéticas de sangre u otros tejidos pueden identificar las enfermedades genéticas. NIH: Biblioteca Nacional de Medicina</dc:description>
+<dc:description xml:lang="en">Genes are the building blocks of heredity. They are passed from parent to child. They hold DNA, the instructions for making proteins. Proteins do most of the work in cells. They move molecules from one place to another, build structures, break down toxins, and do many other maintenance jobs. Sometimes there is a mutation, a change in a gene or genes. The mutation changes the gene's instructions for making a protein, so the protein does not work properly or is missing entirely. This can cause a medical condition called a genetic disorder. You can inherit a gene mutation from one or both parents. A mutation can also happen during your lifetime. There are three types of genetic disorders: Single-gene disorders, where a mutation affects one gene. Sickle cell anemia is an example. Chromosomal disorders, where chromosomes (or parts of chromosomes) are missing or changed. Chromosomes are the structures that hold our genes. Down syndrome is a chromosomal disorder. Complex disorders, where there are mutations in two or more genes. Often your lifestyle and environment also play a role. Colon cancer is an example. Genetic tests on blood and other tissue can identify genetic disorders. NIH: National Library of Medicine</dc:description>
+<dc:subject dcterms="mesh">Genetic Diseases, Inborn</dc:subject>
+<dc:subject xml:lang="es">Enfermedades genéticas</dc:subject>
+<dc:subject xml:lang="es">Genética</dc:subject>
+<dc:subject xml:lang="es">Enfermedades</dc:subject>
+<dc:subject xml:lang="es">Batten</dc:subject>
+<dc:subject xml:lang="es">Enfermedad de</dc:subject>
+<dc:subject xml:lang="es">Barth</dc:subject>
+<dc:subject xml:lang="es">Síndrome de</dc:subject>
+<dc:subject xml:lang="en">Genetic Disorders</dc:subject>
+<dc:subject xml:lang="en">Progeria</dc:subject>
+</metadata>
+</record>
+</MedlinePlus-document>

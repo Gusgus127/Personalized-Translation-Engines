@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<MedlinePlus-document>
+<record>
+<header>
+<identifier>https://medlineplus.gov/smoking.html</identifier>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title type="alternate" xml:lang="es">Nicotina</dc:title>
+<dc:title type="alternate" xml:lang="en">Nicotine</dc:title>
+<dc:title type="alternate" xml:lang="en">Tobacco Smoking</dc:title>
+<dc:type>Text</dc:type>
+<dc:language>spa</dc:language>
+<dc:language>eng</dc:language>
+<dc:title xml:lang="es">Fumar</dc:title>
+<dc:title xml:lang="en">Smoking</dc:title>
+<dc:publisher>National Library of Medicine</dc:publisher>
+<dc:relation type="IsPartOf">Substance Abuse Problems</dc:relation>
+<dc:relation type="IsPartOf">Lungs and Breathing</dc:relation>
+<dc:date type="created">2002-07-21</dc:date>
+<dc:date type="modified">2018-02-06</dc:date>
+<dc:identifier type="URL" xml:lang="es">https://medlineplus.gov/spanish/smoking.html</dc:identifier>
+<dc:identifier type="URL" xml:lang="en">https://medlineplus.gov/smoking.html</dc:identifier>
+<dc:description xml:lang="es">No hay otra manera de decirlo: Fumar es dañino para la salud. Daña casi todos los órganos del cuerpo. El cigarrillo causa el 87 por ciento de las muertes por cáncer de pulmón. También es responsable de muchos otros cánceres y problemas de salud. Entre estos se incluyen las enfermedades pulmonares, cardiacas, vasculares, derrames cerebrales y cataratas. Las mujeres que fuman tienen más probabilidades de tener ciertos problemas durante el embarazo o que el bebé muera por síndrome de muerte infantil súbita (SIDS, por sus siglas en inglés). El humo también perjudica a otras personas que respiran el humo en forma pasiva. Ellos pueden tener muchos de los mismos problemas que tienen los fumadores. Los cigarrillos electrónicos en forma frecuente se parecen a los normales, pero funcionan de manera diferente. Son dispositivos para fumar que funcionan con baterías. No se sabe mucho acerca de los riesgos para la salud que implica su uso. Dejar de fumar puede reducir el riesgo de presentar estos problemas. Entre más pronto deje de fumar, mayor será el beneficio para su salud. NIH: Instituto Nacional del Cáncer</dc:description>
+<dc:description xml:lang="en">There's no way around it. Smoking is bad for your health. Smoking harms nearly every organ of the body. Cigarette smoking causes 87 percent of lung cancer deaths. It is also responsible for many other cancers and health problems. These include lung disease, heart and blood vessel disease, stroke and cataracts. Women who smoke have a greater chance of certain pregnancy problems or having a baby die from sudden infant death syndrome (SIDS). Your smoke is also bad for other people - they breathe in your smoke secondhand and can get many of the same problems as smokers do. E-cigarettes often look like cigarettes, but they work differently. They are battery-operated smoking devices. Not much is known about the health risks of using them. Quitting smoking can reduce your risk of health problems. The earlier you quit, the greater the benefit. NIH: National Cancer Institute</dc:description>
+<dc:subject dcterms="mesh">Water Pipe Smoking</dc:subject>
+<dc:subject dcterms="mesh">Cigar Smoking</dc:subject>
+<dc:subject dcterms="mesh">Tobacco Smoking</dc:subject>
+<dc:subject dcterms="mesh">Cigarette Smoking</dc:subject>
+<dc:subject dcterms="mesh">Pipe Smoking</dc:subject>
+<dc:subject xml:lang="es">Fumar</dc:subject>
+<dc:subject xml:lang="es">Nicotina</dc:subject>
+<dc:subject xml:lang="en">Smoking</dc:subject>
+<dc:subject xml:lang="en">Nicotine</dc:subject>
+<dc:subject xml:lang="en">Tobacco Smoking</dc:subject>
+</metadata>
+</record>
+</MedlinePlus-document>

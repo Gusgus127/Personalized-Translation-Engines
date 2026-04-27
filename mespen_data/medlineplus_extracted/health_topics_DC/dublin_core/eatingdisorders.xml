@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<MedlinePlus-document>
+<record>
+<header>
+<identifier>https://medlineplus.gov/eatingdisorders.html</identifier>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title type="alternate" xml:lang="es">Anorexia</dc:title>
+<dc:title type="alternate" xml:lang="es">Bulimia</dc:title>
+<dc:title type="alternate" xml:lang="es">Trastornos alimentarios</dc:title>
+<dc:title type="alternate" xml:lang="es">Comer compulsivamente</dc:title>
+<dc:title type="alternate" xml:lang="es">Alimentación, Trastornos de la</dc:title>
+<dc:title type="alternate" xml:lang="es">Apetito desenfrenado</dc:title>
+<dc:title type="alternate" xml:lang="en">Bulimia</dc:title>
+<dc:title type="alternate" xml:lang="en">Binge Eating</dc:title>
+<dc:title type="alternate" xml:lang="en">Anorexia Nervosa</dc:title>
+<dc:title type="alternate" xml:lang="en">Pica</dc:title>
+<dc:type>Text</dc:type>
+<dc:language>spa</dc:language>
+<dc:language>eng</dc:language>
+<dc:title xml:lang="es">Trastornos de la alimentación</dc:title>
+<dc:title xml:lang="en">Eating Disorders</dc:title>
+<dc:publisher>National Library of Medicine</dc:publisher>
+<dc:relation type="IsPartOf">Mental Health and Behavior</dc:relation>
+<dc:relation type="IsPartOf">Food and Nutrition</dc:relation>
+<dc:date type="created">2002-07-21</dc:date>
+<dc:date type="modified">2017-12-05</dc:date>
+<dc:identifier type="URL" xml:lang="es">https://medlineplus.gov/spanish/eatingdisorders.html</dc:identifier>
+<dc:identifier type="URL" xml:lang="en">https://medlineplus.gov/eatingdisorders.html</dc:identifier>
+<dc:description xml:lang="es">Los trastornos de la alimentación son problemas de conducta serios. Puede ser que la persona coma en exceso o que no coma lo suficiente como para mantenerse sana y saludable. Los tipos de trastornos son: Anorexia nerviosa, cuando la persona adelgaza demasiado, pero no come lo suficiente porque se siente gorda Bulimia nerviosa, que incluye períodos donde la persona come demasiado seguidos por frecuentes purgas, a veces vómitos autoprovocados o uso de laxantes Compulsión para comer, que consiste en comer sin control Las mujeres tienen más probabilidades que los hombres de tener trastornos de la alimentación. Suelen comenzar en la adolescencia y con frecuencia se presentan con depresión, trastornos de ansiedad y abuso de drogas. Los trastornos de la alimentación pueden causar problemas en el corazón, en los riñones e incluso la muerte. Es importante obtener ayuda a tiempo. El tratamiento incluye supervisión, terapia psicológica, asesoramiento nutricional y, algunas veces, medicinas. NIH: Instituto Nacional de la Salud Mental</dc:description>
+<dc:description xml:lang="en">Eating disorders are serious behavior problems. They can include severe overeating or not consuming enough food to stay healthy. They also involve extreme concern about your shape or weight. Types of eating disorders include Anorexia nervosa, in which you become too thin, but you don't eat enough because you think you are fat Bulimia nervosa, which involves periods of overeating followed by purging, sometimes through self-induced vomiting or using laxatives Binge-eating, which is out-of-control eating Women are more likely than men to have eating disorders. They usually start in the teenage years and often occur along with depression, anxiety disorders, and substance abuse. Eating disorders can lead to heart and kidney problems and even death. Getting help early is important. Treatment involves monitoring, talk therapy, nutritional counseling, and sometimes medicines. NIH: National Institute of Mental Health</dc:description>
+<dc:subject dcterms="mesh">Feeding and Eating Disorders</dc:subject>
+<dc:subject xml:lang="es">Trastornos de la alimentación</dc:subject>
+<dc:subject xml:lang="es">Anorexia</dc:subject>
+<dc:subject xml:lang="es">Bulimia</dc:subject>
+<dc:subject xml:lang="es">Trastornos alimentarios</dc:subject>
+<dc:subject xml:lang="es">Comer compulsivamente</dc:subject>
+<dc:subject xml:lang="es">Alimentación</dc:subject>
+<dc:subject xml:lang="es">Trastornos de la</dc:subject>
+<dc:subject xml:lang="es">Apetito desenfrenado</dc:subject>
+<dc:subject xml:lang="en">Eating Disorders</dc:subject>
+<dc:subject xml:lang="en">Bulimia</dc:subject>
+<dc:subject xml:lang="en">Binge Eating</dc:subject>
+<dc:subject xml:lang="en">Anorexia Nervosa</dc:subject>
+<dc:subject xml:lang="en">Pica</dc:subject>
+</metadata>
+</record>
+</MedlinePlus-document>

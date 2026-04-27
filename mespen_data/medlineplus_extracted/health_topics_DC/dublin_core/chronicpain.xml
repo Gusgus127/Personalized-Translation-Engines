@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<MedlinePlus-document>
+<record>
+<header>
+<identifier>https://medlineplus.gov/chronicpain.html</identifier>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:type>Text</dc:type>
+<dc:language>spa</dc:language>
+<dc:language>eng</dc:language>
+<dc:title xml:lang="es">Dolor crónico</dc:title>
+<dc:title xml:lang="en">Chronic Pain</dc:title>
+<dc:publisher>National Library of Medicine</dc:publisher>
+<dc:relation type="IsPartOf">Brain and Nerves</dc:relation>
+<dc:relation type="IsPartOf">Symptoms</dc:relation>
+<dc:date type="created">2013-01-03</dc:date>
+<dc:date type="modified">2018-01-30</dc:date>
+<dc:identifier type="URL" xml:lang="es">https://medlineplus.gov/spanish/chronicpain.html</dc:identifier>
+<dc:identifier type="URL" xml:lang="en">https://medlineplus.gov/chronicpain.html</dc:identifier>
+<dc:description xml:lang="es">El dolor es una señal del sistema nervioso de que algo puede estar mal. Es una sensación desagradable, como un pinchazo, hormigueo, picadura, ardor o molestia. El dolor puede ser agudo o sordo. Puede sentir dolor en un área o en todas partes de su cuerpo. Existen dos tipos: agudo y crónico. El dolor agudo le permite saber que puede estar lesionado o tener un problema que debe atender. El dolor crónico es diferente. Puede durar semanas, meses o incluso años. La causa original puede haber sido una lesión o infección. Puede haber una causa continua de dolor, como artritis o cáncer. En algunos casos, no hay una causa clara. Los factores ambientales y psicológicos pueden empeorar el dolor crónico. Muchos adultos mayores tienen dolor crónico. Las mujeres también informan tener más dolor crónico que los hombres, y tienen un mayor riesgo de padecer muchas condiciones que provocan dolor. Algunas personas tienen dos o más condiciones de dolor crónico. El dolor crónico no siempre es curable, pero los tratamientos pueden ayudar. Estos incluyen: Analgésicos y otros medicamentos Acupuntura Estimulación eléctrica Cirugía Terapia física Psicoterapia Terapia de relajación y meditación Biofeedback NIH: Instituto Nacional de Trastornos Neurológicos y Accidentes Cerebrovasculares</dc:description>
+<dc:description xml:lang="en">Pain is a signal in your nervous system that something may be wrong. It is an unpleasant feeling, such as a prick, tingle, sting, burn, or ache. Pain may be sharp or dull. You may feel pain in one area of your body, or all over. There are two types: acute pain and chronic pain. Acute pain lets you know that you may be injured or a have problem you need to take care of. Chronic pain is different. The pain may last for weeks, months, or even years. The original cause may have been an injury or infection. There may be an ongoing cause of pain, such as arthritis or cancer. In some cases there is no clear cause. Environmental and psychological factors can make chronic pain worse. Many older adults have chronic pain. Women also report having more chronic pain than men, and they are at a greater risk for many pain conditions. Some people have two or more chronic pain conditions. Chronic pain is not always curable, but treatments can help. They include Pain Relievers and other medicines Acupuncture Electrical stimulation Surgery Physical therapy Psychotherapy Relaxation and meditation therapy Biofeedback NIH: National Institute of Neurological Disorders and Stroke</dc:description>
+<dc:subject dcterms="mesh">Chronic Pain</dc:subject>
+<dc:subject xml:lang="es">Dolor crónico</dc:subject>
+<dc:subject xml:lang="en">Chronic Pain</dc:subject>
+<dc:subject xml:lang="en">Pain</dc:subject>
+<dc:subject xml:lang="en">Chronic</dc:subject>
+</metadata>
+</record>
+</MedlinePlus-document>

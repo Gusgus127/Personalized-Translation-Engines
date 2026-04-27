@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<MedlinePlus-document>
+<record>
+<header>
+<identifier>https://medlineplus.gov/adoption.html</identifier>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:type>Text</dc:type>
+<dc:language>spa</dc:language>
+<dc:language>eng</dc:language>
+<dc:title xml:lang="es">Adopción</dc:title>
+<dc:title xml:lang="en">Adoption</dc:title>
+<dc:publisher>National Library of Medicine</dc:publisher>
+<dc:relation type="IsPartOf">Social/Family Issues</dc:relation>
+<dc:relation type="IsPartOf">Children and Teenagers</dc:relation>
+<dc:relation type="IsPartOf">Pregnancy and Reproduction</dc:relation>
+<dc:date type="created">2002-07-21</dc:date>
+<dc:date type="modified">2018-01-10</dc:date>
+<dc:identifier type="URL" xml:lang="es">https://medlineplus.gov/spanish/adoption.html</dc:identifier>
+<dc:identifier type="URL" xml:lang="en">https://medlineplus.gov/adoption.html</dc:identifier>
+<dc:description xml:lang="es">La adopción lleva un hijo nacido de unos padres, a una nueva familia. Los padres naturales pueden tener muchos motivos para dar a sus hijos en adopción. Al final, suele ser porque desean una vida para sus niños que sea mejor que la que ellos pudieran ofrecerles. Los niños elegibles para ser adoptados provienen de muchos entornos distintos. Algunos están en hogares sustitutos, que son hogares temporales. Otros niños viven en orfanatos o con familiares naturales, hasta que puedan ser adoptados. Existen diferentes tipos de adopción. Si la adopción es internacional o nacional, dependerá si el niño nació dentro de los Estados Unidos o no.</dc:description>
+<dc:description xml:lang="en">Adoption brings a child born to other parents into a new family. Birth parents have a number of reasons for placing children for adoption. Overall, they want better lives for their children than they think they can give them. Children who are eligible for adoption come from many different settings. Some are in foster care, a temporary home setting. Other children live in orphanages or with birth relatives until they can be adopted. There are different kinds of adoption. Children may be adopted by a relative or a new family. Some parents adopt children from the U.S, and some adopt from abroad.</dc:description>
+<dc:subject dcterms="mesh">Child, Foster</dc:subject>
+<dc:subject dcterms="mesh">Child, Adopted</dc:subject>
+<dc:subject dcterms="mesh">Adoption</dc:subject>
+<dc:subject xml:lang="es">Adopción</dc:subject>
+<dc:subject xml:lang="en">Adoption</dc:subject>
+<dc:subject xml:lang="en">Foster Care</dc:subject>
+</metadata>
+</record>
+</MedlinePlus-document>

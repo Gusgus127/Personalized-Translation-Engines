@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<MedlinePlus-document>
+<record>
+<header>
+<identifier>https://medlineplus.gov/childhoodimmunization.html</identifier>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title type="alternate" xml:lang="es">Vacunación del niño</dc:title>
+<dc:title type="alternate" xml:lang="es">Niño, Vacunación del</dc:title>
+<dc:title type="alternate" xml:lang="es">Niño, Inmunización del</dc:title>
+<dc:title type="alternate" xml:lang="es">Chicos, Vacunas</dc:title>
+<dc:title type="alternate" xml:lang="en">Vaccination</dc:title>
+<dc:title type="alternate" xml:lang="en">Immunization, Childhood</dc:title>
+<dc:type>Text</dc:type>
+<dc:language>spa</dc:language>
+<dc:language>eng</dc:language>
+<dc:title xml:lang="es">Inmunización del niño</dc:title>
+<dc:title xml:lang="en">Childhood Immunization</dc:title>
+<dc:publisher>National Library of Medicine</dc:publisher>
+<dc:relation type="IsPartOf">Children and Teenagers</dc:relation>
+<dc:relation type="IsPartOf">Infections</dc:relation>
+<dc:relation type="IsPartOf">Immune System</dc:relation>
+<dc:date type="created">2002-07-21</dc:date>
+<dc:date type="modified">2017-12-11</dc:date>
+<dc:identifier type="URL" xml:lang="es">https://medlineplus.gov/spanish/childhoodimmunization.html</dc:identifier>
+<dc:identifier type="URL" xml:lang="en">https://medlineplus.gov/childhoodimmunization.html</dc:identifier>
+<dc:description xml:lang="es">Actualmente, los niños en los Estados Unidos reciben vacunas rutinariamente que los protegen de más de una docena de enfermedades como sarampión, polio, tétanos, difteria y tos ferina. La mayoría de estas enfermedades se encuentra en sus niveles más bajos de la historia, gracias a años de inmunizaciones. Los niños deben recibir al menos algunas vacunas antes de comenzar a asistir a la escuela. Las vacunas pueden hacerlo inmune a enfermedades graves sin tener que enfermarse primero. Sin la vacuna, es necesario que contraiga verdaderamente la enfermedad para poder hacerse inmune al germen que la produce. Las vacunas funcionan mejor cuando se administran a ciertas edades. Por ejemplo, los niños no reciben la vacuna contra el sarampión hasta que tienen al menos un año de edad. Si se administra antes puede no funcionar adecuadamente. Los Centros para el Control y la Prevención de Enfermedades publican un calendario de vacunación infantil. Aunque algunas de las vacunas que recibe en la infancia le brindan protección por muchos años, los adultos también necesitan inmunizaciones. Centros para el Control y la Prevención de Enfermedades</dc:description>
+<dc:description xml:lang="en">Today, children in the United States routinely get vaccines that protect them from more than a dozen diseases such as measles, polio, tetanus, diphtheria, and pertussis (whooping cough). Most of these diseases are now at their lowest levels in history, thanks to years of immunization. Children must get at least some vaccines before they may attend school. Vaccines help make you immune to serious diseases without getting sick first. Without a vaccine, you must actually get a disease in order to become immune to the germ that causes it. Vaccines work best when they are given at certain ages. For example, children don't receive measles vaccine until they are at least one year old. If it is given earlier it might not work as well. The Centers for Disease Control and Prevention publishes a schedule for childhood vaccines. Although some of the vaccines you receive as a child provide protection for many years, adults need immunizations too. Centers for Disease Control and Prevention</dc:description>
+<dc:subject dcterms="mesh">Immunization</dc:subject>
+<dc:subject xml:lang="es">Inmunización del niño</dc:subject>
+<dc:subject xml:lang="es">Vacunación del niño</dc:subject>
+<dc:subject xml:lang="es">Niño</dc:subject>
+<dc:subject xml:lang="es">Vacunación del</dc:subject>
+<dc:subject xml:lang="es">Niño</dc:subject>
+<dc:subject xml:lang="es">Inmunización del</dc:subject>
+<dc:subject xml:lang="es">Chicos</dc:subject>
+<dc:subject xml:lang="es">Vacunas</dc:subject>
+<dc:subject xml:lang="en">Childhood Immunization</dc:subject>
+<dc:subject xml:lang="en">Vaccination</dc:subject>
+<dc:subject xml:lang="en">Immunization</dc:subject>
+<dc:subject xml:lang="en">Childhood</dc:subject>
+</metadata>
+</record>
+</MedlinePlus-document>

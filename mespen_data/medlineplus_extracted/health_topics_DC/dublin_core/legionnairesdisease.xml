@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<MedlinePlus-document>
+<record>
+<header>
+<identifier>https://medlineplus.gov/legionnairesdisease.html</identifier>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title type="alternate" xml:lang="es">Legionario, Enfermedad del</dc:title>
+<dc:type>Text</dc:type>
+<dc:language>spa</dc:language>
+<dc:language>eng</dc:language>
+<dc:title xml:lang="es">Enfermedad del legionario</dc:title>
+<dc:title xml:lang="en">Legionnaires' Disease</dc:title>
+<dc:publisher>National Library of Medicine</dc:publisher>
+<dc:relation type="IsPartOf">Infections</dc:relation>
+<dc:relation type="IsPartOf">Lungs and Breathing</dc:relation>
+<dc:date type="created">2003-02-07</dc:date>
+<dc:date type="modified">2018-01-18</dc:date>
+<dc:identifier type="URL" xml:lang="es">https://medlineplus.gov/spanish/legionnairesdisease.html</dc:identifier>
+<dc:identifier type="URL" xml:lang="en">https://medlineplus.gov/legionnairesdisease.html</dc:identifier>
+<dc:description xml:lang="es">La enfermedad del legionario es un tipo de neumonía causada por bacterias. Generalmente se adquiere por respirar vapor de agua que contiene bacterias. El vapor puede provenir de bañeras o duchas calientes o de unidades de aire acondicionado en edificios grandes. Las bacterias no pasan de una persona a otra. Los síntomas de la enfermedad del legionario incluyen fiebre alta, escalofríos, tos y, algunas veces, dolores musculares y de cabeza. Otros tipos de neumonía tienen síntomas similares. Probablemente se necesitará una radiografía de tórax para diagnosticar la neumonía. Los análisis de laboratorio pueden detectar la bacteria específica que causa la enfermedad del legionario. La mayoría de las personas que han sido expuestas a la bacteria, no se enferman. Usted tiene más probabilidades de enfermarse si: Tiene más de 50 años Fuma Tiene una enfermedad pulmonar crónica Tiene un sistema inmunitario débil La enfermedad del legionario es seria y puede poner la vida en peligro. Sin embargo, la mayoría de las personas se recupera con antibióticos. Centros para el Control y la Prevención de Enfermedades</dc:description>
+<dc:description xml:lang="en">Legionnaires' disease is a type of pneumonia caused by bacteria. You usually get it by breathing in mist from water that contains the bacteria. The mist may come from hot tubs, showers, or air-conditioning units for large buildings. The bacteria don't spread from person to person. Symptoms of Legionnaires' disease include high fever, chills, a cough, and sometimes muscle aches and headaches. Other types of pneumonia have similar symptoms. You will probably need a chest x-ray to diagnose the pneumonia. Lab tests can detect the specific bacteria that cause Legionnaires' disease. Most people exposed to the bacteria do not become sick. You are more likely to get sick if you Are older than 50 Smoke Have a chronic lung disease Have a weak immune system Legionnaires' disease is serious and can be life-threatening. However, most people recover with antibiotic treatment. Centers for Disease Control and Prevention</dc:description>
+<dc:subject dcterms="mesh">Legionnaires' Disease</dc:subject>
+<dc:subject xml:lang="es">Enfermedad del legionario</dc:subject>
+<dc:subject xml:lang="es">Legionario</dc:subject>
+<dc:subject xml:lang="es">Enfermedad del</dc:subject>
+<dc:subject xml:lang="en">Legionnaires' Disease</dc:subject>
+</metadata>
+</record>
+</MedlinePlus-document>

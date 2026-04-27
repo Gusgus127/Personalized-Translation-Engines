@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<MedlinePlus-document>
+<record>
+<header>
+<identifier>https://medlineplus.gov/cancerchemotherapy.html</identifier>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:type>Text</dc:type>
+<dc:language>spa</dc:language>
+<dc:language>eng</dc:language>
+<dc:title xml:lang="es">Quimioterapia para el cáncer</dc:title>
+<dc:title xml:lang="en">Cancer Chemotherapy</dc:title>
+<dc:publisher>National Library of Medicine</dc:publisher>
+<dc:relation type="IsPartOf">Cancers</dc:relation>
+<dc:relation type="IsPartOf">Drug Therapy</dc:relation>
+<dc:date type="created">2002-07-21</dc:date>
+<dc:date type="modified">2017-12-21</dc:date>
+<dc:identifier type="URL" xml:lang="es">https://medlineplus.gov/spanish/cancerchemotherapy.html</dc:identifier>
+<dc:identifier type="URL" xml:lang="en">https://medlineplus.gov/cancerchemotherapy.html</dc:identifier>
+<dc:description xml:lang="es">Normalmente, las células crecen y mueren en forma controlada. Las células del cáncer siguen creciendo sin control. La quimioterapia es un tratamiento con medicinas para el cáncer. Funciona al matar las células cancerosas, deteniendo su diseminación o atrasando su crecimiento. Sin embargo, también puede dañar células sanas, lo que causa efectos secundarios. Usted puede presentar varios efectos secundarios, solo algunos o ninguno. Depende del tipo y cantidad de quimioterapia que reciba y cómo su cuerpo reaccione. Algunos efectos secundarios comunes son fatiga, nauseas, vómitos, dolor y pérdida del cabello. Hay formas de prevenir o controlar algunos efectos secundarios. Hable con su médico sobre cómo manejarlos. Las células sanas suelen recuperarse después de terminar la quimioterapia, por lo que la mayoría de los efectos secundarios desaparece en forma gradual. Su plan de tratamiento dependerá del tipo de cáncer, de los fármacos usados en la quimioterapia, de las metas del tratamiento y de la respuesta de su cuerpo. La quimioterapia puede utilizarse por sí sola o junto a otros tratamientos. Usted puede recibir tratamiento todos los días, cada semana o cada mes. Puede haber algunas pausas entre los tratamientos para que su cuerpo tenga la oportunidad de producir nuevas células sanas. Usted puede tomar las medicinas por vía oral, en inyecciones, en crema o en forma intravenosa. NIH: Instituto Nacional del Cáncer</dc:description>
+<dc:description xml:lang="en">Normally, your cells grow and die in a controlled way. Cancer cells keep growing without control. Chemotherapy is drug therapy for cancer. It works by killing the cancer cells, stopping them from spreading, or slowing their growth. However, it can also harm healthy cells, which causes side effects. You may have a lot of side effects, some, or none at all. It depends on the type and amount of chemotherapy you get and how your body reacts. Some common side effects are fatigue, nausea, vomiting, pain, and hair loss. There are ways to prevent or control some side effects. Talk with your health care provider about how to manage them. Healthy cells usually recover after chemotherapy is over, so most side effects gradually go away. Your treatment plan will depend on the cancer type, the chemotherapy drugs used, the treatment goal, and how your body responds. Chemotherapy may be given alone or with other treatments. You may get treatment every day, every week, or every month. You may have breaks between treatments so that your body has a chance to build new healthy cells. You might take the drugs by mouth, in a shot, as a cream, or intravenously (by IV). NIH: National Cancer Institute</dc:description>
+<dc:subject dcterms="mesh">Neoplasms</dc:subject>
+<dc:subject dcterms="mesh">Antineoplastic Agents</dc:subject>
+<dc:subject xml:lang="es">Quimioterapia para el cáncer</dc:subject>
+<dc:subject xml:lang="en">Cancer Chemotherapy</dc:subject>
+<dc:subject xml:lang="en">Chemotherapy</dc:subject>
+</metadata>
+</record>
+</MedlinePlus-document>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<MedlinePlus-document>
+<record>
+<header>
+<identifier>https://medlineplus.gov/medicareprescriptiondrugcoverage.html</identifier>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:type>Text</dc:type>
+<dc:language>spa</dc:language>
+<dc:language>eng</dc:language>
+<dc:title xml:lang="es">Cobertura de Medicare de medicamentos recetados</dc:title>
+<dc:title xml:lang="en">Medicare Prescription Drug Coverage</dc:title>
+<dc:publisher>National Library of Medicine</dc:publisher>
+<dc:relation type="IsPartOf">Seniors</dc:relation>
+<dc:relation type="IsPartOf">Health System</dc:relation>
+<dc:date type="created">2005-12-07</dc:date>
+<dc:date type="modified">2018-02-05</dc:date>
+<dc:identifier type="URL" xml:lang="es">https://medlineplus.gov/spanish/medicareprescriptiondrugcoverage.html</dc:identifier>
+<dc:identifier type="URL" xml:lang="en">https://medlineplus.gov/medicareprescriptiondrugcoverage.html</dc:identifier>
+<dc:description xml:lang="es">La cobertura de Medicare para medicamentos recetados es un seguro que ayuda a las personas a pagar los medicamentos recetados en las farmacias participantes. Está a la disposición de todas las personas con Medicare. Brinda protección si usted paga altos costos en medicamentos o tiene gastos inesperados por medicamentos recetados. No cubre todos los gastos. Usted tiene que pagar una parte del costo de los medicamentos recetados. La mayoría de las personas también tienen que pagar una prima mensual y un deducible anual por la cobertura. Las empresas privadas proporcionan cobertura de medicamentos recetados por medio de Medicare. Usted elige el plan de medicamentos que más le guste. Si debe inscribirse o no para la cobertura dependerá de la calidad de su cobertura actual. Deberá inscribirse para la cobertura en cuanto sea elegible para Medicare. De otro modo, podría tener que pagar una multa. Centro para los Servicios de Medicare y Medicaid</dc:description>
+<dc:description xml:lang="en">Part D is the name of Medicare's prescription drug coverage. It's insurance that helps people pay for prescription drugs. It is available to everyone who has Medicare. It provides protection if you pay high drug costs or have unexpected prescription drug bills. It doesn't cover all costs. You have to pay part of the cost of prescription drugs. Most people also have to pay an additional monthly cost. Private companies provide Medicare prescription drug coverage. You choose the drug plan you like best. Whether or not you should sign up depends on how good your current coverage is. You need to sign up as soon as you are eligible for Medicare. Otherwise, there may be additional charges. Centers for Medicare and Medicaid Services</dc:description>
+<dc:subject dcterms="mesh">Medicare Part D</dc:subject>
+<dc:subject xml:lang="es">Cobertura de Medicare de medicamentos recetados</dc:subject>
+<dc:subject xml:lang="en">Medicare Prescription Drug Coverage</dc:subject>
+</metadata>
+</record>
+</MedlinePlus-document>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<MedlinePlus-document>
+<record>
+<header>
+<identifier>https://medlineplus.gov/healthscreening.html</identifier>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title type="alternate" xml:lang="es">Diagnóstico</dc:title>
+<dc:title type="alternate" xml:lang="en">Screening Tests</dc:title>
+<dc:type>Text</dc:type>
+<dc:language>spa</dc:language>
+<dc:language>eng</dc:language>
+<dc:title xml:lang="es">Exámenes médicos</dc:title>
+<dc:title xml:lang="en">Health Screening</dc:title>
+<dc:publisher>National Library of Medicine</dc:publisher>
+<dc:relation type="IsPartOf">Wellness and Lifestyle</dc:relation>
+<dc:date type="created">2008-04-07</dc:date>
+<dc:date type="modified">2017-12-20</dc:date>
+<dc:identifier type="URL" xml:lang="es">https://medlineplus.gov/spanish/healthscreening.html</dc:identifier>
+<dc:identifier type="URL" xml:lang="en">https://medlineplus.gov/healthscreening.html</dc:identifier>
+<dc:description xml:lang="es">Durante el chequeo médico se realizan exámenes que pueden ayudar a encontrar una enfermedad antes de que comiencen los síntomas. Estas pruebas pueden ayudar a descubrir enfermedades o afecciones anticipadamente, cuando son más fáciles de tratar. Algunos exámenes se realizan en el consultorio del doctor. Otros, necesitan equipos especiales, entonces es posible que tenga que dirigirse a una oficina diferente o a una clínica. Entre los cuadros que los médicos buscan comúnmente se incluyen: Cáncer de seno y cáncer de cuello uterino en mujeres Cáncer colorrectal Diabetes Presión arterial alta Colesterol elevado Osteoporosis Obesidad y sobrepeso Cáncer de próstata en los hombres Las pruebas que usted necesite dependerán de la edad, el sexo, los antecedentes familiares y si tiene factores de riesgo para algunas enfermedades. Luego de que le realicen las pruebas, pregunte cuándo obtendrá los resultados y con quién debería hablar sobre ellos. Agencia para la Investigación y Calidad de la Atención Médica</dc:description>
+<dc:description xml:lang="en">Screenings are tests that look for diseases before you have symptoms. Screening tests can find diseases early, when they're easier to treat. You can get some screenings in your doctor's office. Others need special equipment, so you may need to go to a different office or clinic. Some conditions that doctors commonly screen for include Breast cancer and cervical cancer in women Colorectal cancer Diabetes High blood pressure High cholesterol Osteoporosis Overweight and obesity Prostate cancer in men Which tests you need depends on your age, your sex, your family history, and whether you have risk factors for certain diseases. After a screening test, ask when you will get the results and whom to talk to about them. Agency for Healthcare Research and Quality</dc:description>
+<dc:subject dcterms="mesh">Diagnostic Tests, Routine</dc:subject>
+<dc:subject xml:lang="es">Exámenes médicos</dc:subject>
+<dc:subject xml:lang="es">Diagnóstico</dc:subject>
+<dc:subject xml:lang="en">Health Screening</dc:subject>
+<dc:subject xml:lang="en">Screening Tests</dc:subject>
+</metadata>
+</record>
+</MedlinePlus-document>

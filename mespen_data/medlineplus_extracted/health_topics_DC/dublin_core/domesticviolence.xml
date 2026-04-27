@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<MedlinePlus-document>
+<record>
+<header>
+<identifier>https://medlineplus.gov/domesticviolence.html</identifier>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title type="alternate" xml:lang="es">Abuso conyugal</dc:title>
+<dc:title type="alternate" xml:lang="es">Género, Violencia</dc:title>
+<dc:title type="alternate" xml:lang="en">Spouse Abuse</dc:title>
+<dc:title type="alternate" xml:lang="en">Violence</dc:title>
+<dc:title type="alternate" xml:lang="en">Abuse</dc:title>
+<dc:title type="alternate" xml:lang="en">Partner Abuse</dc:title>
+<dc:type>Text</dc:type>
+<dc:language>spa</dc:language>
+<dc:language>eng</dc:language>
+<dc:title xml:lang="es">Violencia doméstica</dc:title>
+<dc:title xml:lang="en">Domestic Violence</dc:title>
+<dc:publisher>National Library of Medicine</dc:publisher>
+<dc:relation type="IsPartOf">Women</dc:relation>
+<dc:relation type="IsPartOf">Injuries and Wounds</dc:relation>
+<dc:relation type="IsPartOf">Social/Family Issues</dc:relation>
+<dc:date type="created">2002-07-21</dc:date>
+<dc:date type="modified">2018-01-31</dc:date>
+<dc:identifier type="URL" xml:lang="es">https://medlineplus.gov/spanish/domesticviolence.html</dc:identifier>
+<dc:identifier type="URL" xml:lang="en">https://medlineplus.gov/domesticviolence.html</dc:identifier>
+<dc:description xml:lang="es">La violencia doméstica es un tipo de abuso. Por lo general, implica un cónyuge o pareja, pero también puede ser a un niño, pariente mayor u otro miembro de la familia. La violencia doméstica puede incluir: Violencia física que puede conducir a lesiones como moretones o fracturas de huesos Violencia sexual Amenazas de violencia física o sexual Abuso emocional que puede llevar a la depresión, ansiedad o aislamiento social Abuso económico que involucra controlar el acceso a dinero Acoso, que provoca miedo por la propia seguridad Es difícil saber exactamente qué tan común es la violencia doméstica, ya que las personas a menudo no la denuncian. No hay ninguna víctima que se considere típica. Sucede entre personas de todas las edades. Afecta a todos los niveles de ingresos y educación. El primer paso para obtener ayuda es decirle a alguien de confianza, como un amigo, familiar o compañero de trabajo. También puede contactar a su médico u otro proveedor de salud, un refugio de emergencia para víctimas o una línea telefónica de ayuda. Centros para el Control y Prevención de Enfermedades</dc:description>
+<dc:description xml:lang="en">Domestic violence is a type of abuse. It usually involves a spouse or partner, but it can also be a child, elderly relative, or other family member. Domestic violence may include Physical violence that can lead to injuries such as bruises or broken bones Sexual violence Threats of physical or sexual violence Emotional abuse that may lead to depression, anxiety, or social isolation Economic abuse, which involves controlling access to money Stalking, which causes fear for your own safety The first step in getting help is to tell someone you trust, such as a friend, family member, or co-worker. You can also contact your doctor or another health care professional, an emergency shelter, or a domestic violence helpline. The first step in getting help is to tell someone you trust. Centers for Disease Control and Prevention</dc:description>
+<dc:subject dcterms="mesh">Domestic Violence</dc:subject>
+<dc:subject xml:lang="es">Violencia doméstica</dc:subject>
+<dc:subject xml:lang="es">Abuso conyugal</dc:subject>
+<dc:subject xml:lang="es">Género</dc:subject>
+<dc:subject xml:lang="es">Violencia</dc:subject>
+<dc:subject xml:lang="en">Domestic Violence</dc:subject>
+<dc:subject xml:lang="en">Spouse Abuse</dc:subject>
+<dc:subject xml:lang="en">Violence</dc:subject>
+<dc:subject xml:lang="en">Abuse</dc:subject>
+<dc:subject xml:lang="en">Partner Abuse</dc:subject>
+</metadata>
+</record>
+</MedlinePlus-document>

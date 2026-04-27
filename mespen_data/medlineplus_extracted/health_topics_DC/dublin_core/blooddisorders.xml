@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<MedlinePlus-document>
+<record>
+<header>
+<identifier>https://medlineplus.gov/blooddisorders.html</identifier>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title type="alternate" xml:lang="es">Sangre, Problemas</dc:title>
+<dc:title type="alternate" xml:lang="en">Hematologic Disorders</dc:title>
+<dc:type>Text</dc:type>
+<dc:language>spa</dc:language>
+<dc:language>eng</dc:language>
+<dc:title xml:lang="es">Problemas de la sangre</dc:title>
+<dc:title xml:lang="en">Blood Disorders</dc:title>
+<dc:publisher>National Library of Medicine</dc:publisher>
+<dc:relation type="IsPartOf">Blood, Heart and Circulation</dc:relation>
+<dc:date type="created">2005-01-06</dc:date>
+<dc:date type="modified">2017-11-14</dc:date>
+<dc:identifier type="URL" xml:lang="es">https://medlineplus.gov/spanish/blooddisorders.html</dc:identifier>
+<dc:identifier type="URL" xml:lang="en">https://medlineplus.gov/blooddisorders.html</dc:identifier>
+<dc:description xml:lang="es">La sangre es tejido vivo formado por líquidos y sólidos. La parte líquida, llamada plasma, contiene agua, sales y proteínas. Más de la mitad del cuerpo es plasma. La parte sólida de la sangre contiene glóbulos rojos, glóbulos blancos y plaquetas. Los problemas de la sangre afectan una o varias partes de ésta e impiden que cumpla su función. Pueden ser crónicos o agudos. Muchos trastornos sanguíneos son hereditarios. Otras causas pueden ser otras enfermedades, efectos secundarios de algún medicamento y la falta de ciertos nutrientes en la dieta. Algunos tipos de problemas de la sangre son: Problemas plaquetarios, coagulación excesiva y otros problemas de sangrado, que afectan la coagulación Anemia, que ocurre cuando la sangre no lleva suficiente oxígeno a su cuerpo Cánceres sanguíneos como la leucemia, y el mieloma Desórdenes eosinofílicos, que son problemas con un tipo de glóbulos blancos</dc:description>
+<dc:description xml:lang="en">Your blood is living tissue made up of liquid and solids. The liquid part, called plasma, is made of water, salts and protein. Over half of your blood is plasma. The solid part of your blood contains red blood cells, white blood cells and platelets. Blood disorders affect one or more parts of the blood and prevent your blood from doing its job. They can be acute or chronic. Many blood disorders are inherited. Other causes include other diseases, side effects of medicines, and a lack of certain nutrients in your diet. Types of blood disorders include Platelet disorders, excessive clotting, and bleeding problems, which affect how your blood clots Anemia, which happens when your blood does not carry enough oxygen to the rest of your body Cancers of the blood, such as leukemia and myeloma Eosinophilic disorders, which are problems with one type of white blood cell.</dc:description>
+<dc:subject dcterms="mesh">Hematologic Diseases</dc:subject>
+<dc:subject xml:lang="es">Problemas de la sangre</dc:subject>
+<dc:subject xml:lang="es">Sangre</dc:subject>
+<dc:subject xml:lang="es">Problemas</dc:subject>
+<dc:subject xml:lang="en">Blood Disorders</dc:subject>
+<dc:subject xml:lang="en">Hematologic Disorders</dc:subject>
+</metadata>
+</record>
+</MedlinePlus-document>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<MedlinePlus-document>
+<record>
+<header>
+<identifier>https://medlineplus.gov/circumcision.html</identifier>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:type>Text</dc:type>
+<dc:language>spa</dc:language>
+<dc:language>eng</dc:language>
+<dc:title xml:lang="es">Circuncisión</dc:title>
+<dc:title xml:lang="en">Circumcision</dc:title>
+<dc:publisher>National Library of Medicine</dc:publisher>
+<dc:relation type="IsPartOf">Male Reproductive System</dc:relation>
+<dc:relation type="IsPartOf">Men</dc:relation>
+<dc:relation type="IsPartOf">Children and Teenagers</dc:relation>
+<dc:date type="created">2002-07-21</dc:date>
+<dc:date type="modified">2018-01-26</dc:date>
+<dc:identifier type="URL" xml:lang="es">https://medlineplus.gov/spanish/circumcision.html</dc:identifier>
+<dc:identifier type="URL" xml:lang="en">https://medlineplus.gov/circumcision.html</dc:identifier>
+<dc:description xml:lang="es">La circuncisión es una cirugía para quitar el prepucio, la piel que cubre la punta del pene. En los Estados Unidos, a menudo se hace antes de que el bebé recién nacido salga del hospital. Según la Academia Americana de Pediatría, la circuncisión presenta beneficios y riesgos médicos. Los posibles beneficios incluyen menos riesgo de infecciones de las vías urinarias, cáncer de pene y enfermedades por contacto sexual. Hay un bajo riesgo de sangrado o infección. El bebé también puede sentir dolor. Debido a los posibles beneficios de la circuncisión, la Academia Americana de Pediatría establece que los padres deberían tener la opción de circuncidar a sus hijos. También recomienda que los padres hablen sobre la circuncisión con el médico de su bebé. Los padres deben tomar esta decisión teniendo en cuenta los beneficios, riesgos y sus preferencias religiosas, culturales y personales.</dc:description>
+<dc:description xml:lang="en">Circumcision is a surgical procedure to remove the foreskin, the skin that covers the tip of the penis. In the United States, it is often done before a new baby leaves the hospital. According to the American Academy of Pediatrics (AAP), there are medical benefits and risks to circumcision. Possible benefits include a lower risk of urinary tract infections, penile cancer, and sexually transmitted diseases. There is a low risk of bleeding or infection. The baby might also feel some pain. The AAP said that because of the possible benefits, parents should have the option to circumcise their sons. They recommend that parents discuss circumcision with their baby's health care provider. Parents should make their decision based on the benefits and risks, as well as their own religious, cultural, and personal preferences.</dc:description>
+<dc:subject dcterms="mesh">Circumcision, Male</dc:subject>
+<dc:subject xml:lang="es">Circuncisión</dc:subject>
+<dc:subject xml:lang="en">Circumcision</dc:subject>
+</metadata>
+</record>
+</MedlinePlus-document>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<MedlinePlus-document>
+<record>
+<header>
+<identifier>https://medlineplus.gov/poisonivyoakandsumac.html</identifier>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title type="alternate" xml:lang="es">Roble venenoso</dc:title>
+<dc:title type="alternate" xml:lang="es">Sumaque</dc:title>
+<dc:title type="alternate" xml:lang="es">Zumaque</dc:title>
+<dc:title type="alternate" xml:lang="en">Poison Oak</dc:title>
+<dc:title type="alternate" xml:lang="en">Poison Sumac</dc:title>
+<dc:type>Text</dc:type>
+<dc:language>spa</dc:language>
+<dc:language>eng</dc:language>
+<dc:title xml:lang="es">Hiedra, roble y zumaque venenosos</dc:title>
+<dc:title xml:lang="en">Poison Ivy, Oak, and Sumac</dc:title>
+<dc:publisher>National Library of Medicine</dc:publisher>
+<dc:relation type="IsPartOf">Skin, Hair and Nails</dc:relation>
+<dc:date type="created">2005-04-25</dc:date>
+<dc:date type="modified">2017-05-17</dc:date>
+<dc:identifier type="URL" xml:lang="es">https://medlineplus.gov/spanish/poisonivyoakandsumac.html</dc:identifier>
+<dc:identifier type="URL" xml:lang="en">https://medlineplus.gov/poisonivyoakandsumac.html</dc:identifier>
+<dc:description xml:lang="es">Si usted pasa mucho tiempo al aire libre, es probable que se haya encontrado con hiedras, robles o zumaques venenosos en alguna oportunidad. La mayoría de las personas son sensibles a la savia aceitosa de estas plantas. La savia se encuentra en la raíz, los tallos, las hojas y los frutos de estas plantas. Si le toca la piel, causa una erupción cutánea con ampollas. La erupción puede variar de leve a grave, dependiendo de la cantidad de savia que toque la piel y de la sensibilidad de cada persona. También pueden ocurrir problemas si las plantas se queman. El hollín cubierto por savia que vuela en el aire puede penetrar en los ojos, la nariz, la garganta y el sistema respiratorio. La mejor manera para evitar la erupción cutánea es aprender a identificar las plantas y mantenerse alejado de ellas. Si toca alguna de estas plantas, lávese la piel y la ropa inmediatamente. Si aparece una erupción, solicite en la farmacia medicinas a la venta sin receta médica. En los casos de erupciones graves, consulte a un médico. Servicio de Parques Nacionales</dc:description>
+<dc:description xml:lang="en">If you spend time outdoors, chances are you have been bothered by poison ivy, poison oak or poison sumac at some point. Most people are sensitive to the plants' oily sap. The sap is in the root, stems, leaves and fruit of these plants. If it gets on your skin, it causes a blistering skin rash. The rash can range from mild to severe, depending on how much sap gets on your skin and how sensitive you are to it. Problems can also happen if the plants are burned. Airborne sap-coated soot can get into the eyes, nose, throat and respiratory system. The best way to avoid the rash is to learn what the plants look like and stay away from them. If you come into contact with the plants, wash your skin and clothing right away. If you develop a rash, ask your pharmacist about over-the-counter medicines. For severe rashes, see your doctor. National Park Service</dc:description>
+<dc:subject dcterms="mesh">Dermatitis, Toxicodendron</dc:subject>
+<dc:subject xml:lang="es">Hiedra</dc:subject>
+<dc:subject xml:lang="es">roble y zumaque venenosos</dc:subject>
+<dc:subject xml:lang="es">Roble venenoso</dc:subject>
+<dc:subject xml:lang="es">Sumaque</dc:subject>
+<dc:subject xml:lang="es">Zumaque</dc:subject>
+<dc:subject xml:lang="en">Poison Ivy</dc:subject>
+<dc:subject xml:lang="en">Oak</dc:subject>
+<dc:subject xml:lang="en">and Sumac</dc:subject>
+<dc:subject xml:lang="en">Poison Oak</dc:subject>
+<dc:subject xml:lang="en">Poison Sumac</dc:subject>
+</metadata>
+</record>
+</MedlinePlus-document>

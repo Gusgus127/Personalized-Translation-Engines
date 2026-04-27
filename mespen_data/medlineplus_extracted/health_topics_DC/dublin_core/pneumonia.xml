@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<MedlinePlus-document>
+<record>
+<header>
+<identifier>https://medlineplus.gov/pneumonia.html</identifier>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title type="alternate" xml:lang="es">Pulmonía</dc:title>
+<dc:title type="alternate" xml:lang="en">Bronchopneumonia</dc:title>
+<dc:title type="alternate" xml:lang="en">Walking Pneumonia</dc:title>
+<dc:type>Text</dc:type>
+<dc:language>spa</dc:language>
+<dc:language>eng</dc:language>
+<dc:title xml:lang="es">Neumonía</dc:title>
+<dc:title xml:lang="en">Pneumonia</dc:title>
+<dc:publisher>National Library of Medicine</dc:publisher>
+<dc:relation type="IsPartOf">Lungs and Breathing</dc:relation>
+<dc:relation type="IsPartOf">Infections</dc:relation>
+<dc:date type="created">2002-07-21</dc:date>
+<dc:date type="modified">2018-02-14</dc:date>
+<dc:identifier type="URL" xml:lang="es">https://medlineplus.gov/spanish/pneumonia.html</dc:identifier>
+<dc:identifier type="URL" xml:lang="en">https://medlineplus.gov/pneumonia.html</dc:identifier>
+<dc:description xml:lang="es">La neumonía es una infección de uno o los dos pulmones. Muchos gérmenes, como bacterias, virus u hongos, pueden causarla. También se puede desarrollar al inhalar líquidos o químicos. Las personas con mayor riesgo son las mayores de 65 años o menores de dos años o aquellas personas que tienen otros problemas de salud. Los síntomas de la neumonía varían de leves a severos. Vea a su doctor a la brevedad si usted: Tiene fiebre alta Tiene escalofríos Tiene tos con flema que no mejora o empeora Le falta la respiración al hacer sus tareas diarias Le duele el pecho al respirar o toser Se siente peor después de un resfrío o gripe Su médico usará su historial médico, un examen físico y pruebas de laboratorio para diagnosticar la neumonía. El tratamiento depende del tipo que usted tenga. Si las bacterias son la causa, los antibióticos deberán ayudar. Si usted tiene neumonía viral, el médico puede recetar un medicamento antiviral para tratarla. Es mejor prevenir la neumonía que tratarla. Hay vacunas disponibles para prevenir la neumonía neumocócica y la gripe. Otras medidas preventivas incluyen lavarse las manos con frecuencia y no fumar. NIH: Instituto Nacional del Corazón, los Pulmones y la Sangre</dc:description>
+<dc:description xml:lang="en">Pneumonia is an infection in one or both of the lungs. Many germs, such as bacteria, viruses, and fungi, can cause pneumonia. You can also get pneumonia by inhaling a liquid or chemical. People most at risk are older than 65 or younger than 2 years of age, or already have health problems. Symptoms of pneumonia vary from mild to severe. See your doctor promptly if you Have a high fever Have shaking chills Have a cough with phlegm that doesn't improve or gets worse Develop shortness of breath with normal daily activities Have chest pain when you breathe or cough Feel suddenly worse after a cold or the flu Your doctor will use your medical history, a physical exam, and lab tests to diagnose pneumonia. Treatment depends on what kind you have. If bacteria are the cause, antibiotics should help. If you have viral pneumonia, your doctor may prescribe an antiviral medicine to treat it. Preventing pneumonia is always better than treating it. Vaccines are available to prevent pneumococcal pneumonia and the flu. Other preventive measures include washing your hands frequently and not smoking. NIH: National Heart, Lung, and Blood Institute</dc:description>
+<dc:subject dcterms="mesh">Pneumonia</dc:subject>
+<dc:subject xml:lang="es">Neumonía</dc:subject>
+<dc:subject xml:lang="es">Pulmonía</dc:subject>
+<dc:subject xml:lang="en">Pneumonia</dc:subject>
+<dc:subject xml:lang="en">Bronchopneumonia</dc:subject>
+<dc:subject xml:lang="en">Walking Pneumonia</dc:subject>
+</metadata>
+</record>
+</MedlinePlus-document>

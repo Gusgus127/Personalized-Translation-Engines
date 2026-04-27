@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<MedlinePlus-document>
+<record>
+<header>
+<identifier>https://medlineplus.gov/sportsfitness.html</identifier>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title type="alternate" xml:lang="es">Condición fisica</dc:title>
+<dc:title type="alternate" xml:lang="es">Práctica de deportes, Entrenamiento</dc:title>
+<dc:title type="alternate" xml:lang="es">Deportes, Entrenamiento</dc:title>
+<dc:title type="alternate" xml:lang="es">Ejercicio, Entrenamiento</dc:title>
+<dc:title type="alternate" xml:lang="en">Fitness</dc:title>
+<dc:title type="alternate" xml:lang="en">Weight Training</dc:title>
+<dc:title type="alternate" xml:lang="en">Performance-Enhancing Drugs</dc:title>
+<dc:type>Text</dc:type>
+<dc:language>spa</dc:language>
+<dc:language>eng</dc:language>
+<dc:title xml:lang="es">Entrenamiento para deportes y ejercicio</dc:title>
+<dc:title xml:lang="en">Sports Fitness</dc:title>
+<dc:publisher>National Library of Medicine</dc:publisher>
+<dc:relation type="IsPartOf">Wellness and Lifestyle</dc:relation>
+<dc:relation type="IsPartOf">Fitness and Exercise</dc:relation>
+<dc:date type="created">2002-07-21</dc:date>
+<dc:date type="modified">2017-09-11</dc:date>
+<dc:identifier type="URL" xml:lang="es">https://medlineplus.gov/spanish/sportsfitness.html</dc:identifier>
+<dc:identifier type="URL" xml:lang="en">https://medlineplus.gov/sportsfitness.html</dc:identifier>
+<dc:description xml:lang="es">Los deportes pueden ser una excelente manera de mejorar su condición física y mantenerse en forma. Tener una meta específica puede ser un gran motivador. Físicamente, necesita fortaleza y resistencia. El entrenamiento varía según el deporte. Este no es el mismo para el salto con pértiga o la natación. Sin embargo, usted puede combinar los ejercicios. Eso significa simplemente incluir una variedad de actividad física en su rutina. Las investigaciones demuestran que la combinación de ejercicios fortalece los huesos. Recuerde escuchar a su cuerpo. Si se siente cansado a menudo o siente dolor, es posible que está haciendo demasiado. Eso puede resultar en lesiones. Asegúrese de usar el cuerpo y su equipo en forma segura. También es importante lo que come y bebe. El agua es el nutriente más importante para la gente activa. Bébala antes, durante y después de ejercitarse.</dc:description>
+<dc:description xml:lang="en">Sports can be a great way to get in shape or stay that way. Having a specific goal can be a great motivator. Physically, you need strength and endurance. Your training will vary with your sport. You would not train the same way for pole vaulting as for swimming. You might, however, cross train. Cross training simply means that you include a variety of fitness activities in your program. Research shows that cross training builds stronger bones. Remember to listen to your body. If you frequently feel exhausted or you are in pain, you may be overdoing it. Injuries can be the result. And be sure that you use your body and your equipment safely. What you eat and drink is also important. Water is the most important nutrient for active people. Drink it before, during and after workouts.</dc:description>
+<dc:subject dcterms="mesh">Sports Medicine</dc:subject>
+<dc:subject xml:lang="es">Entrenamiento para deportes y ejercicio</dc:subject>
+<dc:subject xml:lang="es">Condición fisica</dc:subject>
+<dc:subject xml:lang="es">Práctica de deportes</dc:subject>
+<dc:subject xml:lang="es">Entrenamiento</dc:subject>
+<dc:subject xml:lang="es">Deportes</dc:subject>
+<dc:subject xml:lang="es">Entrenamiento</dc:subject>
+<dc:subject xml:lang="es">Ejercicio</dc:subject>
+<dc:subject xml:lang="es">Entrenamiento</dc:subject>
+<dc:subject xml:lang="en">Sports Fitness</dc:subject>
+<dc:subject xml:lang="en">Fitness</dc:subject>
+<dc:subject xml:lang="en">Weight Training</dc:subject>
+<dc:subject xml:lang="en">Performance-Enhancing Drugs</dc:subject>
+</metadata>
+</record>
+</MedlinePlus-document>

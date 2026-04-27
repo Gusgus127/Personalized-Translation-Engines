@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<MedlinePlus-document>
+<record>
+<header>
+<identifier>https://medlineplus.gov/diets.html</identifier>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title type="alternate" xml:lang="es">Ponerse a dieta</dc:title>
+<dc:title type="alternate" xml:lang="es">Dieta para bajar de peso</dc:title>
+<dc:title type="alternate" xml:lang="en">Weight-Loss Diet</dc:title>
+<dc:title type="alternate" xml:lang="en">Dieting</dc:title>
+<dc:type>Text</dc:type>
+<dc:language>spa</dc:language>
+<dc:language>eng</dc:language>
+<dc:title xml:lang="es">Dietas</dc:title>
+<dc:title xml:lang="en">Diets</dc:title>
+<dc:publisher>National Library of Medicine</dc:publisher>
+<dc:relation type="IsPartOf">Food and Nutrition</dc:relation>
+<dc:relation type="IsPartOf">Wellness and Lifestyle</dc:relation>
+<dc:date type="created">2009-04-16</dc:date>
+<dc:date type="modified">2017-12-11</dc:date>
+<dc:identifier type="URL" xml:lang="es">https://medlineplus.gov/spanish/diets.html</dc:identifier>
+<dc:identifier type="URL" xml:lang="en">https://medlineplus.gov/diets.html</dc:identifier>
+<dc:description xml:lang="es">Si usted tiene sobrepeso u obesidad, perder peso puede mejorar su salud. También podría ayudar a prevenir las enfermedades relacionadas con el peso, tales como enfermedades del corazón, diabetes, artritis y algunos tipos de cáncer. Una dieta saludable es una parte importante de un plan para perder peso. Esto: Puede incluir frutas, vegetales, granos enteros y leche y productos lácteos descremados o con poca grasa Puede incluir carnes magras, pollo, pescado, frijoles, huevos y nueces Incluye un bajo consumo de grasas saturadas, grasas trans, colesterol, sal (sodio) y azúcares añadidos La clave para perder peso es quemar más calorías de las que come y bebe. Una dieta puede ayudar a lograrlo a través del control de las porciones. Hay muchos tipos diferentes de dietas. Algunas, como la dieta mediterránea, describen una forma tradicional de comer de una región específica. Otras, como la dieta DASH, fueron diseñadas para personas que tienen ciertos problemas de salud, pero también pueden ayudar a perder peso. También hay dietas de moda o de choque que restringen bastante las calorías o los tipos de alimentos que permiten comer. Pueden sonar prometedoras pero rara vez conducen a una pérdida de peso permanente. También pueden no proporcionar todos los nutrientes que su cuerpo necesita. Además de una dieta, añadir el ejercicio a su vida diaria puede ayudarle a perder peso. NIH: Instituto Nacional de la Diabetes y las Enfermedades Digestivas y Renales</dc:description>
+<dc:description xml:lang="en">If you are overweight or have obesity, losing weight can improve your health. It might also help you prevent weight-related diseases, such as heart disease, diabetes, arthritis and some cancers. A healthy diet is an important part of a weight-loss program. It May include fruits, vegetables, whole grains, and fat-free or low-fat milk and milk products May include lean meats, poultry, fish, beans, eggs and nuts Goes easy on saturated fats, trans fat, cholesterol, salt (sodium), and added sugars The key to losing weight is to burn more calories than you eat and drink. A diet can help you to do this through portion control. There are many different types of diets. Some, like the Mediterranean diet, describe a traditional way of eating from a specific region. Others, like the DASH eating plan or a diet to lower cholesterol, were designed for people who have certain health problems. But they may also help you to lose weight. There are also fad or crash diets that severely restrict calories or the types of food you are allowed to eat. They may sound promising, but they rarely lead to permanent weight loss. They also may not provide all of the nutrients your body needs. In addition to a diet, adding exercise into your daily life can help you to lose weight. NIH: National Institute of Diabetes and Digestive and Kidney Diseases</dc:description>
+<dc:subject dcterms="mesh">Diet, Reducing</dc:subject>
+<dc:subject xml:lang="es">Dietas</dc:subject>
+<dc:subject xml:lang="es">Ponerse a dieta</dc:subject>
+<dc:subject xml:lang="es">Dieta para bajar de peso</dc:subject>
+<dc:subject xml:lang="en">Diets</dc:subject>
+<dc:subject xml:lang="en">Weight-Loss Diet</dc:subject>
+<dc:subject xml:lang="en">Dieting</dc:subject>
+</metadata>
+</record>
+</MedlinePlus-document>

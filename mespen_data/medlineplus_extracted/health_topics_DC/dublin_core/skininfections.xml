@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<MedlinePlus-document>
+<record>
+<header>
+<identifier>https://medlineplus.gov/skininfections.html</identifier>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title type="alternate" xml:lang="es">Piel, Infecciones</dc:title>
+<dc:title type="alternate" xml:lang="en">Molluscum Contagiosum</dc:title>
+<dc:type>Text</dc:type>
+<dc:language>spa</dc:language>
+<dc:language>eng</dc:language>
+<dc:title xml:lang="es">Infecciones de la piel</dc:title>
+<dc:title xml:lang="en">Skin Infections</dc:title>
+<dc:publisher>National Library of Medicine</dc:publisher>
+<dc:relation type="IsPartOf">Infections</dc:relation>
+<dc:relation type="IsPartOf">Skin, Hair and Nails</dc:relation>
+<dc:date type="created">2010-03-29</dc:date>
+<dc:date type="modified">2017-09-27</dc:date>
+<dc:identifier type="URL" xml:lang="es">https://medlineplus.gov/spanish/skininfections.html</dc:identifier>
+<dc:identifier type="URL" xml:lang="en">https://medlineplus.gov/skininfections.html</dc:identifier>
+<dc:description xml:lang="es">Su piel lo ayuda a protegerse de los gérmenes pero a veces éstos la pueden infectar. Algunas de las infecciones más comunes son: Bacterianas: celulitis e impétigo. Las infecciones por estafilococo también pueden afectar la piel Virales: culebrilla, verrugas y herpes simple Por hongos: pie de atleta e infecciones por cándida Su piel también puede tener parásitos, como piojos y sarna. El tratamiento de las infecciones de la piel depende de la causa.</dc:description>
+<dc:description xml:lang="en">Your skin helps protect you from germs, but sometimes it can get infected by them. Some common types of skin infections are Bacterial: Cellulitis and impetigo. Staphylococcal infections can also affect the skin. Viral: Shingles, warts, and herpes simplex Fungal: Athlete's foot and yeast infections Parasitic: Body lice, head lice, and scabies Treatment of skin infections depends on the cause.</dc:description>
+<dc:subject dcterms="mesh">Skin Diseases, Infectious</dc:subject>
+<dc:subject xml:lang="es">Infecciones de la piel</dc:subject>
+<dc:subject xml:lang="es">Piel</dc:subject>
+<dc:subject xml:lang="es">Infecciones</dc:subject>
+<dc:subject xml:lang="en">Skin Infections</dc:subject>
+<dc:subject xml:lang="en">Molluscum Contagiosum</dc:subject>
+</metadata>
+</record>
+</MedlinePlus-document>

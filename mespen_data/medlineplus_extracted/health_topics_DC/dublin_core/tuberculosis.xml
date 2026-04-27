@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<MedlinePlus-document>
+<record>
+<header>
+<identifier>https://medlineplus.gov/tuberculosis.html</identifier>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title type="alternate" xml:lang="es">TB</dc:title>
+<dc:title type="alternate" xml:lang="en">TB</dc:title>
+<dc:type>Text</dc:type>
+<dc:language>spa</dc:language>
+<dc:language>eng</dc:language>
+<dc:title xml:lang="es">Tuberculosis</dc:title>
+<dc:title xml:lang="en">Tuberculosis</dc:title>
+<dc:publisher>National Library of Medicine</dc:publisher>
+<dc:relation type="IsPartOf">Lungs and Breathing</dc:relation>
+<dc:relation type="IsPartOf">Infections</dc:relation>
+<dc:date type="created">2002-07-21</dc:date>
+<dc:date type="modified">2017-11-16</dc:date>
+<dc:identifier type="URL" xml:lang="es">https://medlineplus.gov/spanish/tuberculosis.html</dc:identifier>
+<dc:identifier type="URL" xml:lang="en">https://medlineplus.gov/tuberculosis.html</dc:identifier>
+<dc:description xml:lang="es">La tuberculosis (TB) es una infección bacteriana causada por un gérmen llamado Mycobacterium tuberculosis. La bacteria suele atacar los pulmones, pero puede también dañar otras partes del cuerpo. La TB se disemina a través del aire, cuando una persona con TB pulmonar tose, estornuda o habla. Si ha estado expuesto debería consultar a un médico para someterse a los exámenes. Hay más probabilidades de que usted se contagie con TB si tiene un sistema inmunitario debilitado. Los síntomas de la TB pulmonar pueden incluir: Tos severa que dure tres semanas o más Bajar de peso Toser y escupir sangre o mucosidad Debilidad o fatiga Fiebre y escalofríos Sudores nocturnos Si no se trata adecuadamente, la TB puede ser mortal. Por lo general la TB activa puede curarse con varios medicamentos durante un período largo de tiempo. Las personas con TB latente pueden tomar medicamentos para no desarrollar TB activa. Centros para el Control y la Prevención de Enfermedades</dc:description>
+<dc:description xml:lang="en">Tuberculosis (TB) is a disease caused by bacteria called Mycobacterium tuberculosis. The bacteria usually attack the lungs, but they can also damage other parts of the body. TB spreads through the air when a person with TB of the lungs or throat coughs, sneezes, or talks. If you have been exposed, you should go to your doctor for tests. You are more likely to get TB if you have a weak immune system. Symptoms of TB in the lungs may include A bad cough that lasts 3 weeks or longer Weight loss Loss of appetite Coughing up blood or mucus Weakness or fatigue Fever Night sweats Skin tests, blood tests, x-rays, and other tests can tell if you have TB. If not treated properly, TB can be deadly. You can usually cure active TB by taking several medicines for a long period of time. NIH: National Institute of Allergy and Infectious Diseases</dc:description>
+<dc:subject dcterms="mesh">Tuberculosis</dc:subject>
+<dc:subject xml:lang="es">Tuberculosis</dc:subject>
+<dc:subject xml:lang="es">TB</dc:subject>
+<dc:subject xml:lang="en">Tuberculosis</dc:subject>
+<dc:subject xml:lang="en">TB</dc:subject>
+</metadata>
+</record>
+</MedlinePlus-document>

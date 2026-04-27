@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<MedlinePlus-document>
+<record>
+<header>
+<identifier>https://medlineplus.gov/fistulas.html</identifier>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:type>Text</dc:type>
+<dc:language>spa</dc:language>
+<dc:language>eng</dc:language>
+<dc:title xml:lang="es">Fístulas</dc:title>
+<dc:title xml:lang="en">Fistulas</dc:title>
+<dc:publisher>National Library of Medicine</dc:publisher>
+<dc:relation type="IsPartOf">Lungs and Breathing</dc:relation>
+<dc:relation type="IsPartOf">Digestive System</dc:relation>
+<dc:date type="created">2005-05-27</dc:date>
+<dc:date type="modified">2017-02-21</dc:date>
+<dc:identifier type="URL" xml:lang="es">https://medlineplus.gov/spanish/fistulas.html</dc:identifier>
+<dc:identifier type="URL" xml:lang="en">https://medlineplus.gov/fistulas.html</dc:identifier>
+<dc:description xml:lang="es">Una fístula es una conexión anormal entre dos partes internas del cuerpo. Pueden desarrollarse entre distintos órganos, como entre el esófago y la tráquea o entre el intestino y la vagina. También pueden formarse entre dos vasos sanguíneos, como una arteria y una vena o entre dos arterias. Algunas personas nacen con una fístula. Otras causas comunes son: Complicaciones después de una cirugía Lesiones Infecciones Enfermedades como la de Crohn o colitis ulcerativa El tratamiento depende de la causa, dónde está ubicada y cuán grave es. Algunas fístulas cierran por sí solas. Otras necesitan antibióticos y/o cirugías.</dc:description>
+<dc:description xml:lang="en">A fistula is an abnormal connection between two parts inside of the body. Fistulas may develop between different organs, such as between the esophagus and the windpipe or the bowel and the vagina. They can also develop between two blood vessels, such as between an artery and a vein or between two arteries. Some people are born with a fistula. Other common causes of fistulas include Complications from surgery Injury Infection Diseases, such as Crohn's disease or ulcerative colitis Treatment depends on the cause of the fistula, where it is, and how bad it is. Some fistulas will close on their own. In some cases, you may need antibiotics and/or surgery.</dc:description>
+<dc:subject dcterms="mesh">Fistula</dc:subject>
+<dc:subject xml:lang="es">Fístulas</dc:subject>
+<dc:subject xml:lang="en">Fistulas</dc:subject>
+</metadata>
+</record>
+</MedlinePlus-document>

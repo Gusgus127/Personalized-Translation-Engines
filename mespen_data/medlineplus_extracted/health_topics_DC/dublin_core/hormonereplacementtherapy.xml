@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<MedlinePlus-document>
+<record>
+<header>
+<identifier>https://medlineplus.gov/hormonereplacementtherapy.html</identifier>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title type="alternate" xml:lang="es">Hormonas, Terapia de reemplazo</dc:title>
+<dc:title type="alternate" xml:lang="es">Menopausia, Terapia hormonal</dc:title>
+<dc:title type="alternate" xml:lang="en">Estrogen Replacement Therapy</dc:title>
+<dc:title type="alternate" xml:lang="en">HRT</dc:title>
+<dc:title type="alternate" xml:lang="en">ERT</dc:title>
+<dc:title type="alternate" xml:lang="en">Menopausal Hormone Therapy</dc:title>
+<dc:type>Text</dc:type>
+<dc:language>spa</dc:language>
+<dc:language>eng</dc:language>
+<dc:title xml:lang="es">Terapia de reemplazo hormonal</dc:title>
+<dc:title xml:lang="en">Hormone Replacement Therapy</dc:title>
+<dc:publisher>National Library of Medicine</dc:publisher>
+<dc:relation type="IsPartOf">Endocrine System</dc:relation>
+<dc:relation type="IsPartOf">Drug Therapy</dc:relation>
+<dc:relation type="IsPartOf">Female Reproductive System</dc:relation>
+<dc:relation type="IsPartOf">Women</dc:relation>
+<dc:date type="created">2002-08-19</dc:date>
+<dc:date type="modified">2017-02-06</dc:date>
+<dc:identifier type="URL" xml:lang="es">https://medlineplus.gov/spanish/hormonereplacementtherapy.html</dc:identifier>
+<dc:identifier type="URL" xml:lang="en">https://medlineplus.gov/hormonereplacementtherapy.html</dc:identifier>
+<dc:description xml:lang="es">La menopausia es la época de la vida de una mujer en la cual deja de tener menstruaciones. Es una parte normal del envejecimiento. Antes y durante la menopausia, los niveles de hormonas femeninas pueden subir y bajar. Esto puede provocar síntomas tales como acaloramientos súbitos y resequedad vaginal. Algunas mujeres reciben un tratamiento de reemplazo hormonal (TRH), también llamada terapia hormonal para la menopausia, para aliviar esos síntomas. La TRH también puede protegerla contra la osteoporosis. Sin embargo, la TRH también implica algunos riesgos. Puede aumentar su riesgo de cáncer de seno, enfermedades cardíacas y derrame cerebral. Algunos tipos de TRH tienen mayor riesgo y los riesgos propios de cada mujer pueden variar dependiendo de su historia de salud y estilo de vida. Usted y su médico deben discutir los riesgos y beneficios en su caso. Si decide tomar TRH, debe utilizar la dosis más baja que la ayude y por el menor tiempo que sea necesaria. El consumo de hormonas debe reevaluarse cada seis meses. NIH: Instituto Nacional del Corazón, los Pulmones y la Sangre</dc:description>
+<dc:description xml:lang="en">Menopause is the time in a woman's life when her period stops. It is a normal part of aging. In the years before and during menopause, the levels of female hormones can go up and down. This can cause symptoms such as hot flashes, night sweats, pain during sex, and vaginal dryness. For some women, the symptoms are mild, and they go away on their own. Other women take hormone replacement therapy (HRT), also called menopausal hormone therapy, to relieve these symptoms. HRT may also protect against osteoporosis. HRT is not for everyone. You should not use HRT if you Think that you are pregnant Have problems with vaginal bleeding Have had certain kinds of cancers Have had a stroke or heart attack Have had blood clots Have liver disease There are different types of HRT. Some have only one hormone, while others have two. Most are pills that you take every day, but there are also skin patches, vaginal creams, gels, and rings. Taking HRT has some risks. For some women, hormone therapy may increase their chances of getting blood clots, heart attacks, strokes, breast cancer, and gallbladder disease. Certain types of HRT have a higher risk, and each woman's own risks can vary, depending upon her health history and lifestyle. You and your health care provider need to discuss the risks and benefits for you. If you do decide to take HRT, it should be the lowest dose that helps and for the shortest time needed. You should check if you still need to take HRT every 3-6 months. Food and Drug Administration</dc:description>
+<dc:subject dcterms="mesh">Hormone Replacement Therapy</dc:subject>
+<dc:subject xml:lang="es">Terapia de reemplazo hormonal</dc:subject>
+<dc:subject xml:lang="es">Hormonas</dc:subject>
+<dc:subject xml:lang="es">Terapia de reemplazo</dc:subject>
+<dc:subject xml:lang="es">Menopausia</dc:subject>
+<dc:subject xml:lang="es">Terapia hormonal</dc:subject>
+<dc:subject xml:lang="en">Hormone Replacement Therapy</dc:subject>
+<dc:subject xml:lang="en">Estrogen Replacement Therapy</dc:subject>
+<dc:subject xml:lang="en">HRT</dc:subject>
+<dc:subject xml:lang="en">ERT</dc:subject>
+<dc:subject xml:lang="en">Menopausal Hormone Therapy</dc:subject>
+</metadata>
+</record>
+</MedlinePlus-document>

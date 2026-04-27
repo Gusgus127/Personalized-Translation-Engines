@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<MedlinePlus-document>
+<record>
+<header>
+<identifier>https://medlineplus.gov/carbohydrates.html</identifier>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title type="alternate" xml:lang="es">Hidratos de carbono en la dieta</dc:title>
+<dc:title type="alternate" xml:lang="es">Azúcar en la dieta</dc:title>
+<dc:title type="alternate" xml:lang="en">Sugar</dc:title>
+<dc:title type="alternate" xml:lang="en">Sugar Substitutes</dc:title>
+<dc:title type="alternate" xml:lang="en">Sweeteners, Artificial</dc:title>
+<dc:title type="alternate" xml:lang="en">Corn Syrup</dc:title>
+<dc:type>Text</dc:type>
+<dc:language>spa</dc:language>
+<dc:language>eng</dc:language>
+<dc:title xml:lang="es">Carbohidratos en la dieta</dc:title>
+<dc:title xml:lang="en">Carbohydrates</dc:title>
+<dc:publisher>National Library of Medicine</dc:publisher>
+<dc:relation type="IsPartOf">Food and Nutrition</dc:relation>
+<dc:date type="created">2004-02-02</dc:date>
+<dc:date type="modified">2017-12-07</dc:date>
+<dc:identifier type="URL" xml:lang="es">https://medlineplus.gov/spanish/carbohydrates.html</dc:identifier>
+<dc:identifier type="URL" xml:lang="en">https://medlineplus.gov/carbohydrates.html</dc:identifier>
+<dc:description xml:lang="es">Los carbohidratos son uno de los principales tipos de nutrientes. Son la fuente más importante de energía para su cuerpo. Su sistema digestivo convierte estos hidratos de carbono en glucosa (azúcar en la sangre). Su cuerpo usa esta azúcar como energía para sus células, tejidos y órganos y guarda cualquier azúcar extra en su hígado y músculos para cuando los necesite. Los carbohidratos se llaman simples o complejos dependiendo de su estructura química. Los carbohidratos simples incluyen el azúcar que se encuentra naturalmente en productos como frutas, vegetales, leche y derivados de la leche. También incluyen azúcares añadidos durante el procesamiento y refinación de alimentos. Los carbohidratos complejos incluyen panes y cereales integrales, vegetales ricos en fécula (almidón) y legumbres. Muchos de los carbohidratos complejos son una buena fuente de fibra. Para una dieta balanceada, limite la cantidad de azúcar agregada que usted consume y elija granos integrales en vez de granos refinados.</dc:description>
+<dc:description xml:lang="en">Carbohydrates are one of the main types of nutrients. They are the most important source of energy for your body. Your digestive system changes carbohydrates into glucose (blood sugar). Your body uses this sugar for energy for your cells, tissues and organs. It stores any extra sugar in your liver and muscles for when it is needed. Carbohydrates are called simple or complex, depending on their chemical structure. Simple carbohydrates include sugars found naturally in foods such as fruits, vegetables, milk, and milk products. They also include sugars added during food processing and refining. Complex carbohydrates include whole grain breads and cereals, starchy vegetables and legumes. Many of the complex carbohydrates are good sources of fiber. For a healthy diet, limit the amount of added sugar that you eat and choose whole grains over refined grains.</dc:description>
+<dc:subject dcterms="mesh">Dietary Carbohydrates</dc:subject>
+<dc:subject xml:lang="es">Carbohidratos en la dieta</dc:subject>
+<dc:subject xml:lang="es">Hidratos de carbono en la dieta</dc:subject>
+<dc:subject xml:lang="es">Azúcar en la dieta</dc:subject>
+<dc:subject xml:lang="en">Carbohydrates</dc:subject>
+<dc:subject xml:lang="en">Sugar</dc:subject>
+<dc:subject xml:lang="en">Sugar Substitutes</dc:subject>
+<dc:subject xml:lang="en">Sweeteners</dc:subject>
+<dc:subject xml:lang="en">Artificial</dc:subject>
+<dc:subject xml:lang="en">Corn Syrup</dc:subject>
+</metadata>
+</record>
+</MedlinePlus-document>

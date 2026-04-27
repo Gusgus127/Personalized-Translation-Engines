@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<MedlinePlus-document>
+<record>
+<header>
+<identifier>https://medlineplus.gov/infantandnewbornnutrition.html</identifier>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title type="alternate" xml:lang="es">Nutrición del recién nacido</dc:title>
+<dc:title type="alternate" xml:lang="es">Recién nacido, Nutrición</dc:title>
+<dc:title type="alternate" xml:lang="es">Bebé, Nutrición</dc:title>
+<dc:type>Text</dc:type>
+<dc:language>spa</dc:language>
+<dc:language>eng</dc:language>
+<dc:title xml:lang="es">Nutrición del bebé y del recién nacido</dc:title>
+<dc:title xml:lang="en">Infant and Newborn Nutrition</dc:title>
+<dc:publisher>National Library of Medicine</dc:publisher>
+<dc:relation type="IsPartOf">Children and Teenagers</dc:relation>
+<dc:relation type="IsPartOf">Food and Nutrition</dc:relation>
+<dc:date type="created">2004-03-12</dc:date>
+<dc:date type="modified">2017-10-18</dc:date>
+<dc:identifier type="URL" xml:lang="es">https://medlineplus.gov/spanish/infantandnewbornnutrition.html</dc:identifier>
+<dc:identifier type="URL" xml:lang="en">https://medlineplus.gov/infantandnewbornnutrition.html</dc:identifier>
+<dc:description xml:lang="es">El alimento proporciona la energía y los nutrientes que los recién nacidos necesitan para mantenerse sanos. Para un bebé, la leche materna contiene todas las vitaminas y minerales necesarios. Las fórmulas para lactantes están disponibles para aquellos bebés cuyas mamás no pueden o deciden no amamantar. Los recién nacidos comienzan a comer comida sólida entre los cuatro y seis meses de edad. Pregunte a su proveedor de salud cuál es el mejor momento para que su bebé comience. Si empieza dándole un alimento a la vez, usted podrá identificar cuáles causan alergias a su bebé. Algunas comidas que su bebé debería evitar pueden incluir: Huevos Miel Maníes (incluyendo mantequilla de maní) Otras nueces</dc:description>
+<dc:description xml:lang="en">Food provides the energy and nutrients that babies need to be healthy. For a baby, breast milk is best. It has all the necessary vitamins and minerals. Infant formulas are available for babies whose mothers are not able or decide not to breastfeed. Infants usually start eating solid foods between 4 and 6 months of age. Check with your health care provider for the best time for your baby to start. If you introduce one new food at a time, you will be able to identify any foods that cause allergies in your baby. Some foods to stay away from include Eggs Honey Peanuts (including peanut butter) Other tree nuts</dc:description>
+<dc:subject dcterms="mesh">Infant Nutritional Physiological Phenomena</dc:subject>
+<dc:subject dcterms="mesh">Infant Formula</dc:subject>
+<dc:subject dcterms="mesh">Infant Food</dc:subject>
+<dc:subject dcterms="mesh">Infant Nutrition Disorders</dc:subject>
+<dc:subject xml:lang="es">Nutrición del bebé y del recién nacido</dc:subject>
+<dc:subject xml:lang="es">Nutrición del recién nacido</dc:subject>
+<dc:subject xml:lang="es">Recién nacido</dc:subject>
+<dc:subject xml:lang="es">Nutrición</dc:subject>
+<dc:subject xml:lang="es">Bebé</dc:subject>
+<dc:subject xml:lang="es">Nutrición</dc:subject>
+<dc:subject xml:lang="en">Infant and Newborn Nutrition</dc:subject>
+</metadata>
+</record>
+</MedlinePlus-document>

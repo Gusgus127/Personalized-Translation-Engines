@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<MedlinePlus-document>
+<record>
+<header>
+<identifier>https://medlineplus.gov/oilspills.html</identifier>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title type="alternate" xml:lang="es">Petróleo, Derrame</dc:title>
+<dc:title type="alternate" xml:lang="en">Gulf Oil Spill</dc:title>
+<dc:type>Text</dc:type>
+<dc:language>spa</dc:language>
+<dc:language>eng</dc:language>
+<dc:title xml:lang="es">Derrame de petróleo</dc:title>
+<dc:title xml:lang="en">Oil Spills</dc:title>
+<dc:publisher>National Library of Medicine</dc:publisher>
+<dc:relation type="IsPartOf">Disasters</dc:relation>
+<dc:relation type="IsPartOf">Poisoning, Toxicology, Environmental Health</dc:relation>
+<dc:date type="created">2010-06-21</dc:date>
+<dc:date type="modified">2017-04-18</dc:date>
+<dc:identifier type="URL" xml:lang="es">https://medlineplus.gov/spanish/oilspills.html</dc:identifier>
+<dc:identifier type="URL" xml:lang="en">https://medlineplus.gov/oilspills.html</dc:identifier>
+<dc:description xml:lang="es">Los derrames de petróleo a menudo ocurren debido a accidentes, cuando las personas cometen errores o equipos se descomponen. Otras causas incluyen desastres naturales o actos deliberados. Los derrames de petróleo tienen importantes efectos ambientales y económicos. Los derrames de petróleo también pueden afectar a la salud humana. Estos efectos pueden depender de qué tipo de petróleo se derramó y dónde (en tierra, en un río o en el mar). Otros factores incluyen qué tipo de exposición y la cantidad de exposición que hubo. Las personas que limpian derrames están en mayor riesgo. Los problemas pueden incluir irritación cutánea y ocular, problemas neurológicos y respiratorios, y estrés. No se sabe mucho acerca de los efectos a largo plazo de estos derrames.</dc:description>
+<dc:description xml:lang="en">Oil spills often happen because of accidents, when people make mistakes or equipment breaks down. Other causes include natural disasters or deliberate acts. Oil spills have major environmental and economic effects. Oil spills can also affect human health. These effects can depend on what kind of oil was spilled and where (on land, in a river, or in the ocean). Other factors include what kind of exposure and how much exposure there was. People who clean up the spill are more at risk. Problems could include skin and eye irritation, neurologic and breathing problems, and stress. Not much is known about the long-term effects of oil spills.</dc:description>
+<dc:subject dcterms="mesh">Petroleum Pollution</dc:subject>
+<dc:subject xml:lang="es">Derrame de petróleo</dc:subject>
+<dc:subject xml:lang="es">Petróleo</dc:subject>
+<dc:subject xml:lang="es">Derrame</dc:subject>
+<dc:subject xml:lang="en">Oil Spills</dc:subject>
+<dc:subject xml:lang="en">Gulf Oil Spill</dc:subject>
+</metadata>
+</record>
+</MedlinePlus-document>

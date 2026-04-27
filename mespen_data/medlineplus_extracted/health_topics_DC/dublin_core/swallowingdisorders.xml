@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<MedlinePlus-document>
+<record>
+<header>
+<identifier>https://medlineplus.gov/swallowingdisorders.html</identifier>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title type="alternate" xml:lang="es">Trastorno de la deglución</dc:title>
+<dc:title type="alternate" xml:lang="es">Deglución, Trastorno de</dc:title>
+<dc:title type="alternate" xml:lang="es">Disfagia</dc:title>
+<dc:title type="alternate" xml:lang="es">Tragar, Problemas</dc:title>
+<dc:title type="alternate" xml:lang="en">Dysphagia</dc:title>
+<dc:type>Text</dc:type>
+<dc:language>spa</dc:language>
+<dc:language>eng</dc:language>
+<dc:title xml:lang="es">Problemas para tragar</dc:title>
+<dc:title xml:lang="en">Swallowing Disorders</dc:title>
+<dc:publisher>National Library of Medicine</dc:publisher>
+<dc:relation type="IsPartOf">Digestive System</dc:relation>
+<dc:date type="created">2002-07-21</dc:date>
+<dc:date type="modified">2017-10-04</dc:date>
+<dc:identifier type="URL" xml:lang="es">https://medlineplus.gov/spanish/swallowingdisorders.html</dc:identifier>
+<dc:identifier type="URL" xml:lang="en">https://medlineplus.gov/swallowingdisorders.html</dc:identifier>
+<dc:description xml:lang="es">Si tiene un trastorno de deglución, puede tener dificultades y dolor al tragar. Algunas personas pueden carecer totalmente de la capacidad de tragar o tener problemas para tragar líquidos, alimentos o saliva. Esto hace que el comer sea más difícil. Frecuentemente, puede ser difícil ingerir suficientes calorías y líquidos para nutrir el cuerpo. Cualquiera puede tener un problema para tragar, pero es más probable en personas de edad avanzada. Estos trastornos suelen ocurrir debido a otros cuadros, entre ellos: Trastornos del sistema nervioso, tales como la enfermedad de Parkinson y la parálisis cerebral Problemas en el esófago, incluyendo la enfermedad por reflujo gastroesofágico (ERGE) Derrame Traumatismos en la cabeza o médula espinal Cáncer de cabeza, cuello o esófago Las medicinas pueden ayudar a algunas personas, mientras que otras pueden necesitar cirugía. Tal vez resulte útil modificar la dieta o sostener la cabeza o el cuello en determinada posición al comer. En los casos muy serios, las personas necesitan sondas para alimentarse. NIH: Instituto Nacional de la Sordera y otros Trastornos de la Comunicación</dc:description>
+<dc:description xml:lang="en">If you have a swallowing disorder, you may have difficulty or pain when swallowing. Some people cannot swallow at all. Others may have trouble swallowing liquids, foods, or saliva. This makes it hard to eat. Often, it can be difficult to take in enough calories and fluids to nourish your body. Anyone can have a swallowing disorder, but it is more likely in the elderly. It often happens because of other conditions, including Nervous system disorders, such as Parkinson's disease and cerebral palsy Problems with your esophagus, including GERD (gastroesophageal reflux disease) Stroke Head or spinal cord injury Cancer of the head, neck, or esophagus Medicines can help some people, while others may need surgery. Swallowing treatment with a speech-language pathologist can help. You may find it helpful to change your diet or hold your head or neck in a certain way when you eat. In very serious cases, people may need feeding tubes. NIH: National Institute on Deafness and Other Communication Disorders</dc:description>
+<dc:subject dcterms="mesh">Deglutition Disorders</dc:subject>
+<dc:subject xml:lang="es">Problemas para tragar</dc:subject>
+<dc:subject xml:lang="es">Trastorno de la deglución</dc:subject>
+<dc:subject xml:lang="es">Deglución</dc:subject>
+<dc:subject xml:lang="es">Trastorno de</dc:subject>
+<dc:subject xml:lang="es">Disfagia</dc:subject>
+<dc:subject xml:lang="es">Tragar</dc:subject>
+<dc:subject xml:lang="es">Problemas</dc:subject>
+<dc:subject xml:lang="en">Swallowing Disorders</dc:subject>
+<dc:subject xml:lang="en">Dysphagia</dc:subject>
+</metadata>
+</record>
+</MedlinePlus-document>

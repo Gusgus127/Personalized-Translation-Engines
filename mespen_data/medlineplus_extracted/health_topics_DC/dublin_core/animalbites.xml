@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<MedlinePlus-document>
+<record>
+<header>
+<identifier>https://medlineplus.gov/animalbites.html</identifier>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title type="alternate" xml:lang="es">Animal, Mordeduras de</dc:title>
+<dc:title type="alternate" xml:lang="es">Perro, Mordedura</dc:title>
+<dc:title type="alternate" xml:lang="es">Gato, Mordedura</dc:title>
+<dc:title type="alternate" xml:lang="es">Serpiente, Mordedura de</dc:title>
+<dc:title type="alternate" xml:lang="en">Cat Bites</dc:title>
+<dc:title type="alternate" xml:lang="en">Dog Bites</dc:title>
+<dc:title type="alternate" xml:lang="en">Snake Bites</dc:title>
+<dc:type>Text</dc:type>
+<dc:language>spa</dc:language>
+<dc:language>eng</dc:language>
+<dc:title xml:lang="es">Mordeduras de animales</dc:title>
+<dc:title xml:lang="en">Animal Bites</dc:title>
+<dc:publisher>National Library of Medicine</dc:publisher>
+<dc:relation type="IsPartOf">Immune System</dc:relation>
+<dc:relation type="IsPartOf">Injuries and Wounds</dc:relation>
+<dc:date type="created">2002-07-21</dc:date>
+<dc:date type="modified">2017-11-06</dc:date>
+<dc:identifier type="URL" xml:lang="es">https://medlineplus.gov/spanish/animalbites.html</dc:identifier>
+<dc:identifier type="URL" xml:lang="en">https://medlineplus.gov/animalbites.html</dc:identifier>
+<dc:description xml:lang="es">Los animales salvajes suelen huir de las personas. Sin embargo, pueden atacar si se sienten amenazados, si están enfermos, si protegen a sus crías o su territorio. Los ataques de mascotas son los más comunes. Las mordeduras de animales rara vez ponen en peligro la vida, pero si se infectan pueden surgir problemas médicos graves. Para evitar las mordeduras de animales y sus complicaciones: Nunca acaricie, manipule o alimente animales desconocidos No moleste a las serpientes Vigile cuidadosamente a sus hijos cuando haya animales cerca Vacune a sus gatos, hurones y perros contra la rabia Esterilice o castre a su perro para que sea menos agresivo Vacúnese con un refuerzo de la vacuna contra el tétanos si no ha recibido uno recientemente Use botas y pantalones largos cuando vaya a regiones con serpientes venenosas Si un animal lo muerde, limpie la herida con agua y jabón lo más pronto posible. De ser necesario, obtenga atención médica. Centros para el Control y la Prevención de Enfermedades</dc:description>
+<dc:description xml:lang="en">Wild animals usually avoid people. They might attack, however, if they feel threatened, are sick, or are protecting their young or territory. Attacks by pets are more common. Animal bites rarely are life-threatening, but if they become infected, you can develop serious medical problems. To prevent animal bites and complications from bites Never pet, handle, or feed unknown animals Leave snakes alone Watch your children closely around animals Vaccinate your cats, ferrets, and dogs against rabies Spay or neuter your dog to make it less aggressive Get a tetanus booster if you have not had one recently Wear boots and long pants when you are in areas with venomous snakes If an animal bites you, clean the wound with soap and water as soon as possible. Get medical attention if necessary. Centers for Disease Control and Prevention</dc:description>
+<dc:subject dcterms="mesh">Bites and Stings</dc:subject>
+<dc:subject xml:lang="es">Mordeduras de animales</dc:subject>
+<dc:subject xml:lang="es">Animal</dc:subject>
+<dc:subject xml:lang="es">Mordeduras de</dc:subject>
+<dc:subject xml:lang="es">Perro</dc:subject>
+<dc:subject xml:lang="es">Mordedura</dc:subject>
+<dc:subject xml:lang="es">Gato</dc:subject>
+<dc:subject xml:lang="es">Mordedura</dc:subject>
+<dc:subject xml:lang="es">Serpiente</dc:subject>
+<dc:subject xml:lang="es">Mordedura de</dc:subject>
+<dc:subject xml:lang="en">Animal Bites</dc:subject>
+<dc:subject xml:lang="en">Cat Bites</dc:subject>
+<dc:subject xml:lang="en">Dog Bites</dc:subject>
+<dc:subject xml:lang="en">Snake Bites</dc:subject>
+</metadata>
+</record>
+</MedlinePlus-document>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<MedlinePlus-document>
+<record>
+<header>
+<identifier>https://medlineplus.gov/aplasticanemia.html</identifier>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:type>Text</dc:type>
+<dc:language>spa</dc:language>
+<dc:language>eng</dc:language>
+<dc:title xml:lang="es">Anemia aplásica</dc:title>
+<dc:title xml:lang="en">Aplastic Anemia</dc:title>
+<dc:publisher>National Library of Medicine</dc:publisher>
+<dc:relation type="IsPartOf">Blood, Heart and Circulation</dc:relation>
+<dc:relation type="IsPartOf">Immune System</dc:relation>
+<dc:date type="created">2012-01-09</dc:date>
+<dc:date type="modified">2017-08-15</dc:date>
+<dc:identifier type="URL" xml:lang="es">https://medlineplus.gov/spanish/aplasticanemia.html</dc:identifier>
+<dc:identifier type="URL" xml:lang="en">https://medlineplus.gov/aplasticanemia.html</dc:identifier>
+<dc:description xml:lang="es">La anemia aplásica es un trastorno de la sangre poco común pero grave. Si la tiene, su médula ósea no produce suficientes células sanguíneas nuevas. Existen diferentes tipos, incluyendo la anemia de Fanconi. Las causas incluyen: Sustancias tóxicas, como pesticidas, arsénico y benceno Radioterapia y quimioterapia para el cáncer Ciertos medicamentos Infecciones como la hepatitis, el virus de Epstein-Barr o el VIH Trastornos autoinmunes Ciertas condiciones heredadas Embarazo En muchas personas, la causa es desconocida. Los síntomas incluyen fatiga, debilidad, mareos y dificultad para respirar. Puede causar problemas del corazón, como un latido irregular, un corazón agrandado e insuficiencia cardíaca. Usted también puede tener infecciones frecuentes y sangrado. Su médico diagnosticará la anemia aplásica, basado en los antecedentes médicos y familiares, un examen físico y pruebas de laboratorio. Una vez que conozca cuál es la causa y severidad de la enfermedad, diseñará un plan de tratamiento para usted. Los tratamientos incluyen transfusiones de sangre, trasplantes de sangre y de médula ósea con células madre y medicamentos. NIH: Instituto Nacional del Corazón, los Pulmones y la Sangre</dc:description>
+<dc:description xml:lang="en">Aplastic anemia is a rare but serious blood disorder. If you have it, your bone marrow doesn't make enough new blood cells. There are different types, including Fanconi anemia. Causes include Toxic substances, such as pesticides, arsenic, and benzene Radiation therapy and chemotherapy for cancer Certain medicines Infections such as hepatitis, Epstein-Barr virus, or HIV Autoimmune disorders Certain inherited conditions Pregnancy In many people, the cause is unknown. Symptoms include fatigue, weakness, dizziness, and shortness of breath. It can cause heart problems such as an irregular heartbeat, an enlarged heart, and heart failure. You may also have frequent infections and bleeding. Your doctor will diagnose aplastic anemia based on your medical and family histories, a physical exam, and test results. Once your doctor knows the cause and severity of the condition, he or she can create a treatment plan for you. Treatments include blood transfusions, blood and marrow stem cell transplants, and medicines. NIH: National Heart, Lung, and Blood Institute</dc:description>
+<dc:subject dcterms="mesh">Anemia, Aplastic</dc:subject>
+<dc:subject xml:lang="es">Anemia aplásica</dc:subject>
+<dc:subject xml:lang="en">Aplastic Anemia</dc:subject>
+<dc:subject xml:lang="en">Fanconi Anemia</dc:subject>
+</metadata>
+</record>
+</MedlinePlus-document>

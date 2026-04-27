@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<MedlinePlus-document>
+<record>
+<header>
+<identifier>https://medlineplus.gov/aorticaneurysm.html</identifier>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:type>Text</dc:type>
+<dc:language>spa</dc:language>
+<dc:language>eng</dc:language>
+<dc:title xml:lang="es">Aneurisma aórtico</dc:title>
+<dc:title xml:lang="en">Aortic Aneurysm</dc:title>
+<dc:publisher>National Library of Medicine</dc:publisher>
+<dc:relation type="IsPartOf">Blood, Heart and Circulation</dc:relation>
+<dc:date type="created">2009-03-09</dc:date>
+<dc:date type="modified">2018-02-07</dc:date>
+<dc:identifier type="URL" xml:lang="es">https://medlineplus.gov/spanish/aorticaneurysm.html</dc:identifier>
+<dc:identifier type="URL" xml:lang="en">https://medlineplus.gov/aorticaneurysm.html</dc:identifier>
+<dc:description xml:lang="es">Un aneurisma es un ensanchamiento anormal de las paredes de una arteria. Las arterias son vasos sanguíneos que transportan sangre oxigenada desde el corazón hacia otras partes del cuerpo. Si un aneurisma crece, puede romperse y provocar un sangrado peligroso e incluso la muerte. La mayoría de los aneurismas ocurren en la aorta, la arteria principal que va desde el corazón por el pecho y el abdomen. Hay dos tipos de aneurisma aórtico: Los aneurismas aórticos torácicos: ocurren en la parte de la aorta que pasa por el pecho Los aneurismas aórticos abdominales: ocurren en la parte de la aorta que pasa por el abdomen Muchas veces los aneurismas se encuentran por accidente durante pruebas hechas por otras razones. Algunas personas tienen un alto riesgo de aneurismas. Es importante que aquellos en alto riesgo se sometan a pruebas, porque los aneurismas pueden desarrollarse y hacerse grandes antes de causar síntoma alguno. Las pruebas se recomiendan a personas de entre 65 y 75 años si tienen antecedentes familiares o si son hombres fumadores. Los médicos usan pruebas de imágenes para encontrar aneurismas. Medicamentos y cirugía son los dos tratamientos principales NIH: Instituto Nacional del Corazón, los Pulmones y la Sangre</dc:description>
+<dc:description xml:lang="en">An aneurysm is a bulge or "ballooning" in the wall of an artery. Arteries are blood vessels that carry oxygen-rich blood from the heart to other parts of the body. If an aneurysm grows large, it can burst and cause dangerous bleeding or even death. Most aneurysms are in the aorta, the main artery that runs from the heart through the chest and abdomen. There are two types of aortic aneurysm: Thoracic aortic aneurysms (TAA) - these occur in the part of the aorta running through the chest Abdominal aortic aneurysms (AAA) - these occur in the part of the aorta running through the abdomen Most aneurysms are found during tests done for other reasons. Some people are at high risk for aneurysms. It is important for them to get screening, because aneurysms can develop and become large before causing any symptoms. Screening is recommended for people between the ages of 65 and 75 if they have a family history, or if they are men who have smoked. Doctors use imaging tests to find aneurysms. Medicines and surgery are the two main treatments. NIH: National Heart, Lung, and Blood Institute</dc:description>
+<dc:subject dcterms="mesh">Aortic Aneurysm</dc:subject>
+<dc:subject xml:lang="es">Aneurisma aórtico</dc:subject>
+<dc:subject xml:lang="en">Aortic Aneurysm</dc:subject>
+<dc:subject xml:lang="en">Abdominal Aortic Aneurysm</dc:subject>
+<dc:subject xml:lang="en">Thoracic Aortic Aneurysm</dc:subject>
+<dc:subject xml:lang="en">Aortic Dissection</dc:subject>
+<dc:subject xml:lang="en">AAA</dc:subject>
+<dc:subject xml:lang="en">TAA</dc:subject>
+</metadata>
+</record>
+</MedlinePlus-document>

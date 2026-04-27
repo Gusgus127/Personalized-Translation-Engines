@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<MedlinePlus-document>
+<record>
+<header>
+<identifier>https://medlineplus.gov/skinpigmentationdisorders.html</identifier>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title type="alternate" xml:lang="es">Pigmentación de la piel, Trastornos de</dc:title>
+<dc:title type="alternate" xml:lang="en">Hyperpigmentation</dc:title>
+<dc:title type="alternate" xml:lang="en">Hypopigmentation</dc:title>
+<dc:type>Text</dc:type>
+<dc:language>spa</dc:language>
+<dc:language>eng</dc:language>
+<dc:title xml:lang="es">Trastornos de pigmentación de la piel</dc:title>
+<dc:title xml:lang="en">Skin Pigmentation Disorders</dc:title>
+<dc:publisher>National Library of Medicine</dc:publisher>
+<dc:relation type="IsPartOf">Skin, Hair and Nails</dc:relation>
+<dc:date type="created">2002-07-21</dc:date>
+<dc:date type="modified">2017-05-17</dc:date>
+<dc:identifier type="URL" xml:lang="es">https://medlineplus.gov/spanish/skinpigmentationdisorders.html</dc:identifier>
+<dc:identifier type="URL" xml:lang="en">https://medlineplus.gov/skinpigmentationdisorders.html</dc:identifier>
+<dc:description xml:lang="es">Pigmentación significa coloración. Los trastornos de la coloración de la piel afectan el color de la piel. Su piel obtiene su color de un pigmento llamado melanina, el que es producido por células especiales de la piel. Cuando éstas células se dañan o se enferman, se afecta la producción de melanina. Algunos trastornos de la pigmentación afectan solamente ciertas regiones de la piel. Otros afectan todo el cuerpo. Si el cuerpo produce demasiada melanina, la piel se oscurece. El embarazo, la enfermedad de Addison y la exposición al sol pueden oscurecer la piel. Si el cuerpo produce muy poca melanina, la piel se hace más clara. El vitiligo es una afección que causa áreas de piel clara. El albinismo es un cuadro genético que afecta toda la piel de una persona. Una persona con albinismo puede no tener color, una coloración más ligera que su piel normal o áreas de color de piel sin color. Las infecciones, las ampollas y las quemaduras pueden ser otras causas de regiones de piel más clara.</dc:description>
+<dc:description xml:lang="en">Pigmentation means coloring. Skin pigmentation disorders affect the color of your skin. Your skin gets its color from a pigment called melanin. Special cells in the skin make melanin. When these cells become damaged or unhealthy, it affects melanin production. Some pigmentation disorders affect just patches of skin. Others affect your entire body. If your body makes too much melanin, your skin gets darker. Pregnancy, Addison's disease, and sun exposure all can make your skin darker. If your body makes too little melanin, your skin gets lighter. Vitiligo is a condition that causes patches of light skin. Albinism is a genetic condition affecting a person's skin. A person with albinism may have no color, lighter than normal skin color, or patchy missing skin color. Infections, blisters and burns can also cause lighter skin.</dc:description>
+<dc:subject dcterms="mesh">Pigmentation Disorders</dc:subject>
+<dc:subject xml:lang="es">Trastornos de pigmentación de la piel</dc:subject>
+<dc:subject xml:lang="es">Pigmentación de la piel</dc:subject>
+<dc:subject xml:lang="es">Trastornos de</dc:subject>
+<dc:subject xml:lang="en">Skin Pigmentation Disorders</dc:subject>
+<dc:subject xml:lang="en">Hyperpigmentation</dc:subject>
+<dc:subject xml:lang="en">Hypopigmentation</dc:subject>
+</metadata>
+</record>
+</MedlinePlus-document>

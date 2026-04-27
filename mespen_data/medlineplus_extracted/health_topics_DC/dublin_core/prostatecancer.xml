@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<MedlinePlus-document>
+<record>
+<header>
+<identifier>https://medlineplus.gov/prostatecancer.html</identifier>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title type="alternate" xml:lang="es">Próstata, Cáncer de</dc:title>
+<dc:type>Text</dc:type>
+<dc:language>spa</dc:language>
+<dc:language>eng</dc:language>
+<dc:title xml:lang="es">Cáncer de próstata</dc:title>
+<dc:title xml:lang="en">Prostate Cancer</dc:title>
+<dc:publisher>National Library of Medicine</dc:publisher>
+<dc:relation type="IsPartOf">Male Reproductive System</dc:relation>
+<dc:relation type="IsPartOf">Men</dc:relation>
+<dc:relation type="IsPartOf">Seniors</dc:relation>
+<dc:relation type="IsPartOf">Cancers</dc:relation>
+<dc:date type="created">2002-07-21</dc:date>
+<dc:date type="modified">2017-12-20</dc:date>
+<dc:identifier type="URL" xml:lang="es">https://medlineplus.gov/spanish/prostatecancer.html</dc:identifier>
+<dc:identifier type="URL" xml:lang="en">https://medlineplus.gov/prostatecancer.html</dc:identifier>
+<dc:description xml:lang="es">La próstata es una glándula que se encuentra debajo de la vejiga de los hombres y produce el líquido para el semen. El cáncer de próstata es común en hombres de edad avanzada. Este tipo de cáncer es raro en hombres menores de 40 años. Los factores de riesgo de desarrollarlo incluyen: tener más de 65 años, historia familiar y ser afroamericano. Los síntomas del cáncer de próstata pueden incluir: Problemas para orinar, como dolor, dificultad para iniciar o detener el flujo de orina o goteo Dolor en la parte baja de la espalda Dolor al eyacular Para diagnosticar el cáncer de próstata, su doctor podría hacer un tacto rectal para buscar algún bulto o cualquier cosa fuera de lo normal. El doctor también podría pedirle realizar un análisis de sangre de antígeno prostático específico (PSA, por sus siglas en inglés). Estos análisis también se realizan en los exámenes de detección de cáncer de próstata, los cuales intentan detectar el cáncer antes de que usted tenga síntomas. Si los resultados son anormales, usted puede necesitar otros exámenes como una ecografía, una resonancia magnética o una biopsia. El tratamiento del cáncer de próstata suele depender de la etapa del cáncer. Esto se determina sabiendo cuán rápido el cáncer está creciendo y cuán diferente se ve el tejido alrededor de la glándula. Los hombres con este tipo de cáncer tienen varias opciones de tratamiento. El mejor para una persona puede no ser el mejor para otra. Estas opciones pueden incluir sólo una observación cuidadosa y vigilancia médica sin tratamiento, cirugía, radioterapia, terapia hormonal y quimioterapia. También puede ser una combinación de estas. NIH: Instituto Nacional del Cáncer</dc:description>
+<dc:description xml:lang="en">The prostate is the gland below a man's bladder that produces fluid for semen. Prostate cancer is common among older men. It is rare in men younger than 40. Risk factors for developing prostate cancer include being over 65 years of age, family history, and being African-American. Symptoms of prostate cancer may include Problems passing urine, such as pain, difficulty starting or stopping the stream, or dribbling Low back pain Pain with ejaculation To diagnose prostate cancer, you doctor may do a digital rectal exam to feel the prostate for lumps or anything unusual. You may also get a blood test for prostate-specific antigen (PSA). These tests are also used in prostate cancer screening, which looks for cancer before you have symptoms. If your results are abnormal, you may need more tests, such as an ultrasound, MRI, or biopsy. Treatment often depends on the stage of the cancer. How fast the cancer grows and how different it is from surrounding tissue helps determine the stage. Men with prostate cancer have many treatment options. The treatment that's best for one man may not be best for another. The options include watchful waiting, surgery, radiation therapy, hormone therapy, and chemotherapy. You may have a combination of treatments. NIH: National Cancer Institute</dc:description>
+<dc:subject dcterms="mesh">Prostatic Neoplasms</dc:subject>
+<dc:subject xml:lang="es">Cáncer de próstata</dc:subject>
+<dc:subject xml:lang="es">Próstata</dc:subject>
+<dc:subject xml:lang="es">Cáncer de</dc:subject>
+<dc:subject xml:lang="en">Prostate Cancer</dc:subject>
+</metadata>
+</record>
+</MedlinePlus-document>

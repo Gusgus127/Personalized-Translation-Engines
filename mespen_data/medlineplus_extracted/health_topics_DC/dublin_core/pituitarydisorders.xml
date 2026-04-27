@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<MedlinePlus-document>
+<record>
+<header>
+<identifier>https://medlineplus.gov/pituitarydisorders.html</identifier>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title type="alternate" xml:lang="es">Glándula pituitaria, Enfermedades de la</dc:title>
+<dc:title type="alternate" xml:lang="es">Acromegalia</dc:title>
+<dc:title type="alternate" xml:lang="es">Hipopituitarismo</dc:title>
+<dc:title type="alternate" xml:lang="es">Prolactinoma</dc:title>
+<dc:title type="alternate" xml:lang="es">Hipófisis, Infarto de la</dc:title>
+<dc:title type="alternate" xml:lang="es">Galactorrea</dc:title>
+<dc:title type="alternate" xml:lang="es">Craneofaringioma</dc:title>
+<dc:title type="alternate" xml:lang="es">Pituitario, Tumor</dc:title>
+<dc:title type="alternate" xml:lang="en">Acromegaly</dc:title>
+<dc:type>Text</dc:type>
+<dc:language>spa</dc:language>
+<dc:language>eng</dc:language>
+<dc:title xml:lang="es">Enfermedades de la glándula pituitaria</dc:title>
+<dc:title xml:lang="en">Pituitary Disorders</dc:title>
+<dc:publisher>National Library of Medicine</dc:publisher>
+<dc:relation type="IsPartOf">Brain and Nerves</dc:relation>
+<dc:relation type="IsPartOf">Endocrine System</dc:relation>
+<dc:date type="created">2002-07-21</dc:date>
+<dc:date type="modified">2017-04-27</dc:date>
+<dc:identifier type="URL" xml:lang="es">https://medlineplus.gov/spanish/pituitarydisorders.html</dc:identifier>
+<dc:identifier type="URL" xml:lang="en">https://medlineplus.gov/pituitarydisorders.html</dc:identifier>
+<dc:description xml:lang="es">La glándula pituitaria es una glándula del tamaño de un guisante que se encuentra en la base del cerebro. La pituitaria es la "glándula de control maestro" - produce hormonas que afectan el crecimiento y las funciones de las otras glándulas del cuerpo. Una enfermedad de la glándula pituitaria puede causar la producción de pocas o muchas hormonas. Algunas lesiones pueden causar trastornos de la glándula pituitaria, pero la causa más común es un tumor.</dc:description>
+<dc:description xml:lang="en">Your pituitary gland is a pea-sized gland at the base of your brain. The pituitary is the "master control gland" - it makes hormones that affect growth and the functions of other glands in the body. With pituitary disorders, you often have too much or too little of one of your hormones. Injuries can cause pituitary disorders, but the most common cause is a pituitary tumor.</dc:description>
+<dc:subject dcterms="mesh">Pituitary Diseases</dc:subject>
+<dc:subject xml:lang="es">Enfermedades de la glándula pituitaria</dc:subject>
+<dc:subject xml:lang="es">Glándula pituitaria</dc:subject>
+<dc:subject xml:lang="es">Enfermedades de la</dc:subject>
+<dc:subject xml:lang="es">Acromegalia</dc:subject>
+<dc:subject xml:lang="es">Hipopituitarismo</dc:subject>
+<dc:subject xml:lang="es">Prolactinoma</dc:subject>
+<dc:subject xml:lang="es">Hipófisis</dc:subject>
+<dc:subject xml:lang="es">Infarto de la</dc:subject>
+<dc:subject xml:lang="es">Galactorrea</dc:subject>
+<dc:subject xml:lang="es">Craneofaringioma</dc:subject>
+<dc:subject xml:lang="es">Pituitario</dc:subject>
+<dc:subject xml:lang="es">Tumor</dc:subject>
+<dc:subject xml:lang="en">Pituitary Disorders</dc:subject>
+<dc:subject xml:lang="en">Acromegaly</dc:subject>
+</metadata>
+</record>
+</MedlinePlus-document>

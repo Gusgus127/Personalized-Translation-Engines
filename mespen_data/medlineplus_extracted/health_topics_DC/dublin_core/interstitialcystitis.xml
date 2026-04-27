@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<MedlinePlus-document>
+<record>
+<header>
+<identifier>https://medlineplus.gov/interstitialcystitis.html</identifier>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:type>Text</dc:type>
+<dc:language>spa</dc:language>
+<dc:language>eng</dc:language>
+<dc:title xml:lang="es">Cistitis intersticial</dc:title>
+<dc:title xml:lang="en">Interstitial Cystitis</dc:title>
+<dc:publisher>National Library of Medicine</dc:publisher>
+<dc:relation type="IsPartOf">Kidneys and Urinary System</dc:relation>
+<dc:date type="created">2002-07-21</dc:date>
+<dc:date type="modified">2017-12-05</dc:date>
+<dc:identifier type="URL" xml:lang="es">https://medlineplus.gov/spanish/interstitialcystitis.html</dc:identifier>
+<dc:identifier type="URL" xml:lang="en">https://medlineplus.gov/interstitialcystitis.html</dc:identifier>
+<dc:description xml:lang="es">La cistitis intersticial es una condición que causa molestias o dolor en la vejiga y una necesidad de orinar frecuente y urgentemente. Es mucho más común entre las mujeres que en los hombres. Los síntomas varían de persona a persona. Algunas pueden sentir dolor sin ganas de orinar frecuente y urgentemente. Otros tienen la urgencia sin dolor. Los síntomas de las mujeres suelen empeorar durante la menstruación. También pueden presentar dolor durante las relaciones sexuales. Se desconoce la causa de la cistitis intersticial. No hay un examen que indique si la tiene. Los médicos suelen realizar pruebas para descartar otras posibles causas de los síntomas. No hay una cura pero los tratamientos pueden ayudar a la mayoría de las personas a sentirse mejor. Incluyen: Distensión de la vejiga Lavados en el interior de la vejiga con soluciones medicinales Medicamentos Estimulación eléctrica de los nervios Fisioterapia Cambios en el estilo de vida Cirugía (en pocos casos) NIH: Instituto Nacional de la Diabetes y las Enfermedades Digestivas y Renales</dc:description>
+<dc:description xml:lang="en">Interstitial cystitis (IC) is a condition that causes discomfort or pain in the bladder and a need to urinate frequently and urgently. It is far more common in women than in men. The symptoms vary from person to person. Some people may have pain without urgency or frequency. Others have urgency and frequency without pain. Women's symptoms often get worse during their periods. They may also have pain with sexual intercourse. The cause of IC isn't known. There is no one test to tell if you have it. Doctors often run tests to rule out other possible causes of symptoms. There is no cure for IC, but treatments can help most people feel better. They include Distending, or inflating, the bladder Bathing the inside of the bladder with a drug solution Oral medicines Electrical nerve stimulation Physical therapy Lifestyle changes Bladder training In rare cases, surgery NIH: National Institute of Diabetes and Digestive and Kidney Diseases</dc:description>
+<dc:subject dcterms="mesh">Cystitis, Interstitial</dc:subject>
+<dc:subject xml:lang="es">Cistitis intersticial</dc:subject>
+<dc:subject xml:lang="en">Interstitial Cystitis</dc:subject>
+<dc:subject xml:lang="en">Cystitis</dc:subject>
+<dc:subject xml:lang="en">Painful Bladder Syndrome</dc:subject>
+<dc:subject xml:lang="en">Bladder Pain Syndrome</dc:subject>
+</metadata>
+</record>
+</MedlinePlus-document>

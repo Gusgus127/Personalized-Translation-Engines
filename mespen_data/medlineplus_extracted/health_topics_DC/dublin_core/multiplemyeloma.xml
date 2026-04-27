@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<MedlinePlus-document>
+<record>
+<header>
+<identifier>https://medlineplus.gov/multiplemyeloma.html</identifier>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:type>Text</dc:type>
+<dc:language>spa</dc:language>
+<dc:language>eng</dc:language>
+<dc:title xml:lang="es">Mieloma múltiple</dc:title>
+<dc:title xml:lang="en">Multiple Myeloma</dc:title>
+<dc:publisher>National Library of Medicine</dc:publisher>
+<dc:relation type="IsPartOf">Cancers</dc:relation>
+<dc:relation type="IsPartOf">Immune System</dc:relation>
+<dc:date type="created">2002-07-21</dc:date>
+<dc:date type="modified">2017-12-27</dc:date>
+<dc:identifier type="URL" xml:lang="es">https://medlineplus.gov/spanish/multiplemyeloma.html</dc:identifier>
+<dc:identifier type="URL" xml:lang="en">https://medlineplus.gov/multiplemyeloma.html</dc:identifier>
+<dc:description xml:lang="es">El mieloma múltiple es un cáncer que comienza en las células del plasma, un tipo de glóbulos blancos. Estas células forman parte del sistema inmunitario, que ayuda a proteger el cuerpo contra los gérmenes y otras sustancias malignas. Con el paso del tiempo, las células del mieloma se acumulan en la médula ósea y en las partes sólidas del hueso. No se conoce la causa exacta del mieloma múltiple, pero es más común en las personas de edad avanzada y en afroamericanos. Puede ser hereditaria. Los síntomas más comunes pueden ser: Dolor en los huesos, con frecuencia en la espalda o las costillas Fracturas de huesos Debilidad o fatiga Pérdida de peso Infecciones y fiebre frecuentes Sed Ganas de orinar con frecuencia Los doctores diagnostican el mieloma múltiple usando pruebas de laboratorio, exámenes por imágenes y una biopsia de la médula ósea. El tratamiento depende de cuán avanzada está la enfermedad y si usted tiene síntomas. Si usted no tiene síntomas, es posible que no necesite tratamiento inmediato. Si presenta síntomas, usted puede ser tratado con quimioterapia, trasplante de células madre, radiación o terapia dirigida. Esta última terapia utiliza fármacos que atacan a las células cancerosas sin dañar a las células sanas. NIH: Instituto Nacional del Cáncer</dc:description>
+<dc:description xml:lang="en">Multiple myeloma is a cancer that begins in plasma cells, a type of white blood cell. These cells are part of your immune system, which helps protect the body from germs and other harmful substances. In time, myeloma cells collect in the bone marrow and in the solid parts of bones. No one knows the exact causes of multiple myeloma, but it is more common in older people and African Americans. It can run in families. Common symptoms may include Bone pain, often in the back or ribs Broken bones Weakness or fatigue Weight loss Frequent infections and fevers Feeling very thirsty Frequent urination Doctors diagnose multiple myeloma using lab tests, imaging tests, and a bone marrow biopsy. Your treatment depends on how advanced the disease is and whether you have symptoms. If you have no symptoms, you may not need treatment right away. If you have symptoms, you may have chemotherapy, stem cell transplantation, radiation, or targeted therapy. Targeted therapy uses substances that attack cancer cells without harming normal cells. NIH: National Cancer Institute</dc:description>
+<dc:subject dcterms="mesh">Multiple Myeloma</dc:subject>
+<dc:subject xml:lang="es">Mieloma múltiple</dc:subject>
+<dc:subject xml:lang="en">Multiple Myeloma</dc:subject>
+<dc:subject xml:lang="en">Plasmacytoma</dc:subject>
+<dc:subject xml:lang="en">Plasma-cell Myeloma</dc:subject>
+</metadata>
+</record>
+</MedlinePlus-document>

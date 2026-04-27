@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<MedlinePlus-document>
+<record>
+<header>
+<identifier>https://medlineplus.gov/childnutrition.html</identifier>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:type>Text</dc:type>
+<dc:language>spa</dc:language>
+<dc:language>eng</dc:language>
+<dc:title xml:lang="es">Nutrición del niño</dc:title>
+<dc:title xml:lang="en">Child Nutrition</dc:title>
+<dc:publisher>National Library of Medicine</dc:publisher>
+<dc:relation type="IsPartOf">Children and Teenagers</dc:relation>
+<dc:relation type="IsPartOf">Food and Nutrition</dc:relation>
+<dc:date type="created">2003-02-20</dc:date>
+<dc:date type="modified">2017-10-25</dc:date>
+<dc:identifier type="URL" xml:lang="es">https://medlineplus.gov/spanish/childnutrition.html</dc:identifier>
+<dc:identifier type="URL" xml:lang="en">https://medlineplus.gov/childnutrition.html</dc:identifier>
+<dc:description xml:lang="es">Una dieta saludable ayuda a los niños a crecer y a aprender. También ayuda a prevenir la obesidad y las enfermedades relacionadas con el peso, como la diabetes. Para darle a su hijo una dieta nutritiva: Prepare la mitad de lo que le da de comer con frutas y verduras Prefiera las fuentes saludables de proteínas, como carnes magras, nueces y huevos Sirva panes integrales y cereales porque son ricos en fibras. Reduzca los granos refinados Hornee, ase o cocine al vapor los alimentos en lugar de freírlos LLimite la comida rápida y chatarra Ofrézcale agua y leche en lugar de jugos de frutas con azúcar y gaseosas Averigüe sobre las necesidades nutricionales de sus hijos. Algunas de ellas, como las necesidades de hierro y calcio, cambian a medida que su hijo crece. Fuente: NIH: Instituto Nacional de la Diabetes y Enfermedades Digestivas y Renales</dc:description>
+<dc:description xml:lang="en">A healthy diet helps children grow and learn. It also helps prevent obesity and weight-related diseases, such as diabetes. To give your child a nutritious diet Make half of what is on your child's plate fruits and vegetables Choose healthy sources of protein, such as lean meat, nuts, and eggs Serve whole-grain breads and cereals because they are high in fiber. Reduce refined grains. Broil, grill, or steam foods instead of frying them Limit fast food and junk food Offer water or milk instead of sugary fruit drinks and sodas Learn about your children's nutrient requirements. Some of them, such as the requirements for iron and calcium, change as your child ages. NIH: National Institute of Diabetes and Digestive and Kidney Diseases</dc:description>
+<dc:subject dcterms="mesh">Child Nutrition Disorders</dc:subject>
+<dc:subject dcterms="mesh">Adolescent Nutritional Physiological Phenomena</dc:subject>
+<dc:subject dcterms="mesh">Child Nutritional Physiological Phenomena</dc:subject>
+<dc:subject xml:lang="es">Nutrición del niño</dc:subject>
+<dc:subject xml:lang="en">Child Nutrition</dc:subject>
+<dc:subject xml:lang="en">Teen Nutrition</dc:subject>
+<dc:subject xml:lang="en">Nutrition</dc:subject>
+<dc:subject xml:lang="en">Child</dc:subject>
+</metadata>
+</record>
+</MedlinePlus-document>

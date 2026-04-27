@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<MedlinePlus-document>
+<record>
+<header>
+<identifier>https://medlineplus.gov/childhoodleukemia.html</identifier>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title type="alternate" xml:lang="es">Niños, Leucemia en</dc:title>
+<dc:title type="alternate" xml:lang="es">Chicos, Leucemia en</dc:title>
+<dc:title type="alternate" xml:lang="en">Leukemia, Childhood</dc:title>
+<dc:type>Text</dc:type>
+<dc:language>spa</dc:language>
+<dc:language>eng</dc:language>
+<dc:title xml:lang="es">Leucemia en niños</dc:title>
+<dc:title xml:lang="en">Childhood Leukemia</dc:title>
+<dc:publisher>National Library of Medicine</dc:publisher>
+<dc:relation type="IsPartOf">Immune System</dc:relation>
+<dc:relation type="IsPartOf">Blood, Heart and Circulation</dc:relation>
+<dc:relation type="IsPartOf">Children and Teenagers</dc:relation>
+<dc:relation type="IsPartOf">Cancers</dc:relation>
+<dc:date type="created">2002-07-21</dc:date>
+<dc:date type="modified">2017-12-27</dc:date>
+<dc:identifier type="URL" xml:lang="es">https://medlineplus.gov/spanish/childhoodleukemia.html</dc:identifier>
+<dc:identifier type="URL" xml:lang="en">https://medlineplus.gov/childhoodleukemia.html</dc:identifier>
+<dc:description xml:lang="es">La leucemia es un cáncer de los glóbulos blancos (un tipo de células de la sangre). Es el tipo más común de cáncer en niños. Las células sanguíneas se forman en la médula ósea. Los glóbulos blancos ayudan a su organismo a combatir infecciones. Sin embargo, en personas con leucemia, la médula ósea produce glóbulos blancos anormales. Estas células reemplazan a las células sanguíneas sanas y dificultan que la sangre cumpla su función. La leucemia puede desarrollarse lenta o rápidamente. La leucemia aguda es un tipo de crecimiento rápido y la leucemia crónica crece lentamente. Los niños con leucemia suelen tener uno de los tipos agudos. Los síntomas incluyen: Infecciones Fiebre Pérdida del apetito Cansancio Sangrar o amoratarse con facilidad Inflamación de los ganglios linfáticos Sudores nocturnos Dificultad para respirar Dolor en los huesos o en las articulaciones Los factores de riesgo para la leucemia en niños incluyen: tener un hermano o hermana con leucemia, tener ciertos trastornos genéticos o recibir tratamiento con radiación o quimioterapia. Generalmente, la leucemia infantil se cura con el tratamiento. Las opciones de tratamiento incluyen: quimioterapia, tratamiento con otros medicamentos y radiación. En algunos casos, un trasplante de médula ósea y de células madre puede ayudar. NIH: Instituto Nacional del Cáncer</dc:description>
+<dc:description xml:lang="en">Leukemia is cancer of the white blood cells. It is the most common type of childhood cancer. Your blood cells form in your bone marrow. White blood cells help your body fight infection. In leukemia, the bone marrow produces abnormal white blood cells. These cells crowd out the healthy blood cells, making it hard for blood to do its work. Leukemia can develop quickly or slowly. Acute leukemia is a fast growing type while chronic leukemia grows slowly. Children with leukemia usually have one of the acute types. Symptoms include Infections Fever Loss of appetite Tiredness Easy bruising or bleeding Swollen lymph nodes Night sweats Shortness of breath Pain in the bones or joints Risk factors for childhood leukemia include having a brother or sister with leukemia, having certain genetic disorders and having had radiation or chemotherapy. Treatment often cures childhood leukemia. Treatment options include chemotherapy, other drug therapy and radiation. In some cases bone marrow and blood stem cell transplantation might help. NIH: National Cancer Institute</dc:description>
+<dc:subject dcterms="mesh">Leukemia</dc:subject>
+<dc:subject xml:lang="es">Leucemia en niños</dc:subject>
+<dc:subject xml:lang="es">Niños</dc:subject>
+<dc:subject xml:lang="es">Leucemia en</dc:subject>
+<dc:subject xml:lang="es">Chicos</dc:subject>
+<dc:subject xml:lang="es">Leucemia en</dc:subject>
+<dc:subject xml:lang="en">Childhood Leukemia</dc:subject>
+<dc:subject xml:lang="en">Leukemia</dc:subject>
+<dc:subject xml:lang="en">Childhood</dc:subject>
+</metadata>
+</record>
+</MedlinePlus-document>

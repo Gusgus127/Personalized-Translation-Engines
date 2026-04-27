@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<MedlinePlus-document>
+<record>
+<header>
+<identifier>https://medlineplus.gov/norovirusinfections.html</identifier>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title type="alternate" xml:lang="es">Norwalk</dc:title>
+<dc:title type="alternate" xml:lang="en">Norwalk Virus Infections</dc:title>
+<dc:type>Text</dc:type>
+<dc:language>spa</dc:language>
+<dc:language>eng</dc:language>
+<dc:title xml:lang="es">Infecciones por Norovirus</dc:title>
+<dc:title xml:lang="en">Norovirus Infections</dc:title>
+<dc:publisher>National Library of Medicine</dc:publisher>
+<dc:relation type="IsPartOf">Infections</dc:relation>
+<dc:relation type="IsPartOf">Digestive System</dc:relation>
+<dc:date type="created">2013-01-16</dc:date>
+<dc:date type="modified">2017-11-08</dc:date>
+<dc:identifier type="URL" xml:lang="es">https://medlineplus.gov/spanish/norovirusinfections.html</dc:identifier>
+<dc:identifier type="URL" xml:lang="en">https://medlineplus.gov/norovirusinfections.html</dc:identifier>
+<dc:description xml:lang="es">Los Norovirus son un grupo de virus relacionados. La infección con el Norovirus provoca una enfermedad llamada gastroenteritis, que es la inflamación del estómago y los intestinos. Las personas pueden contagiarse unas a otras o por medio del agua o alimentos contaminados. También se puede adquirir el Norovirus si se toca una superficie contaminada. Estas infecciones pueden ser graves, sobre todo para niños pequeños y personas mayores. Los síntomas más comunes de una infección por Norovirus son: Diarrea Náuseas y vómitos Dolor de estómago Otros síntomas pueden ser: fiebre, dolor de cabeza o dolor general en el cuerpo. El tratamiento incluye descanso y beber muchos líquidos para prevenir la deshidratación. No hay un medicamento específico para tratar las infecciones por Norovirus. Estas infecciones pueden prevenirse con un adecuado lavado de manos y un manejo apropiado de los alimentos cuando se cocinan. Centros para el Control y la Prevención de Enfermedades</dc:description>
+<dc:description xml:lang="en">Noroviruses are a group of related viruses. Infection with these viruses causes an illness called gastroenteritis, an inflammation of the stomach and intestines. It can spread from person to person, or through contaminated food or water. You can also get it if you touch a contaminated surface. Norovirus can be serious, especially for young children and older adults. The most common symptoms of norovirus infection are Diarrhea Nausea and vomiting Stomach pain Other symptoms may include fever, headache or body aches. Treatment includes bed rest and lots of liquids to prevent dehydration. There is no specific medicine to treat norovirus infections. Proper hand washing and safe food preparation may help prevent infections. Centers for Disease Control and Prevention</dc:description>
+<dc:subject dcterms="mesh">Norovirus</dc:subject>
+<dc:subject xml:lang="es">Infecciones por Norovirus</dc:subject>
+<dc:subject xml:lang="es">Norwalk</dc:subject>
+<dc:subject xml:lang="en">Norovirus Infections</dc:subject>
+<dc:subject xml:lang="en">Norwalk Virus Infections</dc:subject>
+</metadata>
+</record>
+</MedlinePlus-document>

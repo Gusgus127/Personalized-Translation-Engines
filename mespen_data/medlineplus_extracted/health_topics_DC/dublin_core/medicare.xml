@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<MedlinePlus-document>
+<record>
+<header>
+<identifier>https://medlineplus.gov/medicare.html</identifier>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title type="alternate" xml:lang="es">Seguros</dc:title>
+<dc:title type="alternate" xml:lang="en">Insurance</dc:title>
+<dc:type>Text</dc:type>
+<dc:language>spa</dc:language>
+<dc:language>eng</dc:language>
+<dc:title xml:lang="es">Medicare</dc:title>
+<dc:title xml:lang="en">Medicare</dc:title>
+<dc:publisher>National Library of Medicine</dc:publisher>
+<dc:relation type="IsPartOf">Seniors</dc:relation>
+<dc:relation type="IsPartOf">Health System</dc:relation>
+<dc:date type="created">2002-07-21</dc:date>
+<dc:date type="modified">2018-02-05</dc:date>
+<dc:identifier type="URL" xml:lang="es">https://medlineplus.gov/spanish/medicare.html</dc:identifier>
+<dc:identifier type="URL" xml:lang="en">https://medlineplus.gov/medicare.html</dc:identifier>
+<dc:description xml:lang="es">Medicare es el programa de seguro de salud del gobierno de los Estados Unidos para personas mayores de 65 años. Algunas personas menores de 65 años también pueden reunir los requisitos para Medicare, incluyendo a aquellas con discapacidades, insuficiencia renal permanente o esclerosis lateral amiotrófica. Medicare ayuda con el costo de la atención de la salud, pero no cubre todos los gastos médicos ni el costo de la mayoría de los cuidados a largo plazo. El programa tiene cuatro partes: La parte A es un seguro hospitalario. La parte B ayuda a pagar los servicios médicos que la parte A no cubre. La parte C se llama Medicare Advantage. Si usted tiene las partes A y B, se puede seleccionar esta opción para recibir toda la atención médica a través de una organización proveedora, como una HMO. La parte D es la cobertura de medicamentos recetados. Ayuda a pagar algunas medicinas.</dc:description>
+<dc:description xml:lang="en">Medicare is the U.S. government's health insurance program for people age 65 or older. Some people under age 65 can qualify for Medicare, too. They include those with disabilities, permanent kidney failure, or amyotrophic lateral sclerosis. Medicare helps with the cost of health care. It does not cover all medical expenses or the cost of most long-term care. The program has four parts: Part A is hospital insurance Part B helps pay for medical services that Part A doesn't cover Part C is called Medicare Advantage. If you have Parts A and B, you can choose this option to receive all of your health care through a provider organization, like an HMO. Part D is prescription drug coverage. It helps pay for some medicines.</dc:description>
+<dc:subject dcterms="mesh">Medicare</dc:subject>
+<dc:subject xml:lang="es">Medicare</dc:subject>
+<dc:subject xml:lang="es">Seguros</dc:subject>
+<dc:subject xml:lang="en">Medicare</dc:subject>
+<dc:subject xml:lang="en">Insurance</dc:subject>
+</metadata>
+</record>
+</MedlinePlus-document>

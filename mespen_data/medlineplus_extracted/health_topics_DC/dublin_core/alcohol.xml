@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<MedlinePlus-document>
+<record>
+<header>
+<identifier>https://medlineplus.gov/alcohol.html</identifier>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title type="alternate" xml:lang="es">Consumo de bebidas alcohólicas</dc:title>
+<dc:title type="alternate" xml:lang="en">Drinking</dc:title>
+<dc:title type="alternate" xml:lang="en">Alcohol Consumption</dc:title>
+<dc:type>Text</dc:type>
+<dc:language>spa</dc:language>
+<dc:language>eng</dc:language>
+<dc:title xml:lang="es">Alcohol</dc:title>
+<dc:title xml:lang="en">Alcohol</dc:title>
+<dc:publisher>National Library of Medicine</dc:publisher>
+<dc:relation type="IsPartOf">Substance Abuse Problems</dc:relation>
+<dc:relation type="IsPartOf">Food and Nutrition</dc:relation>
+<dc:date type="created">2002-07-21</dc:date>
+<dc:date type="modified">2018-02-14</dc:date>
+<dc:identifier type="URL" xml:lang="es">https://medlineplus.gov/spanish/alcohol.html</dc:identifier>
+<dc:identifier type="URL" xml:lang="en">https://medlineplus.gov/alcohol.html</dc:identifier>
+<dc:description xml:lang="es">Usted, como muchos estadounidenses, quizás consuma bebidas alcohólicas de vez en cuando. Para muchas personas, beber con moderación probablemente no esté mal. Quizá hasta pueda tener beneficios para la salud, entre los que se incluyen disminuir el riesgo de padecer algunos problemas cardiacos. Para la mayoría de mujeres y para la mayoría de las personas de más de 65 años, beber moderadamente significa beber menos de tres tragos por día o siete a la semana. Para varones menores de 65 significa menos de cuatro tragos al día o 14 a la semana. Algunas personas no deberían beber en absoluto, entre ellos, los alcohólicos, los niños, las embarazadas, las personas que reciben determinados medicamentos y las que tienen ciertas enfermedades o condiciones. Si tiene alguna duda o pregunta sobre si beber es un riesgo o no para su salud, consulte a un profesional de la salud. Beber de más puede ser riesgoso. El exceso puede llevar a alcoholismo y abuso de alcohol, así como también a lesiones, enfermedades del hígado, del corazón, cáncer y otros problemas de salud. También puede causar problemas en el hogar, en el trabajo y con sus amigos. NIH: Instituto Nacional sobre el Abuso del Alcohol y Alcoholismo</dc:description>
+<dc:description xml:lang="en">If you are like many Americans, you drink alcohol at least occasionally. For many people, moderate drinking is probably safe. It may even have health benefits, including reducing your risk of certain heart problems. For most women and for most people over 65, moderate drinking is no more than three drinks a day or seven drinks per week. For men under 65, it is no more than four drinks a day or 14 drinks per week. Some people should not drink at all, including alcoholics, children, pregnant women, people taking certain medicines, and people with certain medical conditions. If you have questions about whether it is safe for you to drink, speak with your health care provider. Anything more than moderate drinking can be risky. Heavy drinking can lead to alcoholism and alcohol abuse, as well as injuries, liver disease, heart disease, cancer, and other health problems. It can also cause problems at home, at work, and with friends. NIH: National Institute on Alcohol Abuse and Alcoholism</dc:description>
+<dc:subject dcterms="mesh">Alcohol Drinking</dc:subject>
+<dc:subject xml:lang="es">Alcohol</dc:subject>
+<dc:subject xml:lang="es">Consumo de bebidas alcohólicas</dc:subject>
+<dc:subject xml:lang="en">Alcohol</dc:subject>
+<dc:subject xml:lang="en">Drinking</dc:subject>
+<dc:subject xml:lang="en">Alcohol Consumption</dc:subject>
+</metadata>
+</record>
+</MedlinePlus-document>

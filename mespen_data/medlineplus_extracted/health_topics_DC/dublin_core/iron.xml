@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<MedlinePlus-document>
+<record>
+<header>
+<identifier>https://medlineplus.gov/iron.html</identifier>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:type>Text</dc:type>
+<dc:language>spa</dc:language>
+<dc:language>eng</dc:language>
+<dc:title xml:lang="es">Hierro en la dieta</dc:title>
+<dc:title xml:lang="en">Iron</dc:title>
+<dc:publisher>National Library of Medicine</dc:publisher>
+<dc:relation type="IsPartOf">Food and Nutrition</dc:relation>
+<dc:date type="created">2010-11-23</dc:date>
+<dc:date type="modified">2017-12-13</dc:date>
+<dc:identifier type="URL" xml:lang="es">https://medlineplus.gov/spanish/iron.html</dc:identifier>
+<dc:identifier type="URL" xml:lang="en">https://medlineplus.gov/iron.html</dc:identifier>
+<dc:description xml:lang="es">El hierro es un mineral que nuestro cuerpo necesita para muchas funciones. El cuerpo necesita hierro para producir las proteínas hemoglobina y mioglobina. La hemoglobina se encuentra en los glóbulos rojos y la mioglobina se encuentra en los músculos. Ellas ayudan a llevar y almacenar oxígeno en el cuerpo. El hierro también es parte de muchas otras proteínas y enzimas en el cuerpo. Su cuerpo necesita una cantidad adecuada de hierro. Si tiene muy poco, puede desarrollar anemia por deficiencia de hierro. Las causas de deficiencia de hierro incluyen pérdida de sangre, dieta deficiente o incapacidad de absorber suficiente hierro de los alimentos. Demasiado hierro es tóxico para su cuerpo. Tomar demasiados suplementos de hierro puede causar un envenenamiento por hierro. Algunas personas sufren de una enfermedad llamada hemocromatosis. Esta enfermedad causa que demasiado hierro se acumule en el cuerpo.</dc:description>
+<dc:description xml:lang="en">Iron is a mineral that our bodies need for many functions. For example, iron is part of hemoglobin, a protein which carries oxygen from our lungs throughout our bodies. It helps our muscles store and use oxygen. Iron is also part of many other proteins and enzymes. Your body needs the right amount of iron. If you have too little iron, you may develop iron deficiency anemia. Causes of low iron levels include blood loss, poor diet, or an inability to absorb enough iron from foods. People at higher risk of having too little iron are young children and women who are pregnant or have periods. Too much iron can damage your body. Taking too many iron supplements can cause iron poisoning. Some people have an inherited disease called hemochromatosis. It causes too much iron to build up in the body. Centers for Disease Control and Prevention</dc:description>
+<dc:subject dcterms="mesh">Iron</dc:subject>
+<dc:subject xml:lang="es">Hierro en la dieta</dc:subject>
+<dc:subject xml:lang="en">Iron</dc:subject>
+<dc:subject xml:lang="en">Ferritin</dc:subject>
+</metadata>
+</record>
+</MedlinePlus-document>

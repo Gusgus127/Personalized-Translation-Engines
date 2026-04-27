@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<MedlinePlus-document>
+<record>
+<header>
+<identifier>https://medlineplus.gov/gastroenteritis.html</identifier>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:type>Text</dc:type>
+<dc:language>spa</dc:language>
+<dc:language>eng</dc:language>
+<dc:title xml:lang="es">Gastroenteritis</dc:title>
+<dc:title xml:lang="en">Gastroenteritis</dc:title>
+<dc:publisher>National Library of Medicine</dc:publisher>
+<dc:relation type="IsPartOf">Infections</dc:relation>
+<dc:relation type="IsPartOf">Digestive System</dc:relation>
+<dc:date type="created">2003-02-07</dc:date>
+<dc:date type="modified">2017-11-08</dc:date>
+<dc:identifier type="URL" xml:lang="es">https://medlineplus.gov/spanish/gastroenteritis.html</dc:identifier>
+<dc:identifier type="URL" xml:lang="en">https://medlineplus.gov/gastroenteritis.html</dc:identifier>
+<dc:description xml:lang="es">La gastroenteritis es una inflamación de la membrana interna del intestino causada por un virus, una bacteria o parásitos. La gastroenteritis viral es la segunda enfermedad más común en los Estados Unidos. La causa es, generalmente, una infección por norovirus. Se disemina a través de alimentos o agua que estén contaminados y el contacto con una persona infectada. La mejor prevención es lavarse las manos frecuentemente. Los síntomas de gastroenteritis incluyen diarrea, dolor abdominal, vómitos, dolor de cabeza, fiebre y escalofríos. La mayoría de las personas se recupera sin tratamiento. El problema más común con la gastroenteritis es la deshidratación. Ocurre si no ingiere suficientes líquidos para sustituir los que se pierden con los vómitos y la diarrea. La deshidratación es más común en bebés, niños pequeños, ancianos y personas con un sistema inmunitario débil. NIH: Instituto Nacional de la Diabetes y las Enfermedades Digestivas y Renales</dc:description>
+<dc:description xml:lang="en">Have you ever had the "stomach flu?" What you probably had was gastroenteritis - not a type of flu at all. Gastroenteritis is an inflammation of the lining of the intestines caused by a virus, bacteria or parasites. Viral gastroenteritis is the second most common illness in the U.S. The cause is often a norovirus infection. It spreads through contaminated food or water, and contact with an infected person. The best prevention is frequent hand washing. Symptoms of gastroenteritis include diarrhea, abdominal pain, vomiting, headache, fever and chills. Most people recover with no treatment. The most common problem with gastroenteritis is dehydration. This happens if you do not drink enough fluids to replace what you lose through vomiting and diarrhea. Dehydration is most common in babies, young children, the elderly and people with weak immune systems. NIH: National Institute of Diabetes and Digestive and Kidney Diseases</dc:description>
+<dc:subject dcterms="mesh">Gastroenteritis</dc:subject>
+<dc:subject xml:lang="es">Gastroenteritis</dc:subject>
+<dc:subject xml:lang="en">Gastroenteritis</dc:subject>
+<dc:subject xml:lang="en">Stomach Flu</dc:subject>
+</metadata>
+</record>
+</MedlinePlus-document>

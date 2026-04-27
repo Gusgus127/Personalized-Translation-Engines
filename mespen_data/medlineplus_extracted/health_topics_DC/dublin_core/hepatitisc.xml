@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<MedlinePlus-document>
+<record>
+<header>
+<identifier>https://medlineplus.gov/hepatitisc.html</identifier>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:type>Text</dc:type>
+<dc:language>spa</dc:language>
+<dc:language>eng</dc:language>
+<dc:title xml:lang="es">Hepatitis C</dc:title>
+<dc:title xml:lang="en">Hepatitis C</dc:title>
+<dc:publisher>National Library of Medicine</dc:publisher>
+<dc:relation type="IsPartOf">Digestive System</dc:relation>
+<dc:relation type="IsPartOf">Infections</dc:relation>
+<dc:date type="created">2002-07-21</dc:date>
+<dc:date type="modified">2017-12-18</dc:date>
+<dc:identifier type="URL" xml:lang="es">https://medlineplus.gov/spanish/hepatitisc.html</dc:identifier>
+<dc:identifier type="URL" xml:lang="en">https://medlineplus.gov/hepatitisc.html</dc:identifier>
+<dc:description xml:lang="es">El hígado es el órgano más grande dentro de su cuerpo. Ayuda al organismo a digerir los alimentos, almacenar energía y eliminar las toxinas. La hepatitis es una inflamación del hígado. Un tipo, hepatitis C, es causado por el virus de la hepatitis C (VHC). La hepatitis C generalmente se disemina a través del contacto con sangre infectada. También puede contagiarse a través de las relaciones sexuales con una persona infectada y de madre a hijo durante el parto. La mayoría de las personas que están infectadas con hepatitis C no tienen síntomas durante muchos años. Si usted presenta síntomas, puede sentirse como si tuviera la gripe. También puede tener ictericia, una coloración amarillenta de la piel y los ojos, orina de color oscuro y deposiciones pálidas. Con un análisis de sangre se puede saber si una persona tiene el virus. En general, la hepatitis C no mejora por sí sola. La infección puede durar toda la vida y producir cicatrización del hígado o cáncer de hígado. Algunas veces las medicinas ayudan, pero los efectos secundarios pueden ser un problema. Los casos más graves pueden requerir un trasplante hepático. No hay vacunas contra la hepatitis C. NIH: Instituto Nacional de la Diabetes y las Enfermedades Digestivas y Renales</dc:description>
+<dc:description xml:lang="en">Your liver is the largest organ inside your body. It helps your body digest food, store energy, and remove poisons. Hepatitis is an inflammation of the liver. One type, hepatitis C, is caused by the hepatitis C virus (HCV). It usually spreads through contact with infected blood. It can also spread through sex with an infected person and from mother to baby during childbirth. Most people who are infected with hepatitis C don't have any symptoms for years. If you do get symptoms, you may feel as if you have the flu. You may also have jaundice, a yellowing of skin and eyes, dark-colored urine, and pale bowel movements. A blood test can tell if you have it. Usually, hepatitis C does not get better by itself. The infection can last a lifetime and may lead to cirrhosis (scarring of the liver) or liver cancer. Medicines sometimes help, but side effects can be a problem. Serious cases may need a liver transplant. There is no vaccine for HCV. NIH: National Institute of Diabetes and Digestive and Kidney Diseases</dc:description>
+<dc:subject dcterms="mesh">Hepatitis C</dc:subject>
+<dc:subject xml:lang="es">Hepatitis C</dc:subject>
+<dc:subject xml:lang="en">Hepatitis C</dc:subject>
+</metadata>
+</record>
+</MedlinePlus-document>

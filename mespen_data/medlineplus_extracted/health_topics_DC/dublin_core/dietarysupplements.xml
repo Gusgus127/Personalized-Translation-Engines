@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<MedlinePlus-document>
+<record>
+<header>
+<identifier>https://medlineplus.gov/dietarysupplements.html</identifier>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title type="alternate" xml:lang="es">Dieta, Suplementos</dc:title>
+<dc:title type="alternate" xml:lang="es">Oligoelementos</dc:title>
+<dc:title type="alternate" xml:lang="en">Trace Elements</dc:title>
+<dc:type>Text</dc:type>
+<dc:language>spa</dc:language>
+<dc:language>eng</dc:language>
+<dc:title xml:lang="es">Suplementos en la dieta</dc:title>
+<dc:title xml:lang="en">Dietary Supplements</dc:title>
+<dc:publisher>National Library of Medicine</dc:publisher>
+<dc:relation type="IsPartOf">Food and Nutrition</dc:relation>
+<dc:relation type="IsPartOf">Complementary and Alternative Therapies</dc:relation>
+<dc:date type="created">2003-10-06</dc:date>
+<dc:date type="modified">2018-02-07</dc:date>
+<dc:identifier type="URL" xml:lang="es">https://medlineplus.gov/spanish/dietarysupplements.html</dc:identifier>
+<dc:identifier type="URL" xml:lang="en">https://medlineplus.gov/dietarysupplements.html</dc:identifier>
+<dc:description xml:lang="es">Los suplementos en la dieta son vitaminas, minerales, hierbas y muchos otros productos. Pueden encontrarse en forma de pastillas, cápsulas, polvos, líquidos y barras energéticas. Los suplementos no necesitan ser sometidos a las pruebas que requieren los fármacos. Algunos suplementos pueden tener un papel importante en la salud. Por ejemplo, el calcio y la vitamina D son importantes para mantener unos huesos fuertes. Las mujeres embarazadas pueden tomar la vitamina ácido fólico para prevenir algunos defectos congénitos en sus bebés. Para tomar un suplemento con la mayor seguridad posible: Dígale al médico los suplementos que consume No tome dosis más altas que las recomendadas en la etiqueta Consulte con su proveedor de salud sobre los suplementos que toma si se va a someter a alguna cirugía Lea información confiable acerca del suplemento NIH: Oficina de Suplementos Dietéticos de los Institutos Nacionales de Salud</dc:description>
+<dc:description xml:lang="en">Dietary supplements are vitamins, minerals, herbs, and many other products. They can come as pills, capsules, powders, drinks, and energy bars. Supplements do not have to go through the testing that drugs do. Some supplements can play an important role in health. For example, calcium and vitamin D are important for keeping bones strong. Pregnant women can take the vitamin folic acid to prevent certain birth defects in their babies. To take a supplement as safely as possible Tell your health care provider about any dietary supplements you use Do not take a bigger dose than the label recommends Check with your health care provider about the supplements you take if you are going to have any type of surgery Read trustworthy information about the supplement NIH: National Institutes of Health Office of Dietary Supplements</dc:description>
+<dc:subject dcterms="mesh">Dietary Supplements</dc:subject>
+<dc:subject xml:lang="es">Suplementos en la dieta</dc:subject>
+<dc:subject xml:lang="es">Dieta</dc:subject>
+<dc:subject xml:lang="es">Suplementos</dc:subject>
+<dc:subject xml:lang="es">Oligoelementos</dc:subject>
+<dc:subject xml:lang="en">Dietary Supplements</dc:subject>
+<dc:subject xml:lang="en">Trace Elements</dc:subject>
+</metadata>
+</record>
+</MedlinePlus-document>

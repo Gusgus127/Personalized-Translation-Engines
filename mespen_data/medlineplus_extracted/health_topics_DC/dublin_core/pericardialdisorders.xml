@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<MedlinePlus-document>
+<record>
+<header>
+<identifier>https://medlineplus.gov/pericardialdisorders.html</identifier>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title type="alternate" xml:lang="es">Pericardio, Trastornos</dc:title>
+<dc:title type="alternate" xml:lang="en">Pericarditis</dc:title>
+<dc:title type="alternate" xml:lang="en">Pericardial Effusion</dc:title>
+<dc:type>Text</dc:type>
+<dc:language>spa</dc:language>
+<dc:language>eng</dc:language>
+<dc:title xml:lang="es">Trastornos del pericardio</dc:title>
+<dc:title xml:lang="en">Pericardial Disorders</dc:title>
+<dc:publisher>National Library of Medicine</dc:publisher>
+<dc:relation type="IsPartOf">Blood, Heart and Circulation</dc:relation>
+<dc:date type="created">2010-10-21</dc:date>
+<dc:date type="modified">2018-02-12</dc:date>
+<dc:identifier type="URL" xml:lang="es">https://medlineplus.gov/spanish/pericardialdisorders.html</dc:identifier>
+<dc:identifier type="URL" xml:lang="en">https://medlineplus.gov/pericardialdisorders.html</dc:identifier>
+<dc:description xml:lang="es">El pericardio es una membrana o saco, que rodea el corazón. Sostiene el corazón en su lugar y ayuda a que funcione correctamente. Los problemas con el pericardio incluyen: La pericarditis, una inflamación del saco. Puede ser causada por un virus u otra infección, ataque al corazón, cirugía de corazón, otras condiciones médicas, lesiones y ciertos medicamentos Derrame pericárdico, acumulación de líquido en el saco Taponamiento cardíaco, un problema grave en el cual la acumulación de líquido en el saco causa problemas con el funcionamiento del corazón Los síntomas de los problemas pericárdicos incluyen dolor en el pecho, palpitaciones y dificultad para respirar. La fiebre es un síntoma común de pericarditis aguda. Para el diagnóstico, su doctor puede hacer un examen físico, pruebas con imágenes y/o pruebas para el corazón. El tratamiento depende de la causa. NIH: Instituto Nacional del Corazón, los Pulmones y la Sangre</dc:description>
+<dc:description xml:lang="en">The pericardium is a membrane, or sac, that surrounds your heart. It holds the heart in place and helps it work properly. Problems with the pericardium include Pericarditis - an inflammation of the sac. It can be from a virus or other infection, a heart attack, heart surgery, other medical conditions, injuries, and certain medicines. Pericardial effusion - the buildup of fluid in the sac Cardiac tamponade - a serious problem in which buildup of fluid in the sac causes problems with the function of the heart Symptoms of pericardial problems include chest pain, rapid heartbeat, and difficulty breathing. Fever is a common symptom of acute pericarditis. Your doctor may use a physical exam, imaging tests, and heart tests to make a diagnosis. Treatment depends on the cause. NIH: National Heart, Lung, and Blood Institute</dc:description>
+<dc:subject dcterms="mesh">Pericarditis</dc:subject>
+<dc:subject dcterms="mesh">Cardiac Tamponade</dc:subject>
+<dc:subject dcterms="mesh">Pericardial Effusion</dc:subject>
+<dc:subject xml:lang="es">Trastornos del pericardio</dc:subject>
+<dc:subject xml:lang="es">Pericardio</dc:subject>
+<dc:subject xml:lang="es">Trastornos</dc:subject>
+<dc:subject xml:lang="en">Pericardial Disorders</dc:subject>
+<dc:subject xml:lang="en">Pericarditis</dc:subject>
+<dc:subject xml:lang="en">Pericardial Effusion</dc:subject>
+</metadata>
+</record>
+</MedlinePlus-document>

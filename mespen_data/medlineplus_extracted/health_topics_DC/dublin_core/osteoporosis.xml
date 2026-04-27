@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<MedlinePlus-document>
+<record>
+<header>
+<identifier>https://medlineplus.gov/osteoporosis.html</identifier>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title type="alternate" xml:lang="es">Desgaste del hueso</dc:title>
+<dc:title type="alternate" xml:lang="es">Hueso, Desgaste del</dc:title>
+<dc:title type="alternate" xml:lang="en">Bone Loss</dc:title>
+<dc:type>Text</dc:type>
+<dc:language>spa</dc:language>
+<dc:language>eng</dc:language>
+<dc:title xml:lang="es">Osteoporosis</dc:title>
+<dc:title xml:lang="en">Osteoporosis</dc:title>
+<dc:publisher>National Library of Medicine</dc:publisher>
+<dc:relation type="IsPartOf">Seniors</dc:relation>
+<dc:relation type="IsPartOf">Women</dc:relation>
+<dc:relation type="IsPartOf">Bones, Joints and Muscles</dc:relation>
+<dc:date type="created">2002-07-21</dc:date>
+<dc:date type="modified">2018-02-12</dc:date>
+<dc:identifier type="URL" xml:lang="es">https://medlineplus.gov/spanish/osteoporosis.html</dc:identifier>
+<dc:identifier type="URL" xml:lang="en">https://medlineplus.gov/osteoporosis.html</dc:identifier>
+<dc:description xml:lang="es">La osteoporosis es una enfermedad que adelgaza y debilita los huesos. Sus huesos se vuelven frágiles y se quiebran fácilmente, especialmente los de la cadera, espina vertebral y muñeca. En Estados Unidos, millones de personas padecen osteoporosis o están en alto riesgo debido a baja densidad ósea. Cualquier persona puede desarrollar osteoporosis, pero es más común en mujeres adultas mayores. Los factores de riesgo incluyen: El envejecimiento Ser de talla pequeña y delgada Antecedentes familiares de osteoporosis Tomar ciertos medicamentos Ser mujer de raza blanca o asiática Tener baja densidad ósea La osteoporosis es una enfermedad silenciosa. Tal vez no sepa que la padece hasta que se fracture un hueso. Un examen de densidad mineral ósea es la mejor manera de controlar la salud de sus huesos. Para mantener huesos resistentes, consuma una dieta rica en calcio y vitamina D, practique ejercicios y no fume. Si es necesario, existen medicamentos que pueden ayudar. Es importante también evitar las caídas, la principal causa de fracturas en personas mayores. NIH: Instituto Nacional de Artritis y Enfermedades Musculoesqueléticas y de la Piel</dc:description>
+<dc:description xml:lang="en">Osteoporosis is a disease that thins and weakens the bones. Your bones become fragile and break easily, especially the bones in the hip, spine, and wrist. In the United States, millions of people either already have osteoporosis or are at high risk due to low bone mass. Anyone can develop osteoporosis, but it is more common in older women. Risk factors include Getting older Being small and thin Having a family history of osteoporosis Taking certain medicines Being a white or Asian woman Having low bone density Osteoporosis is a silent disease. You might not know you have it until you break a bone. A bone mineral density test is the best way to check your bone health. To keep bones strong, eat a diet rich in calcium and vitamin D, exercise, and do not smoke. If needed, medicines can also help. It is also important to try to avoid falling down. Falls are the number one cause of fractures in older adults. NIH: National Institute of Arthritis and Musculoskeletal and Skin Diseases</dc:description>
+<dc:subject dcterms="mesh">Osteoporotic Fractures</dc:subject>
+<dc:subject dcterms="mesh">Osteoporosis</dc:subject>
+<dc:subject xml:lang="es">Osteoporosis</dc:subject>
+<dc:subject xml:lang="es">Desgaste del hueso</dc:subject>
+<dc:subject xml:lang="es">Hueso</dc:subject>
+<dc:subject xml:lang="es">Desgaste del</dc:subject>
+<dc:subject xml:lang="en">Osteoporosis</dc:subject>
+<dc:subject xml:lang="en">Bone Loss</dc:subject>
+</metadata>
+</record>
+</MedlinePlus-document>

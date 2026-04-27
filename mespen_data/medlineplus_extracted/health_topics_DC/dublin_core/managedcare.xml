@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<MedlinePlus-document>
+<record>
+<header>
+<identifier>https://medlineplus.gov/managedcare.html</identifier>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title type="alternate" xml:lang="es">HMO</dc:title>
+<dc:title type="alternate" xml:lang="es">Seguros</dc:title>
+<dc:title type="alternate" xml:lang="es">Organizaciones para el mantenimiento de la salud (HMO)</dc:title>
+<dc:title type="alternate" xml:lang="en">Health Maintenance Organizations</dc:title>
+<dc:title type="alternate" xml:lang="en">HMO</dc:title>
+<dc:title type="alternate" xml:lang="en">Insurance</dc:title>
+<dc:type>Text</dc:type>
+<dc:language>spa</dc:language>
+<dc:language>eng</dc:language>
+<dc:title xml:lang="es">Planes de administración de seguros de salud</dc:title>
+<dc:title xml:lang="en">Managed Care</dc:title>
+<dc:publisher>National Library of Medicine</dc:publisher>
+<dc:relation type="IsPartOf">Health System</dc:relation>
+<dc:date type="created">2002-07-21</dc:date>
+<dc:date type="modified">2017-09-11</dc:date>
+<dc:identifier type="URL" xml:lang="es">https://medlineplus.gov/spanish/managedcare.html</dc:identifier>
+<dc:identifier type="URL" xml:lang="en">https://medlineplus.gov/managedcare.html</dc:identifier>
+<dc:description xml:lang="es">Los planes de administración de seguros de salud son un tipo de seguro de salud. Éstos contratan profesionales y establecimientos médicos para suministrar atención a sus miembros con costos reducidos. Estos proveedores forman la red del plan. Lo que su plan deberá pagar por la atención de salud depende de las reglas de la red. Los planes que ofrecen menos opciones en general cuestan menos. Si busca un plan más flexible, probablemente cueste más. Existen tres tipos de planes de administración de seguros de salud: Organizaciones de mantenimiento de la salud (HMO, por sus siglas en inglés): En general pagan por la atención dentro de la red. Usted elige un médico de cabecera que coordina la mayoría de sus cuidados Organizaciones de proveedores preferentes (PPO, por sus siglas en inglés): Suelen pagar más si usted se atiende dentro de la red, pero pagan una parte si lo hace fuera de ella Planes de punto de servicio (POS, por sus siglas en inglés): Permiten elegir entre una HMO o una PPO cada vez que necesite atención médica</dc:description>
+<dc:description xml:lang="en">Managed care plans are a type of health insurance. They have contracts with health care providers and medical facilities to provide care for members at reduced costs. These providers make up the plan's network. How much of your care the plan will pay for depends on the network's rules. Plans that restrict your choices usually cost you less. If you want a flexible plan, it will probably cost more. There are three types of managed care plans: Health Maintenance Organizations (HMO) usually only pay for care within the network. You choose a primary care doctor who coordinates most of your care. Preferred Provider Organizations (PPO) usually pay more if you get care within the network. They still pay part of the cost if you go outside the network. Point of Service (POS) plans let you choose between an HMO or a PPO each time you need care.</dc:description>
+<dc:subject dcterms="mesh">Managed Care Programs</dc:subject>
+<dc:subject xml:lang="es">Planes de administración de seguros de salud</dc:subject>
+<dc:subject xml:lang="es">HMO</dc:subject>
+<dc:subject xml:lang="es">Seguros</dc:subject>
+<dc:subject xml:lang="es">Organizaciones para el mantenimiento de la salud (HMO)</dc:subject>
+<dc:subject xml:lang="en">Managed Care</dc:subject>
+<dc:subject xml:lang="en">Health Maintenance Organizations</dc:subject>
+<dc:subject xml:lang="en">HMO</dc:subject>
+<dc:subject xml:lang="en">Insurance</dc:subject>
+</metadata>
+</record>
+</MedlinePlus-document>

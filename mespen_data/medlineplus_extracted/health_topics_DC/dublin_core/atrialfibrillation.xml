@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<MedlinePlus-document>
+<record>
+<header>
+<identifier>https://medlineplus.gov/atrialfibrillation.html</identifier>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title type="alternate" xml:lang="es">Auricular, Fibrilación</dc:title>
+<dc:title type="alternate" xml:lang="es">Atrial, Fibrilación</dc:title>
+<dc:title type="alternate" xml:lang="es">Fibrilación atrial</dc:title>
+<dc:title type="alternate" xml:lang="en">AF</dc:title>
+<dc:type>Text</dc:type>
+<dc:language>spa</dc:language>
+<dc:language>eng</dc:language>
+<dc:title xml:lang="es">Fibrilación auricular</dc:title>
+<dc:title xml:lang="en">Atrial Fibrillation</dc:title>
+<dc:publisher>National Library of Medicine</dc:publisher>
+<dc:relation type="IsPartOf">Blood, Heart and Circulation</dc:relation>
+<dc:date type="created">2009-09-23</dc:date>
+<dc:date type="modified">2018-02-07</dc:date>
+<dc:identifier type="URL" xml:lang="es">https://medlineplus.gov/spanish/atrialfibrillation.html</dc:identifier>
+<dc:identifier type="URL" xml:lang="en">https://medlineplus.gov/atrialfibrillation.html</dc:identifier>
+<dc:description xml:lang="es">Una arritmia es un problema con la velocidad o el ritmo de los latidos del corazón. La fibrilación auricular es el tipo más común de arritmia causada por un problema en el sistema eléctrico del corazón. A menudo las personas con fibrilación auricular no se dan cuenta de los síntomas. Pero usted puede sentir: Palpitaciones, latidos anormales o rápidos Falta de aire Debilidad o dificultad al ejercitarse Dolor en el pecho Mareos o desmayos Cansancio Confusión La fibrilación auricular puede conducir a un riesgo mayor de ataque cerebral. En muchos pacientes, también puede provocar dolor en el pecho, ataque al corazón o fallo cardíaco. Los médicos diagnostican la fibrilación auricular estudiando la historia familiar y médica, un chequeo físico y un examen llamado electrocardiograma que analiza las ondas eléctricas del corazón. Los tratamientos incluyen medicinas y procedimientos para restablecer el ritmo normal. NIH: Instituto Nacional del Corazón, los Pulmones y la Sangre</dc:description>
+<dc:description xml:lang="en">An arrhythmia is a problem with the speed or rhythm of the heartbeat. Atrial fibrillation (AF) is the most common type of arrhythmia. The cause is a disorder in the heart's electrical system. Often, people who have AF may not even feel symptoms. But you may feel Palpitations -- an abnormal rapid heartbeat Shortness of breath Weakness or difficulty exercising Chest pain Dizziness or fainting Fatigue Confusion AF can lead to an increased risk of stroke. In many patients, it can also cause chest pain, heart attack, or heart failure. Doctors diagnose AF using family and medical history, a physical exam, and a test called an electrocardiogram (EKG), which looks at the electrical waves your heart makes. Treatments include medicines and procedures to restore normal rhythm. NIH: National Heart, Lung, and Blood Institute</dc:description>
+<dc:subject dcterms="mesh">Atrial Fibrillation</dc:subject>
+<dc:subject xml:lang="es">Fibrilación auricular</dc:subject>
+<dc:subject xml:lang="es">Auricular</dc:subject>
+<dc:subject xml:lang="es">Fibrilación</dc:subject>
+<dc:subject xml:lang="es">Atrial</dc:subject>
+<dc:subject xml:lang="es">Fibrilación</dc:subject>
+<dc:subject xml:lang="es">Fibrilación atrial</dc:subject>
+<dc:subject xml:lang="en">Atrial Fibrillation</dc:subject>
+<dc:subject xml:lang="en">AF</dc:subject>
+</metadata>
+</record>
+</MedlinePlus-document>

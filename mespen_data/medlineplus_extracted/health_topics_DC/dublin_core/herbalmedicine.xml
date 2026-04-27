@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<MedlinePlus-document>
+<record>
+<header>
+<identifier>https://medlineplus.gov/herbalmedicine.html</identifier>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:type>Text</dc:type>
+<dc:language>spa</dc:language>
+<dc:language>eng</dc:language>
+<dc:title xml:lang="es">Medicina herbaria</dc:title>
+<dc:title xml:lang="en">Herbal Medicine</dc:title>
+<dc:publisher>National Library of Medicine</dc:publisher>
+<dc:relation type="IsPartOf">Complementary and Alternative Therapies</dc:relation>
+<dc:relation type="IsPartOf">Wellness and Lifestyle</dc:relation>
+<dc:date type="created">2002-07-21</dc:date>
+<dc:date type="modified">2017-08-22</dc:date>
+<dc:identifier type="URL" xml:lang="es">https://medlineplus.gov/spanish/herbalmedicine.html</dc:identifier>
+<dc:identifier type="URL" xml:lang="en">https://medlineplus.gov/herbalmedicine.html</dc:identifier>
+<dc:description xml:lang="es">Una hierba es una planta o una parte de una planta que se usa por su aroma, sabor o propiedades terapéuticas. Los productos de la medicina herbolaria son suplementos dietéticos. Se venden como píldoras, cápsulas, polvos, tés, extractos o como plantas frescas o secas. Las personas las toman para mejorar su salud. Muchos creen que los productos etiquetados "natural" son siempre seguros y buenos para ellos. Esto no es necesariamente cierto. Las hierbas medicinales no pasan por el mismo control y pruebas que las medicinas convencionales. Ciertas hierbas, como la consuelda y efedra pueden causar daños severos. Algunas hierbas pueden interactuar con medicamentos de receta o de venta libre. Si usted está considerando usar hierbas medicinales, primero busque información de fuentes confiables. Asegúrese de avisarle a su médico sobre cualquier hierba que este tomando. NIH: Centro Nacional de Salud Complementaria e Integral</dc:description>
+<dc:description xml:lang="en">An herb is a plant or plant part used for its scent, flavor, or therapeutic properties. Herbal medicines are one type of dietary supplement. They are sold as tablets, capsules, powders, teas, extracts, and fresh or dried plants. People use herbal medicines to try to maintain or improve their health. Many people believe that products labeled "natural" are always safe and good for them. This is not necessarily true. Herbal medicines do not have to go through the testing that drugs do. Some herbs, such as comfrey and ephedra, can cause serious harm. Some herbs can interact with prescription or over-the-counter medicines. If you are thinking about using an herbal medicine, first get information on it from reliable sources. Make sure to tell your health care provider about any herbal medicines you are taking. NIH: National Center for Complementary and Integrative Health</dc:description>
+<dc:subject dcterms="mesh">Phytotherapy</dc:subject>
+<dc:subject xml:lang="es">Medicina herbaria</dc:subject>
+<dc:subject xml:lang="en">Herbal Medicine</dc:subject>
+<dc:subject xml:lang="en">Botanicals</dc:subject>
+<dc:subject xml:lang="en">Medicinal Herbs</dc:subject>
+<dc:subject xml:lang="en">Phytotherapy</dc:subject>
+<dc:subject xml:lang="en">Teas</dc:subject>
+<dc:subject xml:lang="en">Medicinal</dc:subject>
+<dc:subject xml:lang="en">Teas</dc:subject>
+<dc:subject xml:lang="en">Herbal </dc:subject>
+</metadata>
+</record>
+</MedlinePlus-document>

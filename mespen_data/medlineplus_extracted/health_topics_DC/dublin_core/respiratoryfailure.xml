@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<MedlinePlus-document>
+<record>
+<header>
+<identifier>https://medlineplus.gov/respiratoryfailure.html</identifier>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:type>Text</dc:type>
+<dc:language>spa</dc:language>
+<dc:language>eng</dc:language>
+<dc:title xml:lang="es">Insuficiencia respiratoria</dc:title>
+<dc:title xml:lang="en">Respiratory Failure</dc:title>
+<dc:publisher>National Library of Medicine</dc:publisher>
+<dc:relation type="IsPartOf">Lungs and Breathing</dc:relation>
+<dc:date type="created">2012-06-11</dc:date>
+<dc:date type="modified">2017-08-02</dc:date>
+<dc:identifier type="URL" xml:lang="es">https://medlineplus.gov/spanish/respiratoryfailure.html</dc:identifier>
+<dc:identifier type="URL" xml:lang="en">https://medlineplus.gov/respiratoryfailure.html</dc:identifier>
+<dc:description xml:lang="es">La deficiencia respiratoria sucede cuando no fluye suficiente oxígeno de sus pulmones a su corazón. Sus órganos, como su corazón y cerebro, necesitan sangre rica en oxígeno para funcionar correctamente. La insuficiencia respiratoria también puede suceder cuando sus pulmones no pueden eliminar el dióxido de carbono (un gas de deshecho) de su sangre. Tener demasiado dióxido de carbono en la sangre puede lastimar sus órganos. Las enfermedades y condiciones que afectan su respiración pueden causar insuficiencia respiratoria. Algunos ejemplos son: Enfermedades de los pulmones, como EPOC (enfermedad de obstrucción pulmonar crónica), neumonía, embolia pulmonar y fibrosis quística Condiciones que afectan el control de los nervios y los músculos como traumatismo de la médula espinal, distrofia muscular y ataque cerebral Daño a los tejidos y costillas alrededor de los pulmones. Una lesión al pecho pudo haber causado este daño Abuso de drogas o alcohol Lesiones por inhalación de humo o gases nocivos El tratamiento para la insuficiencia respiratoria depende de si la afección es aguda (de corta duración) o crónica (en curso) y cuán grave es. Usted puede recibir terapia con oxígeno o algún otro tratamiento que lo ayude a respirar. NIH: Instituto Nacional del Corazón, los Pulmones y la Sangre</dc:description>
+<dc:description xml:lang="en">Respiratory failure happens when not enough oxygen passes from your lungs into your blood. Your body's organs, such as your heart and brain, need oxygen-rich blood to work well. Respiratory failure also can happen if your lungs can't remove carbon dioxide (a waste gas) from your blood. Too much carbon dioxide in your blood can harm your body's organs. Diseases and conditions that affect your breathing can cause respiratory failure. Examples include Lung diseases such as COPD (chronic obstructive pulmonary disease), pneumonia, pulmonary embolism, and cystic fibrosis Conditions that affect the nerves and muscles that control breathing, such as spinal cord injuries, muscular dystrophy and stroke Damage to the tissues and ribs around the lungs. An injury to the chest can cause this damage. Drug or alcohol overdose Injuries from inhaling smoke or harmful fumes Treatment for respiratory failure depends on whether the condition is acute (short-term) or chronic (ongoing) and how severe it is. It also depends on the underlying cause. You may receive oxygen therapy and other treatment to help you breathe. NIH: National Heart, Lung, and Blood Institute</dc:description>
+<dc:subject dcterms="mesh">Respiratory Insufficiency</dc:subject>
+<dc:subject xml:lang="es">Insuficiencia respiratoria</dc:subject>
+<dc:subject xml:lang="en">Respiratory Failure</dc:subject>
+<dc:subject xml:lang="en">ARDS</dc:subject>
+<dc:subject xml:lang="en">Acute Respiratory Distress Syndrome</dc:subject>
+</metadata>
+</record>
+</MedlinePlus-document>

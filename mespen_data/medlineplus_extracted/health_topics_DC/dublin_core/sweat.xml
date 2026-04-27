@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<MedlinePlus-document>
+<record>
+<header>
+<identifier>https://medlineplus.gov/sweat.html</identifier>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title type="alternate" xml:lang="es">Sudor</dc:title>
+<dc:title type="alternate" xml:lang="en">Perspiration</dc:title>
+<dc:title type="alternate" xml:lang="en">Hyperhidrosis</dc:title>
+<dc:title type="alternate" xml:lang="en">Body Odor</dc:title>
+<dc:type>Text</dc:type>
+<dc:language>spa</dc:language>
+<dc:language>eng</dc:language>
+<dc:title xml:lang="es">Transpiración</dc:title>
+<dc:title xml:lang="en">Sweat</dc:title>
+<dc:publisher>National Library of Medicine</dc:publisher>
+<dc:relation type="IsPartOf">Skin, Hair and Nails</dc:relation>
+<dc:date type="created">2008-09-22</dc:date>
+<dc:date type="modified">2018-01-03</dc:date>
+<dc:identifier type="URL" xml:lang="es">https://medlineplus.gov/spanish/sweat.html</dc:identifier>
+<dc:identifier type="URL" xml:lang="en">https://medlineplus.gov/sweat.html</dc:identifier>
+<dc:description xml:lang="es">El sudor es un líquido claro y salado producido por glándulas en la piel. La transpiración es la manera que el cuerpo tiene para enfriarse. El sudor se produce principalmente debajo de los brazos, en los pies y las palmas de las manos. Cuando el sudor se mezcla con las bacterias de la piel puede causar olor. Bañarse con regularidad y usar antitranspirantes o desodorantes puede ayudar a controlar el olor. Cuando hace calor, practica ejercicios, está ansioso o tiene fiebre es normal transpirar mucho. También ocurre durante la menopausia. Sin embargo, si transpira demasiado (hiperhidrosis), puede deberse a un trastorno de la tiroides o del sistema nervioso, disminución del azúcar en la sangre u otro problema de salud. Transpirar demasiado poco (anhidrosis), puede poner en riesgo la vida porque el cuerpo puede sobrecalentarse. Entre las causas de anhidrosis se incluyen la deshidratación, las quemaduras y algunos trastornos de la piel y los nervios.</dc:description>
+<dc:description xml:lang="en">Sweat is a clear, salty liquid produced by glands in your skin. Sweating is how your body cools itself. You sweat mainly under your arms and on your feet and palms. When sweat mixes with bacteria on your skin, it can cause a smell. Bathing regularly and using antiperspirants or deodorants can help control the odor. Sweating a lot is normal when it is hot or when you exercise, are anxious, or have a fever. It also happens during menopause. If you often sweat too much, it's called hyperhidrosis. Causes include thyroid or nervous system disorders, low blood sugar, or another health problem. Sweating too little, anhidrosis, can be life-threatening because your body can overheat. Causes of anhidrosis include dehydration, burns, and some skin and nerve disorders.</dc:description>
+<dc:subject dcterms="mesh">Sweat</dc:subject>
+<dc:subject xml:lang="es">Transpiración</dc:subject>
+<dc:subject xml:lang="es">Sudor</dc:subject>
+<dc:subject xml:lang="en">Sweat</dc:subject>
+<dc:subject xml:lang="en">Perspiration</dc:subject>
+<dc:subject xml:lang="en">Hyperhidrosis</dc:subject>
+<dc:subject xml:lang="en">Body Odor</dc:subject>
+</metadata>
+</record>
+</MedlinePlus-document>

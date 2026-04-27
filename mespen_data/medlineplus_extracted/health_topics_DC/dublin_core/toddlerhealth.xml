@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<MedlinePlus-document>
+<record>
+<header>
+<identifier>https://medlineplus.gov/toddlerhealth.html</identifier>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title type="alternate" xml:lang="es">Bebés y niños, Salud de los</dc:title>
+<dc:title type="alternate" xml:lang="es">Niños y bebés, Salud de los</dc:title>
+<dc:type>Text</dc:type>
+<dc:language>spa</dc:language>
+<dc:language>eng</dc:language>
+<dc:title xml:lang="es">Salud del niño pequeño</dc:title>
+<dc:title xml:lang="en">Toddler Health</dc:title>
+<dc:publisher>National Library of Medicine</dc:publisher>
+<dc:relation type="IsPartOf">Children and Teenagers</dc:relation>
+<dc:date type="created">2002-07-21</dc:date>
+<dc:date type="modified">2018-01-10</dc:date>
+<dc:identifier type="URL" xml:lang="es">https://medlineplus.gov/spanish/toddlerhealth.html</dc:identifier>
+<dc:identifier type="URL" xml:lang="en">https://medlineplus.gov/toddlerhealth.html</dc:identifier>
+<dc:description xml:lang="es">La mayoría de los niños se enferma. Es difícil para los padres saber qué se considera serio. Usted puede aprender a reconocer los signos más comunes de advertencia. Al final, confíe en su intuición. Si está preocupada por su bebé, llame inmediatamente a un profesional de la salud. Las consultas de control de niños sanos son importantes para la salud de su bebé. Un recién nacido normalmente necesita ser atendido por el pediatra mensualmente. A medida que el niño se acerca a su primer cumpleaños, la mayoría no necesita ir con tanta frecuencia. Los bebés recibirán las inmunizaciones (vacunas) durante estas visitas. Los exámenes y las exploraciones de rutina ayudan a sus hijos a prevenir y tratar problemas de salud, así como a tabular su crecimiento y desarrollo.</dc:description>
+<dc:description xml:lang="en">Most young children get sick. It is hard for parents to know what is serious. You can learn what the common warning signs are. In the end, trust your intuition. If you are worried about your toddler, call your health care provider right away. Well-child visits are important to your toddler's health. Toddlers will get their recommended immunizations during these visits. Routine exams and screenings help you and your kids prevent and treat health problems as well as chart their growth and development.</dc:description>
+<dc:subject dcterms="mesh">Child, Preschool</dc:subject>
+<dc:subject xml:lang="es">Salud del niño pequeño</dc:subject>
+<dc:subject xml:lang="es">Bebés y niños</dc:subject>
+<dc:subject xml:lang="es">Salud de los</dc:subject>
+<dc:subject xml:lang="es">Niños y bebés</dc:subject>
+<dc:subject xml:lang="es">Salud de los</dc:subject>
+<dc:subject xml:lang="en">Toddler Health</dc:subject>
+</metadata>
+</record>
+</MedlinePlus-document>

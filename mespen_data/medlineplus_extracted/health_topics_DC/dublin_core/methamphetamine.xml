@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<MedlinePlus-document>
+<record>
+<header>
+<identifier>https://medlineplus.gov/methamphetamine.html</identifier>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title type="alternate" xml:lang="es">Abuso de metanfetamina</dc:title>
+<dc:title type="alternate" xml:lang="es">Yaba</dc:title>
+<dc:title type="alternate" xml:lang="es">Anfetamina</dc:title>
+<dc:title type="alternate" xml:lang="en">Amphetamines</dc:title>
+<dc:type>Text</dc:type>
+<dc:language>spa</dc:language>
+<dc:language>eng</dc:language>
+<dc:title xml:lang="es">Metanfetamina</dc:title>
+<dc:title xml:lang="en">Methamphetamine</dc:title>
+<dc:publisher>National Library of Medicine</dc:publisher>
+<dc:relation type="IsPartOf">Substance Abuse Problems</dc:relation>
+<dc:date type="created">2002-07-21</dc:date>
+<dc:date type="modified">2017-11-08</dc:date>
+<dc:identifier type="URL" xml:lang="es">https://medlineplus.gov/spanish/methamphetamine.html</dc:identifier>
+<dc:identifier type="URL" xml:lang="en">https://medlineplus.gov/methamphetamine.html</dc:identifier>
+<dc:description xml:lang="es">La metanfetamina es una droga estimulante muy adictiva. Es un polvo que se puede presentar como una píldora o una roca brillante (llamada cristal). El polvo se puede ingerir o inhalar por la nariz. También se puede mezclar con un líquido e inyectarse con una aguja. La metanfetamina cristal se fuma en una pequeña pipa de vidrio. Al principio la droga provoca una oleada de buenos sentimientos, pero luego los usuarios se sienten nerviosos, demasiado excitados, enojados o asustados. El uso de metanfetamina puede llevar rápidamente a la adicción. Esto causa problemas médicos, incluyendo: Elevar tanto su temperatura corporal que puede desmayarse Picazón severa Sufrir "boca de metanfetamina", con dientes rotos y boca seca Problemas para pensar y emocionales NIH: Instituto Nacional sobre el Abuso de Drogas</dc:description>
+<dc:description xml:lang="en">Methamphetamine - meth for short - is a very addictive stimulant drug. It is a powder that can be made into a pill or a shiny rock (called a crystal). The powder can be eaten or snorted up the nose. It can also be mixed with liquid and injected into your body with a needle. Crystal meth is smoked in a small glass pipe. Meth at first causes a rush of good feelings, but then users feel edgy, overly excited, angry, or afraid. Meth use can quickly lead to addiction. It causes medical problems including Making your body temperature so high that you pass out Severe itching "Meth mouth" - broken teeth and dry mouth Thinking and emotional problems NIH: National Institute on Drug Abuse</dc:description>
+<dc:subject dcterms="mesh">Methamphetamine</dc:subject>
+<dc:subject xml:lang="es">Metanfetamina</dc:subject>
+<dc:subject xml:lang="es">Abuso de metanfetamina</dc:subject>
+<dc:subject xml:lang="es">Yaba</dc:subject>
+<dc:subject xml:lang="es">Anfetamina</dc:subject>
+<dc:subject xml:lang="en">Methamphetamine</dc:subject>
+<dc:subject xml:lang="en">Amphetamines</dc:subject>
+</metadata>
+</record>
+</MedlinePlus-document>

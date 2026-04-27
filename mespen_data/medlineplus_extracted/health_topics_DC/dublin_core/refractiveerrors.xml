@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<MedlinePlus-document>
+<record>
+<header>
+<identifier>https://medlineplus.gov/refractiveerrors.html</identifier>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title type="alternate" xml:lang="es">Astigmatismo</dc:title>
+<dc:title type="alternate" xml:lang="es">Hipermetropía</dc:title>
+<dc:title type="alternate" xml:lang="es">Hiperopía</dc:title>
+<dc:title type="alternate" xml:lang="es">Miopía</dc:title>
+<dc:title type="alternate" xml:lang="en">Astigmatism</dc:title>
+<dc:title type="alternate" xml:lang="en">Farsightedness</dc:title>
+<dc:title type="alternate" xml:lang="en">Hyperopia</dc:title>
+<dc:title type="alternate" xml:lang="en">Myopia</dc:title>
+<dc:title type="alternate" xml:lang="en">Nearsightedness</dc:title>
+<dc:title type="alternate" xml:lang="en">Presbyopia</dc:title>
+<dc:title type="alternate" xml:lang="en">Intraocular Lens</dc:title>
+<dc:title type="alternate" xml:lang="en">Artificial Lens</dc:title>
+<dc:type>Text</dc:type>
+<dc:language>spa</dc:language>
+<dc:language>eng</dc:language>
+<dc:title xml:lang="es">Errores de refracción</dc:title>
+<dc:title xml:lang="en">Refractive Errors</dc:title>
+<dc:publisher>National Library of Medicine</dc:publisher>
+<dc:relation type="IsPartOf">Eyes and Vision</dc:relation>
+<dc:date type="created">2002-07-21</dc:date>
+<dc:date type="modified">2018-02-06</dc:date>
+<dc:identifier type="URL" xml:lang="es">https://medlineplus.gov/spanish/refractiveerrors.html</dc:identifier>
+<dc:identifier type="URL" xml:lang="en">https://medlineplus.gov/refractiveerrors.html</dc:identifier>
+<dc:description xml:lang="es">La córnea y el cristalino del ojo ayudan a enfocar. Los errores de refracción son problemas de visión que se producen cuando la forma del ojo no le permite enfocar bien. La causa podría ser la longitud del globo ocular (largo o más corto), cambios en la forma de la córnea o el envejecimiento del cristalino. Cuatro errores de refracción comunes son: Miopía o corto de vista: Visión clara de cerca, pero borrosa a distancia Hipermetropía o hiperopía: Visión clara a distancia, pero borrosa de cerca Presbicia: Incapacidad para enfocar de cerca resultado del envejecimiento Astigmatismo: Problemas de enfoque causados por la córnea El síntoma más común es la visión borrosa. Otros síntomas pueden incluir visión doble, nebulosas, deslumbramiento o halos alrededor de luces brillantes, entrecerrar los ojos, dolores de cabeza o fatiga visual. Los anteojos o los lentes de contacto suelen corregir los errores de refracción. La cirugía del ojo con láser es otra posibilidad. NIH: Instituto Nacional del Ojo</dc:description>
+<dc:description xml:lang="en">The cornea and lens of your eye helps you focus. Refractive errors are vision problems that happen when the shape of the eye keeps you from focusing well. The cause could be the length of the eyeball (longer or shorter), changes in the shape of the cornea, or aging of the lens. Four common refractive errors are Myopia, or nearsightedness - clear vision close up but blurry in the distance Hyperopia, or farsightedness - clear vision in the distance but blurry close up Presbyopia - inability to focus close up as a result of aging Astigmatism - focus problems caused by the cornea The most common symptom is blurred vision. Other symptoms may include double vision, haziness, glare or halos around bright lights, squinting, headaches, or eye strain. Glasses or contact lenses can usually correct refractive errors. Laser eye surgery may also be a possibility. NIH: National Eye Institute</dc:description>
+<dc:subject dcterms="mesh">Refractive Errors</dc:subject>
+<dc:subject xml:lang="es">Errores de refracción</dc:subject>
+<dc:subject xml:lang="es">Astigmatismo</dc:subject>
+<dc:subject xml:lang="es">Hipermetropía</dc:subject>
+<dc:subject xml:lang="es">Hiperopía</dc:subject>
+<dc:subject xml:lang="es">Miopía</dc:subject>
+<dc:subject xml:lang="en">Refractive Errors</dc:subject>
+<dc:subject xml:lang="en">Astigmatism</dc:subject>
+<dc:subject xml:lang="en">Farsightedness</dc:subject>
+<dc:subject xml:lang="en">Hyperopia</dc:subject>
+<dc:subject xml:lang="en">Myopia</dc:subject>
+<dc:subject xml:lang="en">Nearsightedness</dc:subject>
+<dc:subject xml:lang="en">Presbyopia</dc:subject>
+<dc:subject xml:lang="en">Intraocular Lens</dc:subject>
+<dc:subject xml:lang="en">Artificial Lens</dc:subject>
+</metadata>
+</record>
+</MedlinePlus-document>

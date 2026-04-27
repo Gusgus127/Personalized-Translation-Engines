@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<MedlinePlus-document>
+<record>
+<header>
+<identifier>https://medlineplus.gov/autoimmunediseases.html</identifier>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:type>Text</dc:type>
+<dc:language>spa</dc:language>
+<dc:language>eng</dc:language>
+<dc:title xml:lang="es">Enfermedades autoinmunes</dc:title>
+<dc:title xml:lang="en">Autoimmune Diseases</dc:title>
+<dc:publisher>National Library of Medicine</dc:publisher>
+<dc:relation type="IsPartOf">Immune System</dc:relation>
+<dc:date type="created">2002-07-21</dc:date>
+<dc:date type="modified">2017-11-08</dc:date>
+<dc:identifier type="URL" xml:lang="es">https://medlineplus.gov/spanish/autoimmunediseases.html</dc:identifier>
+<dc:identifier type="URL" xml:lang="en">https://medlineplus.gov/autoimmunediseases.html</dc:identifier>
+<dc:description xml:lang="es">El sistema inmunitario del cuerpo lo protege contra las enfermedades y las infecciones. Pero, si tiene una enfermedad autoinmune, su sistema inmunitario ataca las células sanas de su cuerpo por error. Las enfermedades autoinmunes pueden afectar muchas partes del organismo. No se conocen las causas. Estas enfermedades tienden a ser hereditarias. Las mujeres, particularmente las afroamericanas, las hispanoamericanas y las indias norteamericanas, presentan un mayor riesgo de sufrir enfermedades autoinmunes. Existen más de 80 tipos de estas enfermedades y algunas tienen síntomas similares. Esto dificulta que su médico sepa si usted realmente padece de uno de estos trastornos y, en caso de padecerlo, de cuál de ellos se trata. Obtener un diagnóstico puede resultar frustrante y estresante. En muchos casos, los primeros síntomas son fatiga, dolores musculares y fiebre más bien baja. Pero el síntoma clásico de una enfermedad autoinmune es la inflamación, que puede causar enrojecimiento, acaloramiento, dolor e hinchazón. Las enfermedades también pueden hacerse más agudas, o sea que tiene momentos en las que empeoran pero pueden también tener remisiones que es cuando los síntomas mejoran o desaparecen. El tratamiento depende de la enfermedad, pero en la mayoría de los casos, lo importante es reducir la inflamación. A veces, el doctor puede recetar corticoides (esteroides) u otro tipo de medicamento que reduzca la respuesta de su sistema inmunitario.</dc:description>
+<dc:description xml:lang="en">Your body's immune system protects you from disease and infection. But if you have an autoimmune disease, your immune system attacks healthy cells in your body by mistake. Autoimmune diseases can affect many parts of the body. No one is sure what causes autoimmune diseases. They do tend to run in families. Women - particularly African-American, Hispanic-American, and Native-American women - have a higher risk for some autoimmune diseases. There are more than 80 types of autoimmune diseases, and some have similar symptoms. This makes it hard for your health care provider to know if you really have one of these diseases, and if so, which one. Getting a diagnosis can be frustrating and stressful. Often, the first symptoms are fatigue, muscle aches and a low fever. The classic sign of an autoimmune disease is inflammation, which can cause redness, heat, pain and swelling. The diseases may also have flare-ups, when they get worse, and remissions, when symptoms get better or disappear. Treatment depends on the disease, but in most cases one important goal is to reduce inflammation. Sometimes doctors prescribe corticosteroids or other drugs that reduce your immune response.</dc:description>
+<dc:subject dcterms="mesh">Autoimmune Diseases</dc:subject>
+<dc:subject xml:lang="es">Enfermedades autoinmunes</dc:subject>
+<dc:subject xml:lang="en">Autoimmune Diseases</dc:subject>
+<dc:subject xml:lang="en">Autoinflammatory Disorders</dc:subject>
+</metadata>
+</record>
+</MedlinePlus-document>

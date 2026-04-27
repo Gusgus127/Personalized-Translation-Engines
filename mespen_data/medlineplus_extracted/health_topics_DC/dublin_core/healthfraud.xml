@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<MedlinePlus-document>
+<record>
+<header>
+<identifier>https://medlineplus.gov/healthfraud.html</identifier>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:type>Text</dc:type>
+<dc:language>spa</dc:language>
+<dc:language>eng</dc:language>
+<dc:title xml:lang="es">Fraude en los servicios de salud</dc:title>
+<dc:title xml:lang="en">Health Fraud</dc:title>
+<dc:publisher>National Library of Medicine</dc:publisher>
+<dc:relation type="IsPartOf">Health System</dc:relation>
+<dc:date type="created">2002-07-21</dc:date>
+<dc:date type="modified">2017-11-21</dc:date>
+<dc:identifier type="URL" xml:lang="es">https://medlineplus.gov/spanish/healthfraud.html</dc:identifier>
+<dc:identifier type="URL" xml:lang="en">https://medlineplus.gov/healthfraud.html</dc:identifier>
+<dc:description xml:lang="es">El fraude en los servicios para el cuidado de la salud involucra la venta de medicamentos, dispositivos, alimentos o cosméticos que no han demostrado ser efectivos. Piense que si suena demasiado bueno para ser verdad, probablemente sea fraude. En el mejor de los casos, el fraude no funcionará. En el peor, es peligroso. También es un desperdicio de dinero y puede impedir que obtenga el tratamiento que realmente necesita. Los fraudes en el cuidado de la salud pueden encontrarse en todas partes, prometiendo ayuda para muchos problemas de salud, incluyendo pérdida de peso, pérdida de la memoria, desempeño sexual y dolor de las articulaciones. También apuntan a personas con problemas serios como cáncer, diabetes, enfermedades del corazón, VIH/SIDA, artritis, Alzheimer y muchas más. Para protegerse, reconozca señales de advertencia como: Curas rápidas Remedios Remedios ancestrales Ingredientes secretos Avances científicos Antes de tomar un tratamiento no probado o poco conocido, hable con un médico o profesional de la salud, especialmente cuando se tomen medicamentos con receta. Administración de Alimentos y Medicamentos</dc:description>
+<dc:description xml:lang="en">Health fraud involves selling drugs, devices, foods, or cosmetics that have not been proven effective. Keep in mind - if it sounds too good to be true, it's probably a scam. At best, these scams don't work. At worst, they're dangerous. They also waste money, and they might keep you from getting the treatment you really need. Health fraud scams can be found everywhere, promising help for many common health issues, including weight loss, memory loss, sexual performance, and joint pain. They target people with serious conditions like cancer, diabetes, heart disease, HIV/AIDS, arthritis, Alzheimer's, and many more. To protect yourself, recognize the red flags such as: Miracle cure Quick fix Ancient remedy Secret ingredient Scientific breakthrough Before taking an unproven or little known treatment, talk to a doctor or health care professional - especially when taking prescription drugs. Food and Drug Administration</dc:description>
+<dc:subject dcterms="mesh">Fraud</dc:subject>
+<dc:subject xml:lang="es">Fraude en los servicios de salud</dc:subject>
+<dc:subject xml:lang="en">Health Fraud</dc:subject>
+<dc:subject xml:lang="en">Quackery</dc:subject>
+</metadata>
+</record>
+</MedlinePlus-document>

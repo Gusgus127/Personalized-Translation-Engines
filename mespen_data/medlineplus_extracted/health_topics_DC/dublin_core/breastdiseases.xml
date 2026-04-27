@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<MedlinePlus-document>
+<record>
+<header>
+<identifier>https://medlineplus.gov/breastdiseases.html</identifier>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title type="alternate" xml:lang="es">Seno, Enfermedades del</dc:title>
+<dc:title type="alternate" xml:lang="es">Mama, Enfermedades de la</dc:title>
+<dc:title type="alternate" xml:lang="es">Pechos, Enfermedades de los</dc:title>
+<dc:title type="alternate" xml:lang="es">Ginecomastía</dc:title>
+<dc:title type="alternate" xml:lang="es">Galactorrea</dc:title>
+<dc:title type="alternate" xml:lang="es">Calcificaciones en el seno</dc:title>
+<dc:title type="alternate" xml:lang="es">Seno, Calcificaciones en el</dc:title>
+<dc:title type="alternate" xml:lang="es">Mastitis</dc:title>
+<dc:title type="alternate" xml:lang="es">Autoexamen mamario</dc:title>
+<dc:title type="alternate" xml:lang="es">Senos, Hombre</dc:title>
+<dc:title type="alternate" xml:lang="en">Fibrocystic Breast Disease</dc:title>
+<dc:title type="alternate" xml:lang="en">Gynecomastia</dc:title>
+<dc:type>Text</dc:type>
+<dc:language>spa</dc:language>
+<dc:language>eng</dc:language>
+<dc:title xml:lang="es">Enfermedades del seno</dc:title>
+<dc:title xml:lang="en">Breast Diseases</dc:title>
+<dc:publisher>National Library of Medicine</dc:publisher>
+<dc:relation type="IsPartOf">Female Reproductive System</dc:relation>
+<dc:relation type="IsPartOf">Women</dc:relation>
+<dc:date type="created">2002-07-21</dc:date>
+<dc:date type="modified">2018-01-03</dc:date>
+<dc:identifier type="URL" xml:lang="es">https://medlineplus.gov/spanish/breastdiseases.html</dc:identifier>
+<dc:identifier type="URL" xml:lang="en">https://medlineplus.gov/breastdiseases.html</dc:identifier>
+<dc:description xml:lang="es">La mayoría de las mujeres experimenta cambios en los senos en algún momento de su vida. La edad, los niveles hormonales y las medicinas que toman pueden causar bultos, masas y secreciones (fluidos o líquidos que no son leche materna). Si nota un bulto, dolor, secreción o irritación en la piel de uno o de los dos senos, consulte a su médico. Tanto los problemas graves como los no graves tienen síntomas similares. Aunque muchas mujeres les tienen miedo al cáncer, la mayoría de los problemas en los senos no son cáncer. Algunos cambios comunes en los senos son: Cambios fibroquísticos de la mama: presencia de nódulos, engrosamiento e hinchazón que se presentan antes del período menstrual Quistes: abultamientos llenos de líquido Fibroadenomas: nódulos sólidos, redondos y gomosos que se mueven fácilmente con la presión, suelen aparecer con mayor frecuencia en las mujeres jóvenes Papilomas intraductales: protuberancias parecidas a las verrugas que crecen cerca del pezón Conductos lácteos obstruidos o tapados Producción de leche en mujeres que no están amamantando NIH: Instituto Nacional del Cáncer</dc:description>
+<dc:description xml:lang="en">Most women experience breast changes at some time. Your age, hormone levels, and medicines you take may cause lumps, bumps, and discharges (fluids that are not breast milk). If you have a breast lump, pain, discharge or skin irritation, see your health care provider. Minor and serious breast problems have similar symptoms. Although many women fear cancer, most breast problems are not cancer. Some common breast changes are Fibrocystic breast changes - lumpiness, thickening and swelling, often just before a woman's period Cysts - fluid-filled lumps Fibroadenomas - solid, round, rubbery lumps that move easily when pushed, occurring most in younger women Intraductal papillomas - growths similar to warts near the nipple Blocked milk ducts Milk production when a woman is not breastfeeding NIH: National Cancer Institute</dc:description>
+<dc:subject dcterms="mesh">Breast Diseases</dc:subject>
+<dc:subject dcterms="mesh">Breast Cyst</dc:subject>
+<dc:subject dcterms="mesh">Mastodynia</dc:subject>
+<dc:subject dcterms="mesh">Mastitis</dc:subject>
+<dc:subject xml:lang="es">Enfermedades del seno</dc:subject>
+<dc:subject xml:lang="es">Seno</dc:subject>
+<dc:subject xml:lang="es">Enfermedades del</dc:subject>
+<dc:subject xml:lang="es">Mama</dc:subject>
+<dc:subject xml:lang="es">Enfermedades de la</dc:subject>
+<dc:subject xml:lang="es">Pechos</dc:subject>
+<dc:subject xml:lang="es">Enfermedades de los</dc:subject>
+<dc:subject xml:lang="es">Ginecomastía</dc:subject>
+<dc:subject xml:lang="es">Galactorrea</dc:subject>
+<dc:subject xml:lang="es">Calcificaciones en el seno</dc:subject>
+<dc:subject xml:lang="es">Seno</dc:subject>
+<dc:subject xml:lang="es">Calcificaciones en el</dc:subject>
+<dc:subject xml:lang="es">Mastitis</dc:subject>
+<dc:subject xml:lang="es">Autoexamen mamario</dc:subject>
+<dc:subject xml:lang="es">Senos</dc:subject>
+<dc:subject xml:lang="es">Hombre</dc:subject>
+<dc:subject xml:lang="en">Breast Diseases</dc:subject>
+<dc:subject xml:lang="en">Fibrocystic Breast Disease</dc:subject>
+<dc:subject xml:lang="en">Gynecomastia</dc:subject>
+</metadata>
+</record>
+</MedlinePlus-document>

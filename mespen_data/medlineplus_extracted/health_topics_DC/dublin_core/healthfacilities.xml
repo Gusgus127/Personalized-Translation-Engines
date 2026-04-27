@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<MedlinePlus-document>
+<record>
+<header>
+<identifier>https://medlineplus.gov/healthfacilities.html</identifier>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title type="alternate" xml:lang="es">Hospitales</dc:title>
+<dc:title type="alternate" xml:lang="es">Cuidado de la salud, Centros de</dc:title>
+<dc:title type="alternate" xml:lang="en">Hospitals</dc:title>
+<dc:type>Text</dc:type>
+<dc:language>spa</dc:language>
+<dc:language>eng</dc:language>
+<dc:title xml:lang="es">Centros de salud</dc:title>
+<dc:title xml:lang="en">Health Facilities</dc:title>
+<dc:publisher>National Library of Medicine</dc:publisher>
+<dc:relation type="IsPartOf">Health System</dc:relation>
+<dc:date type="created">2002-07-21</dc:date>
+<dc:date type="modified">2017-10-31</dc:date>
+<dc:identifier type="URL" xml:lang="es">https://medlineplus.gov/spanish/healthfacilities.html</dc:identifier>
+<dc:identifier type="URL" xml:lang="en">https://medlineplus.gov/healthfacilities.html</dc:identifier>
+<dc:description xml:lang="es">Los centros de salud son lugares que brindan cuidados para la salud. Incluyen hospitales, clínicas, centros de cuidados ambulatorios y centros de cuidados especializados, tales como las maternidades y los centros psiquiátricos. Al elegir un centro de salud, usted puede considerar: La cercanía a donde vive o trabaja Si su seguro médico paga los servicios en ese centro Si su médico puede atenderlo allí La calidad del establecimiento La calidad es importante. Algunos centros trabajan mejor que otros. Una forma de saber acerca de la calidad de un centro es revisar los informes realizados por el gobierno federal, estatal y grupos de consumidores.</dc:description>
+<dc:description xml:lang="en">Health facilities are places that provide health care. They include hospitals, clinics, outpatient care centers, and specialized care centers, such as birthing centers and psychiatric care centers. When you choose a health facility, you might want to consider How close it is to where you live or work Whether your health insurance will pay for services there Whether your health care provider can treat you there The quality of the facility Quality is important. Some facilities do a better job than others. One way to learn about the quality of a facility is to look at report cards developed by federal, state, and consumer groups.</dc:description>
+<dc:subject dcterms="mesh">Hospitals</dc:subject>
+<dc:subject dcterms="mesh">Health Facilities</dc:subject>
+<dc:subject xml:lang="es">Centros de salud</dc:subject>
+<dc:subject xml:lang="es">Hospitales</dc:subject>
+<dc:subject xml:lang="es">Cuidado de la salud</dc:subject>
+<dc:subject xml:lang="es">Centros de</dc:subject>
+<dc:subject xml:lang="en">Health Facilities</dc:subject>
+<dc:subject xml:lang="en">Hospitals</dc:subject>
+</metadata>
+</record>
+</MedlinePlus-document>

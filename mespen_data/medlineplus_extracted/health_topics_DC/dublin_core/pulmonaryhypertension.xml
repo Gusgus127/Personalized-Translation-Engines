@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<MedlinePlus-document>
+<record>
+<header>
+<identifier>https://medlineplus.gov/pulmonaryhypertension.html</identifier>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:type>Text</dc:type>
+<dc:language>spa</dc:language>
+<dc:language>eng</dc:language>
+<dc:title xml:lang="es">Hipertensión pulmonar</dc:title>
+<dc:title xml:lang="en">Pulmonary Hypertension</dc:title>
+<dc:publisher>National Library of Medicine</dc:publisher>
+<dc:relation type="IsPartOf">Blood, Heart and Circulation</dc:relation>
+<dc:relation type="IsPartOf">Lungs and Breathing</dc:relation>
+<dc:date type="created">2004-02-02</dc:date>
+<dc:date type="modified">2017-10-30</dc:date>
+<dc:identifier type="URL" xml:lang="es">https://medlineplus.gov/spanish/pulmonaryhypertension.html</dc:identifier>
+<dc:identifier type="URL" xml:lang="en">https://medlineplus.gov/pulmonaryhypertension.html</dc:identifier>
+<dc:description xml:lang="es">La hipertensión pulmonar es un aumento de la presión en las arterias de los pulmones. Es una condición seria. Si la tiene, los vasos sanguinos que transportan la sangre del corazón a los pulmones se estrechan y endurecen. El corazón debe hacer un mayor esfuerzo para bombear sangre. Con el tiempo, su corazón se debilita, no puede cumplir su función y puede desarrollar insuficiencia cardiaca. Los síntomas de la hipertensión pulmonar incluyen: Dificultad para respirar durante actividades de rutina, como subir un par de escalones Cansancio Dolor en el pecho Ritmo cardiaco acelerado Dolor en la parte superior derecha del abdomen Falta de apetito A medida que la hipertensión pulmonar empeora, encontrará difícil realizar actividad física. Existen dos tipos principales de hipertensión pulmonar. Uno es hereditario o aparece sin una razón conocida. El otro se relaciona con otro cuadro, generalmente una enfermedad del corazón o pulmón. No existe cura para la hipertensión pulmonar. El tratamiento de puede controlar los síntomas. Incluyen tratar la enfermedad cardiaca o pulmonar, medicinas, oxígeno y, algunas veces, un trasplante de pulmón. NIH: Instituto Nacional del Corazón, los Pulmones y la Sangre</dc:description>
+<dc:description xml:lang="en">Pulmonary hypertension (PH) is high blood pressure in the arteries to your lungs. It is a serious condition. If you have it, the blood vessels that carry blood from your heart to your lungs become hard and narrow. Your heart has to work harder to pump the blood through. Over time, your heart weakens and cannot do its job and you can develop heart failure. Symptoms of PH include Shortness of breath during routine activity, such as climbing two flights of stairs Tiredness Chest pain A racing heartbeat Pain on the upper right side of the abdomen Decreased appetite As PH worsens, you may find it hard to do any physical activities. There are two main kinds of PH. One runs in families or appears for no known reason. The other kind is related to another condition, usually heart or lung disease. There is no cure for PH. Treatments can control symptoms. They involve treating the heart or lung disease, medicines, oxygen, and sometimes lung transplantation. NIH: National Heart, Lung, and Blood Institute</dc:description>
+<dc:subject dcterms="mesh">Hypertension, Pulmonary</dc:subject>
+<dc:subject xml:lang="es">Hipertensión pulmonar</dc:subject>
+<dc:subject xml:lang="en">Pulmonary Hypertension</dc:subject>
+<dc:subject xml:lang="en">Primary Pulmonary Hypertension</dc:subject>
+<dc:subject xml:lang="en">Hypertension</dc:subject>
+<dc:subject xml:lang="en">Pulmonary</dc:subject>
+<dc:subject xml:lang="en">Cor Pulmonale</dc:subject>
+</metadata>
+</record>
+</MedlinePlus-document>

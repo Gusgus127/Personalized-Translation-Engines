@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<MedlinePlus-document>
+<record>
+<header>
+<identifier>https://medlineplus.gov/anaphylaxis.html</identifier>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:type>Text</dc:type>
+<dc:language>spa</dc:language>
+<dc:language>eng</dc:language>
+<dc:title xml:lang="es">Anafilaxia</dc:title>
+<dc:title xml:lang="en">Anaphylaxis</dc:title>
+<dc:publisher>National Library of Medicine</dc:publisher>
+<dc:relation type="IsPartOf">Immune System</dc:relation>
+<dc:date type="created">2015-08-03</dc:date>
+<dc:date type="modified">2018-01-09</dc:date>
+<dc:identifier type="URL" xml:lang="es">https://medlineplus.gov/spanish/anaphylaxis.html</dc:identifier>
+<dc:identifier type="URL" xml:lang="en">https://medlineplus.gov/anaphylaxis.html</dc:identifier>
+<dc:description xml:lang="es">La anafilaxia es una reacción alérgica grave. Puede comenzar muy rápidamente, y los síntomas pueden ser potencialmente mortales. Las causas más comunes son reacciones a los alimentos (especialmente al maní o cacahuate), medicamentos y picaduras de insectos. Otras causas incluyen el ejercicio y la exposición al látex. A veces no se puede encontrar una causa. Puede afectar a muchos órganos: Piel: Picazón, urticaria, enrojecimiento, hinchazón Nariz: Estornudos, congestión nasal, secreción nasal Boca: Picor, hinchazón de los labios o la lengua Garganta: Prurito, opresión, dificultad para tragar, inflamación de la parte posterior de la garganta Pecho: Falta de aliento, tos, sibilancias, dolor de pecho u opresión Corazón: Pulso débil, desmayo, shock Tracto gastrointestinal: Vómitos, diarrea, calambres Sistema nervioso: Mareos o desmayos Si alguien está teniendo una reacción alérgica grave, llame al 911. Si un autoinyector está disponible, aplicar a la persona la inyección de inmediato. NIH: Instituto Nacional de Alergias y Enfermedades Infecciosas</dc:description>
+<dc:description xml:lang="en">Anaphylaxis is a serious allergic reaction. It can begin very quickly, and symptoms may be life-threatening. The most common causes are reactions to foods (especially peanuts), medications, and stinging insects. Other causes include exercise and exposure to latex. Sometimes no cause can be found. It can affect many organs: Skin - itching, hives, redness, swelling Nose - sneezing, stuffy nose, runny nose Mouth - itching, swelling of the lips or tongue Throat - itching, tightness, trouble swallowing, swelling of the back of the throat Chest - shortness of breath, coughing, wheezing, chest pain or tightness Heart - weak pulse, passing out, shock Gastrointestinal tract - vomiting, diarrhea, cramps Nervous system - dizziness or fainting If someone is having a serious allergic reaction, call 9-1-1. If an auto-injector is available, give the person the injection right away. NIH: National Institute of Allergy and Infectious Diseases</dc:description>
+<dc:subject dcterms="mesh">Anaphylaxis</dc:subject>
+<dc:subject xml:lang="es">Anafilaxia</dc:subject>
+<dc:subject xml:lang="en">Anaphylaxis</dc:subject>
+</metadata>
+</record>
+</MedlinePlus-document>

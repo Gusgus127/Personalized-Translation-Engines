@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<MedlinePlus-document>
+<record>
+<header>
+<identifier>https://medlineplus.gov/drymouth.html</identifier>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title type="alternate" xml:lang="es">Xerostomía</dc:title>
+<dc:title type="alternate" xml:lang="en">Xerostomia</dc:title>
+<dc:type>Text</dc:type>
+<dc:language>spa</dc:language>
+<dc:language>eng</dc:language>
+<dc:title xml:lang="es">Boca seca</dc:title>
+<dc:title xml:lang="en">Dry Mouth</dc:title>
+<dc:publisher>National Library of Medicine</dc:publisher>
+<dc:relation type="IsPartOf">Mouth and Teeth</dc:relation>
+<dc:date type="created">2011-04-27</dc:date>
+<dc:date type="modified">2018-01-02</dc:date>
+<dc:identifier type="URL" xml:lang="es">https://medlineplus.gov/spanish/drymouth.html</dc:identifier>
+<dc:identifier type="URL" xml:lang="en">https://medlineplus.gov/drymouth.html</dc:identifier>
+<dc:description xml:lang="es">Boca seca es la sensación de que no hay suficiente saliva en su boca. Muchas personas sienten la boca seca en algún momento, sobre todo si están nerviosas, enojadas o estresadas. Pero si usted siente la boca seca todo o la mayor parte del tiempo, puede ser incómodo y puede ocasionar serios problemas de salud. Los síntomas de la boca seca incluyen Sensación pegajosa y seca en la boca Problemas para masticar, tragar, degustar o hablar Sensación de ardor en la boca Sensación de sequedad en la garganta Labios resecos Lengua seca y áspera Llagas en la boca Infecciones en la boca La boca seca no es una parte normal del envejecimiento. Las causas pueden ser algunas medicinas, radioterapia, quimioterapia y daños a los nervios. Algunas enfermedades como los trastornos de las glándulas salivales, el síndrome de Sjögren, VIH/SIDA y diabetes también pueden causar sequedad bucal. El tratamiento depende de la causa. Lo que puede hacer es tomar sorbos frecuentes de agua o de bebidas sin azúcar, evitar bebidas con cafeína, el tabaco y el alcohol y masticar goma de mascar sin azúcar o chupar caramelos duros sin azúcar. NIH: Instituto Nacional de Investigación Dental y Craneofacial</dc:description>
+<dc:description xml:lang="en">Dry mouth is the feeling that there is not enough saliva in your mouth. Everyone has a dry mouth once in a while - if they are nervous, upset or under stress. But if you have a dry mouth all or most of the time, it can be uncomfortable and can lead to serious health problems. Symptoms of dry mouth include A sticky, dry feeling in the mouth Trouble chewing, swallowing, tasting, or speaking A burning feeling in the mouth A dry feeling in the throat Cracked lips A dry, rough tongue Mouth sores An infection in the mouth Dry mouth is not a normal part of aging. Causes include some medicines, radiation therapy, chemotherapy, and nerve damage. Salivary gland diseases, Sjogren's syndrome, HIV/AIDS, and diabetes can also cause dry mouth. Treatment depends on the cause. Things you can do include sipping water, avoiding drinks with caffeine, tobacco, and alcohol, and chewing sugarless gum or sucking on sugarless hard candy. NIH: National Institute of Dental and Craniofacial Research</dc:description>
+<dc:subject dcterms="mesh">Xerostomia</dc:subject>
+<dc:subject xml:lang="es">Boca seca</dc:subject>
+<dc:subject xml:lang="es">Xerostomía</dc:subject>
+<dc:subject xml:lang="en">Dry Mouth</dc:subject>
+<dc:subject xml:lang="en">Xerostomia</dc:subject>
+</metadata>
+</record>
+</MedlinePlus-document>

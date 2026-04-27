@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<MedlinePlus-document>
+<record>
+<header>
+<identifier>https://medlineplus.gov/diabetesmedicines.html</identifier>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title type="alternate" xml:lang="es">Diabetes, Medicinas</dc:title>
+<dc:title type="alternate" xml:lang="en">Insulin</dc:title>
+<dc:title type="alternate" xml:lang="en">Hypoglycemic Medicines</dc:title>
+<dc:type>Text</dc:type>
+<dc:language>spa</dc:language>
+<dc:language>eng</dc:language>
+<dc:title xml:lang="es">Medicinas para la diabetes</dc:title>
+<dc:title xml:lang="en">Diabetes Medicines</dc:title>
+<dc:publisher>National Library of Medicine</dc:publisher>
+<dc:relation type="IsPartOf">Diabetes Mellitus</dc:relation>
+<dc:relation type="IsPartOf">Endocrine System</dc:relation>
+<dc:relation type="IsPartOf">Drug Therapy</dc:relation>
+<dc:date type="created">2009-03-23</dc:date>
+<dc:date type="modified">2017-09-20</dc:date>
+<dc:identifier type="URL" xml:lang="es">https://medlineplus.gov/spanish/diabetesmedicines.html</dc:identifier>
+<dc:identifier type="URL" xml:lang="en">https://medlineplus.gov/diabetesmedicines.html</dc:identifier>
+<dc:description xml:lang="es">La diabetes significa que la glucosa o azúcar en su sangre, es demasiado alta. Si usted no puede controlar la diabetes con una buena alimentación y actividad física, tal vez necesite medicinas para la diabetes. El tipo de medicina que debe tomar depende del tipo de diabetes que tiene, de sus horarios y de sus otros problemas de salud. En la diabetes tipo 1, su páncreas no produce insulina. La insulina es una hormona que ayuda a la glucosa a entrar en sus células para darles energía. Sin insulina, demasiada glucosa se queda en la sangre. Si tiene diabetes tipo 1, tendrá que tomar insulina. La diabetes tipo 2, que es la más común, puede empezar cuando el cuerpo no usa la insulina como debería. Si su cuerpo no puede mantener los niveles necesarios de insulina, puede que tenga que tomar pastillas. En combinación con una dieta adecuada y actividad física, las pastillas para la diabetes ayudan a las personas con diabetes tipo 2 o con diabetes gestacional a mantener la glucosa en niveles adecuados. Hay varios tipos de pastillas disponibles. Cada una funciona de una manera diferente. Algunas personas toman dos o tres tipos de pastillas. Algunos toman pastillas combinadas. Estas pastillas contienen dos tipos de medicina para la diabetes en una tableta. Algunas personas toman pastillas e insulina. NIH: Instituto Nacional de la Diabetes y las Enfermedades Digestivas y Renales</dc:description>
+<dc:description xml:lang="en">Diabetes means your blood glucose, or blood sugar, levels are too high. If you can't control your diabetes with wise food choices and physical activity, you may need diabetes medicines. The kind of medicine you take depends on your type of diabetes, your schedule, and your other health conditions. With type 1 diabetes, your pancreas does not make insulin. Insulin is a hormone that helps glucose get into your cells to give them energy. Without insulin, too much glucose stays in your blood. If you have type 1 diabetes, you will need to take insulin. Type 2 diabetes, the most common type, can start when the body doesn't use insulin as it should. If your body can't keep up with the need for insulin, you may need to take pills. Along with meal planning and physical activity, diabetes pills help people with type 2 diabetes or gestational diabetes keep their blood glucose levels on target. Several kinds of pills are available. Each works in a different way. Many people take two or three kinds of pills. Some people take combination pills. Combination pills contain two kinds of diabetes medicine in one tablet. Some people take pills and insulin. NIH: National Institute of Diabetes and Digestive and Kidney Diseases</dc:description>
+<dc:subject dcterms="mesh">Insulins</dc:subject>
+<dc:subject dcterms="mesh">Insulin</dc:subject>
+<dc:subject dcterms="mesh">Hypoglycemic Agents</dc:subject>
+<dc:subject xml:lang="es">Medicinas para la diabetes</dc:subject>
+<dc:subject xml:lang="es">Diabetes</dc:subject>
+<dc:subject xml:lang="es">Medicinas</dc:subject>
+<dc:subject xml:lang="en">Diabetes Medicines</dc:subject>
+<dc:subject xml:lang="en">Insulin</dc:subject>
+<dc:subject xml:lang="en">Hypoglycemic Medicines</dc:subject>
+</metadata>
+</record>
+</MedlinePlus-document>

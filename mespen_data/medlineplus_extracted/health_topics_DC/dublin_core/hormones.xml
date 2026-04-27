@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<MedlinePlus-document>
+<record>
+<header>
+<identifier>https://medlineplus.gov/hormones.html</identifier>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:type>Text</dc:type>
+<dc:language>spa</dc:language>
+<dc:language>eng</dc:language>
+<dc:title xml:lang="es">Hormonas</dc:title>
+<dc:title xml:lang="en">Hormones</dc:title>
+<dc:publisher>National Library of Medicine</dc:publisher>
+<dc:relation type="IsPartOf">Endocrine System</dc:relation>
+<dc:date type="created">2002-07-21</dc:date>
+<dc:date type="modified">2018-02-05</dc:date>
+<dc:identifier type="URL" xml:lang="es">https://medlineplus.gov/spanish/hormones.html</dc:identifier>
+<dc:identifier type="URL" xml:lang="en">https://medlineplus.gov/hormones.html</dc:identifier>
+<dc:description xml:lang="es">Las hormonas son los mensajeros químicos del cuerpo. Viajan a través del torrente sanguíneo hacia los tejidos y órganos. Surten su efecto lentamente y, con el tiempo, afectan muchos procesos distintos, incluyendo: Crecimiento y desarrollo Metabolismo: cómo el cuerpo obtiene la energía de los alimentos que usted consume Función sexual Reproducción Estado de ánimo Las glándulas endocrinas, que son grupos especiales de células, producen las hormonas. Las principales glándulas endocrinas son la pituitaria, la glándula pineal, el timo, la tiroides, las glándulas suprarrenales y el páncreas. Además de lo anterior, los hombres producen hormonas en los testículos y las mujeres en los ovarios. Las hormonas son potentes. Se necesita solamente una cantidad mínima para provocar grandes cambios en las células o inclusive en todo el cuerpo. Es por ello que el exceso o la falta de una hormona específica puede ser serio. Las pruebas de laboratorio pueden medir los niveles hormonales con análisis de la sangre, la orina o la saliva. Su médico puede indicar estos exámenes si tiene síntomas de un trastorno hormonal. Las pruebas caseras de embarazo son similares - evalúan las hormonas del embarazo en la orina.</dc:description>
+<dc:description xml:lang="en">Hormones are your body's chemical messengers. They travel in your bloodstream to tissues or organs. They work slowly, over time, and affect many different processes, including Growth and development Metabolism - how your body gets energy from the foods you eat Sexual function Reproduction Mood Endocrine glands, which are special groups of cells, make hormones. The major endocrine glands are the pituitary, pineal, thymus, thyroid, adrenal glands, and pancreas. In addition, men produce hormones in their testes and women produce them in their ovaries. Hormones are powerful. It takes only a tiny amount to cause big changes in cells or even your whole body. That is why too much or too little of a certain hormone can be serious. Laboratory tests can measure the hormone levels in your blood, urine, or saliva. Your health care provider may perform these tests if you have symptoms of a hormone disorder. Home pregnancy tests are similar - they test for pregnancy hormones in your urine.</dc:description>
+<dc:subject dcterms="mesh">Hormones</dc:subject>
+<dc:subject xml:lang="es">Hormonas</dc:subject>
+<dc:subject xml:lang="en">Hormones</dc:subject>
+</metadata>
+</record>
+</MedlinePlus-document>

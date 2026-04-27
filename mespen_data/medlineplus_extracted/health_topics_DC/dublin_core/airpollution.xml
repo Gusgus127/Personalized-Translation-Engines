@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<MedlinePlus-document>
+<record>
+<header>
+<identifier>https://medlineplus.gov/airpollution.html</identifier>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:type>Text</dc:type>
+<dc:language>spa</dc:language>
+<dc:language>eng</dc:language>
+<dc:title xml:lang="es">Contaminación del aire</dc:title>
+<dc:title xml:lang="en">Air Pollution</dc:title>
+<dc:publisher>National Library of Medicine</dc:publisher>
+<dc:relation type="IsPartOf">Poisoning, Toxicology, Environmental Health</dc:relation>
+<dc:date type="created">2002-07-21</dc:date>
+<dc:date type="modified">2017-11-28</dc:date>
+<dc:identifier type="URL" xml:lang="es">https://medlineplus.gov/spanish/airpollution.html</dc:identifier>
+<dc:identifier type="URL" xml:lang="en">https://medlineplus.gov/airpollution.html</dc:identifier>
+<dc:description xml:lang="es">La contaminación del aire es una mezcla de partículas sólidas y gases en el aire. Las emisiones de los automóviles, los compuestos químicos de las fábricas, el polvo, el polen y las esporas de moho pueden estar suspendidas como partículas. El ozono, un gas, es un componente fundamental de la contaminación del aire en las ciudades. Cuando el ozono forma la contaminación del aire también se denomina smog. Algunos contaminantes del aire son tóxicos. Su inhalación puede aumentar las posibilidades de tener problemas de salud. Las personas con enfermedades del corazón o de pulmón, los adultos de más edad y los niños tienen mayor riesgo de tener problemas por la contaminación del aire. La polución del aire no ocurre solamente en el exterior: el aire en el interior de los edificios también puede estar contaminado y afectar su salud. Agencia de Protección Ambiental</dc:description>
+<dc:description xml:lang="en">Air pollution is a mixture of solid particles and gases in the air. Car emissions, chemicals from factories, dust, pollen and mold spores may be suspended as particles. Ozone, a gas, is a major part of air pollution in cities. When ozone forms air pollution, it's also called smog. Some air pollutants are poisonous. Inhaling them can increase the chance you'll have health problems. People with heart or lung disease, older adults and children are at greater risk from air pollution. Air pollution isn't just outside - the air inside buildings can also be polluted and affect your health. Environmental Protection Agency</dc:description>
+<dc:subject dcterms="mesh">Air Pollution</dc:subject>
+<dc:subject xml:lang="es">Contaminación del aire</dc:subject>
+<dc:subject xml:lang="en">Air Pollution</dc:subject>
+<dc:subject xml:lang="en">Pollution</dc:subject>
+</metadata>
+</record>
+</MedlinePlus-document>

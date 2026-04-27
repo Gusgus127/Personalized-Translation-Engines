@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<MedlinePlus-document>
+<record>
+<header>
+<identifier>https://medlineplus.gov/sodium.html</identifier>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title type="alternate" xml:lang="es">Sal en la dieta</dc:title>
+<dc:title type="alternate" xml:lang="en">Salt</dc:title>
+<dc:title type="alternate" xml:lang="en">Hyponatremia</dc:title>
+<dc:title type="alternate" xml:lang="en">Dietary Sodium</dc:title>
+<dc:type>Text</dc:type>
+<dc:language>spa</dc:language>
+<dc:language>eng</dc:language>
+<dc:title xml:lang="es">Sodio en la dieta</dc:title>
+<dc:title xml:lang="en">Sodium</dc:title>
+<dc:publisher>National Library of Medicine</dc:publisher>
+<dc:relation type="IsPartOf">Food and Nutrition</dc:relation>
+<dc:date type="created">2004-02-02</dc:date>
+<dc:date type="modified">2018-02-07</dc:date>
+<dc:identifier type="URL" xml:lang="es">https://medlineplus.gov/spanish/sodium.html</dc:identifier>
+<dc:identifier type="URL" xml:lang="en">https://medlineplus.gov/sodium.html</dc:identifier>
+<dc:description xml:lang="es">La sal de mesa está hecha de dos minerales, sodio y cloruro. El cuerpo necesita una determinada cantidad de sodio para funcionar adecuadamente, pues ayuda en la función de los nervios y los músculos. El sodio también ayuda a mantener un equilibrio adecuado de los líquidos. Los riñones controlan la cantidad de sodio presente en el cuerpo; si tiene demasiado y los riñones no pueden eliminarlo, se acumula en la sangre. Eso puede causar presión arterial alta. A su vez, la presión alta puede ocasionar otros problemas de salud. La mayoría de las personas en los Estados Unidos consume más sodio en su dieta de lo que necesita. Una clave para alimentarse sanamente es escoger alimentos con bajo contenido de sodio. Los directrices dietéticas recomiendan comer menos de 2.3 gramos por día. Eso equivale a una cucharadita de sal de mesa al día, aproximadamente. Algunas personas son más sensibles a los efectos de la sal que otras y deben comer menos. Estas incluyen a quienes tienen presión arterial alta, diabetes o problemas renales, o son afroamericanos o mayores de 50 años. Leer las etiquetas de los alimentos puede ayudarlo a saber la cantidad de sodio en los alimentos preparados. NIH: Instituto Nacional del Corazón, los Pulmones y la Sangre</dc:description>
+<dc:description xml:lang="en">Table salt is a combination of two minerals - sodium and chloride Your body needs some sodium to work properly. It helps with the function of nerves and muscles. It also helps to keep the right balance of fluids in your body. Your kidneys control how much sodium is in your body. If you have too much and your kidneys can't get rid it, sodium builds up in your blood. This can lead to high blood pressure. High blood pressure can lead to other health problems. Most people in the U.S. get more sodium in their diets than they need. A key to healthy eating is choosing foods low in sodium. The Dietary Guidelines recommend that most adults eat less than 2.3 grams per day. That equals about 1 teaspoon of table salt a day. Some people are more sensitive to the effects of salt than others and should eat less. This includes people who have high blood pressure, diabetes, or kidney problems, or are African-American or over age 50. Reading food labels can help you see how much sodium is in prepared foods. NIH: National Heart, Lung, and Blood Institute</dc:description>
+<dc:subject dcterms="mesh">Sodium, Dietary</dc:subject>
+<dc:subject dcterms="mesh">Sodium Chloride, Dietary</dc:subject>
+<dc:subject xml:lang="es">Sodio en la dieta</dc:subject>
+<dc:subject xml:lang="es">Sal en la dieta</dc:subject>
+<dc:subject xml:lang="en">Sodium</dc:subject>
+<dc:subject xml:lang="en">Salt</dc:subject>
+<dc:subject xml:lang="en">Hyponatremia</dc:subject>
+<dc:subject xml:lang="en">Dietary Sodium</dc:subject>
+</metadata>
+</record>
+</MedlinePlus-document>

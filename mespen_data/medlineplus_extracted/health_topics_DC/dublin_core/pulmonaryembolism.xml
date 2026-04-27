@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<MedlinePlus-document>
+<record>
+<header>
+<identifier>https://medlineplus.gov/pulmonaryembolism.html</identifier>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:type>Text</dc:type>
+<dc:language>spa</dc:language>
+<dc:language>eng</dc:language>
+<dc:title xml:lang="es">Embolia pulmonar</dc:title>
+<dc:title xml:lang="en">Pulmonary Embolism</dc:title>
+<dc:publisher>National Library of Medicine</dc:publisher>
+<dc:relation type="IsPartOf">Lungs and Breathing</dc:relation>
+<dc:date type="created">2002-07-21</dc:date>
+<dc:date type="modified">2018-01-05</dc:date>
+<dc:identifier type="URL" xml:lang="es">https://medlineplus.gov/spanish/pulmonaryembolism.html</dc:identifier>
+<dc:identifier type="URL" xml:lang="en">https://medlineplus.gov/pulmonaryembolism.html</dc:identifier>
+<dc:description xml:lang="es">Una embolia pulmonar es un bloqueo súbito de una arteria pulmonar. La causa suele ser un coágulo en la pierna llamado trombosis venosa profunda que se desprende y viaja por el torrente sanguíneo hasta el pulmón. La embolia pulmonar es un cuadro serio que puede causar: Un daño permanente en el pulmón afectado Bajos niveles de oxígeno en la sangre Lesiones en otros órganos del cuerpo por no recibir suficiente oxígeno Si el coágulo es grande, o si existen muchos coágulos, la embolia pulmonar puede provocar la muerte. La mitad de las personas que tiene embolia pulmonar no presenta síntomas. Si tiene síntomas, los mismos pueden incluir falta de aire, dolor torácico o tos con sangre. Los síntomas de un coágulo de sangre incluyen calor, inflamación, dolor, sensibilidad y enrojecimiento de la pierna. El objetivo del tratamiento es desprender los coágulos e impedir la formación de coágulos nuevos. NIH: Instituto Nacional del Corazón, los Pulmones y la Sangre</dc:description>
+<dc:description xml:lang="en">A pulmonary embolism is a sudden blockage in a lung artery. The cause is usually a blood clot in the leg called a deep vein thrombosis that breaks loose and travels through the bloodstream to the lung. Pulmonary embolism is a serious condition that can cause Permanent damage to the affected lung Low oxygen levels in your blood Damage to other organs in your body from not getting enough oxygen If a clot is large, or if there are many clots, pulmonary embolism can cause death. Half the people who have pulmonary embolism have no symptoms. If you do have symptoms, they can include shortness of breath, chest pain or coughing up blood. Symptoms of a blood clot include warmth, swelling, pain, tenderness and redness of the leg. The goal of treatment is to break up clots and help keep other clots from forming. NIH: National Heart, Lung, and Blood Institute</dc:description>
+<dc:subject dcterms="mesh">Pulmonary Embolism</dc:subject>
+<dc:subject xml:lang="es">Embolia pulmonar</dc:subject>
+<dc:subject xml:lang="en">Pulmonary Embolism</dc:subject>
+<dc:subject xml:lang="en">Blood Clots in the Lung</dc:subject>
+</metadata>
+</record>
+</MedlinePlus-document>

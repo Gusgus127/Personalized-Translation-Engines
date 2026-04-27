@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<MedlinePlus-document>
+<record>
+<header>
+<identifier>https://medlineplus.gov/divorce.html</identifier>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:type>Text</dc:type>
+<dc:language>spa</dc:language>
+<dc:language>eng</dc:language>
+<dc:title xml:lang="es">Divorcio</dc:title>
+<dc:title xml:lang="en">Divorce</dc:title>
+<dc:publisher>National Library of Medicine</dc:publisher>
+<dc:relation type="IsPartOf">Social/Family Issues</dc:relation>
+<dc:date type="created">2002-07-21</dc:date>
+<dc:date type="modified">2018-01-17</dc:date>
+<dc:identifier type="URL" xml:lang="es">https://medlineplus.gov/spanish/divorce.html</dc:identifier>
+<dc:identifier type="URL" xml:lang="en">https://medlineplus.gov/divorce.html</dc:identifier>
+<dc:description xml:lang="es">El divorcio es la disolución legal de un matrimonio. Como todo cambio importante en la vida, el divorcio es estresante. Afecta a las finanzas, la organización de la vida, las tareas del hogar, las rutinas y mucho más. Si la familia tiene niños, pueden ser profundamente afectados.</dc:description>
+<dc:description xml:lang="en">Divorce is the legal breakup of a marriage. Like every major life change, divorce is stressful. It affects finances, living arrangements, household jobs, schedules, and more. If the family includes children, they may be deeply affected.</dc:description>
+<dc:subject dcterms="mesh">Divorce</dc:subject>
+<dc:subject xml:lang="es">Divorcio</dc:subject>
+<dc:subject xml:lang="en">Divorce</dc:subject>
+</metadata>
+</record>
+</MedlinePlus-document>

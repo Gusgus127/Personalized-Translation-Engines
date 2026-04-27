@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<MedlinePlus-document>
+<record>
+<header>
+<identifier>https://medlineplus.gov/dehydration.html</identifier>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title type="alternate" xml:lang="es">Sed</dc:title>
+<dc:title type="alternate" xml:lang="en">Thirst</dc:title>
+<dc:type>Text</dc:type>
+<dc:language>spa</dc:language>
+<dc:language>eng</dc:language>
+<dc:title xml:lang="es">Deshidratación</dc:title>
+<dc:title xml:lang="en">Dehydration</dc:title>
+<dc:publisher>National Library of Medicine</dc:publisher>
+<dc:relation type="IsPartOf">Metabolic Problems</dc:relation>
+<dc:relation type="IsPartOf">Symptoms</dc:relation>
+<dc:date type="created">2013-01-03</dc:date>
+<dc:date type="modified">2018-01-10</dc:date>
+<dc:identifier type="URL" xml:lang="es">https://medlineplus.gov/spanish/dehydration.html</dc:identifier>
+<dc:identifier type="URL" xml:lang="en">https://medlineplus.gov/dehydration.html</dc:identifier>
+<dc:description xml:lang="es">Cuando usted está deshidratado, su cuerpo no tiene suficientes líquidos y electrolitos para funcionar bien. En promedio, una persona necesita diariamente cerca de tres cuartos de agua (2.8 litros). Pero si usted está en un lugar caluroso, expuesto al sol o haciendo mucho ejercicio, necesitará mucho más que eso. También puede deshidratarse si está vomitando, tiene diarrea o está sudando mucho. Las personas mayores, muy jóvenes o que tienen una enfermedad crónica tienen un riesgo mayor. Las señales de deshidratación en adultos incluyen: Tener sed Orinar con menos frecuencia de lo habitual Orina de color oscuro Piel seca Sentirse cansado Mareos y desmayos Los signos de deshidratación en bebés y niños pequeños incluyen boca y lengua secas, llanto sin lágrimas, no mojar el pañal por tres horas o más, fiebre alta y estar anormalmente dormido o somnoliento. Si usted cree que está deshidratado, tome pequeñas cantidades de agua de a poco. Tomar mucha agua de una sola vez puede llenar su estómago y hacerle vomitar. Si está haciendo ejercicio en ambientes calurosos y pierde muchos minerales al transpirar, las bebidas deportivas pueden ayudar. Evite cualquier líquido que contenga cafeína. NIH: Institutos Nacionales de la Salud</dc:description>
+<dc:description xml:lang="en">When you're dehydrated, your body doesn't have enough fluid and electrolytes to work properly. An average person on an average day needs about 3 quarts of water. But if you're out in the hot sun or are exercising a lot, you need a lot more than that. You can also become dehydrated if you are vomiting, have diarrhea, or are sweating a lot. People who are elderly, very young, taking certain medications, or have a chronic illness have a greater risk. Signs of dehydration in adults include Being thirsty Urinating less often than usual Dark-colored urine Dry skin Feeling tired Dizziness and fainting Signs of dehydration in babies and young children include a dry mouth and tongue, crying without tears, no wet diapers for 3 hours or more, a high fever and being unusually sleepy or drowsy. If you think you're dehydrated, drink small amounts of water over a period of time. Drinking too much all at once can overload your stomach and make you throw up. If you are exercising in the heat and losing a lot of minerals in sweat, sports drinks can be helpful. Avoid any drinks that have caffeine. NIH: National Institutes of Health</dc:description>
+<dc:subject dcterms="mesh">Dehydration</dc:subject>
+<dc:subject xml:lang="es">Deshidratación</dc:subject>
+<dc:subject xml:lang="es">Sed</dc:subject>
+<dc:subject xml:lang="en">Dehydration</dc:subject>
+<dc:subject xml:lang="en">Thirst</dc:subject>
+</metadata>
+</record>
+</MedlinePlus-document>

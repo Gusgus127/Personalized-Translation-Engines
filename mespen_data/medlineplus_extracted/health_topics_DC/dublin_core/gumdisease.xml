@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<MedlinePlus-document>
+<record>
+<header>
+<identifier>https://medlineplus.gov/gumdisease.html</identifier>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title type="alternate" xml:lang="es">Enfermedades periodontales</dc:title>
+<dc:title type="alternate" xml:lang="es">Periodontales, Enfermedades</dc:title>
+<dc:title type="alternate" xml:lang="es">Encías, Enfermedad de las</dc:title>
+<dc:title type="alternate" xml:lang="es">Placa</dc:title>
+<dc:title type="alternate" xml:lang="es">Retracción de las encías</dc:title>
+<dc:title type="alternate" xml:lang="en">Periodontal Disease</dc:title>
+<dc:title type="alternate" xml:lang="en">Plaque, Dental</dc:title>
+<dc:type>Text</dc:type>
+<dc:language>spa</dc:language>
+<dc:language>eng</dc:language>
+<dc:title xml:lang="es">Enfermedades de las encías</dc:title>
+<dc:title xml:lang="en">Gum Disease</dc:title>
+<dc:publisher>National Library of Medicine</dc:publisher>
+<dc:relation type="IsPartOf">Mouth and Teeth</dc:relation>
+<dc:date type="created">2002-07-21</dc:date>
+<dc:date type="modified">2017-12-04</dc:date>
+<dc:identifier type="URL" xml:lang="es">https://medlineplus.gov/spanish/gumdisease.html</dc:identifier>
+<dc:identifier type="URL" xml:lang="en">https://medlineplus.gov/gumdisease.html</dc:identifier>
+<dc:description xml:lang="es">Si tiene una enfermedad en las encías, usted no es el único. Muchos adultos en los Estados Unidos actualmente tienen alguna forma de la enfermedad. Varía desde una simple inflamación de las encías, llamada gingivitis, a graves daños en los tejidos y huesos que sostienen los dientes. En el peor de los casos, usted puede perder los dientes. En la gingivitis, las encías están enrojecidas e hinchadas. Pueden sangrar con facilidad. La gingivitis es una forma leve de enfermedad de las encías. Por lo general, se puede revertir con el cepillado diario y limpieza con hilo dental y limpiezas regulares por un dentista o higienista dental. La gingivitis no tratada puede llevar a la periodontitis. Si tiene periodontitis, las encías se despegan de los dientes y forman pequeñas bolsas que se infectan. De no tratarse, las encías y el tejido donde se apoyan los dientes se destruyen. NIH: Instituto Nacional de Investigación Dental y Craneofacial</dc:description>
+<dc:description xml:lang="en">If you have gum disease, you're not alone. Many U.S. adults currently have some form of the disease. It ranges from simple gum inflammation, called gingivitis, to serious damage to the tissue and bone supporting the teeth. In the worst cases, you can lose teeth. In gingivitis, the gums become red and swollen. They can bleed easily. Gingivitis is a mild form of gum disease. You can usually reverse it with daily brushing and flossing and regular cleanings by a dentist or dental hygienist. Untreated gingivitis can lead to periodontitis. If you have periodontitis, the gums pull away from the teeth and form pockets that become infected. If not treated, the bones, gums and connective tissue that support the teeth are destroyed. NIH: National Institute of Dental and Craniofacial Research</dc:description>
+<dc:subject dcterms="mesh">Gingival Diseases</dc:subject>
+<dc:subject xml:lang="es">Enfermedades de las encías</dc:subject>
+<dc:subject xml:lang="es">Enfermedades periodontales</dc:subject>
+<dc:subject xml:lang="es">Periodontales</dc:subject>
+<dc:subject xml:lang="es">Enfermedades</dc:subject>
+<dc:subject xml:lang="es">Encías</dc:subject>
+<dc:subject xml:lang="es">Enfermedad de las</dc:subject>
+<dc:subject xml:lang="es">Placa</dc:subject>
+<dc:subject xml:lang="es">Retracción de las encías</dc:subject>
+<dc:subject xml:lang="en">Gum Disease</dc:subject>
+<dc:subject xml:lang="en">Periodontal Disease</dc:subject>
+<dc:subject xml:lang="en">Plaque</dc:subject>
+<dc:subject xml:lang="en">Dental</dc:subject>
+</metadata>
+</record>
+</MedlinePlus-document>

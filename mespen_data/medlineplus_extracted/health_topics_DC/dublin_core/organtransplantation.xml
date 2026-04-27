@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<MedlinePlus-document>
+<record>
+<header>
+<identifier>https://medlineplus.gov/organtransplantation.html</identifier>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title type="alternate" xml:lang="es">Trasplante</dc:title>
+<dc:title type="alternate" xml:lang="en">Transplantation</dc:title>
+<dc:type>Text</dc:type>
+<dc:language>spa</dc:language>
+<dc:language>eng</dc:language>
+<dc:title xml:lang="es">Trasplante de órganos</dc:title>
+<dc:title xml:lang="en">Organ Transplantation</dc:title>
+<dc:publisher>National Library of Medicine</dc:publisher>
+<dc:relation type="IsPartOf">Transplantation and Donation</dc:relation>
+<dc:date type="created">2012-01-23</dc:date>
+<dc:date type="modified">2017-10-25</dc:date>
+<dc:identifier type="URL" xml:lang="es">https://medlineplus.gov/spanish/organtransplantation.html</dc:identifier>
+<dc:identifier type="URL" xml:lang="en">https://medlineplus.gov/organtransplantation.html</dc:identifier>
+<dc:description xml:lang="es">Usted puede necesitar un trasplante de órganos si uno de sus órganos no cumple con sus funciones. Esto puede ocurrir a causa de una enfermedad o lesión. Cuando se le realiza un trasplante de órganos, los médicos extirpan un órgano de otra persona y lo colocan en su cuerpo. El órgano puede provenir de un donante vivo o muerto. Corazón Intestino Riñón Hígado Pulmón Páncreas Las personas que necesitan un trasplante de órganos suelen tener que esperar el órgano durante un largo tiempo. Los médicos deben hacer coincidir a los donantes con los beneficiarios para reducir el riesgo de rechazo del trasplante. Eso ocurre cuando el cuerpo de quien recibe el órgano (beneficiario) niega el órgano nuevo, provocando que no funcione correctamente. Las personas a quienes se les realizó algún trasplante deben tomar medicamentos por el resto de sus vidas para ayudar a impedir que sus cuerpos rechacen el órgano nuevo.</dc:description>
+<dc:description xml:lang="en">You may need an organ transplant if one of your organs has failed. This can happen because of illness or injury. When you have an organ transplant, doctors remove an organ from another person and place it in your body. The organ may come from a living donor or a donor who has died. The organs that can be transplanted include Heart Intestine Kidney Liver Lung Pancreas You often have to wait a long time for an organ transplant. Doctors must match donors to recipients to reduce the risk of transplant rejection. Rejection happens when your immune system attacks the new organ. If you have a transplant, you must take drugs the rest of your life to help keep your body from rejecting the new organ.</dc:description>
+<dc:subject dcterms="mesh">Organ Transplantation</dc:subject>
+<dc:subject xml:lang="es">Trasplante de órganos</dc:subject>
+<dc:subject xml:lang="es">Trasplante</dc:subject>
+<dc:subject xml:lang="en">Organ Transplantation</dc:subject>
+<dc:subject xml:lang="en">Transplantation</dc:subject>
+</metadata>
+</record>
+</MedlinePlus-document>

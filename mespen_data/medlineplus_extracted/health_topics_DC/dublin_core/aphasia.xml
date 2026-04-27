@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<MedlinePlus-document>
+<record>
+<header>
+<identifier>https://medlineplus.gov/aphasia.html</identifier>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title type="alternate" xml:lang="es">Síndrome de Landau-Kleffner</dc:title>
+<dc:title type="alternate" xml:lang="es">Landau-Kleffner, Síndrome de</dc:title>
+<dc:type>Text</dc:type>
+<dc:language>spa</dc:language>
+<dc:language>eng</dc:language>
+<dc:title xml:lang="es">Afasia</dc:title>
+<dc:title xml:lang="en">Aphasia</dc:title>
+<dc:publisher>National Library of Medicine</dc:publisher>
+<dc:relation type="IsPartOf">Brain and Nerves</dc:relation>
+<dc:date type="created">2002-07-21</dc:date>
+<dc:date type="modified">2018-02-05</dc:date>
+<dc:identifier type="URL" xml:lang="es">https://medlineplus.gov/spanish/aphasia.html</dc:identifier>
+<dc:identifier type="URL" xml:lang="en">https://medlineplus.gov/aphasia.html</dc:identifier>
+<dc:description xml:lang="es">La afasia es un trastorno causado por lesiones en las partes del cerebro que controlan el lenguaje. Puede dificultar la lectura, la escritura y expresar lo que se desea decir. Es más común en los adultos que sufrieron un derrame. Otras causas pueden ser los tumores cerebrales, las infecciones, las lesiones y la demencia. El tipo de problema que tenga y la gravedad dependerán de la parte del cerebro que sufrió el daño y de la magnitud del mismo. Existen cuatro tipos principales: Afasia expresiva: el paciente sabe lo que quiere decir, pero tiene dificultad para decirlo o escribirlo Afasia receptiva: se escucha la voz o puede leer un impreso, pero no le encuentra sentido a lo que lee o escucha Afasia anómica: tiene dificultad para usar las palabras correctas para describir objetos, los lugares o los eventos Afasia global: el paciente no puede hablar, entender lo que se le dice, leer o escribir Algunas personas se recuperan de una afasia sin tratamiento. Sin embargo, la mayoría necesita terapia del lenguaje lo antes posible. NIH: Instituto Nacional de Trastornos Neurológicos y Accidentes Cerebrovasculares</dc:description>
+<dc:description xml:lang="en">Aphasia is a disorder caused by damage to the parts of the brain that control language. It can make it hard for you to read, write, and say what you mean to say. It is most common in adults who have had a stroke. Brain tumors, infections, injuries, and dementia can also cause it. The type of problem you have and how bad it is depends on which part of your brain is damaged and how much damage there is. There are four main types: Expressive aphasia - you know what you want to say, but you have trouble saying or writing what you mean Receptive aphasia - you hear the voice or see the print, but you can't make sense of the words Anomic aphasia - you have trouble using the correct word for objects, places, or events Global aphasia - you can't speak, understand speech, read, or write Some people recover from aphasia without treatment. Most, however, need language therapy as soon as possible. NIH: National Institute of Neurological Disorders and Stroke</dc:description>
+<dc:subject dcterms="mesh">Aphasia</dc:subject>
+<dc:subject xml:lang="es">Afasia</dc:subject>
+<dc:subject xml:lang="es">Síndrome de Landau-Kleffner</dc:subject>
+<dc:subject xml:lang="es">Landau-Kleffner</dc:subject>
+<dc:subject xml:lang="es">Síndrome de</dc:subject>
+<dc:subject xml:lang="en">Aphasia</dc:subject>
+</metadata>
+</record>
+</MedlinePlus-document>

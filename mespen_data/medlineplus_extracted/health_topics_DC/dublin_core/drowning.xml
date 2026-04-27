@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<MedlinePlus-document>
+<record>
+<header>
+<identifier>https://medlineplus.gov/drowning.html</identifier>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:type>Text</dc:type>
+<dc:language>spa</dc:language>
+<dc:language>eng</dc:language>
+<dc:title xml:lang="es">Ahogo</dc:title>
+<dc:title xml:lang="en">Drowning</dc:title>
+<dc:publisher>National Library of Medicine</dc:publisher>
+<dc:relation type="IsPartOf">Injuries and Wounds</dc:relation>
+<dc:date type="created">2002-07-21</dc:date>
+<dc:date type="modified">2018-01-09</dc:date>
+<dc:identifier type="URL" xml:lang="es">https://medlineplus.gov/spanish/drowning.html</dc:identifier>
+<dc:identifier type="URL" xml:lang="en">https://medlineplus.gov/drowning.html</dc:identifier>
+<dc:description xml:lang="es">Las personas se ahogan cuando tienen mucha agua en sus pulmones. Usted puede ahogarse en apenas una pulgada o dos de agua. Los bebés pueden ahogarse en una bañera o en un lavabo. Los preescolares tienen más probabilidades de ahogarse en las piscinas. Las personas con trastornos convulsivos también están en riesgo cuando están en el agua. El ahogamiento puede ocurrir en forma rápida y silenciosa. Las precauciones para evitar un ahogo deben incluir: Colocar cercas alrededor de las piscinas Supervisar a los niños cerca de cualquier cuerpo de agua, incluyendo bañeras No nadar o navegar cuando se encuentre bajo los efectos del alcohol o de sedantes Utilizar chalecos salvavidas para navegar Aprender resucitación cardiopulmonar</dc:description>
+<dc:description xml:lang="en">People drown when they get too much water in their lungs. You can drown in as little as an inch or two of water. Babies can drown in a sink or bathtub. Preschoolers are most likely to drown in a swimming pool. People who have seizure disorders are also at risk in the water. Drowning can happen quickly and silently. Drowning precautions should include Fences around pools Supervising children near any body of water, including tubs Not swimming or boating when under the influence of alcohol or sedatives Wearing life jackets when boating Learning CPR</dc:description>
+<dc:subject dcterms="mesh">Drowning</dc:subject>
+<dc:subject xml:lang="es">Ahogo</dc:subject>
+<dc:subject xml:lang="en">Drowning</dc:subject>
+</metadata>
+</record>
+</MedlinePlus-document>

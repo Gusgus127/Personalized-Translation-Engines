@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<MedlinePlus-document>
+<record>
+<header>
+<identifier>https://medlineplus.gov/dualdiagnosis.html</identifier>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:type>Text</dc:type>
+<dc:language>spa</dc:language>
+<dc:language>eng</dc:language>
+<dc:title xml:lang="es">Diagnóstico doble</dc:title>
+<dc:title xml:lang="en">Dual Diagnosis</dc:title>
+<dc:publisher>National Library of Medicine</dc:publisher>
+<dc:relation type="IsPartOf">Substance Abuse Problems</dc:relation>
+<dc:relation type="IsPartOf">Mental Health and Behavior</dc:relation>
+<dc:date type="created">2006-02-09</dc:date>
+<dc:date type="modified">2017-12-27</dc:date>
+<dc:identifier type="URL" xml:lang="es">https://medlineplus.gov/spanish/dualdiagnosis.html</dc:identifier>
+<dc:identifier type="URL" xml:lang="en">https://medlineplus.gov/dualdiagnosis.html</dc:identifier>
+<dc:description xml:lang="es">Una persona con diagnóstico doble tiene un problema mental y de alcohol o drogas al mismo tiempo. Estos problemas se dan juntos con frecuencia. Particularmente, los problemas con el alcohol y las drogas tienden a presentarse con: Depresión Trastornos de ansiedad Esquizofrenia Trastornos de la personalidad Algunas veces el problema mental es lo que primero sucede. La enfermedad mental puede hacer que la persona consuma alcohol o drogas que puedan hacerla sentirse mejor por poco tiempo. Otras veces el abuso de las sustancias ocurre antes. Con el tiempo, esto puede causar problemas emocionales y mentales. Una persona con diagnóstico doble debe tratar ambas condiciones. Para que el tratamiento sea efectivo, la persona no debe consumir alcohol o drogas. El tratamiento puede incluir terapia conductual, medicinas y grupos de apoyo. NIH: Instituto Nacional sobre el Abuso de Drogas</dc:description>
+<dc:description xml:lang="en">A person with dual diagnosis has both a mental disorder and an alcohol or drug problem. These conditions occur together frequently. In particular, alcohol and drug problems tend to occur with Depression Anxiety disorders Schizophrenia Personality disorders Sometimes the mental problem occurs first. This can lead people to use alcohol or drugs that make them feel better temporarily. Sometimes the substance abuse occurs first. Over time, that can lead to emotional and mental problems. Someone with a dual diagnosis must treat both conditions. For the treatment to be effective, the person needs to stop using alcohol or drugs. Treatments may include behavioral therapy, medicines, and support groups. NIH: National Institute on Drug Abuse</dc:description>
+<dc:subject dcterms="mesh">Diagnosis, Dual (Psychiatry)</dc:subject>
+<dc:subject xml:lang="es">Diagnóstico doble</dc:subject>
+<dc:subject xml:lang="en">Dual Diagnosis</dc:subject>
+</metadata>
+</record>
+</MedlinePlus-document>

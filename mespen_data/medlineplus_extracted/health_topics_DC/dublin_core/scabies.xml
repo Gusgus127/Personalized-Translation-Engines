@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<MedlinePlus-document>
+<record>
+<header>
+<identifier>https://medlineplus.gov/scabies.html</identifier>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:type>Text</dc:type>
+<dc:language>spa</dc:language>
+<dc:language>eng</dc:language>
+<dc:title xml:lang="es">Sarna</dc:title>
+<dc:title xml:lang="en">Scabies</dc:title>
+<dc:publisher>National Library of Medicine</dc:publisher>
+<dc:relation type="IsPartOf">Skin, Hair and Nails</dc:relation>
+<dc:relation type="IsPartOf">Infections</dc:relation>
+<dc:date type="created">2002-07-21</dc:date>
+<dc:date type="modified">2016-09-28</dc:date>
+<dc:identifier type="URL" xml:lang="es">https://medlineplus.gov/spanish/scabies.html</dc:identifier>
+<dc:identifier type="URL" xml:lang="en">https://medlineplus.gov/scabies.html</dc:identifier>
+<dc:description xml:lang="es">La sarna es un cuadro que causa picazón en la piel provocada por el ácaro microscópico Sarcoptes scabei. Es común en todo el mundo y afecta a las personas de todas las razas y clases sociales. La sarna se disemina rápidamente en lugares con mucha gente en los que hay contacto frecuente con la piel de otras personas. Los hospitales, los centros de cuidado infantil y los asilos de ancianos y convalecientes son algunos ejemplos. La sarna puede infectar fácilmente a las parejas sexuales y otros familiares en casa. Compartir ropa, toallas y sábanas también puede diseminarla. Las mascotas no diseminan la sarna. Las mascotas adquieren un tipo diferente de infección llamada sarna animal. Los síntomas son: Irritación o erupción parecida a las espinillas Picazón intensa, especialmente durante la noche Llagas causadas por rascarse Su proveedor de cuidados de salud puede diagnosticar la sarna observando el sarpullido y los pequeños túneles que dejan los ácaros en la piel. Existen varias lociones disponibles para tratar la sarna. La ropa, las sábanas y las toallas de la persona infectada deberán lavarse en agua caliente y secarse en una secadora con calor. Este tratamiento se recomienda también para las otras personas que viven en el hogar y para las parejas íntimas. Centros para el Control y la Prevención de Enfermedades</dc:description>
+<dc:description xml:lang="en">Scabies is an itchy skin condition caused by the microscopic mite Sarcoptes scabei. It is common all over the world, and can affect anyone. Scabies spreads quickly in crowded conditions where there is frequent skin-to-skin contact between people. Hospitals, child-care centers, and nursing homes are examples. Scabies can easily infect sex partners and other household members. Sharing clothes, towels, and bedding can sometimes spread scabies. This can happen much more easily when the infested person has crusted scabies. You cannot get scabies from a pet. Pets get a different mite infection called mange. Symptoms are Pimple-like irritations or a rash Intense itching, especially at night Sores caused by scratching Your health care provider diagnoses scabies by looking at the skin rash and finding burrows in the skin. Several lotions are available to treat scabies. The infected person's clothes, bedding and towels should be washed in hot water and dried in a hot dryer. Treatment is also recommended for household members and sexual partners. Centers for Disease Control and Prevention</dc:description>
+<dc:subject dcterms="mesh">Scabies</dc:subject>
+<dc:subject xml:lang="es">Sarna</dc:subject>
+<dc:subject xml:lang="en">Scabies</dc:subject>
+</metadata>
+</record>
+</MedlinePlus-document>

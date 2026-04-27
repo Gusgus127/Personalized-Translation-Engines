@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<MedlinePlus-document>
+<record>
+<header>
+<identifier>https://medlineplus.gov/bursitis.html</identifier>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:type>Text</dc:type>
+<dc:language>spa</dc:language>
+<dc:language>eng</dc:language>
+<dc:title xml:lang="es">Bursitis</dc:title>
+<dc:title xml:lang="en">Bursitis</dc:title>
+<dc:publisher>National Library of Medicine</dc:publisher>
+<dc:relation type="IsPartOf">Bones, Joints and Muscles</dc:relation>
+<dc:date type="created">2002-07-21</dc:date>
+<dc:date type="modified">2017-12-19</dc:date>
+<dc:identifier type="URL" xml:lang="es">https://medlineplus.gov/spanish/bursitis.html</dc:identifier>
+<dc:identifier type="URL" xml:lang="en">https://medlineplus.gov/bursitis.html</dc:identifier>
+<dc:description xml:lang="es">Una bursa es una bolsa pequeña que protege y amortigua los huesos y otras partes del cuerpo como los músculos, tendones o piel. La inflamación de la bursa se llama bursitis y se produce cuando se usa demasiado una articulación o por una lesión. Generalmente, se presenta en las rodillas o codos. Arrodillarse o apoyar los codos en una superficie dura por mucho tiempo puede desencadenar una bursitis. También, usar una articulación para hacer el mismo movimiento una y otra vez, puede agregar tensión e incrementar el riesgo. Los síntomas de la bursitis incluyen dolor e hinchazón. El doctor puede diagnosticarla con un examen físico y otros exámenes como rayos X y resonancias magnéticas. También puede tomar muestras de fluidos (líquidos) del área inflamada para descartar una infección. Por lo general la bursitis puede tratarse con reposo, hielo o medicinas. Si esto no ayuda, el doctor puede decidir inyectar un medicamento localizado, en el área alrededor de la bursa inflamada. Si aún así la bursitis no mejora dentro de los 6 a 12 meses, puede ser necesaria una cirugía para reparar el daño a los nervios y aliviar la presión sobre la bursa. Instituto Nacional de Artritis y Enfermedades Musculoesqueléticas y de la Piel</dc:description>
+<dc:description xml:lang="en">A bursa is a small, fluid-filled sac that acts as a cushion between a bone and other moving parts, such as muscles, tendons, or skin. Bursitis occurs when a bursa becomes inflamed. People get bursitis by overusing a joint. It can also be caused by an injury. It usually occurs at the knee or elbow. Kneeling or leaning your elbows on a hard surface for a long time can make bursitis start. Doing the same kinds of movements every day or putting stress on joints increases your risk. Symptoms of bursitis include pain and swelling. Your doctor will diagnose bursitis with a physical exam and tests such as x-rays and MRIs. He or she may also take fluid from the swollen area to be sure the problem isn't an infection. Treatment of bursitis includes rest, pain medicines, or ice. If there is no improvement, your doctor may inject a drug into the area around the swollen bursa. If the joint still does not improve after 6 to 12 months, you may need surgery to repair damage and relieve pressure on the bursa. NIH: National Institute of Arthritis and Musculoskeletal and Skin Diseases</dc:description>
+<dc:subject dcterms="mesh">Bursitis</dc:subject>
+<dc:subject xml:lang="es">Bursitis</dc:subject>
+<dc:subject xml:lang="en">Bursitis</dc:subject>
+</metadata>
+</record>
+</MedlinePlus-document>

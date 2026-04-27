@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<MedlinePlus-document>
+<record>
+<header>
+<identifier>https://medlineplus.gov/headlice.html</identifier>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title type="alternate" xml:lang="es">Pediculosis</dc:title>
+<dc:type>Text</dc:type>
+<dc:language>spa</dc:language>
+<dc:language>eng</dc:language>
+<dc:title xml:lang="es">Piojos de la cabeza</dc:title>
+<dc:title xml:lang="en">Head Lice</dc:title>
+<dc:publisher>National Library of Medicine</dc:publisher>
+<dc:relation type="IsPartOf">Children and Teenagers</dc:relation>
+<dc:relation type="IsPartOf">Infections</dc:relation>
+<dc:relation type="IsPartOf">Skin, Hair and Nails</dc:relation>
+<dc:date type="created">2002-07-21</dc:date>
+<dc:date type="modified">2017-05-31</dc:date>
+<dc:identifier type="URL" xml:lang="es">https://medlineplus.gov/spanish/headlice.html</dc:identifier>
+<dc:identifier type="URL" xml:lang="en">https://medlineplus.gov/headlice.html</dc:identifier>
+<dc:description xml:lang="es">Los piojos son insectos parásitos sin alas. Viven en las cabezas de las personas y se alimentan de su sangre. Un piojo adulto es del tamaño de una semilla de sésamo. Los huevos, llamados liendres, son aún más pequeños, como del tamaño de un nudo de hilo. Los piojos y las liendres se encuentran en o cerca del cuero cabelludo, con mayor frecuencia en el cuello y detrás de las orejas. Los piojos se propagan de persona a persona por contacto cercano. Es posible, pero poco común, contagiarse los piojos al compartir objetos personales como sombreros o cepillos para el cabello. Los niños de tres a 11 años y sus familias adquieren piojos con mayor frecuencia. Nada tiene que ver la higiene personal con tener piojos. Los piojos no transmiten enfermedades. Los síntomas son: Sensación de cosquilleo en el cabello Picazón frecuente Irritación al rascarse Irritabilidad y dificultad para dormir. Los piojos son más activos en la oscuridad El tratamiento para los piojos de la cabeza se recomienda para todas las personas con una infestación activa. Todos los miembros del hogar y personas cercanas deben revisarse y tratarse de ser necesario. Algunos expertos también recomiendan el tratamiento de cualquier persona que comparte la cama con una persona infestada. Es importante tratar a todos al mismo tiempo. Centros para el Control y Prevención de Enfermedades</dc:description>
+<dc:description xml:lang="en">Head lice are parasitic wingless insects. They live on people's heads and feed on their blood. An adult louse is about the size of a sesame seed. The eggs, called nits, are even smaller - about the size of a knot in thread. Lice and nits are found on or near the scalp, most often at the neckline and behind the ears. Lice spread by close person-to-person contact. It is possible, but not common, to get lice by sharing personal belongings such as hats or hairbrushes. Children ages 3-11 and their families get head lice most often. Personal hygiene has nothing to do with getting head lice. Head lice do not spread disease. Symptoms are Tickling feeling in the hair Frequent itching Sores from scratching Irritability and difficulty sleeping. Head lice are most active in the dark. Treatment is recommended for people who have an active infestation of head lice. All household members and other close contacts should be checked and treated if necessary. Some experts also recommend treating anyone who shares a bed with an infested person. It is important to treat everyone at the same time. Centers for Disease Control and Prevention</dc:description>
+<dc:subject dcterms="mesh">Pediculus</dc:subject>
+<dc:subject xml:lang="es">Piojos de la cabeza</dc:subject>
+<dc:subject xml:lang="es">Pediculosis</dc:subject>
+<dc:subject xml:lang="en">Head Lice</dc:subject>
+</metadata>
+</record>
+</MedlinePlus-document>

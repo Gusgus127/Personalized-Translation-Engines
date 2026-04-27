@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<MedlinePlus-document>
+<record>
+<header>
+<identifier>https://medlineplus.gov/spleendiseases.html</identifier>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title type="alternate" xml:lang="es">Bazo, Enfermedades del</dc:title>
+<dc:title type="alternate" xml:lang="en">Splenomegaly</dc:title>
+<dc:title type="alternate" xml:lang="en">Splenic Diseaess</dc:title>
+<dc:type>Text</dc:type>
+<dc:language>spa</dc:language>
+<dc:language>eng</dc:language>
+<dc:title xml:lang="es">Enfermedades del bazo</dc:title>
+<dc:title xml:lang="en">Spleen Diseases</dc:title>
+<dc:publisher>National Library of Medicine</dc:publisher>
+<dc:relation type="IsPartOf">Immune System</dc:relation>
+<dc:date type="created">2002-07-21</dc:date>
+<dc:date type="modified">2017-09-25</dc:date>
+<dc:identifier type="URL" xml:lang="es">https://medlineplus.gov/spanish/spleendiseases.html</dc:identifier>
+<dc:identifier type="URL" xml:lang="en">https://medlineplus.gov/spleendiseases.html</dc:identifier>
+<dc:description xml:lang="es">El bazo es un órgano que se encuentra en su costado izquierdo, por arriba del estómago y debajo de las costillas. Tiene el tamaño aproximado de su puño. El bazo forma parte del sistema linfático, que combate las infecciones y mantiene el equilibrio de los líquidos del cuerpo. Contiene los glóbulos blancos que luchan contra los gérmenes. El bazo también ayuda a controlar la cantidad de sangre del organismo y destruye las células envejecidas y dañadas. Algunas enfermedades pueden provocar una inflamación del bazo. Los traumatismos también pueden lesionar o romper el bazo, especialmente si ya está inflamado. Si el bazo se encuentra muy afectado, es posible que sea necesaria una extirpación quirúrgica. Se puede vivir sin el bazo. Otros órganos, como el hígado, harán algunas de las funciones del bazo. Sin embargo, sin el bazo, el cuerpo perderá parte de su capacidad para combatir las infecciones.</dc:description>
+<dc:description xml:lang="en">Your spleen is an organ above your stomach and under your ribs on your left side. It is about as big as your fist. The spleen is part of your lymphatic system, which fights infection and keeps your body fluids in balance. It contains white blood cells that fight germs. Your spleen also helps control the amount of blood in your body, and destroys old and damaged cells. Certain diseases might cause your spleen to swell. You can also damage or rupture your spleen in an injury, especially if it is already swollen. If your spleen is too damaged, you might need surgery to remove it. You can live without a spleen. Other organs, such as your liver, will take over some of the spleen's work. Without a spleen, however, your body will lose some of its ability to fight infections.</dc:description>
+<dc:subject dcterms="mesh">Splenic Diseases</dc:subject>
+<dc:subject xml:lang="es">Enfermedades del bazo</dc:subject>
+<dc:subject xml:lang="es">Bazo</dc:subject>
+<dc:subject xml:lang="es">Enfermedades del</dc:subject>
+<dc:subject xml:lang="en">Spleen Diseases</dc:subject>
+<dc:subject xml:lang="en">Splenomegaly</dc:subject>
+<dc:subject xml:lang="en">Splenic Diseaess</dc:subject>
+</metadata>
+</record>
+</MedlinePlus-document>

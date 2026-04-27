@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<MedlinePlus-document>
+<record>
+<header>
+<identifier>https://medlineplus.gov/infectiousmononucleosis.html</identifier>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title type="alternate" xml:lang="es">Epstein-Barr</dc:title>
+<dc:title type="alternate" xml:lang="es">Beso, Enfermedad del</dc:title>
+<dc:title type="alternate" xml:lang="es">Enfermedad del beso</dc:title>
+<dc:title type="alternate" xml:lang="en">Glandular Fever</dc:title>
+<dc:title type="alternate" xml:lang="en">Mononucleosis</dc:title>
+<dc:title type="alternate" xml:lang="en">Epstein-Barr Virus Infections</dc:title>
+<dc:title type="alternate" xml:lang="en">EBV Infections</dc:title>
+<dc:title type="alternate" xml:lang="en">Mono</dc:title>
+<dc:type>Text</dc:type>
+<dc:language>spa</dc:language>
+<dc:language>eng</dc:language>
+<dc:title xml:lang="es">Mononucleosis infecciosa</dc:title>
+<dc:title xml:lang="en">Infectious Mononucleosis</dc:title>
+<dc:publisher>National Library of Medicine</dc:publisher>
+<dc:relation type="IsPartOf">Immune System</dc:relation>
+<dc:relation type="IsPartOf">Infections</dc:relation>
+<dc:date type="created">2002-07-21</dc:date>
+<dc:date type="modified">2017-12-27</dc:date>
+<dc:identifier type="URL" xml:lang="es">https://medlineplus.gov/spanish/infectiousmononucleosis.html</dc:identifier>
+<dc:identifier type="URL" xml:lang="en">https://medlineplus.gov/infectiousmononucleosis.html</dc:identifier>
+<dc:description xml:lang="es">La mononucleosis infecciosa es una infección causada, por lo general, por el virus de Epstein-Barr. El virus se disemina a través de la saliva y es por ello que a veces se la llama "enfermedad del beso." La mononucleosis ocurre con mayor frecuencia en adolescentes y adultos jóvenes. Sin embargo, se puede tener a cualquier edad. Los síntomas de mononucleosis incluyen: Fiebre Dolor de garganta Ganglios linfáticos inflamados Algunas veces también el bazo puede inflamarse. Los problemas serios son poco frecuentes. Un análisis de sangre puede demostrar si tiene mononucleosis. La mayoría de las personas mejora en dos a cuatro semanas. Sin embargo, puede sentir cansancio durante algunos meses después. El tratamiento se enfoca en mejorar los síntomas e incluye analgésicos y medicinas para la fiebre, gárgaras con agua tibia y sal, abundantes líquidos y mucho reposo.</dc:description>
+<dc:description xml:lang="en">Infectious mononucleosis, or "mono", is an infection usually caused by the Epstein-Barr virus. The virus spreads through saliva, which is why it's sometimes called "kissing disease." Mono occurs most often in teens and young adults. However, you can get it at any age. Symptoms of mono include Fever Sore throat Swollen lymph glands Sometimes you may also have a swollen spleen. Serious problems are rare. A blood test can show if you have mono. Most people get better in two to four weeks. However, you may feel tired for a few months afterward. Treatment focuses on helping symptoms and includes medicines for pain and fever, warm salt water gargles and plenty of rest and fluids.</dc:description>
+<dc:subject dcterms="mesh">Infectious Mononucleosis</dc:subject>
+<dc:subject xml:lang="es">Mononucleosis infecciosa</dc:subject>
+<dc:subject xml:lang="es">Epstein-Barr</dc:subject>
+<dc:subject xml:lang="es">Beso</dc:subject>
+<dc:subject xml:lang="es">Enfermedad del</dc:subject>
+<dc:subject xml:lang="es">Enfermedad del beso</dc:subject>
+<dc:subject xml:lang="en">Infectious Mononucleosis</dc:subject>
+<dc:subject xml:lang="en">Glandular Fever</dc:subject>
+<dc:subject xml:lang="en">Mononucleosis</dc:subject>
+<dc:subject xml:lang="en">Epstein-Barr Virus Infections</dc:subject>
+<dc:subject xml:lang="en">EBV Infections</dc:subject>
+<dc:subject xml:lang="en">Mono</dc:subject>
+</metadata>
+</record>
+</MedlinePlus-document>

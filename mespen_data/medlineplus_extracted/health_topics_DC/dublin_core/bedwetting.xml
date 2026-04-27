@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<MedlinePlus-document>
+<record>
+<header>
+<identifier>https://medlineplus.gov/bedwetting.html</identifier>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title type="alternate" xml:lang="es">Encopresis</dc:title>
+<dc:title type="alternate" xml:lang="es">Enuresis</dc:title>
+<dc:title type="alternate" xml:lang="es">Incontinencia en niños de noche</dc:title>
+<dc:title type="alternate" xml:lang="es">Incontinencia de noche</dc:title>
+<dc:title type="alternate" xml:lang="en">Enuresis</dc:title>
+<dc:title type="alternate" xml:lang="en">Nocturnal Enuresis</dc:title>
+<dc:type>Text</dc:type>
+<dc:language>spa</dc:language>
+<dc:language>eng</dc:language>
+<dc:title xml:lang="es">Mojar la cama</dc:title>
+<dc:title xml:lang="en">Bedwetting</dc:title>
+<dc:publisher>National Library of Medicine</dc:publisher>
+<dc:relation type="IsPartOf">Children and Teenagers</dc:relation>
+<dc:date type="created">2002-07-21</dc:date>
+<dc:date type="modified">2017-11-13</dc:date>
+<dc:identifier type="URL" xml:lang="es">https://medlineplus.gov/spanish/bedwetting.html</dc:identifier>
+<dc:identifier type="URL" xml:lang="en">https://medlineplus.gov/bedwetting.html</dc:identifier>
+<dc:description xml:lang="es">Muchos niños se orinan en la cama hasta los cinco años de edad o más. La vejiga del niño puede ser demasiado pequeña. También puede ser que la cantidad de orina producida durante la noche sea mayor que la capacidad de la vejiga. Algunos niños duermen muy profundamente o necesitan más tiempo para aprender a controlar la vejiga. El estrés también puede ser un factor. Los niños no deben ser castigados por orinarse en la cama. No lo hacen a propósito y la mayoría lo supera. Acuda al médico si su hijo tiene siete años o más y moja la cama más de dos o tres veces en una semana. El médico buscará y tratará cualquier otro problema de salud que podría causar la enuresis, como se llama a mojar la cama. Las alarmas para enuresis, entrenamiento de la vejiga y los medicamentos pueden ayudar con el problema. Instituto Nacional de la Diabetes y las Enfermedades Digestivas y Renales</dc:description>
+<dc:description xml:lang="en">Many children wet the bed until they are 5 or even older. A child's bladder might be too small. Or the amount of urine produced overnight can be more than the bladder can hold. Some children sleep too deeply or take longer to learn bladder control. Stress can also be a factor. Children should not be punished for wetting the bed. They don't do it on purpose, and most outgrow it. Call the doctor if your child is 7 years old or older and wets the bed more than two or three times in a week. The doctor will look for and treat any other heath problems that could cause the bedwetting. Bedwetting alarms, bladder training, and medicines might help with the bedwetting. NIH: National Institute of Diabetes and Digestive and Kidney Diseases</dc:description>
+<dc:subject dcterms="mesh">Enuresis</dc:subject>
+<dc:subject xml:lang="es">Mojar la cama</dc:subject>
+<dc:subject xml:lang="es">Encopresis</dc:subject>
+<dc:subject xml:lang="es">Enuresis</dc:subject>
+<dc:subject xml:lang="es">Incontinencia en niños de noche</dc:subject>
+<dc:subject xml:lang="es">Incontinencia de noche</dc:subject>
+<dc:subject xml:lang="en">Bedwetting</dc:subject>
+<dc:subject xml:lang="en">Enuresis</dc:subject>
+<dc:subject xml:lang="en">Nocturnal Enuresis</dc:subject>
+</metadata>
+</record>
+</MedlinePlus-document>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<MedlinePlus-document>
+<record>
+<header>
+<identifier>https://medlineplus.gov/ctscans.html</identifier>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:type>Text</dc:type>
+<dc:language>spa</dc:language>
+<dc:language>eng</dc:language>
+<dc:title xml:lang="es">Tomografía computarizada</dc:title>
+<dc:title xml:lang="en">CT Scans</dc:title>
+<dc:publisher>National Library of Medicine</dc:publisher>
+<dc:relation type="IsPartOf">Diagnostic Tests</dc:relation>
+<dc:date type="created">2005-01-06</dc:date>
+<dc:date type="modified">2018-02-07</dc:date>
+<dc:identifier type="URL" xml:lang="es">https://medlineplus.gov/spanish/ctscans.html</dc:identifier>
+<dc:identifier type="URL" xml:lang="en">https://medlineplus.gov/ctscans.html</dc:identifier>
+<dc:description xml:lang="es">La tomografía computarizada (TC) es una tecnología para diagnóstico con imágenes. Utiliza un equipo de rayos X especial para crear imágenes transversales del cuerpo. Entre los usos de la TC se incluye la exploración de: Huesos fracturados Cánceres Coágulos de sangre Signos de enfermedad cardiaca Hemorragia interna Durante un procedimiento de TC, el paciente permanece inmóvil sobre una mesa. La mesa pasa lentamente a través del centro de una gran máquina de rayos X. El procedimiento no causa dolor. Durante ciertas pruebas, el paciente recibe un tinte de contraste que ayuda a que algunas partes del cuerpo se vean mejor en la imagen. NIH: Instituto Nacional del Cáncer</dc:description>
+<dc:description xml:lang="en">Computed tomography (CT) is a type of imaging. It uses special x-ray equipment to make cross-sectional pictures of your body. Doctors use CT scans to look for Broken bones Cancers Blood clots Signs of heart disease Internal bleeding During a CT scan, you lie still on a table. The table slowly passes through the center of a large X-ray machine. The test is painless. During some tests you receive a contrast dye, which makes parts of your body show up better in the image. NIH: National Cancer Institute</dc:description>
+<dc:subject dcterms="mesh">Tomography, X-Ray Computed</dc:subject>
+<dc:subject xml:lang="es">Tomografía computarizada</dc:subject>
+<dc:subject xml:lang="en">CT Scans</dc:subject>
+<dc:subject xml:lang="en">CAT Scans</dc:subject>
+</metadata>
+</record>
+</MedlinePlus-document>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<MedlinePlus-document>
+<record>
+<header>
+<identifier>https://medlineplus.gov/urethraldisorders.html</identifier>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title type="alternate" xml:lang="es">Uretra, Trastornos de la</dc:title>
+<dc:title type="alternate" xml:lang="es">Uretral, Cáncer</dc:title>
+<dc:title type="alternate" xml:lang="en">Urethral Cancer</dc:title>
+<dc:type>Text</dc:type>
+<dc:language>spa</dc:language>
+<dc:language>eng</dc:language>
+<dc:title xml:lang="es">Trastornos de la uretra</dc:title>
+<dc:title xml:lang="en">Urethral Disorders</dc:title>
+<dc:publisher>National Library of Medicine</dc:publisher>
+<dc:relation type="IsPartOf">Kidneys and Urinary System</dc:relation>
+<dc:date type="created">2010-01-08</dc:date>
+<dc:date type="modified">2017-01-24</dc:date>
+<dc:identifier type="URL" xml:lang="es">https://medlineplus.gov/spanish/urethraldisorders.html</dc:identifier>
+<dc:identifier type="URL" xml:lang="en">https://medlineplus.gov/urethraldisorders.html</dc:identifier>
+<dc:description xml:lang="es">La uretra es un tubo que permite a la orina salir del cuerpo. En los hombres, la uretra es un tubo largo que corre a lo largo del pene. En las mujeres, la uretra es corta. Las causas de los problemas de la uretra pueden ser envejecimiento, enfermedad o lesión. Estos incluyen: Cáncer de la uretra: Un tipo raro de cáncer que afecta con más frecuencia a hombres Estenosis uretral: Estrechamiento de la abertura de la uretra Uretritis: Inflamación de la uretra, a veces causada por una infección Los problemas de la uretra pueden causar dolor o dificultad para orinar. Usted también puede presentar sangrado o secreción por la uretra. Los doctores diagnostican los problemas uretrales con varios exámenes. Estos incluyen análisis de orina, rayos X y un examen con una sonda especial con una pequeña cámara en su extremo llamado cistoscopia. El tratamiento depende de la causa del problema. Puede incluir medicinas y, en casos severos, cirugía.</dc:description>
+<dc:description xml:lang="en">The urethra is the tube that allows urine to pass out of the body. In men, it's a long tube that runs through the penis. It also carries semen in men. In women, it's short and is just above the vagina. Urethral problems may happen due to aging, illness, or injury. They include Urethral cancer - a rare cancer that happens more often in men Urethral stricture - a narrowing of the opening of the urethra Urethritis - inflammation of the urethra, sometimes caused by infection Urethral problems may cause pain or difficulty passing urine. You may also have bleeding or discharge from the urethra. Doctors diagnose urethral problems using different tests. These include urine tests, x-rays and an examination of the urethra with a scope called a cystoscope. Treatment depends on the cause of the problem. It may include medicines and, in severe cases, surgery.</dc:description>
+<dc:subject dcterms="mesh">Urethral Diseases</dc:subject>
+<dc:subject xml:lang="es">Trastornos de la uretra</dc:subject>
+<dc:subject xml:lang="es">Uretra</dc:subject>
+<dc:subject xml:lang="es">Trastornos de la</dc:subject>
+<dc:subject xml:lang="es">Uretral</dc:subject>
+<dc:subject xml:lang="es">Cáncer</dc:subject>
+<dc:subject xml:lang="en">Urethral Disorders</dc:subject>
+<dc:subject xml:lang="en">Urethral Cancer</dc:subject>
+</metadata>
+</record>
+</MedlinePlus-document>

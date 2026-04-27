@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<MedlinePlus-document>
+<record>
+<header>
+<identifier>https://medlineplus.gov/mrsa.html</identifier>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title type="alternate" xml:lang="es">Staphylococcus aureus resistente a meticilina</dc:title>
+<dc:title type="alternate" xml:lang="es">Estafilococo aureus resistente a la meticilina</dc:title>
+<dc:title type="alternate" xml:lang="es">Estafilococo resistente a la meticilina</dc:title>
+<dc:title type="alternate" xml:lang="es">SARM</dc:title>
+<dc:title type="alternate" xml:lang="en">Methicillin Resistant Staphylococcus Aureus</dc:title>
+<dc:type>Text</dc:type>
+<dc:language>spa</dc:language>
+<dc:language>eng</dc:language>
+<dc:title xml:lang="es">Infecciones por estafilococo resistente a la meticilina</dc:title>
+<dc:title xml:lang="en">MRSA</dc:title>
+<dc:publisher>National Library of Medicine</dc:publisher>
+<dc:relation type="IsPartOf">Infections</dc:relation>
+<dc:date type="created">2008-05-29</dc:date>
+<dc:date type="modified">2017-05-31</dc:date>
+<dc:identifier type="URL" xml:lang="es">https://medlineplus.gov/spanish/mrsa.html</dc:identifier>
+<dc:identifier type="URL" xml:lang="en">https://medlineplus.gov/mrsa.html</dc:identifier>
+<dc:description xml:lang="es">SARM (MRSA en inglés) son las siglas en español para las infecciones por estafilococo aureus resistente a la meticiclina. Esta bacteria provoca infecciones que son resistentes a varios antibióticos comunes. Existen dos tipos de esta infección: la SARM hospitalaria, que es la que ocurre en las personas que se encuentran en hospitales o centros de cuidado de la salud y la SARM adquirida en la comunidad que es la que se presenta en personas que tienen contacto directo y cercano con otras personas, tales como los atletas que practican fútbol americano o lucha. Para detener la SARM en los hospitales es importante un eficiente control de la infección. Para prevenir la SARM adquirida en la comunidad: Ponga en práctica las buenas costumbres de higiene Mantenga las cortaduras o los arañazos limpios y cubiertos con un vendaje hasta su curación Evite el contacto con las heridas o las vendas de otras personas Evite compartir artículos personales, como toallas, toallitas faciales, rasuradoras o ropa Lave las sábanas, las toallas y la ropa contaminada en agua caliente con cloro y séquelas en una secadora de calor Si una herida parece estar infectada, consulte a un profesional de la salud. El tratamiento puede incluir drenar la infección y tomar antibióticos. NIH: Instituto Nacional de Alergias y Enfermedades Infecciosas</dc:description>
+<dc:description xml:lang="en">MRSA stands for methicillin-resistant Staphylococcus aureus. It causes a staph infection (pronounced "staff infection") that is resistant to several common antibiotics. There are two types of infection. Hospital-associated MRSA happens to people in health care settings. Community-associated MRSA happens to people who have close skin-to-skin contact with others, such as athletes involved in football and wrestling. Infection control is key to stopping MRSA in hospitals. To prevent community-associated MRSA Practice good hygiene Keep cuts and scrapes clean and covered with a bandage until healed Avoid contact with other people's wounds or bandages Avoid sharing personal items, such as towels, washcloths, razors, or clothes Wash soiled sheets, towels, and clothes in hot water with bleach and dry in a hot dryer If a wound appears to be infected, see a health care provider. Treatments may include draining the infection and antibiotics. NIH: National Institute of Allergy and Infectious Diseases</dc:description>
+<dc:subject dcterms="mesh">Methicillin-Resistant Staphylococcus aureus</dc:subject>
+<dc:subject xml:lang="es">Infecciones por estafilococo resistente a la meticilina</dc:subject>
+<dc:subject xml:lang="es">Staphylococcus aureus resistente a meticilina</dc:subject>
+<dc:subject xml:lang="es">Estafilococo aureus resistente a la meticilina</dc:subject>
+<dc:subject xml:lang="es">Estafilococo resistente a la meticilina</dc:subject>
+<dc:subject xml:lang="es">SARM</dc:subject>
+<dc:subject xml:lang="en">MRSA</dc:subject>
+<dc:subject xml:lang="en">Methicillin Resistant Staphylococcus Aureus</dc:subject>
+</metadata>
+</record>
+</MedlinePlus-document>

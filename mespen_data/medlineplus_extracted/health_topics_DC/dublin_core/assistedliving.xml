@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<MedlinePlus-document>
+<record>
+<header>
+<identifier>https://medlineplus.gov/assistedliving.html</identifier>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title type="alternate" xml:lang="es">Ayuda cotidiana para ancianos y discapacitados</dc:title>
+<dc:title type="alternate" xml:lang="en">Long-Term Care</dc:title>
+<dc:title type="alternate" xml:lang="en">Residential Care</dc:title>
+<dc:type>Text</dc:type>
+<dc:language>spa</dc:language>
+<dc:language>eng</dc:language>
+<dc:title xml:lang="es">Residencias con atención personalizada</dc:title>
+<dc:title xml:lang="en">Assisted Living</dc:title>
+<dc:publisher>National Library of Medicine</dc:publisher>
+<dc:relation type="IsPartOf">Seniors</dc:relation>
+<dc:relation type="IsPartOf">Health System</dc:relation>
+<dc:date type="created">2002-12-30</dc:date>
+<dc:date type="modified">2017-11-20</dc:date>
+<dc:identifier type="URL" xml:lang="es">https://medlineplus.gov/spanish/assistedliving.html</dc:identifier>
+<dc:identifier type="URL" xml:lang="en">https://medlineplus.gov/assistedliving.html</dc:identifier>
+<dc:description xml:lang="es">Los servicios de vida cotidiana asistida son para adultos que necesitan ayuda con sus tareas cotidianas. Pueden necesitar ayuda para vestirse, bañarse, comer o usar el baño, pero no necesitan cuidados especiales durante todo el día. Algunos centros de vida asistida son parte de comunidades para personas jubiladas. Otros están cerca de asilos de ancianos, de modo que una persona puede mudarse fácilmente si sus necesidades cambian. Los servicios de vida cotidiana asistida son menos costosos que los cuidados en un asilo. Aún así es bastante cara. Las personas mayores o sus familias suelen correr con los gastos. Las pólizas de los seguros médicos y cuidados a largo plazo pueden cubrir algunos de esos gastos. Medicare no cubre los gastos de la vida asistida. NIH: Instituto Nacional sobre el Envejecimiento</dc:description>
+<dc:description xml:lang="en">Assisted living is for adults who need help with everyday tasks. They may need help with dressing, bathing, eating, or using the bathroom, but they don't need full-time nursing care. Some assisted living facilities are part of retirement communities. Others are near nursing homes, so a person can move easily if needs change. Assisted living costs less than nursing home care. It is still fairly expensive. Older people or their families usually pay for it. Health and long-term care insurance policies may cover some of the costs. Medicare does not cover the costs of assisted living. Administration on Aging</dc:description>
+<dc:subject dcterms="mesh">Assisted Living Facilities</dc:subject>
+<dc:subject xml:lang="es">Residencias con atención personalizada</dc:subject>
+<dc:subject xml:lang="es">Ayuda cotidiana para ancianos y discapacitados</dc:subject>
+<dc:subject xml:lang="en">Assisted Living</dc:subject>
+<dc:subject xml:lang="en">Long-Term Care</dc:subject>
+<dc:subject xml:lang="en">Residential Care</dc:subject>
+</metadata>
+</record>
+</MedlinePlus-document>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<MedlinePlus-document>
+<record>
+<header>
+<identifier>https://medlineplus.gov/fatigue.html</identifier>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:type>Text</dc:type>
+<dc:language>spa</dc:language>
+<dc:language>eng</dc:language>
+<dc:title xml:lang="es">Fatiga</dc:title>
+<dc:title xml:lang="en">Fatigue</dc:title>
+<dc:publisher>National Library of Medicine</dc:publisher>
+<dc:relation type="IsPartOf">Symptoms</dc:relation>
+<dc:date type="created">2010-06-21</dc:date>
+<dc:date type="modified">2017-07-31</dc:date>
+<dc:identifier type="URL" xml:lang="es">https://medlineplus.gov/spanish/fatigue.html</dc:identifier>
+<dc:identifier type="URL" xml:lang="en">https://medlineplus.gov/fatigue.html</dc:identifier>
+<dc:description xml:lang="es">Todo el mundo se siente cansado de vez en cuando. A veces ocurre que sólo desea quedarse en cama. Pero tras una buena noche de sueño, la mayoría de la gente se siente renovada y lista para enfrentar un nuevo día. Si sigue sintiéndose cansado por semanas, es hora de ver a su médico, quien puede ayudarle a averiguar lo que está causando su fatiga y recomendar maneras de aliviarle. La fatiga en sí no es una enfermedad. Problemas médicos, tratamientos y hábitos personales pueden generar una fatiga. Éstos incluyen: Tomar ciertos medicamentos, como antidepresivos, antihistamínicos y medicamentos para las náuseas y el dolor Tratamientos médicos como la quimioterapia y la radiación Recuperación de una cirugía mayor Ansiedad, estrés o depresión Quedarse despierto hasta tarde Beber demasiado alcohol o bebidas con cafeína Embarazo Un trastorno que causa fatiga extrema es el síndrome de fatiga crónica (SFC). Esta fatiga no es el tipo de sensación de cansancio que desaparece después de descansar. En cambio, dura mucho tiempo y limita su capacidad para realizar las actividades diarias normales. NIH: Instituto Nacional sobre el Envejecimiento</dc:description>
+<dc:description xml:lang="en">Everyone feels tired now and then. Sometimes you may just want to stay in bed. But, after a good night's sleep, most people feel refreshed and ready to face a new day. If you continue to feel tired for weeks, it's time to see your doctor. He or she may be able to help you find out what's causing your fatigue and recommend ways to relieve it. Fatigue itself is not a disease. Medical problems, treatments, and personal habits can add to fatigue. These include Taking certain medicines, such as antidepressants, antihistamines, and medicines for nausea and pain Having medical treatments, like chemotherapy and radiation Recovering from major surgery Anxiety, stress, or depression Staying up too late Drinking too much alcohol or too many caffeinated drinks Pregnancy One disorder that causes extreme fatigue is chronic fatigue syndrome (CFS). This fatigue is not the kind of tired feeling that goes away after you rest. Instead, it lasts a long time and limits your ability to do ordinary daily activities. NIH: National Institute on Aging</dc:description>
+<dc:subject dcterms="mesh">Fatigue</dc:subject>
+<dc:subject xml:lang="es">Fatiga</dc:subject>
+<dc:subject xml:lang="en">Fatigue</dc:subject>
+<dc:subject xml:lang="en">Tiredness</dc:subject>
+<dc:subject xml:lang="en">Weariness</dc:subject>
+</metadata>
+</record>
+</MedlinePlus-document>

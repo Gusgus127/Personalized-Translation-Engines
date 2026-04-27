@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<MedlinePlus-document>
+<record>
+<header>
+<identifier>https://medlineplus.gov/ischemicstroke.html</identifier>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:type>Text</dc:type>
+<dc:language>spa</dc:language>
+<dc:language>eng</dc:language>
+<dc:title xml:lang="es">Accidente cerebrovascular isquémico</dc:title>
+<dc:title xml:lang="en">Ischemic Stroke</dc:title>
+<dc:publisher>National Library of Medicine</dc:publisher>
+<dc:relation type="IsPartOf">Blood, Heart and Circulation</dc:relation>
+<dc:relation type="IsPartOf">Brain and Nerves</dc:relation>
+<dc:date type="created">2015-08-26</dc:date>
+<dc:date type="modified">2018-02-07</dc:date>
+<dc:identifier type="URL" xml:lang="es">https://medlineplus.gov/spanish/ischemicstroke.html</dc:identifier>
+<dc:identifier type="URL" xml:lang="en">https://medlineplus.gov/ischemicstroke.html</dc:identifier>
+<dc:description xml:lang="es">Un ataque cerebral es una emergencia médica. Hay dos tipos: Isquémico y hemorrágico. El ataque cerebral isquémico es el tipo más común. En general, es causado por un coágulo sanguíneo que bloquea o tapa un vaso sanguíneo en el cerebro. Esto evita que la sangre fluya hacia éste órgano. En cuestión de minutos, las células del cerebro comienzan a morir. Otra causa es la estenosis o estrechamiento arterial. Esto puede suceder debido a la aterosclerosis, una enfermedad en la que se acumula placa en las arterias. Los ataques isquémicos transitorios se producen cuando la sangre no llega al cerebro por unos instantes. Tener un ataque isquémico transitorio puede significar que usted está en riesgo de sufrir un derrame cerebral más grave. Los síntomas de un derrame cerebral son: Entumecimiento o debilidad repentina de la cara, brazo o pierna (especialmente en un lado del cuerpo) Confusión repentina, dificultad para hablar o entender el lenguaje Dificultad repentina para ver con uno o ambos ojos Problemas para caminar repentino, mareos, pérdida de equilibrio o coordinación Dolor de cabeza severo repentino sin causa conocida Es importante tratar los ataques cerebrales lo más rápido posible. Los anticoagulantes pueden usarse para detener un derrame cerebral mientras está ocurriendo, disolviendo en forma rápida el coágulo de sangre. La rehabilitación tras un accidente cerebrovascular puede ayudar a las personas a superar las discapacidades causadas por la apoplejía, o ataque cerebral. NIH: Instituto Nacional de Trastornos Neurológicos y Accidentes Cerebrovasculares</dc:description>
+<dc:description xml:lang="en">A stroke is a medical emergency. There are two types - ischemic and hemorrhagic. Ischemic stroke is the most common type. It is usually caused by a blood clot that blocks or plugs a blood vessel in the brain. This keeps blood from flowing to the brain. Within minutes, brain cells begin to die. Another cause is stenosis, or narrowing of the artery. This can happen because of atherosclerosis, a disease in which plaque builds up inside your arteries. Transient ischemic attacks (TIAs) occur when the blood supply to the brain is interrupted briefly. Having a TIA can mean you are at risk for having a more serious stroke. Symptoms of stroke are Sudden numbness or weakness of the face, arm or leg (especially on one side of the body) Sudden confusion, trouble speaking or understanding speech Sudden trouble seeing in one or both eyes Sudden trouble walking, dizziness, loss of balance or coordination Sudden severe headache with no known cause It is important to treat strokes as quickly as possible. Blood thinners may be used to stop a stroke while it is happening by quickly dissolving the blood clot. Post-stroke rehabilitation can help people overcome disabilities caused by stroke damage. NIH: National Institute of Neurological Disorders and Stroke</dc:description>
+<dc:subject dcterms="mesh">Brain Ischemia</dc:subject>
+<dc:subject dcterms="mesh">Stroke</dc:subject>
+<dc:subject xml:lang="es">Accidente cerebrovascular isquémico</dc:subject>
+<dc:subject xml:lang="en">Ischemic Stroke</dc:subject>
+<dc:subject xml:lang="en">Carotid Endarterectomy</dc:subject>
+</metadata>
+</record>
+</MedlinePlus-document>

@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<MedlinePlus-document>
+<record>
+<header>
+<identifier>https://medlineplus.gov/stroke.html</identifier>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title type="alternate" xml:lang="es">Derrame cerebral</dc:title>
+<dc:title type="alternate" xml:lang="es">Endarterectomía carotídia</dc:title>
+<dc:title type="alternate" xml:lang="es">Enfermedad cerebrovascular</dc:title>
+<dc:title type="alternate" xml:lang="es">Cerebrovascular, Enfermedad</dc:title>
+<dc:title type="alternate" xml:lang="es">Embolia</dc:title>
+<dc:title type="alternate" xml:lang="es">Apoplejía</dc:title>
+<dc:title type="alternate" xml:lang="es">ACV</dc:title>
+<dc:title type="alternate" xml:lang="en">Brain Attack</dc:title>
+<dc:title type="alternate" xml:lang="en">Cerebrovascular Disease</dc:title>
+<dc:title type="alternate" xml:lang="en">CVA</dc:title>
+<dc:type>Text</dc:type>
+<dc:language>spa</dc:language>
+<dc:language>eng</dc:language>
+<dc:title xml:lang="es">Accidente cerebrovascular</dc:title>
+<dc:title xml:lang="en">Stroke</dc:title>
+<dc:publisher>National Library of Medicine</dc:publisher>
+<dc:relation type="IsPartOf">Brain and Nerves</dc:relation>
+<dc:relation type="IsPartOf">Seniors</dc:relation>
+<dc:relation type="IsPartOf">Blood, Heart and Circulation</dc:relation>
+<dc:date type="created">2002-07-21</dc:date>
+<dc:date type="modified">2018-02-14</dc:date>
+<dc:identifier type="URL" xml:lang="es">https://medlineplus.gov/spanish/stroke.html</dc:identifier>
+<dc:identifier type="URL" xml:lang="en">https://medlineplus.gov/stroke.html</dc:identifier>
+<dc:description xml:lang="es">Un ataque cerebral es una urgencia médica. Los ataques cerebrales suceden cuando se detiene el flujo sanguíneo al cerebro. En apenas unos minutos, las células cerebrales empiezan a morir. Existen dos tipos de derrames cerebrales. El tipo más común, llamado ataque cerebral isquémico, es causado por un coágulo sanguíneo que bloquea o tapona un vaso sanguíneo en el cerebro. El otro tipo, llamado ataque cerebral hemorrágico, es causado por la ruptura de un vaso sanguíneo que sangra hacia dentro del cerebro. Los "mini-derrames cerebrales" o ataques isquémicos transitorios, ocurren cuando el suministro de sangre al cerebro se interrumpe brevemente. Los síntomas de un derrame cerebral son: Entumecimiento o debilidad repentinos en el rostro, brazos o piernas (especialmente de un lado del cuerpo) Confusión súbita, dificultad para hablar o entender Problemas repentinos para ver con uno o ambos ojos Dificultad repentina para caminar, mareos, pérdida de equilibrio o coordinación de los movimientos Dolor de cabeza súbito y severo sin causa conocida Si tiene alguno de estos síntomas, debe ir rápidamente a un hospital para empezar un tratamiento. La terapia aguda para el ataque cerebral trata de parar el derrame disolviendo el coágulo o controlando la hemorragia. La rehabilitación posterior al ataque cerebral ayuda a las personas a superar las discapacidades causadas por el derrame. La terapia medicinal con anticoagulantes y antiplaquetarios es el tratamiento más común para el ataque cerebral. NIH: Instituto Nacional de Trastornos Neurológicos y Accidentes Cerebrovasculares</dc:description>
+<dc:description xml:lang="en">A stroke is a medical emergency. Strokes happen when blood flow to your brain stops. Within minutes, brain cells begin to die. There are two kinds of stroke. The more common kind, called ischemic stroke, is caused by a blood clot that blocks or plugs a blood vessel in the brain. The other kind, called hemorrhagic stroke, is caused by a blood vessel that breaks and bleeds into the brain. "Mini-strokes" or transient ischemic attacks (TIAs), occur when the blood supply to the brain is briefly interrupted. Symptoms of stroke are Sudden numbness or weakness of the face, arm or leg (especially on one side of the body) Sudden confusion, trouble speaking or understanding speech Sudden trouble seeing in one or both eyes Sudden trouble walking, dizziness, loss of balance or coordination Sudden severe headache with no known cause If you have any of these symptoms, you must get to a hospital quickly to begin treatment. Acute stroke therapies try to stop a stroke while it is happening by quickly dissolving the blood clot or by stopping the bleeding. Post-stroke rehabilitation helps individuals overcome disabilities that result from stroke damage. Drug therapy with blood thinners is the most common treatment for stroke. NIH: National Institute of Neurological Disorders and Stroke</dc:description>
+<dc:subject dcterms="mesh">Stroke</dc:subject>
+<dc:subject xml:lang="es">Accidente cerebrovascular</dc:subject>
+<dc:subject xml:lang="es">Derrame cerebral</dc:subject>
+<dc:subject xml:lang="es">Endarterectomía carotídia</dc:subject>
+<dc:subject xml:lang="es">Enfermedad cerebrovascular</dc:subject>
+<dc:subject xml:lang="es">Cerebrovascular</dc:subject>
+<dc:subject xml:lang="es">Enfermedad</dc:subject>
+<dc:subject xml:lang="es">Embolia</dc:subject>
+<dc:subject xml:lang="es">Apoplejía</dc:subject>
+<dc:subject xml:lang="es">ACV</dc:subject>
+<dc:subject xml:lang="en">Stroke</dc:subject>
+<dc:subject xml:lang="en">Brain Attack</dc:subject>
+<dc:subject xml:lang="en">Cerebrovascular Disease</dc:subject>
+<dc:subject xml:lang="en">CVA</dc:subject>
+</metadata>
+</record>
+</MedlinePlus-document>

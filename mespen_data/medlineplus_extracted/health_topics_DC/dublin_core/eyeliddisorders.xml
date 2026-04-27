@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<MedlinePlus-document>
+<record>
+<header>
+<identifier>https://medlineplus.gov/eyeliddisorders.html</identifier>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title type="alternate" xml:lang="es">Párpados, Enfermedades de los</dc:title>
+<dc:title type="alternate" xml:lang="en">Blepharospasm</dc:title>
+<dc:title type="alternate" xml:lang="en">Stye</dc:title>
+<dc:title type="alternate" xml:lang="en">Chalazion</dc:title>
+<dc:title type="alternate" xml:lang="en">Ptosis</dc:title>
+<dc:type>Text</dc:type>
+<dc:language>spa</dc:language>
+<dc:language>eng</dc:language>
+<dc:title xml:lang="es">Enfermedades de los párpados</dc:title>
+<dc:title xml:lang="en">Eyelid Disorders</dc:title>
+<dc:publisher>National Library of Medicine</dc:publisher>
+<dc:relation type="IsPartOf">Eyes and Vision</dc:relation>
+<dc:date type="created">2010-04-26</dc:date>
+<dc:date type="modified">2017-06-05</dc:date>
+<dc:identifier type="URL" xml:lang="es">https://medlineplus.gov/spanish/eyeliddisorders.html</dc:identifier>
+<dc:identifier type="URL" xml:lang="en">https://medlineplus.gov/eyeliddisorders.html</dc:identifier>
+<dc:description xml:lang="es">Sus párpados ayudan a proteger a sus ojos. Cuando usted parpadea, sus párpados los humedecen. Parpadear también ayuda a limpiar la tierra u otras partículas en la superficie del ojo. Cerrar los ojos cuando algo se dirige a ellos puede protegerlo de lesiones. Como otras partes del cuerpo, los párpados pueden infectarse, inflamarse o hasta desarrollar cáncer. Hay otros problemas más específicos, incluyendo: Párpados que se dan vuelta Párpados caídos Parpadeo anormal o espasmos El tratamiento de los problemas de los párpados depende de la causa.</dc:description>
+<dc:description xml:lang="en">Your eyelids help protect your eyes. When you blink, your eyelids spread moisture over your eyes. Blinking also helps move dirt or other particles off the surface of the eye. You close your eyelids when you see something coming toward your eyes. This can help protect against injuries. Like most other parts of your body, your eyelids can get infected, inflamed, or even develop cancer. There are also specific eyelid problems, including Eyelids that turn in or out Eyelids that droop Abnormal blinking or twitching Treatment of eyelid problems depends on the cause.</dc:description>
+<dc:subject dcterms="mesh">Eyelid Diseases</dc:subject>
+<dc:subject xml:lang="es">Enfermedades de los párpados</dc:subject>
+<dc:subject xml:lang="es">Párpados</dc:subject>
+<dc:subject xml:lang="es">Enfermedades de los</dc:subject>
+<dc:subject xml:lang="en">Eyelid Disorders</dc:subject>
+<dc:subject xml:lang="en">Blepharospasm</dc:subject>
+<dc:subject xml:lang="en">Stye</dc:subject>
+<dc:subject xml:lang="en">Chalazion</dc:subject>
+<dc:subject xml:lang="en">Ptosis</dc:subject>
+</metadata>
+</record>
+</MedlinePlus-document>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<MedlinePlus-document>
+<record>
+<header>
+<identifier>https://medlineplus.gov/colonicpolyps.html</identifier>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title type="alternate" xml:lang="es">Colon, Pólipos del</dc:title>
+<dc:title type="alternate" xml:lang="es">Colonoscopía y sigmoidoscopía</dc:title>
+<dc:type>Text</dc:type>
+<dc:language>spa</dc:language>
+<dc:language>eng</dc:language>
+<dc:title xml:lang="es">Pólipos del colon</dc:title>
+<dc:title xml:lang="en">Colonic Polyps</dc:title>
+<dc:publisher>National Library of Medicine</dc:publisher>
+<dc:relation type="IsPartOf">Cancers</dc:relation>
+<dc:relation type="IsPartOf">Digestive System</dc:relation>
+<dc:date type="created">2005-01-12</dc:date>
+<dc:date type="modified">2017-10-04</dc:date>
+<dc:identifier type="URL" xml:lang="es">https://medlineplus.gov/spanish/colonicpolyps.html</dc:identifier>
+<dc:identifier type="URL" xml:lang="en">https://medlineplus.gov/colonicpolyps.html</dc:identifier>
+<dc:description xml:lang="es">Un pólipo es una parte de tejido adicional que crece dentro de su cuerpo. Los pólipos de colon crecen en el intestino grueso o colon. La mayoría de los pólipos no son peligrosos. Sin embargo, ciertos pólipos pueden convertirse en cancerosos o ya ser cáncer. Como medida de seguridad, los médicos extirpan los pólipos y los examinan. Los pólipos pueden ser extirpados cuando un médico examina el interior del intestino grueso durante una colonoscopía. Cualquier persona puede tener pólipos, pero algunas tienen más probabilidades que otras. Usted tiene mayor probabilidad de tener pólipos si: Tiene más de 50 años de edad Ha tenido pólipos anteriormente Tiene un familiar con pólipos Tiene antecedentes de cáncer de colon La mayoría de los cánceres de colon no causa síntomas. Si tiene síntomas, éstos pueden incluir la presencia de sangre en la ropa interior o el papel higiénico después de evacuar, sangre en las heces o estreñimiento o diarrea que perdura más de una semana. NIH: Instituto Nacional de la Diabetes y las Enfermedades Digestivas y Renales</dc:description>
+<dc:description xml:lang="en">A polyp is an extra piece of tissue that grows inside your body. Colonic polyps grow in the large intestine, or colon. Most polyps are not dangerous. However, some polyps may turn into cancer or already be cancer. To be safe, doctors remove polyps and test them. Polyps can be removed when a doctor examines the inside of the large intestine during a colonoscopy. Anyone can get polyps, but certain people are more likely than others. You may have a greater chance of getting polyps if you Are over age 50 Have had polyps before Have a family member with polyps Have a family history of colon cancer Most colon polyps do not cause symptoms. If you have symptoms, they may include blood on your underwear or on toilet paper after a bowel movement, blood in your stool, or constipation or diarrhea lasting more than a week. NIH: National Institute of Diabetes and Digestive and Kidney Diseases</dc:description>
+<dc:subject dcterms="mesh">Colonic Polyps</dc:subject>
+<dc:subject xml:lang="es">Pólipos del colon</dc:subject>
+<dc:subject xml:lang="es">Colon</dc:subject>
+<dc:subject xml:lang="es">Pólipos del</dc:subject>
+<dc:subject xml:lang="es">Colonoscopía y sigmoidoscopía</dc:subject>
+<dc:subject xml:lang="en">Colonic Polyps</dc:subject>
+</metadata>
+</record>
+</MedlinePlus-document>

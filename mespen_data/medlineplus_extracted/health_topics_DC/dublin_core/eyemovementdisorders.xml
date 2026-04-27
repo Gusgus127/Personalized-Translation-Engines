@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<MedlinePlus-document>
+<record>
+<header>
+<identifier>https://medlineplus.gov/eyemovementdisorders.html</identifier>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title type="alternate" xml:lang="es">Ojos, Trastorno de movimiento</dc:title>
+<dc:title type="alternate" xml:lang="es">Movimientos oculares, Trastornos</dc:title>
+<dc:title type="alternate" xml:lang="en">Strabismus</dc:title>
+<dc:title type="alternate" xml:lang="en">Nystagmus</dc:title>
+<dc:title type="alternate" xml:lang="en">Walleye</dc:title>
+<dc:title type="alternate" xml:lang="en">Squint</dc:title>
+<dc:title type="alternate" xml:lang="en">Crossed Eyes</dc:title>
+<dc:type>Text</dc:type>
+<dc:language>spa</dc:language>
+<dc:language>eng</dc:language>
+<dc:title xml:lang="es">Trastornos de movimiento del ojo</dc:title>
+<dc:title xml:lang="en">Eye Movement Disorders</dc:title>
+<dc:publisher>National Library of Medicine</dc:publisher>
+<dc:relation type="IsPartOf">Eyes and Vision</dc:relation>
+<dc:date type="created">2011-09-12</dc:date>
+<dc:date type="modified">2017-07-19</dc:date>
+<dc:identifier type="URL" xml:lang="es">https://medlineplus.gov/spanish/eyemovementdisorders.html</dc:identifier>
+<dc:identifier type="URL" xml:lang="en">https://medlineplus.gov/eyemovementdisorders.html</dc:identifier>
+<dc:description xml:lang="es">Cuando usted mira un objeto, usted está utilizando varios músculos para mover ambos ojos y focalizarse en él. Si usted tiene un problema con los músculos, los ojos no funcionan apropiadamente. Existen muchos problemas de movimientos oculares. Los más comunes son: Estrabismo: Un trastorno donde los ojos no se alinean en la misma dirección. Esto resulta en ojos cruzados o bizcos Nistagmo: Movimientos rápidos e incontrolables de los ojos Algunos de los trastornos oculares están presentes al nacer. Otros se desarrollan con el tiempo y pueden estar asociados a otros problemas, como lesiones. Los tratamientos incluyen anteojos, parches, ejercicios para los músculos del ojo y cirugía. No existe cura para algunos tipos de trastornos de movimiento del ojo, como el nistagmo.</dc:description>
+<dc:description xml:lang="en">When you look at an object, you're using several muscles to move both eyes to focus on it. If you have a problem with the muscles, the eyes don't work properly. There are many kinds of eye movement disorders. Two common ones are Strabismus - a disorder in which the two eyes don't line up in the same direction. This results in "crossed eyes" or "walleye." Nystagmus - fast, uncontrollable movements of the eyes, sometimes called "dancing eyes" Some eye movement disorders are present at birth. Others develop over time and may be associated with other problems, such as injuries. Treatments include glasses, patches, eye muscle exercises, and surgery. There is no cure for some kinds of eye movement disorders, such as most kinds of nystagmus.</dc:description>
+<dc:subject dcterms="mesh">Ocular Motility Disorders</dc:subject>
+<dc:subject xml:lang="es">Trastornos de movimiento del ojo</dc:subject>
+<dc:subject xml:lang="es">Ojos</dc:subject>
+<dc:subject xml:lang="es">Trastorno de movimiento</dc:subject>
+<dc:subject xml:lang="es">Movimientos oculares</dc:subject>
+<dc:subject xml:lang="es">Trastornos</dc:subject>
+<dc:subject xml:lang="en">Eye Movement Disorders</dc:subject>
+<dc:subject xml:lang="en">Strabismus</dc:subject>
+<dc:subject xml:lang="en">Nystagmus</dc:subject>
+<dc:subject xml:lang="en">Walleye</dc:subject>
+<dc:subject xml:lang="en">Squint</dc:subject>
+<dc:subject xml:lang="en">Crossed Eyes</dc:subject>
+</metadata>
+</record>
+</MedlinePlus-document>

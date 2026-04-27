@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<MedlinePlus-document>
+<record>
+<header>
+<identifier>https://medlineplus.gov/trigeminalneuralgia.html</identifier>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:type>Text</dc:type>
+<dc:language>spa</dc:language>
+<dc:language>eng</dc:language>
+<dc:title xml:lang="es">Neuralgia del trigémino</dc:title>
+<dc:title xml:lang="en">Trigeminal Neuralgia</dc:title>
+<dc:publisher>National Library of Medicine</dc:publisher>
+<dc:relation type="IsPartOf">Brain and Nerves</dc:relation>
+<dc:date type="created">2003-03-14</dc:date>
+<dc:date type="modified">2016-12-07</dc:date>
+<dc:identifier type="URL" xml:lang="es">https://medlineplus.gov/spanish/trigeminalneuralgia.html</dc:identifier>
+<dc:identifier type="URL" xml:lang="en">https://medlineplus.gov/trigeminalneuralgia.html</dc:identifier>
+<dc:description xml:lang="es">La neuralgia del trigémino es un tipo de dolor crónico que afecta a la cara. Causa dolor, ardor repentino o sensación de shock extremo. Por lo general, afecta a un lado de la cara. Cualquier vibración en su rostro, incluso por hablar, puede provocarla. La condición puede aparecer y desaparecer por días o incluso meses. Pero cuanto más tiempo dure, menores son las posibilidades de que desaparezca. La neuralgia del trigémino generalmente afecta a personas mayores de 50 años, especialmente a mujeres. La causa probable es un vaso sanguíneo que presiona el nervio trigémino, uno de los nervios más grandes en la cabeza. Los tumores y esclerosis múltiple también pueden provocarla, pero en algunos casos se desconoce la causa. No existe una prueba única para diagnosticar la afección. Puede ser difícil de diagnosticar, ya que muchas otras condiciones pueden causar dolor facial. Las opciones de tratamiento incluyen medicamentos, cirugía y terapias complementarias. NIH: Instituto Nacional de Trastornos Neurológicos y Accidentes Cerebrovasculares</dc:description>
+<dc:description xml:lang="en">Trigeminal neuralgia (TN) is a type of chronic pain that affects your face. It causes extreme, sudden burning or shock-like pain. It usually affects one side of the face. Any vibration on your face, even from talking, can set it off. The condition may come and go, disappearing for days or even months. But the longer you have it, the less often it goes away. TN usually affects people over 50, especially women. The cause is probably a blood vessel pressing on the trigeminal nerve, one of the largest nerves in the head. Tumors and multiple sclerosis can also cause TN, but in some cases the cause is unknown. There is no single test to diagnose TN. It can be hard to diagnose, since many other conditions can cause facial pain. Treatment options include medicines, surgery, and complementary techniques. NIH: National Institute of Neurological Disorders and Stroke</dc:description>
+<dc:subject dcterms="mesh">Trigeminal Neuralgia</dc:subject>
+<dc:subject xml:lang="es">Neuralgia del trigémino</dc:subject>
+<dc:subject xml:lang="en">Trigeminal Neuralgia</dc:subject>
+<dc:subject xml:lang="en">Tic Douleureux</dc:subject>
+</metadata>
+</record>
+</MedlinePlus-document>

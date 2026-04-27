@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<MedlinePlus-document>
+<record>
+<header>
+<identifier>https://medlineplus.gov/medicinesandchildren.html</identifier>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title type="alternate" xml:lang="es">Remedios y los niños</dc:title>
+<dc:title type="alternate" xml:lang="es">Niños y los medicamentos</dc:title>
+<dc:title type="alternate" xml:lang="en">Children and Medicines</dc:title>
+<dc:type>Text</dc:type>
+<dc:language>spa</dc:language>
+<dc:language>eng</dc:language>
+<dc:title xml:lang="es">Medicamentos y los niños</dc:title>
+<dc:title xml:lang="en">Medicines and Children</dc:title>
+<dc:publisher>National Library of Medicine</dc:publisher>
+<dc:relation type="IsPartOf">Children and Teenagers</dc:relation>
+<dc:relation type="IsPartOf">Drug Therapy</dc:relation>
+<dc:date type="created">2012-04-30</dc:date>
+<dc:date type="modified">2017-12-11</dc:date>
+<dc:identifier type="URL" xml:lang="es">https://medlineplus.gov/spanish/medicinesandchildren.html</dc:identifier>
+<dc:identifier type="URL" xml:lang="en">https://medlineplus.gov/medicinesandchildren.html</dc:identifier>
+<dc:description xml:lang="es">En lo que se refiere a tomar medicamentos, los niños no son adultos pequeños. En los prospectos de remedios con receta, hay una sección "pediátrica". Allí se puede informar sobre si ese medicamento hay sido probado en niños. También le dice en qué edades ha sido estudiado. Aparte de las medicinas para el dolor o la fiebre, la eficacia, la seguridad o las dosis de la mayoría de los remedios de venta sin receta no ha sido estudiada en niños. Cuando usted le de un remedio a su hijo/a, asegúrese de que le esté dando la medicina adecuada y la cantidad correcta. Lea y siga las instrucciones de la etiqueta. Use el instrumento medidor correcto. Si la etiqueta dice dos cucharaditas y usted esta usando un vasito dosificador en onzas, no adivine (recuerde: en inglés, tbsp es cucharada y tsp es cucharadita). Obtenga el dispositivo de medición adecuado, no lo remplace por otra cosa como una cuchara de cocina. Hable con su doctor o farmacéutico u otro proveedor de salud antes de dar dos medicinas al mismo tiempo. De esa manera, puede evitar una posible sobredosis o una interacción no deseada. Siga las especificaciones de edad y peso recomendadas. Si la etiqueta dice que ese medicamento no debe dárselo a niños menores de cierta edad o peso, no lo haga. Administración de Alimentos y Medicamentos</dc:description>
+<dc:description xml:lang="en">When it comes to taking medicines, kids aren't just small adults. For prescription medicines, there is a "Pediatric" section of the label. It says whether the medication has been studied for its effects on children. It also tells you what ages have been studied. Aside from drugs for fever or pain, most over-the-counter products haven't actually been studied in children for effectiveness, safety, or dosing. When you give medicine to your child, be sure you're giving the right medicine and the right amount. Read and follow the label directions. Use the correct dosing device. If the label says two teaspoons and you're using a dosing cup with ounces only, don't guess. Get the proper measuring device. Don't substitute another item, such as a kitchen spoon. Talk to your doctor, pharmacist, or other health care provider before giving two medicines at the same time. That way, you can avoid a possible overdose or an unwanted interaction. Follow age and weight limit recommendations. If the label says don't give to children under a certain age or weight, don't do it. Food and Drug Administration</dc:description>
+<dc:subject dcterms="mesh">Drug Therapy</dc:subject>
+<dc:subject xml:lang="es">Medicamentos y los niños</dc:subject>
+<dc:subject xml:lang="es">Remedios y los niños</dc:subject>
+<dc:subject xml:lang="es">Niños y los medicamentos</dc:subject>
+<dc:subject xml:lang="en">Medicines and Children</dc:subject>
+<dc:subject xml:lang="en">Children and Medicines</dc:subject>
+</metadata>
+</record>
+</MedlinePlus-document>

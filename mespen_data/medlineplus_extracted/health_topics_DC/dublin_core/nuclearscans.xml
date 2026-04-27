@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<MedlinePlus-document>
+<record>
+<header>
+<identifier>https://medlineplus.gov/nuclearscans.html</identifier>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title type="alternate" xml:lang="es">Tomografía Nuclear</dc:title>
+<dc:title type="alternate" xml:lang="es">Gammagrafia</dc:title>
+<dc:title type="alternate" xml:lang="en">Radionuclide Scans</dc:title>
+<dc:title type="alternate" xml:lang="en">PET Scans</dc:title>
+<dc:type>Text</dc:type>
+<dc:language>spa</dc:language>
+<dc:language>eng</dc:language>
+<dc:title xml:lang="es">Escanografía nuclear</dc:title>
+<dc:title xml:lang="en">Nuclear Scans</dc:title>
+<dc:publisher>National Library of Medicine</dc:publisher>
+<dc:relation type="IsPartOf">Diagnostic Tests</dc:relation>
+<dc:date type="created">2005-01-06</dc:date>
+<dc:date type="modified">2018-02-07</dc:date>
+<dc:identifier type="URL" xml:lang="es">https://medlineplus.gov/spanish/nuclearscans.html</dc:identifier>
+<dc:identifier type="URL" xml:lang="en">https://medlineplus.gov/nuclearscans.html</dc:identifier>
+<dc:description xml:lang="es">La escanografía nuclear (o gammagrafía) utiliza material radioactivo para observar las estructuras y funciones al interior de su cuerpo. Incluye una cámara especial que detecta la radioactividad. Antes del estudio, la persona recibirá una pequeña dosis de una sustancia radioactiva. En general se inyecta, pero a veces se traga o inhala. Luego el paciente se acuesta inmóvil sobre una mesa de exploración mientras la cámara toma las imágenes. La mayoría de los estudios toman de 20 a 45 minutos. Las escanografías nucleares ayudan a los médicos a diagnosticar afecciones, incluyendo cánceres, lesiones e infecciones. También pueden mostrar el funcionamiento de algunos órganos, como el corazón y los pulmones.</dc:description>
+<dc:description xml:lang="en">Nuclear scans use radioactive substances to see structures and functions inside your body. They use a special camera that detects radioactivity. Before the test, you receive a small amount of radioactive material. You may get it as an injection. Sometimes you swallow it or inhale it. Then you lie still on a table while the camera makes images. Most scans take 20 to 45 minutes. Nuclear scans can help doctors diagnose many conditions, including cancers, injuries, and infections. They can also show how organs like your heart and lungs are working.</dc:description>
+<dc:subject dcterms="mesh">Radionuclide Imaging</dc:subject>
+<dc:subject xml:lang="es">Escanografía nuclear</dc:subject>
+<dc:subject xml:lang="es">Tomografía Nuclear</dc:subject>
+<dc:subject xml:lang="es">Gammagrafia</dc:subject>
+<dc:subject xml:lang="en">Nuclear Scans</dc:subject>
+<dc:subject xml:lang="en">Radionuclide Scans</dc:subject>
+<dc:subject xml:lang="en">PET Scans</dc:subject>
+</metadata>
+</record>
+</MedlinePlus-document>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<MedlinePlus-document>
+<record>
+<header>
+<identifier>https://medlineplus.gov/gas.html</identifier>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:type>Text</dc:type>
+<dc:language>spa</dc:language>
+<dc:language>eng</dc:language>
+<dc:title xml:lang="es">Gas</dc:title>
+<dc:title xml:lang="en">Gas</dc:title>
+<dc:publisher>National Library of Medicine</dc:publisher>
+<dc:relation type="IsPartOf">Symptoms</dc:relation>
+<dc:relation type="IsPartOf">Digestive System</dc:relation>
+<dc:date type="created">2006-03-09</dc:date>
+<dc:date type="modified">2018-01-26</dc:date>
+<dc:identifier type="URL" xml:lang="es">https://medlineplus.gov/spanish/gas.html</dc:identifier>
+<dc:identifier type="URL" xml:lang="en">https://medlineplus.gov/gas.html</dc:identifier>
+<dc:description xml:lang="es">Todas las personas tienen gases. La mayoría de las personas expulsa gases entre 13 y 21 veces al día. Los gases eliminados por la boca se llaman eructos. La eliminación a través del recto se llama flatulencia. La mayoría de las veces el gas no tiene olor. El olor proviene de las bacterias en el intestino grueso que liberan pequeñas cantidades de gases que contienen sulfuro. El gas en las vías intestinales tiene dos orígenes: El aire que se traga y la descomposición de la comida no digerida por las bacterias en el intestino grueso. Ciertos alimentos pueden causar gases. Las comidas que producen gases en una persona pueden no causarlos en otra. Para disminuir la cantidad de gases que se expulsa al día, usted puede: Tomar mucha agua y bebidas sin gas Comer más despacio, así no traga tanto aire al comer Evitar productos lácteos si usted tiene intolerancia a la lactosa Algunos medicamentos pueden ayudar a reducir la cantidad de gas o de dolor e hinchazón que causa el gas. Si los síntomas todavía son molestos, consulte con su proveedor de cuidados de salud. NIH: Instituto Nacional de la Diabetes y las Enfermedades Digestivas y Renales</dc:description>
+<dc:description xml:lang="en">Everyone has gas. Most people pass gas 13 to 21 times a day. Passing gas through the mouth is called belching or burping. Passing gas through the anus is called flatulence. Most of the time gas does not have an odor. The odor comes from bacteria in the large intestine that release small amounts of gases that contain sulfur. Gas in the digestive tract comes from two sources: air that you swallow and the breakdown of undigested food by bacteria in the large intestine. Certain foods may cause gas. Foods that produce gas in one person may not cause gas in another. You can reduce the amount of gas you have by Drinking lots of water and non-fizzy drinks Eating more slowly so you swallow less air when you eat Avoiding milk products if you have lactose intolerance Medicines can help reduce gas or the pain and bloating caused by gas. If your symptoms still bother you, see your health care provider. NIH: National Institute of Diabetes and Digestive and Kidney Diseases</dc:description>
+<dc:subject dcterms="mesh">Eructation</dc:subject>
+<dc:subject dcterms="mesh">Flatulence</dc:subject>
+<dc:subject xml:lang="es">Gas</dc:subject>
+<dc:subject xml:lang="en">Gas</dc:subject>
+<dc:subject xml:lang="en">Flatulence</dc:subject>
+<dc:subject xml:lang="en">Belching</dc:subject>
+<dc:subject xml:lang="en">Burping</dc:subject>
+</metadata>
+</record>
+</MedlinePlus-document>

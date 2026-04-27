@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<MedlinePlus-document>
+<record>
+<header>
+<identifier>https://medlineplus.gov/bronchialdisorders.html</identifier>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title type="alternate" xml:lang="es">Bronquios, Trastornos</dc:title>
+<dc:title type="alternate" xml:lang="en">Bronchiolitis</dc:title>
+<dc:title type="alternate" xml:lang="en">Bronchiectasis</dc:title>
+<dc:type>Text</dc:type>
+<dc:language>spa</dc:language>
+<dc:language>eng</dc:language>
+<dc:title xml:lang="es">Trastornos de los bronquios</dc:title>
+<dc:title xml:lang="en">Bronchial Disorders</dc:title>
+<dc:publisher>National Library of Medicine</dc:publisher>
+<dc:relation type="IsPartOf">Lungs and Breathing</dc:relation>
+<dc:date type="created">2012-03-01</dc:date>
+<dc:date type="modified">2017-10-02</dc:date>
+<dc:identifier type="URL" xml:lang="es">https://medlineplus.gov/spanish/bronchialdisorders.html</dc:identifier>
+<dc:identifier type="URL" xml:lang="en">https://medlineplus.gov/bronchialdisorders.html</dc:identifier>
+<dc:description xml:lang="es">Los bronquios son dos tubos que se ramifican desde la tráquea y llevan aire a los pulmones. El trastorno bronquial más común es la bronquitis, una inflamación de los tubos. La bronquitis puede ser aguda o crónica. Otros problemas incluyen: Bronquiectasia, una condición en la cual el daño a las vías respiratorias hace que se ensanchen, se vuelvan flácidas y con cicatrices Broncoespasmo inducido por ejercicio, ocurre cuando las vías respiratorias se contraen mientras usted está haciendo ejercicio Bronquiolitis, una inflamación de las vías aéreas pequeñas que se ramifican desde los bronquios Displasia broncopulmonar, una condición que afecta a los bebés El tratamiento de los trastornos bronquiales depende de la causa.</dc:description>
+<dc:description xml:lang="en">When you breathe in, the air travels down through your trachea (windpipe). It then goes through two tubes to your lungs. These tubes are your bronchi. Bronchial disorders can make it hard for you to breathe. The most common problem with the bronchi is bronchitis, an inflammation of the tubes. It can be acute or chronic. Other problems include Bronchiectasis - a condition in which damage to the airways causes them to widen and become flabby and scarred Exercise-induced bronchospasm - a breathing problem that happens when your airways shrink while you are exercising Bronchiolitis - an inflammation of the small airways that branch off from the bronchi Bronchopulmonary dysplasia - a chronic lung condition in infants, most often premature infants</dc:description>
+<dc:subject dcterms="mesh">Bronchial Diseases</dc:subject>
+<dc:subject xml:lang="es">Trastornos de los bronquios</dc:subject>
+<dc:subject xml:lang="es">Bronquios</dc:subject>
+<dc:subject xml:lang="es">Trastornos</dc:subject>
+<dc:subject xml:lang="en">Bronchial Disorders</dc:subject>
+<dc:subject xml:lang="en">Bronchiolitis</dc:subject>
+<dc:subject xml:lang="en">Bronchiectasis</dc:subject>
+</metadata>
+</record>
+</MedlinePlus-document>

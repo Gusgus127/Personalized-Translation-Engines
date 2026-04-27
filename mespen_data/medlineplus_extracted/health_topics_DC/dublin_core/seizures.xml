@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<MedlinePlus-document>
+<record>
+<header>
+<identifier>https://medlineplus.gov/seizures.html</identifier>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:type>Text</dc:type>
+<dc:language>spa</dc:language>
+<dc:language>eng</dc:language>
+<dc:title xml:lang="es">Convulsiones</dc:title>
+<dc:title xml:lang="en">Seizures</dc:title>
+<dc:publisher>National Library of Medicine</dc:publisher>
+<dc:relation type="IsPartOf">Brain and Nerves</dc:relation>
+<dc:date type="created">2002-07-21</dc:date>
+<dc:date type="modified">2018-01-29</dc:date>
+<dc:identifier type="URL" xml:lang="es">https://medlineplus.gov/spanish/seizures.html</dc:identifier>
+<dc:identifier type="URL" xml:lang="en">https://medlineplus.gov/seizures.html</dc:identifier>
+<dc:description xml:lang="es">Las convulsiones son síntomas de un problema cerebral. Ocurren por la aparición súbita de una actividad eléctrica anormal en el cerebro. Cuando las personas piensan en convulsiones, suelen imaginarse el cuerpo de una persona que se sacude rápida y sin control. No todas las convulsiones provocan estas sacudidas. Existen muchos tipos de convulsiones y algunos tienen síntomas leves. Las convulsiones se dividen en dos grupos principales. Las convulsiones focales, también llamadas convulsiones parciales, ocurren en una parte del cerebro. Las convulsiones generalizadas son el resultado de actividades anormales en ambos lados del cerebro. La mayoría de las convulsiones duran de 30 segundos a dos minutos y no causan daños duraderos. Sin embargo, es una emergencia médica si las convulsiones duran más de cinco minutos o si una persona tiene muchas convulsiones y no se despierta entre éstas. Las convulsiones pueden tener muchas causas, entre las que se incluyen medicinas, fiebre alta, lesiones en la cabeza y ciertas enfermedades. Las personas que tienen convulsiones recurrentes debido a un trastorno cerebral tienen epilepsia. NIH: Instituto Nacional de Trastornos Neurológicos y Accidentes Cerebrovasculares</dc:description>
+<dc:description xml:lang="en">Seizures are symptoms of a brain problem. They happen because of sudden, abnormal electrical activity in the brain. When people think of seizures, they often think of convulsions in which a person's body shakes rapidly and uncontrollably. Not all seizures cause convulsions. There are many types of seizures and some have mild symptoms. Seizures fall into two main groups. Focal seizures, also called partial seizures, happen in just one part of the brain. Generalized seizures are a result of abnormal activity on both sides of the brain. Most seizures last from 30 seconds to 2 minutes and do not cause lasting harm. However, it is a medical emergency if seizures last longer than 5 minutes or if a person has many seizures and does not wake up between them. Seizures can have many causes, including medicines, high fevers, head injuries and certain diseases. People who have recurring seizures due to a brain disorder have epilepsy. NIH: National Institute of Neurological Disorders and Stroke</dc:description>
+<dc:subject dcterms="mesh">Seizures</dc:subject>
+<dc:subject xml:lang="es">Convulsiones</dc:subject>
+<dc:subject xml:lang="en">Seizures</dc:subject>
+</metadata>
+</record>
+</MedlinePlus-document>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<MedlinePlus-document>
+<record>
+<header>
+<identifier>https://medlineplus.gov/dentalhealth.html</identifier>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title type="alternate" xml:lang="es">Dientes</dc:title>
+<dc:title type="alternate" xml:lang="en">Oral Health</dc:title>
+<dc:type>Text</dc:type>
+<dc:language>spa</dc:language>
+<dc:language>eng</dc:language>
+<dc:title xml:lang="es">Salud dental</dc:title>
+<dc:title xml:lang="en">Dental Health</dc:title>
+<dc:publisher>National Library of Medicine</dc:publisher>
+<dc:relation type="IsPartOf">Mouth and Teeth</dc:relation>
+<dc:relation type="IsPartOf">Wellness and Lifestyle</dc:relation>
+<dc:date type="created">2002-07-21</dc:date>
+<dc:date type="modified">2017-12-04</dc:date>
+<dc:identifier type="URL" xml:lang="es">https://medlineplus.gov/spanish/dentalhealth.html</dc:identifier>
+<dc:identifier type="URL" xml:lang="en">https://medlineplus.gov/dentalhealth.html</dc:identifier>
+<dc:description xml:lang="es">Es importante que el cuidado de la boca y los dientes comience en la infancia. Si no es así, puede tener problemas con los dientes y encías, como caries o la pérdida de los dientes. Estas son algunas cosas que puede hacer para mantener su boca y sus dientes sanos: Cepillarse los dientes dos veces al día con una pasta dental con fluoruro Limpiarse entre los dientes todos los días con hilo dental o algún producto similar Comer con inteligencia: limitar los alimentos azucarados entre comidas No fumar ni masticar tabaco Visitar regularmente al dentista o a otro profesional de salud dental NIH: Instituto Nacional de Investigación Dental y Craneofacial</dc:description>
+<dc:description xml:lang="en">It's important to take care of your mouth and teeth starting in childhood. If you don't, you could have problems with your teeth and gums - like cavities or even tooth loss. Here's how to keep your mouth and teeth healthy: Brush your teeth twice a day with a fluoride toothpaste Clean between your teeth every day with floss or another type of between-the-teeth cleaner Snack smart - limit sugary snacks Don't smoke or chew tobacco See your dentist or oral health professional regularly NIH: National Institute of Dental and Craniofacial Research</dc:description>
+<dc:subject dcterms="mesh">Oral Health</dc:subject>
+<dc:subject dcterms="mesh">Oral Hygiene</dc:subject>
+<dc:subject dcterms="mesh">Dental Care</dc:subject>
+<dc:subject xml:lang="es">Salud dental</dc:subject>
+<dc:subject xml:lang="es">Dientes</dc:subject>
+<dc:subject xml:lang="en">Dental Health</dc:subject>
+<dc:subject xml:lang="en">Oral Health</dc:subject>
+</metadata>
+</record>
+</MedlinePlus-document>

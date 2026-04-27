@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<MedlinePlus-document>
+<record>
+<header>
+<identifier>https://medlineplus.gov/bonediseases.html</identifier>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title type="alternate" xml:lang="es">Huesos, Enfermedades de</dc:title>
+<dc:title type="alternate" xml:lang="es">Legg-Calve-Perthes, Enfermedad de</dc:title>
+<dc:title type="alternate" xml:lang="es">Fibrodisplasia</dc:title>
+<dc:title type="alternate" xml:lang="es">Tumores óseos</dc:title>
+<dc:title type="alternate" xml:lang="es">Osteocondritis disecante</dc:title>
+<dc:type>Text</dc:type>
+<dc:language>spa</dc:language>
+<dc:language>eng</dc:language>
+<dc:title xml:lang="es">Enfermedades de los huesos</dc:title>
+<dc:title xml:lang="en">Bone Diseases</dc:title>
+<dc:publisher>National Library of Medicine</dc:publisher>
+<dc:relation type="IsPartOf">Bones, Joints and Muscles</dc:relation>
+<dc:date type="created">2002-07-21</dc:date>
+<dc:date type="modified">2018-02-12</dc:date>
+<dc:identifier type="URL" xml:lang="es">https://medlineplus.gov/spanish/bonediseases.html</dc:identifier>
+<dc:identifier type="URL" xml:lang="en">https://medlineplus.gov/bonediseases.html</dc:identifier>
+<dc:description xml:lang="es">Los huesos lo ayudan a moverse, le dan forma y apoyan a su cuerpo. Son tejidos vivos que se regeneran constantemente durante su vida. Durante la infancia y la adolescencia, el cuerpo agrega huesos nuevos más rápido de lo que elimina los antiguos. Después de los 20 años de edad, puede perder huesos más rápido de los que produce. Para tener huesos fuertes cuando se es joven, y prevenir la pérdida ósea en edades avanzadas, debe consumir suficiente calcio y vitamina D, así como ejercitarse. Además debe evitar fumar y tomar mucho alcohol. Las enfermedades de los huesos pueden facilitar las fracturas. Estas enfermedades incluyen: Baja densidad ósea y osteoporosis: Debilita los huesos y aumenta las probabilidades de fracturas Osteogénesis imperfecta: Hace que sus huesos sean frágiles y quebradizos Enfermedad de Paget en el hueso: Debilita los huesos Los huesos también pueden desarrollar cáncer e infecciones Otras enfermedades de los huesos: Producidas por una mala nutrición, factores genéticos o problemas con la velocidad de crecimiento o regeneración ósea NIH: Instituto Nacional del Cáncer</dc:description>
+<dc:description xml:lang="en">Your bones help you move, give you shape and support your body. They are living tissues that rebuild constantly throughout your life. During childhood and your teens, your body adds new bone faster than it removes old bone. After about age 20, you can lose bone faster than you make bone. To have strong bones when you are young, and to prevent bone loss when you are older, you need to get enough calcium, vitamin D, and exercise. You should also avoid smoking and drinking too much alcohol. Bone diseases can make bones easy to break. Different kinds of bone problems include Low bone density and osteoporosis, which make your bones weak and more likely to break Osteogenesis imperfecta makes your bones brittle Paget's disease of bone makes them weak Bones can also develop cancer and infections Other bone diseases, which are caused by poor nutrition, genetics, or problems with the rate of bone growth or rebuilding NIH: National Institute of Arthritis and Musculoskeletal and Skin Diseases</dc:description>
+<dc:subject dcterms="mesh">Bone Diseases</dc:subject>
+<dc:subject xml:lang="es">Enfermedades de los huesos</dc:subject>
+<dc:subject xml:lang="es">Huesos</dc:subject>
+<dc:subject xml:lang="es">Enfermedades de</dc:subject>
+<dc:subject xml:lang="es">Legg-Calve-Perthes</dc:subject>
+<dc:subject xml:lang="es">Enfermedad de</dc:subject>
+<dc:subject xml:lang="es">Fibrodisplasia</dc:subject>
+<dc:subject xml:lang="es">Tumores óseos</dc:subject>
+<dc:subject xml:lang="es">Osteocondritis disecante</dc:subject>
+<dc:subject xml:lang="en">Bone Diseases</dc:subject>
+</metadata>
+</record>
+</MedlinePlus-document>

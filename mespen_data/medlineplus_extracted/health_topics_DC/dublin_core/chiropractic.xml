@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<MedlinePlus-document>
+<record>
+<header>
+<identifier>https://medlineplus.gov/chiropractic.html</identifier>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:type>Text</dc:type>
+<dc:language>spa</dc:language>
+<dc:language>eng</dc:language>
+<dc:title xml:lang="es">Quiropráctica</dc:title>
+<dc:title xml:lang="en">Chiropractic</dc:title>
+<dc:publisher>National Library of Medicine</dc:publisher>
+<dc:relation type="IsPartOf">Complementary and Alternative Therapies</dc:relation>
+<dc:date type="created">2003-07-29</dc:date>
+<dc:date type="modified">2017-02-02</dc:date>
+<dc:identifier type="URL" xml:lang="es">https://medlineplus.gov/spanish/chiropractic.html</dc:identifier>
+<dc:identifier type="URL" xml:lang="en">https://medlineplus.gov/chiropractic.html</dc:identifier>
+<dc:description xml:lang="es">La quiropráctica es una profesión en el campo de la salud. Los médicos quiroprácticos realizan ajustes (manipulaciones) de la columna vertebral u otras partes del cuerpo. El objetivo es corregir problemas posturales (de postura del cuerpo), aliviar el dolor y asistir la capacidad natural del cuerpo de curarse a sí mismo. En la quiropráctica se pueden usar otros tratamientos como: Calor y frío (hielo) Estimulación eléctrica Técnicas de relajación Ejercicios generales y de rehabilitación Asesoría nutricional, para adelgazar y otras sugerencias sobre el estilo de vida Suplementos dietarios Muchas personas acuden a los quiropractas para tratar el dolor de espalda bajo, dolor de cuello y dolores de cabeza. NIH: Centro Nacional de Salud Complementaria e Integral</dc:description>
+<dc:description xml:lang="en">Chiropractic is a health care profession. Chiropractors perform adjustments (manipulations) to the spine or other parts of the body. The goal is to correct alignment problems, ease pain, and support the body's natural ability to heal itself. They may also use other treatments including Heat and ice Electrical stimulation Relaxation techniques Rehabilitative and general exercise Counseling about diet, weight loss, and other lifestyle factors Dietary supplements Many people visit chiropractors for treatment of low back pain, neck pain, and headaches. NIH: National Center for Complementary and Integrative Health</dc:description>
+<dc:subject dcterms="mesh">Chiropractic</dc:subject>
+<dc:subject dcterms="mesh">Manipulation, Chiropractic</dc:subject>
+<dc:subject xml:lang="es">Quiropráctica</dc:subject>
+<dc:subject xml:lang="en">Chiropractic</dc:subject>
+</metadata>
+</record>
+</MedlinePlus-document>

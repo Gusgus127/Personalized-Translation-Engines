@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<MedlinePlus-document>
+<record>
+<header>
+<identifier>https://medlineplus.gov/cosmeticdentistry.html</identifier>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:type>Text</dc:type>
+<dc:language>spa</dc:language>
+<dc:language>eng</dc:language>
+<dc:title xml:lang="es">Cosmética dental</dc:title>
+<dc:title xml:lang="en">Cosmetic Dentistry</dc:title>
+<dc:publisher>National Library of Medicine</dc:publisher>
+<dc:relation type="IsPartOf">Mouth and Teeth</dc:relation>
+<dc:date type="created">2003-11-07</dc:date>
+<dc:date type="modified">2017-12-04</dc:date>
+<dc:identifier type="URL" xml:lang="es">https://medlineplus.gov/spanish/cosmeticdentistry.html</dc:identifier>
+<dc:identifier type="URL" xml:lang="en">https://medlineplus.gov/cosmeticdentistry.html</dc:identifier>
+<dc:description xml:lang="es">Si usted tiene dientes rotos, desiguales o manchados, la odontología cosmética puede ayudarle. La odontología cosmética es diferente del tratamiento de ortodoncia, que puede enderezar los dientes con frenillos u otros dispositivos. Los procedimientos de odontología cosmética incluyen: Blanqueo de dientes Reparación de quiebres o zonas ásperas con tapaduras que coincidan con sus dientes Tapaduras de caries con materiales del color de sus dientes Remodelado de dientes que no se parecen a los demás Cierre de espacios entre los dientes Recubrimiento de dientes rotos con coronas de porcelana</dc:description>
+<dc:description xml:lang="en">If you have stained, broken or uneven teeth, cosmetic dentistry can help. Cosmetic dentistry is different from orthodontic treatment, which can straighten your teeth with braces or other devices. Cosmetic dental procedures include Bleaching to make teeth whiter Repairing chips or rough spots with fillings that match your teeth Filling cavities with tooth-colored materials Reshaping teeth that don't match the others Closing gaps between teeth Covering broken teeth with porcelain crowns</dc:description>
+<dc:subject dcterms="mesh">Esthetics, Dental</dc:subject>
+<dc:subject xml:lang="es">Cosmética dental</dc:subject>
+<dc:subject xml:lang="en">Cosmetic Dentistry</dc:subject>
+<dc:subject xml:lang="en">Tooth Whitening</dc:subject>
+<dc:subject xml:lang="en">Dentistry</dc:subject>
+<dc:subject xml:lang="en">Cosmetic</dc:subject>
+<dc:subject xml:lang="en">Dental Implants</dc:subject>
+</metadata>
+</record>
+</MedlinePlus-document>

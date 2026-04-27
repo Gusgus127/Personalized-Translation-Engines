@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<MedlinePlus-document>
+<record>
+<header>
+<identifier>https://medlineplus.gov/heartvalvediseases.html</identifier>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title type="alternate" xml:lang="es">Válvulas del corazón, Enfermedades de las</dc:title>
+<dc:title type="alternate" xml:lang="es">Válvula aórtica</dc:title>
+<dc:title type="alternate" xml:lang="es">Válvulas cardíacas, Infección</dc:title>
+<dc:title type="alternate" xml:lang="es">Soplos cardíacos</dc:title>
+<dc:title type="alternate" xml:lang="es">Fiebre reumática</dc:title>
+<dc:title type="alternate" xml:lang="es">Estenosis valvular aórtica</dc:title>
+<dc:title type="alternate" xml:lang="es">Valvular aórtica, Estenosis</dc:title>
+<dc:title type="alternate" xml:lang="es">Válvula mitral</dc:title>
+<dc:title type="alternate" xml:lang="es">Válvula pulmonar</dc:title>
+<dc:title type="alternate" xml:lang="es">Válvula tricúspide</dc:title>
+<dc:title type="alternate" xml:lang="en">Aortic Stenosis</dc:title>
+<dc:title type="alternate" xml:lang="en">Valvular Heart Diseases</dc:title>
+<dc:title type="alternate" xml:lang="en">Heart Murmur</dc:title>
+<dc:type>Text</dc:type>
+<dc:language>spa</dc:language>
+<dc:language>eng</dc:language>
+<dc:title xml:lang="es">Enfermedades de las válvulas del corazón</dc:title>
+<dc:title xml:lang="en">Heart Valve Diseases</dc:title>
+<dc:publisher>National Library of Medicine</dc:publisher>
+<dc:relation type="IsPartOf">Blood, Heart and Circulation</dc:relation>
+<dc:date type="created">2002-07-21</dc:date>
+<dc:date type="modified">2018-02-07</dc:date>
+<dc:identifier type="URL" xml:lang="es">https://medlineplus.gov/spanish/heartvalvediseases.html</dc:identifier>
+<dc:identifier type="URL" xml:lang="en">https://medlineplus.gov/heartvalvediseases.html</dc:identifier>
+<dc:description xml:lang="es">El corazón tiene cuatro válvulas. Normalmente, estas válvulas se abren para que la sangre fluya a través o hacia afuera del corazón y luego se cierran para impedir que vuelva en dirección contraria. Pero algunas veces, no funcionan adecuadamente. Entonces, puede ocurrir: Regurgitación: la sangre se filtra a través de la misma válvula en sentido contrario Prolapso de válvula mitral: una de las válvulas, la válvula mitral, a veces tiene aletas flexibles o flojas y no cierra bien. Esta es una de las afecciones cardíacas más comunes. Algunas veces causa regurgitación Estenosis: cuando la válvula no se abre lo suficiente e impide el flujo de sangre Los problemas valvulares pueden aparecer al momento del nacimiento o ser consecuencia de infecciones, infartos o enfermedades o lesiones del corazón. El síntoma más característico de esta enfermedad es un sonido inusual cuando late el corazón. Esto se llama soplo. Un soplo del corazón puede escucharse con un estetoscopio. Pero muchas personas pueden tener soplos en el corazón y no tener ningún problema. Ciertos exámenes del corazón pueden detectar si usted tiene problemas con las válvulas del corazón. Algunos problemas valvulares son menores y no requieren tratamiento. Otros pueden requerir medicinas, procedimientos médicos o cirugía de reparación o reemplazo valvular. NIH: Instituto Nacional del Corazón, los Pulmones y la Sangre</dc:description>
+<dc:description xml:lang="en">Your heart has four valves. Normally, these valves open to let blood flow through or out of your heart, and then shut to keep it from flowing backward. But sometimes they don't work properly. If they don't, you could have Regurgitation - when blood leaks back through the valve in the wrong direction Mitral valve prolapse - when one of the valves, the mitral valve, has "floppy" flaps and doesn't close tightly. It's one of the most common heart valve conditions. Sometimes it causes regurgitation. Stenosis - when the valve doesn't open enough and blocks blood flow Valve problems can be present at birth or caused by infections, heart attacks, or heart disease or damage. The main sign of heart valve disease is an unusual heartbeat sound called a heart murmur. Your doctor can hear a heart murmur with a stethoscope. But many people have heart murmurs without having a problem. Heart tests can show if you have a heart valve disease. Some valve problems are minor and do not need treatment. Others might require medicine, medical procedures, or surgery to repair or replace the valve. NIH: National Heart, Lung, and Blood Institute</dc:description>
+<dc:subject dcterms="mesh">Heart Valve Diseases</dc:subject>
+<dc:subject xml:lang="es">Enfermedades de las válvulas del corazón</dc:subject>
+<dc:subject xml:lang="es">Válvulas del corazón</dc:subject>
+<dc:subject xml:lang="es">Enfermedades de las</dc:subject>
+<dc:subject xml:lang="es">Válvula aórtica</dc:subject>
+<dc:subject xml:lang="es">Válvulas cardíacas</dc:subject>
+<dc:subject xml:lang="es">Infección</dc:subject>
+<dc:subject xml:lang="es">Soplos cardíacos</dc:subject>
+<dc:subject xml:lang="es">Fiebre reumática</dc:subject>
+<dc:subject xml:lang="es">Estenosis valvular aórtica</dc:subject>
+<dc:subject xml:lang="es">Valvular aórtica</dc:subject>
+<dc:subject xml:lang="es">Estenosis</dc:subject>
+<dc:subject xml:lang="es">Válvula mitral</dc:subject>
+<dc:subject xml:lang="es">Válvula pulmonar</dc:subject>
+<dc:subject xml:lang="es">Válvula tricúspide</dc:subject>
+<dc:subject xml:lang="en">Heart Valve Diseases</dc:subject>
+<dc:subject xml:lang="en">Aortic Stenosis</dc:subject>
+<dc:subject xml:lang="en">Valvular Heart Diseases</dc:subject>
+<dc:subject xml:lang="en">Heart Murmur</dc:subject>
+</metadata>
+</record>
+</MedlinePlus-document>

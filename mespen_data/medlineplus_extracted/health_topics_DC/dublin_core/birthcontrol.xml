@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<MedlinePlus-document>
+<record>
+<header>
+<identifier>https://medlineplus.gov/birthcontrol.html</identifier>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title type="alternate" xml:lang="es">Contracepción</dc:title>
+<dc:title type="alternate" xml:lang="es">Planificación familiar</dc:title>
+<dc:title type="alternate" xml:lang="es">Anticonceptivos</dc:title>
+<dc:title type="alternate" xml:lang="en">Family Planning</dc:title>
+<dc:title type="alternate" xml:lang="en">Contraception</dc:title>
+<dc:title type="alternate" xml:lang="en">IUD</dc:title>
+<dc:type>Text</dc:type>
+<dc:language>spa</dc:language>
+<dc:language>eng</dc:language>
+<dc:title xml:lang="es">Control de la natalidad y contracepción</dc:title>
+<dc:title xml:lang="en">Birth Control</dc:title>
+<dc:publisher>National Library of Medicine</dc:publisher>
+<dc:relation type="IsPartOf">Male Reproductive System</dc:relation>
+<dc:relation type="IsPartOf">Women</dc:relation>
+<dc:relation type="IsPartOf">Pregnancy and Reproduction</dc:relation>
+<dc:relation type="IsPartOf">Men</dc:relation>
+<dc:relation type="IsPartOf">Female Reproductive System</dc:relation>
+<dc:date type="created">2002-07-21</dc:date>
+<dc:date type="modified">2018-01-08</dc:date>
+<dc:identifier type="URL" xml:lang="es">https://medlineplus.gov/spanish/birthcontrol.html</dc:identifier>
+<dc:identifier type="URL" xml:lang="en">https://medlineplus.gov/birthcontrol.html</dc:identifier>
+<dc:description xml:lang="es">El control de la natalidad, también conocido como anticoncepción, está diseñado para prevenir el embarazo. Los métodos anticonceptivos pueden trabajar en varias formas: Impedir que los espermatozoides lleguen a los óvulos. Estos tipos incluyen condones, diafragmas, capuchones o cubiertas cervicales y esponjas anticonceptivas Evitar que los ovarios de la mujer liberen óvulos que puedan ser fertilizados. Estos tipos incluyen píldoras anticonceptivas, parches, inyecciones, anillos vaginales y píldoras anticonceptivas de emergencia. Los dispositivos intrauterinos, que se implantan en el útero, pueden mantenerse en su lugar durante varios años Esterilización, que impide en forma permanente que una mujer quede embarazada o que un hombre sea capaz de embarazar a una mujer Su opción de control de la natalidad depende de varios factores. Estos incluyen su salud, la frecuencia de su actividad sexual, número de parejas sexuales y el deseo de tener hijos en el futuro. Su médico puede ayudarle a seleccionar el mejor método anticonceptivo para usted. NIH: Instituto Nacional de Salud Infantil y Desarrollo Humano</dc:description>
+<dc:description xml:lang="en">Birth control, also known as contraception, is designed to prevent pregnancy. Birth control methods may work in a number of different ways: Preventing sperm from getting to the eggs. Types include condoms, diaphragms, cervical caps, and contraceptive sponges. Keeping the woman's ovaries from releasing eggs that could be fertilized. Types include birth control pills, patches, shots, vaginal rings, and emergency contraceptive pills. IUDs, devices which are implanted into the uterus. They can be kept in place for several years. Sterilization, which permanently prevents a woman from getting pregnant or a man from being able to get a woman pregnant Your choice of birth control should depend on several factors. These include your health, frequency of sexual activity, number of sexual partners and desire to have children in the future. Your health care provider can help you select the best form of birth control for you. NIH: National Institute of Child Health and Human Development</dc:description>
+<dc:subject dcterms="mesh">Contraception</dc:subject>
+<dc:subject dcterms="mesh">Family Planning Services</dc:subject>
+<dc:subject xml:lang="es">Control de la natalidad y contracepción</dc:subject>
+<dc:subject xml:lang="es">Contracepción</dc:subject>
+<dc:subject xml:lang="es">Planificación familiar</dc:subject>
+<dc:subject xml:lang="es">Anticonceptivos</dc:subject>
+<dc:subject xml:lang="en">Birth Control</dc:subject>
+<dc:subject xml:lang="en">Family Planning</dc:subject>
+<dc:subject xml:lang="en">Contraception</dc:subject>
+<dc:subject xml:lang="en">IUD</dc:subject>
+</metadata>
+</record>
+</MedlinePlus-document>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<MedlinePlus-document>
+<record>
+<header>
+<identifier>https://medlineplus.gov/analcancer.html</identifier>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title type="alternate" xml:lang="es">Ano, Cáncer</dc:title>
+<dc:title type="alternate" xml:lang="es">Anal, Cáncer</dc:title>
+<dc:title type="alternate" xml:lang="es">Cáncer anal</dc:title>
+<dc:type>Text</dc:type>
+<dc:language>spa</dc:language>
+<dc:language>eng</dc:language>
+<dc:title xml:lang="es">Cáncer del ano</dc:title>
+<dc:title xml:lang="en">Anal Cancer</dc:title>
+<dc:publisher>National Library of Medicine</dc:publisher>
+<dc:relation type="IsPartOf">Cancers</dc:relation>
+<dc:relation type="IsPartOf">Digestive System</dc:relation>
+<dc:date type="created">2005-02-10</dc:date>
+<dc:date type="modified">2017-11-30</dc:date>
+<dc:identifier type="URL" xml:lang="es">https://medlineplus.gov/spanish/analcancer.html</dc:identifier>
+<dc:identifier type="URL" xml:lang="en">https://medlineplus.gov/analcancer.html</dc:identifier>
+<dc:description xml:lang="es">El ano es por donde se expulsan las heces cuando va al baño. Está compuesto de capas externas de la piel y el final de su intestino grueso. El cáncer anal es una enfermedad en la cual células cancerosas se forman en los tejidos del ano. El cáncer anal es un tipo raro de cáncer. Es más común en fumadores y personas mayores de 50 años. También está en mayor riesgo si tiene VPH, practica sexo anal o tiene muchas parejas sexuales. Los síntomas incluyen hemorragia, dolor o abultamientos en la zona anal. La picazón y las secreciones también pueden ser señales de cáncer anal. Los médicos usan pruebas que examinan el ano para diagnosticarlo. Estos incluyen un examen físico, endoscopia, ecografía y biopsia. Los posibles tratamientos incluyen radiación, quimioterapia y cirugía. NIH: Instituto Nacional del Cáncer</dc:description>
+<dc:description xml:lang="en">The anus is where stool leaves your body when you go to the bathroom. It is made up of your outer layers of skin and the end of your large intestine. Anal cancer is a disease in which cancer cells form in the tissues of the anus. Anal cancer is rare. It is more common in smokers and people over 50. You are also at higher risk if you have HPV, have anal sex, or have many sexual partners. Symptoms include bleeding, pain, or lumps in the anal area. Anal itching and discharge can also be signs of anal cancer. Doctors use tests that examine the anus to diagnose anal cancer. They include a physical exam, endoscopy, ultrasound, and biopsy. Treatments include radiation therapy, chemotherapy, and surgery. NIH: National Cancer Institute</dc:description>
+<dc:subject dcterms="mesh">Anus Neoplasms</dc:subject>
+<dc:subject xml:lang="es">Cáncer del ano</dc:subject>
+<dc:subject xml:lang="es">Ano</dc:subject>
+<dc:subject xml:lang="es">Cáncer</dc:subject>
+<dc:subject xml:lang="es">Anal</dc:subject>
+<dc:subject xml:lang="es">Cáncer</dc:subject>
+<dc:subject xml:lang="es">Cáncer anal</dc:subject>
+<dc:subject xml:lang="en">Anal Cancer</dc:subject>
+</metadata>
+</record>
+</MedlinePlus-document>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<MedlinePlus-document>
+<record>
+<header>
+<identifier>https://medlineplus.gov/childrenspage.html</identifier>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title type="alternate" xml:lang="es">Para los niños</dc:title>
+<dc:title type="alternate" xml:lang="es">Niños, Páginas para</dc:title>
+<dc:title type="alternate" xml:lang="es">Chicos, Página para los</dc:title>
+<dc:title type="alternate" xml:lang="en">For Children</dc:title>
+<dc:title type="alternate" xml:lang="en">Kids' Page</dc:title>
+<dc:type>Text</dc:type>
+<dc:language>spa</dc:language>
+<dc:language>eng</dc:language>
+<dc:title xml:lang="es">Página para niños</dc:title>
+<dc:title xml:lang="en">Children's Page</dc:title>
+<dc:publisher>National Library of Medicine</dc:publisher>
+<dc:relation type="IsPartOf">Children and Teenagers</dc:relation>
+<dc:date type="created">2002-07-21</dc:date>
+<dc:date type="modified">2017-09-08</dc:date>
+<dc:identifier type="URL" xml:lang="es">https://medlineplus.gov/spanish/childrenspage.html</dc:identifier>
+<dc:identifier type="URL" xml:lang="en">https://medlineplus.gov/childrenspage.html</dc:identifier>
+<dc:description xml:lang="es">Niños, esta página es para ustedes. Aprendan de todo, desde cómo funciona el cuerpo hasta lo que ocurre cuando van a un hospital. Hay preguntas, juegos y muchos sitios divertidos para explorar. ¡A divertirse!</dc:description>
+<dc:description xml:lang="en">Kids, this page is for you. Learn about everything from how the body works to what happens when you go to the hospital. There are quizzes, games and lots of cool web sites for you to explore. Have fun!</dc:description>
+<dc:subject dcterms="mesh">Child</dc:subject>
+<dc:subject xml:lang="es">Página para niños</dc:subject>
+<dc:subject xml:lang="es">Para los niños</dc:subject>
+<dc:subject xml:lang="es">Niños</dc:subject>
+<dc:subject xml:lang="es">Páginas para</dc:subject>
+<dc:subject xml:lang="es">Chicos</dc:subject>
+<dc:subject xml:lang="es">Página para los</dc:subject>
+<dc:subject xml:lang="en">Children's Page</dc:subject>
+<dc:subject xml:lang="en">For Children</dc:subject>
+<dc:subject xml:lang="en">Kids' Page</dc:subject>
+</metadata>
+</record>
+</MedlinePlus-document>

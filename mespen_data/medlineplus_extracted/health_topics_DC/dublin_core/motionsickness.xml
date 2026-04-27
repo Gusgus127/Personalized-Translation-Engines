@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<MedlinePlus-document>
+<record>
+<header>
+<identifier>https://medlineplus.gov/motionsickness.html</identifier>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title type="alternate" xml:lang="es">Enfermedad por movimiento</dc:title>
+<dc:title type="alternate" xml:lang="es">Movimiento, Enfermedad</dc:title>
+<dc:title type="alternate" xml:lang="en">Seasickness</dc:title>
+<dc:title type="alternate" xml:lang="en">Airsickness</dc:title>
+<dc:title type="alternate" xml:lang="en">Carsickness</dc:title>
+<dc:type>Text</dc:type>
+<dc:language>spa</dc:language>
+<dc:language>eng</dc:language>
+<dc:title xml:lang="es">Mareo (Cinetosis)</dc:title>
+<dc:title xml:lang="en">Motion Sickness</dc:title>
+<dc:publisher>National Library of Medicine</dc:publisher>
+<dc:relation type="IsPartOf">Symptoms</dc:relation>
+<dc:date type="created">2003-12-09</dc:date>
+<dc:date type="modified">2017-03-30</dc:date>
+<dc:identifier type="URL" xml:lang="es">https://medlineplus.gov/spanish/motionsickness.html</dc:identifier>
+<dc:identifier type="URL" xml:lang="en">https://medlineplus.gov/motionsickness.html</dc:identifier>
+<dc:description xml:lang="es">El mareo por movimiento o cinetosis es un problema común entre las personas que viajan en automóvil, tren, avión, y especialmente, en barco. Cualquier persona puede tenerla, pero es más común en niños, mujeres embarazadas y personas que toman ciertas medicinas. La cinetosis puede suceder repentinamente, con una sensación de mareos y sudores fríos. Eso puede conducir a vértigo, náusea y vómitos. El cerebro siente el movimiento al recibir las señales provenientes del oído interno, los ojos, los músculos y las articulaciones. Cuando recibe señales que no coinciden, puede surgir el mareo por movimiento. Por ejemplo, si está leyendo en su teléfono mientras viaja en el autobús, sus ojos están enfocados en algo que no está en movimiento. Sin embargo, el oído interno percibe el movimiento. El lugar donde se siente puede hacer una diferencia. El asiento delantero del automóvil, los vagones de un tren, la cubierta de un barco o los asientos cercanos a las alas de un avión son los más adecuados para viajar. Mantener la vista fija en el horizonte, en lugar de intentar leer o ver algo dentro del vehículo, también puede ayudar. Existen medicinas que pueden prevenir o trata el mareo por movimiento, pero por lo general causan somnolencia. Centros para el Control y la Prevención de Enfermedades</dc:description>
+<dc:description xml:lang="en">Motion sickness is a common problem in people traveling by car, train, airplanes, and especially boats. Anyone can get it, but it is more common in children, pregnant women, and people taking certain medicines. Motion sickness can start suddenly, with a queasy feeling and cold sweats. It can then lead to dizziness and nausea and vomiting. Your brain senses movement by getting signals from your inner ears, eyes, muscles, and joints. When it gets signals that do not match, you can get motion sickness. For example, if you are reading on your phone while riding a bus, your eyes are focused on something that is not moving, but your inner ear senses motion. Where you sit can make a difference. The front seat of a car, forward cars of a train, upper deck on a boat or wing seats in a plane may give you a smoother ride. Looking out into the distance - instead of trying to read or look at something in the vehicle - can also help. Centers for Disease Control and Prevention</dc:description>
+<dc:subject dcterms="mesh">Motion Sickness</dc:subject>
+<dc:subject xml:lang="es">Mareo (Cinetosis)</dc:subject>
+<dc:subject xml:lang="es">Enfermedad por movimiento</dc:subject>
+<dc:subject xml:lang="es">Movimiento</dc:subject>
+<dc:subject xml:lang="es">Enfermedad</dc:subject>
+<dc:subject xml:lang="en">Motion Sickness</dc:subject>
+<dc:subject xml:lang="en">Seasickness</dc:subject>
+<dc:subject xml:lang="en">Airsickness</dc:subject>
+<dc:subject xml:lang="en">Carsickness</dc:subject>
+</metadata>
+</record>
+</MedlinePlus-document>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<MedlinePlus-document>
+<record>
+<header>
+<identifier>https://medlineplus.gov/latexallergy.html</identifier>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title type="alternate" xml:lang="es">Látex, Alergia</dc:title>
+<dc:title type="alternate" xml:lang="en">Allergy, Latex</dc:title>
+<dc:type>Text</dc:type>
+<dc:language>spa</dc:language>
+<dc:language>eng</dc:language>
+<dc:title xml:lang="es">Alergia al látex</dc:title>
+<dc:title xml:lang="en">Latex Allergy</dc:title>
+<dc:publisher>National Library of Medicine</dc:publisher>
+<dc:relation type="IsPartOf">Immune System</dc:relation>
+<dc:date type="created">2002-07-21</dc:date>
+<dc:date type="modified">2017-11-08</dc:date>
+<dc:identifier type="URL" xml:lang="es">https://medlineplus.gov/spanish/latexallergy.html</dc:identifier>
+<dc:identifier type="URL" xml:lang="en">https://medlineplus.gov/latexallergy.html</dc:identifier>
+<dc:description xml:lang="es">El látex es un líquido lechoso que proviene del árbol tropical del caucho. Cientos de productos de uso cotidiano contienen látex. La exposición repetida a una proteína del látex natural puede aumentar sus probabilidades de desarrollar una alergia a este producto. Si su sistema inmunitario detecta esta proteína, puede causar una reacción en cuestión de minutos. Podría aparecer salpullido, asma y, en raros casos, shock anafiláctico por exposición al látex. Su doctor puede diagnosticar la alergia al látex por medio de un examen físico y exámenes de piel y de sangre. Existen medicamentos para tratar la reacción pero lo mejor es evitar estar expuesto al látex. Estos son los lugares más comunes donde se lo encuentra: Guantes Preservativos Globos Bandas elásticas Suelas de zapatos Chupones (chupetes) Se pueden encontrar versiones sin látex de estos productos.</dc:description>
+<dc:description xml:lang="en">Latex is a milky fluid that comes from the tropical rubber tree. Hundreds of everyday products contain latex. Repeated exposure to a protein in natural latex can make you more likely to develop a latex allergy. If your immune system detects the protein, a reaction can start in minutes. You could get a rash or asthma. In rare cases you could have a severe reaction called anaphylaxis. Your doctor may use a physical exam and skin and blood tests to diagnose it. There are medicines to treat a reaction, but it is best to try to avoid latex. Common latex products include Gloves Condoms Balloons Rubber bands Shoe soles Pacifiers You can find latex-free versions of these products.</dc:description>
+<dc:subject dcterms="mesh">Latex Hypersensitivity</dc:subject>
+<dc:subject xml:lang="es">Alergia al látex</dc:subject>
+<dc:subject xml:lang="es">Látex</dc:subject>
+<dc:subject xml:lang="es">Alergia</dc:subject>
+<dc:subject xml:lang="en">Latex Allergy</dc:subject>
+<dc:subject xml:lang="en">Allergy</dc:subject>
+<dc:subject xml:lang="en">Latex</dc:subject>
+</metadata>
+</record>
+</MedlinePlus-document>

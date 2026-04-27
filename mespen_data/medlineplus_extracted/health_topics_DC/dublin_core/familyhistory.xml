@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<MedlinePlus-document>
+<record>
+<header>
+<identifier>https://medlineplus.gov/familyhistory.html</identifier>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:type>Text</dc:type>
+<dc:language>spa</dc:language>
+<dc:language>eng</dc:language>
+<dc:title xml:lang="es">Historia familiar</dc:title>
+<dc:title xml:lang="en">Family History</dc:title>
+<dc:publisher>National Library of Medicine</dc:publisher>
+<dc:relation type="IsPartOf">Wellness and Lifestyle</dc:relation>
+<dc:relation type="IsPartOf">Genetics/Birth Defects</dc:relation>
+<dc:date type="created">2008-02-11</dc:date>
+<dc:date type="modified">2017-02-27</dc:date>
+<dc:identifier type="URL" xml:lang="es">https://medlineplus.gov/spanish/familyhistory.html</dc:identifier>
+<dc:identifier type="URL" xml:lang="en">https://medlineplus.gov/familyhistory.html</dc:identifier>
+<dc:description xml:lang="es">Su historia familiar incluye la información acerca de su salud y la de sus parientes cercanos. La historia familiar es un factor de riesgo importante para problemas como la insuficiencia cardiaca, derrame cerebral, diabetes y cáncer. Un factor de riesgo es cualquier cosa que aumente sus posibilidades de adquirir una enfermedad. El motivo por el cual la historia familiar puede ayudar a predecir el riesgo es que las familias comparten sus genes, así como otros factores que afectan la salud, como el ambiente, el estilo de vida y los hábitos. Tener un familiar con una enfermedad aumenta su riesgo, pero no significa que la tendrá. Conocer que usted corre este riesgo le da la oportunidad de disminuirlo siguiendo un estilo de vida más sano y sometiéndose a los exámenes necesarios. Puede empezar hablando con sus familiares sobre su salud. Haga un árbol genealógico y agréguele la información de salud. También es útil tener copias de los registros médicos y las actas de defunción. Centros para el Control y la Prevención de Enfermedades</dc:description>
+<dc:description xml:lang="en">Your family history includes health information about you and your close relatives. Families have many factors in common, including their genes, environment, and lifestyle. Looking at these factors can help you figure out whether you have a higher risk for certain health problems, such as heart disease, stroke, and cancer. Having a family member with a disease raises your risk, but it does not mean that you will definitely get it. Knowing that you are at risk gives you a chance to reduce that risk by following a healthier lifestyle and getting tested as needed. You can get started by talking to your relatives about their health. Draw a family tree and add the health information. Having copies of medical records and death certificates is also helpful. Centers for Disease Control and Prevention</dc:description>
+<dc:subject dcterms="mesh">Medical History Taking</dc:subject>
+<dc:subject xml:lang="es">Historia familiar</dc:subject>
+<dc:subject xml:lang="en">Family History</dc:subject>
+</metadata>
+</record>
+</MedlinePlus-document>

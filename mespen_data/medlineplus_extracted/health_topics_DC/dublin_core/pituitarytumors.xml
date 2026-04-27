@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<MedlinePlus-document>
+<record>
+<header>
+<identifier>https://medlineplus.gov/pituitarytumors.html</identifier>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title type="alternate" xml:lang="es">Glándula pituitaria, Tumor</dc:title>
+<dc:title type="alternate" xml:lang="es">Hipófisis, Tumor</dc:title>
+<dc:title type="alternate" xml:lang="en">Prolactinoma</dc:title>
+<dc:type>Text</dc:type>
+<dc:language>spa</dc:language>
+<dc:language>eng</dc:language>
+<dc:title xml:lang="es">Tumores de la glándula pituitaria</dc:title>
+<dc:title xml:lang="en">Pituitary Tumors</dc:title>
+<dc:publisher>National Library of Medicine</dc:publisher>
+<dc:relation type="IsPartOf">Endocrine System</dc:relation>
+<dc:relation type="IsPartOf">Cancers</dc:relation>
+<dc:date type="created">2009-12-23</dc:date>
+<dc:date type="modified">2018-01-03</dc:date>
+<dc:identifier type="URL" xml:lang="es">https://medlineplus.gov/spanish/pituitarytumors.html</dc:identifier>
+<dc:identifier type="URL" xml:lang="en">https://medlineplus.gov/pituitarytumors.html</dc:identifier>
+<dc:description xml:lang="es">Su glándula pituitaria es del tamaño de una arveja y está en la base de su cerebro. La glándula pituitaria es la "glándula de control maestro", produce las hormonas que están relacionadas con el crecimiento y las funciones de otras glándulas del cuerpo. Los tumores de la glándula pituitaria son comunes, pero usualmente no causan problemas de salud. La mayoría de las personas con tumores de la glándula pituitaria nunca saben que los tienen. El tumor más común es el que produce hormonas e interfiere con el equilibrio hormonal de su cuerpo. Esto puede causar trastornos endocrinos como el síndrome de Cushing e hipertiroidismo. Los síntomas de los tumores pituitarios incluyen: Los síntomas de los tumores pituitarios incluyen: Dolor de cabeza Problemas de visión Náusea y vómito Problemas causados por la producción de demasiadas hormonas Los tumores de la glándula pituitaria en general curables. El tratamiento, en la mayoría de los casos, es extirpar el tumor. Otras opciones son medicinas, radiación y quimioterapia.</dc:description>
+<dc:description xml:lang="en">Your pituitary gland is a pea-sized gland at the base of your brain. The pituitary is the "master control gland" - it makes hormones that affect growth and the functions of other glands in the body. Pituitary tumors are common, but often they don't cause health problems. Most people with pituitary tumors never even know they have them. The most common type of pituitary tumor produces hormones and disrupts the balance of hormones in your body. This can cause endocrine diseases such as Cushing's syndrome and hyperthyroidism. Symptoms of pituitary tumors include Headaches Vision problems Nausea and vomiting Problems caused by the production of too many hormones Pituitary tumors are usually curable. Treatment is often surgery to remove the tumor. Other options include medicines, radiation therapy, and chemotherapy.</dc:description>
+<dc:subject dcterms="mesh">Pituitary Neoplasms</dc:subject>
+<dc:subject xml:lang="es">Tumores de la glándula pituitaria</dc:subject>
+<dc:subject xml:lang="es">Glándula pituitaria</dc:subject>
+<dc:subject xml:lang="es">Tumor</dc:subject>
+<dc:subject xml:lang="es">Hipófisis</dc:subject>
+<dc:subject xml:lang="es">Tumor</dc:subject>
+<dc:subject xml:lang="en">Pituitary Tumors</dc:subject>
+<dc:subject xml:lang="en">Prolactinoma</dc:subject>
+</metadata>
+</record>
+</MedlinePlus-document>

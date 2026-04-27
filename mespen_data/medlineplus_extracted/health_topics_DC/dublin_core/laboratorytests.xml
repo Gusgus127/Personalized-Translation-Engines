@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<MedlinePlus-document>
+<record>
+<header>
+<identifier>https://medlineplus.gov/laboratorytests.html</identifier>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title type="alternate" xml:lang="es">Pruebas de orina</dc:title>
+<dc:title type="alternate" xml:lang="es">Pruebas de sangre</dc:title>
+<dc:title type="alternate" xml:lang="es">Diagnóstico</dc:title>
+<dc:title type="alternate" xml:lang="en">Blood Tests</dc:title>
+<dc:type>Text</dc:type>
+<dc:language>spa</dc:language>
+<dc:language>eng</dc:language>
+<dc:title xml:lang="es">Pruebas de laboratorio</dc:title>
+<dc:title xml:lang="en">Laboratory Tests</dc:title>
+<dc:publisher>National Library of Medicine</dc:publisher>
+<dc:relation type="IsPartOf">Diagnostic Tests</dc:relation>
+<dc:date type="created">2002-07-21</dc:date>
+<dc:date type="modified">2017-11-14</dc:date>
+<dc:identifier type="URL" xml:lang="es">https://medlineplus.gov/spanish/laboratorytests.html</dc:identifier>
+<dc:identifier type="URL" xml:lang="en">https://medlineplus.gov/laboratorytests.html</dc:identifier>
+<dc:description xml:lang="es">Las pruebas de laboratorio examinan muestras de sangre, orina o tejidos corporales. Un técnico o el médico analizan las muestras para determinar si los resultados están dentro de los límites normales. Los análisis usan un rango de valores porque lo que se considera normal varía de una persona a otra. Muchos factores afectan los resultados de los análisis. Entre ellos: Sexo, edad y raza Lo que come y lo que bebe Las medicinas que toma El seguimiento de las instrucciones antes del análisis El médico también puede comparar los resultados con análisis anteriores. Las pruebas de laboratorio son a menudo parte de un examen de rutina para detectar cambios en su salud. También ayudan a los médicos a diagnosticar cuadros clínicos, planificar o evaluar tratamientos y controlar enfermedades.</dc:description>
+<dc:description xml:lang="en">Laboratory tests check a sample of your blood, urine, or body tissues. A technician or your doctor analyzes the test samples to see if your results fall within the normal range. The tests use a range because what is normal differs from person to person. Many factors affect test results. These include Your sex, age and race What you eat and drink Medicines you take How well you followed pre-test instructions Your doctor may also compare your results to results from previous tests. Laboratory tests are often part of a routine checkup to look for changes in your health. They also help doctors diagnose medical conditions, plan or evaluate treatments, and monitor diseases.</dc:description>
+<dc:subject dcterms="mesh">Clinical Laboratory Techniques</dc:subject>
+<dc:subject xml:lang="es">Pruebas de laboratorio</dc:subject>
+<dc:subject xml:lang="es">Pruebas de orina</dc:subject>
+<dc:subject xml:lang="es">Pruebas de sangre</dc:subject>
+<dc:subject xml:lang="es">Diagnóstico</dc:subject>
+<dc:subject xml:lang="en">Laboratory Tests</dc:subject>
+<dc:subject xml:lang="en">Blood Tests</dc:subject>
+</metadata>
+</record>
+</MedlinePlus-document>

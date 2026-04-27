@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<MedlinePlus-document>
+<record>
+<header>
+<identifier>https://medlineplus.gov/prematureovarianfailure.html</identifier>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title type="alternate" xml:lang="es">Insuficiencia ovárica</dc:title>
+<dc:title type="alternate" xml:lang="es">Menopausia prematura</dc:title>
+<dc:title type="alternate" xml:lang="es">Ovarios, Falla prematura</dc:title>
+<dc:title type="alternate" xml:lang="es">Hipofunción ovárica</dc:title>
+<dc:title type="alternate" xml:lang="en">Ovarian Insufficiency</dc:title>
+<dc:type>Text</dc:type>
+<dc:language>spa</dc:language>
+<dc:language>eng</dc:language>
+<dc:title xml:lang="es">Falla ovárica prematura</dc:title>
+<dc:title xml:lang="en">Premature Ovarian Failure</dc:title>
+<dc:publisher>National Library of Medicine</dc:publisher>
+<dc:relation type="IsPartOf">Women</dc:relation>
+<dc:relation type="IsPartOf">Pregnancy and Reproduction</dc:relation>
+<dc:relation type="IsPartOf">Endocrine System</dc:relation>
+<dc:relation type="IsPartOf">Female Reproductive System</dc:relation>
+<dc:date type="created">2006-08-10</dc:date>
+<dc:date type="modified">2017-07-06</dc:date>
+<dc:identifier type="URL" xml:lang="es">https://medlineplus.gov/spanish/prematureovarianfailure.html</dc:identifier>
+<dc:identifier type="URL" xml:lang="en">https://medlineplus.gov/prematureovarianfailure.html</dc:identifier>
+<dc:description xml:lang="es">La falla ovárica prematura (FOP) ocurre cuando los ovarios de una mujer dejan de funcionar antes de los 40 años. Anteriormente, la FOP se conocía como menopausia prematura. Sin embargo, FOP no es lo mismo que menopausia. Algunas mujeres con FOP continúan teniendo menstruaciones ocasionales. La menopausia prematura ocurre cuando las menstruaciones se suspenden antes de los 40 años. Esto puede ser natural o causado por cirugía, quimioterapia o radiación. La ausencia de períodos suele ser el primer signo de FOP. Más adelante, los síntomas pueden ser similares a los de la menopausia natural. La mayoría de las mujeres con FOP no pueden lograr embarazos naturalmente. Los tratamientos de fertilidad ayudan a algunas mujeres; otras utilizan óvulos de donantes para tener hijos. No existe un tratamiento que restablezca la función ovárica normal. No obstante, muchos profesionales de la salud sugieren tomar hormonas hasta los 50 años. NIH: Instituto Nacional de Salud Infantil y Desarrollo Humano</dc:description>
+<dc:description xml:lang="en">Premature ovarian failure (POF) is when a woman's ovaries stop working before she is 40. POF is different from premature menopause. With premature menopause, your periods stop before age 40. You can no longer get pregnant. The cause can be natural or it can be a disease, surgery, chemotherapy, or radiation. With POF, some women still have occasional periods. They may even get pregnant. In most cases of POF, the cause is unknown. Missed periods are usually the first sign of POF. Later symptoms may be similar to those of natural menopause: Hot flashes Night sweats Irritability Poor concentration Decreased sex drive Pain during sex Vaginal dryness Doctors diagnose POF by doing a physical exam and lab and imaging tests. Most women with POF cannot get pregnant naturally. Fertility treatments help a few women; others use donor eggs to have children. There is no treatment that will restore normal ovarian function. However, many health care providers suggest taking hormones until age 50. NIH: National Institute of Child Health and Human Development</dc:description>
+<dc:subject dcterms="mesh">Primary Ovarian Insufficiency</dc:subject>
+<dc:subject xml:lang="es">Falla ovárica prematura</dc:subject>
+<dc:subject xml:lang="es">Insuficiencia ovárica</dc:subject>
+<dc:subject xml:lang="es">Menopausia prematura</dc:subject>
+<dc:subject xml:lang="es">Ovarios</dc:subject>
+<dc:subject xml:lang="es">Falla prematura</dc:subject>
+<dc:subject xml:lang="es">Hipofunción ovárica</dc:subject>
+<dc:subject xml:lang="en">Premature Ovarian Failure</dc:subject>
+<dc:subject xml:lang="en">Ovarian Insufficiency</dc:subject>
+</metadata>
+</record>
+</MedlinePlus-document>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<MedlinePlus-document>
+<record>
+<header>
+<identifier>https://medlineplus.gov/syringomyelia.html</identifier>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:type>Text</dc:type>
+<dc:language>spa</dc:language>
+<dc:language>eng</dc:language>
+<dc:title xml:lang="es">Siringomielia</dc:title>
+<dc:title xml:lang="en">Syringomyelia</dc:title>
+<dc:publisher>National Library of Medicine</dc:publisher>
+<dc:relation type="IsPartOf">Brain and Nerves</dc:relation>
+<dc:date type="created">2005-10-19</dc:date>
+<dc:date type="modified">2017-04-05</dc:date>
+<dc:identifier type="URL" xml:lang="es">https://medlineplus.gov/spanish/syringomyelia.html</dc:identifier>
+<dc:identifier type="URL" xml:lang="en">https://medlineplus.gov/syringomyelia.html</dc:identifier>
+<dc:description xml:lang="es">La siringomielia es un trastorno raro que causa la formación de un quiste en la médula espinal. Con el transcurso del tiempo, el quiste, llamado syrinx, se hace más grande y largo y destruye parte de la médula espinal. Las lesiones en la médula espinal por el quiste puede causar éstos síntomas: Dolor y debilidad en la espalda, los hombros, los brazos o las piernas Dolores de cabeza Incapacidad para sentir frío o calor Los síntomas varían según el tamaño y la ubicación del quiste. Suelen comenzar en la edad adulta. Por lo general, la siringomielia resulta de una anomalía en el cráneo denominada malformación de Chiari. Un tumor, una meningitis o un traumatismo físico también pueden ocasionarla. El principal tratamiento para este trastorno es la cirugía. Algunas personas también necesitan un drenaje del quiste. Medicinas pueden ayudar a reducir el dolor. En algunos casos no se presentan síntomas, por lo que no es necesario tratarla. NIH: Instituto Nacional de Trastornos Neurológicos y Accidentes Cerebrovasculares</dc:description>
+<dc:description xml:lang="en">Syringomyelia is a rare disorder that causes a cyst to form in your spinal cord. This cyst, called a syrinx, gets bigger and longer over time, destroying part of the spinal cord. Damage to the spinal cord from the syrinx can cause symptoms such as Pain and weakness in the back, shoulders, arms or legs Headaches Inability to feel hot or cold Symptoms vary according to the size and location of the syrinx. They often begin in early adulthood. Syringomyelia usually results from a skull abnormality called a Chiari I malformation. A tumor, meningitis or physical trauma can also cause it. Surgery is the main treatment. Some people also need to have the syrinx drained. Medicines can help ease pain. In some cases, there are no symptoms, so you may not need treatment.</dc:description>
+<dc:subject dcterms="mesh">Syringomyelia</dc:subject>
+<dc:subject xml:lang="es">Siringomielia</dc:subject>
+<dc:subject xml:lang="en">Syringomyelia</dc:subject>
+</metadata>
+</record>
+</MedlinePlus-document>

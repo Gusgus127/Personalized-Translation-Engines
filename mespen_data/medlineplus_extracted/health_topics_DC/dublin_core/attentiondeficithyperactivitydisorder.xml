@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<MedlinePlus-document>
+<record>
+<header>
+<identifier>https://medlineplus.gov/attentiondeficithyperactivitydisorder.html</identifier>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title type="alternate" xml:lang="es">ADHD</dc:title>
+<dc:title type="alternate" xml:lang="es">Hiperactividad</dc:title>
+<dc:title type="alternate" xml:lang="es">Déficit de atención con hiperactividad, Trastorno de</dc:title>
+<dc:title type="alternate" xml:lang="en">ADD</dc:title>
+<dc:title type="alternate" xml:lang="en">ADHD</dc:title>
+<dc:title type="alternate" xml:lang="en">Hyperactivity</dc:title>
+<dc:type>Text</dc:type>
+<dc:language>spa</dc:language>
+<dc:language>eng</dc:language>
+<dc:title xml:lang="es">Trastorno de déficit de atención e hiperactividad</dc:title>
+<dc:title xml:lang="en">Attention Deficit Hyperactivity Disorder</dc:title>
+<dc:publisher>National Library of Medicine</dc:publisher>
+<dc:relation type="IsPartOf">Mental Health and Behavior</dc:relation>
+<dc:relation type="IsPartOf">Brain and Nerves</dc:relation>
+<dc:relation type="IsPartOf">Children and Teenagers</dc:relation>
+<dc:date type="created">2002-07-21</dc:date>
+<dc:date type="modified">2017-09-27</dc:date>
+<dc:identifier type="URL" xml:lang="es">https://medlineplus.gov/spanish/attentiondeficithyperactivitydisorder.html</dc:identifier>
+<dc:identifier type="URL" xml:lang="en">https://medlineplus.gov/attentiondeficithyperactivitydisorder.html</dc:identifier>
+<dc:description xml:lang="es">¿Es difícil que su hijo se esté quieto? ¿Su hijo actúa sin pensar primero? ¿Empieza por hacer algo y no lo termina? Si es así, es posible que padezca del trastorno de déficit de atención e hiperactividad (TDAH). Casi todas las personas a veces muestran algunas de estas conductas, pero el TDAH persiste más de 6 meses y causa problemas en la escuela, el hogar y en circunstancias de carácter social. El TDAH es más común entre los niños que entre las niñas y afecta entre el 3 y el 5% de los niños en los Estados Unidos. Las principales características del TDAH son: Falta de atención Hiperactividad Impulsividad No se sabe exactamente cuál es la causa del TDAH. Existe una tendencia familiar, de modo que puede haber factores genéticos. Algunos factores ambientales también pueden influir. Una evaluación completa realizada por un profesional capacitado es la única manera de saber con seguridad si su hijo padece de TDAH. El tratamiento puede incluir medicinas para controlar los síntomas, terapia o una combinación de ambos. La estructura del hogar y la escuela también son importantes. El entrenamiento para los padres también puede ayudar. NIH: Instituto Nacional de la Salud Mental</dc:description>
+<dc:description xml:lang="en">Is it hard for your child to sit still? Does your child act without thinking first? Does your child start but not finish things? If so, your child may have attention deficit hyperactivity disorder (ADHD). Nearly everyone shows some of these behaviors at times, but ADHD lasts more than 6 months and causes problems in school, at home and in social situations. ADHD is more common in boys than girls. It affects 3-5 percent of all American children. The main features of ADHD are Inattention Hyperactivity Impulsivity No one knows exactly what causes ADHD. It sometimes runs in families, so genetics may be a factor. There may also be environmental factors. A complete evaluation by a trained professional is the only way to know for sure if your child has ADHD. Treatment may include medicine to control symptoms, therapy, or both. Structure at home and at school is important. Parent training may also help. NIH: National Institute of Mental Health</dc:description>
+<dc:subject dcterms="mesh">Attention Deficit Disorder with Hyperactivity</dc:subject>
+<dc:subject xml:lang="es">Trastorno de déficit de atención e hiperactividad</dc:subject>
+<dc:subject xml:lang="es">ADHD</dc:subject>
+<dc:subject xml:lang="es">Hiperactividad</dc:subject>
+<dc:subject xml:lang="es">Déficit de atención con hiperactividad</dc:subject>
+<dc:subject xml:lang="es">Trastorno de</dc:subject>
+<dc:subject xml:lang="en">Attention Deficit Hyperactivity Disorder</dc:subject>
+<dc:subject xml:lang="en">ADD</dc:subject>
+<dc:subject xml:lang="en">ADHD</dc:subject>
+<dc:subject xml:lang="en">Hyperactivity</dc:subject>
+</metadata>
+</record>
+</MedlinePlus-document>

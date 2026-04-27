@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<MedlinePlus-document>
+<record>
+<header>
+<identifier>https://medlineplus.gov/householdproducts.html</identifier>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title type="alternate" xml:lang="es">Productos para la limpieza</dc:title>
+<dc:title type="alternate" xml:lang="es">Venenos en el hogar</dc:title>
+<dc:title type="alternate" xml:lang="es">Productos en el hogar</dc:title>
+<dc:title type="alternate" xml:lang="en">Cleaning Products</dc:title>
+<dc:title type="alternate" xml:lang="en">Poisons in the Home</dc:title>
+<dc:type>Text</dc:type>
+<dc:language>spa</dc:language>
+<dc:language>eng</dc:language>
+<dc:title xml:lang="es">Envenenamiento con productos del hogar</dc:title>
+<dc:title xml:lang="en">Household Products</dc:title>
+<dc:publisher>National Library of Medicine</dc:publisher>
+<dc:relation type="IsPartOf">Safety Issues</dc:relation>
+<dc:relation type="IsPartOf">Poisoning, Toxicology, Environmental Health</dc:relation>
+<dc:date type="created">2002-07-21</dc:date>
+<dc:date type="modified">2018-01-17</dc:date>
+<dc:identifier type="URL" xml:lang="es">https://medlineplus.gov/spanish/householdproducts.html</dc:identifier>
+<dc:identifier type="URL" xml:lang="en">https://medlineplus.gov/householdproducts.html</dc:identifier>
+<dc:description xml:lang="es">Los productos que utiliza para la limpieza, carpintería, reparación de automóviles, jardinería y muchos otros usos domésticos pueden contener ingredientes que pueden dañar su salud, la de su familia y el medio ambiente. Éstos incluyen: Limpiadores de hornos y de drenaje Detergente en polvo Ceras para el piso Disolventes, decapantes y removedores de pintura Pesticidas Removedores de grasa y óxido Aceite de motor y aditivos de combustible Materiales para el arte y manualidades Las sustancias tóxicas en estos productos pueden causar daño si se inhalan, se ingieren o absorben a través de la piel. La gente es afectada por sustancias tóxicas en diferentes maneras. Altas dosis de una sustancia tóxica puede causar defectos de nacimiento u otros problemas graves, como daño cerebral o la muerte. Para evitar problemas, mantenga los productos en sus contenedores originales y utilícelos como lo indica la etiqueta. Siga las instrucciones de la etiqueta o busque ayuda médica si usted los traga, inhala o su piel absorbe estos productos. Agencia de Protección Ambiental</dc:description>
+<dc:description xml:lang="en">The products you use for cleaning, carpentry, auto repair, gardening, and many other household uses can contain ingredients that can harm you, your family, and the environment. These include Oven and drain cleaners Laundry powder Floor polish Paint thinners, strippers and removers Pesticides Grease and rust removers Motor oil and fuel additives Arts and craft supplies Toxic substances in these products can cause harm if inhaled, swallowed, or absorbed through the skin. People respond to toxic substances in different ways. At high doses a toxic substance might cause birth defects or other serious problems, including brain damage or death. To avoid problems, keep products in the containers they come in and use them exactly as the label says. Follow label directions or get medical help if you swallow, inhale or get them on your skin. Environmental Protection Agency</dc:description>
+<dc:subject dcterms="mesh">Household Products</dc:subject>
+<dc:subject xml:lang="es">Envenenamiento con productos del hogar</dc:subject>
+<dc:subject xml:lang="es">Productos para la limpieza</dc:subject>
+<dc:subject xml:lang="es">Venenos en el hogar</dc:subject>
+<dc:subject xml:lang="es">Productos en el hogar</dc:subject>
+<dc:subject xml:lang="en">Household Products</dc:subject>
+<dc:subject xml:lang="en">Cleaning Products</dc:subject>
+<dc:subject xml:lang="en">Poisons in the Home</dc:subject>
+</metadata>
+</record>
+</MedlinePlus-document>

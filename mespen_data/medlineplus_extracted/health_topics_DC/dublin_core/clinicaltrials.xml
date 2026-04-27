@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<MedlinePlus-document>
+<record>
+<header>
+<identifier>https://medlineplus.gov/clinicaltrials.html</identifier>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title type="alternate" xml:lang="es">Estudios clínicos</dc:title>
+<dc:type>Text</dc:type>
+<dc:language>spa</dc:language>
+<dc:language>eng</dc:language>
+<dc:title xml:lang="es">Estudios clínicos</dc:title>
+<dc:title xml:lang="en">Clinical Trials</dc:title>
+<dc:publisher>National Library of Medicine</dc:publisher>
+<dc:relation type="IsPartOf">Personal Health Issues</dc:relation>
+<dc:date type="created">2002-07-21</dc:date>
+<dc:date type="modified">2018-01-30</dc:date>
+<dc:identifier type="URL" xml:lang="es">https://medlineplus.gov/spanish/clinicaltrials.html</dc:identifier>
+<dc:identifier type="URL" xml:lang="en">https://medlineplus.gov/clinicaltrials.html</dc:identifier>
+<dc:description xml:lang="es">Los ensayos clínicos son estudios de investigación que prueban qué tan bien pueden aplicarse los descubrimientos médicos a los pacientes. Cada estudio responde preguntas científicas e intenta encontrar mejores formas de prevenir, examinar, diagnosticar o tratar una enfermedad. Los ensayos clínicos también pueden comparar un tratamiento nuevo con uno que ya se encuentra disponible. Cada ensayo clínico tiene un protocolo o plan de acción para llevarlo a cabo. El plan describe lo que se hará en el estudio, cómo se hará y por qué cada parte del estudio es necesaria. Cada estudio tiene sus propias reglas acerca de quién puede participar. Algunos necesitan voluntarios con una determinada enfermedad, otros necesitan personas sanas y otros solamente solicitan hombres o mujeres. Un Consejo Institucional de Revisión (Institutional Review Board, IRB) revisa, supervisa y aprueba muchos de los ensayos clínicos. El IRB es un comité independiente de médicos, estadistas y miembros de la comunidad. Su rol es: Asegurar que el estudio es ético Proteger los derechos y el bienestar de los participantes Asegurar que los riesgos son razonables comparados con los beneficios potenciales En Estados Unidos, un estudio clínico tiene que tener un Consejo Institucional de Revisión si esta estudiando un medicamento, producto biológico o un equipo médico que la Administración de Alimentos y Medicamentos (FDA) regula o si esta financiado o llevado a cabo por el gobierno federal. NIH: Institutos Nacionales de la Salud</dc:description>
+<dc:description xml:lang="en">Clinical trials are research studies that test how well new medical approaches work in people. Each study answers scientific questions and tries to find better ways to prevent, screen for, diagnose, or treat a disease. Clinical trials may also compare a new treatment to a treatment that is already available. Every clinical trial has a protocol, or action plan, for conducting the trial. The plan describes what will be done in the study, how it will be conducted, and why each part of the study is necessary. Each study has its own rules about who can take part. Some studies need volunteers with a certain disease. Some need healthy people. Others want just men or just women. An Institutional Review Board (IRB) reviews, monitors, and approves many clinical trials. It is an independent committee of physicians, statisticians, and members of the community. Its role is to Make sure that the study is ethical Protect the rights and welfare of the participants Make sure that the risks are reasonable when compared to the potential benefits In the United States, a clinical trial must have an IRB if it is studying a drug, biological product, or medical device that the Food and Drug Administration (FDA) regulates, or it is funded or carried out by the federal government. NIH: National Institutes of Health</dc:description>
+<dc:subject dcterms="mesh">Clinical Trials as Topic</dc:subject>
+<dc:subject xml:lang="es">Estudios clínicos</dc:subject>
+<dc:subject xml:lang="es">Estudios clínicos</dc:subject>
+<dc:subject xml:lang="en">Clinical Trials</dc:subject>
+</metadata>
+</record>
+</MedlinePlus-document>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<MedlinePlus-document>
+<record>
+<header>
+<identifier>https://medlineplus.gov/vitamine.html</identifier>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:type>Text</dc:type>
+<dc:language>spa</dc:language>
+<dc:language>eng</dc:language>
+<dc:title xml:lang="es">Vitamina E</dc:title>
+<dc:title xml:lang="en">Vitamin E</dc:title>
+<dc:publisher>National Library of Medicine</dc:publisher>
+<dc:relation type="IsPartOf">Food and Nutrition</dc:relation>
+<dc:date type="created">2011-07-07</dc:date>
+<dc:date type="modified">2016-02-24</dc:date>
+<dc:identifier type="URL" xml:lang="es">https://medlineplus.gov/spanish/vitamine.html</dc:identifier>
+<dc:identifier type="URL" xml:lang="en">https://medlineplus.gov/vitamine.html</dc:identifier>
+<dc:description xml:lang="es">Las vitaminas son sustancias que su cuerpo necesita para crecer y desarrollarse en forma normal. La vitamina E es un antioxidante. Juega un papel en los procesos de su sistema inmunitario y metabólico. Buenas fuentes de vitamina E incluyen: Aceites vegetales Margarina Nueces y semillas Verduras de hojas La vitamina E también se encuentra en los cereales. La mayoría de la gente consume suficiente vitamina E a través de la dieta. Las personas que padecen enfermedades tal como trastornos hepáticos, fibrosis quística y enfermedad de Crohn pueden necesitar más vitamina E. Los suplementos de vitamina E pueden ser dañinos para las personas que toman anticoagulantes u otros medicamentos. Consulte con su proveedor de salud antes de consumir cualquier suplemento. NIH: Oficina de Suplementos Dietéticos</dc:description>
+<dc:description xml:lang="en">Vitamins are substances that your body needs to grow and develop normally. Vitamin E is an antioxidant. It plays a role in your immune system and metabolic processes. Good sources of vitamin E include Vegetable oils Margarine Nuts and seeds Leafy greens Vitamin E is also added to foods like cereals. Most people get enough vitamin E from the foods they eat. People with certain disorders, such as liver diseases, cystic fibrosis, and Crohn's disease may need extra vitamin E. Vitamin E supplements may be harmful for people who take blood thinners and other medicines. Check with your health care provider before taking the supplements. NIH: National Institutes of Health Office of Dietary Supplements</dc:description>
+<dc:subject dcterms="mesh">Vitamin E</dc:subject>
+<dc:subject xml:lang="es">Vitamina E</dc:subject>
+<dc:subject xml:lang="en">Vitamin E</dc:subject>
+<dc:subject xml:lang="en">Alpha-tocopherol</dc:subject>
+</metadata>
+</record>
+</MedlinePlus-document>

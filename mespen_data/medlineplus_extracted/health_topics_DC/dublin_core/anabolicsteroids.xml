@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<MedlinePlus-document>
+<record>
+<header>
+<identifier>https://medlineplus.gov/anabolicsteroids.html</identifier>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:type>Text</dc:type>
+<dc:language>spa</dc:language>
+<dc:language>eng</dc:language>
+<dc:title xml:lang="es">Esteroides anabólicos</dc:title>
+<dc:title xml:lang="en">Anabolic Steroids</dc:title>
+<dc:publisher>National Library of Medicine</dc:publisher>
+<dc:relation type="IsPartOf">Substance Abuse Problems</dc:relation>
+<dc:date type="created">2002-07-21</dc:date>
+<dc:date type="modified">2017-11-08</dc:date>
+<dc:identifier type="URL" xml:lang="es">https://medlineplus.gov/spanish/anabolicsteroids.html</dc:identifier>
+<dc:identifier type="URL" xml:lang="en">https://medlineplus.gov/anabolicsteroids.html</dc:identifier>
+<dc:description xml:lang="es">Los esteroides anabólicos son sustancias sintéticas (hechas por el hombre) relacionadas con las hormonas sexuales masculinas. Los usos médicos de los esteroides anabólicos incluyen algunos problemas hormonales en hombres, pubertad tardía y pérdida muscular debido a ciertas enfermedades. Los físicoculturistas y los atletas suelen consumir esteroides anabólicos para crear masa muscular y mejorar el desempeño atlético. Pero su consumo es ilícito y nocivo. El abuso de esteroides anabólicos se ha relacionado con muchos problemas de salud. Estos incluyen: Acné Crecimiento de los senos y encogimiento de los testículos en los hombres Engrosamiento de la voz y crecimiento del vello en las mujeres Presión arterial alta Problemas cardiacos, incluyendo el infarto Enfermedad hepática, incluyendo el cáncer Conducta agresiva NIH: Instituto Nacional sobre el Abuso de Drogas</dc:description>
+<dc:description xml:lang="en">Anabolic steroids are man-made substances related to male sex hormones. Doctors use anabolic steroids to treat some hormone problems in men, delayed puberty, and muscle loss from some diseases. Bodybuilders and athletes often use anabolic steroids to build muscles and improve athletic performance. Using them this way is not legal or safe. Abuse of anabolic steroids has been linked with many health problems. They include Acne Breast growth and shrinking of testicles in men Voice deepening and growth of facial hair in women High blood pressure Heart problems, including heart attack Liver disease, including cancer Kidney damage Aggressive behavior NIH: National Institute on Drug Abuse</dc:description>
+<dc:subject dcterms="mesh">Anabolic Agents</dc:subject>
+<dc:subject xml:lang="es">Esteroides anabólicos</dc:subject>
+<dc:subject xml:lang="en">Anabolic Steroids</dc:subject>
+<dc:subject xml:lang="en">Steroids</dc:subject>
+<dc:subject xml:lang="en">Anabolic</dc:subject>
+<dc:subject xml:lang="en">Performance-Enhancing Drugs</dc:subject>
+</metadata>
+</record>
+</MedlinePlus-document>

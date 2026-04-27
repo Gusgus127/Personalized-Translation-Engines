@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<MedlinePlus-document>
+<record>
+<header>
+<identifier>https://medlineplus.gov/coronaryarterybypasssurgery.html</identifier>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title type="alternate" xml:lang="es">CABG</dc:title>
+<dc:title type="alternate" xml:lang="es">Cirugía de derivación cardíaca</dc:title>
+<dc:title type="alternate" xml:lang="en">Coronary Artery Bypass Graft</dc:title>
+<dc:title type="alternate" xml:lang="en">CABG</dc:title>
+<dc:title type="alternate" xml:lang="en">Bypass Surgery</dc:title>
+<dc:type>Text</dc:type>
+<dc:language>spa</dc:language>
+<dc:language>eng</dc:language>
+<dc:title xml:lang="es">Bypass de la arteria coronaria</dc:title>
+<dc:title xml:lang="en">Coronary Artery Bypass Surgery</dc:title>
+<dc:publisher>National Library of Medicine</dc:publisher>
+<dc:relation type="IsPartOf">Blood, Heart and Circulation</dc:relation>
+<dc:relation type="IsPartOf">Surgery and Rehabilitation</dc:relation>
+<dc:date type="created">2002-07-21</dc:date>
+<dc:date type="modified">2018-02-07</dc:date>
+<dc:identifier type="URL" xml:lang="es">https://medlineplus.gov/spanish/coronaryarterybypasssurgery.html</dc:identifier>
+<dc:identifier type="URL" xml:lang="en">https://medlineplus.gov/coronaryarterybypasssurgery.html</dc:identifier>
+<dc:description xml:lang="es">En la enfermedad de las arterias coronarias (EAC), las arterias que suministran sangre y oxígeno al músculo cardíaco se endurecen y se estrechan. Puede seguir tratamientos como cambios en el estilo de vida, medicamentos y angioplastía, un procedimiento para abrir las arterias. Si estos tratamientos no funcionan, es posible que necesite un bypass de arteria coronaria. La cirugía crea un nuevo camino para que la sangre llegue al corazón. El cirujano toma un tramo sano de una vena de la pierna o una arteria del pecho o la muñeca. Luego lo une a la arteria coronaria por encima y por debajo del área estrecha o bloqueada. Eso permite que la sangre evite el bloqueo y siga su camino. Algunas personas necesitan más de un bypass. Los resultados de la cirugía son a menudo excelentes. Muchas personas se mantienen sin síntomas por muchos años. Es posible que necesite una cirugía de nuevo si bloqueos posteriores se forman en las arterias o venas injertadas o en las arterias que no estaban bloqueadas en el pasado. Cambios en el estilo de vida y medicamentos pueden ayudar a que las arterias no se bloqueen de nuevo. NIH: Instituto Nacional del Corazón, los Pulmones y la Sangre</dc:description>
+<dc:description xml:lang="en">In coronary artery disease (CAD), the arteries that supply blood and oxygen to your heart muscle grow hardened and narrowed. You may try treatments such as lifestyle changes, medicines, and angioplasty, a procedure to open the arteries. If these treatments don't help, you may need coronary artery bypass surgery. The surgery creates a new path for blood to flow to the heart. The surgeon takes a healthy piece of vein from the leg or artery from the chest or wrist. Then the surgeon attaches it to the coronary artery, just above and below the narrowed area or blockage. This allows blood to bypass (get around) the blockage. Sometimes people need more than one bypass. The results of the surgery usually are excellent. Many people remain symptom-free for many years. You may need surgery again if blockages form in the grafted arteries or veins or in arteries that weren't blocked before. Lifestyle changes and medicines may help prevent arteries from becoming clogged again. NIH: National Heart, Lung, and Blood Institute</dc:description>
+<dc:subject dcterms="mesh">Coronary Artery Bypass</dc:subject>
+<dc:subject xml:lang="es">Bypass de la arteria coronaria</dc:subject>
+<dc:subject xml:lang="es">CABG</dc:subject>
+<dc:subject xml:lang="es">Cirugía de derivación cardíaca</dc:subject>
+<dc:subject xml:lang="en">Coronary Artery Bypass Surgery</dc:subject>
+<dc:subject xml:lang="en">Coronary Artery Bypass Graft</dc:subject>
+<dc:subject xml:lang="en">CABG</dc:subject>
+<dc:subject xml:lang="en">Bypass Surgery</dc:subject>
+</metadata>
+</record>
+</MedlinePlus-document>

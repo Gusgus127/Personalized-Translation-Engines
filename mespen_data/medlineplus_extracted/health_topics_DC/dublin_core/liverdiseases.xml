@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<MedlinePlus-document>
+<record>
+<header>
+<identifier>https://medlineplus.gov/liverdiseases.html</identifier>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title type="alternate" xml:lang="es">Hígado, Enfermedades del</dc:title>
+<dc:title type="alternate" xml:lang="es">Esteatohepatitis no alcohólica</dc:title>
+<dc:title type="alternate" xml:lang="en">Alagille Syndrome</dc:title>
+<dc:title type="alternate" xml:lang="en">Hepatic Diseases</dc:title>
+<dc:title type="alternate" xml:lang="en">Gilbert Disease</dc:title>
+<dc:type>Text</dc:type>
+<dc:language>spa</dc:language>
+<dc:language>eng</dc:language>
+<dc:title xml:lang="es">Enfermedades del hígado</dc:title>
+<dc:title xml:lang="en">Liver Diseases</dc:title>
+<dc:publisher>National Library of Medicine</dc:publisher>
+<dc:relation type="IsPartOf">Digestive System</dc:relation>
+<dc:date type="created">2002-07-21</dc:date>
+<dc:date type="modified">2017-12-04</dc:date>
+<dc:identifier type="URL" xml:lang="es">https://medlineplus.gov/spanish/liverdiseases.html</dc:identifier>
+<dc:identifier type="URL" xml:lang="en">https://medlineplus.gov/liverdiseases.html</dc:identifier>
+<dc:description xml:lang="es">El hígado es el órgano de mayor tamaño dentro del cuerpo. Ayuda al organismo a digerir los alimentos, almacena energía y elimina toxinas. Existen muchos tipos de enfermedades hepáticas: Enfermedades causadas por virus, como la hepatitis A, la hepatitis B y la hepatitis C Enfermedades causadas por drogas, venenos o toxinas o por ingerir demasiado alcohol. Los ejemplos incluyen enfermedad por hígado graso y cirrosis Cáncer de hígado Enfermedades hereditarias, como hemocromatosis y la enfermedad de Wilson Los síntomas de la enfermedad hepática pueden variar, pero a menudo incluyen hinchazón del abdomen y las piernas, tener moretones con facilidad, cambios en el color de las heces y la orina, y piel y ojos amarillentos o ictericia. A veces no hay síntomas. Las pruebas de imagen o de función hepática pueden comprobar si hay daño en el hígado o ayudar a diagnosticar enfermedades del hígado.</dc:description>
+<dc:description xml:lang="en">Your liver is the largest organ inside your body. It helps your body digest food, store energy, and remove poisons. There are many kinds of liver diseases: Diseases caused by viruses, such as hepatitis A, hepatitis B, and hepatitis C Diseases caused by drugs, poisons, or too much alcohol. Examples include fatty liver disease and cirrhosis. Liver cancer Inherited diseases, such as hemochromatosis and Wilson disease Symptoms of liver disease can vary, but they often include swelling of the abdomen and legs, bruising easily, changes in the color of your stool and urine, and jaundice, or yellowing of the skin and eyes. Sometimes there are no symptoms. Tests such as imaging tests and liver function tests can check for liver damage and help to diagnose liver diseases.</dc:description>
+<dc:subject dcterms="mesh">Liver Diseases</dc:subject>
+<dc:subject xml:lang="es">Enfermedades del hígado</dc:subject>
+<dc:subject xml:lang="es">Hígado</dc:subject>
+<dc:subject xml:lang="es">Enfermedades del</dc:subject>
+<dc:subject xml:lang="es">Esteatohepatitis no alcohólica</dc:subject>
+<dc:subject xml:lang="en">Liver Diseases</dc:subject>
+<dc:subject xml:lang="en">Alagille Syndrome</dc:subject>
+<dc:subject xml:lang="en">Hepatic Diseases</dc:subject>
+<dc:subject xml:lang="en">Gilbert Disease</dc:subject>
+</metadata>
+</record>
+</MedlinePlus-document>

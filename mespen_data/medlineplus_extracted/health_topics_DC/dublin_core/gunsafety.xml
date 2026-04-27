@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<MedlinePlus-document>
+<record>
+<header>
+<identifier>https://medlineplus.gov/gunsafety.html</identifier>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title type="alternate" xml:lang="es">Pistolas, Seguridad</dc:title>
+<dc:title type="alternate" xml:lang="es">Armas de fuego, Seguridad</dc:title>
+<dc:title type="alternate" xml:lang="en">Firearms Safety</dc:title>
+<dc:type>Text</dc:type>
+<dc:language>spa</dc:language>
+<dc:language>eng</dc:language>
+<dc:title xml:lang="es">Seguridad con las armas de fuego</dc:title>
+<dc:title xml:lang="en">Gun Safety</dc:title>
+<dc:publisher>National Library of Medicine</dc:publisher>
+<dc:relation type="IsPartOf">Safety Issues</dc:relation>
+<dc:date type="created">2009-10-07</dc:date>
+<dc:date type="modified">2017-10-02</dc:date>
+<dc:identifier type="URL" xml:lang="es">https://medlineplus.gov/spanish/gunsafety.html</dc:identifier>
+<dc:identifier type="URL" xml:lang="en">https://medlineplus.gov/gunsafety.html</dc:identifier>
+<dc:description xml:lang="es">Muchos hogares estadounidenses poseen armas, pero éstas pueden causar lesiones si no se manejan adecuadamente. Algunas recomendaciones para mantener segura a su familia son: Enseñe a sus hijos que no deben tocar las armas de fuego y que si ven una, deben dejarla en el lugar y avisarle a un adulto Si sus hijos juegan en casa de otra gente, hable con los otros padres sobre seguridad con las armas de fuego Trate cada arma como si estuviera cargada Siempre guarde las armas descargadas Guarde las balas bajo llave y en un lugar separado Guarde las armas de fuego bajo llave y esconda la llave o la combinación Si alguien en su familia sufre una enfermedad mental, depresión o tendencias violentas, no tenga armas en su hogar</dc:description>
+<dc:description xml:lang="en">Many U.S. households have guns, but they can cause harm if not handled properly. Here are some things you can do to keep yourself and your family safe: Teach children that they shouldn't touch guns and that if they see a gun, to leave it alone and tell an adult. If your children play at another home, talk to the parents about gun safety. Treat every gun as if it were loaded. Always store guns unloaded. Lock guns in a rack or safe, and hide the keys or combination. Store ammunition away from guns and keep it locked. Don't keep guns in your home if someone in your family has a mental illness, severe depression, or potential for violence.</dc:description>
+<dc:subject dcterms="mesh">Safety</dc:subject>
+<dc:subject dcterms="mesh">Firearms</dc:subject>
+<dc:subject xml:lang="es">Seguridad con las armas de fuego</dc:subject>
+<dc:subject xml:lang="es">Pistolas</dc:subject>
+<dc:subject xml:lang="es">Seguridad</dc:subject>
+<dc:subject xml:lang="es">Armas de fuego</dc:subject>
+<dc:subject xml:lang="es">Seguridad</dc:subject>
+<dc:subject xml:lang="en">Gun Safety</dc:subject>
+<dc:subject xml:lang="en">Firearms Safety</dc:subject>
+</metadata>
+</record>
+</MedlinePlus-document>

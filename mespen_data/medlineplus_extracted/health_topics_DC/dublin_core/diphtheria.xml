@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<MedlinePlus-document>
+<record>
+<header>
+<identifier>https://medlineplus.gov/diphtheria.html</identifier>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:type>Text</dc:type>
+<dc:language>spa</dc:language>
+<dc:language>eng</dc:language>
+<dc:title xml:lang="es">Difteria</dc:title>
+<dc:title xml:lang="en">Diphtheria</dc:title>
+<dc:publisher>National Library of Medicine</dc:publisher>
+<dc:relation type="IsPartOf">Ear, Nose and Throat</dc:relation>
+<dc:relation type="IsPartOf">Infections</dc:relation>
+<dc:date type="created">2002-07-21</dc:date>
+<dc:date type="modified">2016-12-05</dc:date>
+<dc:identifier type="URL" xml:lang="es">https://medlineplus.gov/spanish/diphtheria.html</dc:identifier>
+<dc:identifier type="URL" xml:lang="en">https://medlineplus.gov/diphtheria.html</dc:identifier>
+<dc:description xml:lang="es">La difteria es una infección bacteriana grave. Se puede contraer de la tos o estornudo de una persona infectada. También se puede infectar al entrar en contacto con un objeto, como un juguete, contaminado con la bacteria. La difteria usualmente afecta la nariz y la garganta. Los síntomas incluyen: Dolor de garganta Ganglios inflamados en el cuello Fiebre Debilidad El médico la diagnostica en base a signos y síntomas y una prueba de laboratorio. Tratarse rápidamente la difteria es importante. Si su médico sospecha que usted la tiene, comenzará el tratamiento antes que las pruebas de laboratorio confirmen la infección. El tratamiento es con antibióticos. La vacuna contra el tétanos, difteria y tos ferina (DPT, por sus siglas en inglés) puede prevenir la difteria, pero su protección no dura para siempre. Los niños necesitan otras dosis o refuerzos alrededor de los 12 años. Los adultos deben recibir una dosis de refuerzo cada 10 años. La difteria es muy poco frecuente en los Estados Unidos gracias a la vacuna. Centros para el Control y la Prevención de Enfermedades</dc:description>
+<dc:description xml:lang="en">Diphtheria is a serious bacterial infection. You can catch it from a person who has the infection and coughs or sneezes. You can also get infected by coming in contact with an object, such as a toy, that has bacteria on it. Diphtheria usually affects the nose and throat. Symptoms include Sore throat Swollen glands in the neck Fever Weakness Your doctor will diagnose it based on your signs and symptoms and a lab test. Getting treatment for diphtheria quickly is important. If your doctor suspects that you have it, you'll start treatment before the lab tests come back. Treatment is with antibiotics. The diphtheria, pertussis, and tetanus vaccine can prevent diphtheria, but its protection does not last forever. Children need another dose, or booster, at about age 12. Then, as adults, they should get a booster every 10 years. Diphtheria is very rare in the United States because of the vaccine. Centers for Disease Control and Prevention</dc:description>
+<dc:subject dcterms="mesh">Diphtheria</dc:subject>
+<dc:subject xml:lang="es">Difteria</dc:subject>
+<dc:subject xml:lang="en">Diphtheria</dc:subject>
+</metadata>
+</record>
+</MedlinePlus-document>

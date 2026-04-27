@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<MedlinePlus-document>
+<record>
+<header>
+<identifier>https://medlineplus.gov/acutemyeloidleukemia.html</identifier>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title type="alternate" xml:lang="es">Leucemia mieloide aguda</dc:title>
+<dc:title type="alternate" xml:lang="en">Leukemia, Myeloid, Acute</dc:title>
+<dc:title type="alternate" xml:lang="en">AML</dc:title>
+<dc:title type="alternate" xml:lang="en">Acute Myeloblastic Leukemia</dc:title>
+<dc:title type="alternate" xml:lang="en">Leukemia, Myelogenous, Acute</dc:title>
+<dc:title type="alternate" xml:lang="en">Leukemia, Myeloblastic, Acute</dc:title>
+<dc:type>Text</dc:type>
+<dc:language>spa</dc:language>
+<dc:language>eng</dc:language>
+<dc:title xml:lang="es">Leucemia mielógena aguda</dc:title>
+<dc:title xml:lang="en">Acute Myeloid Leukemia</dc:title>
+<dc:publisher>National Library of Medicine</dc:publisher>
+<dc:relation type="IsPartOf">Blood, Heart and Circulation</dc:relation>
+<dc:relation type="IsPartOf">Cancers</dc:relation>
+<dc:date type="created">2010-10-18</dc:date>
+<dc:date type="modified">2017-12-12</dc:date>
+<dc:identifier type="URL" xml:lang="es">https://medlineplus.gov/spanish/acutemyeloidleukemia.html</dc:identifier>
+<dc:identifier type="URL" xml:lang="en">https://medlineplus.gov/acutemyeloidleukemia.html</dc:identifier>
+<dc:description xml:lang="es">La leucemia es un cáncer de los glóbulos blancos. Los glóbulos blancos ayudan a su organismo a combatir las infecciones. Las células sanguíneas se forman en la médula ósea. Sin embargo, en la leucemia la médula ósea produce glóbulos blancos anormales. Estas células reemplazan a las células sanguíneas sanas y dificultan que la sangre cumpla su función. En la leucemia mielógena aguda hay demasiados tipos específicos de glóbulos blancos llamados mieloblastos. La leucemia mielógena aguda es el tipo más común de leucemia aguda en adultos. Este tipo de cáncer generalmente empeora rápidamente si no es tratado. Posibles factores de riesgo incluyen el tabaquismo, tratamiento previo con quimioterapia y exposición a radiación. Los síntomas de la leucemia mielógena aguda incluyen: Fiebre Dificultad para respirar Fácil aparición de moretones o sangrado Sangrado debajo de la piel Debilidad o cansancio Pérdida de peso o pérdida del apetito Se diagnostica con exámenes de sangre y de médula ósea. Los tratamientos pueden incluir quimioterapia, otros medicamentos, radioterapia, trasplantes de células madre y terapia dirigida. La terapia dirigida utiliza sustancias que atacan células cancerosas específicas sin dañar las células normales. Una vez que la leucemia está en remisión, se necesita tratamiento adicional para prevenir una recaída. NIH: Instituto Nacional del Cáncer</dc:description>
+<dc:description xml:lang="en">Leukemia is cancer of the white blood cells. White blood cells help your body fight infection. Your blood cells form in your bone marrow. In leukemia, however, the bone marrow produces abnormal white blood cells. These cells crowd out the healthy blood cells, making it hard for blood to do its work. In acute myeloid leukemia (AML), there are too many of a specific type of white blood cell called a myeloblast. AML is the most common type of acute leukemia in adults. This type of cancer usually gets worse quickly if it is not treated. Possible risk factors include smoking, previous chemotherapy treatment, and exposure to radiation. Symptoms of AML include: Fever Shortness of breath Easy bruising or bleeding Bleeding under the skin Weakness or feeling tired Weight loss or loss of appetite Tests that examine the blood and bone marrow diagnose AML. Treatments include chemotherapy, other drugs, radiation therapy, stem cell transplants, and targeted therapy. Targeted therapy uses substances that attack cancer cells without harming normal cells. Once the leukemia is in remission, you need additional treatment to make sure that it does not come back. NIH: National Cancer Institute</dc:description>
+<dc:subject dcterms="mesh">Leukemia, Myeloid, Acute</dc:subject>
+<dc:subject xml:lang="es">Leucemia mielógena aguda</dc:subject>
+<dc:subject xml:lang="es">Leucemia mieloide aguda</dc:subject>
+<dc:subject xml:lang="en">Acute Myeloid Leukemia</dc:subject>
+<dc:subject xml:lang="en">Leukemia</dc:subject>
+<dc:subject xml:lang="en">Myeloid</dc:subject>
+<dc:subject xml:lang="en">Acute</dc:subject>
+<dc:subject xml:lang="en">AML</dc:subject>
+<dc:subject xml:lang="en">Acute Myeloblastic Leukemia</dc:subject>
+<dc:subject xml:lang="en">Leukemia</dc:subject>
+<dc:subject xml:lang="en">Myelogenous</dc:subject>
+<dc:subject xml:lang="en">Acute</dc:subject>
+<dc:subject xml:lang="en">Leukemia</dc:subject>
+<dc:subject xml:lang="en">Myeloblastic</dc:subject>
+<dc:subject xml:lang="en">Acute</dc:subject>
+</metadata>
+</record>
+</MedlinePlus-document>

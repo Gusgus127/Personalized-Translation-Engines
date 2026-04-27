@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<MedlinePlus-document>
+<record>
+<header>
+<identifier>https://medlineplus.gov/kidneystones.html</identifier>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title type="alternate" xml:lang="es">Cálculos renales</dc:title>
+<dc:title type="alternate" xml:lang="es">Litiasis</dc:title>
+<dc:title type="alternate" xml:lang="es">Cistinuria</dc:title>
+<dc:title type="alternate" xml:lang="en">Nephrolithiasis</dc:title>
+<dc:type>Text</dc:type>
+<dc:language>spa</dc:language>
+<dc:language>eng</dc:language>
+<dc:title xml:lang="es">Piedras en los riñones</dc:title>
+<dc:title xml:lang="en">Kidney Stones</dc:title>
+<dc:publisher>National Library of Medicine</dc:publisher>
+<dc:relation type="IsPartOf">Kidneys and Urinary System</dc:relation>
+<dc:date type="created">2002-07-21</dc:date>
+<dc:date type="modified">2017-11-08</dc:date>
+<dc:identifier type="URL" xml:lang="es">https://medlineplus.gov/spanish/kidneystones.html</dc:identifier>
+<dc:identifier type="URL" xml:lang="en">https://medlineplus.gov/kidneystones.html</dc:identifier>
+<dc:description xml:lang="es">Una piedra o un cálculo renal es una pieza sólida de material que se forma en el riñón debido a sustancias presentes en la orina. Puede ser tan pequeña como un grano de arena o tan grande como una perla. La mayoría de las piedras renales se eliminan del cuerpo sin ayuda médica. Pero algunas veces una piedra no es fácil de eliminar. Puede atorarse en las vías urinarias, bloquear el flujo de orina y causar un gran dolor. Los siguientes signos pueden indicar la existencia de cálculos renales que necesitan atención médica: Dolor extremo en la espalda o un costado que no desaparece Sangre en la orina Fiebre y escalofríos Vómitos Orina con mal olor o con apariencia turbia Sensación de ardor al orinar Los doctores diagnostican las piedras en los riñones a través de análisis de orina, de sangre y de diagnósticos por imagen. Si una piedra no pasa por sí sola, es posible que se necesite tratamiento. Este puede ser a través de ondas de choque (un endoscopio insertado a través del tubo que lleva la orina fuera del cuerpo, llamada uretra) o con cirugía. NIH: Instituto Nacional de la Diabetes y las Enfermedades Digestivas y Renales</dc:description>
+<dc:description xml:lang="en">A kidney stone is a solid piece of material that forms in the kidney from substances in the urine. It may be as small as a grain of sand or as large as a pearl. Most kidney stones pass out of the body without help from a doctor. But sometimes a stone will not go away. It may get stuck in the urinary tract, block the flow of urine and cause great pain. The following may be signs of kidney stones that need a doctor's help: Extreme pain in your back or side that will not go away Blood in your urine Fever and chills Vomiting Urine that smells bad or looks cloudy A burning feeling when you urinate Your doctor will diagnose a kidney stone with urine, blood, and imaging tests. If you have a stone that won't pass on its own, you may need treatment. It can be done with shock waves; with a scope inserted through the tube that carries urine out of the body, called the urethra; or with surgery. NIH: National Institute of Diabetes and Digestive and Kidney Diseases</dc:description>
+<dc:subject dcterms="mesh">Nephrolithiasis</dc:subject>
+<dc:subject xml:lang="es">Piedras en los riñones</dc:subject>
+<dc:subject xml:lang="es">Cálculos renales</dc:subject>
+<dc:subject xml:lang="es">Litiasis</dc:subject>
+<dc:subject xml:lang="es">Cistinuria</dc:subject>
+<dc:subject xml:lang="en">Kidney Stones</dc:subject>
+<dc:subject xml:lang="en">Nephrolithiasis</dc:subject>
+</metadata>
+</record>
+</MedlinePlus-document>

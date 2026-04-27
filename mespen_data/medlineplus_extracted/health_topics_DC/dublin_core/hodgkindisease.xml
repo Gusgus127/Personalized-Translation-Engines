@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<MedlinePlus-document>
+<record>
+<header>
+<identifier>https://medlineplus.gov/hodgkindisease.html</identifier>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title type="alternate" xml:lang="es">Hodgkin, Enfermedad de</dc:title>
+<dc:type>Text</dc:type>
+<dc:language>spa</dc:language>
+<dc:language>eng</dc:language>
+<dc:title xml:lang="es">Enfermedad de Hodgkin</dc:title>
+<dc:title xml:lang="en">Hodgkin Disease</dc:title>
+<dc:publisher>National Library of Medicine</dc:publisher>
+<dc:relation type="IsPartOf">Cancers</dc:relation>
+<dc:relation type="IsPartOf">Immune System</dc:relation>
+<dc:date type="created">2002-07-21</dc:date>
+<dc:date type="modified">2017-11-14</dc:date>
+<dc:identifier type="URL" xml:lang="es">https://medlineplus.gov/spanish/hodgkindisease.html</dc:identifier>
+<dc:identifier type="URL" xml:lang="en">https://medlineplus.gov/hodgkindisease.html</dc:identifier>
+<dc:description xml:lang="es">La enfermedad de Hodgkin es un tipo de linfoma, un cáncer de una parte del sistema inmunitario llamado sistema linfático. El primer signo de la enfermedad de Hodgkin es un ganglio linfático de gran tamaño. La enfermedad puede diseminarse a los ganglios cercanos. Más adelante, puede diseminarse a los pulmones, el hígado o la médula ósea. La causa es desconocida. La enfermedad de Hodgkin es poco común. Los síntomas incluyen: Inflamación sin dolor de los ganglios linfáticos del cuello, las axilas o la ingle Fiebre y escalofríos Sudores nocturnos Pérdida de peso Pérdida del apetito Picazón en la piel Para diagnosticar la enfermedad de Hodgkin, los médicos utilizan exámenes físicos y antecedentes familiares, análisis de sangre o una biopsia. El tratamiento varía dependiendo de cuánto la enfermedad se ha diseminado. En general incluye radioterapia o quimioterapia. Entre más pronto se diagnostique la enfermedad, más eficaz será el tratamiento. En la mayoría de los casos, la enfermedad de Hodgkin puede curarse. NIH: Instituto Nacional del Cáncer</dc:description>
+<dc:description xml:lang="en">Hodgkin disease is a type of lymphoma. Lymphoma is a cancer of a part of the immune system called the lymph system. The first sign of Hodgkin disease is often an enlarged lymph node. The disease can spread to nearby lymph nodes. Later it may spread to the lungs, liver, or bone marrow. The exact cause is unknown. Hodgkin disease is rare. Symptoms include Painless swelling of the lymph nodes in the neck, armpits, or groin Fever and chills Night sweats Weight loss Loss of appetite Itchy skin To diagnose Hodgkin disease, doctors use a physical exam and history, blood tests, and a biopsy. Treatment depends on how far the disease has spread. It often includes radiation therapy or chemotherapy. The earlier the disease is diagnosed, the more effective the treatment. In most cases, Hodgkin disease can be cured. NIH: National Cancer Institute</dc:description>
+<dc:subject dcterms="mesh">Hodgkin Disease</dc:subject>
+<dc:subject xml:lang="es">Enfermedad de Hodgkin</dc:subject>
+<dc:subject xml:lang="es">Hodgkin</dc:subject>
+<dc:subject xml:lang="es">Enfermedad de</dc:subject>
+<dc:subject xml:lang="en">Hodgkin Disease</dc:subject>
+</metadata>
+</record>
+</MedlinePlus-document>

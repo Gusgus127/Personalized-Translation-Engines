@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<MedlinePlus-document>
+<record>
+<header>
+<identifier>https://medlineplus.gov/rettsyndrome.html</identifier>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:type>Text</dc:type>
+<dc:language>spa</dc:language>
+<dc:language>eng</dc:language>
+<dc:title xml:lang="es">Síndrome de Rett</dc:title>
+<dc:title xml:lang="en">Rett Syndrome</dc:title>
+<dc:publisher>National Library of Medicine</dc:publisher>
+<dc:relation type="IsPartOf">Genetics/Birth Defects</dc:relation>
+<dc:relation type="IsPartOf">Brain and Nerves</dc:relation>
+<dc:date type="created">2006-06-01</dc:date>
+<dc:date type="modified">2016-08-01</dc:date>
+<dc:identifier type="URL" xml:lang="es">https://medlineplus.gov/spanish/rettsyndrome.html</dc:identifier>
+<dc:identifier type="URL" xml:lang="en">https://medlineplus.gov/rettsyndrome.html</dc:identifier>
+<dc:description xml:lang="es">El síndrome de Rett es una rara enfermedad genética que causa problemas en el desarrollo y en el sistema nervioso, la mayoría en niñas. Se relaciona con el trastorno del espectro autista. Al principio, las bebés con síndrome de Rett parecen crecer y desarrollarse con normalidad. Sin embargo, entre los tres meses y los tres años detienen su desarrollo e inclusive pueden perder algunas habilidades. Los síntomas incluyen: Pérdida del habla Pérdida de los movimientos de las manos, tales como agarrar las cosas Movimientos compulsivos como retorcerse las manos Problemas de equilibrio Problemas respiratorios Problemas de conducta Problemas de aprendizaje o discapacidad intelectual El síndrome de Rett no tiene cura. Algunos síntomas pueden tratarse con medicinas, cirugía y fisioterapia o terapia del lenguaje. La mayoría de las personas con síndrome de Rett vive hasta la edad madura o más. Suelen necesitar cuidados durante toda su vida. NIH: Instituto Nacional de Salud Infantil y Desarrollo Humano</dc:description>
+<dc:description xml:lang="en">Rett syndrome is a rare genetic disease that causes developmental and nervous system problems, mostly in girls. It's related to autism spectrum disorder. Babies with Rett syndrome seem to grow and develop normally at first. Between 3 months and 3 years of age, though, they stop developing and even lose some skills. Symptoms include Loss of speech Loss of hand movements such as grasping Compulsive movements such as hand wringing Balance problems Breathing problems Behavior problems Learning problems or intellectual disability Rett syndrome has no cure. You can treat some of the symptoms with medicines, surgery, and physical and speech therapy. Most people with Rett syndrome live into middle age and beyond. They will usually need care throughout their lives. NIH: National Institute of Child Health and Human Development</dc:description>
+<dc:subject dcterms="mesh">Rett Syndrome</dc:subject>
+<dc:subject xml:lang="es">Síndrome de Rett</dc:subject>
+<dc:subject xml:lang="en">Rett Syndrome</dc:subject>
+</metadata>
+</record>
+</MedlinePlus-document>

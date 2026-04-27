@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<MedlinePlus-document>
+<record>
+<header>
+<identifier>https://medlineplus.gov/sprainsandstrains.html</identifier>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title type="alternate" xml:lang="es">Distensiones musculares</dc:title>
+<dc:title type="alternate" xml:lang="en">Muscle Strain</dc:title>
+<dc:title type="alternate" xml:lang="en">Ligament Injuries</dc:title>
+<dc:type>Text</dc:type>
+<dc:language>spa</dc:language>
+<dc:language>eng</dc:language>
+<dc:title xml:lang="es">Torceduras y distensiones</dc:title>
+<dc:title xml:lang="en">Sprains and Strains</dc:title>
+<dc:publisher>National Library of Medicine</dc:publisher>
+<dc:relation type="IsPartOf">Bones, Joints and Muscles</dc:relation>
+<dc:relation type="IsPartOf">Injuries and Wounds</dc:relation>
+<dc:date type="created">2002-07-21</dc:date>
+<dc:date type="modified">2017-11-20</dc:date>
+<dc:identifier type="URL" xml:lang="es">https://medlineplus.gov/spanish/sprainsandstrains.html</dc:identifier>
+<dc:identifier type="URL" xml:lang="en">https://medlineplus.gov/sprainsandstrains.html</dc:identifier>
+<dc:description xml:lang="es">Una torcedura es la torsión o estiramiento de un ligamento. Los ligamentos son tejidos que conectan los huesos de una articulación. Las caídas, las contorsiones o los golpes pueden causar una torcedura. Las torceduras del tobillo y la muñeca son comunes. Los síntomas incluyen dolor, inflamación, hematomas e incapacidad para mover la articulación. Puede sentir un chasquido o un desgarro cuando la lesión ocurre. Las distensiones son músculos o tendones estirados o rotos. Los tendones son tejidos que conectan los músculos con los huesos. Torcer o estirar estos tejidos puede causar una distensión. Las distensiones pueden ocurrir repentinamente o desarrollarse con el tiempo. Las distensiones de los músculos de la espalda y los isquiotibiales son comunes. Muchas personas sufren distensiones cuando practican deportes. Los síntomas incluyen dolor, espasmos musculares, inflamación y dificultad para mover el músculo. Al comienzo, el tratamiento de las torceduras y las distensiones suele incluir el reposo del área afectada, hielo, uso de vendas o compresión del área y medicinas. El tratamiento posterior puede incluir ejercicios y fisioterapia. NIH: Instituto Nacional de Artritis y Enfermedades Musculoesqueléticas y de la Piel</dc:description>
+<dc:description xml:lang="en">A sprain is a stretched or torn ligament. Ligaments are tissues that connect bones at a joint. Falling, twisting, or getting hit can all cause a sprain. Ankle and wrist sprains are common. Symptoms include pain, swelling, bruising, and being unable to move your joint. You might feel a pop or tear when the injury happens. A strain is a stretched or torn muscle or tendon. Tendons are tissues that connect muscle to bone. Twisting or pulling these tissues can cause a strain. Strains can happen suddenly or develop over time. Back and hamstring muscle strains are common. Many people get strains playing sports. Symptoms include pain, muscle spasms, swelling, and trouble moving the muscle. At first, treatment of both sprains and strains usually involves resting the injured area, icing it, wearing a bandage or device that compresses the area, and medicines. Later treatment might include exercise and physical therapy. NIH: National Institute of Arthritis and Musculoskeletal and Skin Diseases</dc:description>
+<dc:subject dcterms="mesh">Sprains and Strains</dc:subject>
+<dc:subject xml:lang="es">Torceduras y distensiones</dc:subject>
+<dc:subject xml:lang="es">Distensiones musculares</dc:subject>
+<dc:subject xml:lang="en">Sprains and Strains</dc:subject>
+<dc:subject xml:lang="en">Muscle Strain</dc:subject>
+<dc:subject xml:lang="en">Ligament Injuries</dc:subject>
+</metadata>
+</record>
+</MedlinePlus-document>

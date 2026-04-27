@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<MedlinePlus-document>
+<record>
+<header>
+<identifier>https://medlineplus.gov/salivaryglandcancer.html</identifier>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title type="alternate" xml:lang="es">Glándula salival, Cáncer</dc:title>
+<dc:title type="alternate" xml:lang="es">Salival, Cáncer en la glándula</dc:title>
+<dc:title type="alternate" xml:lang="en">Parotid Gland Cancer</dc:title>
+<dc:type>Text</dc:type>
+<dc:language>spa</dc:language>
+<dc:language>eng</dc:language>
+<dc:title xml:lang="es">Cáncer de la glándulas salivales</dc:title>
+<dc:title xml:lang="en">Salivary Gland Cancer</dc:title>
+<dc:publisher>National Library of Medicine</dc:publisher>
+<dc:relation type="IsPartOf">Mouth and Teeth</dc:relation>
+<dc:relation type="IsPartOf">Cancers</dc:relation>
+<dc:date type="created">2009-12-23</dc:date>
+<dc:date type="modified">2017-11-14</dc:date>
+<dc:identifier type="URL" xml:lang="es">https://medlineplus.gov/spanish/salivaryglandcancer.html</dc:identifier>
+<dc:identifier type="URL" xml:lang="en">https://medlineplus.gov/salivaryglandcancer.html</dc:identifier>
+<dc:description xml:lang="es">Sus glándulas salivales producen saliva y la deposita en la boca a través de unas aberturas llamadas ductos. La saliva hace que la comida se humedezca, lo que ayuda a masticar y a tragar. Ayuda a digerir la comida. También limpia su boca y contiene anticuerpos que matan gérmenes. El cáncer de la glándula salival es un tipo de cáncer de cabeza y cuello. Es poco común. Puede que no cause ningún síntoma o usted puede notar: Un bulto en su oreja, mejilla, mandíbula, labio o dentro de la boca Líquido que drena de su oreja Problemas para tragar o para abrir grande su boca Entumecimiento, debilidad o dolor en su cara Los médicos diagnostican el cáncer de glándulas salivales usando un examen físico, pruebas de imagen y una biopsia. El tratamiento puede incluir cirugía, radiación y/o quimioterapia. NIH: Instituto Nacional del Cáncer</dc:description>
+<dc:description xml:lang="en">Your salivary glands make saliva - sometimes called spit - and empty it into your mouth through openings called ducts. Saliva makes your food moist, which helps you chew and swallow. It helps you digest your food. It also cleans your mouth and contains antibodies that can kill germs. Salivary gland cancer is a type of head and neck cancer. It is rare. It may not cause any symptoms, or you could notice A lump in your ear, cheek, jaw, lip, or inside the mouth Fluid draining from your ear Trouble swallowing or opening the mouth widely Numbness, weakness, or pain in your face Doctors diagnose salivary gland cancer using a physical exam, imaging tests, and a biopsy. Treatment can include surgery, radiation therapy, and/or chemotherapy. NIH: National Cancer Institute</dc:description>
+<dc:subject dcterms="mesh">Salivary Gland Neoplasms</dc:subject>
+<dc:subject xml:lang="es">Cáncer de la glándulas salivales</dc:subject>
+<dc:subject xml:lang="es">Glándula salival</dc:subject>
+<dc:subject xml:lang="es">Cáncer</dc:subject>
+<dc:subject xml:lang="es">Salival</dc:subject>
+<dc:subject xml:lang="es">Cáncer en la glándula</dc:subject>
+<dc:subject xml:lang="en">Salivary Gland Cancer</dc:subject>
+<dc:subject xml:lang="en">Parotid Gland Cancer</dc:subject>
+</metadata>
+</record>
+</MedlinePlus-document>

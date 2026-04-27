@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<MedlinePlus-document>
+<record>
+<header>
+<identifier>https://medlineplus.gov/campylobacterinfections.html</identifier>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:type>Text</dc:type>
+<dc:language>spa</dc:language>
+<dc:language>eng</dc:language>
+<dc:title xml:lang="es">Infecciones por campylobacter</dc:title>
+<dc:title xml:lang="en">Campylobacter Infections</dc:title>
+<dc:publisher>National Library of Medicine</dc:publisher>
+<dc:relation type="IsPartOf">Infections</dc:relation>
+<dc:date type="created">2012-08-08</dc:date>
+<dc:date type="modified">2017-11-08</dc:date>
+<dc:identifier type="URL" xml:lang="es">https://medlineplus.gov/spanish/campylobacterinfections.html</dc:identifier>
+<dc:identifier type="URL" xml:lang="en">https://medlineplus.gov/campylobacterinfections.html</dc:identifier>
+<dc:description xml:lang="es">La infección por campylobacter es una enfermedad transmitida por los alimentos común. Usted la contrae cuando consume alimentos contaminados, en especial aves que no están bien cocidas o crudas. También puede tenerla al tomar agua contaminada o leche cruda, o manipular excrementos de animales. Algunas personas infectadas no tienen ningún síntoma. Si usted presenta síntomas, en general aparece entre dos a cinco días después de la infección. Usualmente duran una semana y los síntomas incluyen: Diarrea, que puede ser con sangre Calambres Dolor abdominal Fiebre Fatiga Náusea y vómitos Los proveedores de atención médica usan pruebas de heces para hacer un diagnóstico. La mayoría de las personas mejora sin tratamiento. Usted debería beber mucho líquido mientras dure la diarrea. Las personas que tienen una infección grave o un sistema inmunitario debilitado pueden necesitar antibióticos. En casos raros, la infección puede causar artritis reactiva o síndrome de Guillain-Barré. Para prevenir la campilobacteriosis, cocine la carne de pollo y de aves por completo. Use tablas y utensilios de cocina diferentes para cortar las carnes. Asegúrese de lavarlos bien con detergente y agua caliente luego de usarlos. Centros para el Control y la Prevención de Enfermedades</dc:description>
+<dc:description xml:lang="en">Campylobacter infection is a common foodborne illness. You usually get it from eating contaminated food, especially raw or undercooked poultry. You can also get it from drinking contaminated water or raw milk, or handling infected animal feces (poop). Some infected people don't have any symptoms. If you do have symptoms, they start two to five days after you are infected. They usually last about one week, and can include Diarrhea (which could be bloody) Cramping Abdominal pain Fever Fatigue Nausea and vomiting Health care providers use stool tests to make a diagnosis. Most people get better without treatment. You should drink extra fluids for as long as the diarrhea lasts. People who have a severe infection or a weakened immune system may need to take antibiotics. In rare cases, the infection can cause reactive arthritis or Guillain-Barre syndrome. To prevent Campylobacter infection, cook poultry thoroughly. Use a separate cutting board and utensils for meats. Make sure to clean them carefully with soap and hot water after you use them. Centers for Disease Control and Prevention</dc:description>
+<dc:subject dcterms="mesh">Campylobacter Infections</dc:subject>
+<dc:subject xml:lang="es">Infecciones por campylobacter</dc:subject>
+<dc:subject xml:lang="en">Campylobacter Infections</dc:subject>
+</metadata>
+</record>
+</MedlinePlus-document>

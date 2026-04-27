@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<MedlinePlus-document>
+<record>
+<header>
+<identifier>https://medlineplus.gov/vitamind.html</identifier>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:type>Text</dc:type>
+<dc:language>spa</dc:language>
+<dc:language>eng</dc:language>
+<dc:title xml:lang="es">Vitamina D</dc:title>
+<dc:title xml:lang="en">Vitamin D</dc:title>
+<dc:publisher>National Library of Medicine</dc:publisher>
+<dc:relation type="IsPartOf">Food and Nutrition</dc:relation>
+<dc:date type="created">2010-03-25</dc:date>
+<dc:date type="modified">2017-11-08</dc:date>
+<dc:identifier type="URL" xml:lang="es">https://medlineplus.gov/spanish/vitamind.html</dc:identifier>
+<dc:identifier type="URL" xml:lang="en">https://medlineplus.gov/vitamind.html</dc:identifier>
+<dc:description xml:lang="es">Las vitaminas son sustancias que su cuerpo necesita para crecer y funcionar en forma normal. La vitamina D ayuda al cuerpo a absorber el calcio, uno de los principales elementos que constituyen los huesos. La deficiencia de vitamina D puede llevar a enfermedades de los huesos como la osteoporosis o el raquitismo. La vitamina D juega un papel importante en los sistemas nervioso, muscular e inmunitario. Puede obtener vitamina D de tres maneras: a través de la piel, de la dieta y de suplementos. Su cuerpo forma la vitamina D naturalmente después de la exposición al sol. Sin embargo, demasiado sol puede llevar al envejecimiento y el cáncer de la piel, así que muchas personas tratan de obtener su vitamina D de otras fuentes. Los alimentos ricos en vitamina D incluyen yemas de huevo, pescado de agua salada e hígado. Otros alimentos, como la leche y el cereal, muchas veces están enriquecidos con vitamina D. Usted también puede tomar suplementos de vitamina D. Consulte con su proveedor de servicios de salud para saber la cantidad apropiada para usted. Las personas que pueden necesitar más vitamina D incluyen: Personas mayores Bebés amamantado Personas de piel oscura Personas con ciertas condiciones como enfermedades del hígado, fibrosis quística y enfermedad de Crohn Personas que tienen obesidad o las que han tenido una cirugía de derivación gástrica NIH: Oficina de Suplementos Dietéticos</dc:description>
+<dc:description xml:lang="en">Vitamins are substances that your body needs to grow and develop normally. Vitamin D helps your body absorb calcium. Calcium is one of the main building blocks of bone. A lack of vitamin D can lead to bone diseases such as osteoporosis or rickets. Vitamin D also has a role in your nerve, muscle, and immune systems. You can get vitamin D in three ways: through your skin, from your diet, and from supplements. Your body forms vitamin D naturally after exposure to sunlight. However, too much sun exposure can lead to skin aging and skin cancer. So many people try to get their vitamin D from other sources. Vitamin D-rich foods include egg yolks, saltwater fish, and liver. Some other foods, like milk and cereal, often have added vitamin D. You can also take vitamin D supplements. Check with your health care provider to see how much you should take. People who might need extra vitamin D include Seniors Breastfed infants People with dark skin People with certain conditions, such as liver diseases, cystic fibrosis and Crohn's disease People who have obesity or have had gastric bypass surgery NIH: National Institutes of Health Office of Dietary Supplements</dc:description>
+<dc:subject dcterms="mesh">Vitamin D</dc:subject>
+<dc:subject xml:lang="es">Vitamina D</dc:subject>
+<dc:subject xml:lang="en">Vitamin D</dc:subject>
+</metadata>
+</record>
+</MedlinePlus-document>

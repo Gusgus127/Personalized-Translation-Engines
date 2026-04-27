@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<MedlinePlus-document>
+<record>
+<header>
+<identifier>https://medlineplus.gov/jawinjuriesanddisorders.html</identifier>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title type="alternate" xml:lang="es">Mandíbula, Lesiones y enfermedades</dc:title>
+<dc:title type="alternate" xml:lang="es">Quijada, Lesiones y enfermedades</dc:title>
+<dc:title type="alternate" xml:lang="en">Mandibular Disorders</dc:title>
+<dc:title type="alternate" xml:lang="en">Maxillary Disorders</dc:title>
+<dc:type>Text</dc:type>
+<dc:language>spa</dc:language>
+<dc:language>eng</dc:language>
+<dc:title xml:lang="es">Lesiones y enfermedades de la mandíbula</dc:title>
+<dc:title xml:lang="en">Jaw Injuries and Disorders</dc:title>
+<dc:publisher>National Library of Medicine</dc:publisher>
+<dc:relation type="IsPartOf">Injuries and Wounds</dc:relation>
+<dc:relation type="IsPartOf">Mouth and Teeth</dc:relation>
+<dc:relation type="IsPartOf">Bones, Joints and Muscles</dc:relation>
+<dc:date type="created">2010-06-21</dc:date>
+<dc:date type="modified">2017-12-04</dc:date>
+<dc:identifier type="URL" xml:lang="es">https://medlineplus.gov/spanish/jawinjuriesanddisorders.html</dc:identifier>
+<dc:identifier type="URL" xml:lang="en">https://medlineplus.gov/jawinjuriesanddisorders.html</dc:identifier>
+<dc:description xml:lang="es">Su mandíbula es un conjunto de huesos que sostiene sus dientes. Consiste en dos partes principales. La parte de arriba es el maxilar superior. Esta parte no se mueve. La parte inferior es movible y se llama mandíbula o maxilar inferior. Usted la mueve cuando habla o mastica. Las dos partes se juntan en su mentón. La articulación donde la mandíbula se encuentra con su cráneo es la articulación temporomandibular. Los problemas de la mandíbula incluyen Fracturas Dislocaciones Trastorno de la articulación temporomandibular Osteonecrosis, que sucede cuando sus huesos no reciben suficiente sangre Canceres El tratamiento de los problemas de la mandíbula depende de la causa.</dc:description>
+<dc:description xml:lang="en">Your jaw is a set of bones that holds your teeth. It consists of two main parts. The upper part is the maxilla. It doesn't move. The moveable lower part is called the mandible. You move it when you talk or chew. The two halves of the mandible meet at your chin. The joint where the mandible meets your skull is the temporomandibular joint. Jaw problems include Fractures Dislocations Temporomandibular joint dysfunction Osteonecrosis, which happens when your bones lose their blood supply Cancers Treatment of jaw problems depends on the cause.</dc:description>
+<dc:subject dcterms="mesh">Jaw Diseases</dc:subject>
+<dc:subject dcterms="mesh">Jaw Fractures</dc:subject>
+<dc:subject dcterms="mesh">Jaw</dc:subject>
+<dc:subject xml:lang="es">Lesiones y enfermedades de la mandíbula</dc:subject>
+<dc:subject xml:lang="es">Mandíbula</dc:subject>
+<dc:subject xml:lang="es">Lesiones y enfermedades</dc:subject>
+<dc:subject xml:lang="es">Quijada</dc:subject>
+<dc:subject xml:lang="es">Lesiones y enfermedades</dc:subject>
+<dc:subject xml:lang="en">Jaw Injuries and Disorders</dc:subject>
+<dc:subject xml:lang="en">Mandibular Disorders</dc:subject>
+<dc:subject xml:lang="en">Maxillary Disorders</dc:subject>
+</metadata>
+</record>
+</MedlinePlus-document>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<MedlinePlus-document>
+<record>
+<header>
+<identifier>https://medlineplus.gov/polycysticovarysyndrome.html</identifier>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title type="alternate" xml:lang="es">Ovario poliquístico, Síndrome</dc:title>
+<dc:title type="alternate" xml:lang="en">Stein-Leventhal Syndrome</dc:title>
+<dc:title type="alternate" xml:lang="en">PCOS</dc:title>
+<dc:type>Text</dc:type>
+<dc:language>spa</dc:language>
+<dc:language>eng</dc:language>
+<dc:title xml:lang="es">Síndrome de ovario poliquístico</dc:title>
+<dc:title xml:lang="en">Polycystic Ovary Syndrome</dc:title>
+<dc:publisher>National Library of Medicine</dc:publisher>
+<dc:relation type="IsPartOf">Female Reproductive System</dc:relation>
+<dc:relation type="IsPartOf">Women</dc:relation>
+<dc:relation type="IsPartOf">Endocrine System</dc:relation>
+<dc:date type="created">2011-11-22</dc:date>
+<dc:date type="modified">2016-12-15</dc:date>
+<dc:identifier type="URL" xml:lang="es">https://medlineplus.gov/spanish/polycysticovarysyndrome.html</dc:identifier>
+<dc:identifier type="URL" xml:lang="en">https://medlineplus.gov/polycysticovarysyndrome.html</dc:identifier>
+<dc:description xml:lang="es">El síndrome del ovario poliquístico ocurre cuando los ovarios o las glándulas suprarrenales femeninas producen más hormonas masculinas de lo normal. Esto causa crecimiento de quistes (cavidades llenas de líquido) en los ovarios. Los síntomas incluyen: Menstruaciones irregulares Infertilidad Dolor pélvico Exceso de vello en la cara, el pecho, el abdomen o los muslos Subida de peso Acné o piel grasosa Parches de piel gruesa de color marrón o negro Las mujeres con síndrome de ovario poliquístico también están en mayor riesgo de desarrollar diabetes, síndrome metabólico, enfermedades del corazón y presión arterial alta. El síndrome de ovario poliquístico es más común en las mujeres que tienen obesidad o que tienen una madre o hermana con síndrome de ovario poliquístico. Para diagnosticarlo, el médico puede hacer un examen físico, examen pélvico, análisis de sangre y una ecografía. No tiene cura, pero la dieta, hacer ejercicio y las medicinas pueden ayudar a controlar los síntomas. Las pastillas anticonceptivas ayudan a las mujeres a regular el período, reducir los niveles de hormonas masculinas y eliminar el acné. Los tratamientos para la infertilidad por síndrome de ovario poliquístico pueden incluir medicinas, cirugía o fertilización in vitro. NIH: Instituto Nacional de Salud Infantil y Desarrollo Humano</dc:description>
+<dc:description xml:lang="en">Polycystic ovary syndrome (PCOS) happens when a woman's ovaries or adrenal glands produce more male hormones than normal. PCOS causes cysts (fluid-filled sacs) to grow on the ovaries. Symptoms include Irregular menstrual periods Infertility Pelvic pain Excess hair growth on the face, chest, stomach, or thighs Weight gain Acne or oily skin Patches of thickened skin Women with PCOS are at higher risk of diabetes, metabolic syndrome, heart disease, and high blood pressure. PCOS is more common in women who have obesity, or have a mother or sister with PCOS. To diagnose PCOS, your health care provider may do a physical exam, pelvic exam, blood tests, and an ultrasound. There is no cure, but diet, exercise, and medicines can help control the symptoms. Birth control pills help women have normal periods, reduce male hormone levels, and clear acne. Treatments for infertility caused by PCOS may include medicines, surgery, and in vitro fertilization (IVF). NIH: National Institute of Child Health and Human Development</dc:description>
+<dc:subject dcterms="mesh">Polycystic Ovary Syndrome</dc:subject>
+<dc:subject xml:lang="es">Síndrome de ovario poliquístico</dc:subject>
+<dc:subject xml:lang="es">Ovario poliquístico</dc:subject>
+<dc:subject xml:lang="es">Síndrome</dc:subject>
+<dc:subject xml:lang="en">Polycystic Ovary Syndrome</dc:subject>
+<dc:subject xml:lang="en">Stein-Leventhal Syndrome</dc:subject>
+<dc:subject xml:lang="en">PCOS</dc:subject>
+</metadata>
+</record>
+</MedlinePlus-document>

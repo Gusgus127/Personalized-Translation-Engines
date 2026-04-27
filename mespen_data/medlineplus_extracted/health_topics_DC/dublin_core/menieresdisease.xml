@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<MedlinePlus-document>
+<record>
+<header>
+<identifier>https://medlineplus.gov/menieresdisease.html</identifier>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title type="alternate" xml:lang="es">Ménière, Enfermedad de</dc:title>
+<dc:title type="alternate" xml:lang="en">Vestibular Diseases</dc:title>
+<dc:type>Text</dc:type>
+<dc:language>spa</dc:language>
+<dc:language>eng</dc:language>
+<dc:title xml:lang="es">Enfermedad de Ménière</dc:title>
+<dc:title xml:lang="en">Meniere's Disease</dc:title>
+<dc:publisher>National Library of Medicine</dc:publisher>
+<dc:relation type="IsPartOf">Ear, Nose and Throat</dc:relation>
+<dc:date type="created">2002-07-21</dc:date>
+<dc:date type="modified">2017-05-30</dc:date>
+<dc:identifier type="URL" xml:lang="es">https://medlineplus.gov/spanish/menieresdisease.html</dc:identifier>
+<dc:identifier type="URL" xml:lang="en">https://medlineplus.gov/menieresdisease.html</dc:identifier>
+<dc:description xml:lang="es">La enfermedad de Ménière es un trastorno del oído interno. Puede causar un mareo severo, un sonido de rugido en el oído llamado tinnitus, pérdida de la audición que aparece y desaparece y la sensación de presión o dolor en el oído. Suele afectar sólo un oído. Es una causa común de sordera. Algunas personas que sufren de la enfermedad de Ménière tienen ataques. Estos pueden ocurrir sin aviso o luego de un corto período donde la persona sufrió de tinnitus o sintió presión o dolor en el oído afectado. Algunas personas tienen solo un ataque de vértigo de vez en cuando y otras pueden tener ataques más frecuentemente durante varios días. Otras personas con la enfermedad tiene ataques tan fuertes donde el mareo es tan intenso que pierden el equilibrio y se caen. Los científicos todavía no conocen la causa. Se cree que tiene que ver con los niveles o la mezcla de líquidos en los canales del oído interno. Los doctores diagnostican esta enfermedad basándose en un examen físico y los síntomas. Una prueba de audición puede examinar cuán afectada esta su audición. No existe una cura. Se puede controlar la enfermedad con medicamentos para el mareo, limitando la sal en su dieta y tomando diuréticos (pastillas que ayudan al cuerpo a eliminar los líquidos adicionales). La inserción de un aparato en el oído externo que impulsa aire al oído medio puede ayudar. Los casos severos pueden requerir cirugía. NIH: Instituto Nacional de la Sordera y otros Trastornos de la Comunicación</dc:description>
+<dc:description xml:lang="en">Meniere's disease is a disorder of the inner ear. It can cause severe dizziness, a roaring sound in your ears called tinnitus, hearing loss that comes and goes and the feeling of ear pressure or pain. It usually affects just one ear. It is a common cause of hearing loss. Attacks of dizziness may come on suddenly or after a short period of tinnitus or muffled hearing. Some people have single attacks of dizziness once in a while. Others may have many attacks close together over several days. Some people with Meniere's disease have "drop attacks" during which the dizziness is so bad they lose their balance and fall. Scientists don't yet know the cause. They think that it has to do with the fluid levels or the mixing of fluids in the canals of your inner ear. Doctors diagnose it based on a physical exam and your symptoms. A hearing test can check to see how it has affected your hearing. There is no cure. Treatments include medicines to control dizziness, limiting salt in your diet, and taking water pills. A device that fits into the outer ear and delivers air pulses to the middle ear can help. Severe cases may require surgery. NIH: National Institute on Deafness and Other Communication Disorders</dc:description>
+<dc:subject dcterms="mesh">Meniere Disease</dc:subject>
+<dc:subject xml:lang="es">Enfermedad de Ménière</dc:subject>
+<dc:subject xml:lang="es">Ménière</dc:subject>
+<dc:subject xml:lang="es">Enfermedad de</dc:subject>
+<dc:subject xml:lang="en">Meniere's Disease</dc:subject>
+<dc:subject xml:lang="en">Vestibular Diseases</dc:subject>
+</metadata>
+</record>
+</MedlinePlus-document>

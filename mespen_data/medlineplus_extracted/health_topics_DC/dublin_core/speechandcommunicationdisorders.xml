@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<MedlinePlus-document>
+<record>
+<header>
+<identifier>https://medlineplus.gov/speechandcommunicationdisorders.html</identifier>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title type="alternate" xml:lang="es">Problemas de la comunicación</dc:title>
+<dc:title type="alternate" xml:lang="es">Habla y comunicación, Problemas de</dc:title>
+<dc:title type="alternate" xml:lang="es">Comunicación, Problemas de</dc:title>
+<dc:title type="alternate" xml:lang="en">Communication Disorders</dc:title>
+<dc:title type="alternate" xml:lang="en">Language Problems</dc:title>
+<dc:type>Text</dc:type>
+<dc:language>spa</dc:language>
+<dc:language>eng</dc:language>
+<dc:title xml:lang="es">Problemas del habla y de la comunicación</dc:title>
+<dc:title xml:lang="en">Speech and Communication Disorders</dc:title>
+<dc:publisher>National Library of Medicine</dc:publisher>
+<dc:relation type="IsPartOf">Brain and Nerves</dc:relation>
+<dc:relation type="IsPartOf">Symptoms</dc:relation>
+<dc:relation type="IsPartOf">Mouth and Teeth</dc:relation>
+<dc:date type="created">2002-07-21</dc:date>
+<dc:date type="modified">2018-02-05</dc:date>
+<dc:identifier type="URL" xml:lang="es">https://medlineplus.gov/spanish/speechandcommunicationdisorders.html</dc:identifier>
+<dc:identifier type="URL" xml:lang="en">https://medlineplus.gov/speechandcommunicationdisorders.html</dc:identifier>
+<dc:description xml:lang="es">Muchos problemas pueden afectar nuestra capacidad para hablar y comunicarnos. Varían desde decir las palabras de manera incorrecta hasta la incapacidad total para hablar o entender el habla. Entre las causas se incluyen: Problemas auditivos y sordera Problemas con la voz, como la disfonía o los problemas causados por el labio leporino o paladar hendido Problemas del habla, como el tartamudeo Discapacidades del desarrollo Problemas de aprendizaje Trastorno del espectro autista Lesión cerebral Algunos problemas del habla y la comunicación pueden ser genéticos. Frecuentemente, se desconocen las causas. En el primer grado de enseñanza, aproximadamente 5 por ciento de los niños tienen problemas del habla notorios. La terapia del habla y del lenguaje puede serles útil. NIH: Instituto Nacional de la Sordera y otros Trastornos de la Comunicación</dc:description>
+<dc:description xml:lang="en">Many disorders can affect our ability to speak and communicate. They range from saying sounds incorrectly to being completely unable to speak or understand speech. Causes include Hearing disorders and deafness Voice problems, such as dysphonia or those caused by cleft lip or palate Speech problems like stuttering Developmental disabilities Learning disorders Autism spectrum disorder Brain injury Stroke Some speech and communication problems may be genetic. Often, no one knows the causes. By first grade, about 5 percent of children have noticeable speech disorders. Speech and language therapy can help. NIH: National Institute on Deafness and Other Communication Disorders</dc:description>
+<dc:subject dcterms="mesh">Communication Disorders</dc:subject>
+<dc:subject dcterms="mesh">Speech Disorders</dc:subject>
+<dc:subject xml:lang="es">Problemas del habla y de la comunicación</dc:subject>
+<dc:subject xml:lang="es">Problemas de la comunicación</dc:subject>
+<dc:subject xml:lang="es">Habla y comunicación</dc:subject>
+<dc:subject xml:lang="es">Problemas de</dc:subject>
+<dc:subject xml:lang="es">Comunicación</dc:subject>
+<dc:subject xml:lang="es">Problemas de</dc:subject>
+<dc:subject xml:lang="en">Speech and Communication Disorders</dc:subject>
+<dc:subject xml:lang="en">Communication Disorders</dc:subject>
+<dc:subject xml:lang="en">Language Problems</dc:subject>
+</metadata>
+</record>
+</MedlinePlus-document>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<MedlinePlus-document>
+<record>
+<header>
+<identifier>https://medlineplus.gov/lymphedema.html</identifier>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:type>Text</dc:type>
+<dc:language>spa</dc:language>
+<dc:language>eng</dc:language>
+<dc:title xml:lang="es">Linfedema</dc:title>
+<dc:title xml:lang="en">Lymphedema</dc:title>
+<dc:publisher>National Library of Medicine</dc:publisher>
+<dc:relation type="IsPartOf">Blood, Heart and Circulation</dc:relation>
+<dc:relation type="IsPartOf">Immune System</dc:relation>
+<dc:date type="created">2008-10-08</dc:date>
+<dc:date type="modified">2017-10-26</dc:date>
+<dc:identifier type="URL" xml:lang="es">https://medlineplus.gov/spanish/lymphedema.html</dc:identifier>
+<dc:identifier type="URL" xml:lang="en">https://medlineplus.gov/lymphedema.html</dc:identifier>
+<dc:description xml:lang="es">Linfedema es el nombre de un tipo de inflamación. Ocurre cuando se acumula linfa en los tejidos blandos del cuerpo. La linfa es un líquido que contiene glóbulos blancos, células que defienden contra los gérmenes. Se puede acumular cuando el sistema linfático está dañado o bloqueado. Suele ocurrir en los brazos o las piernas. Las causas de linfedema incluyen: Infección Cáncer Tejido cicatricial por radioterapia o extirpación quirúrgica de ganglios linfáticos Condiciones hereditarias en las que los ganglios linfáticos o los vasos no se desarrollan normalmente El tratamiento puede ayudar a controlar los síntomas. Incluye ejercicios, dispositivos de compresión, cuidado de la piel y masajes. NIH: Instituto Nacional del Cáncer</dc:description>
+<dc:description xml:lang="en">Lymphedema is the name of a type of swelling. It happens when lymph builds up in your body's soft tissues. Lymph is a fluid that contains white blood cells that defend against germs. It can build up when the lymph system is damaged or blocked. It usually happens in the arms or legs. Causes of lymphedema include Infection Cancer Scar tissue from radiation therapy or surgical removal of lymph nodes Inherited conditions in which lymph nodes or vessels are absent or abnormal Treatment can help control symptoms. It includes exercise, compression devices, skin care, and massage. NIH: National Cancer Institute</dc:description>
+<dc:subject dcterms="mesh">Lymphedema</dc:subject>
+<dc:subject xml:lang="es">Linfedema</dc:subject>
+<dc:subject xml:lang="en">Lymphedema</dc:subject>
+<dc:subject xml:lang="en">Lymphatic Obstruction</dc:subject>
+</metadata>
+</record>
+</MedlinePlus-document>

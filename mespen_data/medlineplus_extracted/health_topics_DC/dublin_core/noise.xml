@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<MedlinePlus-document>
+<record>
+<header>
+<identifier>https://medlineplus.gov/noise.html</identifier>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:type>Text</dc:type>
+<dc:language>spa</dc:language>
+<dc:language>eng</dc:language>
+<dc:title xml:lang="es">Ruido</dc:title>
+<dc:title xml:lang="en">Noise</dc:title>
+<dc:publisher>National Library of Medicine</dc:publisher>
+<dc:relation type="IsPartOf">Poisoning, Toxicology, Environmental Health</dc:relation>
+<dc:relation type="IsPartOf">Ear, Nose and Throat</dc:relation>
+<dc:date type="created">2002-07-21</dc:date>
+<dc:date type="modified">2018-02-07</dc:date>
+<dc:identifier type="URL" xml:lang="es">https://medlineplus.gov/spanish/noise.html</dc:identifier>
+<dc:identifier type="URL" xml:lang="en">https://medlineplus.gov/noise.html</dc:identifier>
+<dc:description xml:lang="es">El ruido está en todas partes a su alrededor, desde los televisores y las radios hasta las podadoras de césped y las máquinas lavadoras de ropa. En general, estos sonidos se escuchan a niveles seguros que no afectan su audición. Pero los sonidos demasiado altos o los que son altos por un largo período son dañinos. Estos pueden lastimar las estructuras sensibles del oído interno y causar pérdida de audición causada por el ruido. Más de 30 millones de estadounidenses están expuestos a niveles nocivos de ruido en forma habitual. Los niveles nocivos de ruidos son mayores de 80 decibeles, lo que no es tan ruidoso como el tráfico de una calle muy transitada. Escuchar música con volumen alto, especialmente con audífonos, es una causa común de la pérdida de audición por el ruido. Usted puede proteger su audición al: Mantener un bajo volumen cuando se escucha música Usar tapones para los oídos al usar equipos ruidosos NIH: Instituto Nacional de la Sordera y otros Trastornos de la Comunicación</dc:description>
+<dc:description xml:lang="en">Noise is all around you, from televisions and radios to lawn mowers and washing machines. Normally, you hear these sounds at safe levels that don't affect hearing. But sounds that are too loud or loud sounds over a long time are harmful. They can damage sensitive structures of the inner ear and cause noise-induced hearing loss. More than 30 million Americans are exposed to hazardous sound levels on a regular basis. Hazardous sound levels are louder than 80 decibels. That's not as loud as traffic on a busy street. Listening to loud music, especially on headphones, is a common cause of noise-induced hearing loss. You can protect your hearing by Keeping the volume down when listening to music Wearing earplugs when using loud equipment NIH: National Institute on Deafness and Other Communication Disorders</dc:description>
+<dc:subject dcterms="mesh">Noise</dc:subject>
+<dc:subject xml:lang="es">Ruido</dc:subject>
+<dc:subject xml:lang="en">Noise</dc:subject>
+</metadata>
+</record>
+</MedlinePlus-document>

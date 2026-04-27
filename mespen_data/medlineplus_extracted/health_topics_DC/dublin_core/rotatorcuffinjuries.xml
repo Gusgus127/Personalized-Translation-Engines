@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<MedlinePlus-document>
+<record>
+<header>
+<identifier>https://medlineplus.gov/rotatorcuffinjuries.html</identifier>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title type="alternate" xml:lang="es">Manguito de los rotadores, Lesiones</dc:title>
+<dc:title type="alternate" xml:lang="es">Tendinitis del manguito de los rotadores</dc:title>
+<dc:title type="alternate" xml:lang="es">Hombro de tenista</dc:title>
+<dc:title type="alternate" xml:lang="es">Síndrome de pinzamiento del hombro</dc:title>
+<dc:title type="alternate" xml:lang="es">Hombro de lanzador</dc:title>
+<dc:title type="alternate" xml:lang="es">Hombro de nadador</dc:title>
+<dc:title type="alternate" xml:lang="es">Síndrome de sobrecarga del hombro</dc:title>
+<dc:title type="alternate" xml:lang="en">Shoulder Impingement</dc:title>
+<dc:type>Text</dc:type>
+<dc:language>spa</dc:language>
+<dc:language>eng</dc:language>
+<dc:title xml:lang="es">Lesiones del manguito rotatorio del hombro</dc:title>
+<dc:title xml:lang="en">Rotator Cuff Injuries</dc:title>
+<dc:publisher>National Library of Medicine</dc:publisher>
+<dc:relation type="IsPartOf">Bones, Joints and Muscles</dc:relation>
+<dc:relation type="IsPartOf">Injuries and Wounds</dc:relation>
+<dc:date type="created">2011-12-19</dc:date>
+<dc:date type="modified">2018-02-01</dc:date>
+<dc:identifier type="URL" xml:lang="es">https://medlineplus.gov/spanish/rotatorcuffinjuries.html</dc:identifier>
+<dc:identifier type="URL" xml:lang="en">https://medlineplus.gov/rotatorcuffinjuries.html</dc:identifier>
+<dc:description xml:lang="es">El manguito rotador está localizado en el área del hombro y lo forman músculos y tendones. Su función es ayudar a que el hombro se pueda mover y mantener estable. Los problemas del manguito rotador son comunes e incluyen tendinitis, bursitis y lesiones como desgarros. Los tendones del manguito rotador se pueden inflamar por el uso frecuente o el envejecimiento. A veces se lesionan en una caída sobre la mano extendida o por deportes o trabajos que incluyen repetidos movimientos de cabeza. El envejecimiento, por su parte, hace que los tendones se desgasten, lo que puede ocasionar desgarros. Algunos desgarros no se sienten pero otros pueden ser muy dolorosos. El tratamiento para el manguito rotador roto depende de la edad, el estado de salud, qué tan severa es la lesión y qué tanto tiempo lleva roto. El tratamiento puede incluir: Reposo Calor o frío en el área afectada Medicinas para reducir el dolor o la hinchazón Estimulación eléctrica de los músculos y los nervios Ultrasonido Inyección de cortisona Cirugía NIH: Instituto Nacional de Artritis y Enfermedades Musculoesqueléticas y de la Piel</dc:description>
+<dc:description xml:lang="en">Your rotator cuff is located in your shoulder area. It is made of muscles and tendons. It helps your shoulder to move and stay stable. Problems with the rotator cuff are common. They include tendinitis, bursitis, and injuries such as tears. Rotator cuff tendons can become inflamed from frequent use or aging. Sometimes they are injured from a fall on an outstretched hand. Sports or jobs with repeated overhead motion can also damage the rotator cuff. Aging causes tendons to wear down, which can lead to a tear. Some tears are not painful, but others can be very painful. Treatment for a torn rotator cuff depends on age, health, how severe the injury is, and how long you've had the torn rotator cuff. Treatment for torn rotator cuff includes: Rest Heat or cold to the sore area Medicines that reduce pain and swelling Electrical stimulation of muscles and nerves Ultrasound Cortisone injection Surgery NIH: National Institute of Arthritis and Musculoskeletal and Skin Disease</dc:description>
+<dc:subject dcterms="mesh">Rotator Cuff Injuries</dc:subject>
+<dc:subject xml:lang="es">Lesiones del manguito rotatorio del hombro</dc:subject>
+<dc:subject xml:lang="es">Manguito de los rotadores</dc:subject>
+<dc:subject xml:lang="es">Lesiones</dc:subject>
+<dc:subject xml:lang="es">Tendinitis del manguito de los rotadores</dc:subject>
+<dc:subject xml:lang="es">Hombro de tenista</dc:subject>
+<dc:subject xml:lang="es">Síndrome de pinzamiento del hombro</dc:subject>
+<dc:subject xml:lang="es">Hombro de lanzador</dc:subject>
+<dc:subject xml:lang="es">Hombro de nadador</dc:subject>
+<dc:subject xml:lang="es">Síndrome de sobrecarga del hombro</dc:subject>
+<dc:subject xml:lang="en">Rotator Cuff Injuries</dc:subject>
+<dc:subject xml:lang="en">Shoulder Impingement</dc:subject>
+</metadata>
+</record>
+</MedlinePlus-document>

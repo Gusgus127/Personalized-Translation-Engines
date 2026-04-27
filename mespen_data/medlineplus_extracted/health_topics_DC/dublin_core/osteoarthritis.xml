@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<MedlinePlus-document>
+<record>
+<header>
+<identifier>https://medlineplus.gov/osteoarthritis.html</identifier>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title type="alternate" xml:lang="es">Artrosis</dc:title>
+<dc:title type="alternate" xml:lang="en">Degenerative Joint Disease</dc:title>
+<dc:type>Text</dc:type>
+<dc:language>spa</dc:language>
+<dc:language>eng</dc:language>
+<dc:title xml:lang="es">Osteoartritis</dc:title>
+<dc:title xml:lang="en">Osteoarthritis</dc:title>
+<dc:publisher>National Library of Medicine</dc:publisher>
+<dc:relation type="IsPartOf">Seniors</dc:relation>
+<dc:relation type="IsPartOf">Bones, Joints and Muscles</dc:relation>
+<dc:date type="created">2002-07-21</dc:date>
+<dc:date type="modified">2018-01-23</dc:date>
+<dc:identifier type="URL" xml:lang="es">https://medlineplus.gov/spanish/osteoarthritis.html</dc:identifier>
+<dc:identifier type="URL" xml:lang="en">https://medlineplus.gov/osteoarthritis.html</dc:identifier>
+<dc:description xml:lang="es">La osteoartritis es la forma más común de artritis. Causa dolor, inflamación y disminución de los movimientos en las articulaciones. Puede ocurrir en cualquier articulación pero, generalmente, suele afectar las manos, las rodillas, las caderas o la columna. La osteoartritis degrada el cartílago de las articulaciones. El cartílago es el tejido resbaloso que cubre los extremos de los huesos en una articulación. El cartílago sano absorbe los impactos de los movimientos pero cuando se desgasta, los huesos se friccionan entre sí. Con el transcurso del tiempo, esta fricción puede dañar la articulación permanentemente. Entre los factores que pueden causar osteoartritis se incluyen: Sobrepeso Envejecimiento Lesiones en una articulación No hay un único examen para diagnosticar la osteoartritis. La mayoría de los doctores usan varios métodos, como la historia médica, exámenes físicos o de laboratorio o rayos X. Los tratamientos incluyen ejercicio, medicamentos y, a veces, cirugía. NIH: Instituto Nacional de Artritis y Enfermedades Musculoesqueléticas y de la Piel</dc:description>
+<dc:description xml:lang="en">Osteoarthritis is the most common form of arthritis. It causes pain, swelling, and reduced motion in your joints. It can occur in any joint, but usually it affects your hands, knees, hips or spine. Osteoarthritis breaks down the cartilage in your joints. Cartilage is the slippery tissue that covers the ends of bones in a joint. Healthy cartilage absorbs the shock of movement. When you lose cartilage, your bones rub together. Over time, this rubbing can permanently damage the joint. Risk factors for osteoarthritis include Being overweight Getting older Injuring a joint No single test can diagnose osteoarthritis. Most doctors use several methods, including medical history, a physical exam, x-rays, or lab tests. Treatments include exercise, medicines, and sometimes surgery. NIH: National Institute of Arthritis and Musculoskeletal and Skin Diseases</dc:description>
+<dc:subject dcterms="mesh">Osteoarthritis</dc:subject>
+<dc:subject xml:lang="es">Osteoartritis</dc:subject>
+<dc:subject xml:lang="es">Artrosis</dc:subject>
+<dc:subject xml:lang="en">Osteoarthritis</dc:subject>
+<dc:subject xml:lang="en">Degenerative Joint Disease</dc:subject>
+</metadata>
+</record>
+</MedlinePlus-document>

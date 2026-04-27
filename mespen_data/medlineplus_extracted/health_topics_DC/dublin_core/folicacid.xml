@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<MedlinePlus-document>
+<record>
+<header>
+<identifier>https://medlineplus.gov/folicacid.html</identifier>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:type>Text</dc:type>
+<dc:language>spa</dc:language>
+<dc:language>eng</dc:language>
+<dc:title xml:lang="es">Ácido fólico</dc:title>
+<dc:title xml:lang="en">Folic Acid</dc:title>
+<dc:publisher>National Library of Medicine</dc:publisher>
+<dc:relation type="IsPartOf">Food and Nutrition</dc:relation>
+<dc:date type="created">2002-07-21</dc:date>
+<dc:date type="modified">2017-09-21</dc:date>
+<dc:identifier type="URL" xml:lang="es">https://medlineplus.gov/spanish/folicacid.html</dc:identifier>
+<dc:identifier type="URL" xml:lang="en">https://medlineplus.gov/folicacid.html</dc:identifier>
+<dc:description xml:lang="es">El ácido fólico es una vitamina B. Ayuda al organismo a crear células nuevas. Todas las personas necesitan ácido fólico. Es muy importante para las mujeres en edad fértil. Obtener suficiente ácido fólico antes y durante el embarazo puede prevenir defectos congénitos importantes en el cerebro y la columna vertebral del bebé. Entre los alimentos que contienen ácido fólico se encuentran: Vegetales de hojas verdes Frutas Guisantes secos, chícharos y nueces Panes enriquecidos, cereales y otros productos hechos con granos Si no obtiene suficiente ácido fólico a través de los alimentos, puede consumirlo como suplemento dietético. NIH: Oficina de Suplementos Dietéticos</dc:description>
+<dc:description xml:lang="en">Folic acid is a B vitamin. It helps the body make healthy new cells. Everyone needs folic acid. For women who may get pregnant, it is really important. Getting enough folic acid before and during pregnancy can prevent major birth defects of her baby's brain or spine. Foods with folic acid in them include Leafy green vegetables Fruits Dried beans, peas, and nuts Enriched breads, cereals and other grain products If you don't get enough folic acid from the foods you eat, you can also take it as a dietary supplement. NIH: National Institutes of Health Office of Dietary Supplements</dc:description>
+<dc:subject dcterms="mesh">Folic Acid</dc:subject>
+<dc:subject dcterms="mesh">Folic Acid Deficiency</dc:subject>
+<dc:subject xml:lang="es">Ácido fólico</dc:subject>
+<dc:subject xml:lang="en">Folic Acid</dc:subject>
+<dc:subject xml:lang="en">Folate</dc:subject>
+</metadata>
+</record>
+</MedlinePlus-document>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<MedlinePlus-document>
+<record>
+<header>
+<identifier>https://medlineplus.gov/childmentalhealth.html</identifier>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title type="alternate" xml:lang="es">Chicos, Salud mental</dc:title>
+<dc:title type="alternate" xml:lang="en">Mental Health, Child</dc:title>
+<dc:type>Text</dc:type>
+<dc:language>spa</dc:language>
+<dc:language>eng</dc:language>
+<dc:title xml:lang="es">Salud mental del niño</dc:title>
+<dc:title xml:lang="en">Child Mental Health</dc:title>
+<dc:publisher>National Library of Medicine</dc:publisher>
+<dc:relation type="IsPartOf">Mental Health and Behavior</dc:relation>
+<dc:relation type="IsPartOf">Children and Teenagers</dc:relation>
+<dc:date type="created">2003-06-20</dc:date>
+<dc:date type="modified">2017-08-08</dc:date>
+<dc:identifier type="URL" xml:lang="es">https://medlineplus.gov/spanish/childmentalhealth.html</dc:identifier>
+<dc:identifier type="URL" xml:lang="en">https://medlineplus.gov/childmentalhealth.html</dc:identifier>
+<dc:description xml:lang="es">Es importante reconocer y tratar las enfermedades mentales de los niños desde el comienzo. Una vez que la enfermedad mental se desarrolla, se vuelve una parte habitual de la conducta de su hijo. Esto la hace más difícil de tratar. Pero no siempre es fácil saber si su hijo tiene un problema serio. Las tensiones diarias pueden causar cambios en el comportamiento de su hijo. Por ejemplo, la llegada de un nuevo hermano o hermana o ir a una nueva escuela puede causar problemas pasajeros de comportamiento. Las señales de aviso de cuándo podría ser un problema más serio incluyen: Problemas en diferentes ocasiones (en la escuela, en casa, con sus compañeros) Cambios en el apetito o el sueño Aislamiento social o miedo a cosas que antes no le causaba temor Volver a portarse como un niño pequeño, por ejemplo orinarse en la cama Señales de estar molesto, como tristeza o llanto Signos de hacerse daño a sí mismo, como golpearse la cabeza o de repente herirse a menudo Pensamientos repetitivos sobre la muerte Para diagnosticar problemas de salud mental, el médico o especialista en salud mental presta atención a las señales y síntomas de su hijo, su historia clínica y familiar. Los tratamientos incluyen medicamentos y terapia de conversación. NIH: Instituto Nacional de la Salud Mental</dc:description>
+<dc:description xml:lang="en">It's important to recognize and treat mental illnesses in children early on. Once mental illness develops, it becomes a regular part of your child's behavior. This makes it more difficult to treat. But it's not always easy to know when your child has a serious problem. Everyday stresses can cause changes in your child's behavior. For example, getting a new brother or sister or going to a new school may cause a child to temporarily act out. Warning signs that it might be a more serious problem include Problems in more than one setting (at school, at home, with peers) Changes in appetite or sleep Social withdrawal or fear of things he or she did not used to be not afraid of Returning to behaviors more common in younger children, such as bedwetting Signs of being upset, such as sadness or tearfulness Signs of self-destructive behavior, such as head-banging or suddenly getting hurt often Repeated thoughts of death To diagnose mental health problems, the doctor or mental health specialist looks at your child's signs and symptoms, medical history, and family history. Treatments include medicines and talk therapy. NIH: National Institute of Mental Health</dc:description>
+<dc:subject dcterms="mesh">Mental Disorders</dc:subject>
+<dc:subject dcterms="mesh">Psychology, Child</dc:subject>
+<dc:subject dcterms="mesh">Child Psychiatry</dc:subject>
+<dc:subject dcterms="mesh">Mental Health</dc:subject>
+<dc:subject xml:lang="es">Salud mental del niño</dc:subject>
+<dc:subject xml:lang="es">Chicos</dc:subject>
+<dc:subject xml:lang="es">Salud mental</dc:subject>
+<dc:subject xml:lang="en">Child Mental Health</dc:subject>
+<dc:subject xml:lang="en">Mental Health</dc:subject>
+<dc:subject xml:lang="en">Child</dc:subject>
+</metadata>
+</record>
+</MedlinePlus-document>

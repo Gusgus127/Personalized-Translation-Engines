@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<MedlinePlus-document>
+<record>
+<header>
+<identifier>https://medlineplus.gov/chestinjuriesanddisorders.html</identifier>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title type="alternate" xml:lang="es">Tórax, Lesiones y enfermedades</dc:title>
+<dc:title type="alternate" xml:lang="en">Mediastinal Disorders</dc:title>
+<dc:title type="alternate" xml:lang="en">Rib Injuries</dc:title>
+<dc:title type="alternate" xml:lang="en">Thoracic Injuries</dc:title>
+<dc:type>Text</dc:type>
+<dc:language>spa</dc:language>
+<dc:language>eng</dc:language>
+<dc:title xml:lang="es">Lesiones y enfermedades del tórax</dc:title>
+<dc:title xml:lang="en">Chest Injuries and Disorders</dc:title>
+<dc:publisher>National Library of Medicine</dc:publisher>
+<dc:relation type="IsPartOf">Bones, Joints and Muscles</dc:relation>
+<dc:relation type="IsPartOf">Injuries and Wounds</dc:relation>
+<dc:date type="created">2011-08-29</dc:date>
+<dc:date type="modified">2018-02-12</dc:date>
+<dc:identifier type="URL" xml:lang="es">https://medlineplus.gov/spanish/chestinjuriesanddisorders.html</dc:identifier>
+<dc:identifier type="URL" xml:lang="en">https://medlineplus.gov/chestinjuriesanddisorders.html</dc:identifier>
+<dc:description xml:lang="es">El tórax es la parte del cuerpo que se encuentra entre el cuello y el abdomen. Incluye las costillas y el esternón. Dentro del pecho se encuentran varios órganos como el corazón, pulmones y esófago. La pleura, una membrana de tejido delgado, reviste el interior de la cavidad torácica. Las lesiones y enfermedades del tórax incluyen Enfermedades del corazón Enfermedades de los pulmones y colapso pulmonar Trastornos pleurales Enfermedades del esófago Costillas fracturadas Aneurismas aórticos torácicos Trastornos del mediastino, el espacio entre los pulmones, el esternón y la columna vertebral</dc:description>
+<dc:description xml:lang="en">The chest is the part of the body between your neck and your abdomen. It includes the ribs and breastbone. Inside your chest are several organs, including the heart, lungs, and esophagus. The pleura, a large thin sheet of tissue, lines the inside of the chest cavity. Chest injuries and disorders include Heart diseases Lung diseases and collapsed lung Pleural disorders Esophagus disorders Broken ribs Thoracic aortic aneurysms Disorders of the mediastinum, the space between the lungs, breastbone, and spine</dc:description>
+<dc:subject dcterms="mesh">Thoracic Injuries</dc:subject>
+<dc:subject dcterms="mesh">Thoracic Diseases</dc:subject>
+<dc:subject dcterms="mesh">Rib Fractures</dc:subject>
+<dc:subject xml:lang="es">Lesiones y enfermedades del tórax</dc:subject>
+<dc:subject xml:lang="es">Tórax</dc:subject>
+<dc:subject xml:lang="es">Lesiones y enfermedades</dc:subject>
+<dc:subject xml:lang="en">Chest Injuries and Disorders</dc:subject>
+<dc:subject xml:lang="en">Mediastinal Disorders</dc:subject>
+<dc:subject xml:lang="en">Rib Injuries</dc:subject>
+<dc:subject xml:lang="en">Thoracic Injuries</dc:subject>
+</metadata>
+</record>
+</MedlinePlus-document>

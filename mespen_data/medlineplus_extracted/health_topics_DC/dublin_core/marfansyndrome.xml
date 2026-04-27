@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<MedlinePlus-document>
+<record>
+<header>
+<identifier>https://medlineplus.gov/marfansyndrome.html</identifier>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title type="alternate" xml:lang="es">Marfan, Síndrome de</dc:title>
+<dc:type>Text</dc:type>
+<dc:language>spa</dc:language>
+<dc:language>eng</dc:language>
+<dc:title xml:lang="es">Síndrome de Marfan</dc:title>
+<dc:title xml:lang="en">Marfan Syndrome</dc:title>
+<dc:publisher>National Library of Medicine</dc:publisher>
+<dc:relation type="IsPartOf">Genetics/Birth Defects</dc:relation>
+<dc:date type="created">2002-07-21</dc:date>
+<dc:date type="modified">2018-02-07</dc:date>
+<dc:identifier type="URL" xml:lang="es">https://medlineplus.gov/spanish/marfansyndrome.html</dc:identifier>
+<dc:identifier type="URL" xml:lang="en">https://medlineplus.gov/marfansyndrome.html</dc:identifier>
+<dc:description xml:lang="es">El síndrome de Marfan es un trastorno que afecta el tejido conectivo. El tejido conectivo está formado por las proteínas que le brindan apoyo a la piel, los huesos, los vasos sanguíneos y otros órganos. Una de estas proteínas es la fibrilina. El síndrome de Marfan es el resultado de un problema con el gen de la fibrilina. El síndrome de Marfan puede ser de leve a severo y los síntomas pueden variar. Las personas con síndrome de Marfan suelen ser muy altas, delgadas y con articulaciones flexibles. La mayoría de las personas con síndrome de Marfan tienen problemas de corazón y los vasos sanguíneos, tales como debilidad en la aorta o fugas en las válvulas cardíacas. También pueden tener problemas con los huesos, los ojos, la piel, el sistema nervioso y los pulmones. No existe un único examen para diagnosticar el síndrome. Su doctor puede usar su historia clínica, historia familiar y un examen físico para diagnosticarlo. El síndrome no tiene cura, pero los tratamientos pueden ayudar a atrasar o prevenir complicaciones. Estos incluyen medicamentos, cirugía y otras terapias. NIH: Instituto Nacional de Artritis y Enfermedades Musculoesqueléticas y de la Piel</dc:description>
+<dc:description xml:lang="en">Marfan syndrome is a disorder that affects connective tissue. Connective tissues are proteins that support skin, bones, blood vessels, and other organs. One of these proteins is fibrillin. A problem with the fibrillin gene causes Marfan syndrome. Marfan syndrome can be mild to severe, and the symptoms can vary. People with Marfan syndrome are often very tall, thin, and loose jointed. Most people with Marfan syndrome have heart and blood vessel problems, such as a weakness in the aorta or heart valves that leak. They may also have problems with their bones, eyes, skin, nervous system, and lungs. There is no single test to diagnose Marfan syndrome. Your doctor may use your medical history, family history, and a physical exam to diagnose it. Marfan syndrome has no cure, but treatments can help delay or prevent complications. Treatments include medicines, surgery, and other therapies. NIH: National Institute of Arthritis and Musculoskeletal and Skin Diseases</dc:description>
+<dc:subject dcterms="mesh">Marfan Syndrome</dc:subject>
+<dc:subject xml:lang="es">Síndrome de Marfan</dc:subject>
+<dc:subject xml:lang="es">Marfan</dc:subject>
+<dc:subject xml:lang="es">Síndrome de</dc:subject>
+<dc:subject xml:lang="en">Marfan Syndrome</dc:subject>
+</metadata>
+</record>
+</MedlinePlus-document>

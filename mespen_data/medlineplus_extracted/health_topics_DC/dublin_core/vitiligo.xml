@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<MedlinePlus-document>
+<record>
+<header>
+<identifier>https://medlineplus.gov/vitiligo.html</identifier>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:type>Text</dc:type>
+<dc:language>spa</dc:language>
+<dc:language>eng</dc:language>
+<dc:title xml:lang="es">Vitiligo</dc:title>
+<dc:title xml:lang="en">Vitiligo</dc:title>
+<dc:publisher>National Library of Medicine</dc:publisher>
+<dc:relation type="IsPartOf">Skin, Hair and Nails</dc:relation>
+<dc:date type="created">2005-11-14</dc:date>
+<dc:date type="modified">2017-10-04</dc:date>
+<dc:identifier type="URL" xml:lang="es">https://medlineplus.gov/spanish/vitiligo.html</dc:identifier>
+<dc:identifier type="URL" xml:lang="en">https://medlineplus.gov/vitiligo.html</dc:identifier>
+<dc:description xml:lang="es">El vitiligo causa manchas blancas en la piel. También afecta sus ojos, boca y nariz. Ocurre cuando se destruyen las células que dan color a la piel. No se conoce la causa de la destrucción celular. Es más común entre las personas con enfermedades autoinmunes y puede tener una tendencia familiar. Suele comenzar antes de los 40 años. Las manchas blancas son más comunes donde la piel está expuesta al sol. En algunos casos, las manchas se diseminan. El vitiligo puede provocar la aparición anticipada de canas. Si tiene la piel oscura, puede perder color dentro de la boca. El uso de bloqueadores solares lo ayudará a proteger su piel y los cosméticos pueden cubrir las manchas. El tratamiento del vitiligo incluye medicinas, fototerapia y cirugía. No todos los tratamientos son adecuados para todas las personas. Muchos tienen efectos secundarios. Algunos necesitan un largo tiempo. Algunos no siempre surten efecto. NIH: Instituto Nacional de Artritis y Enfermedades Musculoesqueléticas y de la Piel</dc:description>
+<dc:description xml:lang="en">Vitiligo causes white patches on your skin. It can also affect your eyes, mouth, and nose. It occurs when the cells that give your skin its color are destroyed. No one knows what destroys them. It is more common in people with autoimmune diseases, and it might run in families. It usually starts before age 40. The white patches are more common where your skin is exposed to the sun. In some cases, the patches spread. Vitiligo can cause your hair to gray early. If you have dark skin, you may lose color inside your mouth. Using sunscreen will help protect your skin, and cosmetics can cover up the patches. Treatments for vitiligo include medicines, light therapy, and surgery. Not every treatment is right for everyone. Many have side effects. Some take a long time. Some do not always work. NIH: National Institute of Arthritis and Musculoskeletal and Skin Diseases</dc:description>
+<dc:subject dcterms="mesh">Vitiligo</dc:subject>
+<dc:subject xml:lang="es">Vitiligo</dc:subject>
+<dc:subject xml:lang="en">Vitiligo</dc:subject>
+</metadata>
+</record>
+</MedlinePlus-document>

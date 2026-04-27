@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<MedlinePlus-document>
+<record>
+<header>
+<identifier>https://medlineplus.gov/metabolicpanel.html</identifier>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:type>Text</dc:type>
+<dc:language>spa</dc:language>
+<dc:language>eng</dc:language>
+<dc:title xml:lang="es">Panel metabólico</dc:title>
+<dc:title xml:lang="en">Metabolic Panel</dc:title>
+<dc:publisher>National Library of Medicine</dc:publisher>
+<dc:relation type="IsPartOf">Blood, Heart and Circulation</dc:relation>
+<dc:relation type="IsPartOf">Diagnostic Tests</dc:relation>
+<dc:date type="created">2016-02-04</dc:date>
+<dc:date type="modified">2017-02-22</dc:date>
+<dc:identifier type="URL" xml:lang="es">https://medlineplus.gov/spanish/metabolicpanel.html</dc:identifier>
+<dc:identifier type="URL" xml:lang="en">https://medlineplus.gov/metabolicpanel.html</dc:identifier>
+<dc:description xml:lang="es">El panel metabólico es un grupo de pruebas que mide diferentes químicos en la sangre. Estas pruebas en general se realizan en la parte líquida (plasma) de la sangre. Las pruebas brindan información sobre el equilibrio químico de su cuerpo y el metabolismo. Estas pueden dar a los médicos información sobre sus músculos (incluyendo el corazón), los huesos y órganos, como los riñones y el hígado. Hay dos tipos: Panel metabólico básico y el panel metabólico completo. El básico revisa su nivel de azúcar en la sangre, calcio y electrolitos. También chequea la creatinina para evaluar el trabajo de sus riñones. El completo incluye todas esas pruebas, junto a su nivel de colesterol, los niveles de proteína y el funcionamiento del hígado. Es probable que tenga que ayunar (no comer ningún alimento) antes de las pruebas. Su médico le indicará cómo prepararse para ellas.</dc:description>
+<dc:description xml:lang="en">A metabolic panel is a group of tests that measures different chemicals in the blood. These tests are usually done on the fluid (plasma) part of blood. The tests provide information about your body's chemical balance and metabolism. They can give doctors information about your muscles (including the heart), bones, and organs, such as the kidneys and liver. There are two types: basic metabolic panel (BMP) and comprehensive metabolic panel (CMP). The BMP checks your blood sugar, calcium, and electrolytes. The BMP also has tests such as creatinine to check your kidney function. The CMP includes all of those tests, as well as tests of your cholesterol, protein levels, and liver function. You probably need to fast (not eat any food) before the test. Your doctor will tell you how to prepare for the test you are having.</dc:description>
+<dc:subject xml:lang="es">Panel metabólico</dc:subject>
+<dc:subject xml:lang="en">Metabolic Panel</dc:subject>
+</metadata>
+</record>
+</MedlinePlus-document>

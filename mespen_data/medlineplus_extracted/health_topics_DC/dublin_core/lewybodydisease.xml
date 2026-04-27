@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<MedlinePlus-document>
+<record>
+<header>
+<identifier>https://medlineplus.gov/lewybodydisease.html</identifier>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:type>Text</dc:type>
+<dc:language>spa</dc:language>
+<dc:language>eng</dc:language>
+<dc:title xml:lang="es">Demencia con cuerpos de Lewy</dc:title>
+<dc:title xml:lang="en">Lewy Body Disease</dc:title>
+<dc:publisher>National Library of Medicine</dc:publisher>
+<dc:relation type="IsPartOf">Brain and Nerves</dc:relation>
+<dc:date type="created">2012-03-06</dc:date>
+<dc:date type="modified">2017-09-13</dc:date>
+<dc:identifier type="URL" xml:lang="es">https://medlineplus.gov/spanish/lewybodydisease.html</dc:identifier>
+<dc:identifier type="URL" xml:lang="en">https://medlineplus.gov/lewybodydisease.html</dc:identifier>
+<dc:description xml:lang="es">La demencia con cuerpos de Lewy es una de las causas más comunes de demencia en ancianos. Demencia es la pérdida de funciones mentales lo suficientemente severa para afectar las actividades y las relaciones normales. La demencia con cuerpos de Lewy ocurre cuando se acumulan unas estructuras anormales, llamadas cuerpos de Lewy, en ciertas áreas del cerebro. La enfermedad puede causar un panorama amplio de síntomas, que incluyen: Cambios en el estado de alerta y de atención Alucinaciones Problemas con el movimiento y la postura Rigidez muscular Confusión Pérdida de la memoria La demencia con cuerpos de Lewy puede ser difícil de diagnosticar, porque la enfermedad de Parkinson y la enfermedad de Alzheimer causan síntomas similares. Los científicos creen que la demencia con cuerpos de Lewy puede estar relacionada con estas enfermedades o que algunas veces ocurren al mismo tiempo. La demencia con cuerpos de Lewy suele comenzar entre los 50 y los 85 años de edad. La enfermedad empeora con el tiempo. No existe una cura. El tratamiento se enfoca en medicamentos que mejoran los síntomas. NIH: Instituto Nacional de Trastornos Neurológicos y Accidentes Cerebrovasculares</dc:description>
+<dc:description xml:lang="en">Lewy body disease is one of the most common causes of dementia in the elderly. Dementia is the loss of mental functions severe enough to affect normal activities and relationships. Lewy body disease happens when abnormal structures, called Lewy bodies, build up in areas of the brain. The disease may cause a wide range of symptoms, including Changes in alertness and attention Hallucinations Problems with movement and posture Muscle stiffness Confusion Loss of memory Lewy body disease can be hard to diagnose, because Parkinson's disease and Alzheimer's disease cause similar symptoms. Scientists think that Lewy body disease might be related to these diseases, or that they sometimes happen together. Lewy body disease usually begins between the ages of 50 and 85. The disease gets worse over time. There is no cure. Treatment focuses on drugs to help symptoms. NIH: National Institute of Neurological Disorders and Stroke</dc:description>
+<dc:subject dcterms="mesh">Lewy Body Disease</dc:subject>
+<dc:subject xml:lang="es">Demencia con cuerpos de Lewy</dc:subject>
+<dc:subject xml:lang="en">Lewy Body Disease</dc:subject>
+<dc:subject xml:lang="en">Dementia with Lewy Bodies</dc:subject>
+</metadata>
+</record>
+</MedlinePlus-document>

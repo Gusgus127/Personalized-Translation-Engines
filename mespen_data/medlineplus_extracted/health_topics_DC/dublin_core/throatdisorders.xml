@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<MedlinePlus-document>
+<record>
+<header>
+<identifier>https://medlineplus.gov/throatdisorders.html</identifier>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title type="alternate" xml:lang="es">Garganta, Enfermedades de la</dc:title>
+<dc:title type="alternate" xml:lang="en">Laryngitis</dc:title>
+<dc:title type="alternate" xml:lang="en">Pharynx Disorders</dc:title>
+<dc:title type="alternate" xml:lang="en">Voicebox Disorders</dc:title>
+<dc:type>Text</dc:type>
+<dc:language>spa</dc:language>
+<dc:language>eng</dc:language>
+<dc:title xml:lang="es">Enfermedades de la garganta</dc:title>
+<dc:title xml:lang="en">Throat Disorders</dc:title>
+<dc:publisher>National Library of Medicine</dc:publisher>
+<dc:relation type="IsPartOf">Ear, Nose and Throat</dc:relation>
+<dc:relation type="IsPartOf">Lungs and Breathing</dc:relation>
+<dc:date type="created">2002-12-30</dc:date>
+<dc:date type="modified">2017-06-15</dc:date>
+<dc:identifier type="URL" xml:lang="es">https://medlineplus.gov/spanish/throatdisorders.html</dc:identifier>
+<dc:identifier type="URL" xml:lang="en">https://medlineplus.gov/throatdisorders.html</dc:identifier>
+<dc:description xml:lang="es">La garganta es un tubo que lleva la comida hacia el esófago y el aire a la tráquea y la laringe. El nombre técnico de su garganta es faringe. Los problemas en la garganta son comunes. Probablemente, alguna vez tuvo un dolor de garganta. La causa suele ser una infección viral, pero otras causas incluyen alergias, infecciones por la bacteria estreptococo o ácidos del estómago que regresan al esófago, llamado reflujo gástroesofágico, o ERGE. Otros problemas que afectan la garganta incluyen: Amigdalitis Cáncer Crup: Inflamación, usualmente en niños pequeños, que causa una tos seca Faringitis: Inflamación de la faringe, lo que puede causar ronquera o pérdida de la voz La mayoría de los problemas de la garganta son menores y desaparecen por si solos. Cuando es necesario un tratamiento, depende del problema.</dc:description>
+<dc:description xml:lang="en">Your throat is a tube that carries food to your esophagus and air to your windpipe and larynx. The technical name for your throat is the pharynx. Throat problems are common. You've probably had a sore throat. The cause is usually a viral infection, but other causes include allergies, infection with strep bacteria or the leaking of stomach acids back up into the esophagus, called GERD. Other problems that affect the throat include Tonsillitis - inflammation of the tonsils Cancer Croup - inflammation, usually in small children, which causes a barking cough Laryngitis - swelling of the voice box, which can cause a hoarse voice or loss of voice Most throat problems are minor and go away on their own. Treatments, when needed, depend on the problem.</dc:description>
+<dc:subject dcterms="mesh">Pharyngeal Diseases</dc:subject>
+<dc:subject xml:lang="es">Enfermedades de la garganta</dc:subject>
+<dc:subject xml:lang="es">Garganta</dc:subject>
+<dc:subject xml:lang="es">Enfermedades de la</dc:subject>
+<dc:subject xml:lang="en">Throat Disorders</dc:subject>
+<dc:subject xml:lang="en">Laryngitis</dc:subject>
+<dc:subject xml:lang="en">Pharynx Disorders</dc:subject>
+<dc:subject xml:lang="en">Voicebox Disorders</dc:subject>
+</metadata>
+</record>
+</MedlinePlus-document>

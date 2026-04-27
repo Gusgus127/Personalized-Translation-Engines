@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<MedlinePlus-document>
+<record>
+<header>
+<identifier>https://medlineplus.gov/craniofacialabnormalities.html</identifier>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title type="alternate" xml:lang="es">Deformidades dentofaciales</dc:title>
+<dc:title type="alternate" xml:lang="es">Deformidades faciales</dc:title>
+<dc:title type="alternate" xml:lang="es">Deformidades de la cara y la cabeza</dc:title>
+<dc:title type="alternate" xml:lang="en">Craniosynostosis</dc:title>
+<dc:title type="alternate" xml:lang="en">Treacher-Collins Syndrome</dc:title>
+<dc:title type="alternate" xml:lang="en">Positional Plagiocephaly</dc:title>
+<dc:type>Text</dc:type>
+<dc:language>spa</dc:language>
+<dc:language>eng</dc:language>
+<dc:title xml:lang="es">Anomalías craneofaciales</dc:title>
+<dc:title xml:lang="en">Craniofacial Abnormalities</dc:title>
+<dc:publisher>National Library of Medicine</dc:publisher>
+<dc:relation type="IsPartOf">Bones, Joints and Muscles</dc:relation>
+<dc:relation type="IsPartOf">Brain and Nerves</dc:relation>
+<dc:relation type="IsPartOf">Genetics/Birth Defects</dc:relation>
+<dc:date type="created">2011-01-24</dc:date>
+<dc:date type="modified">2018-01-03</dc:date>
+<dc:identifier type="URL" xml:lang="es">https://medlineplus.gov/spanish/craniofacialabnormalities.html</dc:identifier>
+<dc:identifier type="URL" xml:lang="en">https://medlineplus.gov/craniofacialabnormalities.html</dc:identifier>
+<dc:description xml:lang="es">La palabra craneofacial es un término médico que está relacionado con los huesos del cráneo y de la cara. Las anomalías craneofaciales son defectos de nacimiento de la cara o de la cabeza. Algunos defectos, como el labio y paladar leporino, son los más comunes de todos los defectos congénitos. Otros son muy raros. La mayoría de estas anomalías afectan el aspecto de la cara o de la cabeza. Estas condiciones pueden afectar otras partes del cuerpo. El tratamiento depende del tipo de problema. La cirugía plástica y reconstructiva puede cambiar la apariencia de una persona.</dc:description>
+<dc:description xml:lang="en">Craniofacial is a medical term that relates to the bones of the skull and face. Craniofacial abnormalities are birth defects of the face or head. Some, like cleft lip and palate, are among the most common of all birth defects. Others are very rare. Most of them affect how a person's face or head looks. These conditions may also affect other parts of the body. Treatment depends on the type of problem. Plastic and reconstructive surgery may help the person's appearance.</dc:description>
+<dc:subject dcterms="mesh">Craniofacial Abnormalities</dc:subject>
+<dc:subject xml:lang="es">Anomalías craneofaciales</dc:subject>
+<dc:subject xml:lang="es">Deformidades dentofaciales</dc:subject>
+<dc:subject xml:lang="es">Deformidades faciales</dc:subject>
+<dc:subject xml:lang="es">Deformidades de la cara y la cabeza</dc:subject>
+<dc:subject xml:lang="en">Craniofacial Abnormalities</dc:subject>
+<dc:subject xml:lang="en">Craniosynostosis</dc:subject>
+<dc:subject xml:lang="en">Treacher-Collins Syndrome</dc:subject>
+<dc:subject xml:lang="en">Positional Plagiocephaly</dc:subject>
+</metadata>
+</record>
+</MedlinePlus-document>

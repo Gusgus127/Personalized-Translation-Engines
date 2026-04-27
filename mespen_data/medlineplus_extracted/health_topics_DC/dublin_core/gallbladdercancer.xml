@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<MedlinePlus-document>
+<record>
+<header>
+<identifier>https://medlineplus.gov/gallbladdercancer.html</identifier>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:type>Text</dc:type>
+<dc:language>spa</dc:language>
+<dc:language>eng</dc:language>
+<dc:title xml:lang="es">Cáncer de la vesícula biliar</dc:title>
+<dc:title xml:lang="en">Gallbladder Cancer</dc:title>
+<dc:publisher>National Library of Medicine</dc:publisher>
+<dc:relation type="IsPartOf">Digestive System</dc:relation>
+<dc:relation type="IsPartOf">Cancers</dc:relation>
+<dc:date type="created">2008-12-15</dc:date>
+<dc:date type="modified">2017-12-07</dc:date>
+<dc:identifier type="URL" xml:lang="es">https://medlineplus.gov/spanish/gallbladdercancer.html</dc:identifier>
+<dc:identifier type="URL" xml:lang="en">https://medlineplus.gov/gallbladdercancer.html</dc:identifier>
+<dc:description xml:lang="es">La vesícula biliar es un órgano con forma de pera ubicado debajo del hígado. Almacena bilis, un líquido producido por el hígado para digerir las grasas. Cuando el estómago y el intestino digieren los alimentos, la vesícula biliar libera bilis a través de un tubo denominado conducto biliar común. Ese conducto conecta a la vesícula biliar y el hígado con el intestino delgado. El cáncer de la vesícula biliar es muy poco común. Ocurre más frecuente en mujeres e indios norteamericanos. Los síntomas incluyen: Ictericia (color amarillo de la piel y en las partes blancas de los ojos) Dolor más arriba del estomago Fiebre Náuseas y vómitos Hinchazón del abdomen Nódulos en el abdomen Es difícil de detectar el cáncer de la vesícula en sus etapas tempranas. Los médicos suelen encontrarlo al extirpar la vesícula por causa de otra enfermedad. Las personas con cálculos en la vesícula biliar raramente presentan este cáncer. El cáncer de la vesícula puede ser difícil de tratar porque a menudo no se detecta hasta que ya se ha desarrollado. Las opciones de tratamiento incluyen la cirugía, quimioterapia, radiación o una combinación de terapias. NIH: Instituto Nacional del Cáncer</dc:description>
+<dc:description xml:lang="en">Your gallbladder is a pear-shaped organ under your liver. It stores bile, a fluid made by your liver to digest fat. As your stomach and intestines digest food, your gallbladder releases bile through a tube called the common bile duct. The duct connects your gallbladder and liver to your small intestine. Cancer of the gallbladder is rare. It is more common in women and Native Americans. Symptoms include Jaundice (yellowing of the skin and whites of the eyes) Pain above the stomach Fever Nausea and vomiting Bloating Lumps in the abdomen It is hard to diagnose gallbladder cancer in its early stages. Sometimes doctors find it when they remove the gallbladder for another reason. But people with gallstones rarely have gallbladder cancer. Because it is often found late, it can be hard to treat gallbladder cancer. Treatment options include surgery, chemotherapy, radiation, or a combination. NIH: National Cancer Institute</dc:description>
+<dc:subject dcterms="mesh">Gallbladder Neoplasms</dc:subject>
+<dc:subject xml:lang="es">Cáncer de la vesícula biliar</dc:subject>
+<dc:subject xml:lang="en">Gallbladder Cancer</dc:subject>
+</metadata>
+</record>
+</MedlinePlus-document>

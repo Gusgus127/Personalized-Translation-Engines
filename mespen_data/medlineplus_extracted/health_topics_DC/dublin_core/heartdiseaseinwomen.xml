@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<MedlinePlus-document>
+<record>
+<header>
+<identifier>https://medlineplus.gov/heartdiseaseinwomen.html</identifier>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title type="alternate" xml:lang="es">Corazón, Enfermedades en la mujer</dc:title>
+<dc:title type="alternate" xml:lang="es">Mujer, Enfermedades del corazón</dc:title>
+<dc:type>Text</dc:type>
+<dc:language>spa</dc:language>
+<dc:language>eng</dc:language>
+<dc:title xml:lang="es">Enfermedades del corazón en la mujer</dc:title>
+<dc:title xml:lang="en">Heart Disease in Women</dc:title>
+<dc:publisher>National Library of Medicine</dc:publisher>
+<dc:relation type="IsPartOf">Women</dc:relation>
+<dc:relation type="IsPartOf">Blood, Heart and Circulation</dc:relation>
+<dc:date type="created">2005-10-06</dc:date>
+<dc:date type="modified">2018-02-07</dc:date>
+<dc:identifier type="URL" xml:lang="es">https://medlineplus.gov/spanish/heartdiseaseinwomen.html</dc:identifier>
+<dc:identifier type="URL" xml:lang="en">https://medlineplus.gov/heartdiseaseinwomen.html</dc:identifier>
+<dc:description xml:lang="es">Aunque muchas personas piensan que las enfermedades cardíacas son un problema de los hombres, las mujeres pueden tener problemas de corazón. De hecho, las enfermedades cardíacas son la primera causa de muerte en mujeres en los Estados Unidos. También está entre las principales causas de discapacidad entre las mujeres. La causa más común de la enfermedad cardiaca es el estrechamiento o el bloqueo de las arterias coronarias, los vasos sanguíneos que suministran sangre al propio corazón. A esto se le llama enfermedad arterial coronaria y se desarrolla lentamente con el transcurso del tiempo. Es la causa más importante por la cual las personas sufren infartos. La prevención es importante: dos tercios de las mujeres que tienen infartos no logran una recuperación completa. Cuanto más avanzada es la edad de la mujer, más probabilidades tiene de padecer una enfermedad cardiaca. Pero las mujeres de cualquier edad deben preocuparse por las enfermedades del corazón. Todas las mujeres pueden tomar medidas para prevenirlas al adoptar hábitos saludables en su estilo de vida. NIH: Instituto Nacional del Corazón, los Pulmones y la Sangre</dc:description>
+<dc:description xml:lang="en">In the United States, 1 in 4 women dies from heart disease. The most common cause of heart disease in both men and women is narrowing or blockage of the coronary arteries, the blood vessels that supply blood to the heart itself. This is called coronary artery disease, and it happens slowly over time. It's the major reason people have heart attacks. Heart diseases that affect women more than men include Coronary microvascular disease (MVD) - a problem that affects the heart's tiny arteries Broken heart syndrome - extreme emotional stress leading to severe but often short-term heart muscle failure The older a woman gets, the more likely she is to get heart disease. But women of all ages should be concerned about heart disease. All women can take steps to prevent it by practicing healthy lifestyle habits. NIH: National Heart, Lung, and Blood Institute</dc:description>
+<dc:subject dcterms="mesh">Heart Diseases</dc:subject>
+<dc:subject xml:lang="es">Enfermedades del corazón en la mujer</dc:subject>
+<dc:subject xml:lang="es">Corazón</dc:subject>
+<dc:subject xml:lang="es">Enfermedades en la mujer</dc:subject>
+<dc:subject xml:lang="es">Mujer</dc:subject>
+<dc:subject xml:lang="es">Enfermedades del corazón</dc:subject>
+<dc:subject xml:lang="en">Heart Disease in Women</dc:subject>
+</metadata>
+</record>
+</MedlinePlus-document>

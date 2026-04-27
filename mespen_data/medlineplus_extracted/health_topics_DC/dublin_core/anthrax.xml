@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<MedlinePlus-document>
+<record>
+<header>
+<identifier>https://medlineplus.gov/anthrax.html</identifier>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title type="alternate" xml:lang="es">Carbunco</dc:title>
+<dc:type>Text</dc:type>
+<dc:language>spa</dc:language>
+<dc:language>eng</dc:language>
+<dc:title xml:lang="es">Ántrax</dc:title>
+<dc:title xml:lang="en">Anthrax</dc:title>
+<dc:publisher>National Library of Medicine</dc:publisher>
+<dc:relation type="IsPartOf">Infections</dc:relation>
+<dc:date type="created">2002-07-21</dc:date>
+<dc:date type="modified">2017-05-31</dc:date>
+<dc:identifier type="URL" xml:lang="es">https://medlineplus.gov/spanish/anthrax.html</dc:identifier>
+<dc:identifier type="URL" xml:lang="en">https://medlineplus.gov/anthrax.html</dc:identifier>
+<dc:description xml:lang="es">El ántrax es una enfermedad causada por el Bacillus anthracis, un microbio que vive en la tierra. Muchas personas han oído hablar de él en los ataques bioterroristas de 2001. En esos ataques, alguien diseminaba intencionalmente ántrax por medio del correo estadounidense. Murieron cinco personas y 22 se enfermaron. El ántrax no es común. Afecta animales como al ganado, ovejas y cabras más que a las personas. Los humanos pueden contraer ántrax a través del contacto con animales, lana, carne o cuero infectados. Hay tres formas en que las personas se infectan con ántrax. Estas son: Cutánea, que afecta la piel. Las personas con cortaduras o heridas abiertas pueden adquirirla si tocan las bacterias. Por inhalación, que afecta los pulmones. Puede adquirirse si se respiran las esporas de las bacterias. Gastrointestinal, que afecta el sistema digestivo. También por consumir alimentos infectados. Si se diagnostica anticipadamente, el tratamiento con antibióticos suele curar el ántrax. Pero muchas personas no saben que padecen de ántrax hasta que es demasiado tarde para tratarlo. Existe una vacuna para prevenir el ántrax, para las personas en el servicio militar y otros grupos de alto riesgo. NIH: Instituto Nacional de Alergias y Enfermedades Infecciosas</dc:description>
+<dc:description xml:lang="en">Anthrax is a disease caused by Bacillus anthracis, a germ that lives in soil. Many people know about it from the 2001 bioterror attacks. In the attacks, someone purposely spread anthrax through the U.S. mail. This killed five people and made 22 sick. Anthrax is rare. It affects animals such as cattle, sheep, and goats more often than people. People can get anthrax from contact with infected animals, wool, meat, or hides. It can cause three forms of disease in people. They are Cutaneous, which affects the skin. People with cuts or open sores can get it if they touch the bacteria. Inhalation, which affects the lungs. You can get this if you breathe in spores of the bacteria. Gastrointestinal, which affects the digestive system. You can get it by eating infected meat. Antibiotics often cure anthrax if it is diagnosed early. But many people don't know they have anthrax until it is too late to treat. A vaccine to prevent anthrax is available for people in the military and others at high risk. NIH: National Institute of Allergy and Infectious Diseases</dc:description>
+<dc:subject dcterms="mesh">Anthrax</dc:subject>
+<dc:subject dcterms="mesh">Anthrax Vaccines</dc:subject>
+<dc:subject xml:lang="es">Ántrax</dc:subject>
+<dc:subject xml:lang="es">Carbunco</dc:subject>
+<dc:subject xml:lang="en">Anthrax</dc:subject>
+</metadata>
+</record>
+</MedlinePlus-document>

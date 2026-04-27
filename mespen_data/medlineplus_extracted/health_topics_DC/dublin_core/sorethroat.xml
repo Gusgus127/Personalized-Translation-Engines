@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<MedlinePlus-document>
+<record>
+<header>
+<identifier>https://medlineplus.gov/sorethroat.html</identifier>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:type>Text</dc:type>
+<dc:language>spa</dc:language>
+<dc:language>eng</dc:language>
+<dc:title xml:lang="es">Dolor de garganta</dc:title>
+<dc:title xml:lang="en">Sore Throat</dc:title>
+<dc:publisher>National Library of Medicine</dc:publisher>
+<dc:relation type="IsPartOf">Ear, Nose and Throat</dc:relation>
+<dc:date type="created">2009-01-05</dc:date>
+<dc:date type="modified">2017-06-15</dc:date>
+<dc:identifier type="URL" xml:lang="es">https://medlineplus.gov/spanish/sorethroat.html</dc:identifier>
+<dc:identifier type="URL" xml:lang="en">https://medlineplus.gov/sorethroat.html</dc:identifier>
+<dc:description xml:lang="es">Su garganta es un tubo que lleva la comida al esófago y el aire a su laringe, donde se encuentran las cuerdas vocales. Técnicamente, a la garganta se le llama faringe. Se puede tener dolor de garganta por varias razones. A menudo, la causa es un resfrío y una gripe. Otras causas incluyen: Alergias Mononucleosis Fumar Inflamación estreptocócica Amigdalitis El tratamiento depende de la causa. Chupar caramelos, tomar mucho líquido y hacer gárgaras puede aliviar el dolor. Analgésicos de venta libre pueden también ayudar, pero los niños no deben tomar aspirina.</dc:description>
+<dc:description xml:lang="en">Your throat is a tube that carries food to your esophagus and air to your windpipe and larynx (also called the voice box). The technical name for the throat is pharynx. You can have a sore throat for many reasons. Often, colds and flu cause sore throats. Other causes can include: Allergies Mononucleosis Smoking Strep throat Tonsillitis Treatment depends on the cause. Sucking on lozenges, drinking lots of liquids, and gargling may ease the pain. Over-the-counter pain relievers can also help, but children should not take aspirin.</dc:description>
+<dc:subject dcterms="mesh">Pharyngitis</dc:subject>
+<dc:subject xml:lang="es">Dolor de garganta</dc:subject>
+<dc:subject xml:lang="en">Sore Throat</dc:subject>
+<dc:subject xml:lang="en">Pharyngitis</dc:subject>
+</metadata>
+</record>
+</MedlinePlus-document>

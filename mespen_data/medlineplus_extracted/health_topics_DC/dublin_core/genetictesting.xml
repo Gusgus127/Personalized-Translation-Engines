@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<MedlinePlus-document>
+<record>
+<header>
+<identifier>https://medlineplus.gov/genetictesting.html</identifier>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title type="alternate" xml:lang="es">Pruebas de diagnóstico para recién nacidos</dc:title>
+<dc:title type="alternate" xml:lang="es">Recién nacido, Pruebas de diagnóstico</dc:title>
+<dc:title type="alternate" xml:lang="en">Paternity Testing</dc:title>
+<dc:type>Text</dc:type>
+<dc:language>spa</dc:language>
+<dc:language>eng</dc:language>
+<dc:title xml:lang="es">Pruebas genéticas</dc:title>
+<dc:title xml:lang="en">Genetic Testing</dc:title>
+<dc:publisher>National Library of Medicine</dc:publisher>
+<dc:relation type="IsPartOf">Pregnancy and Reproduction</dc:relation>
+<dc:relation type="IsPartOf">Genetics/Birth Defects</dc:relation>
+<dc:relation type="IsPartOf">Diagnostic Tests</dc:relation>
+<dc:date type="created">2002-07-21</dc:date>
+<dc:date type="modified">2017-02-13</dc:date>
+<dc:identifier type="URL" xml:lang="es">https://medlineplus.gov/spanish/genetictesting.html</dc:identifier>
+<dc:identifier type="URL" xml:lang="en">https://medlineplus.gov/genetictesting.html</dc:identifier>
+<dc:description xml:lang="es">Las pruebas genéticas son exámenes de sangre y otros tejidos para detectar trastornos genéticos. Existen más de dos mil pruebas disponibles. Los médicos hacen pruebas genéticas por varios motivos. Entre ellos: Encontrar trastornos genéticos en el feto Saber si las personas tienen un gen de una enfermedad y pueden transferírsela a sus hijos Estudiar embriones para detectar enfermedades Evaluar la presencia de enfermedades genéticas en adultos antes de que se produzcan síntomas Hacer un diagnóstico en una persona que tiene síntomas de una enfermedad Determinar el tipo o dosis de medicamento que es mejor para la persona Las personas tienen muchos motivos distintos para hacerse o no estas pruebas. Para algunas personas, es importante saber si una enfermedad puede prevenirse o tratarse en caso de que la prueba sea positiva. En algunos casos, no existe tratamiento, pero los resultados de las pruebas pueden ayudar a una persona a tomar decisiones en su vida, como planificación familiar o cobertura de un seguro. Un asesor genético puede darle información acerca de las ventajas y las desventajas de las pruebas. NIH: Instituto Nacional de Investigación del Genoma Humano</dc:description>
+<dc:description xml:lang="en">Genetic tests are tests on blood and other tissue to find genetic disorders. Over 2000 tests are available. Doctors use genetic tests for several reasons. These include Finding genetic diseases in unborn babies Finding out if people carry a gene for a disease and might pass it on to their children Screening embryos for disease Testing for genetic diseases in adults before they cause symptoms Making a diagnosis in a person who has disease symptoms Figuring out the type or dose of a medicine that is best for a certain person People have many different reasons for being tested or not being tested. For some, it is important to know whether a disease can be prevented or treated if a test is positive. In some cases, there is no treatment. But test results might help a person make life decisions, such as family planning or insurance coverage. A genetic counselor can provide information about the pros and cons of testing. NIH: National Human Genome Research Institute</dc:description>
+<dc:subject dcterms="mesh">Genetic Testing</dc:subject>
+<dc:subject xml:lang="es">Pruebas genéticas</dc:subject>
+<dc:subject xml:lang="es">Pruebas de diagnóstico para recién nacidos</dc:subject>
+<dc:subject xml:lang="es">Recién nacido</dc:subject>
+<dc:subject xml:lang="es">Pruebas de diagnóstico</dc:subject>
+<dc:subject xml:lang="en">Genetic Testing</dc:subject>
+<dc:subject xml:lang="en">Paternity Testing</dc:subject>
+</metadata>
+</record>
+</MedlinePlus-document>

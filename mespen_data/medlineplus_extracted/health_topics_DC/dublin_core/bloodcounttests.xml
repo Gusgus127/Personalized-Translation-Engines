@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<MedlinePlus-document>
+<record>
+<header>
+<identifier>https://medlineplus.gov/bloodcounttests.html</identifier>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title type="alternate" xml:lang="es">Sangre, Pruebas de</dc:title>
+<dc:title type="alternate" xml:lang="es">Sangre, Examen de</dc:title>
+<dc:title type="alternate" xml:lang="es">Conteo sanguíneo, Prueba de</dc:title>
+<dc:title type="alternate" xml:lang="en">Blood Tests</dc:title>
+<dc:title type="alternate" xml:lang="en">Blood Cells</dc:title>
+<dc:type>Text</dc:type>
+<dc:language>spa</dc:language>
+<dc:language>eng</dc:language>
+<dc:title xml:lang="es">Análisis de sangre</dc:title>
+<dc:title xml:lang="en">Blood Count Tests</dc:title>
+<dc:publisher>National Library of Medicine</dc:publisher>
+<dc:relation type="IsPartOf">Blood, Heart and Circulation</dc:relation>
+<dc:date type="created">2016-05-11</dc:date>
+<dc:date type="modified">2017-11-08</dc:date>
+<dc:identifier type="URL" xml:lang="es">https://medlineplus.gov/spanish/bloodcounttests.html</dc:identifier>
+<dc:identifier type="URL" xml:lang="en">https://medlineplus.gov/bloodcounttests.html</dc:identifier>
+<dc:description xml:lang="es">Su sangre contiene glóbulos rojos, glóbulos blancos y plaquetas. El análisis o examen de sangre mide el número y tipos de células en la sangre. Esto ayuda a los médicos a verificar su estado general de salud. Las pruebas también pueden ayudar a diagnosticar enfermedades y afecciones como anemia, infecciones, problemas de coagulación, cáncer de la sangre y enfermedades del sistema inmunitario. Los tipos específicos incluyen pruebas para: Glóbulos rojos: Número, tamaño y tipos de glóbulos rojos en la sangre Glóbulos blancos: Número y tipos de glóbulos blancos en la sangre Plaquetas: Número y tamaño de las plaquetas Hemoglobina: Proteína rica en hierro en los glóbulos rojos que transporta el oxígeno Hematocrito: La cantidad de espacio que toman los glóbulos rojos en su sangre Conteo de reticulocitos: El número de glóbulos rojos jóvenes en su sangre La media del volumen corpuscular medio: El tamaño promedio de los glóbulos rojos El recuento sanguíneo completo o hemograma incluye la mayor parte o la totalidad de estas pruebas. Es una de las pruebas de sangre más comunes. NIH: Instituto Nacional del Corazón, los Pulmones y la Sangre</dc:description>
+<dc:description xml:lang="en">Your blood contains red blood cells (RBC), white blood cells (WBC), and platelets. Blood count tests measure the number and types of cells in your blood. This helps doctors check on your overall health. The tests can also help to diagnose diseases and conditions such as anemia, infections, clotting problems, blood cancers, and immune system disorders. Specific types include tests for RBC - the numbers, size, and types of RBC in the blood WBC - the numbers and types of WBC in the blood Platelets - the numbers and size of the platelets Hemoglobin - an iron-rich protein in red blood cells that carries oxygen Hematocrit - how much space red blood cells take up in your blood Reticulocyte count - how many young red blood cells are in your blood Mean corpuscular volume (MCV) - the average size of your red blood cells The complete blood count (CBC) includes most or all of these. The CBC is one of the most common blood tests. NIH: National Heart, Lung, and Blood Institute</dc:description>
+<dc:subject dcterms="mesh">Blood Cell Count</dc:subject>
+<dc:subject xml:lang="es">Análisis de sangre</dc:subject>
+<dc:subject xml:lang="es">Sangre</dc:subject>
+<dc:subject xml:lang="es">Pruebas de</dc:subject>
+<dc:subject xml:lang="es">Sangre</dc:subject>
+<dc:subject xml:lang="es">Examen de</dc:subject>
+<dc:subject xml:lang="es">Conteo sanguíneo</dc:subject>
+<dc:subject xml:lang="es">Prueba de</dc:subject>
+<dc:subject xml:lang="en">Blood Count Tests</dc:subject>
+<dc:subject xml:lang="en">Blood Tests</dc:subject>
+<dc:subject xml:lang="en">Blood Cells</dc:subject>
+</metadata>
+</record>
+</MedlinePlus-document>

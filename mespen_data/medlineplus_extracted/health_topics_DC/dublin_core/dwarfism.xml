@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<MedlinePlus-document>
+<record>
+<header>
+<identifier>https://medlineplus.gov/dwarfism.html</identifier>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title type="alternate" xml:lang="es">Acondroplasia</dc:title>
+<dc:title type="alternate" xml:lang="en">Achondroplasia</dc:title>
+<dc:type>Text</dc:type>
+<dc:language>spa</dc:language>
+<dc:language>eng</dc:language>
+<dc:title xml:lang="es">Enanismo</dc:title>
+<dc:title xml:lang="en">Dwarfism</dc:title>
+<dc:publisher>National Library of Medicine</dc:publisher>
+<dc:relation type="IsPartOf">Bones, Joints and Muscles</dc:relation>
+<dc:relation type="IsPartOf">Endocrine System</dc:relation>
+<dc:relation type="IsPartOf">Genetics/Birth Defects</dc:relation>
+<dc:date type="created">2002-12-30</dc:date>
+<dc:date type="modified">2018-01-03</dc:date>
+<dc:identifier type="URL" xml:lang="es">https://medlineplus.gov/spanish/dwarfism.html</dc:identifier>
+<dc:identifier type="URL" xml:lang="en">https://medlineplus.gov/dwarfism.html</dc:identifier>
+<dc:description xml:lang="es">Las personas con enanismo tienen baja estatura. Esto significa que su altura es menor a 4'10" (cerca de 1.25 metro) como adulto. Usualmente tienen una inteligencia normal. El enanismo a menudo ocurre en familias donde ambos padres son de estatura promedio. Más de 300 condiciones diferentes pueden causar enanismo. La acondroplasia es el tipo más común de enanismo. Es un problema genético que afecta aproximadamente entre una en 15,000 a una en 40,000 personas. Hace que sus brazos y piernas sean cortos en comparación con su cabeza y tronco. También puede tener una cabeza más grande y un tono muscular débil. Otras afecciones genéticas, enfermedad renal y problemas con el metabolismo u hormonas también pueden causar enanismo. Las condiciones que causan enanismo también pueden causar otros problemas de salud. La mayoría de ellos son tratables. Es importante tener chequeos regulares a lo largo de su vida. Con la atención médica adecuada, la mayoría de las personas con enanismo tienen vidas activas y viven tanto como otras personas.</dc:description>
+<dc:description xml:lang="en">People with dwarfism have short stature. This means that their height is under 4' 10" as an adult. They are usually of normal intelligence. Dwarfism most often does happen in families where both parents are of average height. More than 300 different conditions can cause dwarfism. Achondroplasia is the most common type of dwarfism. Achondroplasia is a genetic condition that affects about 1 in 15,000 to 1 in 40,000 people. It makes your arms and legs short in comparison to your head and trunk. You may also have a larger head and weak muscle tone. Other genetic conditions, kidney disease, and problems with metabolism or hormones can also cause dwarfism. The conditions that cause dwarfism can also cause other health problems. Most of them are treatable. It is important to have regular checkups throughout your life. With proper medical care, most people with dwarfism have active lives and live as long as other people.</dc:description>
+<dc:subject dcterms="mesh">Dwarfism</dc:subject>
+<dc:subject xml:lang="es">Enanismo</dc:subject>
+<dc:subject xml:lang="es">Acondroplasia</dc:subject>
+<dc:subject xml:lang="en">Dwarfism</dc:subject>
+<dc:subject xml:lang="en">Achondroplasia</dc:subject>
+</metadata>
+</record>
+</MedlinePlus-document>

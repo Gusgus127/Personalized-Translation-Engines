@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<MedlinePlus-document>
+<record>
+<header>
+<identifier>https://medlineplus.gov/cornsandcalluses.html</identifier>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title type="alternate" xml:lang="es">Hiperqueratosis</dc:title>
+<dc:title type="alternate" xml:lang="en">Calluses</dc:title>
+<dc:type>Text</dc:type>
+<dc:language>spa</dc:language>
+<dc:language>eng</dc:language>
+<dc:title xml:lang="es">Callos y callosidades</dc:title>
+<dc:title xml:lang="en">Corns and Calluses</dc:title>
+<dc:publisher>National Library of Medicine</dc:publisher>
+<dc:relation type="IsPartOf">Skin, Hair and Nails</dc:relation>
+<dc:date type="created">2011-08-02</dc:date>
+<dc:date type="modified">2017-08-21</dc:date>
+<dc:identifier type="URL" xml:lang="es">https://medlineplus.gov/spanish/cornsandcalluses.html</dc:identifier>
+<dc:identifier type="URL" xml:lang="en">https://medlineplus.gov/cornsandcalluses.html</dc:identifier>
+<dc:description xml:lang="es">Los callos y callosidades son causados por presión o fricción en la piel. A menudo aparecen en el pie donde el hueso roza con el calzado. Los callos, generalmente, aparecen arriba o a los costados del pie mientras que las callosidades aparecen en las plantas del pie. También pueden aparecer en las manos u otras áreas donde haya fricción o presión. Usar zapatos que se ajusten bien o usar plantillas sin medicación puede ayudar a evitarlos. Mientras se bañe, frote suavemente el callo o callosidad con una toallita o piedra pómez para ayudar a reducir el tamaño. Para evitar una infección, no trate de rasparlos. Vea a un doctor si sufre de diabetes o problemas circulatorios. NIH: Instituto Nacional Sobre el Envejecimiento</dc:description>
+<dc:description xml:lang="en">Corns and calluses are caused by pressure or friction on your skin. They often appear on feet where the bony parts of your feet rub against your shoes. Corns usually appear on the tops or sides of toes while calluses form on the soles of feet. Calluses also can appear on hands or other areas that are rubbed or pressed. Wearing shoes that fit better or using non-medicated pads may help. While bathing, gently rub the corn or callus with a washcloth or pumice stone to help reduce the size. To avoid infection, do not try to shave off the corn or callus. See your doctor, especially if you have diabetes or circulation problems. NIH: National Institute on Aging</dc:description>
+<dc:subject dcterms="mesh">Callosities</dc:subject>
+<dc:subject xml:lang="es">Callos y callosidades</dc:subject>
+<dc:subject xml:lang="es">Hiperqueratosis</dc:subject>
+<dc:subject xml:lang="en">Corns and Calluses</dc:subject>
+<dc:subject xml:lang="en">Calluses</dc:subject>
+</metadata>
+</record>
+</MedlinePlus-document>

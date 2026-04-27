@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<MedlinePlus-document>
+<record>
+<header>
+<identifier>https://medlineplus.gov/asianamericanhealth.html</identifier>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title type="alternate" xml:lang="es">Asiáticoamericanos, Salud de los</dc:title>
+<dc:type>Text</dc:type>
+<dc:language>spa</dc:language>
+<dc:language>eng</dc:language>
+<dc:title xml:lang="es">Salud de los asiáticoamericanos</dc:title>
+<dc:title xml:lang="en">Asian American Health</dc:title>
+<dc:publisher>National Library of Medicine</dc:publisher>
+<dc:relation type="IsPartOf">Population Groups</dc:relation>
+<dc:date type="created">2002-07-21</dc:date>
+<dc:date type="modified">2017-10-25</dc:date>
+<dc:identifier type="URL" xml:lang="es">https://medlineplus.gov/spanish/asianamericanhealth.html</dc:identifier>
+<dc:identifier type="URL" xml:lang="en">https://medlineplus.gov/asianamericanhealth.html</dc:identifier>
+<dc:description xml:lang="es">Cada grupo racial o étnico tiene problemas de salud específicos. Las diferencias en la salud de los distintos grupos pueden resultar debido a: Factores genéticos Factores ambientales Acceso a la atención médica Factores culturales En esta página encontrará enlaces para los problemas de salud que afectan a los asiáticoamericanos.</dc:description>
+<dc:description xml:lang="en">Every racial or ethnic group has specific health concerns. Differences in the health of groups can result from Genetics Environmental factors Access to care Cultural factors On this page, you'll find links to health issues that affect Asian Americans.</dc:description>
+<dc:subject dcterms="mesh">Asian Americans</dc:subject>
+<dc:subject xml:lang="es">Salud de los asiáticoamericanos</dc:subject>
+<dc:subject xml:lang="es">Asiáticoamericanos</dc:subject>
+<dc:subject xml:lang="es">Salud de los</dc:subject>
+<dc:subject xml:lang="en">Asian American Health</dc:subject>
+</metadata>
+</record>
+</MedlinePlus-document>

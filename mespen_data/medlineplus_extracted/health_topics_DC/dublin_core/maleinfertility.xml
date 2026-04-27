@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<MedlinePlus-document>
+<record>
+<header>
+<identifier>https://medlineplus.gov/maleinfertility.html</identifier>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title type="alternate" xml:lang="es">Hombre, Infertilidad</dc:title>
+<dc:title type="alternate" xml:lang="en">Infertility, Male</dc:title>
+<dc:title type="alternate" xml:lang="en">Low Sperm Count</dc:title>
+<dc:type>Text</dc:type>
+<dc:language>spa</dc:language>
+<dc:language>eng</dc:language>
+<dc:title xml:lang="es">Infertilidad en el hombre</dc:title>
+<dc:title xml:lang="en">Male Infertility</dc:title>
+<dc:publisher>National Library of Medicine</dc:publisher>
+<dc:relation type="IsPartOf">Men</dc:relation>
+<dc:relation type="IsPartOf">Male Reproductive System</dc:relation>
+<dc:date type="created">2010-10-07</dc:date>
+<dc:date type="modified">2018-01-31</dc:date>
+<dc:identifier type="URL" xml:lang="es">https://medlineplus.gov/spanish/maleinfertility.html</dc:identifier>
+<dc:identifier type="URL" xml:lang="en">https://medlineplus.gov/maleinfertility.html</dc:identifier>
+<dc:description xml:lang="es">Infertilidad es un término que los doctores usan cuando un hombre tiene dificultades en embarazar a una mujer después de haberlo intentado por lo menos por un año. Las causas incluyen: Problemas físicos de los testículos Bloqueos de los tubos que transportan el semen Problemas hormonales Historial de fiebre alta o paperas Enfermedades genéticas Factores ambientales o del estilo de vida Cerca de un tercio de las veces, la infertilidad es por un problema con el hombre. Otro tercio es un problema de la mujer. A veces, no se puede encontrar una causa. Si usted sospecha que es infértil, consulte a su médico. Existen exámenes que pueden determinar si usted tiene un problema de infertilidad. Cuando es posible encontrar la causa, los tratamientos incluyen medicamentos, cirugía o tecnologías de reproducción asistida. Afortunadamente, dos tercios de las parejas tratadas por infertilidad pueden tener bebés. NIH: Instituto Nacional de Salud Infantil y Desarrollo Humano</dc:description>
+<dc:description xml:lang="en">Infertility is a term doctors use if a man hasn't been able to get a woman pregnant after at least one year of trying. Causes of male infertility include Physical problems with the testicles Blockages in the ducts that carry sperm Hormone problems A history of high fevers or mumps Genetic disorders Lifestyle or environmental factors About a third of the time, infertility is because of a problem with the man. One third of the time, it is a problem with the woman. Sometimes no cause can be found. If you suspect you are infertile, see your doctor. There are tests that may tell if you have fertility problems. When it is possible to find the cause, treatments may include medicines, surgery, or assisted reproductive technology. Happily, many couples treated for infertility are able to have babies. NIH: National Institute of Child Health and Human Development</dc:description>
+<dc:subject dcterms="mesh">Infertility, Male</dc:subject>
+<dc:subject xml:lang="es">Infertilidad en el hombre</dc:subject>
+<dc:subject xml:lang="es">Hombre</dc:subject>
+<dc:subject xml:lang="es">Infertilidad</dc:subject>
+<dc:subject xml:lang="en">Male Infertility</dc:subject>
+<dc:subject xml:lang="en">Infertility</dc:subject>
+<dc:subject xml:lang="en">Male</dc:subject>
+<dc:subject xml:lang="en">Low Sperm Count</dc:subject>
+</metadata>
+</record>
+</MedlinePlus-document>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<MedlinePlus-document>
+<record>
+<header>
+<identifier>https://medlineplus.gov/biopsy.html</identifier>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:type>Text</dc:type>
+<dc:language>spa</dc:language>
+<dc:language>eng</dc:language>
+<dc:title xml:lang="es">Biopsia</dc:title>
+<dc:title xml:lang="en">Biopsy</dc:title>
+<dc:publisher>National Library of Medicine</dc:publisher>
+<dc:relation type="IsPartOf">Cancers</dc:relation>
+<dc:relation type="IsPartOf">Diagnostic Tests</dc:relation>
+<dc:date type="created">2012-03-01</dc:date>
+<dc:date type="modified">2017-10-04</dc:date>
+<dc:identifier type="URL" xml:lang="es">https://medlineplus.gov/spanish/biopsy.html</dc:identifier>
+<dc:identifier type="URL" xml:lang="en">https://medlineplus.gov/biopsy.html</dc:identifier>
+<dc:description xml:lang="es">Una biopsia es un procedimiento que extrae células o tejidos de su cuerpo. Un médico llamado patólogo examina las células o tejidos bajo un microscopio para verificar si hay daños o enfermedad. El patólogo también puede hacer otras pruebas a estas células. Las biopsias pueden tomarse de cualquier parte del cuerpo. En la mayoría de los casos, una biopsia es la única prueba que puede indicar con seguridad si un área sospechosa tiene cáncer. Pero las biopsias se realizan por muchas otras razones también. Hay diferentes tipos de biopsias. Una biopsia por punción extrae con una aguja el tejido desde el área comprometida. Otras biopsias que requieren cirugía.</dc:description>
+<dc:description xml:lang="en">A biopsy is a procedure that removes cells or tissue from your body. A doctor called a pathologist looks at the cells or tissue under a microscope to check for damage or disease. The pathologist may also do other tests on it. Biopsies can be done on all parts of the body. In most cases, a biopsy is the only test that can tell for sure if a suspicious area is cancer. But biopsies are performed for many other reasons too. There are different types of biopsies. A needle biopsy removes tissue with a needle passed through your skin to the site of the problem. Other kinds of biopsies may require surgery.</dc:description>
+<dc:subject dcterms="mesh">Biopsy</dc:subject>
+<dc:subject xml:lang="es">Biopsia</dc:subject>
+<dc:subject xml:lang="en">Biopsy</dc:subject>
+</metadata>
+</record>
+</MedlinePlus-document>

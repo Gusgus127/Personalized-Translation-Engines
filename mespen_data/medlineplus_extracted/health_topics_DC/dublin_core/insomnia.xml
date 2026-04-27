@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<MedlinePlus-document>
+<record>
+<header>
+<identifier>https://medlineplus.gov/insomnia.html</identifier>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:type>Text</dc:type>
+<dc:language>spa</dc:language>
+<dc:language>eng</dc:language>
+<dc:title xml:lang="es">Insomnio</dc:title>
+<dc:title xml:lang="en">Insomnia</dc:title>
+<dc:publisher>National Library of Medicine</dc:publisher>
+<dc:relation type="IsPartOf">Brain and Nerves</dc:relation>
+<dc:date type="created">2013-01-08</dc:date>
+<dc:date type="modified">2018-02-13</dc:date>
+<dc:identifier type="URL" xml:lang="es">https://medlineplus.gov/spanish/insomnia.html</dc:identifier>
+<dc:identifier type="URL" xml:lang="en">https://medlineplus.gov/insomnia.html</dc:identifier>
+<dc:description xml:lang="es">El insomnio es uno de los trastornos del sueño más común. Si usted lo padece tiene problemas para conciliar el sueño, quedarse dormido o los dos. Como resultado dormirá poco o tendrá un sueño de poca calidad. Quizás no se sienta descansado cuando se levanta. Los síntomas del insomnio incluyen: Permanecer despierto durante mucho tiempo antes de conciliar el sueño Dormir sólo por períodos cortos Estar despierto durante gran parte de la noche Sentir como si no hubiese dormido nada Despertarse muy temprano Su médico le diagnosticará insomnio en base a su historia clínica y de sueño, y en un examen físico. También podría recomendarle un estudio de sueño para medir qué tan bien duerme y cómo su cuerpo responde a los problemas del sueño. Los tratamientos incluyen buenos hábitos para dormir, consejería y medicamentos. NIH: Instituto Nacional del Corazón, los Pulmones y la Sangre</dc:description>
+<dc:description xml:lang="en">Insomnia is a common sleep disorder. If you have it, you may have trouble falling asleep, staying asleep, or both. As a result, you may get too little sleep or have poor-quality sleep. You may not feel refreshed when you wake up. Symptoms of insomnia include: Lying awake for a long time before you fall asleep Sleeping for only short periods Being awake for much of the night Feeling as if you haven't slept at all Waking up too early Your doctor will diagnose insomnia based on your medical and sleep histories and a physical exam. He or she also may recommend a sleep study. A sleep study measures how well you sleep and how your body responds to sleep problems. Treatments include good sleep habits, counseling, and medicines. NIH: National Heart, Lung, and Blood Institute</dc:description>
+<dc:subject dcterms="mesh">Sleep Initiation and Maintenance Disorders</dc:subject>
+<dc:subject xml:lang="es">Insomnio</dc:subject>
+<dc:subject xml:lang="en">Insomnia</dc:subject>
+</metadata>
+</record>
+</MedlinePlus-document>

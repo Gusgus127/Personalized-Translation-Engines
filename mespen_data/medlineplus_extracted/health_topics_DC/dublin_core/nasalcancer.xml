@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<MedlinePlus-document>
+<record>
+<header>
+<identifier>https://medlineplus.gov/nasalcancer.html</identifier>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title type="alternate" xml:lang="es">Nasal, Cáncer del área</dc:title>
+<dc:title type="alternate" xml:lang="es">Nariz, Cáncer de</dc:title>
+<dc:title type="alternate" xml:lang="es">Cáncer del seno paranasal</dc:title>
+<dc:title type="alternate" xml:lang="es">Seno paranasal, Cáncer del</dc:title>
+<dc:title type="alternate" xml:lang="en">Paranasal Sinus Cancer</dc:title>
+<dc:title type="alternate" xml:lang="en">Sinus Cancer</dc:title>
+<dc:type>Text</dc:type>
+<dc:language>spa</dc:language>
+<dc:language>eng</dc:language>
+<dc:title xml:lang="es">Cáncer nasal</dc:title>
+<dc:title xml:lang="en">Nasal Cancer</dc:title>
+<dc:publisher>National Library of Medicine</dc:publisher>
+<dc:relation type="IsPartOf">Cancers</dc:relation>
+<dc:relation type="IsPartOf">Ear, Nose and Throat</dc:relation>
+<dc:date type="created">2002-12-30</dc:date>
+<dc:date type="modified">2017-05-24</dc:date>
+<dc:identifier type="URL" xml:lang="es">https://medlineplus.gov/spanish/nasalcancer.html</dc:identifier>
+<dc:identifier type="URL" xml:lang="en">https://medlineplus.gov/nasalcancer.html</dc:identifier>
+<dc:description xml:lang="es">Los senos paranasales son pequeños espacios huecos ubicados alrededor de su nariz. Están recubiertos con células que producen moco, que impide que se reseque su nariz. La cavidad nasal es el túnel que queda justo detrás de su nariz a través del cual el aire pasa en su camino hacia la garganta cuando usted respira. El cáncer de la cavidad nasal y de los senos paranasales no es común. Usted corre mayor riesgo si: Es un hombre mayor de 40 años Ha estado expuesto a ciertos químicos en su lugar de trabajo Esta infectado con el virus del papiloma humano (VPH) Fuma Es posible que no se presenten síntomas al comienzo de la enfermedad y luego se presenten síntomas similares a una infección. Los doctores diagnostican este cáncer a través de imágenes, un instrumento con forma de tubo con una luz y una lente para observar y biopsias. Las opciones de tratamiento incluyen cirugía, radiación y quimioterapia. NIH: Instituto Nacional del Cáncer</dc:description>
+<dc:description xml:lang="en">Your paranasal sinuses are small hollow spaces around the nose. They are lined with cells that make mucus, which keeps your nose from drying out. The nasal cavity is the passageway just behind your nose. Air passes through it on the way to your throat as you breathe. Cancer of the nasal cavity and paranasal sinuses is rare. You are at greater risk if you are Male and over 40 years old Exposed to certain workplace chemicals Infected with HPV A smoker There may be no symptoms at first, and later symptoms can be like those of infections. Doctors diagnose nasal cancer with imaging tests, lighted tube-like instruments that look inside the nose, and biopsies. Treatment options include surgery, radiation, and chemotherapy. NIH: National Cancer Institute</dc:description>
+<dc:subject dcterms="mesh">Nose Neoplasms</dc:subject>
+<dc:subject xml:lang="es">Cáncer nasal</dc:subject>
+<dc:subject xml:lang="es">Nasal</dc:subject>
+<dc:subject xml:lang="es">Cáncer del área</dc:subject>
+<dc:subject xml:lang="es">Nariz</dc:subject>
+<dc:subject xml:lang="es">Cáncer de</dc:subject>
+<dc:subject xml:lang="es">Cáncer del seno paranasal</dc:subject>
+<dc:subject xml:lang="es">Seno paranasal</dc:subject>
+<dc:subject xml:lang="es">Cáncer del</dc:subject>
+<dc:subject xml:lang="en">Nasal Cancer</dc:subject>
+<dc:subject xml:lang="en">Paranasal Sinus Cancer</dc:subject>
+<dc:subject xml:lang="en">Sinus Cancer</dc:subject>
+</metadata>
+</record>
+</MedlinePlus-document>

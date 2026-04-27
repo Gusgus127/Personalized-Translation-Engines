@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<MedlinePlus-document>
+<record>
+<header>
+<identifier>https://medlineplus.gov/learningdisorders.html</identifier>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title type="alternate" xml:lang="es">Dislexia</dc:title>
+<dc:title type="alternate" xml:lang="es">Aprendizaje, Problemas de</dc:title>
+<dc:title type="alternate" xml:lang="en">Dyslexia</dc:title>
+<dc:title type="alternate" xml:lang="en">Reading Problems</dc:title>
+<dc:title type="alternate" xml:lang="en">Dyscalculia</dc:title>
+<dc:title type="alternate" xml:lang="en">Specific Learning Disorder</dc:title>
+<dc:type>Text</dc:type>
+<dc:language>spa</dc:language>
+<dc:language>eng</dc:language>
+<dc:title xml:lang="es">Problemas de aprendizaje</dc:title>
+<dc:title xml:lang="en">Learning Disorders</dc:title>
+<dc:publisher>National Library of Medicine</dc:publisher>
+<dc:relation type="IsPartOf">Children and Teenagers</dc:relation>
+<dc:relation type="IsPartOf">Mental Health and Behavior</dc:relation>
+<dc:date type="created">2002-07-21</dc:date>
+<dc:date type="modified">2018-01-19</dc:date>
+<dc:identifier type="URL" xml:lang="es">https://medlineplus.gov/spanish/learningdisorders.html</dc:identifier>
+<dc:identifier type="URL" xml:lang="en">https://medlineplus.gov/learningdisorders.html</dc:identifier>
+<dc:description xml:lang="es">Los problemas de aprendizaje afectan la manera en la que una persona entiende, recuerda y responde a cualquier información nueva. Las personas con problemas de aprendizaje pueden tener problemas para: Escuchar o prestar atención Hablar Leer o escribir Resolver problemas matemáticos Aunque los problemas de aprendizaje ocurren en niños muy pequeños, suelen pasar desapercibidos hasta que el niño llega a la edad escolar. Aproximadamente un tercio de los niños con estos problemas también tienen trastorno de déficit de atención e hiperactividad (TDAH), que dificulta la concentración. La evaluación y las pruebas realizadas por un profesional capacitado pueden ayudar a identificar un problema de aprendizaje. El siguiente paso es la educación especial, el cual incluye ayuda para el niño en las áreas en las que necesita más ayuda. Algunas veces los tutores o terapeutas del lenguaje o del habla también trabajan con los niños. Los problemas de aprendizaje no desaparecen, pero las estrategias para lidiar con ellos pueden mejorar el problema. NIH: Instituto Nacional de Trastornos Neurológicos y Accidentes Cerebrovasculares</dc:description>
+<dc:description xml:lang="en">Learning disorders affect how a person understands, remembers and responds to new information. People with learning disorders may have problems Listening or paying attention Speaking Reading or writing Doing math Although learning disorders occur in very young children, they are usually not recognized until the child reaches school age. About one-third of children who have learning disabilities also have ADHD, which makes it hard to focus. Evaluation and testing by a trained professional can help identify a learning disorder. The next step is special education, which involves helping your child in the areas where he or she needs the most help. Sometimes tutors or speech or language therapists also work with the children. Learning disorders do not go away, but strategies to work around them can make them less of a problem. NIH: National Institute of Neurological Disorders and Stroke</dc:description>
+<dc:subject dcterms="mesh">Learning Disorders</dc:subject>
+<dc:subject xml:lang="es">Problemas de aprendizaje</dc:subject>
+<dc:subject xml:lang="es">Dislexia</dc:subject>
+<dc:subject xml:lang="es">Aprendizaje</dc:subject>
+<dc:subject xml:lang="es">Problemas de</dc:subject>
+<dc:subject xml:lang="en">Learning Disorders</dc:subject>
+<dc:subject xml:lang="en">Dyslexia</dc:subject>
+<dc:subject xml:lang="en">Reading Problems</dc:subject>
+<dc:subject xml:lang="en">Dyscalculia</dc:subject>
+<dc:subject xml:lang="en">Specific Learning Disorder</dc:subject>
+</metadata>
+</record>
+</MedlinePlus-document>

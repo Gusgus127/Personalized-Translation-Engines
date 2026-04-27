@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<MedlinePlus-document>
+<record>
+<header>
+<identifier>https://medlineplus.gov/homelesshealthconcerns.html</identifier>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:type>Text</dc:type>
+<dc:language>spa</dc:language>
+<dc:language>eng</dc:language>
+<dc:title xml:lang="es">Problemas de salud de las personas sin hogar</dc:title>
+<dc:title xml:lang="en">Homeless Health Concerns</dc:title>
+<dc:publisher>National Library of Medicine</dc:publisher>
+<dc:relation type="IsPartOf">Social/Family Issues</dc:relation>
+<dc:date type="created">2004-02-02</dc:date>
+<dc:date type="modified">2017-08-28</dc:date>
+<dc:identifier type="URL" xml:lang="es">https://medlineplus.gov/spanish/homelesshealthconcerns.html</dc:identifier>
+<dc:identifier type="URL" xml:lang="en">https://medlineplus.gov/homelesshealthconcerns.html</dc:identifier>
+<dc:description xml:lang="es">La mala salud puede contribuir a estar desamparado y la falta de un hogar puede conducirlo a una mala salud. El acceso limitado a la atención de salud puede empeorar las cosas. Por ese motivo, la salud de las personas sin techo que viven en Estados Unidos es peor que la de la población en general. Los problemas de salud comunes incluyen: Problemas de salud mental Problemas por el abuso de sustancias Bronquitis y neumonía Problemas causados por vivir en la intemperie Infecciones de la piel y heridas Muchas mujeres sin hogar son víctimas de violencia doméstica o abuso sexual. Los niños sin hogar tienen altos índices de problemas emocionales y de conducta, con frecuencia por haber presenciado abusos. Ayuda como albergues, centros de salud y comidas gratuitas se encuentra disponible. Póngase en contacto con su agencia de asistencia a personas sin techo local.</dc:description>
+<dc:description xml:lang="en">Poor health can contribute to being homeless, and being homeless can lead to poor health. Limited access to health care can make it worse. That's why the health of homeless people in the United States is worse than that of the general population. Common health problems include Mental health problems Substance abuse problems Bronchitis and pneumonia Problems caused by being outdoors Wound and skin infections Many homeless women are victims of domestic or sexual abuse. Homeless children have high rates of emotional and behavioral problems, often from having witnessed abuse. Help such as shelters, health centers, and free meals are available. Contact your local homelessness assistance agency.</dc:description>
+<dc:subject dcterms="mesh">Homeless Persons</dc:subject>
+<dc:subject xml:lang="es">Problemas de salud de las personas sin hogar</dc:subject>
+<dc:subject xml:lang="en">Homeless Health Concerns</dc:subject>
+<dc:subject xml:lang="en">Runaways</dc:subject>
+</metadata>
+</record>
+</MedlinePlus-document>

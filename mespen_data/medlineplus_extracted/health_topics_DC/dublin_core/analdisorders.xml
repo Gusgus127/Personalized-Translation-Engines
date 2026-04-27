@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<MedlinePlus-document>
+<record>
+<header>
+<identifier>https://medlineplus.gov/analdisorders.html</identifier>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title type="alternate" xml:lang="es">Proctitis</dc:title>
+<dc:title type="alternate" xml:lang="es">Ano, Enfermedades del</dc:title>
+<dc:title type="alternate" xml:lang="es">Fisura anal</dc:title>
+<dc:title type="alternate" xml:lang="es">Enfermedades anales</dc:title>
+<dc:title type="alternate" xml:lang="es">Esplenomegalia</dc:title>
+<dc:title type="alternate" xml:lang="en">Pruritus Ani</dc:title>
+<dc:type>Text</dc:type>
+<dc:language>spa</dc:language>
+<dc:language>eng</dc:language>
+<dc:title xml:lang="es">Enfermedades del ano</dc:title>
+<dc:title xml:lang="en">Anal Disorders</dc:title>
+<dc:publisher>National Library of Medicine</dc:publisher>
+<dc:relation type="IsPartOf">Digestive System</dc:relation>
+<dc:date type="created">2002-07-21</dc:date>
+<dc:date type="modified">2018-01-10</dc:date>
+<dc:identifier type="URL" xml:lang="es">https://medlineplus.gov/spanish/analdisorders.html</dc:identifier>
+<dc:identifier type="URL" xml:lang="en">https://medlineplus.gov/analdisorders.html</dc:identifier>
+<dc:description xml:lang="es">El ano es el orificio del recto a través del cual se expulsan las heces del cuerpo. Los problemas del ano son comunes. Estos incluyen hemorroides, abscesos, fisuras y cáncer. A usted le puede dar vergüenza hablar sobre sus problemas anales, pero es importante decirle sobre ellos al médico, sobre todo si tiene dolor o sangramiento. Mientras más detalles entregue sobre el problema, de mejor forma el médico le ayudará. Los tratamientos varían según el problema en particular. NIH: Instituto Nacional de la Diabetes y las Enfermedades Digestivas y Renales</dc:description>
+<dc:description xml:lang="en">The anus is the opening of the rectum through which stool passes out of your body. Problems with the anus are common. They include hemorrhoids, abscesses, fissures (cracks), and cancer. You may be embarrassed to talk about your anal troubles. But it is important to let your doctor know, especially if you have pain or bleeding. The more details you can give about your problem, the better your doctor will be able to help you. Treatments vary depending on the particular problem. NIH: National Institute of Diabetes and Digestive and Kidney Diseases</dc:description>
+<dc:subject dcterms="mesh">Anus Diseases</dc:subject>
+<dc:subject xml:lang="es">Enfermedades del ano</dc:subject>
+<dc:subject xml:lang="es">Proctitis</dc:subject>
+<dc:subject xml:lang="es">Ano</dc:subject>
+<dc:subject xml:lang="es">Enfermedades del</dc:subject>
+<dc:subject xml:lang="es">Fisura anal</dc:subject>
+<dc:subject xml:lang="es">Enfermedades anales</dc:subject>
+<dc:subject xml:lang="es">Esplenomegalia</dc:subject>
+<dc:subject xml:lang="en">Anal Disorders</dc:subject>
+<dc:subject xml:lang="en">Pruritus Ani</dc:subject>
+</metadata>
+</record>
+</MedlinePlus-document>

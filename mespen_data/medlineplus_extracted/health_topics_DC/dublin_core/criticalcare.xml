@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<MedlinePlus-document>
+<record>
+<header>
+<identifier>https://medlineplus.gov/criticalcare.html</identifier>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title type="alternate" xml:lang="es">Cuidado crítico</dc:title>
+<dc:title type="alternate" xml:lang="en">Life Support</dc:title>
+<dc:title type="alternate" xml:lang="en">Ventilators</dc:title>
+<dc:title type="alternate" xml:lang="en">Tracheostomy</dc:title>
+<dc:title type="alternate" xml:lang="en">Assisted Breathing</dc:title>
+<dc:title type="alternate" xml:lang="en">ICU</dc:title>
+<dc:type>Text</dc:type>
+<dc:language>spa</dc:language>
+<dc:language>eng</dc:language>
+<dc:title xml:lang="es">Terapia intensiva</dc:title>
+<dc:title xml:lang="en">Critical Care</dc:title>
+<dc:publisher>National Library of Medicine</dc:publisher>
+<dc:relation type="IsPartOf">Surgery and Rehabilitation</dc:relation>
+<dc:date type="created">2003-02-07</dc:date>
+<dc:date type="modified">2017-07-24</dc:date>
+<dc:identifier type="URL" xml:lang="es">https://medlineplus.gov/spanish/criticalcare.html</dc:identifier>
+<dc:identifier type="URL" xml:lang="en">https://medlineplus.gov/criticalcare.html</dc:identifier>
+<dc:description xml:lang="es">La terapia intensiva ayuda a personas con lesiones y enfermedades que ponen en riesgo su vida. Puede tratar problemas como complicaciones por cirugías, accidentes, infecciones y problemas respiratorios severos. Involucra atención médica cercana y constante, brindada por un equipo de profesionales de la salud especialmente capacitados. Esta atención suele ser brindada en una unidad de terapia intensiva o cuidados intensivos. Monitores, vías intravenosas, sondas de alimentación, catéteres, ventiladores y otros equipos son comunes en las unidades de terapia intensiva. Estos aparatos pueden mantener con vida a una persona, pero también aumentan el riesgo de infecciones. Muchos pacientes en cuidados intensivos pueden recuperarse, pero algunos mueren. Tener directivas médicas por adelantado es importante. Éstas pueden ayudar a los proveedores de salud y familiares a tomar decisiones para el final de la vida si usted no puede tomarlas.</dc:description>
+<dc:description xml:lang="en">Critical care helps people with life-threatening injuries and illnesses. It might treat problems such as complications from surgery, accidents, infections, and severe breathing problems. It involves close, constant attention by a team of specially-trained health care providers. Critical care usually takes place in an intensive care unit (ICU) or trauma center. Monitors, intravenous (IV) tubes, feeding tubes, catheters, breathing machines, and other equipment are common in critical care units. They can keep a person alive, but can also increase the risk of infection. Many patients in critical care recover, but some die. Having advance directives in place is important. They help health care providers and family members make end-of-life decisions if you are not able to make them.</dc:description>
+<dc:subject dcterms="mesh">Critical Care</dc:subject>
+<dc:subject xml:lang="es">Terapia intensiva</dc:subject>
+<dc:subject xml:lang="es">Cuidado crítico</dc:subject>
+<dc:subject xml:lang="en">Critical Care</dc:subject>
+<dc:subject xml:lang="en">Life Support</dc:subject>
+<dc:subject xml:lang="en">Ventilators</dc:subject>
+<dc:subject xml:lang="en">Tracheostomy</dc:subject>
+<dc:subject xml:lang="en">Assisted Breathing</dc:subject>
+<dc:subject xml:lang="en">ICU</dc:subject>
+</metadata>
+</record>
+</MedlinePlus-document>

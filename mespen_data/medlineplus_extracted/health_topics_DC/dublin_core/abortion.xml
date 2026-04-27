@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<MedlinePlus-document>
+<record>
+<header>
+<identifier>https://medlineplus.gov/abortion.html</identifier>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:type>Text</dc:type>
+<dc:language>spa</dc:language>
+<dc:language>eng</dc:language>
+<dc:title xml:lang="es">Aborto</dc:title>
+<dc:title xml:lang="en">Abortion</dc:title>
+<dc:publisher>National Library of Medicine</dc:publisher>
+<dc:relation type="IsPartOf">Pregnancy and Reproduction</dc:relation>
+<dc:relation type="IsPartOf">Female Reproductive System</dc:relation>
+<dc:date type="created">2006-10-31</dc:date>
+<dc:date type="modified">2017-10-12</dc:date>
+<dc:identifier type="URL" xml:lang="es">https://medlineplus.gov/spanish/abortion.html</dc:identifier>
+<dc:identifier type="URL" xml:lang="en">https://medlineplus.gov/abortion.html</dc:identifier>
+<dc:description xml:lang="es">Un aborto es un procedimiento para interrumpir un embarazo. Se utilizan medicinas o cirugía para retirar el embrión o el feto y la placenta del útero. El procedimiento es realizado por un profesional de la salud con licencia. La decisión de interrumpir un embarazo es muy personal. Si piensa someterse a un aborto, la mayoría de los profesionales de la salud sugieren asesoría psicológica.</dc:description>
+<dc:description xml:lang="en">An abortion is a procedure to end a pregnancy. It uses medicine or surgery to remove the embryo or fetus and placenta from the uterus. The procedure is done by a licensed health care professional. The decision to end a pregnancy is very personal. If you are thinking of having an abortion, most health care providers advise counseling.</dc:description>
+<dc:subject dcterms="mesh">Abortion, Therapeutic</dc:subject>
+<dc:subject xml:lang="es">Aborto</dc:subject>
+<dc:subject xml:lang="en">Abortion</dc:subject>
+</metadata>
+</record>
+</MedlinePlus-document>

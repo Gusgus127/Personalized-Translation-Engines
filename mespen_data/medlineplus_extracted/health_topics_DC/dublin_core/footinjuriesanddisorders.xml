@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<MedlinePlus-document>
+<record>
+<header>
+<identifier>https://medlineplus.gov/footinjuriesanddisorders.html</identifier>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title type="alternate" xml:lang="es">Dedo</dc:title>
+<dc:title type="alternate" xml:lang="es">Fascitis plantar</dc:title>
+<dc:title type="alternate" xml:lang="es">Pie, Lesiones y enfermedades del</dc:title>
+<dc:title type="alternate" xml:lang="en">Morton's Neuroma</dc:title>
+<dc:type>Text</dc:type>
+<dc:language>spa</dc:language>
+<dc:language>eng</dc:language>
+<dc:title xml:lang="es">Lesiones y enfermedades del pie</dc:title>
+<dc:title xml:lang="en">Foot Injuries and Disorders</dc:title>
+<dc:publisher>National Library of Medicine</dc:publisher>
+<dc:relation type="IsPartOf">Injuries and Wounds</dc:relation>
+<dc:relation type="IsPartOf">Bones, Joints and Muscles</dc:relation>
+<dc:date type="created">2002-07-21</dc:date>
+<dc:date type="modified">2017-10-03</dc:date>
+<dc:identifier type="URL" xml:lang="es">https://medlineplus.gov/spanish/footinjuriesanddisorders.html</dc:identifier>
+<dc:identifier type="URL" xml:lang="en">https://medlineplus.gov/footinjuriesanddisorders.html</dc:identifier>
+<dc:description xml:lang="es">Cada uno de sus pies tiene 26 huesos, 33 articulaciones y más de 100 tendones, músculos y ligamentos. Por ello pueden afectarle muchos problemas de salud. Entre los más comunes se encuentran: Juanetes: Masa dura y dolorosa en la articulación del dedo gordo del pie Callos y durezas: Engrosamiento de la piel por la fricción o la presión Verrugas plantares: Verrugas en la planta del pie Caída del arco: También conocido como pie plano El uso de zapatos inadecuados suele causar estos problemas. La edad y el sobrepeso también aumentan las posibilidades de tener problemas en los pies.</dc:description>
+<dc:description xml:lang="en">Each of your feet has 26 bones, 33 joints, and more than 100 tendons, muscles, and ligaments. No wonder a lot of things can go wrong. Here are a few common problems: Bunions - hard, painful bumps on the big toe joint Corns and calluses - thickened skin from friction or pressure Plantar warts - warts on the soles of your feet Fallen arches - also called flat feet Ill-fitting shoes often cause these problems. Aging and being overweight also increase your chances of having foot problems.</dc:description>
+<dc:subject dcterms="mesh">Foot Diseases</dc:subject>
+<dc:subject dcterms="mesh">Foot Injuries</dc:subject>
+<dc:subject xml:lang="es">Lesiones y enfermedades del pie</dc:subject>
+<dc:subject xml:lang="es">Dedo</dc:subject>
+<dc:subject xml:lang="es">Fascitis plantar</dc:subject>
+<dc:subject xml:lang="es">Pie</dc:subject>
+<dc:subject xml:lang="es">Lesiones y enfermedades del</dc:subject>
+<dc:subject xml:lang="en">Foot Injuries and Disorders</dc:subject>
+<dc:subject xml:lang="en">Morton's Neuroma</dc:subject>
+</metadata>
+</record>
+</MedlinePlus-document>

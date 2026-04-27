@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<MedlinePlus-document>
+<record>
+<header>
+<identifier>https://medlineplus.gov/assistivedevices.html</identifier>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title type="alternate" xml:lang="es">Dispositivos para asistencia</dc:title>
+<dc:title type="alternate" xml:lang="es">Sillas de ruedas</dc:title>
+<dc:title type="alternate" xml:lang="es">Aparatos de asistencia</dc:title>
+<dc:title type="alternate" xml:lang="es">Asistencia, Aparatos de</dc:title>
+<dc:type>Text</dc:type>
+<dc:language>spa</dc:language>
+<dc:language>eng</dc:language>
+<dc:title xml:lang="es">Tecnología asistencial</dc:title>
+<dc:title xml:lang="en">Assistive Devices</dc:title>
+<dc:publisher>National Library of Medicine</dc:publisher>
+<dc:relation type="IsPartOf">Seniors</dc:relation>
+<dc:relation type="IsPartOf">Surgery and Rehabilitation</dc:relation>
+<dc:date type="created">2003-10-06</dc:date>
+<dc:date type="modified">2018-01-09</dc:date>
+<dc:identifier type="URL" xml:lang="es">https://medlineplus.gov/spanish/assistivedevices.html</dc:identifier>
+<dc:identifier type="URL" xml:lang="en">https://medlineplus.gov/assistivedevices.html</dc:identifier>
+<dc:description xml:lang="es">Si usted tiene una discapacidad o una lesión, puede utilizar un sinnúmero de dispositivos como medio de ayuda. Son herramientas, productos o tipos de equipamiento que lo ayudan a hacer sus labores y actividades. Pueden ayudarlo a desplazarse, ver, comunicarse, comer o vestirse. Algunas de ellas son herramientas de alta tecnología, como son las computadoras. Otras son mucho más simples, como un "alcanzador" - herramienta que le ayuda a tomar objetos fuera de su alcance.</dc:description>
+<dc:description xml:lang="en">If you have a disability or injury, you may use a number of assistive devices. These are tools, products or types of equipment that help you perform tasks and activities. They may help you move around, see, communicate, eat, or get dressed. Some are high-tech tools, such as computers. Others are much simpler, like a "reacher" - a tool that helps you grab an object you can't reach.</dc:description>
+<dc:subject dcterms="mesh">Self-Help Devices</dc:subject>
+<dc:subject xml:lang="es">Tecnología asistencial</dc:subject>
+<dc:subject xml:lang="es">Dispositivos para asistencia</dc:subject>
+<dc:subject xml:lang="es">Sillas de ruedas</dc:subject>
+<dc:subject xml:lang="es">Aparatos de asistencia</dc:subject>
+<dc:subject xml:lang="es">Asistencia</dc:subject>
+<dc:subject xml:lang="es">Aparatos de</dc:subject>
+<dc:subject xml:lang="en">Assistive Devices</dc:subject>
+</metadata>
+</record>
+</MedlinePlus-document>

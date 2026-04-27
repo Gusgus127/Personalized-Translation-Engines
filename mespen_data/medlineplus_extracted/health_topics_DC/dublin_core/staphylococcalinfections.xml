@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<MedlinePlus-document>
+<record>
+<header>
+<identifier>https://medlineplus.gov/staphylococcalinfections.html</identifier>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:type>Text</dc:type>
+<dc:language>spa</dc:language>
+<dc:language>eng</dc:language>
+<dc:title xml:lang="es">Infecciones por estafilococo</dc:title>
+<dc:title xml:lang="en">Staphylococcal Infections</dc:title>
+<dc:publisher>National Library of Medicine</dc:publisher>
+<dc:relation type="IsPartOf">Infections</dc:relation>
+<dc:date type="created">2003-07-29</dc:date>
+<dc:date type="modified">2017-07-18</dc:date>
+<dc:identifier type="URL" xml:lang="es">https://medlineplus.gov/spanish/staphylococcalinfections.html</dc:identifier>
+<dc:identifier type="URL" xml:lang="en">https://medlineplus.gov/staphylococcalinfections.html</dc:identifier>
+<dc:description xml:lang="es">Staph es el nombre abreviado en inglés para el estafilococo, un tipo de bacteria. Existen más de 30 tipos, pero el estafilococo aureus es el que causa más infecciones, entre ellas: Infecciones en la piel Neumonía Intoxicación por alimentos Síndrome del shock tóxico Intoxicación sanguínea (bacteremia) Las infecciones en la piel son las más comunes. Pueden parecerse a las espinillas o forúnculos. Pueden aparecer en color rojo, inflamados y dolorosos, y a veces tener pus u otras supuraciones. Pueden evolucionar a impétigo, que se convierte en una costra en la piel, o celulitis, una zona enrojecida e inflamada de la piel que se siente caliente al tacto. Cualquiera puede tener una infección en la piel por estafilococo. Usted tiene más probabilidades de tener una infección si tiene una cortadura o un raspón, o si está en contacto con una persona o una superficie que tenga la bacteria. La mejor manera de prevenir las infecciones por estafilococo es mantener limpias las heridas y lavarse las manos. La mayoría de las infecciones en la piel por estafilococo se tratan fácilmente con antibióticos o drenando la infección. Algunos estafilococos, como el SARM (estafilococo resistente a la meticilina), son resistentes a determinados antibióticos, lo que dificulta el tratamiento.</dc:description>
+<dc:description xml:lang="en">Staph is short for Staphylococcus, a type of bacteria. There are over 30 types, but Staphylococcus aureus causes most staph infections (pronounced "staff infections"), including Skin infections Pneumonia Food poisoning Toxic shock syndrome Blood poisoning (bacteremia) Skin infections are the most common. They can look like pimples or boils. They may be red, swollen and painful, and sometimes have pus or other drainage. They can turn into impetigo, which turns into a crust on the skin, or cellulitis, a swollen, red area of skin that feels hot. Anyone can get a staph skin infection. You are more likely to get one if you have a cut or scratch, or have contact with a person or surface that has staph bacteria. The best way to prevent staph is to keep hands and wounds clean. Most staph skin infections are easily treated with antibiotics or by draining the infection. Some staph bacteria such as MRSA (methicillin-resistant Staphylococcus aureus) are resistant to certain antibiotics, making infections harder to treat.</dc:description>
+<dc:subject dcterms="mesh">Staphylococcal Infections</dc:subject>
+<dc:subject xml:lang="es">Infecciones por estafilococo</dc:subject>
+<dc:subject xml:lang="en">Staphylococcal Infections</dc:subject>
+</metadata>
+</record>
+</MedlinePlus-document>

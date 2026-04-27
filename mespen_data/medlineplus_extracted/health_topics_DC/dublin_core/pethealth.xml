@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<MedlinePlus-document>
+<record>
+<header>
+<identifier>https://medlineplus.gov/pethealth.html</identifier>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title type="alternate" xml:lang="es">Animales domésticos, Salud de los</dc:title>
+<dc:title type="alternate" xml:lang="es">Mascotas</dc:title>
+<dc:title type="alternate" xml:lang="es">Veterianaria</dc:title>
+<dc:title type="alternate" xml:lang="en">Animal Health</dc:title>
+<dc:title type="alternate" xml:lang="en">Pets</dc:title>
+<dc:title type="alternate" xml:lang="en">Veterinary Medicine</dc:title>
+<dc:type>Text</dc:type>
+<dc:language>spa</dc:language>
+<dc:language>eng</dc:language>
+<dc:title xml:lang="es">Salud de las mascotas</dc:title>
+<dc:title xml:lang="en">Pet Health</dc:title>
+<dc:publisher>National Library of Medicine</dc:publisher>
+<dc:relation type="IsPartOf">Wellness and Lifestyle</dc:relation>
+<dc:date type="created">2002-07-21</dc:date>
+<dc:date type="modified">2017-08-28</dc:date>
+<dc:identifier type="URL" xml:lang="es">https://medlineplus.gov/spanish/pethealth.html</dc:identifier>
+<dc:identifier type="URL" xml:lang="en">https://medlineplus.gov/pethealth.html</dc:identifier>
+<dc:description xml:lang="es">Las mascotas pueden agregarle diversión, compañía y una sensación de seguridad a su vida. Antes de adquirir una mascota, piense cuidadosamente acerca de qué animal es el mejor para su familia. ¿Qué es lo que cada integrante de la familia busca en una mascota? ¿Quién va a cuidarla? ¿Alguna persona en la casa es alérgica a los animales? ¿Qué tipo de animal se ajusta a su estilo de vida y presupuesto? Cuando ya tenga una mascota, manténgala sana. Aprenda a reconocer los signos de problemas médicos. Lleve a su mascota al veterinario si observa: Pérdida del apetito Consumo excesivo de agua Aumento o pérdida de peso en forma rápida Comportamiento fuera de lo común Cansancio y pereza Dificultad para levantarse o acostarse Abultamientos extraños</dc:description>
+<dc:description xml:lang="en">Pets can add fun, companionship and a feeling of safety to your life. Before getting a pet, think carefully about which animal is best for your family. What is each family member looking for in a pet? Who will take care of it? Does anyone have pet allergies? What type of animal suits your lifestyle and budget? Once you own a pet, keep it healthy. Know the signs of medical problems. Take your pet to the veterinarian if you notice: Loss of appetite Drinking a lot of water Gaining or losing a lot of weight quickly Strange behavior Being sluggish and tired Trouble getting up or down Strange lumps</dc:description>
+<dc:subject dcterms="mesh">Animals, Domestic</dc:subject>
+<dc:subject xml:lang="es">Salud de las mascotas</dc:subject>
+<dc:subject xml:lang="es">Animales domésticos</dc:subject>
+<dc:subject xml:lang="es">Salud de los</dc:subject>
+<dc:subject xml:lang="es">Mascotas</dc:subject>
+<dc:subject xml:lang="es">Veterianaria</dc:subject>
+<dc:subject xml:lang="en">Pet Health</dc:subject>
+<dc:subject xml:lang="en">Animal Health</dc:subject>
+<dc:subject xml:lang="en">Pets</dc:subject>
+<dc:subject xml:lang="en">Veterinary Medicine</dc:subject>
+</metadata>
+</record>
+</MedlinePlus-document>

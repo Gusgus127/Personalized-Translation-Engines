@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<MedlinePlus-document>
+<record>
+<header>
+<identifier>https://medlineplus.gov/wilsondisease.html</identifier>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title type="alternate" xml:lang="es">Wilson, Enfermedad de</dc:title>
+<dc:title type="alternate" xml:lang="en">Hepatolenticular Degeneration</dc:title>
+<dc:title type="alternate" xml:lang="en">Copper Storage Disease</dc:title>
+<dc:type>Text</dc:type>
+<dc:language>spa</dc:language>
+<dc:language>eng</dc:language>
+<dc:title xml:lang="es">Enfermedad de Wilson</dc:title>
+<dc:title xml:lang="en">Wilson Disease</dc:title>
+<dc:publisher>National Library of Medicine</dc:publisher>
+<dc:relation type="IsPartOf">Digestive System</dc:relation>
+<dc:relation type="IsPartOf">Metabolic Problems</dc:relation>
+<dc:relation type="IsPartOf">Brain and Nerves</dc:relation>
+<dc:relation type="IsPartOf">Genetics/Birth Defects</dc:relation>
+<dc:date type="created">2003-02-07</dc:date>
+<dc:date type="modified">2016-12-28</dc:date>
+<dc:identifier type="URL" xml:lang="es">https://medlineplus.gov/spanish/wilsondisease.html</dc:identifier>
+<dc:identifier type="URL" xml:lang="en">https://medlineplus.gov/wilsondisease.html</dc:identifier>
+<dc:description xml:lang="es">La enfermedad de Wilson es un trastorno hereditario poco frecuente que hace que el organismo no pueda deshacerse del cobre adicional. El cuerpo necesita un poco de cobre para mantenerse sano pero tener demasiado puede ser tóxico. Normalmente, el hígado libera el cobre que no necesita en la bilis, un líquido digestivo. En personas con la enfermedad de Wilson, el cobre es liberado directamente en el torrente sanguíneo. Esto puede dañar el cerebro, los riñones y los ojos. La enfermedad está presente al nacer pero los síntomas comienzan entre los 5 y 35 años de edad. El trastorno empieza afectando al hígado, el sistema nervioso central o ambos al mismo tiempo. El síntoma más característico es la presencia de un anillo color marrón alrededor de la córnea del ojo. Se puede diagnosticar la condición con un análisis físico y exámenes de laboratorio. El tratamiento consiste en medicamentos que eliminan el cobre adicional del cuerpo. Las personas que sufren de esta enfermedad deberán tomar medicamentos y seguir una dieta baja en cobre de por vida. Las comidas con altos niveles de cobre que se deben evitar son moluscos e hígado. Al comienzo del tratamiento, también se deben evitar el chocolate, los hongos y las nueces o frutas secas. Además habrá que hacer un análisis de cobre del agua de la casa y no tomar vitaminas que contengan este metal. Con una detección temprana y un tratamiento adecuado, las personas con enfermedad de Wilson pueden gozar de buena salud. NIH: Instituto Nacional de la Diabetes y las Enfermedades Digestivas y Renales</dc:description>
+<dc:description xml:lang="en">Wilson disease is a rare inherited disorder that prevents your body from getting rid of extra copper. You need a small amount of copper from food to stay healthy. Too much copper is poisonous. Normally, your liver releases extra copper into bile, a digestive fluid. With Wilson disease, the copper builds up in your liver, and it releases the copper directly into your bloodstream. This can cause damage to your brain, kidneys, and eyes. Wilson disease is present at birth, but symptoms usually start between ages 5 and 35. It first attacks the liver, the central nervous system or both. The most characteristic sign is a rusty brown ring around the cornea of the eye. A physical exam and laboratory tests can diagnose it. Treatment is with drugs to remove the extra copper from your body. You need to take medicine and follow a low-copper diet for the rest of your life. Don't eat shellfish or liver, as these foods may contain high levels of copper. At the beginning of treatment, you'll also need to avoid chocolate, mushrooms, and nuts. Have your drinking water checked for copper content and don't take multivitamins that contain copper. With early detection and proper treatment, you can enjoy good health. NIH: National Institute of Diabetes and Digestive and Kidney Diseases</dc:description>
+<dc:subject dcterms="mesh">Hepatolenticular Degeneration</dc:subject>
+<dc:subject xml:lang="es">Enfermedad de Wilson</dc:subject>
+<dc:subject xml:lang="es">Wilson</dc:subject>
+<dc:subject xml:lang="es">Enfermedad de</dc:subject>
+<dc:subject xml:lang="en">Wilson Disease</dc:subject>
+<dc:subject xml:lang="en">Hepatolenticular Degeneration</dc:subject>
+<dc:subject xml:lang="en">Copper Storage Disease</dc:subject>
+</metadata>
+</record>
+</MedlinePlus-document>

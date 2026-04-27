@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<MedlinePlus-document>
+<record>
+<header>
+<identifier>https://medlineplus.gov/infectiousdiseases.html</identifier>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title type="alternate" xml:lang="es">Infecciosas, Enfermedades (General)</dc:title>
+<dc:title type="alternate" xml:lang="en">Communicable Diseases</dc:title>
+<dc:type>Text</dc:type>
+<dc:language>spa</dc:language>
+<dc:language>eng</dc:language>
+<dc:title xml:lang="es">Enfermedades infecciosas</dc:title>
+<dc:title xml:lang="en">Infectious Diseases</dc:title>
+<dc:publisher>National Library of Medicine</dc:publisher>
+<dc:relation type="IsPartOf">Immune System</dc:relation>
+<dc:relation type="IsPartOf">Infections</dc:relation>
+<dc:date type="created">2002-07-21</dc:date>
+<dc:date type="modified">2018-01-19</dc:date>
+<dc:identifier type="URL" xml:lang="es">https://medlineplus.gov/spanish/infectiousdiseases.html</dc:identifier>
+<dc:identifier type="URL" xml:lang="en">https://medlineplus.gov/infectiousdiseases.html</dc:identifier>
+<dc:description xml:lang="es">Las enfermedades infecciosas matan a más personas en el mundo que otra causa única. Las enfermedades infecciosas son causadas por gérmenes. Los gérmenes son diminutos seres vivos que se encuentran en todas partes: en el aire, en la tierra y en el agua. Una infección puede adquirirse por tocar, comer, beber o respirar algo que contenga gérmenes. Los gérmenes también pueden diseminarse por las mordidas de animales o de insectos, los besos y el contacto sexual. Las vacunas, lavarse apropiadamente las manos y los medicamentos, ayudan a prevenir las infecciones. Existen cuatro tipos principales de gérmenes: Bacterias: gérmenes de una célula que se multiplican rápidamente y pueden liberar sustancias químicas que lo enfermerán Virus: cápsulas que contienen material genético y usan sus propias células para multiplicarse Hongos: plantas silvestres, como las setas o el moho Protozoarios: animales unicelulares que aprovechan a otros seres vivos como alimento y como un lugar donde vivir NIH: Instituto Nacional de Alergias y Enfermedades Infecciosas</dc:description>
+<dc:description xml:lang="en">Germs, or microbes, are found everywhere - in the air, soil, and water. There are also germs on your skin and in your body. Many of them are harmless, and some can even be helpful. But some of them can make you sick. Infectious diseases are diseases that are caused by germs. There are many different ways that you can get an infectious disease: Through direct contact with a person who is sick. This includes kissing, touching, sneezing, coughing, and sexual contact. Pregnant mothers can also pass some germs along to their babies. Through indirect contact, when you touch something that has germs on it. For example, you could get germs if someone who is sick touched a door handle, and then you touch it. Through insect or animal bites Through contaminated food, water, soil, or plants There are four main kinds of germs: Bacteria - one-celled germs that multiply quickly. They may give off toxins, which are harmful chemicals that can make you sick. Strep throat and urinary tract infections are common bacterial infections. Viruses - tiny capsules that contain genetic material. They invade your cells so that they can multiply. This can kill, damage, or change the cells and make you sick. Viral infections include HIV/AIDS and the common cold. Fungi - primitive plant-like organisms such as mushrooms, mold, mildew, and yeasts. Athlete's foot is a common fungal infection. Parasites - animals or plants that survive by living on or in other living things. Malaria is an infection caused by a parasite. Infectious diseases can cause many different symptoms. Some are so mild that you may not even notice any symptoms, while others can be life-threatening. There are treatments for some infectious diseases, but for others, such as some viruses, you can only treat your symptoms. You can take steps to prevent many infectious diseases: Get vaccinated Wash your hands often Pay attention to food safety Avoid contact with wild animals Practice safe sex Don't share items such as toothbrushes, combs, and straws</dc:description>
+<dc:subject dcterms="mesh">Communicable Diseases</dc:subject>
+<dc:subject xml:lang="es">Enfermedades infecciosas</dc:subject>
+<dc:subject xml:lang="es">Infecciosas</dc:subject>
+<dc:subject xml:lang="es">Enfermedades (General)</dc:subject>
+<dc:subject xml:lang="en">Infectious Diseases</dc:subject>
+<dc:subject xml:lang="en">Communicable Diseases</dc:subject>
+</metadata>
+</record>
+</MedlinePlus-document>

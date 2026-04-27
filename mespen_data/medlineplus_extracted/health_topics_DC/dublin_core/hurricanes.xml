@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<MedlinePlus-document>
+<record>
+<header>
+<identifier>https://medlineplus.gov/hurricanes.html</identifier>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title type="alternate" xml:lang="es">Desastres naturales</dc:title>
+<dc:title type="alternate" xml:lang="en">Natural Disasters</dc:title>
+<dc:type>Text</dc:type>
+<dc:language>spa</dc:language>
+<dc:language>eng</dc:language>
+<dc:title xml:lang="es">Huracanes</dc:title>
+<dc:title xml:lang="en">Hurricanes</dc:title>
+<dc:publisher>National Library of Medicine</dc:publisher>
+<dc:relation type="IsPartOf">Disasters</dc:relation>
+<dc:date type="created">2008-06-25</dc:date>
+<dc:date type="modified">2017-10-25</dc:date>
+<dc:identifier type="URL" xml:lang="es">https://medlineplus.gov/spanish/hurricanes.html</dc:identifier>
+<dc:identifier type="URL" xml:lang="en">https://medlineplus.gov/hurricanes.html</dc:identifier>
+<dc:description xml:lang="es">Un huracán es una forma severa de tormenta tropical. Los huracanes producen vientos fuertes, lluvias abundantes y tormentas eléctricas. Los huracanes pueden causar daños tremendos. Los vientos pueden superar las 155 millas por hora. Los huracanes y las tormentas tropicales también pueden generar tornados y causar inundaciones. Los vientos fuertes y las lluvias copiosas pueden destruir edificios, carreteras y puentes y derribar líneas eléctricas y árboles. En las áreas costeras, las mareas muy altas llamadas marejadas ciclónicas pueden causar extensos daños. Aunque no hay garantías de seguridad durante un huracán, usted puede tomar medidas para protegerse. Debe tener un plan de acción para casos de desastres. Estar preparado puede ayudar a reducir el miedo, la ansiedad y las pérdidas. Si experimenta un desastre, es normal sentirse estresado. Usted puede necesitar ayuda para superar la situación. Agencia Federal para el Manejo de Emergencias</dc:description>
+<dc:description xml:lang="en">A hurricane is a severe type of tropical storm. Hurricanes produce high winds, heavy rains and thunderstorms. Hurricanes can cause tremendous damage. Winds can exceed 155 miles per hour. Hurricanes and tropical storms can also spawn tornadoes and lead to flooding. The high winds and heavy rains can destroy buildings, roads and bridges, and knock down power lines and trees. In coastal areas, very high tides called storm surges cause extensive damage. Although there are no guarantees of safety during a hurricane, you can take actions to protect yourself. You should have a disaster plan. Being prepared can help reduce fear, anxiety, and losses. If you do experience a disaster, it is normal to feel stressed. You may need help in finding ways to cope. Federal Emergency Management Agency</dc:description>
+<dc:subject dcterms="mesh">Cyclonic Storms</dc:subject>
+<dc:subject xml:lang="es">Huracanes</dc:subject>
+<dc:subject xml:lang="es">Desastres naturales</dc:subject>
+<dc:subject xml:lang="en">Hurricanes</dc:subject>
+<dc:subject xml:lang="en">Natural Disasters</dc:subject>
+</metadata>
+</record>
+</MedlinePlus-document>

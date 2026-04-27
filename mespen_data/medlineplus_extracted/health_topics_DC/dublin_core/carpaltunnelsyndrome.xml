@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<MedlinePlus-document>
+<record>
+<header>
+<identifier>https://medlineplus.gov/carpaltunnelsyndrome.html</identifier>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title type="alternate" xml:lang="es">Túnel carpiano, Síndrome de</dc:title>
+<dc:type>Text</dc:type>
+<dc:language>spa</dc:language>
+<dc:language>eng</dc:language>
+<dc:title xml:lang="es">Síndrome del túnel carpiano</dc:title>
+<dc:title xml:lang="en">Carpal Tunnel Syndrome</dc:title>
+<dc:publisher>National Library of Medicine</dc:publisher>
+<dc:relation type="IsPartOf">Bones, Joints and Muscles</dc:relation>
+<dc:relation type="IsPartOf">Brain and Nerves</dc:relation>
+<dc:date type="created">2002-07-21</dc:date>
+<dc:date type="modified">2018-01-29</dc:date>
+<dc:identifier type="URL" xml:lang="es">https://medlineplus.gov/spanish/carpaltunnelsyndrome.html</dc:identifier>
+<dc:identifier type="URL" xml:lang="en">https://medlineplus.gov/carpaltunnelsyndrome.html</dc:identifier>
+<dc:description xml:lang="es">Está trabajando en su escritorio, intentando ignorar el hormigueo o el entumecimiento que ha sentido por algún tiempo en la mano y la muñeca. De repente, un dolor agudo y punzante se dispara desde la muñeca hasta el brazo. ¿Será solamente un calambre? Lo más probable es que usted tenga síndrome del túnel carpiano. El túnel carpiano es un paso estrecho de ligamentos y huesos en la base de la mano que contiene nervios y tendones. Algunas veces, el engrosamiento de los tendones irritados u otras estructuras hinchadas estrechan el túnel y causan compresión de los nervios. Los síntomas suelen comenzar gradualmente. A medida que empeoran, sostener objetos puede tornarse difícil. ¿Cuál es la causa del problema? Algunas personas tienen túneles carpianos más pequeños que otras. Otras causas incluyen el trabajo en líneas de ensamblaje, las lesiones en la muñeca o la hinchazón debido a determinadas enfermedades, tales como la artritis reumatoide. Las mujeres son tres veces más propensas a tener síndrome del túnel carpiano que los hombres. La detección y tratamiento tempranos son importantes para prevenir daño permanente a los nervios. La manera de diagnosticarlo es a través de un examen físico y exámenes específicos de los nervios. El tratamiento incluye reposo de las manos, uso de férulas, medicinas para el dolor y la inflamación y, a veces, cirugía. NIH: Instituto Nacional de Trastornos Neurológicos y Accidentes Cerebrovasculares</dc:description>
+<dc:description xml:lang="en">You're working at your desk, trying to ignore the tingling or numbness you've had for some time in your hand and wrist. Suddenly, a sharp, piercing pain shoots through the wrist and up your arm. Just a passing cramp? It could be carpal tunnel syndrome. The carpal tunnel is a narrow passageway of ligament and bones at the base of your hand. It contains nerve and tendons. Sometimes, thickening from irritated tendons or other swelling narrows the tunnel and causes the nerve to be compressed. Symptoms usually start gradually. As they worsen, grasping objects can become difficult. Often, the cause is having a smaller carpal tunnel than other people do. Other causes include performing assembly line work, wrist injury, or swelling due to certain diseases, such as rheumatoid arthritis. Women are three times more likely to have carpal tunnel syndrome than men. Early diagnosis and treatment are important to prevent permanent nerve damage. Your doctor diagnoses carpal tunnel syndrome with a physical exam and special nerve tests. Treatment includes resting your hand, splints, pain and anti-inflammatory medicines, and sometimes surgery. NIH: National Institute of Neurological Disorders and Stroke</dc:description>
+<dc:subject dcterms="mesh">Carpal Tunnel Syndrome</dc:subject>
+<dc:subject xml:lang="es">Síndrome del túnel carpiano</dc:subject>
+<dc:subject xml:lang="es">Túnel carpiano</dc:subject>
+<dc:subject xml:lang="es">Síndrome de</dc:subject>
+<dc:subject xml:lang="en">Carpal Tunnel Syndrome</dc:subject>
+</metadata>
+</record>
+</MedlinePlus-document>

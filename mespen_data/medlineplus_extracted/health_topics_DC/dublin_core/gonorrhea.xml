@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<MedlinePlus-document>
+<record>
+<header>
+<identifier>https://medlineplus.gov/gonorrhea.html</identifier>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:type>Text</dc:type>
+<dc:language>spa</dc:language>
+<dc:language>eng</dc:language>
+<dc:title xml:lang="es">Gonorrea</dc:title>
+<dc:title xml:lang="en">Gonorrhea</dc:title>
+<dc:publisher>National Library of Medicine</dc:publisher>
+<dc:relation type="IsPartOf">Male Reproductive System</dc:relation>
+<dc:relation type="IsPartOf">Infections</dc:relation>
+<dc:relation type="IsPartOf">Female Reproductive System</dc:relation>
+<dc:relation type="IsPartOf">Sexual Health Issues</dc:relation>
+<dc:date type="created">2002-12-30</dc:date>
+<dc:date type="modified">2017-12-18</dc:date>
+<dc:identifier type="URL" xml:lang="es">https://medlineplus.gov/spanish/gonorrhea.html</dc:identifier>
+<dc:identifier type="URL" xml:lang="en">https://medlineplus.gov/gonorrhea.html</dc:identifier>
+<dc:description xml:lang="es">La gonorrea es una enfermedad de transmisión sexual. Es más común en los adultos jóvenes. La bacteria que causa la gonorrea puede infectar el tracto genital, la boca o el ano. Puede contraerse a través del sexo vaginal, oral o anal con una pareja infectada. Una mujer embarazada puede transmitírsela a su bebé durante el parto. Algunas veces, la gonorrea no provoca síntomas. En los hombres, la gonorrea puede causar dolor al orinar y secreción proveniente del pene. De no tratarse, puede causar problemas en la próstata y testículos. En las mujeres, los primeros síntomas de gonorrea generalmente son leves. A medida que pasa el tiempo, puede provocar hemorragias entre los períodos menstruales, dolor al orinar y aumento de las secreciones vaginales. De no tratarse, puede provocar la enfermedad inflamatoria pélvica, que causa problemas en el embarazo e infertilidad. Su proveedor de cuidados de salud puede diagnosticar la gonorrea con exámenes de laboratorio. El tratamiento consiste en antibióticos. El tratamiento se está volviendo más difícil a raíz del aumento de cepas resistentes a los medicamentos. El uso correcto de preservativos de látex reduce enormemente, aunque no elimina, el riesgo de contraer y contagiar la gonorrea. La forma más confiable de evitar la infección es no tener sexo anal, vaginal u oral. Centros para el Control y la Prevención de Enfermedades</dc:description>
+<dc:description xml:lang="en">Gonorrhea is a sexually transmitted disease. It is most common in young adults. The bacteria that cause gonorrhea can infect the genital tract, mouth, or anus. You can get gonorrhea during vaginal, oral, or anal sex with an infected partner. A pregnant woman can pass it to her baby during childbirth. Gonorrhea does not always cause symptoms. In men, gonorrhea can cause pain when urinating and discharge from the penis. If untreated, it can cause problems with the prostate and testicles. In women, the early symptoms of gonorrhea often are mild. Later, it can cause bleeding between periods, pain when urinating, and increased discharge from the vagina. If untreated, it can lead to pelvic inflammatory disease, which causes problems with pregnancy and infertility. Your health care provider will diagnose gonorrhea with lab tests. Treatment is with antibiotics. Treating gonorrhea is becoming more difficult because drug-resistant strains are increasing. Correct usage of latex condoms greatly reduces, but does not eliminate, the risk of catching or spreading gonorrhea. The most reliable way to avoid infection is to not have anal, vaginal, or oral sex. Centers for Disease Control and Prevention</dc:description>
+<dc:subject dcterms="mesh">Gonorrhea</dc:subject>
+<dc:subject xml:lang="es">Gonorrea</dc:subject>
+<dc:subject xml:lang="en">Gonorrhea</dc:subject>
+<dc:subject xml:lang="en">Clap</dc:subject>
+</metadata>
+</record>
+</MedlinePlus-document>

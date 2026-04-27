@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<MedlinePlus-document>
+<record>
+<header>
+<identifier>https://medlineplus.gov/streptococcalinfections.html</identifier>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title type="alternate" xml:lang="es">Escarlatina</dc:title>
+<dc:title type="alternate" xml:lang="es">Estreptococo, Infecciones por</dc:title>
+<dc:title type="alternate" xml:lang="en">Scarlet Fever</dc:title>
+<dc:title type="alternate" xml:lang="en">Strep Throat</dc:title>
+<dc:title type="alternate" xml:lang="en">Rheumatic Fever</dc:title>
+<dc:type>Text</dc:type>
+<dc:language>spa</dc:language>
+<dc:language>eng</dc:language>
+<dc:title xml:lang="es">Infecciones por estreptococo</dc:title>
+<dc:title xml:lang="en">Streptococcal Infections</dc:title>
+<dc:publisher>National Library of Medicine</dc:publisher>
+<dc:relation type="IsPartOf">Infections</dc:relation>
+<dc:relation type="IsPartOf">Ear, Nose and Throat</dc:relation>
+<dc:date type="created">2002-07-21</dc:date>
+<dc:date type="modified">2018-02-07</dc:date>
+<dc:identifier type="URL" xml:lang="es">https://medlineplus.gov/spanish/streptococcalinfections.html</dc:identifier>
+<dc:identifier type="URL" xml:lang="en">https://medlineplus.gov/streptococcalinfections.html</dc:identifier>
+<dc:description xml:lang="es">El estreptococo es un tipo de bacteria. Hay dos tipos, grupo A y grupo B. El estreptococo del grupo A causa: Infección en la garganta: Una garganta irritada y adolorida. Sus amígdalas pueden estar hinchadas y tener manchas blancas Escarlatina: Una enfermedad que ocurre después de la faringitis estreptocócica. Provoca una erupción roja en el cuerpo Impétigo: Una infección en la piel Síndrome del shock tóxico Celulitis y fascitis necrotizante (enfermedad necrotizante) El estreptococo del grupo B puede causar infecciones de la sangre, neumonía y meningitis en los recién nacidos. Una prueba durante el embarazo puede indicar si la tiene. Si es así, antibióticos vía intravenosa durante el parto pueden salvar la vida de su bebé. Los adultos también pueden contraer infecciones por estreptococos del grupo B, especialmente si son mayores o si tienen problemas de salud. El estreptococo grupo B puede causar en adultos infecciones del tracto urinario, la sangre y la piel; y neumonía. Para tratar las infecciones por estreptococos se utilizan antibióticos. NIH: Instituto Nacional de Alergias y Enfermedades Infecciosas</dc:description>
+<dc:description xml:lang="en">Strep is short for Streptococcus, a type of bacteria. There are two types: group A and group B. Group A strep causes Strep throat - a sore, red throat. Your tonsils may be swollen and have white spots on them. Scarlet fever - an illness that follows strep throat. It causes a red rash on the body. Impetigo - a skin infection Toxic shock syndrome Cellulitis and necrotizing fasciitis (flesh-eating disease) Group B strep can cause blood infections, pneumonia and meningitis in newborns. A screening test during pregnancy can tell if you have it. If you do, I.V. antibiotics during labor can save your baby's life. Adults can also get group B strep infections, especially if they are elderly or already have health problems. Strep B can cause urinary tract infections, blood infections, skin infections and pneumonia in adults. Antibiotics are used to treat strep infections. NIH: National Institute of Allergy and Infectious Diseases</dc:description>
+<dc:subject dcterms="mesh">Streptococcal Infections</dc:subject>
+<dc:subject xml:lang="es">Infecciones por estreptococo</dc:subject>
+<dc:subject xml:lang="es">Escarlatina</dc:subject>
+<dc:subject xml:lang="es">Estreptococo</dc:subject>
+<dc:subject xml:lang="es">Infecciones por</dc:subject>
+<dc:subject xml:lang="en">Streptococcal Infections</dc:subject>
+<dc:subject xml:lang="en">Scarlet Fever</dc:subject>
+<dc:subject xml:lang="en">Strep Throat</dc:subject>
+<dc:subject xml:lang="en">Rheumatic Fever</dc:subject>
+</metadata>
+</record>
+</MedlinePlus-document>

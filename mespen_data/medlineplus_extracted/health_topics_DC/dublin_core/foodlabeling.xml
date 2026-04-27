@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<MedlinePlus-document>
+<record>
+<header>
+<identifier>https://medlineplus.gov/foodlabeling.html</identifier>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:type>Text</dc:type>
+<dc:language>spa</dc:language>
+<dc:language>eng</dc:language>
+<dc:title xml:lang="es">Etiquetado de alimentos</dc:title>
+<dc:title xml:lang="en">Food Labeling</dc:title>
+<dc:publisher>National Library of Medicine</dc:publisher>
+<dc:relation type="IsPartOf">Food and Nutrition</dc:relation>
+<dc:date type="created">2004-02-25</dc:date>
+<dc:date type="modified">2018-02-07</dc:date>
+<dc:identifier type="URL" xml:lang="es">https://medlineplus.gov/spanish/foodlabeling.html</dc:identifier>
+<dc:identifier type="URL" xml:lang="en">https://medlineplus.gov/foodlabeling.html</dc:identifier>
+<dc:description xml:lang="es">La mayoría de los alimentos en Estados Unidos cuentan con etiquetas informativas. En cada una de estas etiquetas usted podrá saber: El tamaño de la porción, cantidad de porciones y el número de calorías por porción Información acerca de la cantidad de grasa, colesterol, fibra, sodio, carbohidratos, proteínas, vitaminas y minerales por porción Las definiciones de los términos como bajo en grasas y alto en fibra Información para ayudarlo a ver cómo se adapta el alimento en general a una dieta diaria Administración de Alimentos y Medicamentos</dc:description>
+<dc:description xml:lang="en">Most packaged foods in the U.S. have food labels. On every food label you will see Serving size, number of servings, and number of calories per serving Information on the amount of dietary fat, cholesterol, dietary fiber, dietary sodium, carbohydrates, dietary proteins, vitamins, and minerals in each serving Definitions for terms such as low-fat and high-fiber Information to help you see how a food fits into an overall daily diet Food and Drug Administration</dc:description>
+<dc:subject dcterms="mesh">Food Labeling</dc:subject>
+<dc:subject xml:lang="es">Etiquetado de alimentos</dc:subject>
+<dc:subject xml:lang="en">Food Labeling</dc:subject>
+<dc:subject xml:lang="en">Nutrition Labeling</dc:subject>
+</metadata>
+</record>
+</MedlinePlus-document>

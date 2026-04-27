@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<MedlinePlus-document>
+<record>
+<header>
+<identifier>https://medlineplus.gov/toddlernutrition.html</identifier>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title type="alternate" xml:lang="es">Niño pequeño, Nutrición</dc:title>
+<dc:type>Text</dc:type>
+<dc:language>spa</dc:language>
+<dc:language>eng</dc:language>
+<dc:title xml:lang="es">Nutrición del niño pequeño</dc:title>
+<dc:title xml:lang="en">Toddler Nutrition</dc:title>
+<dc:publisher>National Library of Medicine</dc:publisher>
+<dc:relation type="IsPartOf">Children and Teenagers</dc:relation>
+<dc:relation type="IsPartOf">Food and Nutrition</dc:relation>
+<dc:date type="created">2010-05-27</dc:date>
+<dc:date type="modified">2017-10-10</dc:date>
+<dc:identifier type="URL" xml:lang="es">https://medlineplus.gov/spanish/toddlernutrition.html</dc:identifier>
+<dc:identifier type="URL" xml:lang="en">https://medlineplus.gov/toddlernutrition.html</dc:identifier>
+<dc:description xml:lang="es">Los alimentos proveen la energía que los niños más pequeños necesitan para crecer sanos. También están aprendiendo a comer por sí mismos. Deben comer una gran variedad de comidas de todos los grupos. Algunas cosas a las que hay que prestar atención: Asegúrese que su niño pequeño obtenga suficiente hierro Los niños pequeños de 1 a 3 años necesitan 500 miligramos de calcio por día No le dé de comer frutos de mar, maníes o nueces antes de los 2 o 3 años</dc:description>
+<dc:description xml:lang="en">Food provides the energy and nutrients that young children need to be healthy. Toddlers are learning to feed themselves and to eat new foods. They should eat a variety of foods from all of the food groups. Each day, toddlers need enough nutrients, including 7 milligrams of iron 700 milligrams of calcium 600 IU of vitamin D</dc:description>
+<dc:subject dcterms="mesh">Child Nutritional Physiological Phenomena</dc:subject>
+<dc:subject xml:lang="es">Nutrición del niño pequeño</dc:subject>
+<dc:subject xml:lang="es">Niño pequeño</dc:subject>
+<dc:subject xml:lang="es">Nutrición</dc:subject>
+<dc:subject xml:lang="en">Toddler Nutrition</dc:subject>
+</metadata>
+</record>
+</MedlinePlus-document>

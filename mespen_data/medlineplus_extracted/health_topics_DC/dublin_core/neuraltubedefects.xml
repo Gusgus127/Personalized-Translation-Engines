@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<MedlinePlus-document>
+<record>
+<header>
+<identifier>https://medlineplus.gov/neuraltubedefects.html</identifier>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title type="alternate" xml:lang="es">Anencefalia</dc:title>
+<dc:title type="alternate" xml:lang="es">Tubo neural, Defectos</dc:title>
+<dc:title type="alternate" xml:lang="es">Chiari, Malformaciones</dc:title>
+<dc:title type="alternate" xml:lang="en">Anencephaly</dc:title>
+<dc:type>Text</dc:type>
+<dc:language>spa</dc:language>
+<dc:language>eng</dc:language>
+<dc:title xml:lang="es">Defectos del tubo neural</dc:title>
+<dc:title xml:lang="en">Neural Tube Defects</dc:title>
+<dc:publisher>National Library of Medicine</dc:publisher>
+<dc:relation type="IsPartOf">Brain and Nerves</dc:relation>
+<dc:relation type="IsPartOf">Genetics/Birth Defects</dc:relation>
+<dc:date type="created">2002-07-21</dc:date>
+<dc:date type="modified">2018-01-19</dc:date>
+<dc:identifier type="URL" xml:lang="es">https://medlineplus.gov/spanish/neuraltubedefects.html</dc:identifier>
+<dc:identifier type="URL" xml:lang="en">https://medlineplus.gov/neuraltubedefects.html</dc:identifier>
+<dc:description xml:lang="es">Los defectos del tubo neural son defectos congénitos del cerebro, la columna vertebral y la médula espinal. Se producen en el primer mes de embarazo, muchas veces antes que la mujer sepa que está embarazada. Los dos defectos más comunes son la espina bífida y la anencefalia. En la espina bífida, la columna vertebral del feto no llega a cerrarse del todo. Suele haber un daño a los nervios que causa parálisis leve en las piernas. En la anencefalia, gran parte del cerebro y cráneo no se desarrolla. Generalmente, los bebés con anencefalia nacen sin vida o mueren poco tiempo después de nacer. Otro tipo de defecto del tubo neural son las malformaciones de Chiari, que causa que el tejido cerebral se extienda al canal espinal. No se conocen las causas de los defectos del tubo neural. Existen mayores riesgos de que un feto los desarrolle si la madre: Tiene obesidad Sufre de diabetes y no está bien controlada Toma ciertos medicamentos para las convulsiones Tomar suficiente ácido fólico, un tipo de vitamina B, antes y durante el embarazo, previene la mayoría de los defectos del tubo neural. En general, los defectos del tubo neural se diagnostican antes de que el niño nazca a través de exámenes de laboratorio o de imagen. No existe una cura para estas condiciones. El daño a los nervios y la pérdida de las funciones, muchas veces son permanentes. Sin embargo, una variedad de tratamientos pueden, a veces, prevenir daños futuros y ayudar con las complicaciones. NIH: Instituto Nacional de Salud Infantil y Desarrollo Humano</dc:description>
+<dc:description xml:lang="en">Neural tube defects are birth defects of the brain, spine, or spinal cord. They happen in the first month of pregnancy, often before a woman even knows that she is pregnant. The two most common neural tube defects are spina bifida and anencephaly. In spina bifida, the fetal spinal column doesn't close completely. There is usually nerve damage that causes at least some paralysis of the legs. In anencephaly, most of the brain and skull do not develop. Babies with anencephaly are usually either stillborn or die shortly after birth. Another type of defect, Chiari malformation, causes the brain tissue to extend into the spinal canal. The exact causes of neural tube defects aren't known. You're at greater risk of having an infant with a neural tube defect if you Have obesity Have poorly controlled diabetes Take certain antiseizure medicines Getting enough folic acid, a type of B vitamin, before and during pregnancy prevents most neural tube defects. Neural tube defects are usually diagnosed before the infant is born, through lab or imaging tests. There is no cure for neural tube defects. The nerve damage and loss of function that are present at birth are usually permanent. However, a variety of treatments can sometimes prevent further damage and help with complications. NIH: National Institute of Child Health and Human Development</dc:description>
+<dc:subject dcterms="mesh">Neural Tube Defects</dc:subject>
+<dc:subject xml:lang="es">Defectos del tubo neural</dc:subject>
+<dc:subject xml:lang="es">Anencefalia</dc:subject>
+<dc:subject xml:lang="es">Tubo neural</dc:subject>
+<dc:subject xml:lang="es">Defectos</dc:subject>
+<dc:subject xml:lang="es">Chiari</dc:subject>
+<dc:subject xml:lang="es">Malformaciones</dc:subject>
+<dc:subject xml:lang="en">Neural Tube Defects</dc:subject>
+<dc:subject xml:lang="en">Anencephaly</dc:subject>
+</metadata>
+</record>
+</MedlinePlus-document>

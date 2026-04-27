@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<MedlinePlus-document>
+<record>
+<header>
+<identifier>https://medlineplus.gov/bonegrafts.html</identifier>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title type="alternate" xml:lang="es">Óseo, Injerto</dc:title>
+<dc:title type="alternate" xml:lang="es">Hueso, Injerto</dc:title>
+<dc:title type="alternate" xml:lang="en">Bone Transplantation</dc:title>
+<dc:type>Text</dc:type>
+<dc:language>spa</dc:language>
+<dc:language>eng</dc:language>
+<dc:title xml:lang="es">Injerto óseo</dc:title>
+<dc:title xml:lang="en">Bone Grafts</dc:title>
+<dc:publisher>National Library of Medicine</dc:publisher>
+<dc:relation type="IsPartOf">Bones, Joints and Muscles</dc:relation>
+<dc:relation type="IsPartOf">Transplantation and Donation</dc:relation>
+<dc:date type="created">2014-07-28</dc:date>
+<dc:date type="modified">2017-12-18</dc:date>
+<dc:identifier type="URL" xml:lang="es">https://medlineplus.gov/spanish/bonegrafts.html</dc:identifier>
+<dc:identifier type="URL" xml:lang="en">https://medlineplus.gov/bonegrafts.html</dc:identifier>
+<dc:description xml:lang="es">Un injerto óseo trasplanta tejidos de los huesos. Los cirujanos utilizan injertos óseos para reparar y regenerar huesos enfermos en las caderas, las rodillas, la columna y, a veces, otros huesos y articulaciones. Los injertos también pueden reparar una pérdida ósea causada por algunos tipos de fracturas o cánceres. Una vez que el cuerpo acepta el injerto óseo, ofrece un marco para el crecimiento del hueso vivo nuevo. Si el hueso trasplantado proviene de otra persona se llama aloinjerto. La mayoría de los huesos para aloinjertos proviene de donantes que han fallecido. Los bancos de tejidos examinan a los donantes, desinfectan el hueso donado y lo someten a pruebas para asegurarse de que su uso sea seguro. Si el hueso trasplantado proviene de otra parte de su propio cuerpo, se denomina autoinjerto. El hueso para autoinjerto suele provenir de las costillas, las caderas o una pierna.</dc:description>
+<dc:description xml:lang="en">A bone graft transplants bone tissue. Surgeons use bone grafts to repair and rebuild diseased bones in your hips, knees, spine, and sometimes other bones and joints. Grafts can also repair bone loss caused by some types of fractures or cancers. Once your body accepts the bone graft, it provides a framework for growth of new, living bone. If the transplanted bone comes from another person, it is called an allograft. Most allograft bone comes from donors who have died. Tissue banks screen these donors and disinfect and test the donated bone to make sure it is safe to use. If the transplanted bone comes from another part of your own body, it is called an autograft. Autograft bone often comes from your ribs, hips or a leg.</dc:description>
+<dc:subject dcterms="mesh">Bone Transplantation</dc:subject>
+<dc:subject xml:lang="es">Injerto óseo</dc:subject>
+<dc:subject xml:lang="es">Óseo</dc:subject>
+<dc:subject xml:lang="es">Injerto</dc:subject>
+<dc:subject xml:lang="es">Hueso</dc:subject>
+<dc:subject xml:lang="es">Injerto</dc:subject>
+<dc:subject xml:lang="en">Bone Grafts</dc:subject>
+<dc:subject xml:lang="en">Bone Transplantation</dc:subject>
+</metadata>
+</record>
+</MedlinePlus-document>

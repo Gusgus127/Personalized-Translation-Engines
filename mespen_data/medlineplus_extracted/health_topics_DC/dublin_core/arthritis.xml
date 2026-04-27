@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<MedlinePlus-document>
+<record>
+<header>
+<identifier>https://medlineplus.gov/arthritis.html</identifier>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:type>Text</dc:type>
+<dc:language>spa</dc:language>
+<dc:language>eng</dc:language>
+<dc:title xml:lang="es">Artritis</dc:title>
+<dc:title xml:lang="en">Arthritis</dc:title>
+<dc:publisher>National Library of Medicine</dc:publisher>
+<dc:relation type="IsPartOf">Bones, Joints and Muscles</dc:relation>
+<dc:date type="created">2002-07-21</dc:date>
+<dc:date type="modified">2018-01-24</dc:date>
+<dc:identifier type="URL" xml:lang="es">https://medlineplus.gov/spanish/arthritis.html</dc:identifier>
+<dc:identifier type="URL" xml:lang="en">https://medlineplus.gov/arthritis.html</dc:identifier>
+<dc:description xml:lang="es">Si siente dolor y rigidez en su cuerpo o tiene problemas para moverse es posible que padezca de artritis. La mayoría de los tipos de artritis causan dolor e hinchazón en las articulaciones. Las articulaciones son los lugares donde se unen dos huesos, como el codo o la rodilla. Con el paso del tiempo, una articulación hinchada puede lesionarse gravemente. Algunos tipos de artritis también causan problemas en los órganos, como los ojos o la piel. Los tipos de artritis incluyen: Osteoartritis: El tipo más común de artritis. Suele relacionarse con el envejecimiento o una lesión Artritis autoinmune: Ocurre cuando el sistema inmunitario ataca por error los propios tejidos en su cuerpo. La artritis reumatoide es la forma más común de este tipo Artritis juvenil: Es el tipo que afecta a los niños Artritis infecciosa: Infección que se ha diseminado desde una parte del cuerpo hacia las articulaciones Artritis psoriásica: Afecta a personas con psoriasis Gota: Tipo de artritis dolorosa que ocurre cuando el ácido úrico se acumula en exceso en el cuerpo. A menudo se inicia en el dedo gordo del pie NIH: Instituto Nacional de Artritis y Enfermedades Musculoesqueléticas y de la Piel</dc:description>
+<dc:description xml:lang="en">If you feel pain and stiffness in your body or have trouble moving around, you might have arthritis. Most kinds of arthritis cause pain and swelling in your joints. Joints are places where two bones meet, such as your elbow or knee. Over time, a swollen joint can become severely damaged. Some kinds of arthritis can also cause problems in your organs, such as your eyes or skin. Types of arthritis include Osteoarthritis is the most common type of arthritis. It's often related to aging or to an injury. Autoimmune arthritis happens when your body's immune system attacks healthy cells in your body by mistake. Rheumatoid arthritis is the most common form of this kind of arthritis. Juvenile arthritis is a type of arthritis that happens in children. Infectious arthritis is an infection that has spread from another part of the body to the joint. Psoriatic arthritis affects people with psoriasis. Gout is a painful type of arthritis that happens when too much uric acid builds up in the body. It often starts in the big toe. NIH: National Institute of Arthritis and Musculoskeletal and Skin Diseases</dc:description>
+<dc:subject dcterms="mesh">Arthritis</dc:subject>
+<dc:subject xml:lang="es">Artritis</dc:subject>
+<dc:subject xml:lang="en">Arthritis</dc:subject>
+</metadata>
+</record>
+</MedlinePlus-document>

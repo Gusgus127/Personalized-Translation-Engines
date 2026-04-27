@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<MedlinePlus-document>
+<record>
+<header>
+<identifier>https://medlineplus.gov/lungcancer.html</identifier>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title type="alternate" xml:lang="es">Pulmón, Cáncer de</dc:title>
+<dc:title type="alternate" xml:lang="es">Cáncer de pulmón de células no pequeñas</dc:title>
+<dc:title type="alternate" xml:lang="es">Pulmón, Cáncer de células pequeñas</dc:title>
+<dc:title type="alternate" xml:lang="es">Cáncer de pulmón de células pequeñas</dc:title>
+<dc:title type="alternate" xml:lang="es">Pulmón de células pequeñas, Cáncer de</dc:title>
+<dc:title type="alternate" xml:lang="es">Nódulo pulmonar</dc:title>
+<dc:title type="alternate" xml:lang="es">Tumor pleural metastásico</dc:title>
+<dc:title type="alternate" xml:lang="en">Small Cell Lung Cancer</dc:title>
+<dc:title type="alternate" xml:lang="en">Non-Small Cell Lung Cancer</dc:title>
+<dc:title type="alternate" xml:lang="en">Bronchogenic Carcinoma</dc:title>
+<dc:type>Text</dc:type>
+<dc:language>spa</dc:language>
+<dc:language>eng</dc:language>
+<dc:title xml:lang="es">Cáncer de pulmón</dc:title>
+<dc:title xml:lang="en">Lung Cancer</dc:title>
+<dc:publisher>National Library of Medicine</dc:publisher>
+<dc:relation type="IsPartOf">Cancers</dc:relation>
+<dc:relation type="IsPartOf">Lungs and Breathing</dc:relation>
+<dc:date type="created">2002-07-21</dc:date>
+<dc:date type="modified">2018-01-04</dc:date>
+<dc:identifier type="URL" xml:lang="es">https://medlineplus.gov/spanish/lungcancer.html</dc:identifier>
+<dc:identifier type="URL" xml:lang="en">https://medlineplus.gov/lungcancer.html</dc:identifier>
+<dc:description xml:lang="es">El cáncer de pulmón es uno de los cánceres más comunes en el mundo. Es la principal causa de muerte por cáncer entre los hombres y las mujeres en los Estados Unidos. El fumar cigarrillos causa la mayoría de los cánceres de pulmón. A mayor cantidad de cigarrillos diarios que fume y cuanto más joven se comienza a fumar, mayor será el riesgo de desarrollar un cáncer de pulmón. La exposición a altos niveles de contaminación, radiación y asbesto también puede aumentar el riesgo. Los síntomas comunes del cáncer de pulmón incluyen: Una tos que no desaparece y empeora con el tiempo Dolor constante en el pecho Tos con expectoración con sangre Falta de aire, silbidos al respirar o ronquera Problemas repetidos por neumonía o bronquitis Inflamación del cuello y la cara Pérdida del apetito o pérdida de peso Fatiga Existen muchos tipos de cáncer de pulmón. Cada uno de ellos crece y se disemina de un modo distinto y se trata de una forma diferente. El tratamiento también depende del estadio o de qué tan avanzado se encuentre. El tratamiento puede incluir quimioterapia, radiación y cirugía. NIH: Instituto Nacional del Cáncer</dc:description>
+<dc:description xml:lang="en">Lung cancer is one of the most common cancers in the world. It is a leading cause of cancer death in men and women in the United States. Cigarette smoking causes most lung cancers. The more cigarettes you smoke per day and the earlier you started smoking, the greater your risk of lung cancer. High levels of pollution, radiation and asbestos exposure may also increase risk. Common symptoms of lung cancer include A cough that doesn't go away and gets worse over time Constant chest pain Coughing up blood Shortness of breath, wheezing, or hoarseness Repeated problems with pneumonia or bronchitis Swelling of the neck and face Loss of appetite or weight loss Fatigue Doctors diagnose lung cancer using a physical exam, imaging, and lab tests. Treatment depends on the type, stage, and how advanced it is. Treatments include surgery, chemotherapy, radiation therapy, and targeted therapy. Targeted therapy uses substances that attack cancer cells without harming normal cells. NIH: National Cancer Institute</dc:description>
+<dc:subject dcterms="mesh">Lung Neoplasms</dc:subject>
+<dc:subject xml:lang="es">Cáncer de pulmón</dc:subject>
+<dc:subject xml:lang="es">Pulmón</dc:subject>
+<dc:subject xml:lang="es">Cáncer de</dc:subject>
+<dc:subject xml:lang="es">Cáncer de pulmón de células no pequeñas</dc:subject>
+<dc:subject xml:lang="es">Pulmón</dc:subject>
+<dc:subject xml:lang="es">Cáncer de células pequeñas</dc:subject>
+<dc:subject xml:lang="es">Cáncer de pulmón de células pequeñas</dc:subject>
+<dc:subject xml:lang="es">Pulmón de células pequeñas</dc:subject>
+<dc:subject xml:lang="es">Cáncer de</dc:subject>
+<dc:subject xml:lang="es">Nódulo pulmonar</dc:subject>
+<dc:subject xml:lang="es">Tumor pleural metastásico</dc:subject>
+<dc:subject xml:lang="en">Lung Cancer</dc:subject>
+<dc:subject xml:lang="en">Small Cell Lung Cancer</dc:subject>
+<dc:subject xml:lang="en">Non-Small Cell Lung Cancer</dc:subject>
+<dc:subject xml:lang="en">Bronchogenic Carcinoma</dc:subject>
+</metadata>
+</record>
+</MedlinePlus-document>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<MedlinePlus-document>
+<record>
+<header>
+<identifier>https://medlineplus.gov/brachialplexusinjuries.html</identifier>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title type="alternate" xml:lang="es">Plexo braquial, Lesiones</dc:title>
+<dc:type>Text</dc:type>
+<dc:language>spa</dc:language>
+<dc:language>eng</dc:language>
+<dc:title xml:lang="es">Lesiones del plexo braquial</dc:title>
+<dc:title xml:lang="en">Brachial Plexus Injuries</dc:title>
+<dc:publisher>National Library of Medicine</dc:publisher>
+<dc:relation type="IsPartOf">Injuries and Wounds</dc:relation>
+<dc:relation type="IsPartOf">Brain and Nerves</dc:relation>
+<dc:date type="created">2013-02-06</dc:date>
+<dc:date type="modified">2018-01-19</dc:date>
+<dc:identifier type="URL" xml:lang="es">https://medlineplus.gov/spanish/brachialplexusinjuries.html</dc:identifier>
+<dc:identifier type="URL" xml:lang="en">https://medlineplus.gov/brachialplexusinjuries.html</dc:identifier>
+<dc:description xml:lang="es">El plexo braquial es una red de nervios que envía señales desde la columna vertebral hasta el hombro, el brazo y la mano. El daño del plexo braquial puede causar síntomas como: Un brazo flácido o paralizado Falta de control muscular en el brazo, la mano o la muñeca Falta de sensación en el brazo o en la mano Las lesiones del plexo braquial pueden ocurrir por un trauma, tumores o inflamación en el hombro. A veces ocurren durante el alumbramiento, cuando los hombros del bebé quedan atascados durante el parto y hay un estiramiento o desgarro de los nervios. Algunas lesiones del plexo braquial pueden sanar sin tratamiento. Muchos de los niños que se lesionan durante el parto mejoran o se recuperan a los tres o cuatro meses de edad. El tratamiento incluye terapia física y en algunos casos, cirugía. NIH: Instituto Nacional de Trastornos Neurológicos y Accidentes Cerebrovasculares</dc:description>
+<dc:description xml:lang="en">The brachial plexus is a network of nerves that sends signals from the spine to the shoulder, arm, and hand. Damage to the brachial plexus can cause symptoms such as A limp or paralyzed arm Lack of muscle control in the arm, hand, or wrist Lack of feeling or sensation in the arm or hand Brachial plexus injuries can happen because of shoulder trauma, tumors, or inflammation. Sometimes they happen during childbirth when a baby's shoulders become stuck during delivery and the nerves stretch or tear. Some brachial plexus injuries may heal without treatment. Many children who are injured during birth improve or recover by 3 to 4 months of age. Treatment includes physical therapy and, in some cases, surgery. NIH: National Institute of Neurological Disorders and Stroke</dc:description>
+<dc:subject dcterms="mesh">Brachial Plexus Neuropathies</dc:subject>
+<dc:subject xml:lang="es">Lesiones del plexo braquial</dc:subject>
+<dc:subject xml:lang="es">Plexo braquial</dc:subject>
+<dc:subject xml:lang="es">Lesiones</dc:subject>
+<dc:subject xml:lang="en">Brachial Plexus Injuries</dc:subject>
+</metadata>
+</record>
+</MedlinePlus-document>

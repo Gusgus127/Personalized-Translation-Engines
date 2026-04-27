@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<MedlinePlus-document>
+<record>
+<header>
+<identifier>https://medlineplus.gov/malebreastcancer.html</identifier>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title type="alternate" xml:lang="es">Seno, Cáncer en el hombre</dc:title>
+<dc:title type="alternate" xml:lang="es">Mama, Cáncer en el hombre</dc:title>
+<dc:title type="alternate" xml:lang="es">Hombre, Cáncer de mama en</dc:title>
+<dc:title type="alternate" xml:lang="en">Breast Cancer, Male</dc:title>
+<dc:type>Text</dc:type>
+<dc:language>spa</dc:language>
+<dc:language>eng</dc:language>
+<dc:title xml:lang="es">Cáncer de seno en el hombre</dc:title>
+<dc:title xml:lang="en">Male Breast Cancer</dc:title>
+<dc:publisher>National Library of Medicine</dc:publisher>
+<dc:relation type="IsPartOf">Men</dc:relation>
+<dc:relation type="IsPartOf">Cancers</dc:relation>
+<dc:date type="created">2003-08-28</dc:date>
+<dc:date type="modified">2018-01-03</dc:date>
+<dc:identifier type="URL" xml:lang="es">https://medlineplus.gov/spanish/malebreastcancer.html</dc:identifier>
+<dc:identifier type="URL" xml:lang="en">https://medlineplus.gov/malebreastcancer.html</dc:identifier>
+<dc:description xml:lang="es">Aunque el cáncer de mama es mucho más común en las mujeres, los hombres también pueden tenerlo. Ocurre con mayor frecuencia entre los hombres de 60 y 70 años. Generalmente, unos bultos en los pechos no son cáncer. Sin embargo, la mayoría de los hombres con cáncer de seno, presentan bultos. Otros síntomas incluyen: Piel con hoyuelos o arrugada Pezón o piel rojo o escamoso Secreción de líquido Los factores de riesgo para el cáncer de seno en los hombres incluyen la exposición a radiación, antecedentes familiares de cáncer de seno y altos niveles de estrógeno, que puede presentarse con enfermedades como la cirrosis o el síndrome de Klinefelter. El tratamiento del cáncer de seno en hombres suele ser una mastectomía, que es una cirugía para extirpar el seno. Otros tratamientos incluyen radiación, quimioterapia y/o terapia hormonal. NIH: Instituto Nacional del Cáncer</dc:description>
+<dc:description xml:lang="en">Although breast cancer is much more common in women, men can get it too. It happens most often to men between the ages of 60 and 70. Breast lumps usually aren't cancer. However, most men with breast cancer have lumps. Other breast symptoms can include Dimpled or puckered skin A red, scaly nipple or skin Fluid discharge Risk factors for male breast cancer include exposure to radiation, a family history of breast cancer, and having high estrogen levels, which can happen with diseases like cirrhosis or Klinefelter's syndrome. Treatment for male breast cancer is usually a mastectomy, which is surgery to remove the breast. Other treatments include radiation, chemotherapy and/or hormone therapy. NIH: National Cancer Institute</dc:description>
+<dc:subject dcterms="mesh">Breast Neoplasms, Male</dc:subject>
+<dc:subject xml:lang="es">Cáncer de seno en el hombre</dc:subject>
+<dc:subject xml:lang="es">Seno</dc:subject>
+<dc:subject xml:lang="es">Cáncer en el hombre</dc:subject>
+<dc:subject xml:lang="es">Mama</dc:subject>
+<dc:subject xml:lang="es">Cáncer en el hombre</dc:subject>
+<dc:subject xml:lang="es">Hombre</dc:subject>
+<dc:subject xml:lang="es">Cáncer de mama en</dc:subject>
+<dc:subject xml:lang="en">Male Breast Cancer</dc:subject>
+<dc:subject xml:lang="en">Breast Cancer</dc:subject>
+<dc:subject xml:lang="en">Male</dc:subject>
+</metadata>
+</record>
+</MedlinePlus-document>

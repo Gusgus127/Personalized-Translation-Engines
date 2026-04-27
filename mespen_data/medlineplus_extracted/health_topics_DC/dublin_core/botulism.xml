@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<MedlinePlus-document>
+<record>
+<header>
+<identifier>https://medlineplus.gov/botulism.html</identifier>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title type="alternate" xml:lang="es">Toxina botulínica</dc:title>
+<dc:title type="alternate" xml:lang="en">Botulinum Toxin</dc:title>
+<dc:type>Text</dc:type>
+<dc:language>spa</dc:language>
+<dc:language>eng</dc:language>
+<dc:title xml:lang="es">Botulismo</dc:title>
+<dc:title xml:lang="en">Botulism</dc:title>
+<dc:publisher>National Library of Medicine</dc:publisher>
+<dc:relation type="IsPartOf">Infections</dc:relation>
+<dc:date type="created">2002-07-21</dc:date>
+<dc:date type="modified">2017-10-10</dc:date>
+<dc:identifier type="URL" xml:lang="es">https://medlineplus.gov/spanish/botulism.html</dc:identifier>
+<dc:identifier type="URL" xml:lang="en">https://medlineplus.gov/botulism.html</dc:identifier>
+<dc:description xml:lang="es">El botulismo es una enfermedad rara pero seria causada por una toxina (veneno) producida por una bacteria llamada Clostridium botulinum. Esta toxina se encuentra naturalmente en la tierra. Existen varios tipos de botulismo. El botulismo transmitido por alimentos se produce al ingerir alimentos contaminados con la toxina. El botulismo de la herida ocurre cuando una herida se infecta con la bacteria; es más común en quienes abusan de heroína. El botulismo infantil ocurre cuando un bebé consume las esporas de la bacteria que se encuentran en la tierra o en la miel. Todos estos tipos de botulismo pueden ser mortales y se consideran urgencias médicas. Los síntomas incluyen ver doble, vista borrosa, caída de los párpados, dificultad para hablar, dificultad para tragar, boca seca y debilidad muscular. El tratamiento puede incluir antitoxinas, terapia intensiva o cirugía de las heridas infectadas. Para evitar el botulismo: Sea cuidadoso al enlatar alimentos en casa No deje que los bebés consuman miel Busque rápidamente ayuda médica para las heridas infectadas Centros para el Control y la Prevención de Enfermedades</dc:description>
+<dc:description xml:lang="en">Botulism is a rare but serious illness. The cause is a toxin (poison) made by a bacterium called Clostridium botulinum. It occurs naturally in soil. There are several kinds of botulism. Foodborne botulism comes from eating foods contaminated with the toxin. Wound botulism happens when a wound infected with the bacteria makes the toxin. It is more common in heroin users. Infant botulism happens when a baby consumes the spores of the bacteria from soil or honey. All forms can be deadly and are medical emergencies. Symptoms include double or blurred vision, drooping eyelids, slurred speech, difficulty swallowing, dry mouth, and muscle weakness. Treatment may include antitoxins, intensive medical care, or surgery of infected wounds. To prevent botulism: Be very careful when canning foods at home Do not let babies eat honey Get prompt medical care for infected wounds Centers for Disease Control and Prevention</dc:description>
+<dc:subject dcterms="mesh">Botulism</dc:subject>
+<dc:subject xml:lang="es">Botulismo</dc:subject>
+<dc:subject xml:lang="es">Toxina botulínica</dc:subject>
+<dc:subject xml:lang="en">Botulism</dc:subject>
+<dc:subject xml:lang="en">Botulinum Toxin</dc:subject>
+</metadata>
+</record>
+</MedlinePlus-document>

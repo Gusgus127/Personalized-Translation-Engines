@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<MedlinePlus-document>
+<record>
+<header>
+<identifier>https://medlineplus.gov/immunesystemanddisorders.html</identifier>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title type="alternate" xml:lang="es">Sistema inmune, Enfermedades de</dc:title>
+<dc:title type="alternate" xml:lang="es">Inmunológico, Enfermedades del sistema</dc:title>
+<dc:title type="alternate" xml:lang="es">Inmunitario, Enfermedades del sistema</dc:title>
+<dc:title type="alternate" xml:lang="en">Severe Combined Immunodeficiency</dc:title>
+<dc:title type="alternate" xml:lang="en">SCID</dc:title>
+<dc:title type="alternate" xml:lang="en">Chronic Granulomatous Disease</dc:title>
+<dc:type>Text</dc:type>
+<dc:language>spa</dc:language>
+<dc:language>eng</dc:language>
+<dc:title xml:lang="es">Enfermedades del sistema inmunitario</dc:title>
+<dc:title xml:lang="en">Immune System and Disorders</dc:title>
+<dc:publisher>National Library of Medicine</dc:publisher>
+<dc:relation type="IsPartOf">Immune System</dc:relation>
+<dc:date type="created">2002-07-21</dc:date>
+<dc:date type="modified">2018-01-29</dc:date>
+<dc:identifier type="URL" xml:lang="es">https://medlineplus.gov/spanish/immunesystemanddisorders.html</dc:identifier>
+<dc:identifier type="URL" xml:lang="en">https://medlineplus.gov/immunesystemanddisorders.html</dc:identifier>
+<dc:description xml:lang="es">El sistema inmunitario es una red compleja de células, tejidos y órganos que funcionan en equipo para defendernos de los gérmenes. Ayuda a nuestros cuerpos a reconocer estos "invasores" y a mantenerlos fuera de nuestro organismo y, si no puede, encontrarlos y deshacerse de ellos. Si nuestro sistema inmune no funciona bien, puede causar serios problemas. El resultado puede ser enfermedades entre las que se incluyen: Alergia y asma: respuestas inmunitaria a sustancias que en general no son dañinas Enfermedades por deficiencia inmunitaria: trastornos que se producen cuando falta uno o varios de los componentes que forman el sistema inmunitario Enfermedades autoinmunes: trastornos que causan que el sistema inmunitario ataque por error a nuestras propias células y órganos. NIH: Instituto Nacional de Alergias y Enfermedades Infecciosas</dc:description>
+<dc:description xml:lang="en">Your immune system is a complex network of cells, tissues, and organs that work together to defend against germs. It helps your body to recognize these "foreign" invaders. Then its job is to keep them out, or if it can't, to find and destroy them. If your immune system cannot do its job, the results can be serious. Disorders of the immune system include Allergy and asthma - immune responses to substances that are usually not harmful Immune deficiency diseases - disorders in which the immune system is missing one or more of its parts Autoimmune diseases - diseases causing your immune system to attack your own body's cells and tissues by mistake NIH: National Institute of Allergy and Infectious Diseases</dc:description>
+<dc:subject dcterms="mesh">Immune System Diseases</dc:subject>
+<dc:subject dcterms="mesh">Immune System</dc:subject>
+<dc:subject xml:lang="es">Enfermedades del sistema inmunitario</dc:subject>
+<dc:subject xml:lang="es">Sistema inmune</dc:subject>
+<dc:subject xml:lang="es">Enfermedades de</dc:subject>
+<dc:subject xml:lang="es">Inmunológico</dc:subject>
+<dc:subject xml:lang="es">Enfermedades del sistema</dc:subject>
+<dc:subject xml:lang="es">Inmunitario</dc:subject>
+<dc:subject xml:lang="es">Enfermedades del sistema</dc:subject>
+<dc:subject xml:lang="en">Immune System and Disorders</dc:subject>
+<dc:subject xml:lang="en">Severe Combined Immunodeficiency</dc:subject>
+<dc:subject xml:lang="en">SCID</dc:subject>
+<dc:subject xml:lang="en">Chronic Granulomatous Disease</dc:subject>
+</metadata>
+</record>
+</MedlinePlus-document>

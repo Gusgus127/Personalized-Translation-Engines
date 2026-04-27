@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<MedlinePlus-document>
+<record>
+<header>
+<identifier>https://medlineplus.gov/dashdiet.html</identifier>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title type="alternate" xml:lang="es">DASH</dc:title>
+<dc:type>Text</dc:type>
+<dc:language>spa</dc:language>
+<dc:language>eng</dc:language>
+<dc:title xml:lang="es">Dieta DASH</dc:title>
+<dc:title xml:lang="en">DASH Diet</dc:title>
+<dc:publisher>National Library of Medicine</dc:publisher>
+<dc:relation type="IsPartOf">Blood, Heart and Circulation</dc:relation>
+<dc:relation type="IsPartOf">Food and Nutrition</dc:relation>
+<dc:date type="created">2015-10-07</dc:date>
+<dc:date type="modified">2017-12-07</dc:date>
+<dc:identifier type="URL" xml:lang="es">https://medlineplus.gov/spanish/dashdiet.html</dc:identifier>
+<dc:identifier type="URL" xml:lang="en">https://medlineplus.gov/dashdiet.html</dc:identifier>
+<dc:description xml:lang="es">DASH en inglés significa enfoques alimenticios para detener la presión alta. Es un plan de alimentación basado en estudios de investigación patrocinados por el Instituto Nacional del Corazón, los Pulmones y la Sangre (NHLBI). Estos estudios demostraron que el plan de alimentación DASH baja la presión arterial y mejora los niveles de colesterol. Esto reduce el riesgo de desarrollar enfermedades del corazón. El plan de alimentación DASH: Se enfoca en verduras, frutas y granos enteros Incluye productos lácteos bajos en grasa o sin grasa, pescado, pollo, frijoles, semillas, nueces y aceites vegetales Limita los alimentos con alto contenido en grasas saturadas. Estos alimentos incluyen carnes grasas, productos lácteos enteros y aceites tropicales como coco, palmiste y palma Limita las bebidas azucaradas y los dulces El plan de alimentación DASH y otros cambios de estilo de vida pueden ayudar a bajar la presión arterial. Estos incluyen mantener un peso saludable, hacer ejercicio y no fumar. NIH: Instituto Nacional del Corazón, los Pulmones y la Sangre</dc:description>
+<dc:description xml:lang="en">DASH stands for Dietary Approaches to Stop Hypertension. It is an eating plan that is based on research studies sponsored by the National Heart, Lung, and Blood Institute (NHLBI). These studies showed that DASH lowers high blood pressure and improves levels of cholesterol. This reduces your risk of getting heart disease. The DASH eating plan Emphasizes vegetables, fruits, and whole-grains Includes fat-free or low-fat dairy products, fish, poultry, beans, nuts, and vegetable oils Limits foods that are high in saturated fat. These foods include fatty meats, full-fat dairy products, and tropical oils such as coconut, palm kernel, and palm oils. Limits sugar-sweetened beverages and sweets Along with DASH, other lifestyle changes can help lower your blood pressure. They include staying at a healthy weight, exercising, and not smoking. NIH: National Heart, Lung, and Blood Institute</dc:description>
+<dc:subject xml:lang="es">Dieta DASH</dc:subject>
+<dc:subject xml:lang="es">DASH</dc:subject>
+<dc:subject xml:lang="en">DASH Diet</dc:subject>
+</metadata>
+</record>
+</MedlinePlus-document>

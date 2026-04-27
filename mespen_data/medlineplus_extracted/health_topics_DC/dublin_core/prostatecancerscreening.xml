@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<MedlinePlus-document>
+<record>
+<header>
+<identifier>https://medlineplus.gov/prostatecancerscreening.html</identifier>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title type="alternate" xml:lang="es">Próstata, Cáncer diagnosis</dc:title>
+<dc:type>Text</dc:type>
+<dc:language>spa</dc:language>
+<dc:language>eng</dc:language>
+<dc:title xml:lang="es">Pruebas y exámenes para el cáncer de próstata</dc:title>
+<dc:title xml:lang="en">Prostate Cancer Screening</dc:title>
+<dc:publisher>National Library of Medicine</dc:publisher>
+<dc:relation type="IsPartOf">Male Reproductive System</dc:relation>
+<dc:relation type="IsPartOf">Cancers</dc:relation>
+<dc:relation type="IsPartOf">Men</dc:relation>
+<dc:date type="created">2014-11-05</dc:date>
+<dc:date type="modified">2017-12-20</dc:date>
+<dc:identifier type="URL" xml:lang="es">https://medlineplus.gov/spanish/prostatecancerscreening.html</dc:identifier>
+<dc:identifier type="URL" xml:lang="en">https://medlineplus.gov/prostatecancerscreening.html</dc:identifier>
+<dc:description xml:lang="es">La próstata es una glándula que se encuentra debajo de la vejiga de los hombres y produce el líquido para el semen. Los exámenes para detectar el cáncer son pruebas que se hacen antes de que usted tenga algún síntoma. El cáncer que se encuentra temprano es más fácil de tratar. No existe una prueba estándar para el cáncer de próstata. Los investigadores están evaluando diferentes exámenes para determinar cuáles tienen menos riesgos y mayores beneficios. Una de estas pruebas es el tacto rectal. El doctor o enfermera inserta un dedo enguantado y lubricado dentro del recto para palpar la próstata y examinar bultos o cualquier irregularidad. Otro test es el examen de sangre para antígeno prostático específico. Los resultados de este examen pueden ser elevados si usted tiene cáncer de próstata, pero también lo pueden estar si usted tiene un agrandamiento de próstata u otros problemas con esta glándula. Si los resultados son anormales, el doctor puede recomendar otras pruebas como una ecografía, imagen por resonancia magnética o una biopsia. Los exámenes de próstata presentan riesgos: Encontrar cáncer de próstata no necesariamente puede mejorar su salud o ayudarlo a vivir más tiempo Los resultados pueden ser incorrectos Los test de seguimiento, como una biopsia, puede tener complicaciones Usted y su doctor deberán evaluar los riesgos del cáncer de próstata y también los riesgos y beneficios de los exámenes de detección y si usted los necesita. NIH: Instituto Nacional del Cáncer</dc:description>
+<dc:description xml:lang="en">The prostate is the gland below a man's bladder that produces fluid for semen. Cancer screening is looking for cancer before you have any symptoms. Cancer found early may be easier to treat. There is no standard screening test for prostate cancer. Researchers are studying different tests to find those with the fewest risks and most benefits. One test is the digital rectal exam (DRE). The doctor or nurse inserts a lubricated, gloved finger into your rectum to feel the prostate for lumps or anything unusual. Another test is the prostate-specific antigen (PSA) blood test. Your PSA level may be high if you have prostate cancer. It can also be high if you have an enlarged prostate (BPH) or other prostate problems. If your screening results are abnormal, your doctor may do more tests, such as an ultrasound, MRI, or a biopsy. Prostate cancer screening has risks: Finding prostate cancer may not improve your health or help you live longer The results can sometimes be wrong Follow-up tests, such as a biopsy, may have complications You and your doctor should discuss your risk for prostate cancer, the pros and cons of the screening tests, and whether you should get them.</dc:description>
+<dc:subject dcterms="mesh">Digital Rectal Examination</dc:subject>
+<dc:subject dcterms="mesh">Prostate-Specific Antigen</dc:subject>
+<dc:subject xml:lang="es">Pruebas y exámenes para el cáncer de próstata</dc:subject>
+<dc:subject xml:lang="es">Próstata</dc:subject>
+<dc:subject xml:lang="es">Cáncer diagnosis</dc:subject>
+<dc:subject xml:lang="en">Prostate Cancer Screening</dc:subject>
+</metadata>
+</record>
+</MedlinePlus-document>

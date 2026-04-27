@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<MedlinePlus-document>
+<record>
+<header>
+<identifier>https://medlineplus.gov/alpha1antitrypsindeficiency.html</identifier>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title type="alternate" xml:lang="es">Alfa-1 antitripsina, Enfermedad de</dc:title>
+<dc:type>Text</dc:type>
+<dc:language>spa</dc:language>
+<dc:language>eng</dc:language>
+<dc:title xml:lang="es">Enfermedad de Alfa-1 antitripsina</dc:title>
+<dc:title xml:lang="en">Alpha-1 Antitrypsin Deficiency</dc:title>
+<dc:publisher>National Library of Medicine</dc:publisher>
+<dc:relation type="IsPartOf">Lungs and Breathing</dc:relation>
+<dc:relation type="IsPartOf">Genetics/Birth Defects</dc:relation>
+<dc:date type="created">2002-07-21</dc:date>
+<dc:date type="modified">2018-01-26</dc:date>
+<dc:identifier type="URL" xml:lang="es">https://medlineplus.gov/spanish/alpha1antitrypsindeficiency.html</dc:identifier>
+<dc:identifier type="URL" xml:lang="en">https://medlineplus.gov/alpha1antitrypsindeficiency.html</dc:identifier>
+<dc:description xml:lang="es">La deficiencia de alfa-1 antitripsina es un trastorno hereditario que aumenta su riesgo de sufrir una enfermedad de los pulmones y del hígado. La alfa-1 antitripsina (AAT) es una proteína que protege los pulmones. El hígado la produce. Si la forma de la proteína AAT no es la adecuada, esta se queda en el hígado y no puede llegar a los pulmones. Los síntomas de la deficiencia ATT incluyen: Dificultad para respirar y sibilancias Infecciones repetidas de los pulmones Cansancio Latidos cardíacos rápidos al ponerse de pie Problemas de visión Pérdida de peso Algunas personas no tienen síntomas y no desarrollan complicaciones. Los análisis de sangre y pruebas genéticas pueden determinar si usted la padece. Si sus pulmones están afectados, es posible que se realicen pruebas pulmonares. Los tratamientos incluyen medicamentos, rehabilitación pulmonar y, si es necesario, oxígeno adicional. Los casos graves pueden necesitar un trasplante de pulmón. No fumar puede prevenir o retrasar los síntomas pulmonares. NIH: Instituto Nacional del Corazón, los Pulmones y la Sangre</dc:description>
+<dc:description xml:lang="en">Alpha-1 antitrypsin deficiency (AAT deficiency) is an inherited condition that raises your risk for lung and liver disease. Alpha-1 antitrypsin (AAT) is a protein that protects the lungs. The liver makes it. If the AAT proteins aren't the right shape, they get stuck in the liver cells and can't reach the lungs. Symptoms of AAT deficiency include Shortness of breath and wheezing Repeated lung infections Tiredness Rapid heartbeat upon standing Vision problems Weight loss Some people have no symptoms and do not develop complications. Blood tests and genetic tests can tell if you have it. If your lungs are affected, you may also have lung tests. Treatments include medicines, pulmonary rehab, and extra oxygen, if needed. Severe cases may need a lung transplant. Not smoking can prevent or delay lung symptoms. NIH: National Heart, Lung, and Blood Institute</dc:description>
+<dc:subject dcterms="mesh">alpha 1-Antitrypsin Deficiency</dc:subject>
+<dc:subject xml:lang="es">Enfermedad de Alfa-1 antitripsina</dc:subject>
+<dc:subject xml:lang="es">Alfa-1 antitripsina</dc:subject>
+<dc:subject xml:lang="es">Enfermedad de</dc:subject>
+<dc:subject xml:lang="en">Alpha-1 Antitrypsin Deficiency</dc:subject>
+</metadata>
+</record>
+</MedlinePlus-document>

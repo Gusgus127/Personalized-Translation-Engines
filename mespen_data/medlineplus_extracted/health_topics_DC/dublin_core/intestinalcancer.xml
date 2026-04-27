@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<MedlinePlus-document>
+<record>
+<header>
+<identifier>https://medlineplus.gov/intestinalcancer.html</identifier>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title type="alternate" xml:lang="es">Intestino, Cáncer del</dc:title>
+<dc:title type="alternate" xml:lang="en">Small Intestine Cancer</dc:title>
+<dc:title type="alternate" xml:lang="en">Gastrointestinal Stromal Tumors</dc:title>
+<dc:type>Text</dc:type>
+<dc:language>spa</dc:language>
+<dc:language>eng</dc:language>
+<dc:title xml:lang="es">Cáncer de intestino</dc:title>
+<dc:title xml:lang="en">Intestinal Cancer</dc:title>
+<dc:publisher>National Library of Medicine</dc:publisher>
+<dc:relation type="IsPartOf">Cancers</dc:relation>
+<dc:relation type="IsPartOf">Digestive System</dc:relation>
+<dc:date type="created">2004-01-13</dc:date>
+<dc:date type="modified">2017-11-15</dc:date>
+<dc:identifier type="URL" xml:lang="es">https://medlineplus.gov/spanish/intestinalcancer.html</dc:identifier>
+<dc:identifier type="URL" xml:lang="en">https://medlineplus.gov/intestinalcancer.html</dc:identifier>
+<dc:description xml:lang="es">El intestino delgado forma parte del sistema digestivo. Es un tubo largo que conecta el estómago al intestino grueso. El cáncer intestinal es poco frecuente, pero las dietas ricas en grasas, la enfermedad de Crohn, la enfermedad celíaca y los antecedentes de pólipos en el colon pueden aumentar el riesgo. Algunos síntomas posibles de cáncer del intestino delgado incluyen: Dolor abdominal Pérdida de peso sin razón Presencia de sangre en las heces Aparición de masas en el abdomen Los estudios con imágenes que muestran el intestino delgado y el área que lo rodea pueden ayudar a diagnosticar el cáncer de intestino y revelar si se diseminó. El tratamiento más común es la cirugía. Las opciones de tratamiento incluyen quimioterapia, radiación o una combinación de ambas. NIH: Instituto Nacional del Cáncer</dc:description>
+<dc:description xml:lang="en">Your small intestine is part of your digestive system. It is a long tube that connects your stomach to your large intestine. Intestinal cancer is rare, but eating a high-fat diet or having Crohn's disease, celiac disease, or a history of colonic polyps can increase your risk. Possible signs of small intestine cancer include Abdominal pain Weight loss for no reason Blood in the stool A lump in the abdomen Imaging tests that create pictures of the small intestine and the area around it can help diagnose intestinal cancer and show whether it has spread. Surgery is the most common treatment. Additional options include chemotherapy, radiation therapy, or a combination. NIH: National Cancer Institute</dc:description>
+<dc:subject dcterms="mesh">Ileal Neoplasms</dc:subject>
+<dc:subject dcterms="mesh">Duodenal Neoplasms</dc:subject>
+<dc:subject dcterms="mesh">Jejunal Neoplasms</dc:subject>
+<dc:subject xml:lang="es">Cáncer de intestino</dc:subject>
+<dc:subject xml:lang="es">Intestino</dc:subject>
+<dc:subject xml:lang="es">Cáncer del</dc:subject>
+<dc:subject xml:lang="en">Intestinal Cancer</dc:subject>
+<dc:subject xml:lang="en">Small Intestine Cancer</dc:subject>
+<dc:subject xml:lang="en">Gastrointestinal Stromal Tumors</dc:subject>
+</metadata>
+</record>
+</MedlinePlus-document>

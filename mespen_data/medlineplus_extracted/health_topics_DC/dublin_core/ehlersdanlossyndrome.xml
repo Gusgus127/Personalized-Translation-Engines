@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<MedlinePlus-document>
+<record>
+<header>
+<identifier>https://medlineplus.gov/ehlersdanlossyndrome.html</identifier>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title type="alternate" xml:lang="es">Síndrome de hipermovilidad</dc:title>
+<dc:title type="alternate" xml:lang="en">Hypermobility Syndrome</dc:title>
+<dc:type>Text</dc:type>
+<dc:language>spa</dc:language>
+<dc:language>eng</dc:language>
+<dc:title xml:lang="es">Síndrome de Ehlers-Danlos</dc:title>
+<dc:title xml:lang="en">Ehlers-Danlos Syndrome</dc:title>
+<dc:publisher>National Library of Medicine</dc:publisher>
+<dc:relation type="IsPartOf">Genetics/Birth Defects</dc:relation>
+<dc:relation type="IsPartOf">Bones, Joints and Muscles</dc:relation>
+<dc:date type="created">2012-04-16</dc:date>
+<dc:date type="modified">2017-10-04</dc:date>
+<dc:identifier type="URL" xml:lang="es">https://medlineplus.gov/spanish/ehlersdanlossyndrome.html</dc:identifier>
+<dc:identifier type="URL" xml:lang="en">https://medlineplus.gov/ehlersdanlossyndrome.html</dc:identifier>
+<dc:description xml:lang="es">El síndrome de Ehlers-Danlos (EDS, por sus siglas en inglés) es un grupo de trastornos hereditarios que debilitan el tejido conectivo. El tejido conectivo está formado por las proteínas que le brindan soporte a la piel, los huesos, los vasos sanguíneos y otros órganos. El EDS suele afectar la piel, las articulaciones y las paredes de los vasos sanguíneos. Los síntomas incluyen: Articulaciones inestables Vasos sanguíneos pequeños y frágiles Alteración del proceso de formación de cicatrices y curación de heridas Piel suave, aterciopelada y elástica que presenta hematomas con facilidad Existen muchos tipos de EDS. Pueden variar de leves a peligrosos para la vida. Aproximadamente 1 de cada 5.000 personas tiene EDS. No existe una cura. El tratamiento implica el control de los síntomas. También incluye aprender a proteger las articulaciones y prevenir lesiones.</dc:description>
+<dc:description xml:lang="en">Ehlers-Danlos syndrome (EDS) is a group of inherited disorders that weaken connective tissues. Connective tissues are proteins that support skin, bones, blood vessels, and other organs. EDS usually affects your skin, joints and blood vessel walls. Symptoms include Loose joints Fragile, small blood vessels Abnormal scar formation and wound healing Soft, velvety, stretchy skin that bruises easily There are several types of EDS. They can range from mild to life-threatening. About 1 in 5,000 people has EDS. There is no cure. Treatment involves managing symptoms, often with medicines and physical therapy. It also includes learning how to protect your joints and prevent injuries.</dc:description>
+<dc:subject dcterms="mesh">Ehlers-Danlos Syndrome</dc:subject>
+<dc:subject xml:lang="es">Síndrome de Ehlers-Danlos</dc:subject>
+<dc:subject xml:lang="es">Síndrome de hipermovilidad</dc:subject>
+<dc:subject xml:lang="en">Ehlers-Danlos Syndrome</dc:subject>
+<dc:subject xml:lang="en">Hypermobility Syndrome</dc:subject>
+</metadata>
+</record>
+</MedlinePlus-document>

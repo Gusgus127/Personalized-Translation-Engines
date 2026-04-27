@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<MedlinePlus-document>
+<record>
+<header>
+<identifier>https://medlineplus.gov/voicedisorders.html</identifier>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title type="alternate" xml:lang="es">Voz, Trastornos de la</dc:title>
+<dc:title type="alternate" xml:lang="en">Laryngitis</dc:title>
+<dc:title type="alternate" xml:lang="en">Vocal Cord Problems</dc:title>
+<dc:title type="alternate" xml:lang="en">Voicebox Disorders</dc:title>
+<dc:type>Text</dc:type>
+<dc:language>spa</dc:language>
+<dc:language>eng</dc:language>
+<dc:title xml:lang="es">Trastornos de la voz</dc:title>
+<dc:title xml:lang="en">Voice Disorders</dc:title>
+<dc:publisher>National Library of Medicine</dc:publisher>
+<dc:relation type="IsPartOf">Mouth and Teeth</dc:relation>
+<dc:date type="created">2002-07-21</dc:date>
+<dc:date type="modified">2018-02-05</dc:date>
+<dc:identifier type="URL" xml:lang="es">https://medlineplus.gov/spanish/voicedisorders.html</dc:identifier>
+<dc:identifier type="URL" xml:lang="en">https://medlineplus.gov/voicedisorders.html</dc:identifier>
+<dc:description xml:lang="es">La voz es el sonido que se produce cuando el aire pasa desde los pulmones a través de la laringe. En la laringe se encuentran las cuerdas vocales, dos bandas musculares que vibran para emitir los sonidos. Para la mayoría de nosotros, la voz juega un papel importante sobre quiénes somos, lo que hacemos y cómo nos comunicamos. Como las huellas digitales, la voz de cada persona es única. Muchas cosas que hacemos pueden lastimar nuestras cuerdas vocales. Hablar demasiado, gritar, despejar la garganta constantemente o fumar pueden provocar ronquera. También pueden causar problemas como nódulos, pólipos y llagas en las cuerdas vocales. Otras causas de trastornos de la voz incluyen infecciones, subida de los ácidos gástricos hacia la garganta, crecimientos por un virus, cáncer y enfermedades que paralizan las cuerdas vocales. Las señales que la voz no está saludable incluyen: Su voz se ha vuelto ronca o rasgada Ha perdido la habilidad de lograr algunas notas altas cuando canta Su voz de repente suena más profunda Su garganta se siente a menudo irritada, con dolor o cansada Debe esforzarse para hablar El tratamiento de los trastornos de la voz varía dependiendo de la causa. La mayoría de los problemas de la voz pueden ser tratados con éxito si se diagnostican temprano. NIH: Instituto Nacional de la Sordera y otros Trastornos de la Comunicación</dc:description>
+<dc:description xml:lang="en">Voice is the sound made by air passing from your lungs through your larynx, or voice box. In your larynx are your vocal cords, two bands of muscle that vibrate to make sound. For most of us, our voices play a big part in who we are, what we do, and how we communicate. Like fingerprints, each person's voice is unique. Many things we do can injure our vocal cords. Talking too much, screaming, constantly clearing your throat, or smoking can make you hoarse. They can also lead to problems such as nodules, polyps, and sores on the vocal cords. Other causes of voice disorders include infections, upward movement of stomach acids into the throat, growths due to a virus, cancer, and diseases that paralyze the vocal cords. Signs that your voice isn't healthy include Your voice has become hoarse or raspy You've lost the ability to hit some high notes when singing Your voice suddenly sounds deeper Your throat often feels raw, achy, or strained It's become an effort to talk Treatment for voice disorders varies depending on the cause. Most voice problems can be successfully treated when diagnosed early. NIH: National Institute on Deafness and Other Communication Disorders</dc:description>
+<dc:subject dcterms="mesh">Voice Disorders</dc:subject>
+<dc:subject xml:lang="es">Trastornos de la voz</dc:subject>
+<dc:subject xml:lang="es">Voz</dc:subject>
+<dc:subject xml:lang="es">Trastornos de la</dc:subject>
+<dc:subject xml:lang="en">Voice Disorders</dc:subject>
+<dc:subject xml:lang="en">Laryngitis</dc:subject>
+<dc:subject xml:lang="en">Vocal Cord Problems</dc:subject>
+<dc:subject xml:lang="en">Voicebox Disorders</dc:subject>
+</metadata>
+</record>
+</MedlinePlus-document>

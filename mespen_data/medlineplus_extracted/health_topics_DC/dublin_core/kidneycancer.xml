@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<MedlinePlus-document>
+<record>
+<header>
+<identifier>https://medlineplus.gov/kidneycancer.html</identifier>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title type="alternate" xml:lang="es">Cáncer renal</dc:title>
+<dc:title type="alternate" xml:lang="es">Riñón, Cáncer de</dc:title>
+<dc:title type="alternate" xml:lang="es">Renal, Cáncer</dc:title>
+<dc:title type="alternate" xml:lang="es">Carcinoma de células renales</dc:title>
+<dc:title type="alternate" xml:lang="en">Renal Cancer</dc:title>
+<dc:title type="alternate" xml:lang="en">Hypernephroma</dc:title>
+<dc:type>Text</dc:type>
+<dc:language>spa</dc:language>
+<dc:language>eng</dc:language>
+<dc:title xml:lang="es">Cáncer de riñón</dc:title>
+<dc:title xml:lang="en">Kidney Cancer</dc:title>
+<dc:publisher>National Library of Medicine</dc:publisher>
+<dc:relation type="IsPartOf">Kidneys and Urinary System</dc:relation>
+<dc:relation type="IsPartOf">Cancers</dc:relation>
+<dc:date type="created">2002-07-21</dc:date>
+<dc:date type="modified">2017-11-14</dc:date>
+<dc:identifier type="URL" xml:lang="es">https://medlineplus.gov/spanish/kidneycancer.html</dc:identifier>
+<dc:identifier type="URL" xml:lang="en">https://medlineplus.gov/kidneycancer.html</dc:identifier>
+<dc:description xml:lang="es">Usted tiene dos riñones. Los riñones son órganos del tamaño de un puño de la mano ubicados a cada lado de la columna, por arriba de la cintura. Los tubos que se encuentran dentro de ellos filtran y limpian la sangre eliminando los productos de desecho y produciendo orina. El cáncer de riñón se forma en la membrana que recubre los tubos diminutos que están dentro de los riñones. Este cáncer se hace más común a medida que envejecemos. Los factores de riesgo incluyen fumar, algunas condiciones genéticas y el mal uso de analgésicos por períodos prolongados. Es probable que las personas con cáncer de riñón no tengan síntomas al principio de la enfermedad pero van apareciendo a medida que el cáncer crece. Consulte a su médico si observa: Sangre en la orina Un bulto en el abdomen Pérdida de peso sin razón Dolor en el costado que no desaparece Pérdida del apetito Las pruebas para detectar cáncer de riñón incluyen exámenes de sangre, orina y de imagen. Usted también puede necesitar una biopsia. El tratamiento depende de la edad, el estado general de salud y de cuán avanzado esté el cáncer. Podría incluir cirugía, quimioterapia o radiación, terapia biológica o dirigida. La terapia biológica estimula la capacidad del cuerpo para combatir el cáncer. La terapia dirigida es un tipo de tratamiento en el que se utilizan sustancias para identificar y atacar células cancerosas específicas sin dañar las células normales. NIH: Instituto Nacional del Cáncer</dc:description>
+<dc:description xml:lang="en">You have two kidneys. They are fist-sized organs on either side of your backbone above your waist. The tubes inside filter and clean your blood, taking out waste products and making urine. Kidney cancer forms in the lining of tiny tubes inside your kidneys. Kidney cancer becomes more likely as you age. Risk factors include smoking, having certain genetic conditions, and misusing pain medicines for a long time. You may have no symptoms at first. They may appear as the cancer grows. See your health care provider if you notice Blood in your urine A lump in your abdomen Weight loss for no reason Pain in your side that does not go away Loss of appetite Tests to diagnose kidney cancer include blood, urine, and imaging tests. You may also have a biopsy. Treatment depends on your age, your overall health and how advanced the cancer is. It might include surgery, chemotherapy, or radiation, biologic, or targeted therapies. Biologic therapy boosts your body's own ability to fight cancer. Targeted therapy uses substances that attack cancer cells without harming normal cells. NIH: National Cancer Institute</dc:description>
+<dc:subject dcterms="mesh">Kidney Neoplasms</dc:subject>
+<dc:subject xml:lang="es">Cáncer de riñón</dc:subject>
+<dc:subject xml:lang="es">Cáncer renal</dc:subject>
+<dc:subject xml:lang="es">Riñón</dc:subject>
+<dc:subject xml:lang="es">Cáncer de</dc:subject>
+<dc:subject xml:lang="es">Renal</dc:subject>
+<dc:subject xml:lang="es">Cáncer</dc:subject>
+<dc:subject xml:lang="es">Carcinoma de células renales</dc:subject>
+<dc:subject xml:lang="en">Kidney Cancer</dc:subject>
+<dc:subject xml:lang="en">Renal Cancer</dc:subject>
+<dc:subject xml:lang="en">Hypernephroma</dc:subject>
+</metadata>
+</record>
+</MedlinePlus-document>

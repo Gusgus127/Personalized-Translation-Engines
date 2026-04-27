@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<MedlinePlus-document>
+<record>
+<header>
+<identifier>https://medlineplus.gov/congenitalheartdefects.html</identifier>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title type="alternate" xml:lang="es">Cardíacos congénitos, Defectos</dc:title>
+<dc:title type="alternate" xml:lang="es">Tetralogia de Fallot</dc:title>
+<dc:title type="alternate" xml:lang="es">Fallot, Tetralogia</dc:title>
+<dc:title type="alternate" xml:lang="es">TOF</dc:title>
+<dc:title type="alternate" xml:lang="en">Heart Murmur</dc:title>
+<dc:title type="alternate" xml:lang="en">Heart Diseases, Congenital</dc:title>
+<dc:title type="alternate" xml:lang="en">Heart Defects</dc:title>
+<dc:type>Text</dc:type>
+<dc:language>spa</dc:language>
+<dc:language>eng</dc:language>
+<dc:title xml:lang="es">Defectos cardíacos congénitos</dc:title>
+<dc:title xml:lang="en">Congenital Heart Defects</dc:title>
+<dc:publisher>National Library of Medicine</dc:publisher>
+<dc:relation type="IsPartOf">Blood, Heart and Circulation</dc:relation>
+<dc:relation type="IsPartOf">Genetics/Birth Defects</dc:relation>
+<dc:date type="created">2002-07-21</dc:date>
+<dc:date type="modified">2018-02-07</dc:date>
+<dc:identifier type="URL" xml:lang="es">https://medlineplus.gov/spanish/congenitalheartdefects.html</dc:identifier>
+<dc:identifier type="URL" xml:lang="en">https://medlineplus.gov/congenitalheartdefects.html</dc:identifier>
+<dc:description xml:lang="es">Un defecto cardíaco congénito es un problema con la estructura del corazón. Está presente en el momento del nacimiento. Los defectos cardíacos congénitos son el tipo más común de defectos congénitos. Este tipo de defecto puede afectar las paredes del corazón, las válvulas cardíacas, las arterias y las venas cercanas al corazón. También puede hacer que el flujo de sangre vaya más despacio, en el sentido contrario, al lugar equivocado o se interrumpa totalmente. Los doctores diagnostican estos defectos por medio de exámenes físicos y exámenes especiales que se usan para detectar defectos del corazón al nacer. Generalmente, los encuentran durante el embarazo o inmediatamente después del nacimiento. Las señales y síntomas de defectos cardíacos severos al nacer son: Respiración rápida Cianosis: tono azulado de la piel, labios y uñas Cansancio Mala circulación Muchos defectos congénitos del corazón no causan síntomas ni dan señales. A menudo no se detectan hasta que el niño crece. Muchos niños que sufren de estos defectos no necesitan tratamiento pero otros sí. El tratamiento dependerá del tipo de defecto, cómo es y la edad, tamaño y estado de salud general del niño. Puede incluir medicamentos, procedimientos de catéter, cirugía y trasplante de corazón. NIH: Instituto Nacional del Corazón, los Pulmones y la Sangre</dc:description>
+<dc:description xml:lang="en">A congenital heart defect is a problem with the structure of the heart. It is present at birth. Congenital heart defects are the most common type of birth defect. The defects can involve the walls of the heart, the valves of the heart, and the arteries and veins near the heart. They can disrupt the normal flow of blood through the heart. The blood flow can slow down, go in the wrong direction or to the wrong place, or be blocked completely. Doctors use a physical exam and special heart tests to diagnose congenital heart defects. They often find severe defects during pregnancy or soon after birth. Signs and symptoms of severe defects in newborns include Rapid breathing Cyanosis - a bluish tint to the skin, lips, and fingernails Fatigue Poor blood circulation Many congenital heart defects cause few or no signs and symptoms. They are often not diagnosed until children are older. Many children with congenital heart defects don't need treatment, but others do. Treatment can include medicines, catheter procedures, surgery, and heart transplants. The treatment depends on the type of the defect, how severe it is, and a child's age, size, and general health. NIH: National Heart, Lung, and Blood Institute</dc:description>
+<dc:subject dcterms="mesh">Heart Defects, Congenital</dc:subject>
+<dc:subject xml:lang="es">Defectos cardíacos congénitos</dc:subject>
+<dc:subject xml:lang="es">Cardíacos congénitos</dc:subject>
+<dc:subject xml:lang="es">Defectos</dc:subject>
+<dc:subject xml:lang="es">Tetralogia de Fallot</dc:subject>
+<dc:subject xml:lang="es">Fallot</dc:subject>
+<dc:subject xml:lang="es">Tetralogia</dc:subject>
+<dc:subject xml:lang="es">TOF</dc:subject>
+<dc:subject xml:lang="en">Congenital Heart Defects</dc:subject>
+<dc:subject xml:lang="en">Heart Murmur</dc:subject>
+<dc:subject xml:lang="en">Heart Diseases</dc:subject>
+<dc:subject xml:lang="en">Congenital</dc:subject>
+<dc:subject xml:lang="en">Heart Defects</dc:subject>
+</metadata>
+</record>
+</MedlinePlus-document>

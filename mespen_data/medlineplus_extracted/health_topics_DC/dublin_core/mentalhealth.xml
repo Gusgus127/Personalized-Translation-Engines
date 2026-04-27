@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<MedlinePlus-document>
+<record>
+<header>
+<identifier>https://medlineplus.gov/mentalhealth.html</identifier>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title type="alternate" xml:lang="es">Mental, salud</dc:title>
+<dc:title type="alternate" xml:lang="es">Salud emocional</dc:title>
+<dc:title type="alternate" xml:lang="es">Emocional, Salud</dc:title>
+<dc:title type="alternate" xml:lang="en">Emotional Health</dc:title>
+<dc:type>Text</dc:type>
+<dc:language>spa</dc:language>
+<dc:language>eng</dc:language>
+<dc:title xml:lang="es">Salud mental</dc:title>
+<dc:title xml:lang="en">Mental Health</dc:title>
+<dc:publisher>National Library of Medicine</dc:publisher>
+<dc:relation type="IsPartOf">Wellness and Lifestyle</dc:relation>
+<dc:relation type="IsPartOf">Mental Health and Behavior</dc:relation>
+<dc:date type="created">2002-07-21</dc:date>
+<dc:date type="modified">2017-08-11</dc:date>
+<dc:identifier type="URL" xml:lang="es">https://medlineplus.gov/spanish/mentalhealth.html</dc:identifier>
+<dc:identifier type="URL" xml:lang="en">https://medlineplus.gov/mentalhealth.html</dc:identifier>
+<dc:description xml:lang="es">La salud mental incluye nuestro bienestar emocional, psíquico y social. Afecta la forma en como pensamos, sentimos y actuamos cuando lidiamos con la vida. También ayuda a determinar cómo manejamos el estrés, nos relacionamos con otras personas y tomamos decisiones. La salud mental es importante en todas las etapas de la vida, desde la niñez y la adolescencia hasta la edad adulta. Las enfermedades mentales son condiciones graves que pueden afectar la manera de pensar, su humor y su comportamiento. Existen muchas causas de enfermedades mentales. Sus genes y su historia familiar pueden jugar un papel, como así también sus experiencias de vida como el estrés o una historia de abuso. Otras causas pueden ser biológicas. Los trastornos mentales son comunes, pero existen tratamientos disponibles.</dc:description>
+<dc:description xml:lang="en">Mental health includes our emotional, psychological, and social well-being. It affects how we think, feel and act as we cope with life. It also helps determine how we handle stress, relate to others, and make choices. Mental health is important at every stage of life, from childhood and adolescence through adulthood. Mental illnesses are serious disorders which can affect your thinking, mood, and behavior. There are many causes of mental disorders. Your genes and family history may play a role. Your life experiences, such as stress or a history of abuse, may also matter. Biological factors can also be part of the cause. Mental disorders are common, but treatments are available.</dc:description>
+<dc:subject dcterms="mesh">Mental Health</dc:subject>
+<dc:subject xml:lang="es">Salud mental</dc:subject>
+<dc:subject xml:lang="es">Mental</dc:subject>
+<dc:subject xml:lang="es">salud</dc:subject>
+<dc:subject xml:lang="es">Salud emocional</dc:subject>
+<dc:subject xml:lang="es">Emocional</dc:subject>
+<dc:subject xml:lang="es">Salud</dc:subject>
+<dc:subject xml:lang="en">Mental Health</dc:subject>
+<dc:subject xml:lang="en">Emotional Health</dc:subject>
+</metadata>
+</record>
+</MedlinePlus-document>

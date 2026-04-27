@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<MedlinePlus-document>
+<record>
+<header>
+<identifier>https://medlineplus.gov/genitalwarts.html</identifier>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:type>Text</dc:type>
+<dc:language>spa</dc:language>
+<dc:language>eng</dc:language>
+<dc:title xml:lang="es">Verrugas genitales</dc:title>
+<dc:title xml:lang="en">Genital Warts</dc:title>
+<dc:publisher>National Library of Medicine</dc:publisher>
+<dc:relation type="IsPartOf">Infections</dc:relation>
+<dc:relation type="IsPartOf">Female Reproductive System</dc:relation>
+<dc:relation type="IsPartOf">Male Reproductive System</dc:relation>
+<dc:relation type="IsPartOf">Sexual Health Issues</dc:relation>
+<dc:date type="created">2006-03-03</dc:date>
+<dc:date type="modified">2018-01-10</dc:date>
+<dc:identifier type="URL" xml:lang="es">https://medlineplus.gov/spanish/genitalwarts.html</dc:identifier>
+<dc:identifier type="URL" xml:lang="en">https://medlineplus.gov/genitalwarts.html</dc:identifier>
+<dc:description xml:lang="es">Las verrugas genitales son una enfermedad de transmisión sexual (ETS) causadas por el virus del papiloma humano (VPH). En general, las verrugas aparecen como un pequeño bulto o grupo de bultos en el área genital. Son de color carne y pueden ser planas o verse desiguales como la coliflor. Algunas verrugas genitales son tan pequeñas que no pueden verse a simple vista. En las mujeres, las verrugas suelen aparecer dentro o alrededor de la vagina, en el cuello uterino o alrededor del ano. En los hombres, las verrugas genitales son menos comunes. Pueden en la punta del pene, alrededor del ano, en el escroto, muslo o en la ingle. Las verrugas genitales pueden contagiarse durante relaciones sexuales orales, vaginales o anales con una pareja infectada. El uso correcto de preservativos de látex reduce enormemente, aunque no elimina, el riesgo de adquirir y diseminar el VPH. La forma más confiable de evitar la infección es no tener sexo anal, vaginal u oral. Las vacunas contra el VPH pueden ayudar a prevenir algunas infecciones por este virus que causan verrugas genitales. Su proveedor de cuidados de salud generalmente diagnostica estas verrugas al examinarlas. Las verrugas pueden desaparecer espontáneamente. Cuando no es así, el médico puede tratarlas o extraerlas. El VPH permanece en el cuerpo aún después del tratamiento, de modo que las verrugas pueden aparecer nuevamente. Oficina para la Salud de la Mujer en el Depto. de Salud y Servicios Humanos de los EE.UU.</dc:description>
+<dc:description xml:lang="en">Genital warts are a sexually transmitted disease (STD) caused by the human papillomavirus (HPV). The warts usually appear as a small bump or group of bumps in the genital area. They are flesh-colored and can be flat or look bumpy like cauliflower. Some genital warts are so small you cannot see them. In women, the warts usually occur in or around the vagina, on the cervix, or around the anus. In men, genital warts are less common. They may have warts on the tip of the penis, around the anus, or on the scrotum, thigh, or groin. You can get genital warts during oral, vaginal, or anal sex with an infected partner. Correct usage of latex condoms greatly reduces, but does not completely eliminate, the risk of catching or spreading HPV. The most reliable way to avoid infection is to not have anal, vaginal, or oral sex. HPV vaccines may help prevent some of the HPV infections that cause genital warts. Your health care provider usually diagnoses genital warts by seeing them. The warts might disappear on their own. If not, your health care provider can treat or remove them. HPV stays in your body even after treatment, so warts can come back. Dept. of Health and Human Services Office on Women's Health</dc:description>
+<dc:subject dcterms="mesh">Condylomata Acuminata</dc:subject>
+<dc:subject xml:lang="es">Verrugas genitales</dc:subject>
+<dc:subject xml:lang="en">Genital Warts</dc:subject>
+<dc:subject xml:lang="en">Condylomata Acuminata</dc:subject>
+<dc:subject xml:lang="en">Venereal Warts</dc:subject>
+</metadata>
+</record>
+</MedlinePlus-document>

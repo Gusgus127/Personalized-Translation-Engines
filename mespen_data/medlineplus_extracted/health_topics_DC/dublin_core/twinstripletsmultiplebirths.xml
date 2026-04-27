@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<MedlinePlus-document>
+<record>
+<header>
+<identifier>https://medlineplus.gov/twinstripletsmultiplebirths.html</identifier>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title type="alternate" xml:lang="es">Trillizos</dc:title>
+<dc:title type="alternate" xml:lang="es">Nacimiento múltiple</dc:title>
+<dc:title type="alternate" xml:lang="es">Mellizos</dc:title>
+<dc:title type="alternate" xml:lang="en">Triplets</dc:title>
+<dc:title type="alternate" xml:lang="en">Multiple Births</dc:title>
+<dc:type>Text</dc:type>
+<dc:language>spa</dc:language>
+<dc:language>eng</dc:language>
+<dc:title xml:lang="es">Gemelos, trillizos, nacimiento múltiple</dc:title>
+<dc:title xml:lang="en">Twins, Triplets, Multiple Births</dc:title>
+<dc:publisher>National Library of Medicine</dc:publisher>
+<dc:relation type="IsPartOf">Children and Teenagers</dc:relation>
+<dc:relation type="IsPartOf">Pregnancy and Reproduction</dc:relation>
+<dc:date type="created">2002-07-21</dc:date>
+<dc:date type="modified">2018-01-08</dc:date>
+<dc:identifier type="URL" xml:lang="es">https://medlineplus.gov/spanish/twinstripletsmultiplebirths.html</dc:identifier>
+<dc:identifier type="URL" xml:lang="en">https://medlineplus.gov/twinstripletsmultiplebirths.html</dc:identifier>
+<dc:description xml:lang="es">Si está embarazada de más de un bebé, dista mucho de estar sola. Los nacimientos múltiples están en ascenso en los Estados Unidos. ¿Por qué? Cada vez más mujeres tienen bebés después de los 30 años y muchas toman medicamentos para la fertilidad. Ambos factores incrementan potencialmente las posibilidades de tener más de un bebé. Los antecedentes familiares de gemelos también aumentan las posibilidades. Hace años, la mayoría de los gemelos llegaban por sorpresa. Actualmente, la mayoría de las mujeres se entera anticipadamente del embarazo múltiple. Deben ver al médico con más frecuencia que las mujeres que esperan a un solo niño ya que los embarazos múltiples deben controlarse más cuidadosamente. Los bebés de embarazos múltiples tienen mayor riesgo de nacer prematuramente. Algunas mujeres tienen que guardar reposo en cama para demorar el parto. Finalmente, es posible que necesiten cesárea, especialmente si tienen tres bebés o más. Después de que los bebés llegan a su casa, las mamás pueden sentirse agobiadas y exhaustas. La ayuda de voluntarios y los grupos de apoyo para padres de bebés múltiples pueden facilitar la transición.</dc:description>
+<dc:description xml:lang="en">If you are pregnant with more than one baby, you are far from alone. Multiple births are up in the United States. More women are having babies after age 30 and more are taking fertility drugs. Both boost the chance of carrying more than one baby. A family history of twins also makes multiples more likely. Years ago, most twins came as a surprise. Now, most women know about a multiple pregnancy early. Women with multiple pregnancies should see their health care providers more often than women who are expecting one baby. Multiple pregnancy babies have a much higher risk of being born prematurely and having a low birth weight. There is also more of a risk of disabilities. Some women have to go on bed rest to delay labor. Finally, they may deliver by C-section, especially if there are three babies or more. Parenting multiples can be a challenge. Volunteer help and support groups for parents of multiples can help. Dept. of Health and Human Services Office on Women's Health</dc:description>
+<dc:subject dcterms="mesh">Pregnancy, Triplet</dc:subject>
+<dc:subject dcterms="mesh">Pregnancy, Twin</dc:subject>
+<dc:subject dcterms="mesh">Pregnancy, Quintuplet</dc:subject>
+<dc:subject dcterms="mesh">Pregnancy, Quadruplet</dc:subject>
+<dc:subject xml:lang="es">Gemelos</dc:subject>
+<dc:subject xml:lang="es">trillizos</dc:subject>
+<dc:subject xml:lang="es">nacimiento múltiple</dc:subject>
+<dc:subject xml:lang="es">Trillizos</dc:subject>
+<dc:subject xml:lang="es">Nacimiento múltiple</dc:subject>
+<dc:subject xml:lang="es">Mellizos</dc:subject>
+<dc:subject xml:lang="en">Twins</dc:subject>
+<dc:subject xml:lang="en">Triplets</dc:subject>
+<dc:subject xml:lang="en">Multiple Births</dc:subject>
+<dc:subject xml:lang="en">Triplets</dc:subject>
+<dc:subject xml:lang="en">Multiple Births</dc:subject>
+</metadata>
+</record>
+</MedlinePlus-document>

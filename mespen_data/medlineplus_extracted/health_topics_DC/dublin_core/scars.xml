@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<MedlinePlus-document>
+<record>
+<header>
+<identifier>https://medlineplus.gov/scars.html</identifier>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:type>Text</dc:type>
+<dc:language>spa</dc:language>
+<dc:language>eng</dc:language>
+<dc:title xml:lang="es">Cicatriz</dc:title>
+<dc:title xml:lang="en">Scars</dc:title>
+<dc:publisher>National Library of Medicine</dc:publisher>
+<dc:relation type="IsPartOf">Skin, Hair and Nails</dc:relation>
+<dc:date type="created">2003-05-12</dc:date>
+<dc:date type="modified">2017-03-21</dc:date>
+<dc:identifier type="URL" xml:lang="es">https://medlineplus.gov/spanish/scars.html</dc:identifier>
+<dc:identifier type="URL" xml:lang="en">https://medlineplus.gov/scars.html</dc:identifier>
+<dc:description xml:lang="es">Una cicatriz es un parche de piel permanente que crece sobre una herida. Se forma cuando el cuerpo se cura después de una cortadura, un raspón, una quemadura o una llaga. Las cicatrices también pueden resultar tras una cirugía donde se corte la piel, infecciones como la varicela o afecciones de la piel, como el acné. Las cicatrices suelen ser más gruesas, así como más rosadas, rojas o brillantes que el resto de la piel. La apariencia de sus cicatrices depende de: El tamaño y la profundidad de la herida Su localización El tiempo de curación Su edad Su tendencia hereditaria a la cicatrización Las cicatrices suelen desvanecerse con el tiempo, pero nunca desaparecen completamente. Si la apariencia de una cicatriz le molesta, hay varios tratamientos que pueden minimizarla. Entre ellos se encuentran la revisión quirúrgica, la dermoabrasión, los tratamientos con láser, las inyecciones, la eliminación de células muertas con productos químicos y las cremas.</dc:description>
+<dc:description xml:lang="en">A scar is a permanent patch of skin that grows over a wound. It forms when your body heals itself after a cut, scrape, burn, or sore. You can also get scars from surgery that cuts through the skin, infections like chickenpox, or skin conditions like acne. Scars are often thicker, as well as pinker, redder, or shinier, than the rest of your skin. How your scar looks depends on How big and deep your wound is Where it is How long it takes to heal Your age Your inherited tendency to scar Scars usually fade over time but never go away completely. If the way a scar looks bothers you, various treatments might minimize it. These include surgical revision, dermabrasion, laser treatments, injections, chemical peels, and creams.</dc:description>
+<dc:subject dcterms="mesh">Cicatrix</dc:subject>
+<dc:subject xml:lang="es">Cicatriz</dc:subject>
+<dc:subject xml:lang="en">Scars</dc:subject>
+<dc:subject xml:lang="en">Keloids</dc:subject>
+<dc:subject xml:lang="en">Cicatrix</dc:subject>
+<dc:subject xml:lang="en">Hypertrophic Scar</dc:subject>
+</metadata>
+</record>
+</MedlinePlus-document>

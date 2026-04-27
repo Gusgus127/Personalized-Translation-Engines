@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<MedlinePlus-document>
+<record>
+<header>
+<identifier>https://medlineplus.gov/uncommoninfantandnewbornproblems.html</identifier>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title type="alternate" xml:lang="es">Bebés, Problemas de salud poco comunes</dc:title>
+<dc:title type="alternate" xml:lang="es">Recién nacido, Problemas poco comunes</dc:title>
+<dc:type>Text</dc:type>
+<dc:language>spa</dc:language>
+<dc:language>eng</dc:language>
+<dc:title xml:lang="es">Problemas poco comunes de los recién nacidos</dc:title>
+<dc:title xml:lang="en">Uncommon Infant and Newborn Problems</dc:title>
+<dc:publisher>National Library of Medicine</dc:publisher>
+<dc:relation type="IsPartOf">Children and Teenagers</dc:relation>
+<dc:date type="created">2010-05-27</dc:date>
+<dc:date type="modified">2018-01-08</dc:date>
+<dc:identifier type="URL" xml:lang="es">https://medlineplus.gov/spanish/uncommoninfantandnewbornproblems.html</dc:identifier>
+<dc:identifier type="URL" xml:lang="en">https://medlineplus.gov/uncommoninfantandnewbornproblems.html</dc:identifier>
+<dc:description xml:lang="es">Asusta ver a su hijo enfermo, sobre todo si no es un problema común como un resfrío o fiebre. Usted quizás no sepa si el problema es serio o cómo tratarlo. Si le preocupa la salud de su bebé, llame a su proveedor de cuidados médicos inmediatamente. Aprender sobre la enfermedad de su bebé puede ayudarlo con su preocupación. No tenga miedo en preguntar sobre el cuidado de su bebé. Al trabajar en conjunto con su médico, usted asegura que su bebé está recibiendo el mejor cuidado posible.</dc:description>
+<dc:description xml:lang="en">It can be scary when your baby is sick, especially when it is not an everyday problem like a cold or a fever. You may not know whether the problem is serious or how to treat it. If you have concerns about your baby's health, call your health care provider right away. Learning information about your baby's condition can help ease your worry. Do not be afraid to ask questions about your baby's care. By working together with your health care provider, you make sure that your baby gets the best care possible.</dc:description>
+<dc:subject dcterms="mesh">Infant, Newborn, Diseases</dc:subject>
+<dc:subject xml:lang="es">Problemas poco comunes de los recién nacidos</dc:subject>
+<dc:subject xml:lang="es">Bebés</dc:subject>
+<dc:subject xml:lang="es">Problemas de salud poco comunes</dc:subject>
+<dc:subject xml:lang="es">Recién nacido</dc:subject>
+<dc:subject xml:lang="es">Problemas poco comunes</dc:subject>
+<dc:subject xml:lang="en">Uncommon Infant and Newborn Problems</dc:subject>
+</metadata>
+</record>
+</MedlinePlus-document>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<MedlinePlus-document>
+<record>
+<header>
+<identifier>https://medlineplus.gov/ureteraldisorders.html</identifier>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title type="alternate" xml:lang="es">Uréter, Trastornos del</dc:title>
+<dc:title type="alternate" xml:lang="es">Ureteral, Cáncer</dc:title>
+<dc:title type="alternate" xml:lang="en">Ureteral Cancer</dc:title>
+<dc:type>Text</dc:type>
+<dc:language>spa</dc:language>
+<dc:language>eng</dc:language>
+<dc:title xml:lang="es">Trastornos del uréter</dc:title>
+<dc:title xml:lang="en">Ureteral Disorders</dc:title>
+<dc:publisher>National Library of Medicine</dc:publisher>
+<dc:relation type="IsPartOf">Kidneys and Urinary System</dc:relation>
+<dc:date type="created">2010-01-08</dc:date>
+<dc:date type="modified">2017-09-05</dc:date>
+<dc:identifier type="URL" xml:lang="es">https://medlineplus.gov/spanish/ureteraldisorders.html</dc:identifier>
+<dc:identifier type="URL" xml:lang="en">https://medlineplus.gov/ureteraldisorders.html</dc:identifier>
+<dc:description xml:lang="es">Sus riñones forman la orina filtrando desechos y exceso de agua de su sangre. Su sangre lleva los desechos a los riñones. De los riñones, la orina pasa por dos tubos delgados llamados uréteres hacia la vejiga. Los uréteres miden entre 8 y 10 pulgadas (20 y 26 cm). Los músculos en las paredes de los uréteres se contraen y relajan para obligar a la orina a bajar y a alejarse de los riñones. Pequeñas cantidades de orina fluyen de los uréteres a la vejiga cada 10 a 15 segundos. Los problemas con los uréteres pueden surgir por obstrucción o lesión. Además, si la orina queda estancada o vuelve, usted puede contraer una infección urinaria. Los doctores diagnostican los problemas de los uréteres usando ciertos exámenes. Estos exámenes incluyen análisis de orina, rayos X y un examen con una sonda especial con una pequeña cámara en su extremo llamado cistoscopia. El tratamiento difiere dependiendo de la causa del problema. Puede incluir medicinas y, en casos severos, cirugía. NIH: Instituto Nacional de la Diabetes y las Enfermedades Digestivas y Renales</dc:description>
+<dc:description xml:lang="en">Your kidneys make urine by filtering wastes and extra water from your blood. The urine travels from the kidneys to the bladder in two thin tubes called ureters. The ureters are about 8 to 10 inches long. Muscles in the ureter walls tighten and relax to force urine down and away from the kidneys. Small amounts of urine flow from the ureters into the bladder about every 10 to 15 seconds. Sometimes the ureters can become blocked or injured. This can block the flow of urine to the bladder. If urine stands still or backs up the ureter, you may get a urinary tract infections. Doctors diagnose problems with the ureters using different tests. These include urine tests, x-rays, and examination of the ureter with a scope called a cystoscope. Treatment depends on the cause of the problem. It may include medicines and, in severe cases, surgery. NIH: National Institute of Diabetes and Digestive and Kidney Diseases</dc:description>
+<dc:subject dcterms="mesh">Ureteral Diseases</dc:subject>
+<dc:subject xml:lang="es">Trastornos del uréter</dc:subject>
+<dc:subject xml:lang="es">Uréter</dc:subject>
+<dc:subject xml:lang="es">Trastornos del</dc:subject>
+<dc:subject xml:lang="es">Ureteral</dc:subject>
+<dc:subject xml:lang="es">Cáncer</dc:subject>
+<dc:subject xml:lang="en">Ureteral Disorders</dc:subject>
+<dc:subject xml:lang="en">Ureteral Cancer</dc:subject>
+</metadata>
+</record>
+</MedlinePlus-document>

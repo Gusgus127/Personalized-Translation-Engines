@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<MedlinePlus-document>
+<record>
+<header>
+<identifier>https://medlineplus.gov/erectiledysfunction.html</identifier>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title type="alternate" xml:lang="es">Impotencia</dc:title>
+<dc:title type="alternate" xml:lang="es">Disfunción sexual en hombres</dc:title>
+<dc:title type="alternate" xml:lang="es">Erección, Problemas de</dc:title>
+<dc:title type="alternate" xml:lang="en">Impotence</dc:title>
+<dc:type>Text</dc:type>
+<dc:language>spa</dc:language>
+<dc:language>eng</dc:language>
+<dc:title xml:lang="es">Disfunción eréctil</dc:title>
+<dc:title xml:lang="en">Erectile Dysfunction</dc:title>
+<dc:publisher>National Library of Medicine</dc:publisher>
+<dc:relation type="IsPartOf">Male Reproductive System</dc:relation>
+<dc:relation type="IsPartOf">Seniors</dc:relation>
+<dc:relation type="IsPartOf">Men</dc:relation>
+<dc:relation type="IsPartOf">Sexual Health Issues</dc:relation>
+<dc:date type="created">2002-07-21</dc:date>
+<dc:date type="modified">2018-02-05</dc:date>
+<dc:identifier type="URL" xml:lang="es">https://medlineplus.gov/spanish/erectiledysfunction.html</dc:identifier>
+<dc:identifier type="URL" xml:lang="en">https://medlineplus.gov/erectiledysfunction.html</dc:identifier>
+<dc:description xml:lang="es">La disfunción eréctil (DE) es una disfunción sexual masculina común. Ocurre cuando se tiene dificultades para lograr o mantener una erección. Esta disfunción es más común a medida que se envejece pero no es parte natural del envejecimiento. A algunas personas les cuesta hablar de sexo con el médico. Pero si tiene DE, debe comunicárselo. La DE puede ser una señal de problemas de salud. Puede significar que los vasos sanguíneos están tapados. Puede indicar que tiene una lesión nerviosa causada por diabetes. Si no va al doctor, estos problemas no se van a ir por su cuenta. El médico puede ofrecerle varios tratamientos nuevos para la DE. Para muchos hombres la respuesta es tan simple como tomar una pastilla. Ejercitarse más, perder peso o dejar de fumar también puede ayudar. NIH: Instituto Nacional de la Diabetes y las Enfermedades Digestivas y Renales</dc:description>
+<dc:description xml:lang="en">Erectile dysfunction (ED) is a common type of male sexual dysfunction. It is when a man has trouble getting or keeping an erection. ED becomes more common as you get older. But it's not a natural part of aging. Some people have trouble speaking with their doctors about sex. But if you have ED, you should tell your doctor. ED can be a sign of health problems. It may mean your blood vessels are clogged. It may mean you have nerve damage from diabetes. If you don't see your doctor, these problems will go untreated. Your doctor can offer several new treatments for ED. For many men, the answer is as simple as taking a pill. Getting more exercise, losing weight, or stopping smoking may also help. NIH: National Institute of Diabetes and Digestive and Kidney Diseases</dc:description>
+<dc:subject dcterms="mesh">Erectile Dysfunction</dc:subject>
+<dc:subject xml:lang="es">Disfunción eréctil</dc:subject>
+<dc:subject xml:lang="es">Impotencia</dc:subject>
+<dc:subject xml:lang="es">Disfunción sexual en hombres</dc:subject>
+<dc:subject xml:lang="es">Erección</dc:subject>
+<dc:subject xml:lang="es">Problemas de</dc:subject>
+<dc:subject xml:lang="en">Erectile Dysfunction</dc:subject>
+<dc:subject xml:lang="en">Impotence</dc:subject>
+</metadata>
+</record>
+</MedlinePlus-document>

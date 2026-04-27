@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<MedlinePlus-document>
+<record>
+<header>
+<identifier>https://medlineplus.gov/foodallergy.html</identifier>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title type="alternate" xml:lang="es">Comidas, Alergia</dc:title>
+<dc:title type="alternate" xml:lang="es">Alimentos, Alergia</dc:title>
+<dc:title type="alternate" xml:lang="es">Alergia alimentaria</dc:title>
+<dc:title type="alternate" xml:lang="es">Alergia a las comidas</dc:title>
+<dc:title type="alternate" xml:lang="en">Milk Allergy</dc:title>
+<dc:title type="alternate" xml:lang="en">Allergy, Food</dc:title>
+<dc:title type="alternate" xml:lang="en">Nut Allergy</dc:title>
+<dc:title type="alternate" xml:lang="en">Peanut Allergy</dc:title>
+<dc:title type="alternate" xml:lang="en">Egg Allergy</dc:title>
+<dc:title type="alternate" xml:lang="en">Wheat Allergy</dc:title>
+<dc:title type="alternate" xml:lang="en">Shellfish Allergy</dc:title>
+<dc:type>Text</dc:type>
+<dc:language>spa</dc:language>
+<dc:language>eng</dc:language>
+<dc:title xml:lang="es">Alergia a los alimentos</dc:title>
+<dc:title xml:lang="en">Food Allergy</dc:title>
+<dc:publisher>National Library of Medicine</dc:publisher>
+<dc:relation type="IsPartOf">Immune System</dc:relation>
+<dc:relation type="IsPartOf">Food and Nutrition</dc:relation>
+<dc:date type="created">2002-07-21</dc:date>
+<dc:date type="modified">2018-01-25</dc:date>
+<dc:identifier type="URL" xml:lang="es">https://medlineplus.gov/spanish/foodallergy.html</dc:identifier>
+<dc:identifier type="URL" xml:lang="en">https://medlineplus.gov/foodallergy.html</dc:identifier>
+<dc:description xml:lang="es">La alergia a las comidas es una respuesta anormal a un alimento desencadenada por el sistema inmunitario del cuerpo. En adultos, los alimentos que desencadenan más reacciones alérgicas son: pescado, mariscos, maní y frutas secas como las nueces. En los niños, pueden ser los huevos, leche, maní, frutas secas, soja y trigo. Los síntomas de una alergia a un alimento incluyen: Picazón e hinchazón de la boca Vómito, diarrea o cólicos abdominales y dolor Sarpullido o eccema Sentir la garganta apretada y dificultad para respirar Disminución de la presión sanguínea Para diagnosticar la alergia a un alimento, su proveedor de cuidados de salud podría usar la historia clínica de la persona, una dieta donde se eliminen los alimentos que posiblemente estén causando la alergia y exámenes de la piel y de sangre. Si una persona sabe que tiene alergia a un alimento, debe estar preparada para lidiar con una exposición accidental a la misma. Puede ayudar usar un brazalete o collar con información sobre la alergia y llevar consigo una inyección de epinefrina (adrenalina). Sólo se pueden prevenir los síntomas de una reacción alérgica evitando el alimento que los cause. Una vez que la persona y su proveedor de atención médica hayan identificado el alimento al que la persona es sensible, estos tienen que ser retirados de su dieta. NIH: Instituto Nacional de Alergias y Enfermedades Infecciosas</dc:description>
+<dc:description xml:lang="en">Food allergy is an abnormal response to a food triggered by your body's immune system. In adults, the foods that most often trigger allergic reactions include fish, shellfish, peanuts, and tree nuts, such as walnuts. Problem foods for children can include eggs, milk, peanuts, tree nuts, soy, and wheat. The allergic reaction may be mild. In rare cases it can cause a severe reaction called anaphylaxis. Symptoms of food allergy include Itching or swelling in your mouth Vomiting, diarrhea, or abdominal cramps and pain Hives or eczema Tightening of the throat and trouble breathing Drop in blood pressure Your health care provider may use a detailed history, elimination diet, and skin and blood tests to diagnose a food allergy. When you have food allergies, you must be prepared to treat an accidental exposure. Wear a medical alert bracelet or necklace, and carry an auto-injector device containing epinephrine (adrenaline). You can only prevent the symptoms of food allergy by avoiding the food. After you and your health care provider have identified the foods to which you are sensitive, you must remove them from your diet. NIH: National Institute of Allergy and Infectious Diseases</dc:description>
+<dc:subject dcterms="mesh">Food Hypersensitivity</dc:subject>
+<dc:subject xml:lang="es">Alergia a los alimentos</dc:subject>
+<dc:subject xml:lang="es">Comidas</dc:subject>
+<dc:subject xml:lang="es">Alergia</dc:subject>
+<dc:subject xml:lang="es">Alimentos</dc:subject>
+<dc:subject xml:lang="es">Alergia</dc:subject>
+<dc:subject xml:lang="es">Alergia alimentaria</dc:subject>
+<dc:subject xml:lang="es">Alergia a las comidas</dc:subject>
+<dc:subject xml:lang="en">Food Allergy</dc:subject>
+<dc:subject xml:lang="en">Milk Allergy</dc:subject>
+<dc:subject xml:lang="en">Allergy</dc:subject>
+<dc:subject xml:lang="en">Food</dc:subject>
+<dc:subject xml:lang="en">Nut Allergy</dc:subject>
+<dc:subject xml:lang="en">Peanut Allergy</dc:subject>
+<dc:subject xml:lang="en">Egg Allergy</dc:subject>
+<dc:subject xml:lang="en">Wheat Allergy</dc:subject>
+<dc:subject xml:lang="en">Shellfish Allergy</dc:subject>
+</metadata>
+</record>
+</MedlinePlus-document>

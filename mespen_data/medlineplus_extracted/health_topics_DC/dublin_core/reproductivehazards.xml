@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<MedlinePlus-document>
+<record>
+<header>
+<identifier>https://medlineplus.gov/reproductivehazards.html</identifier>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title type="alternate" xml:lang="es">Reproductiva, Salud</dc:title>
+<dc:title type="alternate" xml:lang="es">Ovulación</dc:title>
+<dc:title type="alternate" xml:lang="es">Salud reproductiva</dc:title>
+<dc:title type="alternate" xml:lang="en">Pregnancy Hazards</dc:title>
+<dc:type>Text</dc:type>
+<dc:language>spa</dc:language>
+<dc:language>eng</dc:language>
+<dc:title xml:lang="es">Riesgos para el sistema reproductivo</dc:title>
+<dc:title xml:lang="en">Reproductive Hazards</dc:title>
+<dc:publisher>National Library of Medicine</dc:publisher>
+<dc:relation type="IsPartOf">Men</dc:relation>
+<dc:relation type="IsPartOf">Male Reproductive System</dc:relation>
+<dc:relation type="IsPartOf">Women</dc:relation>
+<dc:relation type="IsPartOf">Female Reproductive System</dc:relation>
+<dc:relation type="IsPartOf">Pregnancy and Reproduction</dc:relation>
+<dc:relation type="IsPartOf">Sexual Health Issues</dc:relation>
+<dc:date type="created">2002-07-21</dc:date>
+<dc:date type="modified">2018-01-25</dc:date>
+<dc:identifier type="URL" xml:lang="es">https://medlineplus.gov/spanish/reproductivehazards.html</dc:identifier>
+<dc:identifier type="URL" xml:lang="en">https://medlineplus.gov/reproductivehazards.html</dc:identifier>
+<dc:description xml:lang="es">Tanto el aparato reproductor femenino como el masculino cumplen un papel en el embarazo. La exposición a ciertas sustancias o agentes puede causar problemas al sistema reproductivo y pueden afectar la fertilidad y la posibilidad de tener un bebé. Algunos riesgos para la reproducción incluyen: Radiación Metales como el plomo y el mercurio Químicos como pesticidas Cigarrillos Algunos virus Alcohol En los hombres, estar expuesto a un riesgo para el sistema reproductor puede afectar el esperma. En las mujeres, un riesgo puede causar diferentes efectos durante el embarazo, dependiendo del tiempo de exposición al mismo. Si la afecta durante los primeros tres meses del embarazo, este riesgo puede causar un defecto congénito o de nacimiento o un aborto espontáneo. Si la afecta durante los últimos seis meses, puede retrasar el crecimiento del feto, afectar el desarrollo de su cerebro o llevar a un parto prematuro.</dc:description>
+<dc:description xml:lang="en">Both the male and female reproductive systems play a role in pregnancy. Problems with these systems can affect fertility and the ability to have children. Something that affects reproductive health is called a reproductive hazard. Examples include: Radiation Metals such as lead and mercury Chemicals such as pesticides Cigarettes Some viruses Alcohol For men, a reproductive hazard can affect the sperm. For a woman, a reproductive hazard can cause different effects during pregnancy, depending on when she is exposed. During the first 3 months of pregnancy, it might cause a birth defect or a miscarriage. During the last 6 months of pregnancy, it could slow the growth of the fetus, affect the development of its brain, or cause premature labor.</dc:description>
+<dc:subject dcterms="mesh">Maternal Exposure</dc:subject>
+<dc:subject dcterms="mesh">Paternal Exposure</dc:subject>
+<dc:subject xml:lang="es">Riesgos para el sistema reproductivo</dc:subject>
+<dc:subject xml:lang="es">Reproductiva</dc:subject>
+<dc:subject xml:lang="es">Salud</dc:subject>
+<dc:subject xml:lang="es">Ovulación</dc:subject>
+<dc:subject xml:lang="es">Salud reproductiva</dc:subject>
+<dc:subject xml:lang="en">Reproductive Hazards</dc:subject>
+<dc:subject xml:lang="en">Pregnancy Hazards</dc:subject>
+</metadata>
+</record>
+</MedlinePlus-document>

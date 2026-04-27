@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<MedlinePlus-document>
+<record>
+<header>
+<identifier>https://medlineplus.gov/alzheimersdisease.html</identifier>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title type="alternate" xml:lang="es">Alzheimer, Enfermedad de</dc:title>
+<dc:type>Text</dc:type>
+<dc:language>spa</dc:language>
+<dc:language>eng</dc:language>
+<dc:title xml:lang="es">Enfermedad de Alzheimer</dc:title>
+<dc:title xml:lang="en">Alzheimer's Disease</dc:title>
+<dc:publisher>National Library of Medicine</dc:publisher>
+<dc:relation type="IsPartOf">Mental Health and Behavior</dc:relation>
+<dc:relation type="IsPartOf">Brain and Nerves</dc:relation>
+<dc:relation type="IsPartOf">Seniors</dc:relation>
+<dc:date type="created">2002-07-21</dc:date>
+<dc:date type="modified">2018-02-07</dc:date>
+<dc:identifier type="URL" xml:lang="es">https://medlineplus.gov/spanish/alzheimersdisease.html</dc:identifier>
+<dc:identifier type="URL" xml:lang="en">https://medlineplus.gov/alzheimersdisease.html</dc:identifier>
+<dc:description xml:lang="es">La enfermedad de Alzheimer es la forma más común de demencia entre las personas mayores. La demencia es un trastorno cerebral que afecta gravemente la capacidad de una persona de llevar a cabo sus actividades diarias. El Alzheimer comienza lentamente. Primero afecta las partes del cerebro que controlan el pensamiento, la memoria y el lenguaje. Las personas con el mal pueden tener dificultades para recordar cosas que ocurrieron en forma reciente o los nombres de personas que conocen. Un problema relacionado, el deterioro cognitivo leve, causa más problemas de memoria que los normales en personas de la misma edad. Muchos, pero no toda la gente con deterioro cognitivo leve, desarrollarán Alzheimer. Con el tiempo, los síntomas del Alzheimer empeoran. Las personas pueden no reconocer a sus familiares. Pueden tener dificultades para hablar, leer o escribir. Pueden olvidar cómo cepillarse los dientes o peinarse el cabello. Más adelante, pueden volverse ansiosos o agresivos o deambular lejos de su casa. Finalmente, necesitan cuidados totales. Esto puede ser muy estresante para los familiares que deben encargarse de sus cuidados. El Alzheimer suele comenzar después de los 60 años. El riesgo aumenta a medida que la persona envejece. El riesgo es mayor si hay personas en la familia que tuvieron la enfermedad. Ningún tratamiento puede detener la enfermedad. Sin embargo, algunos fármacos pueden ayudar a impedir por un tiempo limitado que los síntomas empeoren. NIH: Instituto Nacional sobre el Envejecimiento</dc:description>
+<dc:description xml:lang="en">Alzheimer's disease (AD) is the most common form of dementia among older people. Dementia is a brain disorder that seriously affects a person's ability to carry out daily activities. AD begins slowly. It first involves the parts of the brain that control thought, memory and language. People with AD may have trouble remembering things that happened recently or names of people they know. A related problem, mild cognitive impairment (MCI), causes more memory problems than normal for people of the same age. Many, but not all, people with MCI will develop AD. In AD, over time, symptoms get worse. People may not recognize family members. They may have trouble speaking, reading or writing. They may forget how to brush their teeth or comb their hair. Later on, they may become anxious or aggressive, or wander away from home. Eventually, they need total care. This can cause great stress for family members who must care for them. AD usually begins after age 60. The risk goes up as you get older. Your risk is also higher if a family member has had the disease. No treatment can stop the disease. However, some drugs may help keep symptoms from getting worse for a limited time. NIH: National Institute on Aging</dc:description>
+<dc:subject dcterms="mesh">Alzheimer Vaccines</dc:subject>
+<dc:subject dcterms="mesh">Alzheimer Disease</dc:subject>
+<dc:subject xml:lang="es">Enfermedad de Alzheimer</dc:subject>
+<dc:subject xml:lang="es">Alzheimer</dc:subject>
+<dc:subject xml:lang="es">Enfermedad de</dc:subject>
+<dc:subject xml:lang="en">Alzheimer's Disease</dc:subject>
+</metadata>
+</record>
+</MedlinePlus-document>

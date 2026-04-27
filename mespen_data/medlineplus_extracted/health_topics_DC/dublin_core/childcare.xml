@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<MedlinePlus-document>
+<record>
+<header>
+<identifier>https://medlineplus.gov/childcare.html</identifier>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title type="alternate" xml:lang="es">Niños, Cuidado de los niños cuando los padres trabajan</dc:title>
+<dc:title type="alternate" xml:lang="es">Niños, Cuidados fuera del hogar</dc:title>
+<dc:title type="alternate" xml:lang="es">Jardín de infantes</dc:title>
+<dc:title type="alternate" xml:lang="es">Jardines maternales</dc:title>
+<dc:title type="alternate" xml:lang="es">Niñeras</dc:title>
+<dc:title type="alternate" xml:lang="es">Au pair</dc:title>
+<dc:type>Text</dc:type>
+<dc:language>spa</dc:language>
+<dc:language>eng</dc:language>
+<dc:title xml:lang="es">Guardería infantil</dc:title>
+<dc:title xml:lang="en">Child Care</dc:title>
+<dc:publisher>National Library of Medicine</dc:publisher>
+<dc:relation type="IsPartOf">Children and Teenagers</dc:relation>
+<dc:date type="created">2002-07-21</dc:date>
+<dc:date type="modified">2018-01-30</dc:date>
+<dc:identifier type="URL" xml:lang="es">https://medlineplus.gov/spanish/childcare.html</dc:identifier>
+<dc:identifier type="URL" xml:lang="en">https://medlineplus.gov/childcare.html</dc:identifier>
+<dc:description xml:lang="es">El desarrollo saludable de los niños depende de las experiencias seguras y positivas que tengan cuando son muy pequeños. Si trabaja o estudia, quiere asegurarse de que su hijo está en buenas manos mientras usted no está con él. Puede escoger el cuidado en su hogar, en el que una persona va a su casa para hacerse cargo del niño. Otra alternativa es llevar al niño a la casa de la persona que va a cuidarlo. Finalmente, existen las guarderías. Usted debe escoger la que funcione mejor para su familia. Es importante conocer a las personas que cuidarán a su hijo. Ellos serán una parte importante de la vida del niño. La capacitación de la persona a cargo del cuidado de un niño debe incluir: Conocimiento acerca del aprendizaje y el crecimiento de los niños pequeños Disciplina coherente y positiva Conocimiento de los signos que indican que el niño está enfermo Prácticas de limpieza y seguridad para evitar que los niños se enfermen o se lastimen Primeros auxilios básicos</dc:description>
+<dc:description xml:lang="en">Children's healthy development depends on safe and positive experiences when they are very young. If you work or go to school, you want to know that your child is in good hands while you are away. You may choose in-home care, where the caregiver comes to your home. Or your child might go to the caregiver's home. Finally, there are child care centers. You need to choose the one that works for your family. It is important to get to know your child's caregivers. They will be a big part of your child's life. The caregiver's training should involve Knowledge of how young children learn and grow Positive, consistent discipline Knowledge of the signs that a child is sick Cleanliness and safety practices to help keep kids from getting sick or hurt Basic first aid</dc:description>
+<dc:subject dcterms="mesh">Child Day Care Centers</dc:subject>
+<dc:subject dcterms="mesh">Child Care</dc:subject>
+<dc:subject xml:lang="es">Guardería infantil</dc:subject>
+<dc:subject xml:lang="es">Niños</dc:subject>
+<dc:subject xml:lang="es">Cuidado de los niños cuando los padres trabajan</dc:subject>
+<dc:subject xml:lang="es">Niños</dc:subject>
+<dc:subject xml:lang="es">Cuidados fuera del hogar</dc:subject>
+<dc:subject xml:lang="es">Jardín de infantes</dc:subject>
+<dc:subject xml:lang="es">Jardines maternales</dc:subject>
+<dc:subject xml:lang="es">Niñeras</dc:subject>
+<dc:subject xml:lang="es">Au pair</dc:subject>
+<dc:subject xml:lang="en">Child Care</dc:subject>
+</metadata>
+</record>
+</MedlinePlus-document>

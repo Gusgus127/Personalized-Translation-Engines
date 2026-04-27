@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<MedlinePlus-document>
+<record>
+<header>
+<identifier>https://medlineplus.gov/birdflu.html</identifier>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title type="alternate" xml:lang="es">Pollo, Gripe</dc:title>
+<dc:title type="alternate" xml:lang="es">Gripe del pollo</dc:title>
+<dc:title type="alternate" xml:lang="en">Avian Influenza</dc:title>
+<dc:type>Text</dc:type>
+<dc:language>spa</dc:language>
+<dc:language>eng</dc:language>
+<dc:title xml:lang="es">Gripe aviar</dc:title>
+<dc:title xml:lang="en">Bird Flu</dc:title>
+<dc:publisher>National Library of Medicine</dc:publisher>
+<dc:relation type="IsPartOf">Lungs and Breathing</dc:relation>
+<dc:relation type="IsPartOf">Infections</dc:relation>
+<dc:date type="created">2006-03-21</dc:date>
+<dc:date type="modified">2017-02-17</dc:date>
+<dc:identifier type="URL" xml:lang="es">https://medlineplus.gov/spanish/birdflu.html</dc:identifier>
+<dc:identifier type="URL" xml:lang="en">https://medlineplus.gov/birdflu.html</dc:identifier>
+<dc:description xml:lang="es">Los pájaros, al igual que las personas, contraen la gripe. Los virus de la gripe aviar infectan aves, incluyendo pollos, aves de corral y aves silvestres como patos. Por lo general, los virus de la gripe aviar sólo infectan a otras aves. Es raro que las personas se infecten con el virus de la gripe aviar, pero puede suceder. Dos tipos, H5N1 y H7N9, han infectado a algunas personas durante brotes en Asia, África, el Pacífico, Medio Oriente y partes de Europa. También han ocurrido algunos casos raros de otros tipos de gripe aviar que afectaron a personas en Estados Unidos. La mayoría de las personas que contraen la gripe aviar han estado en contacto cercano con aves infectadas o con superficies que han sido contaminadas por la saliva, mucosas o excrementos de las aves. También es posible contagiarse al respirar gotas o polvo que contienen el virus. Rara vez el virus se ha propagado de una persona a otra. También puede ser posible contraer la gripe aviar comiendo aves de corral o huevos que no están bien cocidos. La enfermedad de la gripe aviar en personas puede variar de leve a grave. A menudo, los síntomas son similares a la gripe estacional, por ejemplo: Tos Dolor de garganta Catarro o congestión nasal Dolores musculares o musculares Fatiga Dolores de cabeza Enrojecimiento de los ojos (o conjuntivitis) Problemas para respirar En algunos casos, la gripe aviar puede causar complicaciones graves y la muerte. Al igual que con la gripe estacional, algunas personas tienen un mayor riesgo de contraer la enfermedad grave, incluyendo mujeres embarazadas, personas con sistemas inmunitarios debilitados y adultos mayores de 65 años o más. El tratamiento con medicamentos antivirales puede hacer que la enfermedad sea menos grave. También puede ayudar a prevenir la gripe en personas que fueron expuestas a ella. Actualmente no existe vacuna disponible para el público. El gobierno tiene un suministro de una vacuna para el virus de gripe aviar tipo H5N1 y podría distribuirlo en el caso de un brote que se propague fácilmente de persona a persona. Centros para el Control y la Prevención de Enfermedades</dc:description>
+<dc:description xml:lang="en">Birds, just like people, get the flu. Bird flu viruses infect birds, including chickens, other poultry, and wild birds such as ducks. Usually bird flu viruses only infect other birds. It is rare for people to get infected with bird flu viruses, but it can happen. Two types, H5N1 and H7N9, have infected some people during outbreaks in Asia, Africa, the Pacific, the Middle East, and parts of Europe. There have also been some rare cases of other types of bird flu affecting people in the United States. Most of the people who get bird flu have had close contact with infected birds or with surfaces that have been contaminated by the birds' saliva, mucous, or droppings. It is also possible to get it by breathing in droplets or dust that contain the virus. Rarely, the virus has spread from one person to another. It may also be possible to catch bird flu by eating poultry or eggs that are not well cooked. Bird flu illness in people can range from mild to severe. Often, the symptoms are similar to the seasonal flu, such as Fever Cough Sore throat Runny or stuffy nose Muscle or body aches Fatigue Headaches Eye redness (or conjunctivitis) Difficulty breathing In some cases, bird flu can cause serious complications and death. As with seasonal flu, some people are at higher risk for serious illness. They include pregnant women, people with weakened immune systems, and seniors aged 65 and older. Treatment with antiviral medicines may make the illness less severe. They may also help prevent the flu in people who were exposed to it. There is currently no vaccine available to the public. The government does have a supply of a vaccine for one type of H5N1 bird flu virus and could distribute it if there was an outbreak that spread easily from person to person. Centers for Disease Control and Prevention</dc:description>
+<dc:subject dcterms="mesh">Influenza A Virus, H7N9 Subtype</dc:subject>
+<dc:subject dcterms="mesh">Influenza in Birds</dc:subject>
+<dc:subject dcterms="mesh">Influenza A Virus, H5N1 Subtype</dc:subject>
+<dc:subject xml:lang="es">Gripe aviar</dc:subject>
+<dc:subject xml:lang="es">Pollo</dc:subject>
+<dc:subject xml:lang="es">Gripe</dc:subject>
+<dc:subject xml:lang="es">Gripe del pollo</dc:subject>
+<dc:subject xml:lang="en">Bird Flu</dc:subject>
+<dc:subject xml:lang="en">Avian Influenza</dc:subject>
+</metadata>
+</record>
+</MedlinePlus-document>

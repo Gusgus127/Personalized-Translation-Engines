@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<MedlinePlus-document>
+<record>
+<header>
+<identifier>https://medlineplus.gov/anesthesia.html</identifier>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:type>Text</dc:type>
+<dc:language>spa</dc:language>
+<dc:language>eng</dc:language>
+<dc:title xml:lang="es">Anestesia</dc:title>
+<dc:title xml:lang="en">Anesthesia</dc:title>
+<dc:publisher>National Library of Medicine</dc:publisher>
+<dc:relation type="IsPartOf">Surgery and Rehabilitation</dc:relation>
+<dc:date type="created">2002-07-21</dc:date>
+<dc:date type="modified">2018-01-03</dc:date>
+<dc:identifier type="URL" xml:lang="es">https://medlineplus.gov/spanish/anesthesia.html</dc:identifier>
+<dc:identifier type="URL" xml:lang="en">https://medlineplus.gov/anesthesia.html</dc:identifier>
+<dc:description xml:lang="es">Si va a someterse a una cirugía, el médico le aplicará un medicamento llamado anestesia. Los anestésicos disminuyen o evitan que sienta dolor. Existen tres tipos principales: Local: Entumece una pequeña área del cuerpo. Usted permanece despierto y alerta Regional: Bloquea el dolor en un área del cuerpo, como un brazo o pierna. Un tipo común es la anestesia epidural, que se usa en forma frecuente en partos General: Lo vuelve inconsciente. Usted no siente ningún dolor, y después no recuerda la intervención quirúrgica Usted también puede recibir un sedativo leve para que se relaje. Usted permanecerá despierto pero puede no recordar el procedimiento. La sedación puede o no ser usada con anestesia. El tipo de anestesia que el médico decida utilizar dependerá de muchos factores. Estos incluyen el tipo de intervención quirúrgica que se va a realizar y el estado de salud actual del paciente.</dc:description>
+<dc:description xml:lang="en">If you are having surgery, your doctor will give you medicine called an anesthetic. Anesthetics reduce or prevent pain. There are three main types: Local - numbs one small area of the body. You stay awake and alert. Regional - blocks pain in an area of the body, such an arm or leg. A common type is epidural anesthesia, which is often used during childbirth. General - makes you unconscious. You do not feel any pain, and you do not remember the procedure afterwards. You may also get a mild sedative to relax you. You stay awake but may not remember the procedure afterwards. Sedation can be used with or without anesthesia. The type of anesthesia or sedation you get depends on many factors. They include the procedure you are having and your current health.</dc:description>
+<dc:subject dcterms="mesh">Anesthesia</dc:subject>
+<dc:subject xml:lang="es">Anestesia</dc:subject>
+<dc:subject xml:lang="en">Anesthesia</dc:subject>
+</metadata>
+</record>
+</MedlinePlus-document>

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<MedlinePlus-document>
+<record>
+<header>
+<identifier>https://medlineplus.gov/colorectalcancer.html</identifier>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title type="alternate" xml:lang="es">Cáncer del recto</dc:title>
+<dc:title type="alternate" xml:lang="es">Colorrectal, Cáncer</dc:title>
+<dc:title type="alternate" xml:lang="es">Recto, Cáncer del</dc:title>
+<dc:title type="alternate" xml:lang="es">Colon, Cáncer</dc:title>
+<dc:title type="alternate" xml:lang="es">Cáncer colorrectal</dc:title>
+<dc:title type="alternate" xml:lang="en">Colon Cancer</dc:title>
+<dc:title type="alternate" xml:lang="en">Rectal Cancer</dc:title>
+<dc:type>Text</dc:type>
+<dc:language>spa</dc:language>
+<dc:language>eng</dc:language>
+<dc:title xml:lang="es">Cáncer del colon y del recto</dc:title>
+<dc:title xml:lang="en">Colorectal Cancer</dc:title>
+<dc:publisher>National Library of Medicine</dc:publisher>
+<dc:relation type="IsPartOf">Cancers</dc:relation>
+<dc:relation type="IsPartOf">Digestive System</dc:relation>
+<dc:date type="created">2002-07-21</dc:date>
+<dc:date type="modified">2017-11-30</dc:date>
+<dc:identifier type="URL" xml:lang="es">https://medlineplus.gov/spanish/colorectalcancer.html</dc:identifier>
+<dc:identifier type="URL" xml:lang="en">https://medlineplus.gov/colorectalcancer.html</dc:identifier>
+<dc:description xml:lang="es">El colon y el recto son partes del intestino grueso. El cáncer colorrectal se produce cuando tumores se forman en el revestimiento del intestino grueso. Es común tanto en hombres como en mujeres. El riesgo de desarrollarlo aumenta después de los 50 años. Se tienen más probabilidades de desarrollarlo si tiene pólipos en el colon, antecedentes familiares de cáncer colorrectal, colitis ulcerativa o la enfermedad de Crohn, comer una dieta alta en grasa o fumar. Los síntomas del cáncer colorrectal incluyen: Diarrea o estreñimiento Sensación que su intestino no se vacía por completo Sangre en las heces (ya sea muy roja y brillante o muy oscura) Heces más delgadas de lo normal Dolores o calambres frecuentes por gases, o sensación de llenura o hinchazón Pérdida de peso sin razón conocida Fatiga Náuseas o vómitos Debido a que usted puede no presentar síntomas al principio, es importante contar con pruebas de detección. Toda persona mayor de 50 años debe hacerse un examen. Las pruebas incluyen la colonoscopía y pruebas de sangre en las heces. Los tratamientos para el cáncer colorrectal incluyen cirugía, quimioterapia, radiación o una combinación de ellas. Generalmente, la cirugía puede curarlo cuando se detecta a tiempo. NIH: Instituto Nacional del Cáncer</dc:description>
+<dc:description xml:lang="en">The colon and rectum are part of the large intestine. Colorectal cancer occurs when tumors form in the lining of the large intestine. It is common in both men and women. The risk of developing colorectal cancer rises after age 50. You're also more likely to get it if you have colorectal polyps, a family history of colorectal cancer, ulcerative colitis or Crohn's disease, eat a diet high in fat, or smoke. Symptoms of colorectal cancer include Diarrhea or constipation A feeling that your bowel does not empty completely Blood (either bright red or very dark) in your stool Stools that are narrower than usual Frequent gas pains or cramps, or feeling full or bloated Weight loss with no known reason Fatigue Nausea or vomiting Because you may not have symptoms at first, it's important to have screening tests. Everyone over 50 should get screened. Tests include colonoscopy and tests for blood in the stool. Treatments for colorectal cancer include surgery, chemotherapy, radiation, or a combination. Surgery can usually cure it when it is found early. NIH: National Cancer Institute</dc:description>
+<dc:subject dcterms="mesh">Colorectal Neoplasms</dc:subject>
+<dc:subject xml:lang="es">Cáncer del colon y del recto</dc:subject>
+<dc:subject xml:lang="es">Cáncer del recto</dc:subject>
+<dc:subject xml:lang="es">Colorrectal</dc:subject>
+<dc:subject xml:lang="es">Cáncer</dc:subject>
+<dc:subject xml:lang="es">Recto</dc:subject>
+<dc:subject xml:lang="es">Cáncer del</dc:subject>
+<dc:subject xml:lang="es">Colon</dc:subject>
+<dc:subject xml:lang="es">Cáncer</dc:subject>
+<dc:subject xml:lang="es">Cáncer colorrectal</dc:subject>
+<dc:subject xml:lang="en">Colorectal Cancer</dc:subject>
+<dc:subject xml:lang="en">Colon Cancer</dc:subject>
+<dc:subject xml:lang="en">Rectal Cancer</dc:subject>
+</metadata>
+</record>
+</MedlinePlus-document>

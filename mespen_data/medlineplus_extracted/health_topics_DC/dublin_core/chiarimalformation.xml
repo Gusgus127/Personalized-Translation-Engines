@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<MedlinePlus-document>
+<record>
+<header>
+<identifier>https://medlineplus.gov/chiarimalformation.html</identifier>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title type="alternate" xml:lang="es">Chiari, Malformación</dc:title>
+<dc:title type="alternate" xml:lang="es">Arnold-Chiari, Malformaciones</dc:title>
+<dc:title type="alternate" xml:lang="en">Arnold-Chiari Malformation</dc:title>
+<dc:type>Text</dc:type>
+<dc:language>spa</dc:language>
+<dc:language>eng</dc:language>
+<dc:title xml:lang="es">Malformaciones de Chiari</dc:title>
+<dc:title xml:lang="en">Chiari Malformation</dc:title>
+<dc:publisher>National Library of Medicine</dc:publisher>
+<dc:relation type="IsPartOf">Brain and Nerves</dc:relation>
+<dc:relation type="IsPartOf">Genetics/Birth Defects</dc:relation>
+<dc:date type="created">2013-10-22</dc:date>
+<dc:date type="modified">2017-11-02</dc:date>
+<dc:identifier type="URL" xml:lang="es">https://medlineplus.gov/spanish/chiarimalformation.html</dc:identifier>
+<dc:identifier type="URL" xml:lang="en">https://medlineplus.gov/chiarimalformation.html</dc:identifier>
+<dc:description xml:lang="es">Las malformaciones de Chiari son defectos en la estructura del cerebelo. El cerebelo es la parte del cerebro encargado del equilibrio. En estas malformaciones, el tejido cerebral se extiende dentro del canal espinal. Esto puede suceder cuando el cráneo es más pequeño de lo normal causando que el tejido cerebral sea empujado hacia abajo. Existen varios tipos de malformaciones de Chiari. Un tipo ocurre en niños con defectos del tubo neural. Algunos tipos no causan ningún síntoma y no necesitan tratamiento. Si se presentaran síntomas, estos pueden incluir: Dolor de cuello Problemas de equilibrio Adormecimiento u otros síntomas no comunes en los brazos y piernas Mareo Problemas de visión Dificultar para tragar Problemas en la coordinación de las manos Los doctores diagnostican esta condición por medio de exámenes por imágenes. Algunos medicamentos pueden aliviar los síntomas y el dolor. La cirugía es el único tratamiento disponible para corregir o detener la progresión del daño a los nervios. NIH: Instituto Nacional de Trastornos Neurológicos y Accidentes Cerebrovasculares</dc:description>
+<dc:description xml:lang="en">Chiari malformations (CMs) are structural defects in the cerebellum. The cerebellum is the part of the brain that controls balance. With CM, brain tissue extends into the spinal canal. It can happen when part of the skull is too small, which pushes the brain tissue down. There are several types of CM. One type often happens in children who have neural tube defects. Some types cause no symptoms and don't need treatment. If you have symptoms, they may include Neck pain Balance problems Numbness or other abnormal feelings in the arms or legs Dizziness Vision problems Difficulty swallowing Poor hand coordination Doctors diagnose CM using imaging tests. Medicines may ease some symptoms, such as pain. Surgery is the only treatment available to correct or stop the progression of nerve damage. NIH: National Institute of Neurological Disorders and Stroke</dc:description>
+<dc:subject dcterms="mesh">Arnold-Chiari Malformation</dc:subject>
+<dc:subject xml:lang="es">Malformaciones de Chiari</dc:subject>
+<dc:subject xml:lang="es">Chiari</dc:subject>
+<dc:subject xml:lang="es">Malformación</dc:subject>
+<dc:subject xml:lang="es">Arnold-Chiari</dc:subject>
+<dc:subject xml:lang="es">Malformaciones</dc:subject>
+<dc:subject xml:lang="en">Chiari Malformation</dc:subject>
+<dc:subject xml:lang="en">Arnold-Chiari Malformation</dc:subject>
+</metadata>
+</record>
+</MedlinePlus-document>

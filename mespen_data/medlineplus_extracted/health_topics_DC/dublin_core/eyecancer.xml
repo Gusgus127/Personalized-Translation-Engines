@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<MedlinePlus-document>
+<record>
+<header>
+<identifier>https://medlineplus.gov/eyecancer.html</identifier>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title type="alternate" xml:lang="es">Retinoblastoma</dc:title>
+<dc:title type="alternate" xml:lang="es">Melanoma intraocular</dc:title>
+<dc:title type="alternate" xml:lang="es">Ojo, Cáncer de</dc:title>
+<dc:title type="alternate" xml:lang="en">Retinoblastoma</dc:title>
+<dc:title type="alternate" xml:lang="en">Intraocular Melanoma</dc:title>
+<dc:type>Text</dc:type>
+<dc:language>spa</dc:language>
+<dc:language>eng</dc:language>
+<dc:title xml:lang="es">Cáncer de ojo</dc:title>
+<dc:title xml:lang="en">Eye Cancer</dc:title>
+<dc:publisher>National Library of Medicine</dc:publisher>
+<dc:relation type="IsPartOf">Cancers</dc:relation>
+<dc:relation type="IsPartOf">Eyes and Vision</dc:relation>
+<dc:date type="created">2002-07-21</dc:date>
+<dc:date type="modified">2017-08-24</dc:date>
+<dc:identifier type="URL" xml:lang="es">https://medlineplus.gov/spanish/eyecancer.html</dc:identifier>
+<dc:identifier type="URL" xml:lang="en">https://medlineplus.gov/eyecancer.html</dc:identifier>
+<dc:description xml:lang="es">El cáncer de ojo es poco común. Puede afectar las partes externas del ojo, como los párpados, que están formados por músculos, piel y nervios. Si comienza en el interior del globo ocular se denomina cáncer intraocular. Los cánceres intraoculares más comunes en adultos son el melanoma y el linfoma. El cáncer de ojo más común en los niños es el retinoblastoma, que comienza en las células de la retina. El cáncer también puede diseminarse desde el ojo hasta otras partes del cuerpo. El tratamiento del cáncer de ojo varía según el tipo y el estado en el que se encuentre. Puede incluir cirugía, radioterapia, terapia con calor o frío o tratamiento con rayos láser.</dc:description>
+<dc:description xml:lang="en">Cancer of the eye is uncommon. It can affect the outer parts of the eye, such as the eyelid, which are made up of muscles, skin and nerves. If the cancer starts inside the eyeball it's called intraocular cancer. The most common intraocular cancers in adults are melanoma and lymphoma. The most common eye cancer in children is retinoblastoma, which starts in the cells of the retina. Cancer can also spread to the eye from other parts of the body. Treatment for eye cancer varies by the type and by how advanced it is. It may include surgery, radiation therapy, freezing or heat therapy, or laser therapy.</dc:description>
+<dc:subject dcterms="mesh">Eye Neoplasms</dc:subject>
+<dc:subject xml:lang="es">Cáncer de ojo</dc:subject>
+<dc:subject xml:lang="es">Retinoblastoma</dc:subject>
+<dc:subject xml:lang="es">Melanoma intraocular</dc:subject>
+<dc:subject xml:lang="es">Ojo</dc:subject>
+<dc:subject xml:lang="es">Cáncer de</dc:subject>
+<dc:subject xml:lang="en">Eye Cancer</dc:subject>
+<dc:subject xml:lang="en">Retinoblastoma</dc:subject>
+<dc:subject xml:lang="en">Intraocular Melanoma</dc:subject>
+</metadata>
+</record>
+</MedlinePlus-document>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<MedlinePlus-document>
+<record>
+<header>
+<identifier>https://medlineplus.gov/suicide.html</identifier>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:type>Text</dc:type>
+<dc:language>spa</dc:language>
+<dc:language>eng</dc:language>
+<dc:title xml:lang="es">Suicidio</dc:title>
+<dc:title xml:lang="en">Suicide</dc:title>
+<dc:publisher>National Library of Medicine</dc:publisher>
+<dc:relation type="IsPartOf">Mental Health and Behavior</dc:relation>
+<dc:relation type="IsPartOf">Social/Family Issues</dc:relation>
+<dc:date type="created">2002-07-21</dc:date>
+<dc:date type="modified">2017-08-07</dc:date>
+<dc:identifier type="URL" xml:lang="es">https://medlineplus.gov/spanish/suicide.html</dc:identifier>
+<dc:identifier type="URL" xml:lang="en">https://medlineplus.gov/suicide.html</dc:identifier>
+<dc:description xml:lang="es">El suicidio es la décima causa de muerte más común en los Estados Unidos. Las personas pueden pensar en suicidarse cuando pierden las esperanzas y no encuentran otra solución a sus problemas. A menudo se relaciona con una depresión seria, abuso de alcohol o de sustancias o a un acontecimiento estresante de magnitud. Las personas que corren el mayor riesgo de suicidio son los hombres de raza blanca. Pero las mujeres y los adolescentes tienen la mayor cantidad de intentos de suicidio. Si alguien habla sobre suicidio, debe tomarlo seriamente. Ínstelos a buscar ayuda de su médico, en la sala de emergencias o llame a la Red Nacional de Prevención del Suicidio al 1-888-628-9454. Funciona las 24 horas. La terapia y las medicinas pueden ayudar a la mayoría de las personas que piensan en suicidarse. El tratamiento tanto de las enfermedades mentales como del abuso de sustancias pueden disminuir el riesgo de suicidio. NIH: Instituto Nacional de la Salud Mental</dc:description>
+<dc:description xml:lang="en">Suicide is the tenth most common cause of death in the United States. People may consider suicide when they are hopeless and can't see any other solution to their problems. Often it's related to serious depression, alcohol or substance abuse, or a major stressful event. People who have the highest risk of suicide are white men. But women and teens report more suicide attempts. If someone talks about suicide, you should take it seriously. Urge them to get help from their doctor or the emergency room, or call the National Suicide Prevention Lifeline at 1-800-273-TALK (8255). It is available 24/7. Therapy and medicines can help most people who have suicidal thoughts. Treating mental illnesses and substance abuse can reduce the risk of suicide. NIH: National Institute of Mental Health</dc:description>
+<dc:subject dcterms="mesh">Suicidal Ideation</dc:subject>
+<dc:subject dcterms="mesh">Suicide</dc:subject>
+<dc:subject xml:lang="es">Suicidio</dc:subject>
+<dc:subject xml:lang="en">Suicide</dc:subject>
+</metadata>
+</record>
+</MedlinePlus-document>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<MedlinePlus-document>
+<record>
+<header>
+<identifier>https://medlineplus.gov/ovariancancer.html</identifier>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title type="alternate" xml:lang="es">Ovario, Cáncer de</dc:title>
+<dc:type>Text</dc:type>
+<dc:language>spa</dc:language>
+<dc:language>eng</dc:language>
+<dc:title xml:lang="es">Cáncer de ovario</dc:title>
+<dc:title xml:lang="en">Ovarian Cancer</dc:title>
+<dc:publisher>National Library of Medicine</dc:publisher>
+<dc:relation type="IsPartOf">Cancers</dc:relation>
+<dc:relation type="IsPartOf">Female Reproductive System</dc:relation>
+<dc:relation type="IsPartOf">Endocrine System</dc:relation>
+<dc:relation type="IsPartOf">Women</dc:relation>
+<dc:date type="created">2002-07-21</dc:date>
+<dc:date type="modified">2018-01-08</dc:date>
+<dc:identifier type="URL" xml:lang="es">https://medlineplus.gov/spanish/ovariancancer.html</dc:identifier>
+<dc:identifier type="URL" xml:lang="en">https://medlineplus.gov/ovariancancer.html</dc:identifier>
+<dc:description xml:lang="es">Los ovarios son órganos que forman parte del sistema reproductivo de la mujer. Ellos son los que producen óvulos y hormonas femeninas. Cada ovario tiene aproximadamente el tamaño y la forma de una almendra. Este tipo de cáncer no es común pero causa más muertes que otros cánceres del sistema reproductivo femenino. Cuanto más temprano es diagnosticado y tratado, mejores son las probabilidades de recuperación. Pero el cáncer de ovario es difícil de detectar temprano. Las mujeres que lo padecen no tienen síntomas hasta que la enfermedad está ya muy avanzada y en ese momento es difícil de tratar. Los síntomas pueden ser: Sensación de peso en la pelvis Dolor en la parte baja del abdomen Hemorragias vaginales Aumento o pérdida de peso Períodos menstruales anormales Dolor de espalda sin explicación que empeora Gases, náusea, vómitos o pérdida del apetito Para diagnosticar este cáncer los médicos practican uno o más exámenes. Estos pueden ser: examen físico, examen pélvico, análisis de laboratorio, ecografías o una biopsia. El tratamiento suele ser cirugía seguida por quimioterapia. NIH: Instituto Nacional del Cáncer</dc:description>
+<dc:description xml:lang="en">The ovaries are part of the female reproductive system. They produce a woman's eggs and female hormones. Each ovary is about the size and shape of an almond. Cancer of the ovary is not common, but it causes more deaths than other female reproductive cancers. The sooner ovarian cancer is found and treated, the better your chance for recovery. But ovarian cancer is hard to detect early. Women with ovarian cancer may have no symptoms or just mild symptoms until the disease is in an advanced stage. Then it is hard to treat. Symptoms may include A heavy feeling in the pelvis Pain in the lower abdomen Bleeding from the vagina Weight gain or loss Abnormal periods Unexplained back pain that gets worse Gas, nausea, vomiting, or loss of appetite To diagnose ovarian cancer, doctors do one or more tests. They include a physical exam, a pelvic exam, lab tests, ultrasound, or a biopsy. Treatment is usually surgery followed by chemotherapy. NIH: National Cancer Institute</dc:description>
+<dc:subject dcterms="mesh">Ovarian Neoplasms</dc:subject>
+<dc:subject xml:lang="es">Cáncer de ovario</dc:subject>
+<dc:subject xml:lang="es">Ovario</dc:subject>
+<dc:subject xml:lang="es">Cáncer de</dc:subject>
+<dc:subject xml:lang="en">Ovarian Cancer</dc:subject>
+</metadata>
+</record>
+</MedlinePlus-document>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<MedlinePlus-document>
+<record>
+<header>
+<identifier>https://medlineplus.gov/elderabuse.html</identifier>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title type="alternate" xml:lang="es">Abuso del anciano</dc:title>
+<dc:title type="alternate" xml:lang="en">Violence</dc:title>
+<dc:title type="alternate" xml:lang="en">Abuse</dc:title>
+<dc:type>Text</dc:type>
+<dc:language>spa</dc:language>
+<dc:language>eng</dc:language>
+<dc:title xml:lang="es">Maltrato al anciano</dc:title>
+<dc:title xml:lang="en">Elder Abuse</dc:title>
+<dc:publisher>National Library of Medicine</dc:publisher>
+<dc:relation type="IsPartOf">Seniors</dc:relation>
+<dc:relation type="IsPartOf">Injuries and Wounds</dc:relation>
+<dc:relation type="IsPartOf">Social/Family Issues</dc:relation>
+<dc:date type="created">2005-01-06</dc:date>
+<dc:date type="modified">2017-12-04</dc:date>
+<dc:identifier type="URL" xml:lang="es">https://medlineplus.gov/spanish/elderabuse.html</dc:identifier>
+<dc:identifier type="URL" xml:lang="en">https://medlineplus.gov/elderabuse.html</dc:identifier>
+<dc:description xml:lang="es">Muchos adultos mayores son víctimas de abusos. Este maltrato a una persona mayor es por lo general de parte de un cuidador. Puede ocurrir dentro de la familia. También puede ocurrir en centros especiales para adultos mayores o residencias de ancianos. El maltrato puede ser: Abuso físico, sexual y emocional Negligencia o abandono Abuso financiero: El robo de dinero o pertenencias Posibles signos de maltrato a personas mayores incluyen moretones inexplicables, quemaduras y lesiones. También pueden haber úlceras por presión y falta de higiene. La persona puede parecer ausente, agitada y deprimida. Puede haber un cambio repentino en la situación financiera de la persona. El abuso de ancianos no se detendrá por sí solo. Alguien tiene que intervenir y ayudar. Si usted piensa que una persona mayor se encuentra en peligro, llame al 9-1-1. De lo contrario, contacte a los servicios de protección para adultos. NIH: Instituto Nacional sobre el Envejecimiento</dc:description>
+<dc:description xml:lang="en">Many older people are victims of elder abuse. It is the mistreatment of an older person, usually by a caregiver. It can happen within the family. It can also happen in assisted living facilities or nursing homes. The mistreatment may be Physical, sexual, or emotional abuse Neglect or abandonment Financial abuse - stealing of money or belongings Possible signs of elder abuse include unexplained bruises, burns, and injuries. There may also be bed sores and poor hygiene. The person may become withdrawn, agitated, and depressed. There may be a sudden change in the person's financial situation. Elder abuse will not stop on its own. Someone else needs to step in and help. If you think that an older person is in urgent danger, call 9-1-1. Otherwise, contact adult protective services. NIH: National Institute on Aging</dc:description>
+<dc:subject dcterms="mesh">Elder Abuse</dc:subject>
+<dc:subject xml:lang="es">Maltrato al anciano</dc:subject>
+<dc:subject xml:lang="es">Abuso del anciano</dc:subject>
+<dc:subject xml:lang="en">Elder Abuse</dc:subject>
+<dc:subject xml:lang="en">Violence</dc:subject>
+<dc:subject xml:lang="en">Abuse</dc:subject>
+</metadata>
+</record>
+</MedlinePlus-document>

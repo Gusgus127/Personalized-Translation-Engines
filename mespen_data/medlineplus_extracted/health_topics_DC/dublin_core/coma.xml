@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<MedlinePlus-document>
+<record>
+<header>
+<identifier>https://medlineplus.gov/coma.html</identifier>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title type="alternate" xml:lang="es">Estado vegetativo</dc:title>
+<dc:title type="alternate" xml:lang="en">Persistent Vegetative State</dc:title>
+<dc:type>Text</dc:type>
+<dc:language>spa</dc:language>
+<dc:language>eng</dc:language>
+<dc:title xml:lang="es">Coma</dc:title>
+<dc:title xml:lang="en">Coma</dc:title>
+<dc:publisher>National Library of Medicine</dc:publisher>
+<dc:relation type="IsPartOf">Brain and Nerves</dc:relation>
+<dc:date type="created">2010-07-06</dc:date>
+<dc:date type="modified">2018-01-19</dc:date>
+<dc:identifier type="URL" xml:lang="es">https://medlineplus.gov/spanish/coma.html</dc:identifier>
+<dc:identifier type="URL" xml:lang="en">https://medlineplus.gov/coma.html</dc:identifier>
+<dc:description xml:lang="es">El coma es un estado profundo de inconsciencia. Una persona en coma está viva pero incapaz de moverse o responder a su entorno. El estado de coma se puede presentar como una complicación de una enfermedad subyacente o como resultado de lesiones, tales como traumatismo del cráneo. El estado de coma rara vez dura más de 2 a 4 semanas. El resultado depende de la causa, la severidad y sitio de la lesión. La gente puede salir de un coma con problemas físicos, intelectuales y psicológicos. Algunas personas pueden permanecer en coma durante años o incluso décadas. Para esa gente, la causa de muerte más común es una infección, como una neumonía. NIH: Instituto Nacional de Trastornos Neurológicos y Accidentes Cerebrovasculares</dc:description>
+<dc:description xml:lang="en">A coma is a deep state of unconsciousness. An individual in a coma is alive but unable to move or respond to his or her environment. Coma may occur as a complication of an underlying illness, or as a result of injuries, such as brain injury. A coma rarely lasts more than 2 to 4 weeks. The outcome for coma depends on the cause, severity, and site of the damage. People may come out of a coma with physical, intellectual, and psychological problems. Some people may remain in a coma for years or even decades. For those people, the most common cause of death is infection, such as pneumonia. NIH: National Institute of Neurological Disorders and Stroke</dc:description>
+<dc:subject dcterms="mesh">Persistent Vegetative State</dc:subject>
+<dc:subject dcterms="mesh">Coma</dc:subject>
+<dc:subject xml:lang="es">Coma</dc:subject>
+<dc:subject xml:lang="es">Estado vegetativo</dc:subject>
+<dc:subject xml:lang="en">Coma</dc:subject>
+<dc:subject xml:lang="en">Persistent Vegetative State</dc:subject>
+</metadata>
+</record>
+</MedlinePlus-document>

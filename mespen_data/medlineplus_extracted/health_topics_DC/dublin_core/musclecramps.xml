@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<MedlinePlus-document>
+<record>
+<header>
+<identifier>https://medlineplus.gov/musclecramps.html</identifier>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title type="alternate" xml:lang="es">Espasmos musculares</dc:title>
+<dc:title type="alternate" xml:lang="en">Cramps</dc:title>
+<dc:title type="alternate" xml:lang="en">Charley Horse</dc:title>
+<dc:title type="alternate" xml:lang="en">Leg Cramps</dc:title>
+<dc:type>Text</dc:type>
+<dc:language>spa</dc:language>
+<dc:language>eng</dc:language>
+<dc:title xml:lang="es">Calambre muscular</dc:title>
+<dc:title xml:lang="en">Muscle Cramps</dc:title>
+<dc:publisher>National Library of Medicine</dc:publisher>
+<dc:relation type="IsPartOf">Bones, Joints and Muscles</dc:relation>
+<dc:date type="created">2002-12-30</dc:date>
+<dc:date type="modified">2017-09-27</dc:date>
+<dc:identifier type="URL" xml:lang="es">https://medlineplus.gov/spanish/musclecramps.html</dc:identifier>
+<dc:identifier type="URL" xml:lang="en">https://medlineplus.gov/musclecramps.html</dc:identifier>
+<dc:description xml:lang="es">Los calambres musculares son contracciones o espasmos súbitos, involuntarios en uno o más músculos. Generalmente ocurren después del ejercicio o por la noche y duran desde algunos segundos hasta varios minutos. Es un problema muscular muy común. Los calambres musculares pueden ser causados por el mal funcionamiento de algunos nervios. Algunas veces, este mal funcionamiento se debe a un problema de salud, tales como una lesión de la médula espinal o a un nervio pinzado en el cuello o la espalda. Otras causas son: Distensiones o exceso de uso de un músculo Deshidratación Falta de minerales en la dieta o desgaste de minerales en el cuerpo Llegada insuficiente de sangre a los músculos Los calambres pueden ser muy dolorosos. El estiramiento o el masaje suave sobre el músculo pueden aliviar el dolor.</dc:description>
+<dc:description xml:lang="en">Muscle cramps are sudden, involuntary contractions or spasms in one or more of your muscles. They often occur after exercise or at night, lasting a few seconds to several minutes. It is a very common muscle problem. Muscle cramps can be caused by nerves that malfunction. Sometimes this malfunction is due to a health problem, such as a spinal cord injury or a pinched nerve in the neck or back. Other causes are Straining or overusing a muscle Dehydration A lack of minerals in your diet or the depletion of minerals in your body Not enough blood getting to your muscles Cramps can be very painful. Stretching or gently massaging the muscle can relieve this pain.</dc:description>
+<dc:subject dcterms="mesh">Muscle Cramp</dc:subject>
+<dc:subject xml:lang="es">Calambre muscular</dc:subject>
+<dc:subject xml:lang="es">Espasmos musculares</dc:subject>
+<dc:subject xml:lang="en">Muscle Cramps</dc:subject>
+<dc:subject xml:lang="en">Cramps</dc:subject>
+<dc:subject xml:lang="en">Charley Horse</dc:subject>
+<dc:subject xml:lang="en">Leg Cramps</dc:subject>
+</metadata>
+</record>
+</MedlinePlus-document>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<MedlinePlus-document>
+<record>
+<header>
+<identifier>https://medlineplus.gov/infectioncontrol.html</identifier>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:type>Text</dc:type>
+<dc:language>spa</dc:language>
+<dc:language>eng</dc:language>
+<dc:title xml:lang="es">Medidas para el control de infecciones</dc:title>
+<dc:title xml:lang="en">Infection Control</dc:title>
+<dc:publisher>National Library of Medicine</dc:publisher>
+<dc:relation type="IsPartOf">Safety Issues</dc:relation>
+<dc:relation type="IsPartOf">Infections</dc:relation>
+<dc:date type="created">2003-02-20</dc:date>
+<dc:date type="modified">2017-09-12</dc:date>
+<dc:identifier type="URL" xml:lang="es">https://medlineplus.gov/spanish/infectioncontrol.html</dc:identifier>
+<dc:identifier type="URL" xml:lang="en">https://medlineplus.gov/infectioncontrol.html</dc:identifier>
+<dc:description xml:lang="es">Cada año mueren personas por la diseminación de infecciones en los hospitales. Quienes trabajan en la atención de salud pueden tomar medidas para evitar la diseminación de las enfermedades infecciosas. Estas medidas son parte del control de las infecciones. Lavarse las manos correctamente es la forma más eficaz para prevenir que la propagación ocurra. Si es un paciente, no tema recordarles a sus amigos, familiares y profesionales de la salud que se laven las manos antes de acercarse a usted. Otras medidas que los profesionales de la salud pueden tomar incluyen: Cubrirse la boca al toser o estornudar Mantener sus vacunas al día Usar guantes, mascarillas y ropas protectoras Tener a mano pañuelos desechables y limpiadores de manos Seguir las normas del hospital cuando se lidie con sangre o artículos contaminados</dc:description>
+<dc:description xml:lang="en">Every year, lives are lost because of the spread of infections in hospitals. Health care workers can take steps to prevent the spread of infectious diseases. These steps are part of infection control. Proper hand washing is the most effective way to prevent the spread of infections in hospitals. If you are a patient, don't be afraid to remind friends, family and health care providers to wash their hands before getting close to you. Other steps health care workers can take include Covering coughs and sneezes Staying up-to-date with immunizations Using gloves, masks and protective clothing Making tissues and hand cleaners available Following hospital guidelines when dealing with blood or contaminated items</dc:description>
+<dc:subject dcterms="mesh">Infection Control</dc:subject>
+<dc:subject xml:lang="es">Medidas para el control de infecciones</dc:subject>
+<dc:subject xml:lang="en">Infection Control</dc:subject>
+<dc:subject xml:lang="en">Universal Precautions</dc:subject>
+<dc:subject xml:lang="en">Blood-Borne Pathogens</dc:subject>
+</metadata>
+</record>
+</MedlinePlus-document>

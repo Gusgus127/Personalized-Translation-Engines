@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<MedlinePlus-document>
+<record>
+<header>
+<identifier>https://medlineplus.gov/toothdisorders.html</identifier>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title type="alternate" xml:lang="es">Dientes, Trastornos</dc:title>
+<dc:title type="alternate" xml:lang="es">Placa</dc:title>
+<dc:title type="alternate" xml:lang="en">Root Canal</dc:title>
+<dc:title type="alternate" xml:lang="en">Teeth</dc:title>
+<dc:title type="alternate" xml:lang="en">Bruxism</dc:title>
+<dc:title type="alternate" xml:lang="en">Impacted Tooth</dc:title>
+<dc:type>Text</dc:type>
+<dc:language>spa</dc:language>
+<dc:language>eng</dc:language>
+<dc:title xml:lang="es">Trastornos dentales</dc:title>
+<dc:title xml:lang="en">Tooth Disorders</dc:title>
+<dc:publisher>National Library of Medicine</dc:publisher>
+<dc:relation type="IsPartOf">Mouth and Teeth</dc:relation>
+<dc:date type="created">2003-02-20</dc:date>
+<dc:date type="modified">2018-01-03</dc:date>
+<dc:identifier type="URL" xml:lang="es">https://medlineplus.gov/spanish/toothdisorders.html</dc:identifier>
+<dc:identifier type="URL" xml:lang="en">https://medlineplus.gov/toothdisorders.html</dc:identifier>
+<dc:description xml:lang="es">Los dientes están formados por un material duro, similar al hueso. Dentro de los dientes hay nervios y vasos sanguíneos. Los dientes son necesarios para muchas actividades que usted da por un hecho. Entre ellas se incluyen comer, hablar e inclusive, sonreír. Pero los problemas en los dientes no son para reírse. Incluyen problemas como las caries, las infecciones y los traumatismos. El síntoma más común de un problema dental es el dolor de un diente. Otros incluyen el desgaste o la caída de los dientes. Es importante que si tiene problemas en los dientes vea a un dentista. Afortunadamente, muchos trastornos dentales pueden prevenirse mediante el cuidado y la limpieza de los dientes.</dc:description>
+<dc:description xml:lang="en">Your teeth are made of a hard, bonelike material. Inside the tooth are nerves and blood vessels. You need your teeth for many activities you may take for granted. These include eating, speaking and even smiling. But tooth disorders are nothing to smile about. They include problems such as cavities (also known as tooth decay), infections, and injuries. The most familiar symptom of a tooth problem is a toothache. Others include worn-down or loose teeth. It's important that you see a dentist if you have any problems with your teeth. Fortunately, you can prevent many tooth disorders by taking care of your teeth and keeping them clean.</dc:description>
+<dc:subject dcterms="mesh">Tooth Diseases</dc:subject>
+<dc:subject xml:lang="es">Trastornos dentales</dc:subject>
+<dc:subject xml:lang="es">Dientes</dc:subject>
+<dc:subject xml:lang="es">Trastornos</dc:subject>
+<dc:subject xml:lang="es">Placa</dc:subject>
+<dc:subject xml:lang="en">Tooth Disorders</dc:subject>
+<dc:subject xml:lang="en">Root Canal</dc:subject>
+<dc:subject xml:lang="en">Teeth</dc:subject>
+<dc:subject xml:lang="en">Bruxism</dc:subject>
+<dc:subject xml:lang="en">Impacted Tooth</dc:subject>
+</metadata>
+</record>
+</MedlinePlus-document>

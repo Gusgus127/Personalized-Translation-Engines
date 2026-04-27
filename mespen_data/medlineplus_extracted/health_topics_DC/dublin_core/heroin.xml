@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<MedlinePlus-document>
+<record>
+<header>
+<identifier>https://medlineplus.gov/heroin.html</identifier>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title type="alternate" xml:lang="es">Opio</dc:title>
+<dc:title type="alternate" xml:lang="es">Abuso de heroína</dc:title>
+<dc:title type="alternate" xml:lang="en">Opiates</dc:title>
+<dc:type>Text</dc:type>
+<dc:language>spa</dc:language>
+<dc:language>eng</dc:language>
+<dc:title xml:lang="es">Heroína</dc:title>
+<dc:title xml:lang="en">Heroin</dc:title>
+<dc:publisher>National Library of Medicine</dc:publisher>
+<dc:relation type="IsPartOf">Substance Abuse Problems</dc:relation>
+<dc:date type="created">2002-07-21</dc:date>
+<dc:date type="modified">2017-11-08</dc:date>
+<dc:identifier type="URL" xml:lang="es">https://medlineplus.gov/spanish/heroin.html</dc:identifier>
+<dc:identifier type="URL" xml:lang="en">https://medlineplus.gov/heroin.html</dc:identifier>
+<dc:description xml:lang="es">La heroína es un polvo blanco o marrón o una sustancia pegajosa negra. Es una droga opioide proveniente de la morfina, una sustancia natural en el capullo de la amapola o adormidera asiática. Se puede mezclar con agua y se inyecta con una aguja. La heroína también puede ser fumada o inhalada por la nariz. Todas estas formas de consumir heroína la envían al cerebro muy rápido, lo que la hace muy adictiva. Los principales problemas de salud de la heroína incluyen abortos espontáneos, infecciones del corazón y muerte por sobredosis. Las personas que se inyectan la droga también corren el riesgo de contraer enfermedades infecciosas, incluyendo el VIH/SIDA y la hepatitis. El uso regular de la heroína puede conducir a su tolerancia. Esto significa que los usuarios necesitan más cantidad de la droga para tener el mismo efecto. Las dosis altas generan con el tiempo dependencia a la heroína. Si los usuarios dependientes dejan la droga, tienen síntomas de abstinencia. Estos incluyen agitación, dolor muscular y óseo, diarrea, vómitos y escalofríos con "piel de gallina". NIH: Instituto Nacional sobre el Abuso de Drogas</dc:description>
+<dc:description xml:lang="en">Heroin is a white or brown powder or a black, sticky goo. It's an opioid drug made from morphine, a natural substance in the seedpod of the Asian poppy plant. It can be mixed with water and injected with a needle. Heroin can also be smoked or snorted up the nose. All of these ways of taking heroin send it to the brain very quickly. This makes it very addictive. Major health problems from heroin include miscarriages, heart infections, and death from overdose. People who inject the drug also risk getting infectious diseases, including HIV/AIDS and hepatitis. Regular use of heroin can lead to tolerance. This means users need more and more drug to have the same effect. At higher doses over time, the body becomes dependent on heroin. If dependent users stop heroin, they have withdrawal symptoms. These symptoms include restlessness, muscle and bone pain, diarrhea and vomiting, and cold flashes with goose bumps. NIH: National Institute on Drug Abuse</dc:description>
+<dc:subject dcterms="mesh">Heroin Dependence</dc:subject>
+<dc:subject xml:lang="es">Heroína</dc:subject>
+<dc:subject xml:lang="es">Opio</dc:subject>
+<dc:subject xml:lang="es">Abuso de heroína</dc:subject>
+<dc:subject xml:lang="en">Heroin</dc:subject>
+<dc:subject xml:lang="en">Opiates</dc:subject>
+</metadata>
+</record>
+</MedlinePlus-document>

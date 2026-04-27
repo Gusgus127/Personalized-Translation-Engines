@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<MedlinePlus-document>
+<record>
+<header>
+<identifier>https://medlineplus.gov/backpain.html</identifier>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title type="alternate" xml:lang="es">Espalda, Dolor de</dc:title>
+<dc:title type="alternate" xml:lang="en">Pain, Back</dc:title>
+<dc:title type="alternate" xml:lang="en">Low Back Pain</dc:title>
+<dc:title type="alternate" xml:lang="en">Lumbago</dc:title>
+<dc:type>Text</dc:type>
+<dc:language>spa</dc:language>
+<dc:language>eng</dc:language>
+<dc:title xml:lang="es">Dolor de espalda</dc:title>
+<dc:title xml:lang="en">Back Pain</dc:title>
+<dc:publisher>National Library of Medicine</dc:publisher>
+<dc:relation type="IsPartOf">Bones, Joints and Muscles</dc:relation>
+<dc:relation type="IsPartOf">Brain and Nerves</dc:relation>
+<dc:date type="created">2002-07-21</dc:date>
+<dc:date type="modified">2018-01-19</dc:date>
+<dc:identifier type="URL" xml:lang="es">https://medlineplus.gov/spanish/backpain.html</dc:identifier>
+<dc:identifier type="URL" xml:lang="en">https://medlineplus.gov/backpain.html</dc:identifier>
+<dc:description xml:lang="es">Si alguna vez dijo "¡Ay, qué dolor de espalda!", usted no está solo. El dolor de espalda es uno de los problemas médicos más comunes y afecta a ocho de cada 10 personas en algún momento de sus vidas. El dolor de espalda puede variar desde un dolor sordo, constante, hasta un dolor súbito e intenso. El dolor de espalda agudo aparece repentinamente y suele durar algunos días o semanas. El dolor de espalda es crónico cuando dura más de tres meses. La mayoría de los dolores de espalda desaparecen espontáneamente, aunque pueden demorar algún tiempo. Los analgésicos de venta libre y el reposo pueden ayudar. Sin embargo, permanecer en cama por más de uno o dos días puede empeorarlo. Si el dolor de espalda es severo o no mejora al cabo de tres días, debe llamar a un profesional de la salud. También debe buscar atención médica si presenta dolor de espalda después de una lesión. El tratamiento para el dolor de espalda depende de qué lo esté causando y qué tipo de dolor usted tenga. Puede incluir compresas frías o calientes, ejercicio, medicamentos, inyecciones, tratamientos complementarios y, a veces, cirugía. NIH: Instituto Nacional de Artritis y Enfermedades Musculoesqueléticas y de la Piel</dc:description>
+<dc:description xml:lang="en">If you've ever groaned, "Oh, my aching back!", you are not alone. Back pain is one of the most common medical problems, affecting 8 out of 10 people at some point during their lives. Back pain can range from a dull, constant ache to a sudden, sharp pain. Acute back pain comes on suddenly and usually lasts from a few days to a few weeks. Back pain is called chronic if it lasts for more than three months. Most back pain goes away on its own, though it may take awhile. Taking over-the-counter pain relievers and resting can help. However, staying in bed for more than 1 or 2 days can make it worse. If your back pain is severe or doesn't improve after three days, you should call your health care provider. You should also get medical attention if you have back pain following an injury. Treatment for back pain depends on what kind of pain you have, and what is causing it. It may include hot or cold packs, exercise, medicines, injections, complementary treatments, and sometimes surgery. NIH: National Institute of Arthritis and Musculoskeletal and Skin Diseases</dc:description>
+<dc:subject dcterms="mesh">Back Pain</dc:subject>
+<dc:subject xml:lang="es">Dolor de espalda</dc:subject>
+<dc:subject xml:lang="es">Espalda</dc:subject>
+<dc:subject xml:lang="es">Dolor de</dc:subject>
+<dc:subject xml:lang="en">Back Pain</dc:subject>
+<dc:subject xml:lang="en">Pain</dc:subject>
+<dc:subject xml:lang="en">Back</dc:subject>
+<dc:subject xml:lang="en">Low Back Pain</dc:subject>
+<dc:subject xml:lang="en">Lumbago</dc:subject>
+</metadata>
+</record>
+</MedlinePlus-document>

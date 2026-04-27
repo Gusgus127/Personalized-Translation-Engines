@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<MedlinePlus-document>
+<record>
+<header>
+<identifier>https://medlineplus.gov/underagedrinking.html</identifier>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title type="alternate" xml:lang="es">Adolescentes y el consumo de alcohol</dc:title>
+<dc:title type="alternate" xml:lang="es">Jóvenes y las bebidas alcohólicas</dc:title>
+<dc:title type="alternate" xml:lang="es">Alcohol, Menores de edad</dc:title>
+<dc:title type="alternate" xml:lang="en">Teenage Drinking</dc:title>
+<dc:title type="alternate" xml:lang="en">Alcohol and Youth</dc:title>
+<dc:type>Text</dc:type>
+<dc:language>spa</dc:language>
+<dc:language>eng</dc:language>
+<dc:title xml:lang="es">Alcohol y menores de edad</dc:title>
+<dc:title xml:lang="en">Underage Drinking</dc:title>
+<dc:publisher>National Library of Medicine</dc:publisher>
+<dc:relation type="IsPartOf">Children and Teenagers</dc:relation>
+<dc:relation type="IsPartOf">Substance Abuse Problems</dc:relation>
+<dc:date type="created">2002-07-21</dc:date>
+<dc:date type="modified">2017-09-26</dc:date>
+<dc:identifier type="URL" xml:lang="es">https://medlineplus.gov/spanish/underagedrinking.html</dc:identifier>
+<dc:identifier type="URL" xml:lang="en">https://medlineplus.gov/underagedrinking.html</dc:identifier>
+<dc:description xml:lang="es">El alcohol es la sustancia más abusada por los jóvenes en los Estados Unidos. Los jóvenes que beben alcohol están en un gran riesgo en cuanto a su salud y su seguridad. Es peligroso porque: Provoca muchas muertes y lesiones Puede conducir a malas decisiones sobre comportamientos riesgosos, como beber y conducir o tener relaciones sexuales sin protección Aumenta el riesgo de abuso físico y sexual Puede conducir a otros problemas, como dificultades en la escuela Puede interferir con el desarrollo del cerebro Aumenta el riesgo de problemas con el alcohol más tarde en la vida Los niños a menudo comienzan a beber para ser más populares o encajar con sus compañeros. Los padres pueden ayudar a sus hijos a evitar los problemas con el alcohol. Es importante la comunicación abierta y tener conversaciones sobre la bebida. Lo mismo el estar involucrado en la vida de su hijo. Busque ayuda para su hijo si sospecha que tiene un problema con la bebida. NIH: Instituto Nacional sobre el Abuso del Alcohol y Alcoholismo</dc:description>
+<dc:description xml:lang="en">Alcohol is the most widely abused substance among America's youth. Drinking by young people has big health and safety risks. It is dangerous because it Causes many deaths and injuries Can lead to poor decisions about engaging in risky behavior, such as drinking and driving or unprotected sex Increases the risk of physical and sexual assault Can lead to other problems, such as trouble in school May interfere with brain development Increases the risk of alcohol problems later in life Kids often begin drinking to look "cool" or fit in with their peers. Parents can help their kids avoid alcohol problems. Open communication and conversations about drinking are important. So is being involved in your child's life. Get help for your child if you suspect a drinking problem. NIH: National Institute on Alcohol Abuse and Alcoholism</dc:description>
+<dc:subject dcterms="mesh">Underage Drinking</dc:subject>
+<dc:subject dcterms="mesh">Alcohol Drinking</dc:subject>
+<dc:subject dcterms="mesh">Adolescent</dc:subject>
+<dc:subject xml:lang="es">Alcohol y menores de edad</dc:subject>
+<dc:subject xml:lang="es">Adolescentes y el consumo de alcohol</dc:subject>
+<dc:subject xml:lang="es">Jóvenes y las bebidas alcohólicas</dc:subject>
+<dc:subject xml:lang="es">Alcohol</dc:subject>
+<dc:subject xml:lang="es">Menores de edad</dc:subject>
+<dc:subject xml:lang="en">Underage Drinking</dc:subject>
+<dc:subject xml:lang="en">Teenage Drinking</dc:subject>
+<dc:subject xml:lang="en">Alcohol and Youth</dc:subject>
+</metadata>
+</record>
+</MedlinePlus-document>

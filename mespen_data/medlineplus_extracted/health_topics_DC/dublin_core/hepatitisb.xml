@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<MedlinePlus-document>
+<record>
+<header>
+<identifier>https://medlineplus.gov/hepatitisb.html</identifier>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:type>Text</dc:type>
+<dc:language>spa</dc:language>
+<dc:language>eng</dc:language>
+<dc:title xml:lang="es">Hepatitis B</dc:title>
+<dc:title xml:lang="en">Hepatitis B</dc:title>
+<dc:publisher>National Library of Medicine</dc:publisher>
+<dc:relation type="IsPartOf">Digestive System</dc:relation>
+<dc:relation type="IsPartOf">Infections</dc:relation>
+<dc:date type="created">2002-07-21</dc:date>
+<dc:date type="modified">2017-12-18</dc:date>
+<dc:identifier type="URL" xml:lang="es">https://medlineplus.gov/spanish/hepatitisb.html</dc:identifier>
+<dc:identifier type="URL" xml:lang="en">https://medlineplus.gov/hepatitisb.html</dc:identifier>
+<dc:description xml:lang="es">El hígado es el órgano más grande dentro de su cuerpo. Ayuda al organismo a digerir los alimentos, almacenar energía y eliminar las toxinas. La hepatitis es una inflamación del hígado. Un tipo, hepatitis B, es causado por el virus de la hepatitis B (VHB). La hepatitis B se contagia por contacto con sangre, semen u otro líquido de una persona infectada. Una mujer infectada puede contagiarle hepatitis B a su bebé durante el parto. La persona infectada con hepatitis B puede sentirse como si tuviera gripe. También puede tener ictericia, una coloración amarillenta de la piel y los ojos, orina de color oscuro y deposiciones pálidas. Algunas personas no presentan síntomas. Un análisis de sangre puede determinar si tiene el virus. La hepatitis B generalmente mejora por sí sola al cabo de unos meses. Si no mejora, se llama hepatitis B crónica, que dura toda la vida. Este puede conducir a la cicatrización del hígado, llamada cirrosis, insuficiencia hepática o cáncer de hígado. Existe una vacuna contra la hepatitis B. Requiere tres dosis. Todos los bebés deben vacunarse, pero los niños mayores y los adultos también pueden hacerlo. Si viaja a países donde la hepatitis B es común, debe aplicarse la vacuna. NIH: Instituto Nacional de la Diabetes y las Enfermedades Digestivas y Renales</dc:description>
+<dc:description xml:lang="en">Your liver is the largest organ inside your body. It helps your body digest food, store energy, and remove poisons. Hepatitis is an inflammation of the liver. One type, hepatitis B, is caused by the hepatitis B virus (HBV). Hepatitis B spreads by contact with an infected person's blood, semen, or other body fluid. An infected woman can give hepatitis B to her baby at birth. If you get HBV, you may feel as if you have the flu. You may also have jaundice, a yellowing of skin and eyes, dark-colored urine, and pale bowel movements. Some people have no symptoms at all. A blood test can tell if you have it. HBV usually gets better on its own after a few months. If it does not get better, it is called chronic HBV, which lasts a lifetime. Chronic HBV can lead to cirrhosis (scarring of the liver), liver failure, or liver cancer. There is a vaccine for HBV. It requires three shots. All babies should get the vaccine, but older children and adults can get it too. If you travel to countries where Hepatitis B is common, you should get the vaccine. NIH: National Institute of Diabetes and Digestive and Kidney Diseases</dc:description>
+<dc:subject dcterms="mesh">Hepatitis B</dc:subject>
+<dc:subject xml:lang="es">Hepatitis B</dc:subject>
+<dc:subject xml:lang="en">Hepatitis B</dc:subject>
+</metadata>
+</record>
+</MedlinePlus-document>

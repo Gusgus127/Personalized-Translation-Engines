@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<MedlinePlus-document>
+<record>
+<header>
+<identifier>https://medlineplus.gov/aneurysms.html</identifier>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:type>Text</dc:type>
+<dc:language>spa</dc:language>
+<dc:language>eng</dc:language>
+<dc:title xml:lang="es">Aneurismas</dc:title>
+<dc:title xml:lang="en">Aneurysms</dc:title>
+<dc:publisher>National Library of Medicine</dc:publisher>
+<dc:relation type="IsPartOf">Blood, Heart and Circulation</dc:relation>
+<dc:date type="created">2002-07-21</dc:date>
+<dc:date type="modified">2018-02-07</dc:date>
+<dc:identifier type="URL" xml:lang="es">https://medlineplus.gov/spanish/aneurysms.html</dc:identifier>
+<dc:identifier type="URL" xml:lang="en">https://medlineplus.gov/aneurysms.html</dc:identifier>
+<dc:description xml:lang="es">Un aneurisma es un ensanchamiento anormal de las paredes de una arteria. Las arterias son vasos sanguíneos que transportan sangre oxigenada desde el corazón hacia otras partes del cuerpo. Si un aneurisma crece, puede romperse y provocar una hemorragia peligrosa e incluso la muerte. La mayoría de los aneurismas ocurre en la aorta, la arteria principal que sale del corazón y pasa por el pecho y el abdomen. También pueden ocurrir en las arterias del cerebro y otras partes del cuerpo. Si un aneurisma cerebral se rompe, produce un derrame. Los aneurismas pueden desarrollarse y crecer antes de causar síntomas. Con frecuencia, si se detectan y se tratan anticipadamente, los médicos pueden detener la ruptura de los aneurismas. Para encontrarlos se usan pruebas de imágenes. Muchas veces los aneurismas se encuentran por accidente durante pruebas hechas por otras razones. Los dos tratamientos principales son las medicinas y la cirugía. NIH: Instituto Nacional del Corazón, los Pulmones y la Sangre</dc:description>
+<dc:description xml:lang="en">An aneurysm is a bulge or "ballooning" in the wall of an artery. Arteries are blood vessels that carry oxygen-rich blood from the heart to other parts of the body. If an aneurysm grows large, it can burst and cause dangerous bleeding or even death. Most aneurysms occur in the aorta, the main artery that runs from the heart through the chest and abdomen. Aneurysms also can happen in arteries in the brain, heart and other parts of the body. If an aneurysm in the brain bursts, it causes a stroke. Aneurysms can develop and become large before causing any symptoms. Often doctors can stop aneurysms from bursting if they find and treat them early. They use imaging tests to find aneurysms. Often aneurysms are found by chance during tests done for other reasons. Medicines and surgery are the two main treatments for aneurysms. NIH: National Heart, Lung, and Blood Institute</dc:description>
+<dc:subject dcterms="mesh">Aneurysm</dc:subject>
+<dc:subject xml:lang="es">Aneurismas</dc:subject>
+<dc:subject xml:lang="en">Aneurysms</dc:subject>
+</metadata>
+</record>
+</MedlinePlus-document>

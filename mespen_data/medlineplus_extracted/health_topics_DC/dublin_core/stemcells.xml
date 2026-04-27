@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<MedlinePlus-document>
+<record>
+<header>
+<identifier>https://medlineplus.gov/stemcells.html</identifier>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title type="alternate" xml:lang="es">Trasplante de células madre</dc:title>
+<dc:title type="alternate" xml:lang="en">Cord Blood</dc:title>
+<dc:title type="alternate" xml:lang="en">Stem Cell Transplantation</dc:title>
+<dc:type>Text</dc:type>
+<dc:language>spa</dc:language>
+<dc:language>eng</dc:language>
+<dc:title xml:lang="es">Células madre</dc:title>
+<dc:title xml:lang="en">Stem Cells</dc:title>
+<dc:publisher>National Library of Medicine</dc:publisher>
+<dc:relation type="IsPartOf">Transplantation and Donation</dc:relation>
+<dc:date type="created">2002-07-21</dc:date>
+<dc:date type="modified">2017-06-26</dc:date>
+<dc:identifier type="URL" xml:lang="es">https://medlineplus.gov/spanish/stemcells.html</dc:identifier>
+<dc:identifier type="URL" xml:lang="en">https://medlineplus.gov/stemcells.html</dc:identifier>
+<dc:description xml:lang="es">Las células madre tienen el potencial de convertirse en muchos tipos diferentes de células en el cuerpo. Ellas sirven como un sistema de reparación para el organismo. Hay dos tipos principales de células madre: las células madre embrionarias y células madre adultas Las células madre se diferencian de las otras células del cuerpo en tres maneras: Pueden dividirse y renovarse a sí mismas durante un largo tiempo No son especializadas, por lo que no pueden cumplir funciones específicas en el cuerpo Tienen el potencial de convertirse en células especializadas, como las células musculares, células de la sangre y las células del cerebro Los médicos y los científicos están entusiasmados sobre las células madre porque podrían ayudar en muchas áreas diferentes de la salud y la investigación médica. El estudio de las células madre puede ayudar a explicar cómo ocurren enfermedades graves como el cáncer y defectos de nacimiento. Algún día se podrían utilizar las células madre para crear células y tejidos para el tratamiento de muchas enfermedades. Ejemplos incluyen la enfermedad de Parkinson, enfermedad de Alzheimer, lesión de la médula espinal, enfermedades del corazón, diabetes y artritis. NIH: Institutos Nacionales de la Salud</dc:description>
+<dc:description xml:lang="en">Stem cells are cells with the potential to develop into many different types of cells in the body. They serve as a repair system for the body. There are two main types of stem cells: embryonic stem cells and adult stem cells. Stem cells are different from other cells in the body in three ways: They can divide and renew themselves over a long time They are unspecialized, so they cannot do specific functions in the body They have the potential to become specialized cells, such as muscle cells, blood cells, and brain cells Doctors and scientists are excited about stem cells because they could help in many different areas of health and medical research. Studying stem cells may help explain how serious conditions such as birth defects and cancer come about. Stem cells may one day be used to make cells and tissues for therapy of many diseases. Examples include Parkinson's disease, Alzheimer's disease, spinal cord injury, heart disease, diabetes, and arthritis. NIH: National Institutes of Health</dc:description>
+<dc:subject dcterms="mesh">Stem Cells</dc:subject>
+<dc:subject dcterms="mesh">Hematopoietic Stem Cells</dc:subject>
+<dc:subject xml:lang="es">Células madre</dc:subject>
+<dc:subject xml:lang="es">Trasplante de células madre</dc:subject>
+<dc:subject xml:lang="en">Stem Cells</dc:subject>
+<dc:subject xml:lang="en">Cord Blood</dc:subject>
+<dc:subject xml:lang="en">Stem Cell Transplantation</dc:subject>
+</metadata>
+</record>
+</MedlinePlus-document>

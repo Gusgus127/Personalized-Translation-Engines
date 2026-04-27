@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<MedlinePlus-document>
+<record>
+<header>
+<identifier>https://medlineplus.gov/wildfires.html</identifier>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title type="alternate" xml:lang="es">Desastres naturales</dc:title>
+<dc:type>Text</dc:type>
+<dc:language>spa</dc:language>
+<dc:language>eng</dc:language>
+<dc:title xml:lang="es">Incendios forestales</dc:title>
+<dc:title xml:lang="en">Wildfires</dc:title>
+<dc:publisher>National Library of Medicine</dc:publisher>
+<dc:relation type="IsPartOf">Disasters</dc:relation>
+<dc:date type="created">2008-06-25</dc:date>
+<dc:date type="modified">2017-09-08</dc:date>
+<dc:identifier type="URL" xml:lang="es">https://medlineplus.gov/spanish/wildfires.html</dc:identifier>
+<dc:identifier type="URL" xml:lang="en">https://medlineplus.gov/wildfires.html</dc:identifier>
+<dc:description xml:lang="es">Los incendios forestales son fuegos fuera de control en un área natural, como bosques, pastizales o praderas. A menudo comienzan inadvertidos. Se propagan rápidamente y pueden dañar recursos naturales, destruir hogares y amenazar la seguridad de la población y de los bomberos. Los seres humanos causan la mayoría de los incendios forestales. Pueden ocurrir por accidente, como cuando las personas no prestan atención a una fogata, queman escombros o son descuidados al botar los cigarrillos. También pueden provocarse a propósito, a lo que se llama incendio premeditado. Los rayos y la lava también pueden causar incendios forestales. Estos son más comunes cuando las condiciones son secas. Los vientos fuertes pueden hacer que avancen más rápidamente. Aunque no hay garantías de seguridad si usted vive en un área amenazada por un incendio forestal, puede tomar medidas para protegerse. Usted debe tener un plan para desastres. Estar preparado puede ayudar a reducir el miedo, la ansiedad y las pérdidas. Si experimenta un desastre, es normal sentirse estresado. Es posible que necesite ayuda para encontrar formas para afrontarlo. Agencia Federal para el Manejo de Emergencias</dc:description>
+<dc:description xml:lang="en">Wildfires are fires that burn out of control in a natural area, like a forest, grassland, or prairie. They often begin unnoticed. They spread quickly, and can damage natural resources, destroy homes, and threaten the safety of the public and firefighters. Humans cause most wildfires. It can be an accident, like when people don't take care of their campfire properly, burn debris, or are careless when getting rid of their cigarettes. It can also be on purpose, which is called arson. Lightning and lava also can also causes wildfires. Wildfires are more common when conditions are dry. High winds can make them spread more quickly. Although there are no guarantees of safety if you live in an area threatened by a wildfire, you can take actions to protect yourself. You should have a disaster plan. Being prepared can help reduce fear, anxiety, and losses. If you do experience a disaster, it is normal to feel stressed. You may need help in finding ways to cope. Federal Emergency Management Agency</dc:description>
+<dc:subject dcterms="mesh">Wildfires</dc:subject>
+<dc:subject xml:lang="es">Incendios forestales</dc:subject>
+<dc:subject xml:lang="es">Desastres naturales</dc:subject>
+<dc:subject xml:lang="en">Wildfires</dc:subject>
+</metadata>
+</record>
+</MedlinePlus-document>

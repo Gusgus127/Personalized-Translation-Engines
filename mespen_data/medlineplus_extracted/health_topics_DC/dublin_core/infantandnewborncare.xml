@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<MedlinePlus-document>
+<record>
+<header>
+<identifier>https://medlineplus.gov/infantandnewborncare.html</identifier>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title type="alternate" xml:lang="es">Cólicos</dc:title>
+<dc:title type="alternate" xml:lang="es">Cuidado del bebé</dc:title>
+<dc:title type="alternate" xml:lang="es">Bebé, Cuidado del</dc:title>
+<dc:title type="alternate" xml:lang="en">Baby Care</dc:title>
+<dc:type>Text</dc:type>
+<dc:language>spa</dc:language>
+<dc:language>eng</dc:language>
+<dc:title xml:lang="es">Cuidado del recién nacido y del bebé</dc:title>
+<dc:title xml:lang="en">Infant and Newborn Care</dc:title>
+<dc:publisher>National Library of Medicine</dc:publisher>
+<dc:relation type="IsPartOf">Children and Teenagers</dc:relation>
+<dc:date type="created">2002-07-21</dc:date>
+<dc:date type="modified">2018-01-23</dc:date>
+<dc:identifier type="URL" xml:lang="es">https://medlineplus.gov/spanish/infantandnewborncare.html</dc:identifier>
+<dc:identifier type="URL" xml:lang="en">https://medlineplus.gov/infantandnewborncare.html</dc:identifier>
+<dc:description xml:lang="es">Irse a casa con un nuevo bebé es emocionante, pero también puede causarle ciertos temores. Los recién nacidos tienen muchas necesidades, como alimentarlos y cambiarles frecuentemente el pañal. Los bebés pueden tener problemas de salud distintos a los de los niños de más edad o los adultos, como irritación por los pañales sucios y la costra láctea. El bebé pasará por muchos cambios durante el primer año de vida. Es posible que al principio se sienta incómoda. Si la necesita, pídale ayuda a un profesional de la salud.</dc:description>
+<dc:description xml:lang="en">Going home with a new baby is exciting, but it can be scary, too. Newborns have many needs, like frequent feedings and diaper changes. Babies can have health issues that are different from older children and adults, like diaper rash and cradle cap. Your baby will go through many changes during the first year of life. You may feel uneasy at first. Ask your health care provider for help if you need it.</dc:description>
+<dc:subject dcterms="mesh">Infant Care</dc:subject>
+<dc:subject xml:lang="es">Cuidado del recién nacido y del bebé</dc:subject>
+<dc:subject xml:lang="es">Cólicos</dc:subject>
+<dc:subject xml:lang="es">Cuidado del bebé</dc:subject>
+<dc:subject xml:lang="es">Bebé</dc:subject>
+<dc:subject xml:lang="es">Cuidado del</dc:subject>
+<dc:subject xml:lang="en">Infant and Newborn Care</dc:subject>
+<dc:subject xml:lang="en">Baby Care</dc:subject>
+</metadata>
+</record>
+</MedlinePlus-document>

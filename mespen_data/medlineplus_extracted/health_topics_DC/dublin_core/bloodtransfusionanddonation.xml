@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<MedlinePlus-document>
+<record>
+<header>
+<identifier>https://medlineplus.gov/bloodtransfusionanddonation.html</identifier>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title type="alternate" xml:lang="es">Sangre, Transfusión de</dc:title>
+<dc:title type="alternate" xml:lang="es">Sangre, Donación de</dc:title>
+<dc:title type="alternate" xml:lang="es">Donación de sangre</dc:title>
+<dc:title type="alternate" xml:lang="en">Blood Donation</dc:title>
+<dc:title type="alternate" xml:lang="en">Transfusion</dc:title>
+<dc:type>Text</dc:type>
+<dc:language>spa</dc:language>
+<dc:language>eng</dc:language>
+<dc:title xml:lang="es">Transfusión y donación de sangre</dc:title>
+<dc:title xml:lang="en">Blood Transfusion and Donation</dc:title>
+<dc:publisher>National Library of Medicine</dc:publisher>
+<dc:relation type="IsPartOf">Blood, Heart and Circulation</dc:relation>
+<dc:relation type="IsPartOf">Transplantation and Donation</dc:relation>
+<dc:date type="created">2002-07-21</dc:date>
+<dc:date type="modified">2017-12-06</dc:date>
+<dc:identifier type="URL" xml:lang="es">https://medlineplus.gov/spanish/bloodtransfusionanddonation.html</dc:identifier>
+<dc:identifier type="URL" xml:lang="en">https://medlineplus.gov/bloodtransfusionanddonation.html</dc:identifier>
+<dc:description xml:lang="es">Cada año, cerca de cinco millones de personas que viven en los Estados Unidos reciben transfusiones sanguíneas que les salvan la vida. Durante una transfusión, usted recibe sangre completa o partes de la sangre, tales como: Glóbulos rojos: Células que transportan oxígeno hacia y desde los tejidos y órganos Plaquetas: Células que pueden utilizarse para controlar las hemorragias Plasma: Parte líquida de la sangre que ayuda a la coagulación. Se puede necesitar cuando una persona tiene quemaduras graves, falla del hígado o una infección severa La mayoría de las transfusiones se realiza sin problemas. Algunos agentes infecciosos, como el VIH, pueden sobrevivir en la sangre e infectar a la persona que está recibiendo la transfusión. Para mantener la sangre segura, los bancos de sangre analizan la sangre donada. El riesgo de contraer un virus a raíz de una transfusión es bajo. A veces, es posible obtener una transfusión de su propia sangre. Durante una cirugía es posible perder sangre y necesitar reemplazarla. Si usted va a tener una cirugía que puede programar por adelantado, su doctor puede preguntarle si usted desea usar su propia sangre en lugar de una donada. Si es así, será necesario que le saquen sangre una o más veces antes de la cirugía. Un banco de sangre almacenará su sangre para su uso. NIH: Instituto Nacional del Corazón, los Pulmones y la Sangre</dc:description>
+<dc:description xml:lang="en">Every year, millions of people in the United States receive life-saving blood transfusions. During a transfusion, you receive whole blood or parts of blood such as Red blood cells - cells that carry oxygen to and from tissues and organs Platelets - cells that form clots to control bleeding Plasma - the liquid part of the blood that helps clotting. You may need it if you have been badly burned, have liver failure or a severe infection. Most blood transfusions go very smoothly. Some infectious agents, such as HIV, can survive in blood and infect the person receiving the blood transfusion. To keep blood safe, blood banks carefully screen donated blood. The risk of catching a virus from a blood transfusion is low. Sometimes it is possible to have a transfusion of your own blood. During surgery, you may need a blood transfusion because of blood loss. If you are having a surgery that you're able to schedule months in advance, your doctor may ask whether you would like to use your own blood, instead of donated blood. If so, you will need to have blood drawn one or more times before the surgery. A blood bank will store your blood for your use. NIH: National Heart, Lung, and Blood Institute</dc:description>
+<dc:subject dcterms="mesh">Blood Safety</dc:subject>
+<dc:subject dcterms="mesh">Blood Donors</dc:subject>
+<dc:subject dcterms="mesh">Blood Transfusion</dc:subject>
+<dc:subject dcterms="mesh">Transfusion Reaction</dc:subject>
+<dc:subject xml:lang="es">Transfusión y donación de sangre</dc:subject>
+<dc:subject xml:lang="es">Sangre</dc:subject>
+<dc:subject xml:lang="es">Transfusión de</dc:subject>
+<dc:subject xml:lang="es">Sangre</dc:subject>
+<dc:subject xml:lang="es">Donación de</dc:subject>
+<dc:subject xml:lang="es">Donación de sangre</dc:subject>
+<dc:subject xml:lang="en">Blood Transfusion and Donation</dc:subject>
+<dc:subject xml:lang="en">Blood Donation</dc:subject>
+<dc:subject xml:lang="en">Transfusion</dc:subject>
+</metadata>
+</record>
+</MedlinePlus-document>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<MedlinePlus-document>
+<record>
+<header>
+<identifier>https://medlineplus.gov/tendinitis.html</identifier>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:type>Text</dc:type>
+<dc:language>spa</dc:language>
+<dc:language>eng</dc:language>
+<dc:title xml:lang="es">Tendinitis</dc:title>
+<dc:title xml:lang="en">Tendinitis</dc:title>
+<dc:publisher>National Library of Medicine</dc:publisher>
+<dc:relation type="IsPartOf">Bones, Joints and Muscles</dc:relation>
+<dc:date type="created">2002-07-21</dc:date>
+<dc:date type="modified">2017-11-20</dc:date>
+<dc:identifier type="URL" xml:lang="es">https://medlineplus.gov/spanish/tendinitis.html</dc:identifier>
+<dc:identifier type="URL" xml:lang="en">https://medlineplus.gov/tendinitis.html</dc:identifier>
+<dc:description xml:lang="es">Los tendones son cuerdas resistentes de tejido que unen los músculos con los huesos. Ayudan a los músculos a mover los huesos. Tendinitis es la inflamación severa de un tendón. La tendinitis ocurre en forma usual tras una lesión recurrente en articulaciones como la muñeca o el tobillo. Algunos tipos comunes de tendinitis son nombrados según el deporte que aumenta su riesgo de sufrirla, como el "codo de tenista". Los médicos diagnostican la tendinitis con su historial médico, un examen físico y pruebas de imagen. El primer paso del tratamiento es reducir el dolor y la hinchazón. El descanso, inmovilizar o elevar el área afectada, junto a las medicinas, pueden ayudar. El hielo es útil para lesiones graves recientes. Otros tratamientos incluyen el ultrasonido, fisioterapia, inyecciones de esteroides y la cirugía. NIH: Instituto Nacional de Artritis y Enfermedades Musculoesqueléticas y de la Piel</dc:description>
+<dc:description xml:lang="en">Tendons are flexible bands of tissue that connect muscles to bones. They help your muscles move your bones. Tendinitis is the severe swelling of a tendon. Tendinitis usually happens after repeated injury to an area such as the wrist or ankle. It causes pain and soreness around a joint. Some common forms of tendinitis are named after the sports that increase their risk. They include tennis elbow, golfer's elbow, pitcher's shoulder, swimmer's shoulder, and jumper's knee. Doctors diagnose tendinitis with your medical history, a physical exam, and imaging tests. The first step in treatment is to reduce pain and swelling. Rest, wrapping or elevating the affected area, and medicines can help. Ice is helpful for recent, severe injuries. Other treatments include ultrasound, physical therapy, steroid injections, and surgery.</dc:description>
+<dc:subject dcterms="mesh">Tendinopathy</dc:subject>
+<dc:subject xml:lang="es">Tendinitis</dc:subject>
+<dc:subject xml:lang="en">Tendinitis</dc:subject>
+</metadata>
+</record>
+</MedlinePlus-document>

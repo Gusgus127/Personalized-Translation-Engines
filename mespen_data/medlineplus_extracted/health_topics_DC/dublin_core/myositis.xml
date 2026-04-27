@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<MedlinePlus-document>
+<record>
+<header>
+<identifier>https://medlineplus.gov/myositis.html</identifier>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title type="alternate" xml:lang="es">Polimiositis</dc:title>
+<dc:title type="alternate" xml:lang="es">Dermatomiositis</dc:title>
+<dc:title type="alternate" xml:lang="en">Polymyositis</dc:title>
+<dc:title type="alternate" xml:lang="en">Dermatomyositis</dc:title>
+<dc:type>Text</dc:type>
+<dc:language>spa</dc:language>
+<dc:language>eng</dc:language>
+<dc:title xml:lang="es">Miositis</dc:title>
+<dc:title xml:lang="en">Myositis</dc:title>
+<dc:publisher>National Library of Medicine</dc:publisher>
+<dc:relation type="IsPartOf">Bones, Joints and Muscles</dc:relation>
+<dc:date type="created">2002-07-21</dc:date>
+<dc:date type="modified">2018-01-29</dc:date>
+<dc:identifier type="URL" xml:lang="es">https://medlineplus.gov/spanish/myositis.html</dc:identifier>
+<dc:identifier type="URL" xml:lang="en">https://medlineplus.gov/myositis.html</dc:identifier>
+<dc:description xml:lang="es">La miositis es la inflamación de los músculos que se usan para mover el cuerpo. Puede ser causada por una lesión, una infección o una enfermedad autoinmune. Dos tipos principales de miositis son la polimiositis y la dermatomiositis. La polimiositis causa debilidad en los músculos y en general afecta a los músculos cercanos al tronco del cuerpo. La dermatomiositis causa también debilidad muscular y además un sarpullido en la piel. Otros síntomas de la miositis pueden ser: Cansancio después de caminar o estar parado Tropiezos o caídas Problemas para tragar o respirar Para su diagnóstico el doctor hará un examen físico, exámenes de laboratorio, de imagen y una biopsia muscular. No existe una cura para estas enfermedades pero los síntomas se pueden controlar. Tanto la polimiositis como la dermatomiositis se tratan con altas dosis de corticosteroides. Otras opciones pueden ser otros medicamentos, terapia de rehabilitación, ejercicio, calor, aparatos de asistencia y descanso. Instituto Nacional de Trastornos Neurológicos y Accidentes Cerebrovasculares</dc:description>
+<dc:description xml:lang="en">Myositis means inflammation of the muscles that you use to move your body. An injury, infection, or autoimmune disease can cause it. Two specific kinds are polymyositis and dermatomyositis. Polymyositis causes muscle weakness, usually in the muscles closest to the trunk of your body. Dermatomyositis causes muscle weakness, plus a skin rash. Other symptoms of myositis may include Fatigue after walking or standing Tripping or falling Trouble swallowing or breathing Doctors may use a physical exam, lab tests, imaging tests and a muscle biopsy to diagnose myositis. There is no cure for these diseases, but you can treat the symptoms. Polymyositis and dermatomyositis are first treated with high doses of a corticosteroid. Other options include medications, physical therapy, exercise, heat therapy, assistive devices, and rest. NIH: National Institute of Neurological Disorders and Stroke</dc:description>
+<dc:subject dcterms="mesh">Myositis</dc:subject>
+<dc:subject xml:lang="es">Miositis</dc:subject>
+<dc:subject xml:lang="es">Polimiositis</dc:subject>
+<dc:subject xml:lang="es">Dermatomiositis</dc:subject>
+<dc:subject xml:lang="en">Myositis</dc:subject>
+<dc:subject xml:lang="en">Polymyositis</dc:subject>
+<dc:subject xml:lang="en">Dermatomyositis</dc:subject>
+</metadata>
+</record>
+</MedlinePlus-document>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<MedlinePlus-document>
+<record>
+<header>
+<identifier>https://medlineplus.gov/eosinophilicdisorders.html</identifier>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:type>Text</dc:type>
+<dc:language>spa</dc:language>
+<dc:language>eng</dc:language>
+<dc:title xml:lang="es">Desórdenes eosinofílicos</dc:title>
+<dc:title xml:lang="en">Eosinophilic Disorders</dc:title>
+<dc:publisher>National Library of Medicine</dc:publisher>
+<dc:relation type="IsPartOf">Blood, Heart and Circulation</dc:relation>
+<dc:relation type="IsPartOf">Lungs and Breathing</dc:relation>
+<dc:relation type="IsPartOf">Immune System</dc:relation>
+<dc:relation type="IsPartOf">Digestive System</dc:relation>
+<dc:date type="created">2010-12-07</dc:date>
+<dc:date type="modified">2017-08-29</dc:date>
+<dc:identifier type="URL" xml:lang="es">https://medlineplus.gov/spanish/eosinophilicdisorders.html</dc:identifier>
+<dc:identifier type="URL" xml:lang="en">https://medlineplus.gov/eosinophilicdisorders.html</dc:identifier>
+<dc:description xml:lang="es">Los eosinófilos son un tipo de glóbulo blanco. Ayudan a combatir las infecciones y juegan un rol en la respuesta inmunológica del cuerpo. También se pueden acumular y causar inflamación. Normalmente, la sangre no contiene un gran número de eosinófilos. El organismo puede producir más de ellos en respuesta a: Trastornos alérgicos Condiciones de la piel Infecciones de parásitos o micóticas Enfermedades autoinmunes Algunos tipos de cáncer Trastornos de la médula ósea En algunos cuadros, los eosinófilos pueden salir del torrente sanguíneo hacia algunos órganos y tejidos. El tratamiento del problema depende de la causa.</dc:description>
+<dc:description xml:lang="en">Eosinophils are a type of white blood cell. They help fight off infections and play a role in your body's immune response. They can also build up and cause inflammation. Normally your blood doesn't have a large number of eosinophils. Your body may produce more of them in response to Allergic disorders Skin conditions Parasitic and fungal infections Autoimmune diseases Some cancers Bone marrow disorders In some conditions, the eosinophils can move outside the bloodstream and build up in organs and tissues. Treatment of the problem depends on the cause.</dc:description>
+<dc:subject dcterms="mesh">Eosinophilia</dc:subject>
+<dc:subject xml:lang="es">Desórdenes eosinofílicos</dc:subject>
+<dc:subject xml:lang="en">Eosinophilic Disorders</dc:subject>
+<dc:subject xml:lang="en">Eosinophilia</dc:subject>
+<dc:subject xml:lang="en">Hypereosinophilic Syndrome</dc:subject>
+<dc:subject xml:lang="en">Churg-Strauss Syndrome</dc:subject>
+</metadata>
+</record>
+</MedlinePlus-document>

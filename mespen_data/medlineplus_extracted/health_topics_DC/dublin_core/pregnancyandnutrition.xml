@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<MedlinePlus-document>
+<record>
+<header>
+<identifier>https://medlineplus.gov/pregnancyandnutrition.html</identifier>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title type="alternate" xml:lang="es">Embarazo, Nutrición</dc:title>
+<dc:title type="alternate" xml:lang="en">Nutrition and Pregnancy</dc:title>
+<dc:type>Text</dc:type>
+<dc:language>spa</dc:language>
+<dc:language>eng</dc:language>
+<dc:title xml:lang="es">Nutrición durante el embarazo</dc:title>
+<dc:title xml:lang="en">Pregnancy and Nutrition</dc:title>
+<dc:publisher>National Library of Medicine</dc:publisher>
+<dc:relation type="IsPartOf">Food and Nutrition</dc:relation>
+<dc:relation type="IsPartOf">Pregnancy and Reproduction</dc:relation>
+<dc:date type="created">2012-02-29</dc:date>
+<dc:date type="modified">2018-01-24</dc:date>
+<dc:identifier type="URL" xml:lang="es">https://medlineplus.gov/spanish/pregnancyandnutrition.html</dc:identifier>
+<dc:identifier type="URL" xml:lang="en">https://medlineplus.gov/pregnancyandnutrition.html</dc:identifier>
+<dc:description xml:lang="es">Cuando está embarazada, comer alimentos saludables es más importante que nunca. Usted necesita más proteínas, hierro, calcio y ácido fólico que antes del embarazo. Sin embargo, "comer para dos" no quiere decir que deba comer el doble, significa que los alimentos que consume son la principal fuente de nutrientes para su bebé. Comidas sensatas y equilibradas serán la mejor opción para la madre y el hijo. Usted debe subir de peso gradualmente durante el embarazo, la mayor parte del peso la ganará en el último trimestre. En general, los médicos sugieren que las embarazadas aumenten de peso así: De dos a cuatro libras en total durante el primer trimestre De tres a cuatro libras por mes durante el segundo y el tercer trimestres La mayoría de las mujeres necesitan 300 calorías diarias más durante al menos los últimos seis meses de embarazo, que lo que requerían antes de estar embarazadas. Pero no todas las calorías son iguales. Su bebé necesita alimentos sanos que estén llenos de nutrientes, no calorías vacías como las que se encuentran en los refrescos, dulces y postres. Oficina para la Salud de la Mujer en el Departamento de Salud y Servicios Humanos de los EE. UU.</dc:description>
+<dc:description xml:lang="en">When you're pregnant, eating healthy foods is more important than ever. You need more protein, iron, calcium, and folic acid than you did before pregnancy. You also need more calories. But "eating for two" doesn't mean eating twice as much. It means that the foods you eat are the main source of nutrients for your baby. Sensible, balanced meals will be best for you and your baby. You should gain weight gradually during your pregnancy, with most of the weight gained in the last trimester. Generally, doctors suggest women gain weight at the following rate: 2 to 4 pounds total during the first trimester 3 to 4 pounds per month for the second and third trimesters Most women need 300 calories a day or more during at least the last six months of pregnancy than they did before they were pregnant. But not all calories are equal. Your baby needs healthy foods that are packed with nutrients - not "empty calories" such as those found in soft drinks, candies, and desserts. Dept. of Health and Human Services Office on Women's Health</dc:description>
+<dc:subject dcterms="mesh">Maternal Nutritional Physiological Phenomena</dc:subject>
+<dc:subject xml:lang="es">Nutrición durante el embarazo</dc:subject>
+<dc:subject xml:lang="es">Embarazo</dc:subject>
+<dc:subject xml:lang="es">Nutrición</dc:subject>
+<dc:subject xml:lang="en">Pregnancy and Nutrition</dc:subject>
+<dc:subject xml:lang="en">Nutrition and Pregnancy</dc:subject>
+</metadata>
+</record>
+</MedlinePlus-document>

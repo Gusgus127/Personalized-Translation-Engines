@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<MedlinePlus-document>
+<record>
+<header>
+<identifier>https://medlineplus.gov/weightcontrol.html</identifier>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:type>Text</dc:type>
+<dc:language>spa</dc:language>
+<dc:language>eng</dc:language>
+<dc:title xml:lang="es">Control de peso</dc:title>
+<dc:title xml:lang="en">Weight Control</dc:title>
+<dc:publisher>National Library of Medicine</dc:publisher>
+<dc:relation type="IsPartOf">Food and Nutrition</dc:relation>
+<dc:date type="created">2002-07-21</dc:date>
+<dc:date type="modified">2017-12-11</dc:date>
+<dc:identifier type="URL" xml:lang="es">https://medlineplus.gov/spanish/weightcontrol.html</dc:identifier>
+<dc:identifier type="URL" xml:lang="en">https://medlineplus.gov/weightcontrol.html</dc:identifier>
+<dc:description xml:lang="es">Mantener un peso saludable es muy importante. Si usted está demasiado delgado, tiene sobrepeso u obesidad, puede tener más riesgos de ciertos problemas de salud. Cerca de dos tercios de los adultos en Estados Unidos tienen sobrepeso u obesidad. Alcanzar un peso saludable puede ayudarlo a controlar el colesterol, la presión arterial y el azúcar en la sangre. También puede ayudarlo a prevenir enfermedades relacionadas con el peso, tales como las enfermedades cardiacas, la diabetes, la artritis y algunos cánceres. Comer demasiado o no hacer suficiente actividad física le hará subir de peso. Para mantener su peso, las calorías que ingiere deben equivaler a la energía que consuma. Para bajar de peso, deberá ingerir menos calorías que aquellas que consume. Una estrategia para controlar el peso puede incluir: Elegir alimentos bajos en grasas y en calorías Comer porciones más pequeñas Beber agua en lugar de bebidas azucaradas Ser físicamente activo Consumir calorías extras siguiendo una dieta sana puede ayudarlo a subir de peso si lo necesita. NIH: Instituto Nacional de la Diabetes y las Enfermedades Digestivas y Renales</dc:description>
+<dc:description xml:lang="en">Keeping a healthy weight is crucial. If you are underweight or overweight, or have obesity, you may have a higher risk of certain health problems. About two thirds of adults in the U.S. are overweight or have obesity. Achieving a healthy weight can help you control your cholesterol, blood pressure and blood sugar. It might also help you prevent weight-related diseases, such as heart disease, diabetes, arthritis and some cancers. Eating too much or not being physically active enough will make you overweight. To maintain your weight, the calories you eat must equal the energy you burn. To lose weight, you must use more calories than you eat. A weight-control strategy might include Choosing low-fat, low-calorie foods Eating smaller portions Drinking water instead of sugary drinks Being physically active Eating extra calories within a well-balanced diet can help to add weight. NIH: National Institute of Diabetes and Digestive and Kidney Diseases</dc:description>
+<dc:subject dcterms="mesh">Body Weight Maintenance</dc:subject>
+<dc:subject dcterms="mesh">Weight Loss</dc:subject>
+<dc:subject dcterms="mesh">Weight Reduction Programs</dc:subject>
+<dc:subject xml:lang="es">Control de peso</dc:subject>
+<dc:subject xml:lang="en">Weight Control</dc:subject>
+<dc:subject xml:lang="en">BMI</dc:subject>
+</metadata>
+</record>
+</MedlinePlus-document>

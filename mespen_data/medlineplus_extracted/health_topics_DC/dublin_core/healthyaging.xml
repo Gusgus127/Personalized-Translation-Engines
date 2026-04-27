@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<MedlinePlus-document>
+<record>
+<header>
+<identifier>https://medlineplus.gov/healthyaging.html</identifier>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:type>Text</dc:type>
+<dc:language>spa</dc:language>
+<dc:language>eng</dc:language>
+<dc:title xml:lang="es">Envejecer saludablemente</dc:title>
+<dc:title xml:lang="en">Healthy Aging</dc:title>
+<dc:publisher>National Library of Medicine</dc:publisher>
+<dc:relation type="IsPartOf">Seniors</dc:relation>
+<dc:relation type="IsPartOf">Wellness and Lifestyle</dc:relation>
+<dc:date type="created">2010-12-02</dc:date>
+<dc:date type="modified">2017-12-29</dc:date>
+<dc:identifier type="URL" xml:lang="es">https://medlineplus.gov/spanish/healthyaging.html</dc:identifier>
+<dc:identifier type="URL" xml:lang="en">https://medlineplus.gov/healthyaging.html</dc:identifier>
+<dc:description xml:lang="es">Las personas en Estados Unidos están viviendo más años que antes. Muchas personas mayores viven saludablemente y tienen vidas activas. Pero no hay manera de evitarlo: cuando envejecemos, nuestros cuerpos y mentes cambian. Hay cosas que usted puede hacer para mantenerse sano y activo a medida que envejece: Consuma una dieta balanceada Mantenga su mente y su cuerpo activos No fume Hágase exámenes médicos regularmente Practique buenos hábitos de salud salud para evitar accidentes y prevenir caídas NIH: Instituto Nacional sobre el Envejecimiento</dc:description>
+<dc:description xml:lang="en">People in the U.S. are living longer than ever before. Many seniors live active and healthy lives. But there's no getting around one thing: as we age, our bodies and minds change. There are things you can do to stay healthy and active as you age: Eat a balanced diet Keep your mind and body active Don't smoke Get regular checkups Practice safety habits to avoid accidents and prevent falls NIH: National Institute on Aging</dc:description>
+<dc:subject dcterms="mesh">Healthy Aging</dc:subject>
+<dc:subject xml:lang="es">Envejecer saludablemente</dc:subject>
+<dc:subject xml:lang="en">Healthy Aging</dc:subject>
+</metadata>
+</record>
+</MedlinePlus-document>

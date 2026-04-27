@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<MedlinePlus-document>
+<record>
+<header>
+<identifier>https://medlineplus.gov/softtissuesarcoma.html</identifier>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:type>Text</dc:type>
+<dc:language>spa</dc:language>
+<dc:language>eng</dc:language>
+<dc:title xml:lang="es">Sarcoma del tejido blando</dc:title>
+<dc:title xml:lang="en">Soft Tissue Sarcoma</dc:title>
+<dc:publisher>National Library of Medicine</dc:publisher>
+<dc:relation type="IsPartOf">Cancers</dc:relation>
+<dc:date type="created">2002-07-21</dc:date>
+<dc:date type="modified">2017-09-27</dc:date>
+<dc:identifier type="URL" xml:lang="es">https://medlineplus.gov/spanish/softtissuesarcoma.html</dc:identifier>
+<dc:identifier type="URL" xml:lang="en">https://medlineplus.gov/softtissuesarcoma.html</dc:identifier>
+<dc:description xml:lang="es">Los tejidos blandos conectan, apoyan o rodean a otros tejidos. Algunos ejemplos incluyen músculos, tendones, grasa y vasos sanguíneos. El sarcoma de tejidos blandos es un cáncer en los tejidos blandos. Existen muchos tipos, tomando como base el tipo de tejido en el que se inician. Algunas veces se diseminan y pueden ejercer presión sobre los nervios y otros órganos, causando problemas como dolor o dificultad para respirar. Nadie sabe exactamente cuál es la causa de estos cánceres. No son comunes, pero usted corre un riesgo mayor si estuvo expuesto a determinadas sustancias químicas, recibió radioterapia o tiene algunas enfermedades genéticas. Para diagnosticar sarcomas del tejido blando, los médicos deben extirpar y examinar una parte del tumor en el microscopio. El tratamiento incluye cirugía para extirpar el tumor, radioterapia, quimioterapia o una combinación de éstas. NIH: Instituto Nacional del Cáncer</dc:description>
+<dc:description xml:lang="en">Your soft tissues connect, support, or surround other tissues. Examples include your muscles, tendons, fat, and blood vessels. Soft tissue sarcoma is a cancer of these soft tissues. There are many kinds, based on the type of tissue they started in. They may cause a lump or swelling in the soft tissue. Sometimes they spread and can press on nerves and organs, causing problems such as pain or trouble breathing. No one knows exactly what causes these cancers. They are not common, but you have a higher risk if you have been exposed to certain chemicals, have had radiation therapy, or have certain genetic diseases. Doctors diagnose soft tissue sarcomas with a biopsy. Treatments include surgery to remove the tumor, radiation therapy, chemotherapy, or a combination. NIH: National Cancer Institute</dc:description>
+<dc:subject dcterms="mesh">Sarcoma</dc:subject>
+<dc:subject xml:lang="es">Sarcoma del tejido blando</dc:subject>
+<dc:subject xml:lang="en">Soft Tissue Sarcoma</dc:subject>
+<dc:subject xml:lang="en">Rhabdomyosarcoma</dc:subject>
+<dc:subject xml:lang="en">Sarcoma</dc:subject>
+<dc:subject xml:lang="en">Soft Tissue</dc:subject>
+</metadata>
+</record>
+</MedlinePlus-document>

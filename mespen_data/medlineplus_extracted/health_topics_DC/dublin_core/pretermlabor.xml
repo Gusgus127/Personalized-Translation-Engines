@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<MedlinePlus-document>
+<record>
+<header>
+<identifier>https://medlineplus.gov/pretermlabor.html</identifier>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:type>Text</dc:type>
+<dc:language>spa</dc:language>
+<dc:language>eng</dc:language>
+<dc:title xml:lang="es">Trabajo de parto prematuro</dc:title>
+<dc:title xml:lang="en">Preterm Labor</dc:title>
+<dc:publisher>National Library of Medicine</dc:publisher>
+<dc:relation type="IsPartOf">Female Reproductive System</dc:relation>
+<dc:date type="created">2015-08-03</dc:date>
+<dc:date type="modified">2017-11-22</dc:date>
+<dc:identifier type="URL" xml:lang="es">https://medlineplus.gov/spanish/pretermlabor.html</dc:identifier>
+<dc:identifier type="URL" xml:lang="en">https://medlineplus.gov/pretermlabor.html</dc:identifier>
+<dc:description xml:lang="es">El trabajo de parto prematuro es el que se inicia antes de completarse las 37 semanas de embarazo. Puede conducir a un parto prematuro. Los bebés prematuros pueden enfrentar serios riesgos de salud. Los síntomas de trabajo de parto prematuro incluyen: Contracciones cada 10 minutos o más seguidas Filtración de líquido o sangrado de la vagina Sensación de presión en la pelvis Dolor vago de espalda baja Calambres similares a los calambres menstruales Calambres abdominales con o sin diarrea Si usted piensa que entró en trabajo de parto prematuro, póngase en contacto con su proveedor de atención médica. NIH: Instituto Nacional de la Salud del Niño y Desarrollo Humano</dc:description>
+<dc:description xml:lang="en">Preterm labor is labor that starts before 37 completed weeks of pregnancy. It can lead to premature birth. Premature babies may face serious health risks. Symptoms of preterm labor include Contractions every 10 minutes or more often Leaking fluid or bleeding from the vagina Feeling of pressure in the pelvis Low, dull backache Cramps that feel like menstrual cramps Abdominal cramps with or without diarrhea If you think you might be having preterm labor, contact your health care provider. NIH: National Institute of Child Health and Human Development</dc:description>
+<dc:subject dcterms="mesh">Obstetric Labor, Premature</dc:subject>
+<dc:subject xml:lang="es">Trabajo de parto prematuro</dc:subject>
+<dc:subject xml:lang="en">Preterm Labor</dc:subject>
+<dc:subject xml:lang="en">Premature Labor</dc:subject>
+<dc:subject xml:lang="en">Premature Birth</dc:subject>
+</metadata>
+</record>
+</MedlinePlus-document>

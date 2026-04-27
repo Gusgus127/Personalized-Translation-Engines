@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<MedlinePlus-document>
+<record>
+<header>
+<identifier>https://medlineplus.gov/progressivesupranuclearpalsy.html</identifier>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title type="alternate" xml:lang="es">Parálisis progresiva supranuclear</dc:title>
+<dc:title type="alternate" xml:lang="es">Richardson-Steele-Olszewski, Síndrome de</dc:title>
+<dc:title type="alternate" xml:lang="en">Steele-Richardson-Olszewski Syndrome</dc:title>
+<dc:type>Text</dc:type>
+<dc:language>spa</dc:language>
+<dc:language>eng</dc:language>
+<dc:title xml:lang="es">Parálisis supranuclear progresiva</dc:title>
+<dc:title xml:lang="en">Progressive Supranuclear Palsy</dc:title>
+<dc:publisher>National Library of Medicine</dc:publisher>
+<dc:relation type="IsPartOf">Brain and Nerves</dc:relation>
+<dc:date type="created">2003-10-06</dc:date>
+<dc:date type="modified">2018-01-19</dc:date>
+<dc:identifier type="URL" xml:lang="es">https://medlineplus.gov/spanish/progressivesupranuclearpalsy.html</dc:identifier>
+<dc:identifier type="URL" xml:lang="en">https://medlineplus.gov/progressivesupranuclearpalsy.html</dc:identifier>
+<dc:description xml:lang="es">La parálisis supranuclear progresiva (PSP) es una enfermedad cerebral poco frecuente. Afecta las células del cerebro que controlan el movimiento de los ojos. Esto conduce a problemas serios y permanentes con el equilibrio y la forma de caminar. Suele ocurrir entre las personas de mediana edad o ancianas. Los síntomas son muy distintos en cada persona, pero pueden incluir cambios en la personalidad, el habla y la vista y problemas para tragar. Algunas veces, los médicos confunden a la PSP con la enfermedad de Parkinson o de Alzheimer. La PSP no tiene cura ni tratamientos eficaces. Los dispositivos de ayuda para caminar, anteojos especiales y algunas medicinas pueden ayudar un poco. Aunque la enfermedad empeora con el tiempo, en sí misma no es mortal. Sin embargo, la PSP es peligrosa porque aumenta los riesgos de neumonía y de asfixia por problemas para tragar y lesiones por las caídas. NIH: Instituto Nacional de Trastornos Neurológicos y Accidentes Cerebrovasculares</dc:description>
+<dc:description xml:lang="en">Progressive supranuclear palsy (PSP) is a rare brain disease. It affects brain cells that control the movement of your eyes. This leads to serious and permanent problems with balance and the way you walk. It usually occurs in middle-aged or elderly people. Symptoms are very different in each person, but may include personality changes, speech, vision and swallowing problems. Doctors sometimes confuse PSP with Parkinson's disease or Alzheimer's disease. PSP has no cure and no effective treatments. Walking aids, special glasses and certain medicines might help somewhat. Although the disease gets worse over time, it isn't fatal on its own. However, PSP is dangerous because it increases your risk of pneumonia and choking from swallowing problems and injuries from falling. NIH: National Institute of Neurological Disorders and Stroke</dc:description>
+<dc:subject dcterms="mesh">Supranuclear Palsy, Progressive</dc:subject>
+<dc:subject xml:lang="es">Parálisis supranuclear progresiva</dc:subject>
+<dc:subject xml:lang="es">Parálisis progresiva supranuclear</dc:subject>
+<dc:subject xml:lang="es">Richardson-Steele-Olszewski</dc:subject>
+<dc:subject xml:lang="es">Síndrome de</dc:subject>
+<dc:subject xml:lang="en">Progressive Supranuclear Palsy</dc:subject>
+<dc:subject xml:lang="en">Steele-Richardson-Olszewski Syndrome</dc:subject>
+</metadata>
+</record>
+</MedlinePlus-document>

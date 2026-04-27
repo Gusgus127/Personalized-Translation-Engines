@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<MedlinePlus-document>
+<record>
+<header>
+<identifier>https://medlineplus.gov/vitamink.html</identifier>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:type>Text</dc:type>
+<dc:language>spa</dc:language>
+<dc:language>eng</dc:language>
+<dc:title xml:lang="es">Vitamina K</dc:title>
+<dc:title xml:lang="en">Vitamin K</dc:title>
+<dc:publisher>National Library of Medicine</dc:publisher>
+<dc:relation type="IsPartOf">Food and Nutrition</dc:relation>
+<dc:date type="created">2010-03-30</dc:date>
+<dc:date type="modified">2017-05-10</dc:date>
+<dc:identifier type="URL" xml:lang="es">https://medlineplus.gov/spanish/vitamink.html</dc:identifier>
+<dc:identifier type="URL" xml:lang="en">https://medlineplus.gov/vitamink.html</dc:identifier>
+<dc:description xml:lang="es">Las vitaminas son sustancias que ayudan a su cuerpo a crecer y desarrollarse en forma normal. La vitamina K ayuda al cuerpo a construir huesos y tejidos saludables a través de las proteínas. También produce proteínas que ayudan a coagular la sangre. Si no tiene suficiente vitamina K, podría sangrar mucho. Los recién nacidos tienen muy poca vitamina K. Frecuentemente reciben una vacuna de vitamina K poco después de nacer. Si está tomando anticoagulantes, necesita tener cuidado con la cantidad de vitamina K que consume. También necesitaría tener cuidado al consumir suplementos de vitamina E. La vitamina E puede interferir con la manera en que la vitamina K se procesa en el cuerpo. Hable con su proveedor de salud para que le aconseje sobre el consumo de estas vitaminas. Hay diferentes tipos de vitamina K. La mayoría de las personas consume vitamina K a través de las verduras de hojas y las bayas de color oscuro. Las bacterias en su intestino también producen pequeñas cantidades de vitamina K.</dc:description>
+<dc:description xml:lang="en">Vitamins are substances that your body needs to grow and develop normally. Vitamin K helps your body by making proteins for healthy bones and tissues. It also makes proteins for blood clotting. If you don't have enough vitamin K, you may bleed too much. Newborns have very little vitamin K. They usually get a shot of vitamin K soon after they are born. If you take blood thinners, you need to be careful about how much vitamin K you get. You also need to be careful about taking vitamin E supplements. Vitamin E can interfere with how vitamin K works in your body. Ask your health care provider for recommendations about these vitamins. There are different types of vitamin K. Most people get vitamin K from plants such as green vegetables, and dark berries. Bacteria in your intestines also produce small amounts of another type of vitamin K.</dc:description>
+<dc:subject dcterms="mesh">Vitamin K</dc:subject>
+<dc:subject xml:lang="es">Vitamina K</dc:subject>
+<dc:subject xml:lang="en">Vitamin K</dc:subject>
+</metadata>
+</record>
+</MedlinePlus-document>

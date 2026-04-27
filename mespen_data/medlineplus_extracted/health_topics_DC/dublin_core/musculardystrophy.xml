@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<MedlinePlus-document>
+<record>
+<header>
+<identifier>https://medlineplus.gov/musculardystrophy.html</identifier>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title type="alternate" xml:lang="es">Distrofia muscular  de Duchenne</dc:title>
+<dc:title type="alternate" xml:lang="en">Duchenne Muscular Dystrophy</dc:title>
+<dc:type>Text</dc:type>
+<dc:language>spa</dc:language>
+<dc:language>eng</dc:language>
+<dc:title xml:lang="es">Distrofia muscular</dc:title>
+<dc:title xml:lang="en">Muscular Dystrophy</dc:title>
+<dc:publisher>National Library of Medicine</dc:publisher>
+<dc:relation type="IsPartOf">Bones, Joints and Muscles</dc:relation>
+<dc:relation type="IsPartOf">Genetics/Birth Defects</dc:relation>
+<dc:date type="created">2002-07-21</dc:date>
+<dc:date type="modified">2018-01-29</dc:date>
+<dc:identifier type="URL" xml:lang="es">https://medlineplus.gov/spanish/musculardystrophy.html</dc:identifier>
+<dc:identifier type="URL" xml:lang="en">https://medlineplus.gov/musculardystrophy.html</dc:identifier>
+<dc:description xml:lang="es">La distrofia muscular es un grupo de más de 30 enfermedades hereditarias que causan debilidad muscular y pérdida de la masa muscular. Algunos tipos de distrofias aparecen en la infancia o la niñez; otras no aparecen hasta la mediana edad o después. Los distintos tipos varían dependiendo de quién afectan y los síntomas. Todas las formas de distrofia muscular empeoran a medida que los músculos se debilitan y la mayoría de las personas con esta condición tarde o temprano pierden la capacidad de caminar. No existe una cura para la distrofia muscular pero se pueden controlar los síntomas y prevenir complicaciones. Esto incluye fisioterapia y terapia del habla, dispositivos ortopédicos, cirugía y medicamentos. Algunas personas con distrofia muscular tienen casos leves que empeoran lentamente; otros casos son incapacitantes y severos. NIH: Instituto Nacional de Trastornos Neurológicos y Accidentes Cerebrovasculares</dc:description>
+<dc:description xml:lang="en">Muscular dystrophy (MD) is a group of more than 30 inherited diseases. They all cause muscle weakness and muscle loss. Some forms of MD appear in infancy or childhood. Others may not appear until middle age or later. The different types can vary in whom they affect, which muscles they affect, and what the symptoms are. All forms of MD grow worse as the person's muscles get weaker. Most people with MD eventually lose the ability to walk. There is no cure for muscular dystrophy. Treatments can help with the symptoms and prevent complications. They include physical and speech therapy, orthopedic devices, surgery, and medications. Some people with MD have mild cases that worsen slowly. Others cases are disabling and severe. NIH: National Institute of Neurological Disorders and Stroke</dc:description>
+<dc:subject dcterms="mesh">Muscular Dystrophies</dc:subject>
+<dc:subject xml:lang="es">Distrofia muscular</dc:subject>
+<dc:subject xml:lang="es">Distrofia muscular  de Duchenne</dc:subject>
+<dc:subject xml:lang="en">Muscular Dystrophy</dc:subject>
+<dc:subject xml:lang="en">Duchenne Muscular Dystrophy</dc:subject>
+</metadata>
+</record>
+</MedlinePlus-document>

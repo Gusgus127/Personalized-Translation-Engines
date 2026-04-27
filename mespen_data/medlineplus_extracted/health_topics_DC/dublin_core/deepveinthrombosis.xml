@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<MedlinePlus-document>
+<record>
+<header>
+<identifier>https://medlineplus.gov/deepveinthrombosis.html</identifier>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title type="alternate" xml:lang="es">Flebitis</dc:title>
+<dc:title type="alternate" xml:lang="es">Tromboflebitis</dc:title>
+<dc:title type="alternate" xml:lang="en">DVT</dc:title>
+<dc:title type="alternate" xml:lang="en">Venous Thrombosis</dc:title>
+<dc:type>Text</dc:type>
+<dc:language>spa</dc:language>
+<dc:language>eng</dc:language>
+<dc:title xml:lang="es">Trombosis venosa profunda</dc:title>
+<dc:title xml:lang="en">Deep Vein Thrombosis</dc:title>
+<dc:publisher>National Library of Medicine</dc:publisher>
+<dc:relation type="IsPartOf">Blood, Heart and Circulation</dc:relation>
+<dc:date type="created">2003-07-29</dc:date>
+<dc:date type="modified">2018-02-07</dc:date>
+<dc:identifier type="URL" xml:lang="es">https://medlineplus.gov/spanish/deepveinthrombosis.html</dc:identifier>
+<dc:identifier type="URL" xml:lang="en">https://medlineplus.gov/deepveinthrombosis.html</dc:identifier>
+<dc:description xml:lang="es">La trombosis venosa profunda o TVP, es un coágulo sanguíneo que se forma en una vena profunda en el cuerpo. Suele ocurrir en las piernas o los muslos. Si la vena se inflama, esta condición se llama tromboflebitis. Una trombosis venosa profunda, puede desprenderse y causar un problema serio en los pulmones conocido como embolia pulmonar, un infarto o un derrame. Permanecer sentado durante mucho tiempo puede aumentar sus probabilidades de tener una TVP. Algunas medicinas y trastornos que aumentan el riesgo de coágulos sanguíneos también pueden causarle una TVP. Los síntomas comunes son: Calor y dolor por encima de la vena Dolor o inflamación en la parte del cuerpo afectada Enrojecimiento de la piel El tratamiento incluye medicinas para aliviar el dolor y la inflamación, deshacer los coágulos e impedir la formación de coágulos nuevos. Mantener el área afectada elevada y aplicar calor húmedo puede ayudar. Si va a realizar un viaje largo en automóvil o avión, haga pausas para caminar o estirar las piernas e ingiera mucho líquido.</dc:description>
+<dc:description xml:lang="en">Deep vein thrombosis, or DVT, is a blood clot that forms in a vein deep in the body. Most deep vein clots occur in the lower leg or thigh. If the vein swells, the condition is called thrombophlebitis. A deep vein thrombosis can break loose and cause a serious problem in the lung, called a pulmonary embolism. Sitting still for a long time can make you more likely to get a DVT. Some medicines and disorders that increase your risk for blood clots can also lead to DVTs. Common symptoms are Warmth and tenderness over the vein Pain or swelling in the part of the body affected Skin redness Treatment includes medicines to ease pain and inflammation, break up clots and keep new clots from forming. Keeping the affected area raised and applying moist heat can also help. If you are taking a long car or plane trip, take a break, walk or stretch your legs and drink plenty of liquids.</dc:description>
+<dc:subject dcterms="mesh">Venous Thrombosis</dc:subject>
+<dc:subject xml:lang="es">Trombosis venosa profunda</dc:subject>
+<dc:subject xml:lang="es">Flebitis</dc:subject>
+<dc:subject xml:lang="es">Tromboflebitis</dc:subject>
+<dc:subject xml:lang="en">Deep Vein Thrombosis</dc:subject>
+<dc:subject xml:lang="en">DVT</dc:subject>
+<dc:subject xml:lang="en">Venous Thrombosis</dc:subject>
+</metadata>
+</record>
+</MedlinePlus-document>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<MedlinePlus-document>
+<record>
+<header>
+<identifier>https://medlineplus.gov/surgery.html</identifier>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:type>Text</dc:type>
+<dc:language>spa</dc:language>
+<dc:language>eng</dc:language>
+<dc:title xml:lang="es">Cirugía</dc:title>
+<dc:title xml:lang="en">Surgery</dc:title>
+<dc:publisher>National Library of Medicine</dc:publisher>
+<dc:relation type="IsPartOf">Surgery and Rehabilitation</dc:relation>
+<dc:date type="created">2002-07-21</dc:date>
+<dc:date type="modified">2017-12-07</dc:date>
+<dc:identifier type="URL" xml:lang="es">https://medlineplus.gov/spanish/surgery.html</dc:identifier>
+<dc:identifier type="URL" xml:lang="en">https://medlineplus.gov/surgery.html</dc:identifier>
+<dc:description xml:lang="es">Existen muchas razones para someterse a una cirugía. Algunas operaciones pueden aliviar o prevenir el dolor. Otras pueden disminuir un síntoma de alguna condición o mejorar alguna función del cuerpo. Algunas cirugías se hacen para detectar un problema. Por ejemplo, un cirujano puede hacerle una biopsia, que implica la extirpación de tejido para examinarlo bajo el microscopio. Algunas operaciones, como la cirugía de corazón, pueden salvarle la vida. Algunas operaciones que antes necesitaban de grandes incisiones (cortes en el cuerpo) pueden hacerse con cortes mucho más pequeños. A esto se le llama cirugía laparoscópica. Los cirujanos insertan un tubo delgado con una cámara para ver, y utilizan pequeñas herramientas para realizar la operación. Puede haber complicaciones después de una cirugía, incluyendo infecciones, sangrado excesivo, reacciones a la anestesia o lesiones accidentales. Casi siempre las cirugías implican algo de dolor. Agencia Para la Calidad e Investigación y Cuidado de la Salud</dc:description>
+<dc:description xml:lang="en">There are many reasons to have surgery. Some operations can relieve or prevent pain. Others can reduce a symptom of a problem or improve some body function. Some surgeries are done to find a problem. For example, a surgeon may do a biopsy, which involves removing a piece of tissue to examine under a microscope. Some surgeries, like heart surgery, can save your life. Some operations that once needed large incisions (cuts in the body) can now be done using much smaller cuts. This is called laparoscopic surgery. Surgeons insert a thin tube with a camera to see, and use small tools to do the surgery. After surgery there can be a risk of complications, including infection, too much bleeding, reaction to anesthesia, or accidental injury. There is almost always some pain with surgery. Agency for Healthcare Research and Quality</dc:description>
+<dc:subject dcterms="mesh">Surgical Procedures, Operative</dc:subject>
+<dc:subject xml:lang="es">Cirugía</dc:subject>
+<dc:subject xml:lang="en">Surgery</dc:subject>
+<dc:subject xml:lang="en">Second Opinion</dc:subject>
+<dc:subject xml:lang="en">Operation</dc:subject>
+</metadata>
+</record>
+</MedlinePlus-document>

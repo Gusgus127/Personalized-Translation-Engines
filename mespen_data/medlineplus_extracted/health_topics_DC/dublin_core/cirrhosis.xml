@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<MedlinePlus-document>
+<record>
+<header>
+<identifier>https://medlineplus.gov/cirrhosis.html</identifier>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title type="alternate" xml:lang="es">Cirrosis del hígado</dc:title>
+<dc:title type="alternate" xml:lang="es">Hígado, Cirrosis del</dc:title>
+<dc:title type="alternate" xml:lang="en">Liver Cirrhosis</dc:title>
+<dc:type>Text</dc:type>
+<dc:language>spa</dc:language>
+<dc:language>eng</dc:language>
+<dc:title xml:lang="es">Cirrosis</dc:title>
+<dc:title xml:lang="en">Cirrhosis</dc:title>
+<dc:publisher>National Library of Medicine</dc:publisher>
+<dc:relation type="IsPartOf">Digestive System</dc:relation>
+<dc:date type="created">2002-07-21</dc:date>
+<dc:date type="modified">2018-01-26</dc:date>
+<dc:identifier type="URL" xml:lang="es">https://medlineplus.gov/spanish/cirrhosis.html</dc:identifier>
+<dc:identifier type="URL" xml:lang="en">https://medlineplus.gov/cirrhosis.html</dc:identifier>
+<dc:description xml:lang="es">La cirrosis es un conjunto de cicatrices en el hígado. El tejido cicatricial se forma por lesiones o enfermedades prolongadas. Este tejido no puede hacer lo que hace el tejido hepático sano: producir proteínas, ayudar a combatir las infecciones, limpiar la sangre, ayudar a digerir los alimentos y almacenar energía. La cirrosis puede conducir a: Formación de moretones o hematomas, sangrado o sangrado de la nariz Hinchazón del abdomen o las piernas Sensibilidad adicional a las medicinas Aumento de la presión en la vena que entra al hígado Venas dilatadas en el esófago y el estómago que pueden sangrar inesperadamente Insuficiencia renal Ictericia Picazón fuerte Piedras en la vesícula Unas pocas personas con cirrosis desarrollan cáncer de hígado. La cirrosis puede tener muchas causas. En los Estados Unidos, las causas más comunes son el alcoholismo crónico y la hepatitis. Nada hará desaparecer el tejido escamoso, pero tratar la causa puede evitar que la enfermedad empeore. Si se forma demasiado tejido escamoso, quizá deba pensar en un trasplante de hígado. NIH: Instituto Nacional de la Diabetes y las Enfermedades Digestivas y Renales</dc:description>
+<dc:description xml:lang="en">Cirrhosis is scarring of the liver. Scar tissue forms because of injury or long-term disease. Scar tissue cannot do what healthy liver tissue does - make protein, help fight infections, clean the blood, help digest food and store energy. Cirrhosis can lead to Easy bruising or bleeding, or nosebleeds Swelling of the abdomen or legs Extra sensitivity to medicines High blood pressure in the vein entering the liver Enlarged veins called varices in the esophagus and stomach. Varices can bleed suddenly. Kidney failure Jaundice Severe itching Gallstones A small number of people with cirrhosis get liver cancer. Your doctor will diagnose cirrhosis with blood tests, imaging tests, or a biopsy. Cirrhosis has many causes. In the United States, the most common causes are chronic alcoholism and hepatitis. Nothing will make the scar tissue disappear, but treating the cause can keep it from getting worse. If too much scar tissue forms, you may need to consider a liver transplant. NIH: National Institute of Diabetes and Digestive and Kidney Diseases</dc:description>
+<dc:subject dcterms="mesh">Liver Cirrhosis</dc:subject>
+<dc:subject xml:lang="es">Cirrosis</dc:subject>
+<dc:subject xml:lang="es">Cirrosis del hígado</dc:subject>
+<dc:subject xml:lang="es">Hígado</dc:subject>
+<dc:subject xml:lang="es">Cirrosis del</dc:subject>
+<dc:subject xml:lang="en">Cirrhosis</dc:subject>
+<dc:subject xml:lang="en">Liver Cirrhosis</dc:subject>
+</metadata>
+</record>
+</MedlinePlus-document>

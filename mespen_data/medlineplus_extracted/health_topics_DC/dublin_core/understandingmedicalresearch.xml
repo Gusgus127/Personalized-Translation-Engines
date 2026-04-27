@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<MedlinePlus-document>
+<record>
+<header>
+<identifier>https://medlineplus.gov/understandingmedicalresearch.html</identifier>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:type>Text</dc:type>
+<dc:language>spa</dc:language>
+<dc:language>eng</dc:language>
+<dc:title xml:lang="es">Comprendiendo la investigación médica</dc:title>
+<dc:title xml:lang="en">Understanding Medical Research</dc:title>
+<dc:publisher>National Library of Medicine</dc:publisher>
+<dc:relation type="IsPartOf">Social/Family Issues</dc:relation>
+<dc:relation type="IsPartOf">Personal Health Issues</dc:relation>
+<dc:date type="created">2006-01-11</dc:date>
+<dc:date type="modified">2017-11-09</dc:date>
+<dc:identifier type="URL" xml:lang="es">https://medlineplus.gov/spanish/understandingmedicalresearch.html</dc:identifier>
+<dc:identifier type="URL" xml:lang="en">https://medlineplus.gov/understandingmedicalresearch.html</dc:identifier>
+<dc:description xml:lang="es">Parece ocurrir casi todos los días, usted escucha el nuevo resultado de una investigación médica. Algunas veces, los resultados de un estudio parecen estar en desacuerdo con los resultados de otro. Es importante ser crítico al leer o escuchar los informes de nuevos hallazgos médicos. Algunas preguntas que pueden ayudarlo a evaluar la información de salud incluyen: ¿El estudio se hizo en animales o personas? ¿El estudio incluyó a personas como usted? ¿Se trató de un estudio clínico aleatorio y controlado? ¿Dónde se hizo la investigación? Si se estaba probando un tratamiento nuevo, ¿hubo efectos secundarios? ¿Quién pagó la investigación? ¿Quién comunicó los resultados? NIH: Institutos Nacionales de la Salud</dc:description>
+<dc:description xml:lang="en">It seems to happen almost every day - you hear about the results of a new medical research study. Sometimes the results of one study seem to disagree with the results of another study. It's important to be critical when reading or listening to reports of new medical findings. Some questions that can help you evaluate health information include: Was the study in animals or people? Does the study include people like you? How big was the study? Was it a randomized controlled clinical trial? Where was the research done? If a new treatment was being tested, were there side effects? Who paid for the research? Who is reporting the results? NIH: National Institutes of Health</dc:description>
+<dc:subject dcterms="mesh">Biomedical Research</dc:subject>
+<dc:subject dcterms="mesh">Health Knowledge, Attitudes, Practice</dc:subject>
+<dc:subject xml:lang="es">Comprendiendo la investigación médica</dc:subject>
+<dc:subject xml:lang="en">Understanding Medical Research</dc:subject>
+<dc:subject xml:lang="en">Medical Research</dc:subject>
+</metadata>
+</record>
+</MedlinePlus-document>

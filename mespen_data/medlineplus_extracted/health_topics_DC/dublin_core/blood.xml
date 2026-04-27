@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<MedlinePlus-document>
+<record>
+<header>
+<identifier>https://medlineplus.gov/blood.html</identifier>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:type>Text</dc:type>
+<dc:language>spa</dc:language>
+<dc:language>eng</dc:language>
+<dc:title xml:lang="es">Sangre</dc:title>
+<dc:title xml:lang="en">Blood</dc:title>
+<dc:publisher>National Library of Medicine</dc:publisher>
+<dc:relation type="IsPartOf">Blood, Heart and Circulation</dc:relation>
+<dc:date type="created">2012-09-17</dc:date>
+<dc:date type="modified">2017-12-06</dc:date>
+<dc:identifier type="URL" xml:lang="es">https://medlineplus.gov/spanish/blood.html</dc:identifier>
+<dc:identifier type="URL" xml:lang="en">https://medlineplus.gov/blood.html</dc:identifier>
+<dc:description xml:lang="es">La sangre es tejido vivo formado por líquidos y sólidos. La parte líquida, llamada plasma, contiene agua, sales y proteínas. Más de la mitad del cuerpo es plasma. La parte sólida de la sangre contiene glóbulos rojos, glóbulos blancos y plaquetas. Los glóbulos rojos suministran oxígeno desde los pulmones a los tejidos y órganos. Los glóbulos blancos combaten las infecciones y son parte del sistema inmunitario del cuerpo. Las plaquetas ayudan a la coagulación de la sangre cuando sufre un corte o una herida. La médula ósea, el material esponjoso dentro de los huesos, produce nuevas células sanguíneas. Las células de la sangre constantemente mueren y su cuerpo produce nuevas. Los glóbulos rojos viven unos 120 días y las plaquetas viven cerca de seis. Algunos glóbulos blancos de la sangre viven menos de un día, pero otros viven mucho más tiempo. Hay cuatro grupos de sangre: A, B, AB y O. Asimismo, la sangre es Rh positivo o Rh negativo. Así, si su tipo de sangre es A, es A positivo o A negativo. Su tipo de sangre es importante si necesita una transfusión de sangre. Y su factor de sangre puede ser importante si usted queda embarazada, ya que la incompatibilidad entre su tipo de sangre y el de su bebé puede crear problemas. Los análisis de sangre como las pruebas de conteo sanguíneo ayudan a los médicos a analizar ciertas enfermedades y condiciones. También ayudan a comprobar la función de los órganos y muestran qué tan bien están funcionando los tratamientos. Algunos problemas de la sangre pueden incluir problemas de coagulación, coágulos sanguíneos y desórdenes plaquetarios. Si pierde mucha sangre, usted puede necesitar una transfusión. NIH: Instituto Nacional del Corazón, los Pulmones y la Sangre</dc:description>
+<dc:description xml:lang="en">Your blood is made up of liquid and solids. The liquid part, called plasma, is made of water, salts, and protein. Over half of your blood is plasma. The solid part of your blood contains red blood cells, white blood cells, and platelets. Red blood cells (RBC) deliver oxygen from your lungs to your tissues and organs. White blood cells (WBC) fight infection and are part of your immune system. Platelets help blood to clot when you have a cut or wound. Bone marrow, the spongy material inside your bones, makes new blood cells. Blood cells constantly die and your body makes new ones. Red blood cells live about 120 days, and platelets live about 6 days. Some white blood cells live less than a day, but others live much longer. There are four blood types: A, B, AB, or O. Also, blood is either Rh-positive or Rh-negative. So if you have type A blood, it's either A positive or A negative. Which type you are is important if you need a blood transfusion. And your Rh factor could be important if you become pregnant - an incompatibility between your type and the baby's could create problems. Blood tests such as blood count tests help doctors check for certain diseases and conditions. They also help check the function of your organs and show how well treatments are working. Problems with your blood may include bleeding disorders, excessive clotting and platelet disorders. If you lose too much blood, you may need a transfusion. NIH: National Heart, Lung, and Blood Institute</dc:description>
+<dc:subject dcterms="mesh">Blood</dc:subject>
+<dc:subject xml:lang="es">Sangre</dc:subject>
+<dc:subject xml:lang="en">Blood</dc:subject>
+<dc:subject xml:lang="en">Blood Cells</dc:subject>
+<dc:subject xml:lang="en">ABO Blood Groups</dc:subject>
+</metadata>
+</record>
+</MedlinePlus-document>

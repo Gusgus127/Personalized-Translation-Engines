@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<MedlinePlus-document>
+<record>
+<header>
+<identifier>https://medlineplus.gov/lymedisease.html</identifier>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title type="alternate" xml:lang="es">Lyme, Enfermedad de</dc:title>
+<dc:type>Text</dc:type>
+<dc:language>spa</dc:language>
+<dc:language>eng</dc:language>
+<dc:title xml:lang="es">Enfermedad de Lyme</dc:title>
+<dc:title xml:lang="en">Lyme Disease</dc:title>
+<dc:publisher>National Library of Medicine</dc:publisher>
+<dc:relation type="IsPartOf">Infections</dc:relation>
+<dc:date type="created">2002-07-21</dc:date>
+<dc:date type="modified">2017-09-25</dc:date>
+<dc:identifier type="URL" xml:lang="es">https://medlineplus.gov/spanish/lymedisease.html</dc:identifier>
+<dc:identifier type="URL" xml:lang="en">https://medlineplus.gov/lymedisease.html</dc:identifier>
+<dc:description xml:lang="es">La enfermedad de Lyme es una infección bacteriana que se adquiere por la picadura de una garrapata infectada. Usualmente, el primer síntoma es un sarpullido que puede verse como una escarapela, pero no todas las personas presentan este sarpullido. A medida que la infección se disemina, usted puede tener: Fiebre Dolor de cabeza Dolores corporales Rigidez de cuello Cansancio La enfermedad de Lyme puede ser difícil de diagnosticar porque muchos de sus síntomas son parecidos a la gripe u otras enfermedades. Además, quizás no haya notado la picadura de la garrapata. Su proveedor de salud observará sus síntomas e historia clínica para determinar si usted padece la enfermedad de Lyme. Las pruebas de laboratorio no siempre entregan una respuesta clara hasta que usted tenga la infección por un par de semanas. Los antibióticos pueden curar la mayoría de los casos de la enfermedad de Lyme. Cuanto antes comience el tratamiento, más rápida y completa será la recuperación. Después del tratamiento, algunos pacientes pueden seguir sintiendo dolor muscular y articular y síntomas en los nervios. Esto se llama síndrome posterior a la enfermedad de Lyme. El tratamiento con antibióticos a largo plazo no ha mostrado eficacia para este síndrome. Sin embargo, existen maneras de lidiar con los síntomas y la mayoría de los pacientes mejoran con el tiempo. NIH: Instituto Nacional de Alergias y Enfermedades Infecciosas</dc:description>
+<dc:description xml:lang="en">Lyme disease is a bacterial infection you get from the bite of an infected tick. The first symptom is usually a red rash, which may look like a bull's eye. But not all people with Lyme disease have a rash. As the infection spreads to other parts of the body, you may have A fever A headache Body aches A stiff neck Fatigue Lyme disease can be hard to diagnose because many of its symptoms are like those of the flu and other diseases. And you may not have noticed a tick bite. Your health care provider will look at your symptoms and medical history to figure out whether you have Lyme disease. Lab tests may not always give a clear answer until you have been infected for at least a few weeks. Antibiotics can cure most cases of Lyme disease. The sooner treatment begins, the quicker and more complete the recovery. After treatment, some patients may still have muscle or joint aches and nervous system symptoms. This is called post-treatment Lyme disease syndrome (PTLDS). Long-term antibiotics have not been shown to help with PTLDS. However, there are ways to help with the symptoms of PTLDS, and most patients do get better with time. NIH: National Institute of Allergy and Infectious Diseases</dc:description>
+<dc:subject dcterms="mesh">Lyme Disease</dc:subject>
+<dc:subject xml:lang="es">Enfermedad de Lyme</dc:subject>
+<dc:subject xml:lang="es">Lyme</dc:subject>
+<dc:subject xml:lang="es">Enfermedad de</dc:subject>
+<dc:subject xml:lang="en">Lyme Disease</dc:subject>
+</metadata>
+</record>
+</MedlinePlus-document>

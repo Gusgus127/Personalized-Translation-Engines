@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<MedlinePlus-document>
+<record>
+<header>
+<identifier>https://medlineplus.gov/mycobacterialinfections.html</identifier>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title type="alternate" xml:lang="es">Micobacterias, Infecciones por</dc:title>
+<dc:title type="alternate" xml:lang="en">Leprosy</dc:title>
+<dc:title type="alternate" xml:lang="en">Hansen's Disease</dc:title>
+<dc:type>Text</dc:type>
+<dc:language>spa</dc:language>
+<dc:language>eng</dc:language>
+<dc:title xml:lang="es">Infecciones por micobacterias</dc:title>
+<dc:title xml:lang="en">Mycobacterial Infections</dc:title>
+<dc:publisher>National Library of Medicine</dc:publisher>
+<dc:relation type="IsPartOf">Infections</dc:relation>
+<dc:date type="created">2011-03-30</dc:date>
+<dc:date type="modified">2017-01-06</dc:date>
+<dc:identifier type="URL" xml:lang="es">https://medlineplus.gov/spanish/mycobacterialinfections.html</dc:identifier>
+<dc:identifier type="URL" xml:lang="en">https://medlineplus.gov/mycobacterialinfections.html</dc:identifier>
+<dc:description xml:lang="es">Las micobacterias son un tipo de gérmen. Hay varios tipos. El más común causa la tuberculosis Otro causa la lepra. Y otros causan infecciones llamadas infecciones por micobacterias atípicas. No son "típicas" porque no causan tuberculosis pero todavía pueden causar daño, sobre todo a personas con problemas inmunitarios, como el SIDA. A veces usted puede tener estas infecciones pero no tener síntomas. Otras veces, puede tener síntomas en los pulmones similares a los de la tuberculosis: Tos Pérdida de peso Tos con sangre o mucosidad Cansancio y fatiga Fiebre y escalofríos Transpiración de noche Falta de apetito Estas infecciones se pueden tratar con medicamentos, pero varias veces se necesitan más de uno.</dc:description>
+<dc:description xml:lang="en">Mycobacteria are a type of germ. There are many different kinds. The most common one causes tuberculosis. Another one causes leprosy. Still others cause infections that are called atypical mycobacterial infections. They aren't "typical" because they don't cause tuberculosis. But they can still harm people, especially people with other problems that affect their immunity, such as AIDS. Sometimes you can have these infections with no symptoms at all. At other times, they can cause lung symptoms similar to tuberculosis: Cough Weight loss Coughing up blood or mucus Weakness or fatigue Fever and chills Night sweats Lack of appetite and weight loss Medicines can treat these infections, but often more than one is needed to cure the infection.</dc:description>
+<dc:subject dcterms="mesh">Mycobacterium Infections</dc:subject>
+<dc:subject dcterms="mesh">Mycobacterium Infections, Nontuberculous</dc:subject>
+<dc:subject dcterms="mesh">Leprosy</dc:subject>
+<dc:subject xml:lang="es">Infecciones por micobacterias</dc:subject>
+<dc:subject xml:lang="es">Micobacterias</dc:subject>
+<dc:subject xml:lang="es">Infecciones por</dc:subject>
+<dc:subject xml:lang="en">Mycobacterial Infections</dc:subject>
+<dc:subject xml:lang="en">Leprosy</dc:subject>
+<dc:subject xml:lang="en">Hansen's Disease</dc:subject>
+</metadata>
+</record>
+</MedlinePlus-document>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<MedlinePlus-document>
+<record>
+<header>
+<identifier>https://medlineplus.gov/babyhealthcheckup.html</identifier>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title type="alternate" xml:lang="es">Bebé, Chequeo médico</dc:title>
+<dc:type>Text</dc:type>
+<dc:language>spa</dc:language>
+<dc:language>eng</dc:language>
+<dc:title xml:lang="es">Chequeo médico del bebé</dc:title>
+<dc:title xml:lang="en">Baby Health Checkup</dc:title>
+<dc:publisher>National Library of Medicine</dc:publisher>
+<dc:relation type="IsPartOf">Children and Teenagers</dc:relation>
+<dc:date type="created">2010-05-27</dc:date>
+<dc:date type="modified">2018-01-08</dc:date>
+<dc:identifier type="URL" xml:lang="es">https://medlineplus.gov/spanish/babyhealthcheckup.html</dc:identifier>
+<dc:identifier type="URL" xml:lang="en">https://medlineplus.gov/babyhealthcheckup.html</dc:identifier>
+<dc:description xml:lang="es">Hay muchas responsabilidades cuando usted tiene un bebé. Una de ellas es asegurarse de que su bebé tenga todos los chequeos médicos que necesita. Estos exámenes de rutina son importantes para saber si su bebé esta creciendo y desarrollándose normalmente. También, de haber problemas, encontrarlos pronto. Esto significa que hay mejores posibilidades de tratamiento. Durante estas visitas médicas de rutina, su bebé quizás necesite vacunas y exámenes. Aproveche esta oportunidad para preguntarle a su proveedor de cuidados médicos cualquier pregunta sobre cómo cuidar a su bebé.</dc:description>
+<dc:description xml:lang="en">There are many new responsibilities when you have a baby. One of them is to make sure they get the checkups that they need. Well-baby exams are important in making sure that your baby is growing and developing properly. If there are problems, you can catch them early. This means that there is a better chance for treatment. During these checkups, your baby will get any needed immunizations and screenings. This is also a good chance to ask your health care provider any questions about how to care for your baby.</dc:description>
+<dc:subject dcterms="mesh">Physical Examination</dc:subject>
+<dc:subject xml:lang="es">Chequeo médico del bebé</dc:subject>
+<dc:subject xml:lang="es">Bebé</dc:subject>
+<dc:subject xml:lang="es">Chequeo médico</dc:subject>
+<dc:subject xml:lang="en">Baby Health Checkup</dc:subject>
+</metadata>
+</record>
+</MedlinePlus-document>

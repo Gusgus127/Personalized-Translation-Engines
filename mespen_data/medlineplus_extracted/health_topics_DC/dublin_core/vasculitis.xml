@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<MedlinePlus-document>
+<record>
+<header>
+<identifier>https://medlineplus.gov/vasculitis.html</identifier>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title type="alternate" xml:lang="es">Venas</dc:title>
+<dc:title type="alternate" xml:lang="en">Angiitis</dc:title>
+<dc:type>Text</dc:type>
+<dc:language>spa</dc:language>
+<dc:language>eng</dc:language>
+<dc:title xml:lang="es">Vasculitis</dc:title>
+<dc:title xml:lang="en">Vasculitis</dc:title>
+<dc:publisher>National Library of Medicine</dc:publisher>
+<dc:relation type="IsPartOf">Blood, Heart and Circulation</dc:relation>
+<dc:date type="created">2003-02-07</dc:date>
+<dc:date type="modified">2017-11-08</dc:date>
+<dc:identifier type="URL" xml:lang="es">https://medlineplus.gov/spanish/vasculitis.html</dc:identifier>
+<dc:identifier type="URL" xml:lang="en">https://medlineplus.gov/vasculitis.html</dc:identifier>
+<dc:description xml:lang="es">La vasculitis es una inflamación de los vasos sanguíneos. Ocurre cuando el sistema inmunitario del cuerpo ataca a los vasos sanguíneos por equivocación. Puede ocurrir por una infección, una medicina u otra enfermedad. La causa es a menudo desconocida. La vasculitis puede afectar las arterias, venas y capilares. Las arterias son vasos que trasladan la sangre desde el corazón hacia los órganos del cuerpo. Las venas son vasos que trasladan la sangre de regreso al corazón. Los capilares son pequeños vasos sanguíneos que conectan a las arterias y las venas de menor tamaño. Cuando un vaso sanguíneo se inflama, puede: Estrecharse y hacer más difícil el paso de la sangre Cerrarse completamente por lo que la sangre no puede pasar Estirarse y debilitarse tanto que brotan. A este ensanchamiento se le llama aneurisma. Si se revienta, puede causar una peligrosa hemorragia al interior del cuerpo Los síntomas de una vasculitis pueden variar, pero suelen incluir fiebre, inflamación y una sensación general de enfermedad. La meta principal del tratamiento es detener la inflamación. Los esteroides y otros medicamentos para detener la inflamación son a menudo útiles. NIH: Instituto Nacional del Corazón, los Pulmones y la Sangre</dc:description>
+<dc:description xml:lang="en">Vasculitis is an inflammation of the blood vessels. It happens when the body's immune system attacks the blood vessel by mistake. It can happen because of an infection, a medicine, or another disease. The cause is often unknown. Vasculitis can affect arteries, veins and capillaries. Arteries are vessels that carry blood from the heart to the body's organs. Veins are the vessels that carry blood back to the heart. Capillaries are tiny blood vessels that connect the small arteries and veins. When a blood vessel becomes inflamed, it can Narrow, making it more difficult for blood to get through Close off completely so that blood can't get through Stretch and weaken so much that it bulges. The bulge is called an aneurysm. If it bursts, it can cause dangerous bleeding inside the body. Symptoms of vasculitis can vary, but usually include fever, swelling and a general sense of feeling ill. The main goal of treatment is to stop the inflammation. Steroids and other medicines to stop inflammation are often helpful. NIH: National Heart, Lung, and Blood Institute</dc:description>
+<dc:subject dcterms="mesh">Vasculitis</dc:subject>
+<dc:subject xml:lang="es">Vasculitis</dc:subject>
+<dc:subject xml:lang="es">Venas</dc:subject>
+<dc:subject xml:lang="en">Vasculitis</dc:subject>
+<dc:subject xml:lang="en">Angiitis</dc:subject>
+</metadata>
+</record>
+</MedlinePlus-document>

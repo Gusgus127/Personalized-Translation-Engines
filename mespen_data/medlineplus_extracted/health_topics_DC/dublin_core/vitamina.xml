@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<MedlinePlus-document>
+<record>
+<header>
+<identifier>https://medlineplus.gov/vitamina.html</identifier>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:type>Text</dc:type>
+<dc:language>spa</dc:language>
+<dc:language>eng</dc:language>
+<dc:title xml:lang="es">Vitamina A</dc:title>
+<dc:title xml:lang="en">Vitamin A</dc:title>
+<dc:publisher>National Library of Medicine</dc:publisher>
+<dc:relation type="IsPartOf">Food and Nutrition</dc:relation>
+<dc:date type="created">2010-03-25</dc:date>
+<dc:date type="modified">2016-03-02</dc:date>
+<dc:identifier type="URL" xml:lang="es">https://medlineplus.gov/spanish/vitamina.html</dc:identifier>
+<dc:identifier type="URL" xml:lang="en">https://medlineplus.gov/vitamina.html</dc:identifier>
+<dc:description xml:lang="es">Las vitaminas son sustancias que el cuerpo necesita para crecer y se desarrollarse en forma normal. La vitamina A juega un rol en su: Visión Crecimiento de los huesos Aparato reproductivo Funciones celulares Sistema inmune La vitamina A es un antioxidante. Se obtiene de las plantas o animales. Buenas fuentes son frutas de colores y verduras. Las fuentes animales incluyen el hígado y la leche entera. La vitamina A también es agregada a algunos alimentos como los cereales. Los vegetarianos, niños pequeños y alcohólicos quizás necesiten más vitamina A. También puede necesitar mayor cantidad si padece ciertas condiciones como enfermedades del hígado, fibrosis quística y enfermedad de Crohn. Pregúntele a su proveedor de salud si usted necesita suplementos de vitamina A. NIH: Oficina de Suplementos Dietéticos</dc:description>
+<dc:description xml:lang="en">Vitamins are substances that your body needs to grow and develop normally. Vitamin A plays a role in your Vision Bone growth Reproduction Cell functions Immune system Vitamin A is an antioxidant. It can come from plant or animal sources. Plant sources include colorful fruits and vegetables. Animal sources include liver and whole milk. Vitamin A is also added to foods like cereals. Vegetarians, young children, and alcoholics may need extra Vitamin A. You might also need more if you have certain conditions, such as liver diseases, cystic fibrosis, and Crohn's disease. Check with your health care provider to see if you need to take vitamin A supplements. NIH: National Institutes of Health Office of Dietary Supplements</dc:description>
+<dc:subject dcterms="mesh">Vitamin A</dc:subject>
+<dc:subject xml:lang="es">Vitamina A</dc:subject>
+<dc:subject xml:lang="en">Vitamin A</dc:subject>
+<dc:subject xml:lang="en">Retinol</dc:subject>
+</metadata>
+</record>
+</MedlinePlus-document>

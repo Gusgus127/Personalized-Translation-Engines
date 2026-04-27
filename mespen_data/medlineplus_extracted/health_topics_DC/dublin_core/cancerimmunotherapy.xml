@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<MedlinePlus-document>
+<record>
+<header>
+<identifier>https://medlineplus.gov/cancerimmunotherapy.html</identifier>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title type="alternate" xml:lang="es">Cáncer, Inmunoterapia</dc:title>
+<dc:type>Text</dc:type>
+<dc:language>spa</dc:language>
+<dc:language>eng</dc:language>
+<dc:title xml:lang="es">Inmunoterapia para el cáncer</dc:title>
+<dc:title xml:lang="en">Cancer Immunotherapy</dc:title>
+<dc:publisher>National Library of Medicine</dc:publisher>
+<dc:relation type="IsPartOf">Cancers</dc:relation>
+<dc:date type="created">2016-12-27</dc:date>
+<dc:date type="modified">2017-12-12</dc:date>
+<dc:identifier type="URL" xml:lang="es">https://medlineplus.gov/spanish/cancerimmunotherapy.html</dc:identifier>
+<dc:identifier type="URL" xml:lang="en">https://medlineplus.gov/cancerimmunotherapy.html</dc:identifier>
+<dc:description xml:lang="es">La inmunoterapia es un tratamiento contra el cáncer que ayuda a su sistema inmunitario a combatir la enfermedad. Es un tipo de terapia biológica. La terapia biológica utiliza sustancias hechas a partir de organismos vivos, o versiones de estas sustancias que son producidas en un laboratorio. Los médicos aun no utilizan la inmunoterapia tan a menudo como otros tratamientos contra el cáncer, como la cirugía, la quimioterapia y la radioterapia. Pero sí usan la inmunoterapia para algunos tipos de cáncer, y los investigadores están realizando ensayos clínicos para averiguar si funciona también para otros tipos. Cuando usted tiene cáncer, algunas de sus células comienzan a multiplicarse sin detenerse. Estas se diseminan a los tejidos cercanos. Una de las razones por las que las células cancerosas pueden seguir creciendo y propagándose es que son capaces de esconderse de su sistema inmunitario. Algunas inmunoterapias pueden "marcar" sus células cancerosas. Esto hace que sea más fácil para su sistema inmunitario encontrar y destruir estas células. Es un tipo de terapia dirigida, un tratamiento que se dirige específicamente a las células cancerosas. Otros tipos de inmunoterapias trabajan potenciando su sistema inmunitario para trabajar mejor contra el cáncer. Usted puede ser tratado con inmunoterapia por vía intravenosa, píldoras o cápsulas, o con una crema para su piel. Para el cáncer de vejiga, pueden aplicarla directamente en la vejiga. Puede recibir tratamiento todos los días, semanas o meses. Algunas inmunoterapias se administran en ciclos. Depende de su tipo de cáncer, de lo avanzado que esté, del tipo de inmunoterapia y de su funcionamiento. Usted puede tener efectos secundarios. Los más comunes son reacciones en la piel donde se aplique la aguja, si es por vía intravenosa. Otros efectos secundarios pueden incluir síntomas similares a los de la gripe, o reacciones severas en raras ocasiones. NIH: Instituto Nacional del Cáncer</dc:description>
+<dc:description xml:lang="en">Immunotherapy is a cancer treatment that helps your immune system fight cancer. It is a type of biological therapy. Biological therapy uses substances that are made from living organisms, or versions of these substances that are made in a lab. Doctors don't yet use immunotherapy as often as other cancer treatments, such as surgery, chemotherapy, and radiation therapy. But they do use immunotherapy for some types of cancer, and researchers are doing clinical trials to see whether it also works for other types. When you have cancer, some of your cells begin to multiply without stopping. They spread into the surrounding tissues. One reason that the cancer cells can keep growing and spreading is that they are able to hide from your immune system. Some immunotherapies can "mark" your cancer cells. This makes it easier for your immune system to find and destroy the cells. It is a type of targeted therapy, a treatment that specifically targets cancer cells. Other types of immunotherapies work by boosting your immune system to work better against cancer. You could get immunotherapy intravenously (by IV), in pills or capsules, or in a cream for your skin. For bladder cancer, they might place it directly into your bladder. You may have treatment every day, week, or month. Some immunotherapies are given in cycles. It depends on your type of cancer, how advanced it is, the type of immunotherapy you get, and how well it is working. You may have side effects. The most common side effects are skin reactions at the needle site, if you get it by IV. Other side effects may include flu-like symptoms, or rarely, severe reactions. NIH: National Cancer Institute</dc:description>
+<dc:subject dcterms="mesh">Neoplasms</dc:subject>
+<dc:subject dcterms="mesh">Immunotherapy</dc:subject>
+<dc:subject xml:lang="es">Inmunoterapia para el cáncer</dc:subject>
+<dc:subject xml:lang="es">Cáncer</dc:subject>
+<dc:subject xml:lang="es">Inmunoterapia</dc:subject>
+<dc:subject xml:lang="en">Cancer Immunotherapy</dc:subject>
+</metadata>
+</record>
+</MedlinePlus-document>

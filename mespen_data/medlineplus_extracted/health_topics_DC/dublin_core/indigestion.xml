@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<MedlinePlus-document>
+<record>
+<header>
+<identifier>https://medlineplus.gov/indigestion.html</identifier>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:type>Text</dc:type>
+<dc:language>spa</dc:language>
+<dc:language>eng</dc:language>
+<dc:title xml:lang="es">Indigestión</dc:title>
+<dc:title xml:lang="en">Indigestion</dc:title>
+<dc:publisher>National Library of Medicine</dc:publisher>
+<dc:relation type="IsPartOf">Symptoms</dc:relation>
+<dc:relation type="IsPartOf">Digestive System</dc:relation>
+<dc:date type="created">2006-02-23</dc:date>
+<dc:date type="modified">2017-09-18</dc:date>
+<dc:identifier type="URL" xml:lang="es">https://medlineplus.gov/spanish/indigestion.html</dc:identifier>
+<dc:identifier type="URL" xml:lang="en">https://medlineplus.gov/indigestion.html</dc:identifier>
+<dc:description xml:lang="es">Casi todas las personas han tenido una indigestión alguna vez. Es una sensación de incomodidad o un ardor en la parte superior del abdomen. Puede tener acidez o eructos y sentirse hinchado. También puede sentir náuseas e inclusive vomitar. La indigestión puede ser consecuencia de comer demasiado o demasiado rápido, ingerir alimentos grasosos o comer en momentos de estrés. Fumar, beber demasiado alcohol, consumir algunas medicinas, el cansancio excesivo y el estrés continuo también pueden causar indigestión o empeorarla. Algunas veces, la causa es un problema en las vías digestivas, como una úlcera o una enfermedad por reflujo gastroesofágico (ERGE). Evitar los alimentos y las situaciones que parecen causarla puede ayudar. La indigestión puede ser un signo de un problema más serio. Consulte a su médico si la indigestión continúa por más de dos semanas o tiene dolores fuertes u otros síntomas graves. Su proveedor de cuidados de salud puede pedirle rayos X, exámenes de laboratorio y/o una endoscopia superior para conocer la causa de la indigestión. Puede ser que necesite remedios para tratar los síntomas. NIH: Instituto Nacional de la Diabetes y las Enfermedades Digestivas y Renales</dc:description>
+<dc:description xml:lang="en">Nearly everyone has had indigestion at one time. It's a feeling of discomfort or a burning feeling in your upper abdomen. You may have heartburn or belch and feel bloated. You may also feel nauseated, or even throw up. You might get indigestion from eating too much or too fast, eating high-fat foods, or eating when you're stressed. Smoking, drinking too much alcohol, using some medicines, being tired, and having ongoing stress can also cause indigestion or make it worse. Sometimes the cause is a problem with the digestive tract, like an ulcer or GERD. Avoiding foods and situations that seem to cause it may help. Because indigestion can be a sign of a more serious problem, see your health care provider if it lasts for more than two weeks or if you have severe pain or other symptoms. Your health care provider may use x-rays, lab tests, and an upper endoscopy to diagnose the cause. You may need medicines to treat the symptoms. NIH: National Institute of Diabetes and Digestive and Kidney Diseases</dc:description>
+<dc:subject dcterms="mesh">Dyspepsia</dc:subject>
+<dc:subject xml:lang="es">Indigestión</dc:subject>
+<dc:subject xml:lang="en">Indigestion</dc:subject>
+<dc:subject xml:lang="en">Dyspepsia</dc:subject>
+<dc:subject xml:lang="en">Upset Stomach</dc:subject>
+</metadata>
+</record>
+</MedlinePlus-document>

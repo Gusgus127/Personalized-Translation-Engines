@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<MedlinePlus-document>
+<record>
+<header>
+<identifier>https://medlineplus.gov/prediabetes.html</identifier>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:type>Text</dc:type>
+<dc:language>spa</dc:language>
+<dc:language>eng</dc:language>
+<dc:title xml:lang="es">Prediabetes</dc:title>
+<dc:title xml:lang="en">Prediabetes</dc:title>
+<dc:publisher>National Library of Medicine</dc:publisher>
+<dc:relation type="IsPartOf">Endocrine System</dc:relation>
+<dc:relation type="IsPartOf">Diabetes Mellitus</dc:relation>
+<dc:date type="created">2011-03-22</dc:date>
+<dc:date type="modified">2017-11-08</dc:date>
+<dc:identifier type="URL" xml:lang="es">https://medlineplus.gov/spanish/prediabetes.html</dc:identifier>
+<dc:identifier type="URL" xml:lang="en">https://medlineplus.gov/prediabetes.html</dc:identifier>
+<dc:description xml:lang="es">Si usted tiene prediabetes significa que sus niveles de glucosa (un tipo de azúcar) en la sangre son más altos de lo normal pero no lo suficientemente altos como para diagnosticarlo con diabetes. La glucosa proviene de las comidas que usted ingiere. Con el tiempo, demasiada glucosa en su sangre puede dañar su cuerpo. Si usted tiene prediabetes, tiene más posibilidades de sufrir de diabetes tipo 2, enfermedades del corazón y derrame cerebral. La mayoría de la gente con prediabetes no tiene ningún síntoma. Su doctor puede realizarle una prueba de A1c u otros exámenes para saber si sus niveles de glucosa son más altos de lo normal. Si usted tiene más de 45 años, su doctor puede recomendarle que se haga una prueba de prediabetes, sobre todo si está excedido de peso. Bajar de peso (por lo menos del 5 al 10% de su peso actual) puede prevenir o retrasar la diabetes. Incluso puede revertir la prediabetes. Esto es 10 a 20 libras (4.5 a 9 kg) para alguien que pesa 200 libras (91 kg). Usted puede bajar de peso consumiendo menos calorías y grasas y haciendo ejercicio por lo menos 30 minutos por día. El ejercicio hace que la insulina de su cuerpo funcione mejor. Su doctor quizás le recete algún medicamento para controlar la cantidad de glucosa en su sangre. NIH: Instituto Nacional de la Diabetes y las Enfermedades Digestivas y Renales</dc:description>
+<dc:description xml:lang="en">Prediabetes means you have blood glucose, or blood sugar, levels that are higher than normal but not high enough to be called diabetes. Glucose comes from the foods you eat. Too much glucose in your blood can damage your body over time. If you have prediabetes, you are more likely to develop type 2 diabetes, heart disease, and stroke. Most people with prediabetes don't have any symptoms. Your doctor can use an A1C test or another blood test to find out if your blood glucose levels are higher than normal. If you are 45 years old or older, your doctor may recommend that you be tested for prediabetes, especially if you are overweight. Losing weight - at least 5 to 10 percent of your starting weight - can prevent or delay diabetes or even reverse prediabetes. That's 10 to 20 pounds for someone who weighs 200 pounds. You can lose weight by cutting down on the amount of calories and fat you eat and being physically active at least 30 minutes a day. Being physically active makes your body's insulin work better. Your doctor may also prescribe medicine to help control the amount of glucose in your blood. NIH: National Institute of Diabetes and Digestive and Kidney Diseases</dc:description>
+<dc:subject dcterms="mesh">Prediabetic State</dc:subject>
+<dc:subject xml:lang="es">Prediabetes</dc:subject>
+<dc:subject xml:lang="en">Prediabetes</dc:subject>
+<dc:subject xml:lang="en">Insulin Resistance</dc:subject>
+</metadata>
+</record>
+</MedlinePlus-document>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<MedlinePlus-document>
+<record>
+<header>
+<identifier>https://medlineplus.gov/pancreaticdiseases.html</identifier>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title type="alternate" xml:lang="es">Páncreas, Enfermedades del</dc:title>
+<dc:title type="alternate" xml:lang="es">Zollinger-Ellison, Síndrome</dc:title>
+<dc:type>Text</dc:type>
+<dc:language>spa</dc:language>
+<dc:language>eng</dc:language>
+<dc:title xml:lang="es">Enfermedades del páncreas</dc:title>
+<dc:title xml:lang="en">Pancreatic Diseases</dc:title>
+<dc:publisher>National Library of Medicine</dc:publisher>
+<dc:relation type="IsPartOf">Endocrine System</dc:relation>
+<dc:relation type="IsPartOf">Digestive System</dc:relation>
+<dc:date type="created">2002-07-21</dc:date>
+<dc:date type="modified">2018-01-18</dc:date>
+<dc:identifier type="URL" xml:lang="es">https://medlineplus.gov/spanish/pancreaticdiseases.html</dc:identifier>
+<dc:identifier type="URL" xml:lang="en">https://medlineplus.gov/pancreaticdiseases.html</dc:identifier>
+<dc:description xml:lang="es">El páncreas es una glándula localizada detrás del estómago y por delante de la columna. Produce jugos que ayudan a descomponer los alimentos y hormonas que ayudan a controlar los niveles de azúcar en la sangre. Los problemas en el páncreas pueden conducir a muchos problemas de salud. Entre ellos: Pancreatitis o inflamación del páncreas: esto ocurre cuando las enzimas digestivas comienzan a digerir al mismo páncreas Cáncer de páncreas Fibrosis quística, un trastorno genético en el que una secreción mucosa espesa y pegajosa pueden obstruir los conductos pancreáticos El páncreas también tiene un papel en la diabetes. En la diabetes tipo I, las células beta del páncreas no producen insulina debido a una reacción del sistema inmunitario del cuerpo contra ellas. En la diabetes tipo 2, el páncreas pierde la capacidad de segregar suficiente insulina en respuesta a las comidas.</dc:description>
+<dc:description xml:lang="en">The pancreas is a gland behind your stomach and in front of your spine. It produces juices that help break down food and hormones that help control blood sugar levels. Problems with the pancreas can lead to many health problems. These include Pancreatitis, or inflammation of the pancreas: This happens when digestive enzymes start digesting the pancreas itself Pancreatic cancer Cystic fibrosis, a genetic disorder in which thick, sticky mucus can also block tubes in your pancreas The pancreas also plays a role in diabetes. In type 1 diabetes, the beta cells of the pancreas no longer make insulin because the body's immune system has attacked them. In type 2 diabetes, the pancreas loses the ability to secrete enough insulin in response to meals.</dc:description>
+<dc:subject dcterms="mesh">Pancreatic Diseases</dc:subject>
+<dc:subject xml:lang="es">Enfermedades del páncreas</dc:subject>
+<dc:subject xml:lang="es">Páncreas</dc:subject>
+<dc:subject xml:lang="es">Enfermedades del</dc:subject>
+<dc:subject xml:lang="es">Zollinger-Ellison</dc:subject>
+<dc:subject xml:lang="es">Síndrome</dc:subject>
+<dc:subject xml:lang="en">Pancreatic Diseases</dc:subject>
+</metadata>
+</record>
+</MedlinePlus-document>

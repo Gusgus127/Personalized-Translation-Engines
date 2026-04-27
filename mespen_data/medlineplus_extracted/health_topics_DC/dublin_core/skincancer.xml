@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<MedlinePlus-document>
+<record>
+<header>
+<identifier>https://medlineplus.gov/skincancer.html</identifier>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title type="alternate" xml:lang="es">Carcinoma basocelular</dc:title>
+<dc:title type="alternate" xml:lang="es">Piel, Cáncer de</dc:title>
+<dc:title type="alternate" xml:lang="es">Carcinoma de células de Merkel</dc:title>
+<dc:title type="alternate" xml:lang="es">Merkel, Carcinoma de las células de</dc:title>
+<dc:title type="alternate" xml:lang="en">Basal Cell Carcinoma</dc:title>
+<dc:title type="alternate" xml:lang="en">Merkel Cell Cancer</dc:title>
+<dc:title type="alternate" xml:lang="en">Actinic Keratosis</dc:title>
+<dc:type>Text</dc:type>
+<dc:language>spa</dc:language>
+<dc:language>eng</dc:language>
+<dc:title xml:lang="es">Cáncer de piel</dc:title>
+<dc:title xml:lang="en">Skin Cancer</dc:title>
+<dc:publisher>National Library of Medicine</dc:publisher>
+<dc:relation type="IsPartOf">Skin, Hair and Nails</dc:relation>
+<dc:relation type="IsPartOf">Cancers</dc:relation>
+<dc:date type="created">2002-07-21</dc:date>
+<dc:date type="modified">2017-10-16</dc:date>
+<dc:identifier type="URL" xml:lang="es">https://medlineplus.gov/spanish/skincancer.html</dc:identifier>
+<dc:identifier type="URL" xml:lang="en">https://medlineplus.gov/skincancer.html</dc:identifier>
+<dc:description xml:lang="es">El cáncer de piel es la forma de cáncer más común en los Estados Unidos. Los dos tipos más comunes son el cáncer de células basales y el cáncer de células escamosas. Por lo general, se forman en la cabeza, la cara, el cuello, las manos y los brazos. Otro tipo de cáncer de piel, el melanoma, es más peligroso pero menos común. Cualquier persona puede desarrollar cáncer de piel, pero es más común entre quienes: Pasan mucho tiempo bajo el sol o sufrieron quemaduras por el sol Tienen piel, cabello y ojos claros Tienen un familiar con cáncer de piel Tienen más de 50 años de edad Debe hacer que un médico revise cualquier indicio sospechoso en la piel y cualquier cambio en el aspecto de su piel. El tratamiento tiene más probabilidades de surtir mejor efecto cuando el cáncer se detecta con anticipación. Cuando no se tratan, ciertos tipos de cáncer de piel pueden diseminarse a otros tejidos y órganos. Los tratamientos incluyen cirugía, radioterapia, quimioterapia, terapia fotodinámica (PDT, por sus siglas en inglés) y terapia biológica. La terapia fotodinámica utiliza un medicamento y un tipo de luz láser para eliminar las células cancerosas. La terapia biológica aumenta la propia capacidad del cuerpo para combatir el cáncer. NIH: Instituto Nacional del Cáncer</dc:description>
+<dc:description xml:lang="en">Skin cancer is the most common form of cancer in the United States. The two most common types are basal cell cancer and squamous cell cancer. They usually form on the head, face, neck, hands, and arms. Another type of skin cancer, melanoma, is more dangerous but less common. Anyone can get skin cancer, but it is more common in people who Spend a lot of time in the sun or have been sunburned Have light-colored skin, hair and eyes Have a family member with skin cancer Are over age 50 You should have your doctor check any suspicious skin markings and any changes in the way your skin looks. Treatment is more likely to work well when cancer is found early. If not treated, some types of skin cancer cells can spread to other tissues and organs. Treatments include surgery, radiation therapy, chemotherapy, photodynamic therapy (PDT), and biologic therapy. PDT uses a drug and a type of laser light to kill cancer cells. Biologic therapy boosts your body's own ability to fight cancer. NIH: National Cancer Institute</dc:description>
+<dc:subject dcterms="mesh">Skin Neoplasms</dc:subject>
+<dc:subject xml:lang="es">Cáncer de piel</dc:subject>
+<dc:subject xml:lang="es">Carcinoma basocelular</dc:subject>
+<dc:subject xml:lang="es">Piel</dc:subject>
+<dc:subject xml:lang="es">Cáncer de</dc:subject>
+<dc:subject xml:lang="es">Carcinoma de células de Merkel</dc:subject>
+<dc:subject xml:lang="es">Merkel</dc:subject>
+<dc:subject xml:lang="es">Carcinoma de las células de</dc:subject>
+<dc:subject xml:lang="en">Skin Cancer</dc:subject>
+<dc:subject xml:lang="en">Basal Cell Carcinoma</dc:subject>
+<dc:subject xml:lang="en">Merkel Cell Cancer</dc:subject>
+<dc:subject xml:lang="en">Actinic Keratosis</dc:subject>
+</metadata>
+</record>
+</MedlinePlus-document>

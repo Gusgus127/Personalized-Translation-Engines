@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<MedlinePlus-document>
+<record>
+<header>
+<identifier>https://medlineplus.gov/pregnancy.html</identifier>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:type>Text</dc:type>
+<dc:language>spa</dc:language>
+<dc:language>eng</dc:language>
+<dc:title xml:lang="es">Embarazo</dc:title>
+<dc:title xml:lang="en">Pregnancy</dc:title>
+<dc:publisher>National Library of Medicine</dc:publisher>
+<dc:relation type="IsPartOf">Pregnancy and Reproduction</dc:relation>
+<dc:relation type="IsPartOf">Women</dc:relation>
+<dc:relation type="IsPartOf">Female Reproductive System</dc:relation>
+<dc:date type="created">2002-07-21</dc:date>
+<dc:date type="modified">2018-02-05</dc:date>
+<dc:identifier type="URL" xml:lang="es">https://medlineplus.gov/spanish/pregnancy.html</dc:identifier>
+<dc:identifier type="URL" xml:lang="en">https://medlineplus.gov/pregnancy.html</dc:identifier>
+<dc:description xml:lang="es">¡Así que va a tener un bebé! Ya sea que esté embarazada o que planee embarazarse, deseará que su bebé empiece por nacer sano. Deberá consultar periódicamente a su proveedor de atención médica. Estas visitas para el cuidado prenatal son muy importantes para usted y para el bebé. Algunas cosas que usted podría hacer durante el embarazo pueden dañar al bebé, como fumar o beber. Algunos medicamentos también pueden resultar ser problemáticos, incluso aquellos recetados por un médico. Deberá beber líquidos en abundancia y llevar una dieta sana. También quizá puede sentirse cansada y necesitar más descanso. Su cuerpo cambiará a medida que crece el bebé durante los nueve meses de su embarazo. No dude en llamar a su médico si usted cree que existe un problema o algo le molesta o le preocupa.</dc:description>
+<dc:description xml:lang="en">So you're going to have a baby! Whether you are pregnant or are planning to get pregnant, you will want to give your baby a healthy start. You need to have regular visits with your health care provider. These prenatal care visits are very important for your baby and yourself. Some things you might do when you are pregnant could hurt your baby, such as smoking or drinking. Some medicines can also be a problem, even ones that a doctor prescribed. You will need to drink plenty of fluids and eat a healthy diet. You may also be tired and need more rest. Your body will change as your baby grows during the nine months of your pregnancy. Don't hesitate to call your health care provider if you think you have a problem or something is bothering or worrying you.</dc:description>
+<dc:subject dcterms="mesh">Pregnancy</dc:subject>
+<dc:subject xml:lang="es">Embarazo</dc:subject>
+<dc:subject xml:lang="en">Pregnancy</dc:subject>
+</metadata>
+</record>
+</MedlinePlus-document>

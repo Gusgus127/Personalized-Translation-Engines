@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<MedlinePlus-document>
+<record>
+<header>
+<identifier>https://medlineplus.gov/hispanicamericanhealth.html</identifier>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title type="alternate" xml:lang="es">Salud de los latinos</dc:title>
+<dc:title type="alternate" xml:lang="es">Hispanoamericanos, Salud de los</dc:title>
+<dc:title type="alternate" xml:lang="es">Latinos, Salud de los</dc:title>
+<dc:title type="alternate" xml:lang="es">Hispanos, Salud</dc:title>
+<dc:title type="alternate" xml:lang="es">Latinoamericanos, Salud de los</dc:title>
+<dc:title type="alternate" xml:lang="es">Salud de los hispanoamericanos</dc:title>
+<dc:title type="alternate" xml:lang="en">Latino Health</dc:title>
+<dc:type>Text</dc:type>
+<dc:language>spa</dc:language>
+<dc:language>eng</dc:language>
+<dc:title xml:lang="es">Salud de los hispanos</dc:title>
+<dc:title xml:lang="en">Hispanic American Health</dc:title>
+<dc:publisher>National Library of Medicine</dc:publisher>
+<dc:relation type="IsPartOf">Population Groups</dc:relation>
+<dc:date type="created">2002-07-21</dc:date>
+<dc:date type="modified">2018-01-09</dc:date>
+<dc:identifier type="URL" xml:lang="es">https://medlineplus.gov/spanish/hispanicamericanhealth.html</dc:identifier>
+<dc:identifier type="URL" xml:lang="en">https://medlineplus.gov/hispanicamericanhealth.html</dc:identifier>
+<dc:description xml:lang="es">Cada grupo racial o étnico tiene problemas de salud específicos. Las diferencias en la salud de los distintos grupos pueden resultar de: Factores genéticos Factores del medio ambiente Acceso a la atención médica Factores culturales En esta página encontrará enlaces para los problemas de salud que afectan a las personas hispanoamericanas.</dc:description>
+<dc:description xml:lang="en">Every racial or ethnic group has specific health concerns. Differences in the health of groups can result from Genetics Environmental factors Access to care Cultural factors On this page, you'll find links to health issues that affect Hispanic Americans.</dc:description>
+<dc:subject dcterms="mesh">Hispanic Americans</dc:subject>
+<dc:subject xml:lang="es">Salud de los hispanos</dc:subject>
+<dc:subject xml:lang="es">Salud de los latinos</dc:subject>
+<dc:subject xml:lang="es">Hispanoamericanos</dc:subject>
+<dc:subject xml:lang="es">Salud de los</dc:subject>
+<dc:subject xml:lang="es">Latinos</dc:subject>
+<dc:subject xml:lang="es">Salud de los</dc:subject>
+<dc:subject xml:lang="es">Hispanos</dc:subject>
+<dc:subject xml:lang="es">Salud</dc:subject>
+<dc:subject xml:lang="es">Latinoamericanos</dc:subject>
+<dc:subject xml:lang="es">Salud de los</dc:subject>
+<dc:subject xml:lang="es">Salud de los hispanoamericanos</dc:subject>
+<dc:subject xml:lang="en">Hispanic American Health</dc:subject>
+<dc:subject xml:lang="en">Latino Health</dc:subject>
+</metadata>
+</record>
+</MedlinePlus-document>

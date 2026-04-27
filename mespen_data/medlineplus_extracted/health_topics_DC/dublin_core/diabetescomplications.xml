@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<MedlinePlus-document>
+<record>
+<header>
+<identifier>https://medlineplus.gov/diabetescomplications.html</identifier>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:type>Text</dc:type>
+<dc:language>spa</dc:language>
+<dc:language>eng</dc:language>
+<dc:title xml:lang="es">Complicaciones de la diabetes</dc:title>
+<dc:title xml:lang="en">Diabetes Complications</dc:title>
+<dc:publisher>National Library of Medicine</dc:publisher>
+<dc:relation type="IsPartOf">Metabolic Problems</dc:relation>
+<dc:relation type="IsPartOf">Diabetes Mellitus</dc:relation>
+<dc:relation type="IsPartOf">Endocrine System</dc:relation>
+<dc:date type="created">2008-07-23</dc:date>
+<dc:date type="modified">2018-01-03</dc:date>
+<dc:identifier type="URL" xml:lang="es">https://medlineplus.gov/spanish/diabetescomplications.html</dc:identifier>
+<dc:identifier type="URL" xml:lang="en">https://medlineplus.gov/diabetescomplications.html</dc:identifier>
+<dc:description xml:lang="es">Si tiene diabetes, el nivel de azúcar en su sangre está muy elevado. Con el paso del tiempo, eso puede causar problemas en ciertas partes del cuerpo, tales como los riñones, los nervios, los pies y los ojos. Tener diabetes también puede aumentar el riesgo de tener enfermedades cardíacas y trastornos óseos y articulares. Otras complicaciones a largo plazo de la diabetes incluyen problemas con la piel, problemas en el aparato digestivo, disfunción sexual y problemas en los dientes y las encías. Las personas diabéticas también pueden tener urgencias médicas debido a los niveles muy altos o muy bajos de azúcar en la sangre. La causa puede ser una infección subyacente, algunas medicinas o inclusive las medicinas que toma para controlar la diabetes. Si tiene náuseas o se siente cansado o tembloroso busque atención médica de inmediato. NIH: Instituto Nacional de la Diabetes y las Enfermedades Digestivas y Renales</dc:description>
+<dc:description xml:lang="en">If you have diabetes, your blood glucose, or blood sugar, levels are too high. Over time, this can cause problems with other body functions, such as your kidneys, nerves, feet, and eyes. Having diabetes can also put you at a higher risk for heart disease and bone and joint disorders. Other long-term complications of diabetes include skin problems, digestive problems, sexual dysfunction, and problems with your teeth and gums. Very high or very low blood sugar levels can also lead to emergencies in people with diabetes. The cause can be an underlying infection, certain medicines, or even the medicines you take to control your diabetes. If you feel nauseated, sluggish or shaky, seek emergency care. NIH: National Institute of Diabetes and Digestive and Kidney Diseases</dc:description>
+<dc:subject dcterms="mesh">Diabetes Complications</dc:subject>
+<dc:subject xml:lang="es">Complicaciones de la diabetes</dc:subject>
+<dc:subject xml:lang="en">Diabetes Complications</dc:subject>
+</metadata>
+</record>
+</MedlinePlus-document>

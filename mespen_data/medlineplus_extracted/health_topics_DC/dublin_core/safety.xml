@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<MedlinePlus-document>
+<record>
+<header>
+<identifier>https://medlineplus.gov/safety.html</identifier>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title type="alternate" xml:lang="es">Accidentes, Prevención</dc:title>
+<dc:title type="alternate" xml:lang="es">Prevención de accidentes</dc:title>
+<dc:title type="alternate" xml:lang="en">Accident Prevention</dc:title>
+<dc:type>Text</dc:type>
+<dc:language>spa</dc:language>
+<dc:language>eng</dc:language>
+<dc:title xml:lang="es">Seguridad</dc:title>
+<dc:title xml:lang="en">Safety</dc:title>
+<dc:publisher>National Library of Medicine</dc:publisher>
+<dc:relation type="IsPartOf">Safety Issues</dc:relation>
+<dc:date type="created">2002-07-21</dc:date>
+<dc:date type="modified">2018-01-23</dc:date>
+<dc:identifier type="URL" xml:lang="es">https://medlineplus.gov/spanish/safety.html</dc:identifier>
+<dc:identifier type="URL" xml:lang="en">https://medlineplus.gov/safety.html</dc:identifier>
+<dc:description xml:lang="es">Es imposible eliminar todos los peligros en la vida, pero se pueden disminuir. Si se toman las siguientes medidas, se pueden evitar los peligros mayores y prepararse para emergencias: Conserve los números telefónicos de emergencia cerca de sus teléfonos Prepare un botiquín de primeros auxilios para su casa Prepare un plan familiar de emergencia Instale y mantenga activados los detectores de humo y de monóxido de carbono Mantenga las armas descargadas y bajo llave. Guarde las municiones separadamente bajo llave Siga cuidadosamente las instrucciones cuando utilice herramientas o equipos Los niños pequeños corren riesgos especiales. La supervisión es la mejor manera de mantenerlos seguros. Preparar la casa con protección especial para niños también puede ayudar.</dc:description>
+<dc:description xml:lang="en">You can't remove all the safety hazards from your life, but you can reduce them. To avoid many major hazards and prepare for emergencies Keep emergency phone numbers by your telephones Make a first aid kit for your home Make a family emergency plan Install and maintain smoke alarms and carbon monoxide detectors Keep guns unloaded and locked up. Lock up the ammunition separately. Follow the directions carefully when using tools or equipment Young children are especially at risk. Supervision is the best way to keep them safe. Childproofing the house can also help.</dc:description>
+<dc:subject dcterms="mesh">Safety</dc:subject>
+<dc:subject xml:lang="es">Seguridad</dc:subject>
+<dc:subject xml:lang="es">Accidentes</dc:subject>
+<dc:subject xml:lang="es">Prevención</dc:subject>
+<dc:subject xml:lang="es">Prevención de accidentes</dc:subject>
+<dc:subject xml:lang="en">Safety</dc:subject>
+<dc:subject xml:lang="en">Accident Prevention</dc:subject>
+</metadata>
+</record>
+</MedlinePlus-document>

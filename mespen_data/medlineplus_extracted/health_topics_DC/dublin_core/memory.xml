@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<MedlinePlus-document>
+<record>
+<header>
+<identifier>https://medlineplus.gov/memory.html</identifier>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title type="alternate" xml:lang="es">Pérdida de memoria</dc:title>
+<dc:title type="alternate" xml:lang="es">Amnesia</dc:title>
+<dc:title type="alternate" xml:lang="en">Amnesia</dc:title>
+<dc:type>Text</dc:type>
+<dc:language>spa</dc:language>
+<dc:language>eng</dc:language>
+<dc:title xml:lang="es">Memoria</dc:title>
+<dc:title xml:lang="en">Memory</dc:title>
+<dc:publisher>National Library of Medicine</dc:publisher>
+<dc:relation type="IsPartOf">Mental Health and Behavior</dc:relation>
+<dc:relation type="IsPartOf">Brain and Nerves</dc:relation>
+<dc:relation type="IsPartOf">Seniors</dc:relation>
+<dc:date type="created">2002-07-21</dc:date>
+<dc:date type="modified">2018-01-03</dc:date>
+<dc:identifier type="URL" xml:lang="es">https://medlineplus.gov/spanish/memory.html</dc:identifier>
+<dc:identifier type="URL" xml:lang="en">https://medlineplus.gov/memory.html</dc:identifier>
+<dc:description xml:lang="es">Cada día, usted vive diferentes experiencias y aprende cosas nuevas. Su cerebro no puede almacenar toda esa información, por lo que tiene que decidir qué vale la pena recordar. La memoria es el proceso de almacenamiento para luego recordar esta información. Hay diferentes tipos de memoria. La memoria de corto plazo almacena información por unos pocos segundos o minutos. La memoria de largo plazo la almacena por un período más largo de tiempo. La memoria no funciona siempre a la perfección. A medida que envejece, puede tomar más tiempo para recordar las cosas. Es normal olvidar cosas de vez en cuando. Todos nos hemos olvidado un nombre, donde dejamos las llaves o si cerramos la puerta principal. Si usted es una persona mayor que olvida las cosas con más frecuencia que otras de su misma edad, es posible que tenga un deterioro cognitivo leve. Olvidar cómo utilizar su teléfono o encontrar su camino a casa pueden ser signos de un problema más grave, como: Enfermedad de Alzheimer Otros tipos de demencia Ataque cerebral Depresión Alcoholismo Lesiones en la cabeza Coágulos de sangre o tumores en el cerebro Problemas de riñones, de hígado o de la tiroides Reacciones a ciertos medicamentos Si usted está preocupado por sus problemas de memoria, consulte a su proveedor de atención médica. NIH: Instituto Nacional sobre el Envejecimiento</dc:description>
+<dc:description xml:lang="en">Every day, you have different experiences and you learn new things. Your brain cannot store all of that information, so it has to decide what is worth remembering. Memory is the process of storing and then remembering this information. There are different types of memory. Short-term memory stores information for a few seconds or minutes. Long-term memory stores it for a longer period of time. Memory doesn't always work perfectly. As you grow older, it may take longer to remember things. It's normal to forget things once in awhile. We've all forgotten a name, where we put our keys, or if we locked the front door. If you are a senior who forget things more often than others your age, you may have mild cognitive impairment. Forgetting how to use your phone or find your way home may be signs of a more serious problem, such as Alzheimer's disease Other types of dementia Stroke Depression Head injuries Blood clots or tumors in the brain Kidney, liver, or thyroid problems Reactions to certain medicines If you're worried about your forgetfulness, see your health care provider. NIH: National Institute on Aging</dc:description>
+<dc:subject dcterms="mesh">Memory</dc:subject>
+<dc:subject dcterms="mesh">Memory Disorders</dc:subject>
+<dc:subject xml:lang="es">Memoria</dc:subject>
+<dc:subject xml:lang="es">Pérdida de memoria</dc:subject>
+<dc:subject xml:lang="es">Amnesia</dc:subject>
+<dc:subject xml:lang="en">Memory</dc:subject>
+<dc:subject xml:lang="en">Amnesia</dc:subject>
+</metadata>
+</record>
+</MedlinePlus-document>

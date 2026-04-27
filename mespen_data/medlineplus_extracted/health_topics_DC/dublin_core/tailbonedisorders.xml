@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<MedlinePlus-document>
+<record>
+<header>
+<identifier>https://medlineplus.gov/tailbonedisorders.html</identifier>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title type="alternate" xml:lang="es">Cóccix, Enfermedades del</dc:title>
+<dc:title type="alternate" xml:lang="en">Pilonidal Cyst</dc:title>
+<dc:title type="alternate" xml:lang="en">Coccyx</dc:title>
+<dc:type>Text</dc:type>
+<dc:language>spa</dc:language>
+<dc:language>eng</dc:language>
+<dc:title xml:lang="es">Enfermedades del cóccix</dc:title>
+<dc:title xml:lang="en">Tailbone Disorders</dc:title>
+<dc:publisher>National Library of Medicine</dc:publisher>
+<dc:relation type="IsPartOf">Bones, Joints and Muscles</dc:relation>
+<dc:date type="created">2012-04-16</dc:date>
+<dc:date type="modified">2016-12-07</dc:date>
+<dc:identifier type="URL" xml:lang="es">https://medlineplus.gov/spanish/tailbonedisorders.html</dc:identifier>
+<dc:identifier type="URL" xml:lang="en">https://medlineplus.gov/tailbonedisorders.html</dc:identifier>
+<dc:description xml:lang="es">El cóccix es el pequeño hueso ubicado al final de la columna vertebral. Los trastornos del cóccix incluyen traumatismos, dolor, infecciones, quistes y tumores. Raramente se fractura. Pero los traumatismos provocan hematomas y distensión de los ligamentos. Una caída hacia atrás sobre una superficie dura, como resbalarse en el hielo, es la causa más común de estos traumatismos. Los síntomas de varios trastornos del cóccix incluyen dolor en el área del hueso, dolor al sentarse, dolor o entumecimiento en los brazos o las piernas debido a la presión sobre los nervios de la región del cóccix y una masa o crecimiento que puede ver o tocar.</dc:description>
+<dc:description xml:lang="en">The tailbone is the small bone at the bottom of your backbone, or spine. Tailbone disorders include tailbone injuries, pain, infections, cysts and tumors. You rarely break your tailbone. Instead, most injuries cause bruises or pulled ligaments. A backward fall onto a hard surface, such as slipping on ice, is the most common cause of such injuries. Symptoms of various tailbone disorders include pain in the tailbone area, pain upon sitting, pain or numbness in the arms or legs due to pressure on nerves in the tailbone area, and a mass or growth you can see or feel.</dc:description>
+<dc:subject dcterms="mesh">Coccyx</dc:subject>
+<dc:subject dcterms="mesh">Spinal Diseases</dc:subject>
+<dc:subject xml:lang="es">Enfermedades del cóccix</dc:subject>
+<dc:subject xml:lang="es">Cóccix</dc:subject>
+<dc:subject xml:lang="es">Enfermedades del</dc:subject>
+<dc:subject xml:lang="en">Tailbone Disorders</dc:subject>
+<dc:subject xml:lang="en">Pilonidal Cyst</dc:subject>
+<dc:subject xml:lang="en">Coccyx</dc:subject>
+</metadata>
+</record>
+</MedlinePlus-document>

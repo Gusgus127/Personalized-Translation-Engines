@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<MedlinePlus-document>
+<record>
+<header>
+<identifier>https://medlineplus.gov/hiccups.html</identifier>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:type>Text</dc:type>
+<dc:language>spa</dc:language>
+<dc:language>eng</dc:language>
+<dc:title xml:lang="es">Hipo</dc:title>
+<dc:title xml:lang="en">Hiccups</dc:title>
+<dc:publisher>National Library of Medicine</dc:publisher>
+<dc:relation type="IsPartOf">Digestive System</dc:relation>
+<dc:date type="created">2013-01-10</dc:date>
+<dc:date type="modified">2017-12-12</dc:date>
+<dc:identifier type="URL" xml:lang="es">https://medlineplus.gov/spanish/hiccups.html</dc:identifier>
+<dc:identifier type="URL" xml:lang="en">https://medlineplus.gov/hiccups.html</dc:identifier>
+<dc:description xml:lang="es">El hipo es un movimiento involuntario del diafragma, el músculo que se encuentra debajo de los pulmones. Este movimiento es seguido por un rápido cierre de las cuerdas vocales, lo que produce el sonido "hip". Hay muchas causas que producen hipo, como comer comidas muy pesadas y en cantidad, consumir alcohol o ingerir comidas picantes. También puede comenzar sin ninguna causa aparente. No hay una manera a ciencia cierta de detener el hipo. Usted puede intentar: Respirar dentro de una bolsa de papel Tomar o sorber agua fría de un vaso Mantener su respiración El hipo, en general, no es algo serio. Llame a su proveedor de cuidados de salud si dura más de unos días.</dc:description>
+<dc:description xml:lang="en">A hiccup is an unintentional movement of the diaphragm, the muscle at the base of the lungs. It's followed by quick closing of the vocal cords, which produces the "hic" sound you make. There are a large number of causes, including large meals, alcohol, or hot and spicy foods. Hiccups may also start and stop for no obvious reason. There is no sure way to stop hiccups. You can try Breathing into a paper bag Drinking or sipping a glass of cold water Holding your breath Hiccups aren't usually serious. Contact your health care provider if they last for more than a few days.</dc:description>
+<dc:subject dcterms="mesh">Hiccup</dc:subject>
+<dc:subject xml:lang="es">Hipo</dc:subject>
+<dc:subject xml:lang="en">Hiccups</dc:subject>
+<dc:subject xml:lang="en">Singultus</dc:subject>
+</metadata>
+</record>
+</MedlinePlus-document>

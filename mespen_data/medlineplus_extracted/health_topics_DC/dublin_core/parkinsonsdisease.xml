@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<MedlinePlus-document>
+<record>
+<header>
+<identifier>https://medlineplus.gov/parkinsonsdisease.html</identifier>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title type="alternate" xml:lang="es">Parkinson, Enfermedad de</dc:title>
+<dc:title type="alternate" xml:lang="es">Mal de Parkinson</dc:title>
+<dc:title type="alternate" xml:lang="es">Parálisis agitante</dc:title>
+<dc:title type="alternate" xml:lang="en">Shaking Palsy</dc:title>
+<dc:title type="alternate" xml:lang="en">Paralysis Agitans</dc:title>
+<dc:type>Text</dc:type>
+<dc:language>spa</dc:language>
+<dc:language>eng</dc:language>
+<dc:title xml:lang="es">Enfermedad de Parkinson</dc:title>
+<dc:title xml:lang="en">Parkinson's Disease</dc:title>
+<dc:publisher>National Library of Medicine</dc:publisher>
+<dc:relation type="IsPartOf">Seniors</dc:relation>
+<dc:relation type="IsPartOf">Brain and Nerves</dc:relation>
+<dc:date type="created">2002-07-21</dc:date>
+<dc:date type="modified">2018-01-19</dc:date>
+<dc:identifier type="URL" xml:lang="es">https://medlineplus.gov/spanish/parkinsonsdisease.html</dc:identifier>
+<dc:identifier type="URL" xml:lang="en">https://medlineplus.gov/parkinsonsdisease.html</dc:identifier>
+<dc:description xml:lang="es">La enfermedad de Parkinson es un tipo de trastorno del movimiento. Ocurre cuando las células nerviosas (neuronas) no producen suficiente cantidad de una sustancia química importante en el cerebro conocida como dopamina. Algunos casos son genéticos pero la mayoría no parece darse entre miembros de una misma familia. Los síntomas comienzan lentamente, en general, en un lado del cuerpo. Luego afectan ambos lados. Algunos son: Temblor en las manos, los brazos, las piernas, la mandíbula y la cara Rigidez en los brazos, las piernas y el tronco Lentitud de los movimientos Problemas de equilibrio y coordinación A medida que los síntomas empeoran, las personas con la enfermedad pueden tener dificultades para caminar o hacer labores simples. También pueden tener problemas como depresión, trastornos del sueño o dificultades para masticar, tragar o hablar. No existe un examen de diagnóstico para esta enfermedad. Los doctores usan el historial del paciente y un examen neurológico para diagnosticarlo. La enfermedad de Parkinson suele comenzar alrededor de los 60 años, pero puede aparecer antes. Es mucho más común entre los hombres que entre las mujeres. No existe una cura para la enfermedad de Parkinson. Existen diversas medicinas que a veces ayudan a mejorar enormemente los síntomas. En casos severos, una cirugía y estimulación cerebral profunda (electrodos implantados en el cerebro que envían pulsos para estimular las partes del cerebro que controlan el movimiento) pueden ayudar. NIH: Instituto Nacional de Trastornos Neurológicos y Accidentes Cerebrovasculares</dc:description>
+<dc:description xml:lang="en">Parkinson's disease (PD) is a type of movement disorder. It happens when nerve cells in the brain don't produce enough of a brain chemical called dopamine. Sometimes it is genetic, but most cases do not seem to run in families. Exposure to chemicals in the environment might play a role. Symptoms begin gradually, often on one side of the body. Later they affect both sides. They include Trembling of hands, arms, legs, jaw and face Stiffness of the arms, legs and trunk Slowness of movement Poor balance and coordination As symptoms get worse, people with the disease may have trouble walking, talking, or doing simple tasks. They may also have problems such as depression, sleep problems, or trouble chewing, swallowing, or speaking. There is no lab test for PD, so it can be difficult to diagnose. Doctors use a medical history and a neurological examination to diagnose it. PD usually begins around age 60, but it can start earlier. It is more common in men than in women. There is no cure for PD. A variety of medicines sometimes help symptoms dramatically. Surgery and deep brain stimulation (DBS) can help severe cases. With DBS, electrodes are surgically implanted in the brain. They send electrical pulses to stimulate the parts of the brain that control movement. NIH: National Institute of Neurological Disorders and Stroke</dc:description>
+<dc:subject dcterms="mesh">Parkinson Disease</dc:subject>
+<dc:subject xml:lang="es">Enfermedad de Parkinson</dc:subject>
+<dc:subject xml:lang="es">Parkinson</dc:subject>
+<dc:subject xml:lang="es">Enfermedad de</dc:subject>
+<dc:subject xml:lang="es">Mal de Parkinson</dc:subject>
+<dc:subject xml:lang="es">Parálisis agitante</dc:subject>
+<dc:subject xml:lang="en">Parkinson's Disease</dc:subject>
+<dc:subject xml:lang="en">Shaking Palsy</dc:subject>
+<dc:subject xml:lang="en">Paralysis Agitans</dc:subject>
+</metadata>
+</record>
+</MedlinePlus-document>

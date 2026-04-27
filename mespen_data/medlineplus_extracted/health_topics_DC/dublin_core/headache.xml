@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<MedlinePlus-document>
+<record>
+<header>
+<identifier>https://medlineplus.gov/headache.html</identifier>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title type="alternate" xml:lang="es">Cabeza, Dolor de</dc:title>
+<dc:title type="alternate" xml:lang="en">Cluster Headache</dc:title>
+<dc:title type="alternate" xml:lang="en">Tension Headache</dc:title>
+<dc:title type="alternate" xml:lang="en">Vascular Headache</dc:title>
+<dc:type>Text</dc:type>
+<dc:language>spa</dc:language>
+<dc:language>eng</dc:language>
+<dc:title xml:lang="es">Dolor de cabeza</dc:title>
+<dc:title xml:lang="en">Headache</dc:title>
+<dc:publisher>National Library of Medicine</dc:publisher>
+<dc:relation type="IsPartOf">Brain and Nerves</dc:relation>
+<dc:relation type="IsPartOf">Symptoms</dc:relation>
+<dc:date type="created">2002-07-21</dc:date>
+<dc:date type="modified">2018-01-19</dc:date>
+<dc:identifier type="URL" xml:lang="es">https://medlineplus.gov/spanish/headache.html</dc:identifier>
+<dc:identifier type="URL" xml:lang="en">https://medlineplus.gov/headache.html</dc:identifier>
+<dc:description xml:lang="es">Casi todas las personas han tenido un dolor de cabeza alguna vez. El dolor de cabeza es la forma más común de dolor, y una de las razones principales por las que las personas se toman días de trabajo o de escuela y acuden al médico. El tipo más común de dolor de cabeza es el tensional. Estos ocurren por la tensión que usted hace en los músculos de los hombros, del cuello, del cuero cabelludo y de la mandíbula. Suele relacionarse con el estrés, la depresión o la ansiedad. Usted podría tener una tendencia a tener este tipo de dolor de cabeza si trabaja demasiado, no duerme lo suficiente, se salta comidas o bebe bebidas alcohólicas. Otros tipos comunes de dolor de cabeza incluyen migrañas, cefaleas en racimos y cefaleas por sinusitis. La mayoría de las personas puede sentirse mucho mejor si hace cambios en su estilo de vida, aprende maneras para relajarse y toma analgésicos. No todos los dolores de cabeza necesitan atención médica. Pero a veces el dolor de cabeza puede indicar un trastorno más grave. Infórmele a su proveedor de salud si tiene dolores de cabeza repentinos y severos. Consiga ayuda médica de inmediato si tiene dolor de cabeza después de un golpe o si se presenta con rigidez en el cuello, fiebre, confusión, pérdida de la conciencia o dolor en los ojos o los oídos. NIH: Instituto Nacional de Trastornos Neurológicos y Accidentes Cerebrovasculares</dc:description>
+<dc:description xml:lang="en">Almost everyone has had a headache. Headache is the most common form of pain. It's a major reason people miss days at work or school or visit the doctor. The most common type of headache is a tension headache. Tension headaches are due to tight muscles in your shoulders, neck, scalp and jaw. They are often related to stress, depression or anxiety. You are more likely to get tension headaches if you work too much, don't get enough sleep, miss meals, or use alcohol. Other common types of headaches include migraines, cluster headaches, and sinus headaches. Most people can feel much better by making lifestyle changes, learning ways to relax and taking pain relievers. Not all headaches require a doctor's attention. But sometimes headaches warn of a more serious disorder. Let your health care provider know if you have sudden, severe headaches. Get medical help right away if you have a headache after a blow to your head, or if you have a headache along with a stiff neck, fever, confusion, loss of consciousness, or pain in the eye or ear. NIH: National Institute of Neurological Disorders and Stroke</dc:description>
+<dc:subject dcterms="mesh">Headache Disorders</dc:subject>
+<dc:subject dcterms="mesh">Headache</dc:subject>
+<dc:subject xml:lang="es">Dolor de cabeza</dc:subject>
+<dc:subject xml:lang="es">Cabeza</dc:subject>
+<dc:subject xml:lang="es">Dolor de</dc:subject>
+<dc:subject xml:lang="en">Headache</dc:subject>
+<dc:subject xml:lang="en">Cluster Headache</dc:subject>
+<dc:subject xml:lang="en">Tension Headache</dc:subject>
+<dc:subject xml:lang="en">Vascular Headache</dc:subject>
+</metadata>
+</record>
+</MedlinePlus-document>

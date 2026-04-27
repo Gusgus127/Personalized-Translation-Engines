@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<MedlinePlus-document>
+<record>
+<header>
+<identifier>https://medlineplus.gov/fungalinfections.html</identifier>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:type>Text</dc:type>
+<dc:language>spa</dc:language>
+<dc:language>eng</dc:language>
+<dc:title xml:lang="es">Infecciones por hongos</dc:title>
+<dc:title xml:lang="en">Fungal Infections</dc:title>
+<dc:publisher>National Library of Medicine</dc:publisher>
+<dc:relation type="IsPartOf">Skin, Hair and Nails</dc:relation>
+<dc:relation type="IsPartOf">Infections</dc:relation>
+<dc:date type="created">2002-07-21</dc:date>
+<dc:date type="modified">2017-05-17</dc:date>
+<dc:identifier type="URL" xml:lang="es">https://medlineplus.gov/spanish/fungalinfections.html</dc:identifier>
+<dc:identifier type="URL" xml:lang="en">https://medlineplus.gov/fungalinfections.html</dc:identifier>
+<dc:description xml:lang="es">Si alguna vez tuvo pie de atleta o una infección por cándida (candidiasis), puede culpar a un hongo. Los hongos son organismos primitivos. Las setas y el moho son algunos tipos de hongos. Los hongos viven en el aire, el suelo, las plantas y el agua. Algunos viven en el cuerpo humano. Sólo aproximadamente la mitad de todos los tipos de hongos son dañinos. Algunos hongos se reproducen mediante pequeñas esporas en el aire. Estas esporas pueden inhalarse o pueden caer sobre las personas. Como consecuencia, las infecciones por hongos (micóticas) suelen comenzar en los pulmones o en la piel. Es más probable que contraiga una infección micótica si tiene un sistema inmunitario debilitado. Los hongos pueden ser difíciles de matar. Para las infecciones en la piel y las uñas, se pueden aplicar medicamentos directamente sobre el área infectada. Los medicamentos antimicóticos por vía oral también se encuentran disponibles para las infecciones graves. NIH: Instituto Nacional de Alergias y Enfermedades Infecciosas</dc:description>
+<dc:description xml:lang="en">If you have ever had athlete's foot or a yeast infection, you can blame a fungus. A fungus is a primitive organism. Mushrooms, mold and mildew are examples. Fungi live in air, in soil, on plants and in water. Some live in the human body. Only about half of all types of fungi are harmful. Some fungi reproduce through tiny spores in the air. You can inhale the spores or they can land on you. As a result, fungal infections often start in the lungs or on the skin. You are more likely to get a fungal infection if you have a weakened immune system or take antibiotics. Fungi can be difficult to kill. For skin and nail infections, you can apply medicine directly to the infected area. Oral antifungal medicines are also available for serious infections. NIH: National Institute of Allergy and Infectious Diseases</dc:description>
+<dc:subject dcterms="mesh">Mycoses</dc:subject>
+<dc:subject xml:lang="es">Infecciones por hongos</dc:subject>
+<dc:subject xml:lang="en">Fungal Infections</dc:subject>
+<dc:subject xml:lang="en">Infections</dc:subject>
+<dc:subject xml:lang="en">Fungal</dc:subject>
+<dc:subject xml:lang="en">Mycoses</dc:subject>
+<dc:subject xml:lang="en">Cryptococcosis</dc:subject>
+</metadata>
+</record>
+</MedlinePlus-document>

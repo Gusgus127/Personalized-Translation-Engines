@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<MedlinePlus-document>
+<record>
+<header>
+<identifier>https://medlineplus.gov/teenspage.html</identifier>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title type="alternate" xml:lang="es">Adolescentes, Páginas para</dc:title>
+<dc:type>Text</dc:type>
+<dc:language>spa</dc:language>
+<dc:language>eng</dc:language>
+<dc:title xml:lang="es">Página para adolescentes</dc:title>
+<dc:title xml:lang="en">Teens' Page</dc:title>
+<dc:publisher>National Library of Medicine</dc:publisher>
+<dc:relation type="IsPartOf">Children and Teenagers</dc:relation>
+<dc:date type="created">2002-07-21</dc:date>
+<dc:date type="modified">2018-01-09</dc:date>
+<dc:identifier type="URL" xml:lang="es">https://medlineplus.gov/spanish/teenspage.html</dc:identifier>
+<dc:identifier type="URL" xml:lang="en">https://medlineplus.gov/teenspage.html</dc:identifier>
+<dc:description xml:lang="es">¡Si eres adolescente, esta página es para ti! Incluye material específicamente para ti, no para tus padres, acerca de la salud y la seguridad de los adolescentes. Aquí encontrarás sitios interesantes para explorar.</dc:description>
+<dc:description xml:lang="en">If you are a teenager, this page is for you! It includes materials specifically for you - not for your parents - about health and safety for teens. There are quizzes, games and lots of cool web sites for you to explore. Have fun!</dc:description>
+<dc:subject dcterms="mesh">Adolescent</dc:subject>
+<dc:subject xml:lang="es">Página para adolescentes</dc:subject>
+<dc:subject xml:lang="es">Adolescentes</dc:subject>
+<dc:subject xml:lang="es">Páginas para</dc:subject>
+<dc:subject xml:lang="en">Teens' Page</dc:subject>
+</metadata>
+</record>
+</MedlinePlus-document>

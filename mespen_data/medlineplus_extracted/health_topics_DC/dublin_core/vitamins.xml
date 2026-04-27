@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<MedlinePlus-document>
+<record>
+<header>
+<identifier>https://medlineplus.gov/vitamins.html</identifier>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:type>Text</dc:type>
+<dc:language>spa</dc:language>
+<dc:language>eng</dc:language>
+<dc:title xml:lang="es">Vitaminas</dc:title>
+<dc:title xml:lang="en">Vitamins</dc:title>
+<dc:publisher>National Library of Medicine</dc:publisher>
+<dc:relation type="IsPartOf">Food and Nutrition</dc:relation>
+<dc:date type="created">2002-07-21</dc:date>
+<dc:date type="modified">2018-02-07</dc:date>
+<dc:identifier type="URL" xml:lang="es">https://medlineplus.gov/spanish/vitamins.html</dc:identifier>
+<dc:identifier type="URL" xml:lang="en">https://medlineplus.gov/vitamins.html</dc:identifier>
+<dc:description xml:lang="es">Las vitaminas son sustancias que el cuerpo necesita para crecer y desarrollarse normalmente. Su cuerpo necesita 13 vitaminas. Estas son: Vitamina A Vitaminas B (tiamina, riboflavina, niacina, ácido pantoténico, biotina, vitamina B-6, vitamina B-12 y folato o ácido fólico Vitamina C Vitamina D Vitamina E Vitamina K Por lo general, las vitaminas provienen de los alimentos que consume. El cuerpo también puede producir vitaminas D y K. Las personas que llevan una dieta vegetariana pueden necesitar un suplemento de vitamina B12. Cada vitamina tiene funciones específicas. Si tiene bajos niveles de determinadas vitaminas, puede tener problemas de salud. Por ejemplo, si no recibe suficiente vitamina C, podría desarrollar anemia. Algunas vitaminas pueden ayudar a prevenir los problemas médicos. La vitamina A previene la ceguera nocturna. La mejor manera de obtener suficientes vitaminas es mantener una dieta balanceada con alimentos variados. En algunos casos, es posible que se necesite un multivitamínico diario. Es una buena idea hablar con su proveedor de salud al respecto. Altas dosis de algunas vitaminas pueden ocasionar problemas.</dc:description>
+<dc:description xml:lang="en">Vitamins are substances that your body needs to grow and develop normally. There are 13 vitamins your body needs. They are Vitamin A B vitamins (thiamine, riboflavin, niacin, pantothenic acid, biotin, vitamin B-6, vitamin B-12 and folate) Vitamin C Vitamin D Vitamin E Vitamin K You can usually get all your vitamins from the foods you eat. Your body can also make vitamins D and K. People who eat a vegetarian diet may need to take a vitamin B12 supplement. Each vitamin has specific jobs. If you have low levels of certain vitamins, you may get health problems. For example, if you don't get enough vitamin C, you could become anemic. Some vitamins may help prevent medical problems. Vitamin A prevents night blindness. The best way to get enough vitamins is to eat a balanced diet with a variety of foods. In some cases, you may need to take vitamin supplements. It's a good idea to ask your health care provider first. High doses of some vitamins can cause problems.</dc:description>
+<dc:subject dcterms="mesh">Micronutrients</dc:subject>
+<dc:subject dcterms="mesh">Vitamins</dc:subject>
+<dc:subject xml:lang="es">Vitaminas</dc:subject>
+<dc:subject xml:lang="en">Vitamins</dc:subject>
+</metadata>
+</record>
+</MedlinePlus-document>

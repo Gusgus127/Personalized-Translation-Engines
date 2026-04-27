@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<MedlinePlus-document>
+<record>
+<header>
+<identifier>https://medlineplus.gov/helicobacterpyloriinfections.html</identifier>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:type>Text</dc:type>
+<dc:language>spa</dc:language>
+<dc:language>eng</dc:language>
+<dc:title xml:lang="es">Infecciones por Helicobacter pylori</dc:title>
+<dc:title xml:lang="en">Helicobacter Pylori Infections</dc:title>
+<dc:publisher>National Library of Medicine</dc:publisher>
+<dc:relation type="IsPartOf">Infections</dc:relation>
+<dc:relation type="IsPartOf">Digestive System</dc:relation>
+<dc:date type="created">2013-01-30</dc:date>
+<dc:date type="modified">2018-02-01</dc:date>
+<dc:identifier type="URL" xml:lang="es">https://medlineplus.gov/spanish/helicobacterpyloriinfections.html</dc:identifier>
+<dc:identifier type="URL" xml:lang="en">https://medlineplus.gov/helicobacterpyloriinfections.html</dc:identifier>
+<dc:description xml:lang="es">El Helicobacter pylori (H. pylori) es un tipo de bacteria que causa infecciones en el estómago. Se encuentra, aproximadamente, en dos tercios de la población mundial. Es posible que se transmita por agua y alimentos contaminados, pero los investigadores no están seguros. Puede causar úlceras pépticas y cáncer de estómago. Si usted tiene síntomas de una úlcera péptica, el médico le hará pruebas de sangre, aliento o heces para ver si contiene H. pylori. El mejor tratamiento es una combinación de antibióticos y medicamentos que reducen el ácido estomacal (llamados antiácidos). Usted tendrá que hacerse otra prueba después del tratamiento, para asegurarse de que la infección haya desaparecido. Para prevenir infecciones por H. pylori infection, usted debe: Lavarse las manos después de usar el baño y antes de comer Comer alimentos preparados adecuadamente Beber agua de fuentes limpias y seguras NIH:Instituto Nacional de la Diabetes y las Enfermedades Digestivas y Renales</dc:description>
+<dc:description xml:lang="en">Helicobacter pylori (H. pylori) is a type of bacteria that causes infection in the stomach. It is the main cause of peptic ulcers, and it can also cause gastritis and stomach cancer. About 30 to 40 percent of people in the United States get an H. pylori infection. Most people get it as a child. H. pylori usually does not cause symptoms. But it can break down the inner protective coating in some people's stomachs and cause inflammation. This can lead to gastritis or a peptic ulcer. Researchers aren't sure how H. pylori spreads. They think that it may spread by unclean food and water, or through contact with an infected person's saliva and other body fluids. A peptic ulcer causes a dull or burning pain in your stomach, especially when you have an empty stomach. It lasts for minutes to hours, and it may come and go for several days or weeks. It may also cause other symptoms, such as bloating, nausea, and weight loss. If you have the symptoms of a peptic ulcer, your health care provider will check to see whether you have H. pylori. There are blood, breath, and stool tests to check for H. pylori. In some cases, you may need an upper endoscopy, often with a biopsy. If you do have a peptic ulcer, the treatment is with a combination of antibiotics and acid-reducing medicines. You will need to be tested again after treatment to make sure the infection is gone. There is no vaccine for H. pylori. Since H. pylori might spread through unclean food and water, you might be able to prevent it if you Wash your hands after using the bathroom and before eating Eat properly prepared food Drink water from a clean, safe source NIH: National Institute of Diabetes and Digestive and Kidney Diseases</dc:description>
+<dc:subject dcterms="mesh">Helicobacter Infections</dc:subject>
+<dc:subject xml:lang="es">Infecciones por Helicobacter pylori</dc:subject>
+<dc:subject xml:lang="en">Helicobacter Pylori Infections</dc:subject>
+<dc:subject xml:lang="en">H. Pylori Infections</dc:subject>
+</metadata>
+</record>
+</MedlinePlus-document>

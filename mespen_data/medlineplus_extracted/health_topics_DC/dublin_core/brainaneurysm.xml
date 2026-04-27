@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<MedlinePlus-document>
+<record>
+<header>
+<identifier>https://medlineplus.gov/brainaneurysm.html</identifier>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title type="alternate" xml:lang="es">Cerebro, Aneurisma</dc:title>
+<dc:title type="alternate" xml:lang="en">Intracranial Aneurysm</dc:title>
+<dc:title type="alternate" xml:lang="en">Berry Aneurysm</dc:title>
+<dc:title type="alternate" xml:lang="en">Cerebral Aneurysm</dc:title>
+<dc:type>Text</dc:type>
+<dc:language>spa</dc:language>
+<dc:language>eng</dc:language>
+<dc:title xml:lang="es">Aneurisma cerebral</dc:title>
+<dc:title xml:lang="en">Brain Aneurysm</dc:title>
+<dc:publisher>National Library of Medicine</dc:publisher>
+<dc:relation type="IsPartOf">Blood, Heart and Circulation</dc:relation>
+<dc:relation type="IsPartOf">Brain and Nerves</dc:relation>
+<dc:date type="created">2009-08-05</dc:date>
+<dc:date type="modified">2018-01-19</dc:date>
+<dc:identifier type="URL" xml:lang="es">https://medlineplus.gov/spanish/brainaneurysm.html</dc:identifier>
+<dc:identifier type="URL" xml:lang="en">https://medlineplus.gov/brainaneurysm.html</dc:identifier>
+<dc:description xml:lang="es">Un aneurisma cerebral es un ensanchamiento anormal en la pared de una arteria del cerebro. A veces son tan pequeños como una frambuesa. La mayoría de los aneurismas cerebrales no muestra síntomas hasta que se hacen grandes, filtran sangre o se rompen. Si un aneurisma cerebral presiona los nervios en su cerebro, puede causar síntomas. Estos pueden incluir: Un párpado caído Visión doble u otros cambios en la visión Dolor arriba o detrás del ojo Una pupila dilatada Adormecimiento o debilidad en un lado de la cara o el cuerpo El tratamiento depende del tamaño y la ubicación del aneurisma, si está infectado o si se ha roto. Si un aneurisma cerebral se rompe, los síntomas pueden incluir dolor de cabeza súbito, náuseas y vómitos, cuello duro, pérdida del conocimiento y señales de un ataque cerebral. Cualquiera de estos síntomas requiere atención médica urgente. NIH: Instituto Nacional del Corazón, los Pulmones y la Sangre</dc:description>
+<dc:description xml:lang="en">A brain aneurysm is an abnormal bulge or "ballooning" in the wall of an artery in the brain. They are sometimes called berry aneurysms because they are often the size of a small berry. Most brain aneurysms produce no symptoms until they become large, begin to leak blood, or burst. If a brain aneurysm presses on nerves in your brain, it can cause signs and symptoms. These can include A droopy eyelid Double vision or other changes in vision Pain above or behind the eye A dilated pupil Numbness or weakness on one side of the face or body Treatment depends on the size and location of the aneurysm, whether it is infected, and whether it has burst. If a brain aneurysm bursts, symptoms can include a sudden, severe headache, nausea and vomiting, stiff neck, loss of consciousness, and signs of a stroke. Any of these symptoms requires immediate medical attention. NIH: National Heart, Lung, and Blood Institute</dc:description>
+<dc:subject dcterms="mesh">Intracranial Aneurysm</dc:subject>
+<dc:subject xml:lang="es">Aneurisma cerebral</dc:subject>
+<dc:subject xml:lang="es">Cerebro</dc:subject>
+<dc:subject xml:lang="es">Aneurisma</dc:subject>
+<dc:subject xml:lang="en">Brain Aneurysm</dc:subject>
+<dc:subject xml:lang="en">Intracranial Aneurysm</dc:subject>
+<dc:subject xml:lang="en">Berry Aneurysm</dc:subject>
+<dc:subject xml:lang="en">Cerebral Aneurysm</dc:subject>
+</metadata>
+</record>
+</MedlinePlus-document>

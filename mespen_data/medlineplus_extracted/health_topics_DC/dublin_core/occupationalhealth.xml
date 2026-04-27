@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<MedlinePlus-document>
+<record>
+<header>
+<identifier>https://medlineplus.gov/occupationalhealth.html</identifier>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:type>Text</dc:type>
+<dc:language>spa</dc:language>
+<dc:language>eng</dc:language>
+<dc:title xml:lang="es">Salud ocupacional</dc:title>
+<dc:title xml:lang="en">Occupational Health</dc:title>
+<dc:publisher>National Library of Medicine</dc:publisher>
+<dc:relation type="IsPartOf">Wellness and Lifestyle</dc:relation>
+<dc:relation type="IsPartOf">Safety Issues</dc:relation>
+<dc:date type="created">2002-07-21</dc:date>
+<dc:date type="modified">2018-02-08</dc:date>
+<dc:identifier type="URL" xml:lang="es">https://medlineplus.gov/spanish/occupationalhealth.html</dc:identifier>
+<dc:identifier type="URL" xml:lang="en">https://medlineplus.gov/occupationalhealth.html</dc:identifier>
+<dc:description xml:lang="es">Los problemas de salud ocupacional ocurren en el trabajo por el tipo de labor que realiza. Estos problemas pueden incluir: Cortaduras, fracturas, torceduras y distensiones Amputaciones Trastornos por movimientos repetitivos Problemas con el oído causados por la exposición al ruido Problemas de la vista Enfermedad causada por respirar, tocar o ingerir sustancias peligrosas Enfermedad causada por la exposición a la radiación Exposición a gérmenes en centros de salud Una buena seguridad y prácticas de prevención en el trabajo puede reducir su riesgo de estos problemas. Procure mantenerse en buen estado físico, reduzca el estrés, prepare adecuadamente su área de trabajo y use el equipo y la ropa adecuada.</dc:description>
+<dc:description xml:lang="en">Occupational health problems occur at work or because of the kind of work you do. These problems can include Cuts, broken bones, sprains, and strains Loss of limbs Repetitive motion disorders Hearing problems caused by exposure to noise Vision problems Illness caused by breathing, touching, or swallowing unsafe substances Illness caused by exposure to radiation Exposure to germs in health care settings Good job safety and prevention practices can reduce your risk of these problems. Try to stay fit, reduce stress, set up your work area properly, and use the right equipment and gear.</dc:description>
+<dc:subject dcterms="mesh">Occupational Diseases</dc:subject>
+<dc:subject dcterms="mesh">Occupational Exposure</dc:subject>
+<dc:subject dcterms="mesh">Accidents, Occupational</dc:subject>
+<dc:subject dcterms="mesh">Occupational Stress</dc:subject>
+<dc:subject dcterms="mesh">Occupational Injuries</dc:subject>
+<dc:subject xml:lang="es">Salud ocupacional</dc:subject>
+<dc:subject xml:lang="en">Occupational Health</dc:subject>
+<dc:subject xml:lang="en">Occupational Injuries</dc:subject>
+<dc:subject xml:lang="en">Employee Health</dc:subject>
+</metadata>
+</record>
+</MedlinePlus-document>

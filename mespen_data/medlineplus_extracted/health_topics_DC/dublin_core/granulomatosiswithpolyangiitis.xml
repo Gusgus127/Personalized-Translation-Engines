@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<MedlinePlus-document>
+<record>
+<header>
+<identifier>https://medlineplus.gov/granulomatosiswithpolyangiitis.html</identifier>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title type="alternate" xml:lang="es">Wegener</dc:title>
+<dc:title type="alternate" xml:lang="es">Granulomatosis de Wegener</dc:title>
+<dc:title type="alternate" xml:lang="en">Wegener's Granulomatosis</dc:title>
+<dc:type>Text</dc:type>
+<dc:language>spa</dc:language>
+<dc:language>eng</dc:language>
+<dc:title xml:lang="es">Granulomatosis con poliangeítis</dc:title>
+<dc:title xml:lang="en">Granulomatosis with Polyangiitis</dc:title>
+<dc:publisher>National Library of Medicine</dc:publisher>
+<dc:relation type="IsPartOf">Lungs and Breathing</dc:relation>
+<dc:relation type="IsPartOf">Blood, Heart and Circulation</dc:relation>
+<dc:relation type="IsPartOf">Kidneys and Urinary System</dc:relation>
+<dc:date type="created">2008-01-21</dc:date>
+<dc:date type="modified">2017-11-08</dc:date>
+<dc:identifier type="URL" xml:lang="es">https://medlineplus.gov/spanish/granulomatosiswithpolyangiitis.html</dc:identifier>
+<dc:identifier type="URL" xml:lang="en">https://medlineplus.gov/granulomatosiswithpolyangiitis.html</dc:identifier>
+<dc:description xml:lang="es">La granulomatosis con poliangeítis, conocida anteriormente como granulomatosis de Wegener, es una enfermedad rara. Es un tipo de vasculitis o inflamación de los vasos sanguíneos. La inflamación limita el flujo de sangre hacia órganos importantes y provoca daños. Puede afectar cualquier órgano, pero afecta principalmente los senos paranasales, la nariz, la tráquea, los pulmones y los riñones. Se desconoce la causa de la granulomatosis con poliangeítis. Puede afectar a personas de cualquier edad. Hombres y mujeres la sufren por igual. Es más común en caucásicos. Los síntomas pueden incluir dolor de las articulaciones, debilidad, cansancio y síntomas gripales como secreción nasal que no mejora. Los médicos utilizan análisis de sangre, radiografías de tórax y biopsias para diagnosticar la enfermedad y descartar otras causas según los síntomas. El tratamiento temprano es importante. La mayoría de las personas mejora con medicinas reducen o detienen la inflamación. NIH: Instituto Nacional de Alergias y Enfermedades Infecciosas</dc:description>
+<dc:description xml:lang="en">Granulomatosis with polyangiitis (GPA), previously known as Wegener's granulomatosis, is a rare disease. It is a type of vasculitis, or inflammation of the blood vessels. The inflammation limits the flow of blood to important organs, causing damage. It can affect any organ, but it mainly affects the sinuses, nose, trachea (windpipe), lungs, and kidneys. The cause of GPA is unknown. It can affect people at any age. Men and women are equally affected. It is more common in whites. Symptoms may include joint pain, weakness, tiredness, and cold symptoms such as a runny nose that doesn't get better. Doctors use blood tests, chest X-rays, and biopsies to diagnose GPA and rule out other causes of the symptoms. Early treatment is important. Most people improve with medicines to slow or stop the inflammation. NIH: National Institute of Allergy and Infectious Diseases</dc:description>
+<dc:subject dcterms="mesh">Granulomatosis with Polyangiitis</dc:subject>
+<dc:subject xml:lang="es">Granulomatosis con poliangeítis</dc:subject>
+<dc:subject xml:lang="es">Wegener</dc:subject>
+<dc:subject xml:lang="es">Granulomatosis de Wegener</dc:subject>
+<dc:subject xml:lang="en">Granulomatosis with Polyangiitis</dc:subject>
+<dc:subject xml:lang="en">Wegener's Granulomatosis</dc:subject>
+</metadata>
+</record>
+</MedlinePlus-document>

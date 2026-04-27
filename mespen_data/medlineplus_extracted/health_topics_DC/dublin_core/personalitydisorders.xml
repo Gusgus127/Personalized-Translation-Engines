@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<MedlinePlus-document>
+<record>
+<header>
+<identifier>https://medlineplus.gov/personalitydisorders.html</identifier>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title type="alternate" xml:lang="es">Personalidad, Trastornos</dc:title>
+<dc:title type="alternate" xml:lang="es">Paranoia</dc:title>
+<dc:title type="alternate" xml:lang="en">Antisocial Personality Disorder</dc:title>
+<dc:title type="alternate" xml:lang="en">Borderline Personality Disorder</dc:title>
+<dc:title type="alternate" xml:lang="en">Narcissism</dc:title>
+<dc:type>Text</dc:type>
+<dc:language>spa</dc:language>
+<dc:language>eng</dc:language>
+<dc:title xml:lang="es">Trastornos de la personalidad</dc:title>
+<dc:title xml:lang="en">Personality Disorders</dc:title>
+<dc:publisher>National Library of Medicine</dc:publisher>
+<dc:relation type="IsPartOf">Mental Health and Behavior</dc:relation>
+<dc:date type="created">2009-12-14</dc:date>
+<dc:date type="modified">2017-03-08</dc:date>
+<dc:identifier type="URL" xml:lang="es">https://medlineplus.gov/spanish/personalitydisorders.html</dc:identifier>
+<dc:identifier type="URL" xml:lang="en">https://medlineplus.gov/personalitydisorders.html</dc:identifier>
+<dc:description xml:lang="es">Los trastornos de la personalidad son un grupo de enfermedades mentales. Involucran un patrón a largo plazo de pensamientos y comportamiento que no son saludables y resultan inflexibles. Esta conducta provoca problemas serios con las relaciones y el trabajo. Las personas con trastornos de la personalidad tienen dificultades para lidiar con el estrés y los problemas cotidianos. Suelen tener relaciones tormentosas con otras personas. No se conoce la causa de los trastornos de la personalidad. Sin embargo, los genes y las experiencias de la niñez pueden representar un papel importante. Los síntomas de cada trastorno de personalidad son diferentes. Pueden ser leves o severos. A las personas con estos trastornos les cuesta darse cuenta que tienen un problema. Para ellos, sus pensamientos son normales y muchas veces culpan a la otra persona por sus problemas. Intentan pedir ayuda debido a sus dificultades con sus relaciones personales y/o su trabajo. El tratamiento suele incluir psicoterapia y, algunas veces, medicinas.</dc:description>
+<dc:description xml:lang="en">Personality disorders are a group of mental illnesses. They involve long-term patterns of thoughts and behaviors that are unhealthy and inflexible. The behaviors cause serious problems with relationships and work. People with personality disorders have trouble dealing with everyday stresses and problems. They often have stormy relationships with other people. The cause of personality disorders is unknown. However, genes and childhood experiences may play a role. The symptoms of each personality disorder are different. They can mild or severe. People with personality disorders may have trouble realizing that they have a problem. To them, their thoughts are normal, and they often blame others for their problems. They may try to get help because of their problems with relationships and work. Treatment usually includes talk therapy and sometimes medicine.</dc:description>
+<dc:subject dcterms="mesh">Personality Disorders</dc:subject>
+<dc:subject xml:lang="es">Trastornos de la personalidad</dc:subject>
+<dc:subject xml:lang="es">Personalidad</dc:subject>
+<dc:subject xml:lang="es">Trastornos</dc:subject>
+<dc:subject xml:lang="es">Paranoia</dc:subject>
+<dc:subject xml:lang="en">Personality Disorders</dc:subject>
+<dc:subject xml:lang="en">Antisocial Personality Disorder</dc:subject>
+<dc:subject xml:lang="en">Borderline Personality Disorder</dc:subject>
+<dc:subject xml:lang="en">Narcissism</dc:subject>
+</metadata>
+</record>
+</MedlinePlus-document>

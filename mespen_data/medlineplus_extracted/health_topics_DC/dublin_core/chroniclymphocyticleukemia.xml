@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<MedlinePlus-document>
+<record>
+<header>
+<identifier>https://medlineplus.gov/chroniclymphocyticleukemia.html</identifier>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title type="alternate" xml:lang="es">Leucemia crónica en adultos</dc:title>
+<dc:title type="alternate" xml:lang="es">LLC</dc:title>
+<dc:title type="alternate" xml:lang="en">CLL</dc:title>
+<dc:title type="alternate" xml:lang="en">Leukemia, Chronic Lymphocytic</dc:title>
+<dc:type>Text</dc:type>
+<dc:language>spa</dc:language>
+<dc:language>eng</dc:language>
+<dc:title xml:lang="es">Leucemia linfocítica crónica</dc:title>
+<dc:title xml:lang="en">Chronic Lymphocytic Leukemia</dc:title>
+<dc:publisher>National Library of Medicine</dc:publisher>
+<dc:relation type="IsPartOf">Blood, Heart and Circulation</dc:relation>
+<dc:relation type="IsPartOf">Immune System</dc:relation>
+<dc:relation type="IsPartOf">Cancers</dc:relation>
+<dc:date type="created">2002-07-21</dc:date>
+<dc:date type="modified">2017-12-27</dc:date>
+<dc:identifier type="URL" xml:lang="es">https://medlineplus.gov/spanish/chroniclymphocyticleukemia.html</dc:identifier>
+<dc:identifier type="URL" xml:lang="en">https://medlineplus.gov/chroniclymphocyticleukemia.html</dc:identifier>
+<dc:description xml:lang="es">La leucemia es un cáncer de los glóbulos blancos (un tipo de células de la sangre). Los glóbulos blancos ayudan al organismo a combatir infecciones. Las células sanguíneas se forman en la médula ósea. Sin embargo, en las personas con leucemia, la médula ósea produce glóbulos blancos anormales. Estas células reemplazan a las células sanguíneas sanas y dificultan que la sangre cumpla su función. En la leucemia linfocítica crónica, hay demasiados linfocitos, un tipo de glóbulos blancos. La leucemia linfocítica crónica es el segundo tipo más común de leucemia en adultos. A menudo ocurre durante o después de la adultez y rara vez en niños. Por lo general este tipo de leucemia no causa ningún síntoma. Pero si se presentan estos pueden ser: Hinchazón sin dolor de los ganglios linfáticos en el cuello, las axilas, el estómago o la ingle Sentirse muy cansado Dolor o sensación de llenura debajo de las costillas Fiebre e infección Pérdida de peso Para diagnosticar la leucemia linfocítica crónica se necesitan pruebas de sangre, de la médula ósea y de los ganglios linfáticos. El médico podría elegir sólo observar a la persona hasta que los síntomas se presenten o cambien. Los tratamientos incluyen radioterapia, quimioterapia, cirugía para extirpar el bazo y terapia dirigida. La terapia dirigida utiliza sustancias que atacan las células cancerosas o bloquean su crecimiento o diseminación. NIH: Instituto Nacional del Cáncer</dc:description>
+<dc:description xml:lang="en">Leukemia is cancer of the white blood cells. White blood cells help your body fight infection. Your blood cells form in your bone marrow. In leukemia, the bone marrow produces abnormal white blood cells. These cells crowd out the healthy blood cells, making it hard for blood to do its work. In chronic lymphocytic leukemia (CLL), there are too many lymphocytes, a type of white blood cell. CLL is the second most common type of leukemia in adults. It often occurs during or after middle age, and is rare in children. Usually CLL does not cause any symptoms. If you have symptoms, they may include Painless swelling of the lymph nodes in the neck, underarm, stomach, or groin Fatigue Pain or a feeling of fullness below the ribs Fever and infection Weight loss Tests that examine the blood, bone marrow, and lymph nodes diagnose CLL. Your doctor may choose to just monitor you until symptoms appear or change. Treatments include radiation therapy, chemotherapy, surgery to remove the spleen, and targeted therapy. Targeted therapy uses substances that attack cancer cells or block the growth and spread of cancer cells. NIH: National Cancer Institute</dc:description>
+<dc:subject dcterms="mesh">Leukemia, Lymphoid</dc:subject>
+<dc:subject xml:lang="es">Leucemia linfocítica crónica</dc:subject>
+<dc:subject xml:lang="es">Leucemia crónica en adultos</dc:subject>
+<dc:subject xml:lang="es">LLC</dc:subject>
+<dc:subject xml:lang="en">Chronic Lymphocytic Leukemia</dc:subject>
+<dc:subject xml:lang="en">CLL</dc:subject>
+<dc:subject xml:lang="en">Leukemia</dc:subject>
+<dc:subject xml:lang="en">Chronic Lymphocytic</dc:subject>
+</metadata>
+</record>
+</MedlinePlus-document>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<MedlinePlus-document>
+<record>
+<header>
+<identifier>https://medlineplus.gov/healthoccupations.html</identifier>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:type>Text</dc:type>
+<dc:language>spa</dc:language>
+<dc:language>eng</dc:language>
+<dc:title xml:lang="es">Profesiones en el campo de la salud</dc:title>
+<dc:title xml:lang="en">Health Occupations</dc:title>
+<dc:publisher>National Library of Medicine</dc:publisher>
+<dc:relation type="IsPartOf">Health System</dc:relation>
+<dc:date type="created">2002-07-21</dc:date>
+<dc:date type="modified">2017-05-09</dc:date>
+<dc:identifier type="URL" xml:lang="es">https://medlineplus.gov/spanish/healthoccupations.html</dc:identifier>
+<dc:identifier type="URL" xml:lang="en">https://medlineplus.gov/healthoccupations.html</dc:identifier>
+<dc:description xml:lang="es">Todos los días, durante todo el día, las personas que trabajan en la industria al cuidado de la salud suministran cuidados a millones de personas, desde recién nacidos hasta pacientes muy enfermos. De hecho, la industria de la atención de cuidado de la salud es uno de los mayores generadores de empleos en los Estados Unidos. Muchos trabajos en el área de la salud son en hospitales. Otros son en casas de reposo, consultorios médicos u odontológicos, clínicas ambulatorias y laboratorios. Para trabajar en el campo de la salud debe tener una capacitación especial. Algunos, como los médicos, deben ir a la universidad más de cuatro años. Departamento de Estadísticas de Trabajo</dc:description>
+<dc:description xml:lang="en">Every day, around the clock, people who work in the health care industry provide care for millions of people, from newborns to the very ill. In fact, the health care industry is one of largest providers of jobs in the United States. Many health jobs are in hospitals. Others are in nursing homes, doctors' offices, dentists' offices, outpatient clinics and laboratories. To work in a health occupation, you often must have special training. Some, like doctors, must have more than 4 years of college. Bureau of Labor Statistics</dc:description>
+<dc:subject dcterms="mesh">Health Occupations</dc:subject>
+<dc:subject xml:lang="es">Profesiones en el campo de la salud</dc:subject>
+<dc:subject xml:lang="en">Health Occupations</dc:subject>
+<dc:subject xml:lang="en">Careers</dc:subject>
+<dc:subject xml:lang="en">Medical Professions</dc:subject>
+</metadata>
+</record>
+</MedlinePlus-document>

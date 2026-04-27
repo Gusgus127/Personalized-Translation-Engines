@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<MedlinePlus-document>
+<record>
+<header>
+<identifier>https://medlineplus.gov/backinjuries.html</identifier>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title type="alternate" xml:lang="es">Espalda, Lesiones de la</dc:title>
+<dc:type>Text</dc:type>
+<dc:language>spa</dc:language>
+<dc:language>eng</dc:language>
+<dc:title xml:lang="es">Lesiones de la espalda</dc:title>
+<dc:title xml:lang="en">Back Injuries</dc:title>
+<dc:publisher>National Library of Medicine</dc:publisher>
+<dc:relation type="IsPartOf">Injuries and Wounds</dc:relation>
+<dc:relation type="IsPartOf">Bones, Joints and Muscles</dc:relation>
+<dc:date type="created">2002-07-21</dc:date>
+<dc:date type="modified">2017-12-19</dc:date>
+<dc:identifier type="URL" xml:lang="es">https://medlineplus.gov/spanish/backinjuries.html</dc:identifier>
+<dc:identifier type="URL" xml:lang="en">https://medlineplus.gov/backinjuries.html</dc:identifier>
+<dc:description xml:lang="es">La espalda está compuesta de huesos, músculos y otros tejidos que se extienden desde el cuello hasta la pelvis. Las lesiones en la espalda pueden ser provocadas por el deporte, trabajos en la casa o en el jardín o una sacudida repentina, como en un accidente de tránsito. La parte baja de la espalda es el sitio donde más comúnmente ocurren las lesiones y el dolor de espalda. Algunas de las lesiones de espalda más comunes son: Torceduras y distensiones o esguinces Hernias de disco Vértebras fracturadas Estas lesiones pueden causar dolor y limitar los movimientos. Los tratamientos varían, pero pueden incluir medicamentos, frío, reposo en cama, fisioterapia o cirugía. Se pueden evitar algunas lesiones de espalda manteniendo un peso saludable, utilizando el apoyo de las piernas cuando levanta objetos y usando un soporte para la parte baja de la espalda al sentarse.</dc:description>
+<dc:description xml:lang="en">Your back is made of bones, muscles, and other tissues extending from your neck to your pelvis. Back injuries can result from sports injuries, work around the house or in the garden, or a sudden jolt such as a car accident. The lower back is the most common site of back injuries and back pain. Common back injuries include Sprains and strains Herniated disks Fractured vertebrae These injuries can cause pain and limit your movement. Treatments vary but might include medicines, icing, bed rest, physical therapy, or surgery. You might be able to prevent some back injuries by maintaining a healthy weight, lifting objects with your legs, and using lower-back support when you sit.</dc:description>
+<dc:subject dcterms="mesh">Back Injuries</dc:subject>
+<dc:subject xml:lang="es">Lesiones de la espalda</dc:subject>
+<dc:subject xml:lang="es">Espalda</dc:subject>
+<dc:subject xml:lang="es">Lesiones de la</dc:subject>
+<dc:subject xml:lang="en">Back Injuries</dc:subject>
+</metadata>
+</record>
+</MedlinePlus-document>

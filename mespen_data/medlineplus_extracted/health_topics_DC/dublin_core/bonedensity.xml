@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<MedlinePlus-document>
+<record>
+<header>
+<identifier>https://medlineplus.gov/bonedensity.html</identifier>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title type="alternate" xml:lang="es">Osea, Densidad</dc:title>
+<dc:title type="alternate" xml:lang="en">Bone Loss</dc:title>
+<dc:title type="alternate" xml:lang="en">Osteopenia</dc:title>
+<dc:type>Text</dc:type>
+<dc:language>spa</dc:language>
+<dc:language>eng</dc:language>
+<dc:title xml:lang="es">Densidad ósea</dc:title>
+<dc:title xml:lang="en">Bone Density</dc:title>
+<dc:publisher>National Library of Medicine</dc:publisher>
+<dc:relation type="IsPartOf">Bones, Joints and Muscles</dc:relation>
+<dc:date type="created">2012-01-03</dc:date>
+<dc:date type="modified">2017-11-02</dc:date>
+<dc:identifier type="URL" xml:lang="es">https://medlineplus.gov/spanish/bonedensity.html</dc:identifier>
+<dc:identifier type="URL" xml:lang="en">https://medlineplus.gov/bonedensity.html</dc:identifier>
+<dc:description xml:lang="es">Tener huesos fuertes es importante para su salud. La prueba de densidad mineral ósea es la mejor forma de medir la salud de sus huesos. Compara la densidad de sus huesos, o masa, con la de una persona sana de su misma edad y género. Puede mostrar: Si usted tiene osteoporosis, una enfermedad que debilita los huesos El riesgo de sufrir fracturas de huesos Si el tratamiento para la osteoporosis está funcionando Una masa ósea baja que no es lo suficientemente baja para ser osteoporosis es conocida como osteopenia. Las causas de baja masa ósea incluyen la historia familiar, no desarrollar buena masa ósea de niño y ciertas condiciones o medicinas. No todas las personas con baja masa ósea tienen osteoporosis, pero están en alto riesgo de tenerla. Si usted tiene baja masa ósea, hay cosas que puede hacer para disminuir esta pérdida. Estas incluyen comer alimentos ricos en calcio y vitamina D y hacer ejercicio físico como caminar, jugar tenis o bailar. En algunos casos, el médico puede recetar medicinas para prevenir la osteoporosis. NIH: Instituto Nacional de Artritis y Enfermedades Musculoesqueléticas y de la Piel</dc:description>
+<dc:description xml:lang="en">Strong bones are important for your health. A bone mineral density (BMD) test is the best way to measure your bone health. It compares your bone density, or mass, to that of a healthy person who is the same age and sex as you are. It can show Whether you have osteoporosis, a disease that makes your bones weak Your risk for breaking bones Whether your osteoporosis treatment is working Low bone mass that is not low enough to be osteoporosis is sometimes called osteopenia. Causes of low bone mass include family history, not developing good bone mass when you are young, and certain conditions or medicines. Not everyone who has low bone mass gets osteoporosis, but they are at higher risk for getting it. If you have low bone mass, there are things you can do to help slow down bone loss. These include eating foods rich in calcium and vitamin D and doing weight-bearing exercise such as walking, tennis, or dancing. In some cases, your doctor may prescribe medicines to prevent osteoporosis. NIH: National Institute of Arthritis and Musculoskeletal and Skin Diseases</dc:description>
+<dc:subject dcterms="mesh">Bone Density</dc:subject>
+<dc:subject xml:lang="es">Densidad ósea</dc:subject>
+<dc:subject xml:lang="es">Osea</dc:subject>
+<dc:subject xml:lang="es">Densidad</dc:subject>
+<dc:subject xml:lang="en">Bone Density</dc:subject>
+<dc:subject xml:lang="en">Bone Loss</dc:subject>
+<dc:subject xml:lang="en">Osteopenia</dc:subject>
+</metadata>
+</record>
+</MedlinePlus-document>

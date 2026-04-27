@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<MedlinePlus-document>
+<record>
+<header>
+<identifier>https://medlineplus.gov/childsexualabuse.html</identifier>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title type="alternate" xml:lang="es">Niños, Abuso sexual de</dc:title>
+<dc:title type="alternate" xml:lang="es">Chicos, Abuso sexual de</dc:title>
+<dc:title type="alternate" xml:lang="en">Child Molestation</dc:title>
+<dc:title type="alternate" xml:lang="en">Sexual Abuse of Children</dc:title>
+<dc:type>Text</dc:type>
+<dc:language>spa</dc:language>
+<dc:language>eng</dc:language>
+<dc:title xml:lang="es">Abuso sexual de menores</dc:title>
+<dc:title xml:lang="en">Child Sexual Abuse</dc:title>
+<dc:publisher>National Library of Medicine</dc:publisher>
+<dc:relation type="IsPartOf">Children and Teenagers</dc:relation>
+<dc:relation type="IsPartOf">Sexual Health Issues</dc:relation>
+<dc:date type="created">2004-07-07</dc:date>
+<dc:date type="modified">2018-01-02</dc:date>
+<dc:identifier type="URL" xml:lang="es">https://medlineplus.gov/spanish/childsexualabuse.html</dc:identifier>
+<dc:identifier type="URL" xml:lang="en">https://medlineplus.gov/childsexualabuse.html</dc:identifier>
+<dc:description xml:lang="es">El abuso sexual de menores es una forma de maltrato al menor. Incluye un amplio espectro de acciones entre un niño y un adulto, o con niños mayores. Con frecuencia, aunque no siempre, implica un contacto físico. Exhibir sus órganos genitales ante un niño o presionar a un niño a tener relaciones sexuales, es abuso sexual contra el menor. Utilizar niños en pornografía también es abuso sexual contra los menores. La mayoría de los abusadores conocen al niño de quien abusan. Pueden ser amistades de la familia, vecinos o cuidadores de niños. Casi una tercera parte de los abusadores tienen un parentesco con los niños. La mayoría de los abusadores son hombres. Si cree que un niño puede haber sufrido un abuso, es importante que lo denuncie.</dc:description>
+<dc:description xml:lang="en">Sexual abuse is one form of child abuse. It includes a wide range of actions between a child and an adult or older child. Often these involve body contact, but not always. Exposing one's genitals to children or pressuring them for sex is sexual abuse. Using a child for pornography is also sexual abuse. Most sexual abusers know the child they abuse. They may be family friends, neighbors or babysitters. About one-third of abusers are related to the child. Most abusers are men. If you think a child may have been abused, it's important to report it.</dc:description>
+<dc:subject dcterms="mesh">Child Abuse, Sexual</dc:subject>
+<dc:subject xml:lang="es">Abuso sexual de menores</dc:subject>
+<dc:subject xml:lang="es">Niños</dc:subject>
+<dc:subject xml:lang="es">Abuso sexual de</dc:subject>
+<dc:subject xml:lang="es">Chicos</dc:subject>
+<dc:subject xml:lang="es">Abuso sexual de</dc:subject>
+<dc:subject xml:lang="en">Child Sexual Abuse</dc:subject>
+<dc:subject xml:lang="en">Child Molestation</dc:subject>
+<dc:subject xml:lang="en">Sexual Abuse of Children</dc:subject>
+</metadata>
+</record>
+</MedlinePlus-document>

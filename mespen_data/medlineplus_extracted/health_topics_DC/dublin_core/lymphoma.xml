@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<MedlinePlus-document>
+<record>
+<header>
+<identifier>https://medlineplus.gov/lymphoma.html</identifier>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title type="alternate" xml:lang="es">Linfoma no Hodgkin</dc:title>
+<dc:title type="alternate" xml:lang="en">Non-Hodgkin Lymphoma</dc:title>
+<dc:title type="alternate" xml:lang="en">Waldenstrom's Macroglobulinemia</dc:title>
+<dc:type>Text</dc:type>
+<dc:language>spa</dc:language>
+<dc:language>eng</dc:language>
+<dc:title xml:lang="es">Linfoma</dc:title>
+<dc:title xml:lang="en">Lymphoma</dc:title>
+<dc:publisher>National Library of Medicine</dc:publisher>
+<dc:relation type="IsPartOf">Cancers</dc:relation>
+<dc:relation type="IsPartOf">Immune System</dc:relation>
+<dc:date type="created">2002-07-21</dc:date>
+<dc:date type="modified">2017-12-27</dc:date>
+<dc:identifier type="URL" xml:lang="es">https://medlineplus.gov/spanish/lymphoma.html</dc:identifier>
+<dc:identifier type="URL" xml:lang="en">https://medlineplus.gov/lymphoma.html</dc:identifier>
+<dc:description xml:lang="es">El linfoma es un cáncer de una parte del sistema inmunitario llamado sistema linfático. Existen muchos tipos de linfoma. Un tipo se denomina enfermedad de Hodgkin. El resto se conoce como linfoma no Hodgkin. Los linfomas no Hodgkin comienzan cuando un tipo de glóbulos blancos, llamado células T o células B, se hacen anormales. Las células se dividen una y otra vez aumentando el número de células anormales. Las células anormales pueden diseminarse a casi todas las demás partes del cuerpo. La mayor parte del tiempo, los médicos no pueden determinar por qué una persona desarrolla un linfoma no Hodgkin. Usted está en mayor riesgo si tiene un sistema inmunitario débil o cierto tipo de infecciones. El linfoma no Hodgkin puede causar muchos síntomas, tales como: Ganglios linfáticos inflamados, sin dolor, en el cuello, las axilas o la ingle Pérdida de peso inexplicable Fiebre Sudoración nocturna profusa Tos, dificultad para respirar o dolor torácico Debilidad y cansancio que no desaparece Dolor, inflamación o sensación de hinchazón abdominal El médico diagnosticará el linfoma con un examen físico, pruebas de sangre, una radiografía torácica y una biopsia. Los tratamientos incluyen quimioterapia, radioterapia, terapia biológica o terapia para eliminar ciertas proteínas de la sangre. La terapia dirigida utiliza sustancias que atacan las células cancerosas sin dañar las células normales. La terapia biológica potencia la habilidad del propio cuerpo de luchar contra el cáncer. Si no tiene síntomas, puede no requerir tratamiento de inmediato. A esto se le llama espera vigilante. NIH: Instituto Nacional del Cáncer</dc:description>
+<dc:description xml:lang="en">Lymphoma is a cancer of a part of the immune system called the lymph system. There are many types of lymphoma. One type is Hodgkin disease. The rest are called non-Hodgkin lymphomas. Non-Hodgkin lymphomas begin when a type of white blood cell, called a T cell or B cell, becomes abnormal. The cell divides again and again, making more and more abnormal cells. These abnormal cells can spread to almost any other part of the body. Most of the time, doctors don't know why a person gets non-Hodgkin lymphoma. You are at increased risk if you have a weakened immune system or have certain types of infections. Non-Hodgkin lymphoma can cause many symptoms, such as Swollen, painless lymph nodes in the neck, armpits or groin Unexplained weight loss Fever Soaking night sweats Coughing, trouble breathing or chest pain Weakness and tiredness that don't go away Pain, swelling or a feeling of fullness in the abdomen Your doctor will diagnose lymphoma with a physical exam, blood tests, a chest x-ray, and a biopsy. Treatments include chemotherapy, radiation therapy, targeted therapy, biological therapy, or therapy to remove proteins from the blood. Targeted therapy uses substances that attack cancer cells without harming normal cells. Biologic therapy boosts your body's own ability to fight cancer. If you don't have symptoms, you may not need treatment right away. This is called watchful waiting. NIH: National Cancer Institute</dc:description>
+<dc:subject dcterms="mesh">Lymphoma</dc:subject>
+<dc:subject xml:lang="es">Linfoma</dc:subject>
+<dc:subject xml:lang="es">Linfoma no Hodgkin</dc:subject>
+<dc:subject xml:lang="en">Lymphoma</dc:subject>
+<dc:subject xml:lang="en">Non-Hodgkin Lymphoma</dc:subject>
+<dc:subject xml:lang="en">Waldenstrom's Macroglobulinemia</dc:subject>
+</metadata>
+</record>
+</MedlinePlus-document>

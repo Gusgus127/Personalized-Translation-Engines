@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<MedlinePlus-document>
+<record>
+<header>
+<identifier>https://medlineplus.gov/rehabilitation.html</identifier>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title type="alternate" xml:lang="es">Fisioterapia</dc:title>
+<dc:title type="alternate" xml:lang="es">Terapia ocupacional</dc:title>
+<dc:title type="alternate" xml:lang="en">Physical Therapy</dc:title>
+<dc:title type="alternate" xml:lang="en">Occupational Therapy</dc:title>
+<dc:type>Text</dc:type>
+<dc:language>spa</dc:language>
+<dc:language>eng</dc:language>
+<dc:title xml:lang="es">Rehabilitación</dc:title>
+<dc:title xml:lang="en">Rehabilitation</dc:title>
+<dc:publisher>National Library of Medicine</dc:publisher>
+<dc:relation type="IsPartOf">Surgery and Rehabilitation</dc:relation>
+<dc:date type="created">2010-10-04</dc:date>
+<dc:date type="modified">2017-08-03</dc:date>
+<dc:identifier type="URL" xml:lang="es">https://medlineplus.gov/spanish/rehabilitation.html</dc:identifier>
+<dc:identifier type="URL" xml:lang="en">https://medlineplus.gov/rehabilitation.html</dc:identifier>
+<dc:description xml:lang="es">Después de una lesión, una enfermedad o una cirugía seria, la recuperación puede ser lenta. Es posible que necesite recuperar nuevamente su fortaleza, volver a poner en práctica sus habilidades o encontrar nuevas formas de hacer las cosas que hacía antes. Este proceso es la rehabilitación. La rehabilitación suele enfocarse en: Fisioterapia para ayudarlo a fortalecerse y recuperar la movilidad y condición física Terapia ocupacional para ayudarlo con sus actividades cotidianas Tratamiento del dolor El tipo de tratamiento y las metas que esperan alcanzarse pueden variar en distintas personas. Por ejemplo, una persona de más edad, que haya tenido un derrame, simplemente quiera rehabilitación para poder vestirse o bañarse sin ayuda. Una persona joven que ha sufrido un ataque al corazón puede hacer rehabilitación cardíaca para intentar volver al trabajo y a sus actividades cotidianas. Las personas con enfermedades respiratorias pueden recibir rehabilitación pulmonar para poder respirar mejor y mejorar su calidad de vida.</dc:description>
+<dc:description xml:lang="en">After a serious injury, illness or surgery, you may recover slowly. You may need to regain your strength, relearn skills or find new ways of doing things you did before. This process is rehabilitation. Rehabilitation often focuses on Physical therapy to help your strength, mobility and fitness Occupational therapy to help you with your daily activities Speech-language therapy to help with speaking, understanding, reading, writing and swallowing Treatment of pain The type of therapy and goals of therapy may be different for different people. An older person who has had a stroke may simply want rehabilitation to be able to dress or bathe without help. A younger person who has had a heart attack may go through cardiac rehabilitation to try to return to work and normal activities. Someone with a lung disease may get pulmonary rehabilitation to be able to breathe better and improve their quality of life.</dc:description>
+<dc:subject dcterms="mesh">Rehabilitation</dc:subject>
+<dc:subject xml:lang="es">Rehabilitación</dc:subject>
+<dc:subject xml:lang="es">Fisioterapia</dc:subject>
+<dc:subject xml:lang="es">Terapia ocupacional</dc:subject>
+<dc:subject xml:lang="en">Rehabilitation</dc:subject>
+<dc:subject xml:lang="en">Physical Therapy</dc:subject>
+<dc:subject xml:lang="en">Occupational Therapy</dc:subject>
+</metadata>
+</record>
+</MedlinePlus-document>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<MedlinePlus-document>
+<record>
+<header>
+<identifier>https://medlineplus.gov/pulmonaryfibrosis.html</identifier>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:type>Text</dc:type>
+<dc:language>spa</dc:language>
+<dc:language>eng</dc:language>
+<dc:title xml:lang="es">Fibrosis pulmonar</dc:title>
+<dc:title xml:lang="en">Pulmonary Fibrosis</dc:title>
+<dc:publisher>National Library of Medicine</dc:publisher>
+<dc:relation type="IsPartOf">Lungs and Breathing</dc:relation>
+<dc:date type="created">2002-07-21</dc:date>
+<dc:date type="modified">2017-12-26</dc:date>
+<dc:identifier type="URL" xml:lang="es">https://medlineplus.gov/spanish/pulmonaryfibrosis.html</dc:identifier>
+<dc:identifier type="URL" xml:lang="en">https://medlineplus.gov/pulmonaryfibrosis.html</dc:identifier>
+<dc:description xml:lang="es">La fibrosis pulmonar es una condición en donde el tejido profundo de sus pulmones se va cicatrizando. Esto hace que el tejido se vuelva grueso y duro. Esto dificulta recuperar el aliento y es posible que la sangre no reciba suficiente oxígeno. Las causas de la fibrosis pulmonar incluyen contaminantes ambientales, algunos medicamentos, enfermedades del tejido conectivo o la enfermedad pulmonar intersticial (grupo de enfermedades que causan inflamación o cicatrización en los pulmones) pero en la mayoría de los casos, no se encuentra una causa. Esto se llama fibrosis pulmonar idiopática. Los síntomas pueden incluir: Dificultad para respirar Una tos entrecortada y seca que no mejora Cansancio Pérdida de peso sin razón aparente Dolores en los músculos y en las articulaciones Acropaquia o dedos en palillo de tambor (clubbing, en inglés; en esta condición, las puntas de los dedos de las manos y los pies se agrandan y las uñas se curvan) Su doctor puede usar su historia clínica, pruebas por imágenes, una biopsia y/o pruebas de la función de los pulmones para diagnosticar la fibrosis pulmonar. No existe una cura. Los tratamientos se centran en aliviar los síntomas y mejorar la calidad de vida. Estos incluyen medicamentos, terapia con oxígeno, rehabilitación pulmonar o trasplante de pulmón. NIH: Instituto Nacional del Corazón, los Pulmones y la Sangre</dc:description>
+<dc:description xml:lang="en">Pulmonary fibrosis is a condition in which the tissue deep in your lungs becomes scarred over time. This tissue gets thick and stiff. That makes it hard for you to catch your breath, and your blood may not get enough oxygen. Causes of pulmonary fibrosis include environmental pollutants, some medicines, some connective tissue diseases, and interstitial lung disease. Interstitial lung disease is the name for a large group of diseases that inflame or scar the lungs. In most cases, the cause cannot be found. This is called idiopathic pulmonary fibrosis. Symptoms include Shortness of breath A dry, hacking cough that doesn't get better Fatigue Weight loss for no known reason Aching muscles and joints Clubbing, which is the widening and rounding of the tips of the fingers or toes Your doctor may use your medical history, imaging tests, a biopsy, and lung function tests to diagnose pulmonary fibrosis. There is no cure. Treatments can help with symptoms and improve your quality of life. They include medicines, oxygen therapy, pulmonary rehabilitation, or a lung transplant. NIH: National Heart, Lung, and Blood Institute</dc:description>
+<dc:subject dcterms="mesh">Pulmonary Fibrosis</dc:subject>
+<dc:subject xml:lang="es">Fibrosis pulmonar</dc:subject>
+<dc:subject xml:lang="en">Pulmonary Fibrosis</dc:subject>
+</metadata>
+</record>
+</MedlinePlus-document>

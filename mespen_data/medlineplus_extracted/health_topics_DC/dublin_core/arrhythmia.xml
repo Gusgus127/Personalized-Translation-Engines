@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<MedlinePlus-document>
+<record>
+<header>
+<identifier>https://medlineplus.gov/arrhythmia.html</identifier>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title type="alternate" xml:lang="es">Taquicardia</dc:title>
+<dc:title type="alternate" xml:lang="es">Ritmo del corazón</dc:title>
+<dc:title type="alternate" xml:lang="es">Palpitaciones del corazón</dc:title>
+<dc:title type="alternate" xml:lang="es">Síndrome de QT largo</dc:title>
+<dc:title type="alternate" xml:lang="es">QT largo, Síndrome de</dc:title>
+<dc:title type="alternate" xml:lang="es">Síndrome del seno enfermo</dc:title>
+<dc:title type="alternate" xml:lang="es">Latidos del corazón</dc:title>
+<dc:title type="alternate" xml:lang="en">Irregular Heartbeat</dc:title>
+<dc:title type="alternate" xml:lang="en">Tachycardia</dc:title>
+<dc:title type="alternate" xml:lang="en">Bradycardia</dc:title>
+<dc:title type="alternate" xml:lang="en">Multifocal Atrial Tachycardia</dc:title>
+<dc:type>Text</dc:type>
+<dc:language>spa</dc:language>
+<dc:language>eng</dc:language>
+<dc:title xml:lang="es">Arritmia</dc:title>
+<dc:title xml:lang="en">Arrhythmia</dc:title>
+<dc:publisher>National Library of Medicine</dc:publisher>
+<dc:relation type="IsPartOf">Blood, Heart and Circulation</dc:relation>
+<dc:date type="created">2002-07-21</dc:date>
+<dc:date type="modified">2018-02-07</dc:date>
+<dc:identifier type="URL" xml:lang="es">https://medlineplus.gov/spanish/arrhythmia.html</dc:identifier>
+<dc:identifier type="URL" xml:lang="en">https://medlineplus.gov/arrhythmia.html</dc:identifier>
+<dc:description xml:lang="es">Una arritmia es cualquier trastorno en los latidos o el ritmo del corazón. Significa que el corazón late demasiado rápido o demasiado lento o que tiene un patrón irregular. Cuando el corazón late más rápido de lo normal se denomina taquicardia. Cuando late demasiado lento se llama bradicardia. El tipo más común de arritmia es la fibrilación auricular, que causa un latido irregular y rápido del corazón Existen muchos factores que pueden afectar el ritmo cardíaco, como haber tenido un ataque al corazón, fumar, defectos cardíacos congénitos y estrés. Algunas sustancias o medicinas también pueden causar arritmias. Los síntomas de arritmia incluyen: Latidos cardíacos rápidos o lentos Latidos perdidos Mareos o vértigo Dolor en el pecho Falta de aire Sudoración El médico puede realizar pruebas que detecten si padece de arritmia. El tratamiento para restablecer un ritmo cardíaco normal puede incluir medicamentos, un desfibrilador cardioversor implantable o un marcapasos y, a veces, cirugía. NIH: Instituto Nacional del Corazón, los Pulmones y la Sangre</dc:description>
+<dc:description xml:lang="en">An arrhythmia is a problem with the rate or rhythm of your heartbeat. It means that your heart beats too quickly, too slowly, or with an irregular pattern. When the heart beats faster than normal, it is called tachycardia. When the heart beats too slowly, it is called bradycardia. The most common type of arrhythmia is atrial fibrillation, which causes an irregular and fast heart beat. Many factors can affect your heart's rhythm, such as having had a heart attack, smoking, congenital heart defects, and stress. Some substances or medicines may also cause arrhythmias. Symptoms of arrhythmias include Fast or slow heart beat Skipping beats Lightheadedness or dizziness Chest pain Shortness of breath Sweating Your doctor can run tests to find out if you have an arrhythmia. Treatment to restore a normal heart rhythm may include medicines, an implantable cardioverter-defibrillator (ICD) or pacemaker, or sometimes surgery. NIH: National Heart, Lung, and Blood Institute</dc:description>
+<dc:subject dcterms="mesh">Arrhythmias, Cardiac</dc:subject>
+<dc:subject xml:lang="es">Arritmia</dc:subject>
+<dc:subject xml:lang="es">Taquicardia</dc:subject>
+<dc:subject xml:lang="es">Ritmo del corazón</dc:subject>
+<dc:subject xml:lang="es">Palpitaciones del corazón</dc:subject>
+<dc:subject xml:lang="es">Síndrome de QT largo</dc:subject>
+<dc:subject xml:lang="es">QT largo</dc:subject>
+<dc:subject xml:lang="es">Síndrome de</dc:subject>
+<dc:subject xml:lang="es">Síndrome del seno enfermo</dc:subject>
+<dc:subject xml:lang="es">Latidos del corazón</dc:subject>
+<dc:subject xml:lang="en">Arrhythmia</dc:subject>
+<dc:subject xml:lang="en">Irregular Heartbeat</dc:subject>
+<dc:subject xml:lang="en">Tachycardia</dc:subject>
+<dc:subject xml:lang="en">Bradycardia</dc:subject>
+<dc:subject xml:lang="en">Multifocal Atrial Tachycardia</dc:subject>
+</metadata>
+</record>
+</MedlinePlus-document>

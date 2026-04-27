@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<MedlinePlus-document>
+<record>
+<header>
+<identifier>https://medlineplus.gov/quittingsmoking.html</identifier>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:type>Text</dc:type>
+<dc:language>spa</dc:language>
+<dc:language>eng</dc:language>
+<dc:title xml:lang="es">Dejar de fumar</dc:title>
+<dc:title xml:lang="en">Quitting Smoking</dc:title>
+<dc:publisher>National Library of Medicine</dc:publisher>
+<dc:relation type="IsPartOf">Substance Abuse Problems</dc:relation>
+<dc:date type="created">2010-03-02</dc:date>
+<dc:date type="modified">2018-01-05</dc:date>
+<dc:identifier type="URL" xml:lang="es">https://medlineplus.gov/spanish/quittingsmoking.html</dc:identifier>
+<dc:identifier type="URL" xml:lang="en">https://medlineplus.gov/quittingsmoking.html</dc:identifier>
+<dc:description xml:lang="es">El consumo del tabaco es la principal causa de muerte prevenible. Cerca de la mitad de las personas que no dejan de fumar morirá a causa del cigarrillo o problemas relacionados. Dejar de fumar es importante para su salud. Poco después de dejar de fumar, la circulación comienza a mejorar y la presión arterial empieza a retroceder a su estado normal. Su sentido del olfato y del gusto vuelven y empieza a respirar con mayor facilidad. A largo plazo, dejar el tabaco puede ayudarle a vivir más tiempo. Su riesgo de padecer cáncer disminuye cada año que transcurre sin fumar. Dejarlo no es fácil. Es posible que tenga efectos a corto plazo, como subir de peso, irritabilidad y ansiedad. Algunas personas lo intentan varias veces antes de lograrlo. Existen muchas maneras para dejar de fumar. Algunas personas lo dejan de un momento a otro. Otros aprovechan los beneficios de los manuales paso a paso, la orientación o los medicamentos o productos que ayudan a disminuir la adicción a la nicotina. Algunas personas piensan que el cambio a los cigarrillos electrónicos puede ayudar a dejar de fumar, pero no ha sido comprobado. Su proveedor de salud puede prestarle ayuda para encontrar la mejor manera de dejar de fumar. NIH: Instituto Nacional del Cáncer</dc:description>
+<dc:description xml:lang="en">Tobacco use is the most common preventable cause of death. About half of the people who don't quit smoking will die of smoking-related problems. Quitting smoking is important for your health. Soon after you quit, your circulation begins to improve, and your blood pressure starts to return to normal. Your sense of smell and taste return, and it's easier for you to breathe. In the long term, giving up tobacco can help you live longer. Your risk of getting cancer decreases with each year you stay smoke-free. Quitting is not easy. You may have short-term affects such as weight gain, irritability, and anxiety. Some people try several times before they succeed. There are many ways to quit smoking. Some people stop "cold turkey." Others benefit from step-by-step manuals, counseling, or medicines or products that help reduce nicotine addiction. Some people think that switching to e-cigarettes can help you quit smoking, but that has not been proven. Your health care provider can help you find the best way for you to quit. NIH: National Cancer Institute</dc:description>
+<dc:subject dcterms="mesh">Smoking Cessation</dc:subject>
+<dc:subject dcterms="mesh">Tobacco Use Cessation Products</dc:subject>
+<dc:subject xml:lang="es">Dejar de fumar</dc:subject>
+<dc:subject xml:lang="en">Quitting Smoking</dc:subject>
+<dc:subject xml:lang="en">Smoking Cessation</dc:subject>
+</metadata>
+</record>
+</MedlinePlus-document>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<MedlinePlus-document>
+<record>
+<header>
+<identifier>https://medlineplus.gov/acupuncture.html</identifier>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:type>Text</dc:type>
+<dc:language>spa</dc:language>
+<dc:language>eng</dc:language>
+<dc:title xml:lang="es">Acupuntura</dc:title>
+<dc:title xml:lang="en">Acupuncture</dc:title>
+<dc:publisher>National Library of Medicine</dc:publisher>
+<dc:relation type="IsPartOf">Complementary and Alternative Therapies</dc:relation>
+<dc:date type="created">2003-02-07</dc:date>
+<dc:date type="modified">2017-10-13</dc:date>
+<dc:identifier type="URL" xml:lang="es">https://medlineplus.gov/spanish/acupuncture.html</dc:identifier>
+<dc:identifier type="URL" xml:lang="en">https://medlineplus.gov/acupuncture.html</dc:identifier>
+<dc:description xml:lang="es">La acupuntura se ha practicado en China y en otros países asiáticos por miles de años. Es una práctica que implica estimular partes específicas del cuerpo, generalmente, mediante la inserción de agujas muy finas. Esto crea un cambio en las funciones físicas del cuerpo. Las investigaciones han demostrado que la acupuntura reduce las náuseas y los vómitos después de una cirugía y quimioterapia. También puede aliviar el dolor. Los investigadores no comprenden en su totalidad el efecto de la acupuntura pero se cree que podría ayudar a la actividad de los químicos que alivian el dolor del cuerpo. También podría afectar la manera en la que se liberan las sustancias químicas que regulan la presión arterial y el flujo de la sangre. NIH: Centro Nacional de Salud Complementaria e Integral</dc:description>
+<dc:description xml:lang="en">Acupuncture has been practiced in China and other Asian countries for thousands of years. Acupuncture involves stimulating specific points on the body. This is most often done by inserting thin needles through the skin, to cause a change in the physical functions of the body. Research has shown that acupuncture reduces nausea and vomiting after surgery and chemotherapy. It can also relieve pain. Researchers don't fully understand how acupuncture works. It might aid the activity of your body's pain-killing chemicals. It also might affect how you release chemicals that regulate blood pressure and flow. NIH: National Center for Complementary and Integrative Health</dc:description>
+<dc:subject dcterms="mesh">Acupuncture Therapy</dc:subject>
+<dc:subject xml:lang="es">Acupuntura</dc:subject>
+<dc:subject xml:lang="en">Acupuncture</dc:subject>
+</metadata>
+</record>
+</MedlinePlus-document>

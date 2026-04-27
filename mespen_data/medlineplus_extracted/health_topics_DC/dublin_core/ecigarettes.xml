@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<MedlinePlus-document>
+<record>
+<header>
+<identifier>https://medlineplus.gov/ecigarettes.html</identifier>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:type>Text</dc:type>
+<dc:language>spa</dc:language>
+<dc:language>eng</dc:language>
+<dc:title xml:lang="es">Cigarrillo electrónico</dc:title>
+<dc:title xml:lang="en">E-Cigarettes</dc:title>
+<dc:publisher>National Library of Medicine</dc:publisher>
+<dc:relation type="IsPartOf">Substance Abuse Problems</dc:relation>
+<dc:relation type="IsPartOf">Lungs and Breathing</dc:relation>
+<dc:date type="created">2015-10-07</dc:date>
+<dc:date type="modified">2017-08-28</dc:date>
+<dc:identifier type="URL" xml:lang="es">https://medlineplus.gov/spanish/ecigarettes.html</dc:identifier>
+<dc:identifier type="URL" xml:lang="en">https://medlineplus.gov/ecigarettes.html</dc:identifier>
+<dc:description xml:lang="es">Los cigarrillos electrónicos o cigarrillos-e son dispositivos para fumar que funcionan con baterías. A menudo se parecen a los cigarrillos, pero funcionan de forma diferente. El uso de un cigarrillo electrónico se conoce como "vapear". El usuario inhala desde la boquilla del dispositivo. Esto causa que el vaporizador caliente el líquido dentro del cartucho. El líquido contiene nicotina, aromas y otros productos químicos, lo que luego se convierte en el vapor que se inhala. Algunas personas piensan que los cigarrillos electrónicos son más seguros que los cigarrillos comunes y que pueden ser utilizados para ayudar a la gente a dejar de fumar. Pero no se sabe mucho sobre los riesgos para la salud de su uso, o si ayudan para dejar de fumar. Sin embargo, lo que sabemos acerca de algunos peligros de los cigarrillos electrónicos es que: Contienen nicotina, que es adictiva Contienen otras sustancias químicas potencialmente dañinas Existe una relación entre el uso del cigarrillo electrónico y el consumo de cigarrillos de tabaco en adolescentes El líquido en los cigarrillos electrónicos puede causar envenenamiento por nicotina si alguien lo bebe, huele o toca NIH: Instituto Nacional sobre el Abuso de Drogas</dc:description>
+<dc:description xml:lang="en">E-cigarettes, or electronic cigarettes, are battery-operated smoking devices. They often look like cigarettes, but work differently. Using an e-cigarette is called vaping. The user puffs on the mouthpiece of a cartridge. This causes a vaporizer to heat the liquid inside the cartridge. The liquid contains nicotine, flavorings, and other chemicals. The heated liquid turns into the vapor that is inhaled. Some people think that e-cigarettes are safer than cigarettes, and that they can be used to help people quit smoking. But not much is known about the health risks of using them, or whether they do help people quit smoking. However we do know about some dangers of e-cigarettes: They contain nicotine, which is addictive They contain other potentially harmful chemicals There is a link between e-cigarette use and tobacco cigarette use in teens The liquid in e-cigarettes can cause nicotine poisoning if someone drinks, sniffs, or touches it NIH: National Institute on Drug Abuse</dc:description>
+<dc:subject dcterms="mesh">Electronic Nicotine Delivery Systems</dc:subject>
+<dc:subject xml:lang="es">Cigarrillo electrónico</dc:subject>
+<dc:subject xml:lang="en">E-Cigarettes</dc:subject>
+<dc:subject xml:lang="en">Vaping</dc:subject>
+</metadata>
+</record>
+</MedlinePlus-document>

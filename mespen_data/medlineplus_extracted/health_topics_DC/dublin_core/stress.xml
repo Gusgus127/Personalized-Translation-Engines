@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<MedlinePlus-document>
+<record>
+<header>
+<identifier>https://medlineplus.gov/stress.html</identifier>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:type>Text</dc:type>
+<dc:language>spa</dc:language>
+<dc:language>eng</dc:language>
+<dc:title xml:lang="es">Estrés</dc:title>
+<dc:title xml:lang="en">Stress</dc:title>
+<dc:publisher>National Library of Medicine</dc:publisher>
+<dc:relation type="IsPartOf">Mental Health and Behavior</dc:relation>
+<dc:date type="created">2002-07-21</dc:date>
+<dc:date type="modified">2018-02-08</dc:date>
+<dc:identifier type="URL" xml:lang="es">https://medlineplus.gov/spanish/stress.html</dc:identifier>
+<dc:identifier type="URL" xml:lang="en">https://medlineplus.gov/stress.html</dc:identifier>
+<dc:description xml:lang="es">Todo el mundo se siente estresado de vez en cuando. No todo el estrés es malo. Todos los animales tienen una respuesta de estrés, y puede salvarles las vidas. Pero el estrés crónico puede causar daño tanto físico como mental. Hay por lo menos tres diferentes tipos de estrés: Estrés rutinario relacionado a la presión del trabajo, la familia y otras responsabilidades diarias Estrés provocado por un cambio negativo repentina, como la pérdida de un trabajo, divorcio o enfermedad Estrés traumático, que ocurre cuando se encuentra en peligro de ser gravemente herido o muerto. Los ejemplos incluyen un accidente grave, guerra, asalto o un desastre natural. Este tipo de estrés puede causar trastorno de estrés postraumático. Las personas pueden sentir estrés de diferentes maneras. Algunos experimentan síntomas digestivos. Otros pueden tener dolores de cabeza, insomnio, depresión, ira e irritabilidad. Las personas bajo estrés crónico sufren infecciones virales más frecuentes y graves, como la gripe o el resfriado común. Las vacunas, como la antigripal, son menos eficaces para ello. Algunas personas lidian con el estrés de manera más eficaz que otras. Es importante que conozca sus límites cuando se trata de estrés, con el fin de evitar los efectos más graves de salud. NIH: Instituto Nacional de la Salud Mental</dc:description>
+<dc:description xml:lang="en">Everyone feels stressed from time to time. Not all stress is bad. All animals have a stress response, and it can be life-saving. But chronic stress can cause both physical and mental harm. There are at least three different types of stress: Routine stress related to the pressures of work, family, and other daily responsibilities Stress brought about by a sudden negative change, such as losing a job, divorce, or illness Traumatic stress, which happens when you are in danger of being seriously hurt or killed. Examples include a major accident, war, assault, or a natural disaster. This type of stress can cause post-traumatic stress disorder (PTSD). Different people may feel stress in different ways. Some people experience digestive symptoms. Others may have headaches, sleeplessness, depressed mood, anger, and irritability. People under chronic stress get more frequent and severe viral infections, such as the flu or common cold. Vaccines, such as the flu shot, are less effective for them. Some people cope with stress more effectively than others. It's important to know your limits when it comes to stress, so you can avoid more serious health effects. NIH: National Institute of Mental Health</dc:description>
+<dc:subject dcterms="mesh">Stress, Psychological</dc:subject>
+<dc:subject xml:lang="es">Estrés</dc:subject>
+<dc:subject xml:lang="en">Stress</dc:subject>
+<dc:subject xml:lang="en">Psychological Stress</dc:subject>
+</metadata>
+</record>
+</MedlinePlus-document>

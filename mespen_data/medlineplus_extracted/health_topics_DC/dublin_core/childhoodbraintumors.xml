@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<MedlinePlus-document>
+<record>
+<header>
+<identifier>https://medlineplus.gov/childhoodbraintumors.html</identifier>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title type="alternate" xml:lang="es">Niños, Tumores cerebrales</dc:title>
+<dc:title type="alternate" xml:lang="es">Niños, Cáncer cerebral</dc:title>
+<dc:type>Text</dc:type>
+<dc:language>spa</dc:language>
+<dc:language>eng</dc:language>
+<dc:title xml:lang="es">Tumores cerebrales en niños</dc:title>
+<dc:title xml:lang="en">Childhood Brain Tumors</dc:title>
+<dc:publisher>National Library of Medicine</dc:publisher>
+<dc:relation type="IsPartOf">Children and Teenagers</dc:relation>
+<dc:relation type="IsPartOf">Cancers</dc:relation>
+<dc:relation type="IsPartOf">Brain and Nerves</dc:relation>
+<dc:date type="created">2005-08-31</dc:date>
+<dc:date type="modified">2017-11-14</dc:date>
+<dc:identifier type="URL" xml:lang="es">https://medlineplus.gov/spanish/childhoodbraintumors.html</dc:identifier>
+<dc:identifier type="URL" xml:lang="en">https://medlineplus.gov/childhoodbraintumors.html</dc:identifier>
+<dc:description xml:lang="es">Los tumores cerebrales son abultamientos anormales dentro del cráneo. Se encuentran entre los tipos más comunes de cánceres en niños. Algunos son tumores benignos, que no son cancerosos. Aún así, pueden ser serios. Los tumores malignos son cancerosos. Los tumores cerebrales y de la médula espinal infantiles pueden causar dolores de cabeza y otros síntomas. Sin embargo, otras enfermedades causan síntomas similares. Consulte con su doctor si su hijo tiene algunos de estos problemas: Dolor de cabeza por la mañana o que desaparece al vomitar Vómitos y náusea frecuentes Problemas con la vista o del habla Pérdida de equilibrio o problemas para caminar Somnolencia inusual (más sueño que de costumbre) Cambios de personalidad Convulsiones Cabeza agrandada en recién nacidos Igualmente, estos síntomas no son los mismos en todos los niños. Los médicos usan exámenes físicos y neurológicos, de laboratorio e imágenes para diagnosticar tumores cerebrales. La mayoría de los tumores infantiles son diagnosticados y extraídos por medio de una cirugía. El tratamiento en los niños a veces es diferente al utilizado para los adultos. Los efectos secundarios a largo plazo son un aspecto importante. Las opciones también dependen del tipo de tumor y de su ubicación. Con frecuencia, es posible extirpar el tumor. Cuando no lo es, puede usarse radiación, quimioterapia o ambos. NIH: Instituto Nacional del Cáncer</dc:description>
+<dc:description xml:lang="en">Brain tumors are abnormal growths inside the skull. They are among the most common types of childhood cancers. Some are benign tumors, which aren't cancer. They can still be serious. Malignant tumors are cancerous. Childhood brain and spinal cord tumors can cause headaches and other symptoms. However, other conditions can also cause the same symptoms. Check with a doctor if your child has any of the following problems: Morning headache or headache that goes away after vomiting Frequent nausea and vomiting Vision, hearing, and speech problems Loss of balance or trouble walking Unusual sleepiness Personality changes Seizures Increased head size in infants The symptoms are not the same in every child. Doctors use physical and neurological exams, lab tests, and imaging to diagnose brain tumors. Most childhood brain tumors are diagnosed and removed in surgery. Treatment for children is sometimes different than for an adult. Long-term side effects are an important issue. The options also depend on the type of tumor and where it is. Removal of the tumor is often possible. If not, radiation, chemotherapy, or both may be used. NIH: National Cancer Institute</dc:description>
+<dc:subject dcterms="mesh">Brain Neoplasms</dc:subject>
+<dc:subject xml:lang="es">Tumores cerebrales en niños</dc:subject>
+<dc:subject xml:lang="es">Niños</dc:subject>
+<dc:subject xml:lang="es">Tumores cerebrales</dc:subject>
+<dc:subject xml:lang="es">Niños</dc:subject>
+<dc:subject xml:lang="es">Cáncer cerebral</dc:subject>
+<dc:subject xml:lang="en">Childhood Brain Tumors</dc:subject>
+</metadata>
+</record>
+</MedlinePlus-document>

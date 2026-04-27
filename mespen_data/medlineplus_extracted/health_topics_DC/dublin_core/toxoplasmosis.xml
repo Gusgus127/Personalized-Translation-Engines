@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<MedlinePlus-document>
+<record>
+<header>
+<identifier>https://medlineplus.gov/toxoplasmosis.html</identifier>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:type>Text</dc:type>
+<dc:language>spa</dc:language>
+<dc:language>eng</dc:language>
+<dc:title xml:lang="es">Toxoplasmosis</dc:title>
+<dc:title xml:lang="en">Toxoplasmosis</dc:title>
+<dc:publisher>National Library of Medicine</dc:publisher>
+<dc:relation type="IsPartOf">Infections</dc:relation>
+<dc:date type="created">2002-07-21</dc:date>
+<dc:date type="modified">2018-02-14</dc:date>
+<dc:identifier type="URL" xml:lang="es">https://medlineplus.gov/spanish/toxoplasmosis.html</dc:identifier>
+<dc:identifier type="URL" xml:lang="en">https://medlineplus.gov/toxoplasmosis.html</dc:identifier>
+<dc:description xml:lang="es">La toxoplasmosis es una enfermedad causada por el parásito Toxoplasma gondii. Más de 60 millones de personas en Estados Unidos tienen este parásito. La mayoría de ellas no se enferma. Pero el parásito causa serios problemas en algunas personas. Entre ellas se incluyen las personas con sistemas inmunitarios debilitados y bebés de madres que contrajeron la infección durante el embarazo. Los problemas pueden incluir lesiones en el cerebro, los ojos y otros órganos. Es posible contagiarse con la toxoplasmosis por: Excrementos de un gato infectado Ingerir carne contaminada que esté cruda o poco cocida Utilizar utensilios o tablas de cortar que estuvieron en contacto con carne cruda Beber agua contaminada Recibir un trasplante de órganos o una transfusión de sangre infectados La mayoría de las personas con toxoplasmosis no necesitan tratamiento. Existen medicamentos para tratarla en el caso de las mujeres embarazadas o personas con sistemas inmunitarios debilitados. Centros para el Control y la Prevención de Enfermedades</dc:description>
+<dc:description xml:lang="en">Toxoplasmosis is a disease caused by the parasite Toxoplasma gondii. More than 60 million people in the U.S. have the parasite. Most of them don't get sick. But the parasite causes serious problems for some people. These include people with weak immune systems and babies whose mothers become infected for the first time during pregnancy. Problems can include damage to the brain, eyes, and other organs. You can get toxoplasmosis from Waste from an infected cat Eating contaminated meat that is raw or not well cooked Using utensils or cutting boards after they've had contact with contaminated raw meat Drinking infected water Receiving an infected organ transplant or blood transfusion Most people with toxoplasmosis don't need treatment. There are drugs to treat it for pregnant women and people with weak immune systems. Centers for Disease Control and Prevention</dc:description>
+<dc:subject dcterms="mesh">Toxoplasmosis</dc:subject>
+<dc:subject xml:lang="es">Toxoplasmosis</dc:subject>
+<dc:subject xml:lang="en">Toxoplasmosis</dc:subject>
+</metadata>
+</record>
+</MedlinePlus-document>

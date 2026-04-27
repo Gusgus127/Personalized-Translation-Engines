@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<MedlinePlus-document>
+<record>
+<header>
+<identifier>https://medlineplus.gov/cataract.html</identifier>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:type>Text</dc:type>
+<dc:language>spa</dc:language>
+<dc:language>eng</dc:language>
+<dc:title xml:lang="es">Cataratas</dc:title>
+<dc:title xml:lang="en">Cataract</dc:title>
+<dc:publisher>National Library of Medicine</dc:publisher>
+<dc:relation type="IsPartOf">Seniors</dc:relation>
+<dc:relation type="IsPartOf">Eyes and Vision</dc:relation>
+<dc:date type="created">2002-07-21</dc:date>
+<dc:date type="modified">2017-07-19</dc:date>
+<dc:identifier type="URL" xml:lang="es">https://medlineplus.gov/spanish/cataract.html</dc:identifier>
+<dc:identifier type="URL" xml:lang="en">https://medlineplus.gov/cataract.html</dc:identifier>
+<dc:description xml:lang="es">Una catarata opaca o nubla el lente del ojo. Esto afecta la vista. Las cataratas son muy comunes en las personas mayores. A los 80 años de edad, más de la mitad de las personas que viven en los Estados Unidos tiene cataratas o se ha sometido a una cirugía de cataratas. Las cataratas pueden afectar uno o los dos ojos pero no se contagia de uno a otro. Los síntomas más comunes son: Vista borrosa Colores que parecen desteñidos Resplandor alrededor de las luces: puede ser que las luces de los coches, lámparas y del sol se vean demasiado brillantes Dificultad para ver bien de noche Ver doble Cambios frecuentes en las recetas de sus lentes Las cataratas suelen aparecer lentamente. El uso de anteojos nuevos, la iluminación más brillante, anteojos de sol antirreflejo o lentes de aumento puede ayudar al principio. La cirugía también es una opción. Incluye la extirpación del lente opacado y su reemplazo por un lente artificial. El uso de anteojos de sol y sombrero con visera que bloquee la luz ultravioleta pueden ayudar a demorar la aparición de cataratas. NIH: Instituto Nacional del Ojo</dc:description>
+<dc:description xml:lang="en">A cataract is a clouding of the lens in your eye. It affects your vision. Cataracts are very common in older people. By age 80, more than half of all Americans either have a cataract or have had cataract surgery. A cataract can occur in either or both eyes. It cannot spread from one eye to the other. Common symptoms are Blurry vision Colors that seem faded Glare - headlights, lamps or sunlight may seem too bright. You may also see a halo around lights. Not being able to see well at night Double vision Frequent prescription changes in your eye wear Cataracts usually develop slowly. New glasses, brighter lighting, anti-glare sunglasses or magnifying lenses can help at first. Surgery is also an option. It involves removing the cloudy lens and replacing it with an artificial lens. Wearing sunglasses and a hat with a brim to block ultraviolet sunlight may help to delay cataracts. NIH: National Eye Institute</dc:description>
+<dc:subject dcterms="mesh">Cataract</dc:subject>
+<dc:subject xml:lang="es">Cataratas</dc:subject>
+<dc:subject xml:lang="en">Cataract</dc:subject>
+<dc:subject xml:lang="en">Intraocular Lens</dc:subject>
+<dc:subject xml:lang="en">Artificial Lens</dc:subject>
+</metadata>
+</record>
+</MedlinePlus-document>

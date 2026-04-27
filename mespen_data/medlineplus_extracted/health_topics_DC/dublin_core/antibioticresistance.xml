@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<MedlinePlus-document>
+<record>
+<header>
+<identifier>https://medlineplus.gov/antibioticresistance.html</identifier>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:type>Text</dc:type>
+<dc:language>spa</dc:language>
+<dc:language>eng</dc:language>
+<dc:title xml:lang="es">Resistencia a los antibióticos</dc:title>
+<dc:title xml:lang="en">Antibiotic Resistance</dc:title>
+<dc:publisher>National Library of Medicine</dc:publisher>
+<dc:relation type="IsPartOf">Drug Therapy</dc:relation>
+<dc:relation type="IsPartOf">Infections</dc:relation>
+<dc:date type="created">2015-05-20</dc:date>
+<dc:date type="modified">2017-12-29</dc:date>
+<dc:identifier type="URL" xml:lang="es">https://medlineplus.gov/spanish/antibioticresistance.html</dc:identifier>
+<dc:identifier type="URL" xml:lang="en">https://medlineplus.gov/antibioticresistance.html</dc:identifier>
+<dc:description xml:lang="es">Los antibióticos son medicamentos que combaten las infecciones bacterianas. Usados correctamente, pueden salvar vidas pero hay un creciente problema de resistencia a antibióticos. Esto ocurre cuando las bacterias mutan (se transforman) y se vuelven capaces de resistir los efectos de un antibiótico. El uso de antibióticos puede llevar a la resistencia. Cada vez que toma antibióticos, las bacterias sensibles mueren. Pero gérmenes resistentes pueden crecer y multiplicarse. Se pueden propagar a otras personas. También pueden causar infecciones que ciertos antibióticos no pueden curar. Un ejemplo es el estafilococo resistente a la meticilina (SARM). Este causa infecciones que son resistentes a varios antibióticos comunes. Para ayudar a prevenir la resistencia a los antibióticos: No use antibióticos para virus como los del resfriado o la gripe. Los antibióticos no funcionan en los virus. No presione a su médico que le dé un antibiótico Cuando tome antibióticos, siga las instrucciones con cuidado. Termine su medicamento aunque se sienta mejor. Si interrumpe el tratamiento demasiado pronto, algunas bacterias pueden sobrevivir y volver a infectarle No guarde los antibióticos para más tarde o use la receta de otra persona Centros para el Control y Prevención de Enfermedades</dc:description>
+<dc:description xml:lang="en">Antibiotics are medicines that fight bacterial infections. Used properly, they can save lives. But there is a growing problem of antibiotic resistance. It happens when bacteria change and become able to resist the effects of an antibiotic. Using antibiotics can lead to resistance. Each time you take antibiotics, sensitive bacteria are killed. But resistant germs may be left to grow and multiply. They can spread to other people. They can also cause infections that certain antibiotics cannot cure. Methicillin-resistant Staphylococcus aureus (MRSA) is one example. It causes infections that are resistant to several common antibiotics. To help prevent antibiotic resistance Don't use antibiotics for viruses like colds or flu. Antibiotics don't work on viruses. Don't pressure your doctor to give you an antibiotic. When you take antibiotics, follow the directions carefully. Finish your medicine even if you feel better. If you stop treatment too soon, some bacteria may survive and re-infect you. Don't save antibiotics for later or use someone else's prescription. Centers for Disease Control and Prevention</dc:description>
+<dc:subject dcterms="mesh">Drug Resistance, Bacterial</dc:subject>
+<dc:subject dcterms="mesh">Drug Resistance, Microbial</dc:subject>
+<dc:subject xml:lang="es">Resistencia a los antibióticos</dc:subject>
+<dc:subject xml:lang="en">Antibiotic Resistance</dc:subject>
+<dc:subject xml:lang="en">Antimicrobial Resistance</dc:subject>
+<dc:subject xml:lang="en">Vancomycin-Resistant Enterococci</dc:subject>
+<dc:subject xml:lang="en">VRE</dc:subject>
+</metadata>
+</record>
+</MedlinePlus-document>

@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<MedlinePlus-document>
+<record>
+<header>
+<identifier>https://medlineplus.gov/digestivediseases.html</identifier>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title type="alternate" xml:lang="es">Enfermedades gastrointestinales</dc:title>
+<dc:title type="alternate" xml:lang="es">Enfermedades intestinales</dc:title>
+<dc:title type="alternate" xml:lang="es">Sistema digestivo, Enfermedades del (General)</dc:title>
+<dc:title type="alternate" xml:lang="es">Gastroinestinales, Enfermedaddes</dc:title>
+<dc:title type="alternate" xml:lang="es">Intestino, Enfermedades del</dc:title>
+<dc:title type="alternate" xml:lang="es">Oclusión intestinal</dc:title>
+<dc:title type="alternate" xml:lang="es">Síndrome del asa ciega</dc:title>
+<dc:title type="alternate" xml:lang="es">Asa ciega, Síndrome de</dc:title>
+<dc:title type="alternate" xml:lang="es">Intestino corto, Síndrome</dc:title>
+<dc:title type="alternate" xml:lang="es">Intususcepción</dc:title>
+<dc:title type="alternate" xml:lang="en">Gastrointestinal Diseases</dc:title>
+<dc:type>Text</dc:type>
+<dc:language>spa</dc:language>
+<dc:language>eng</dc:language>
+<dc:title xml:lang="es">Enfermedades del sistema digestivo</dc:title>
+<dc:title xml:lang="en">Digestive Diseases</dc:title>
+<dc:publisher>National Library of Medicine</dc:publisher>
+<dc:relation type="IsPartOf">Digestive System</dc:relation>
+<dc:date type="created">2002-07-21</dc:date>
+<dc:date type="modified">2017-12-12</dc:date>
+<dc:identifier type="URL" xml:lang="es">https://medlineplus.gov/spanish/digestivediseases.html</dc:identifier>
+<dc:identifier type="URL" xml:lang="en">https://medlineplus.gov/digestivediseases.html</dc:identifier>
+<dc:description xml:lang="es">Cuando el cuerpo come, descompone los alimentos en una forma que puede utilizar para producir y nutrir células y suministrar energía. Este proceso se llama digestión. El sistema digestivo es una serie de órganos huecos unidos en un tubo largo y retorcido. Comienza en la boca y se extiende hasta el ano, e incluye el esófago, el estómago, el intestino delgado y el intestino grueso. El hígado, la vesícula y el páncreas también participan. Estos tres órganos producen jugos que ayudan en el proceso de la digestión. Existen muchos tipos de trastornos digestivos. Los síntomas varían ampliamente dependiendo del problema. En líneas generales, debe consultar a un médico si observa: Sangre en las evacuaciones Cambios en los hábitos intestinales Dolor abdominal severo Pérdida de peso no intencional Acidez que no mejora con antiácidos NIH: Instituto Nacional de la Diabetes y las Enfermedades Digestivas y Renales</dc:description>
+<dc:description xml:lang="en">When you eat, your body breaks food down to a form it can use to build and nourish cells and provide energy. This process is called digestion. Your digestive system is a series of hollow organs joined in a long, twisting tube. It runs from your mouth to your anus and includes your esophagus, stomach, and small and large intestines. Your liver, gallbladder and pancreas are also involved. They produce juices to help digestion. There are many types of digestive disorders. The symptoms vary widely depending on the problem. In general, you should see your doctor if you have Blood in your stool Changes in bowel habits Severe abdominal pain Unintentional weight loss Heartburn not relieved by antacids NIH: National Institute of Diabetes and Digestive and Kidney Diseases</dc:description>
+<dc:subject dcterms="mesh">Digestive System Diseases</dc:subject>
+<dc:subject xml:lang="es">Enfermedades del sistema digestivo</dc:subject>
+<dc:subject xml:lang="es">Enfermedades gastrointestinales</dc:subject>
+<dc:subject xml:lang="es">Enfermedades intestinales</dc:subject>
+<dc:subject xml:lang="es">Sistema digestivo</dc:subject>
+<dc:subject xml:lang="es">Enfermedades del (General)</dc:subject>
+<dc:subject xml:lang="es">Gastroinestinales</dc:subject>
+<dc:subject xml:lang="es">Enfermedaddes</dc:subject>
+<dc:subject xml:lang="es">Intestino</dc:subject>
+<dc:subject xml:lang="es">Enfermedades del</dc:subject>
+<dc:subject xml:lang="es">Oclusión intestinal</dc:subject>
+<dc:subject xml:lang="es">Síndrome del asa ciega</dc:subject>
+<dc:subject xml:lang="es">Asa ciega</dc:subject>
+<dc:subject xml:lang="es">Síndrome de</dc:subject>
+<dc:subject xml:lang="es">Intestino corto</dc:subject>
+<dc:subject xml:lang="es">Síndrome</dc:subject>
+<dc:subject xml:lang="es">Intususcepción</dc:subject>
+<dc:subject xml:lang="en">Digestive Diseases</dc:subject>
+<dc:subject xml:lang="en">Gastrointestinal Diseases</dc:subject>
+</metadata>
+</record>
+</MedlinePlus-document>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<MedlinePlus-document>
+<record>
+<header>
+<identifier>https://medlineplus.gov/copd.html</identifier>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title type="alternate" xml:lang="es">EPOC</dc:title>
+<dc:title type="alternate" xml:lang="es">COPD</dc:title>
+<dc:title type="alternate" xml:lang="en">Chronic Obstructive Pulmonary Disease</dc:title>
+<dc:type>Text</dc:type>
+<dc:language>spa</dc:language>
+<dc:language>eng</dc:language>
+<dc:title xml:lang="es">Enfermedad de obstrucción pulmonar crónica</dc:title>
+<dc:title xml:lang="en">COPD</dc:title>
+<dc:publisher>National Library of Medicine</dc:publisher>
+<dc:relation type="IsPartOf">Lungs and Breathing</dc:relation>
+<dc:relation type="IsPartOf">Seniors</dc:relation>
+<dc:date type="created">2002-07-21</dc:date>
+<dc:date type="modified">2018-02-07</dc:date>
+<dc:identifier type="URL" xml:lang="es">https://medlineplus.gov/spanish/copd.html</dc:identifier>
+<dc:identifier type="URL" xml:lang="en">https://medlineplus.gov/copd.html</dc:identifier>
+<dc:description xml:lang="es">La enfermedad pulmonar obstructiva crónica (EPOC) dificulta la respiración. Los tipos principales de EPOC son la bronquitis crónica y el enfisema. La causa principal de esta enfermedad es la exposición prolongada a sustancias que irritan y dañan los pulmones, en general, el humo de cigarrillo. Sin embargo, la contaminación ambiental, vapores químicos y polvo también pueden causarla. Es posible que, al comienzo, la EPOC no cause síntomas o estos sean muy leves. A medida que la enfermedad avanza, los síntomas empeoran y se vuelven más graves. Estos incluyen: Tos con mucha flema Dificultad para respirar, sobre todo al ejercitarse Sibilancias Opresión en el pecho Los doctores diagnostican la EPOC por medio de pruebas de función pulmonar, diagnósticos por imágenes y exámenes de sangre. No existe una cura. El tratamiento puede aliviar los síntomas. Este incluye medicamentos, terapia con oxígeno, cirugía o trasplante de pulmón. Dejar de fumar es el paso más importante que usted puede dar para tratar la EPOC. NIH: Instituto Nacional del Corazón, los Pulmones y la Sangre</dc:description>
+<dc:description xml:lang="en">COPD (chronic obstructive pulmonary disease) makes it hard for you to breathe. The two main types are chronic bronchitis and emphysema. The main cause of COPD is long-term exposure to substances that irritate and damage the lungs. This is usually cigarette smoke. Air pollution, chemical fumes, or dust can also cause it. At first, COPD may cause no symptoms or only mild symptoms. As the disease gets worse, symptoms usually become more severe. They include A cough that produces a lot of mucus Shortness of breath, especially with physical activity Wheezing Chest tightness Doctors use lung function tests, imaging tests, and blood tests to diagnose COPD. There is no cure. Treatments may relieve symptoms. They include medicines, oxygen therapy, surgery, or a lung transplant. Quitting smoking is the most important step you can take to treat COPD. NIH: National Heart, Lung, and Blood Institute</dc:description>
+<dc:subject dcterms="mesh">Pulmonary Disease, Chronic Obstructive</dc:subject>
+<dc:subject xml:lang="es">Enfermedad de obstrucción pulmonar crónica</dc:subject>
+<dc:subject xml:lang="es">EPOC</dc:subject>
+<dc:subject xml:lang="es">COPD</dc:subject>
+<dc:subject xml:lang="en">COPD</dc:subject>
+<dc:subject xml:lang="en">Chronic Obstructive Pulmonary Disease</dc:subject>
+</metadata>
+</record>
+</MedlinePlus-document>

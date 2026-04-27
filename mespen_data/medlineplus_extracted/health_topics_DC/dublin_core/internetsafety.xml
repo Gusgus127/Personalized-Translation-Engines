@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<MedlinePlus-document>
+<record>
+<header>
+<identifier>https://medlineplus.gov/internetsafety.html</identifier>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title type="alternate" xml:lang="es">Privacidad de los niños en Internet</dc:title>
+<dc:title type="alternate" xml:lang="es">Ciber-intimidación (cyberbullying)</dc:title>
+<dc:title type="alternate" xml:lang="es">Acoso escolar cibernético</dc:title>
+<dc:title type="alternate" xml:lang="es">Internet, Seguridad en</dc:title>
+<dc:title type="alternate" xml:lang="en">Sexting</dc:title>
+<dc:title type="alternate" xml:lang="en">Cybersafety</dc:title>
+<dc:type>Text</dc:type>
+<dc:language>spa</dc:language>
+<dc:language>eng</dc:language>
+<dc:title xml:lang="es">Seguridad en internet</dc:title>
+<dc:title xml:lang="en">Internet Safety</dc:title>
+<dc:publisher>National Library of Medicine</dc:publisher>
+<dc:relation type="IsPartOf">Children and Teenagers</dc:relation>
+<dc:relation type="IsPartOf">Safety Issues</dc:relation>
+<dc:date type="created">2010-11-08</dc:date>
+<dc:date type="modified">2018-01-08</dc:date>
+<dc:identifier type="URL" xml:lang="es">https://medlineplus.gov/spanish/internetsafety.html</dc:identifier>
+<dc:identifier type="URL" xml:lang="en">https://medlineplus.gov/internetsafety.html</dc:identifier>
+<dc:description xml:lang="es">Para la mayoría de los niños y adolescentes, la tecnología es una parte importante de sus vidas. Navegan la web para buscar información, usar redes sociales, enviar mensajes y usar los servicios de chat. Pero también puede ser peligroso y es importante que los padres supervisen el uso de internet por parte de sus hijos y que les enseñen a usar la web con seguridad: Nunca ofrezcas información personal como tu nombre completo, dirección o nombre de tu escuela Dile a un adulto si cualquier comunicación (chat, texto, mensaje de e-mail) te hace sentir incómodo o suena amenazante Nunca envíes mensajes o fotos sexualmente explícitas En las redes sociales, usa controles de privacidad y con amigos que conozcas Desde luego, algunos de estos consejos son buenos para los adultos también.</dc:description>
+<dc:description xml:lang="en">For most kids and teens, technology is an important part of their lives. They browse the Web for information, use social networking sites, text, and chat. But there can also be dangers, and it is important for parents to monitor their children's use and teach them how to be safe online: Never give out personal information, such as your full name, address, phone number, or school name Tell an adult if any communication (chat, text, e-mail message) makes you feel threatened or uncomfortable Never send sexually explicit photographs or messages On social networking sites, use privacy controls and only friend people that you know Of course, some of this advice is good for adults, too.</dc:description>
+<dc:subject dcterms="mesh">Internet</dc:subject>
+<dc:subject dcterms="mesh">Safety</dc:subject>
+<dc:subject xml:lang="es">Seguridad en internet</dc:subject>
+<dc:subject xml:lang="es">Privacidad de los niños en Internet</dc:subject>
+<dc:subject xml:lang="es">Ciber-intimidación (cyberbullying)</dc:subject>
+<dc:subject xml:lang="es">Acoso escolar cibernético</dc:subject>
+<dc:subject xml:lang="es">Internet</dc:subject>
+<dc:subject xml:lang="es">Seguridad en</dc:subject>
+<dc:subject xml:lang="en">Internet Safety</dc:subject>
+<dc:subject xml:lang="en">Sexting</dc:subject>
+<dc:subject xml:lang="en">Cybersafety</dc:subject>
+</metadata>
+</record>
+</MedlinePlus-document>

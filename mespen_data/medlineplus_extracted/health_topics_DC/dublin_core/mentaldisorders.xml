@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<MedlinePlus-document>
+<record>
+<header>
+<identifier>https://medlineplus.gov/mentaldisorders.html</identifier>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title type="alternate" xml:lang="es">Mentales, Enfermedades</dc:title>
+<dc:title type="alternate" xml:lang="en">Psychiatric Disorders</dc:title>
+<dc:type>Text</dc:type>
+<dc:language>spa</dc:language>
+<dc:language>eng</dc:language>
+<dc:title xml:lang="es">Enfermedades mentales</dc:title>
+<dc:title xml:lang="en">Mental Disorders</dc:title>
+<dc:publisher>National Library of Medicine</dc:publisher>
+<dc:relation type="IsPartOf">Mental Health and Behavior</dc:relation>
+<dc:date type="created">2010-11-02</dc:date>
+<dc:date type="modified">2017-12-15</dc:date>
+<dc:identifier type="URL" xml:lang="es">https://medlineplus.gov/spanish/mentaldisorders.html</dc:identifier>
+<dc:identifier type="URL" xml:lang="en">https://medlineplus.gov/mentaldisorders.html</dc:identifier>
+<dc:description xml:lang="es">Los trastornos mentales abarcan una amplia gama de problemas que incluyen Trastornos de ansiedad, incluyendo trastorno de pánico, trastorno obsesivo-compulsivo, trastorno de estrés post-traumático y fobias Trastorno bipolar Depresión Trastornos del estado de ánimo Trastornos de la personalidad Trastornos psicóticos, como la esquizofrenia Existen muchas causas de las enfermedades mentales. Los genes y los antecedentes familiares pueden jugar un papel. Sus experiencias de vida, tales como el estrés o un historial de abuso, también pueden influir. Los factores biológicos también pueden ser parte de la causa. Una lesión traumática del cerebro puede conducir a un trastorno mental. La exposición de la madre durante el embarazo a virus o químicos tóxicos puede desempeñar un papel. Otros factores pueden aumentar el riesgo, tales como el uso de drogas ilegales o sufrir una condición médica seria como cáncer. Los medicamentos y el asesoramiento pueden ayudar con muchos de los trastornos mentales.</dc:description>
+<dc:description xml:lang="en">Mental disorders include a wide range of problems, including Anxiety disorders, including panic disorder, obsessive-compulsive disorder, post-traumatic stress disorder, and phobias Bipolar disorder Depression Mood disorders Personality disorders Psychotic disorders, including schizophrenia There are many causes of mental disorders. Your genes and family history may play a role. Your life experiences, such as stress or a history of abuse, may also matter. Biological factors can also be part of the cause. A traumatic brain injury can lead to a mental disorder. A mother's exposure to viruses or toxic chemicals while pregnant may play a part. Other factors may increase your risk, such as use of illegal drugs or having a serious medical condition like cancer. Medications and counseling can help many mental disorders.</dc:description>
+<dc:subject dcterms="mesh">Mental Disorders</dc:subject>
+<dc:subject dcterms="mesh">Psychiatric Rehabilitation</dc:subject>
+<dc:subject xml:lang="es">Enfermedades mentales</dc:subject>
+<dc:subject xml:lang="es">Mentales</dc:subject>
+<dc:subject xml:lang="es">Enfermedades</dc:subject>
+<dc:subject xml:lang="en">Mental Disorders</dc:subject>
+<dc:subject xml:lang="en">Psychiatric Disorders</dc:subject>
+</metadata>
+</record>
+</MedlinePlus-document>

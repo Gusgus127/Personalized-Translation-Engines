@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<MedlinePlus-document>
+<record>
+<header>
+<identifier>https://medlineplus.gov/cardiacrehabilitation.html</identifier>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:type>Text</dc:type>
+<dc:language>spa</dc:language>
+<dc:language>eng</dc:language>
+<dc:title xml:lang="es">Rehabilitación cardíaca</dc:title>
+<dc:title xml:lang="en">Cardiac Rehabilitation</dc:title>
+<dc:publisher>National Library of Medicine</dc:publisher>
+<dc:relation type="IsPartOf">Blood, Heart and Circulation</dc:relation>
+<dc:relation type="IsPartOf">Surgery and Rehabilitation</dc:relation>
+<dc:date type="created">2010-09-02</dc:date>
+<dc:date type="modified">2018-02-07</dc:date>
+<dc:identifier type="URL" xml:lang="es">https://medlineplus.gov/spanish/cardiacrehabilitation.html</dc:identifier>
+<dc:identifier type="URL" xml:lang="en">https://medlineplus.gov/cardiacrehabilitation.html</dc:identifier>
+<dc:description xml:lang="es">La rehabilitación cardíaca es un programa médico supervisado para ayudar a las personas que tienen: Un ataque al corazón Una angioplastía o injerto de derivación de la arteria coronaria debido a enfermedad coronaria Una reparación o reemplazo de válvulas del corazón Un trasplante de corazón o de pulmón Angina de pecho Falla cardíaca El objetivo es ayudarlo a volver a llevar una vida activa y reducir el riesgo de tener otros problemas del corazón. Un equipo de especialistas creará un plan para usted que incluye entrenamiento físico, educación para una vida cardíaca sana y asesoramiento para reducir el estrés. Usted aprenderá cómo reducir sus factores de riesgo como presión alta, colesterol alto, depresión y diabetes. Otros factores de riesgo son tener sobrepeso u obesidad, fumar y no hacer ejercicio. NIH: Instituto Nacional del Corazón, los Pulmones y la Sangre</dc:description>
+<dc:description xml:lang="en">Cardiac rehabilitation (rehab) is a medically supervised program to help people who have A heart attack Angioplasty or coronary artery bypass grafting for coronary heart disease A heart valve repair or replacement A heart transplant or a lung transplant Angina Heart failure The goal is to help you return to an active life, and to reduce the risk of further heart problems. A team of specialists will create a plan for you that includes exercise training, education on heart healthy living, and counseling to reduce stress. You will learn how to reduce your risk factors, such as high blood pressure, high blood cholesterol, depression, and diabetes. Being overweight, having obesity, smoking, and not exercising are other risk factors. NIH: National Heart, Lung, and Blood Institute</dc:description>
+<dc:subject dcterms="mesh">Cardiac Rehabilitation</dc:subject>
+<dc:subject xml:lang="es">Rehabilitación cardíaca</dc:subject>
+<dc:subject xml:lang="en">Cardiac Rehabilitation</dc:subject>
+<dc:subject xml:lang="en">Heart Diseases--Rehabilitation</dc:subject>
+</metadata>
+</record>
+</MedlinePlus-document>

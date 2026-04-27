@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<MedlinePlus-document>
+<record>
+<header>
+<identifier>https://medlineplus.gov/nativehawaiianandpacificislanderhealth.html</identifier>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title type="alternate" xml:lang="es">Hawaii, Salud de la poblacón nativa de</dc:title>
+<dc:title type="alternate" xml:lang="es">Islas del Pacífico, Salud de la población nativa de</dc:title>
+<dc:title type="alternate" xml:lang="en">Pacific Islander Health</dc:title>
+<dc:type>Text</dc:type>
+<dc:language>spa</dc:language>
+<dc:language>eng</dc:language>
+<dc:title xml:lang="es">Salud de los nativos de Hawaii y de las islas del Pacífico</dc:title>
+<dc:title xml:lang="en">Native Hawaiian and Pacific Islander Health</dc:title>
+<dc:publisher>National Library of Medicine</dc:publisher>
+<dc:relation type="IsPartOf">Population Groups</dc:relation>
+<dc:date type="modified"/>
+<dc:identifier type="URL" xml:lang="es">https://medlineplus.gov/spanish/nativehawaiianandpacificislanderhealth.html</dc:identifier>
+<dc:identifier type="URL" xml:lang="en">https://medlineplus.gov/nativehawaiianandpacificislanderhealth.html</dc:identifier>
+<dc:description xml:lang="es"/>
+<dc:description xml:lang="en">Every racial or ethnic group has specific health concerns. Differences in the health of groups can result from: Genetics Environmental factors Access to care Cultural factors On this page, you'll find links to health issues that affect Native Hawaiians and Pacific Islanders.</dc:description>
+<dc:subject dcterms="mesh">Hawaii</dc:subject>
+<dc:subject dcterms="mesh">Oceanic Ancestry Group</dc:subject>
+<dc:subject xml:lang="es">Salud de los nativos de Hawaii y de las islas del Pacífico</dc:subject>
+<dc:subject xml:lang="es">Hawaii</dc:subject>
+<dc:subject xml:lang="es">Salud de la poblacón nativa de</dc:subject>
+<dc:subject xml:lang="es">Islas del Pacífico</dc:subject>
+<dc:subject xml:lang="es">Salud de la población nativa de</dc:subject>
+<dc:subject xml:lang="en">Native Hawaiian and Pacific Islander Health</dc:subject>
+<dc:subject xml:lang="en">Pacific Islander Health</dc:subject>
+</metadata>
+</record>
+</MedlinePlus-document>

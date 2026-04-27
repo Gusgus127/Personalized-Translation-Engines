@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<MedlinePlus-document>
+<record>
+<header>
+<identifier>https://medlineplus.gov/livertransplantation.html</identifier>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title type="alternate" xml:lang="es">Hígado, Trasplante de</dc:title>
+<dc:title type="alternate" xml:lang="en">Hepatic Transplantation</dc:title>
+<dc:type>Text</dc:type>
+<dc:language>spa</dc:language>
+<dc:language>eng</dc:language>
+<dc:title xml:lang="es">Trasplante de hígado</dc:title>
+<dc:title xml:lang="en">Liver Transplantation</dc:title>
+<dc:publisher>National Library of Medicine</dc:publisher>
+<dc:relation type="IsPartOf">Digestive System</dc:relation>
+<dc:relation type="IsPartOf">Transplantation and Donation</dc:relation>
+<dc:date type="created">2003-02-07</dc:date>
+<dc:date type="modified">2016-03-18</dc:date>
+<dc:identifier type="URL" xml:lang="es">https://medlineplus.gov/spanish/livertransplantation.html</dc:identifier>
+<dc:identifier type="URL" xml:lang="en">https://medlineplus.gov/livertransplantation.html</dc:identifier>
+<dc:description xml:lang="es">El hígado es el órgano de mayor tamaño dentro del cuerpo. Ayuda al organismo a digerir los alimentos, almacena energía y elimina toxinas. No se puede vivir sin un hígado que funcione bien. Si el hígado falla, el médico puede colocarlo en una lista de espera para un trasplante de hígado. Los médicos realizan trasplantes cuando otros tratamientos no logran mantener el funcionamiento de un hígado dañado. Durante un trasplante de hígado, el cirujano extrae el hígado enfermo y lo reemplaza con uno sano. La mayoría de los hígados provienen de un donante fallecido. A veces hay un donante vivo, que es cuando una persona dona parte de su hígado a un paciente en particular. La razón más común para un trasplante en adultos es la cirrosis, en la cual el hígado presenta tejido cicatricial. En los niños, la razón más común es la atresia biliar, una enfermedad de los conductos biliares. Si tiene un trasplante, deberá tomar medicamentos por el resto de su vida para impedir que su cuerpo rechace al nuevo órgano. NIH: Instituto Nacional de la Diabetes y las Enfermedades Digestivas y Renales</dc:description>
+<dc:description xml:lang="en">Your liver is the largest organ inside your body. It helps your body digest food, store energy, and remove poisons. You cannot live without a liver that works. If your liver fails, your doctor may put you on a waiting list for a liver transplant. Doctors do liver transplants when other treatment cannot keep a damaged liver working. During a liver transplantation, the surgeon removes the diseased liver and replaces it with a healthy one. Most transplant livers come from a donor who has died. Sometimes there is a living donor. This is when a healthy person donates part of his or her liver for a specific patient. The most common reason for a transplant in adults is cirrhosis. This is scarring of the liver, caused by injury or long-term disease. The most common reason in children is biliary atresia, a disease of the bile ducts. If you have a transplant, you must take drugs the rest of your life to help keep your body from rejecting the new liver. NIH: National Institute of Diabetes and Digestive and Kidney Diseases</dc:description>
+<dc:subject dcterms="mesh">Liver Transplantation</dc:subject>
+<dc:subject xml:lang="es">Trasplante de hígado</dc:subject>
+<dc:subject xml:lang="es">Hígado</dc:subject>
+<dc:subject xml:lang="es">Trasplante de</dc:subject>
+<dc:subject xml:lang="en">Liver Transplantation</dc:subject>
+<dc:subject xml:lang="en">Hepatic Transplantation</dc:subject>
+</metadata>
+</record>
+</MedlinePlus-document>

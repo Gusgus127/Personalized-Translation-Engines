@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<MedlinePlus-document>
+<record>
+<header>
+<identifier>https://medlineplus.gov/healthproblemsinpregnancy.html</identifier>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title type="alternate" xml:lang="es">Embarazo, Problemas de salud durante el</dc:title>
+<dc:title type="alternate" xml:lang="es">Embarazo de alto riesgo</dc:title>
+<dc:title type="alternate" xml:lang="en">Pregnancy, High-Risk</dc:title>
+<dc:title type="alternate" xml:lang="en">High Risk Pregnancy</dc:title>
+<dc:title type="alternate" xml:lang="en">Pregnancy and Health Problems</dc:title>
+<dc:type>Text</dc:type>
+<dc:language>spa</dc:language>
+<dc:language>eng</dc:language>
+<dc:title xml:lang="es">Problemas de salud durante el embarazo</dc:title>
+<dc:title xml:lang="en">Health Problems in Pregnancy</dc:title>
+<dc:publisher>National Library of Medicine</dc:publisher>
+<dc:relation type="IsPartOf">Female Reproductive System</dc:relation>
+<dc:relation type="IsPartOf">Pregnancy and Reproduction</dc:relation>
+<dc:date type="created">2002-07-21</dc:date>
+<dc:date type="modified">2017-12-12</dc:date>
+<dc:identifier type="URL" xml:lang="es">https://medlineplus.gov/spanish/healthproblemsinpregnancy.html</dc:identifier>
+<dc:identifier type="URL" xml:lang="en">https://medlineplus.gov/healthproblemsinpregnancy.html</dc:identifier>
+<dc:description xml:lang="es">Todos los embarazos implican algunos riesgos. Puede tener problemas debido a un problema de salud que tenía antes de quedar embarazada. También puede desarrollar una condición durante el embarazo. Otras causas pueden incluir embarazos múltiples, un problema de salud durante un embarazo anterior, abuso de sustancias durante el embarazo o tener más de 35 años. Cualquiera de ellos puede afectar su salud, la de su bebé, o ambos. Si tiene una enfermedad crónica, debe hablar con el médico para enterarse de qué manera puede minimizar el riesgo antes de embarazarse. Una vez que se produce el embarazo, es posible que se necesite un equipo de profesionales de la salud que la supervise. Algunas enfermedades comunes que pueden complicar el embarazo se encuentran: Hipertensión arterial Síndrome de ovario poliquístico Problemas renales Trastornos auto-inmunes Enfermedades de la tiroides Obesidad VIH/SIDA Cáncer Infecciones Si tiene una enfermedad crónica, debe hablar con el médico para enterarse de qué manera puede minimizar el riesgo antes de embarazarse. Una vez que se produce el embarazo, es posible que se necesite un equipo de profesionales de la salud que la supervise. Entre los ejemplos de enfermedades comunes que pueden complicar el embarazo se encuentran: Otras afecciones que pueden aumentar el riesgo del embarazo pueden ocurrir durante el desarrollo del mismo - por ejemplo, diabetes gestacional e incompatibilidad Rh. Un buen cuidado prenatal puede ayudar a detectarlas y tratarlas. Algunas molestias, como náuseas, dolor de espalda y fatiga, son comunes durante el embarazo. A veces es difícil saber qué es normal. Llame a su proveedor de salud si algo le molesta o le preocupa</dc:description>
+<dc:description xml:lang="en">Every pregnancy has some risk of problems. You may have problems because of a health condition you had before you got pregnant. You could also develop a condition during pregnancy. Other causes of problems during pregnancy can include being pregnant with more than one baby, a health problem in a previous pregnancy, substance abuse during pregnancy, or being over age 35. Any of these can affect your health, the health of your baby, or both. If you have a chronic condition, you should talk to your health care provider about how to minimize your risk before you get pregnant. Once you are pregnant, you may need a health care team to monitor your pregnancy. Some common conditions that can complicate a pregnancy include High blood pressure Polycystic ovary syndrome Kidney problems Autoimmune disorders Obesity HIV/AIDS Cancer Infections Other conditions that can make pregnancy risky can happen while you are pregnant - for example, gestational diabetes and Rh incompatibility. Good prenatal care can help detect and treat them. Some discomforts, like nausea, back pain, and fatigue, are common during pregnancy. Sometimes it is hard to know what is normal. Call your health care provider if something is bothering or worrying you.</dc:description>
+<dc:subject dcterms="mesh">Pregnancy Complications</dc:subject>
+<dc:subject dcterms="mesh">Pregnancy, High-Risk</dc:subject>
+<dc:subject xml:lang="es">Problemas de salud durante el embarazo</dc:subject>
+<dc:subject xml:lang="es">Embarazo</dc:subject>
+<dc:subject xml:lang="es">Problemas de salud durante el</dc:subject>
+<dc:subject xml:lang="es">Embarazo de alto riesgo</dc:subject>
+<dc:subject xml:lang="en">Health Problems in Pregnancy</dc:subject>
+<dc:subject xml:lang="en">Pregnancy</dc:subject>
+<dc:subject xml:lang="en">High-Risk</dc:subject>
+<dc:subject xml:lang="en">High Risk Pregnancy</dc:subject>
+<dc:subject xml:lang="en">Pregnancy and Health Problems</dc:subject>
+</metadata>
+</record>
+</MedlinePlus-document>

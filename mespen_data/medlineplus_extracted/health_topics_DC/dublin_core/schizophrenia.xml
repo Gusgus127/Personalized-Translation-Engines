@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<MedlinePlus-document>
+<record>
+<header>
+<identifier>https://medlineplus.gov/schizophrenia.html</identifier>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:type>Text</dc:type>
+<dc:language>spa</dc:language>
+<dc:language>eng</dc:language>
+<dc:title xml:lang="es">Esquizofrenia</dc:title>
+<dc:title xml:lang="en">Schizophrenia</dc:title>
+<dc:publisher>National Library of Medicine</dc:publisher>
+<dc:relation type="IsPartOf">Mental Health and Behavior</dc:relation>
+<dc:date type="created">2002-07-21</dc:date>
+<dc:date type="modified">2017-12-15</dc:date>
+<dc:identifier type="URL" xml:lang="es">https://medlineplus.gov/spanish/schizophrenia.html</dc:identifier>
+<dc:identifier type="URL" xml:lang="en">https://medlineplus.gov/schizophrenia.html</dc:identifier>
+<dc:description xml:lang="es">La esquizofrenia es una enfermedad cerebral grave. Las personas que la padecen pueden escuchar voces que no están allí. Ellos pueden pensar que otras personas quieren hacerles daño. A veces no tiene sentido cuando hablan. Este trastorno hace que sea difícil para ellos mantener un trabajo o cuidar de sí mismos. Los síntomas de la esquizofrenia suelen comenzar entre los 16 y 30 años. Los hombres a menudo desarrollan síntomas a una edad más temprana que las mujeres. Por lo general no se desarrolla después de los 45 años. Hay tres tipos de síntomas: Síntomas psicóticos distorsionan el pensamiento de una persona. Estos incluyen alucinaciones (ver o escuchar cosas que no existen), delirios (creencias que no son ciertas), dificultad para organizar pensamientos y movimientos extraños Síntomas "negativos" hacen que sea difícil mostrar las emociones y tener una conducta normal. Una persona puede parecer deprimida y retraída. Síntomas cognitivos afectan el proceso de pensamiento. Estos incluyen problemas para usar información, la toma de decisiones, y prestar atención. No se conoce la causa de la esquizofrenia. Sus genes, el medio ambiente y la química del cerebro pueden tener un rol. No hay cura. Los medicamentos pueden ayudar a controlar muchos de los síntomas. Es posible que deba probar diferentes medicamentos para ver cuál funciona mejor. Deben permanecer en tratamiento durante el tiempo que su médico lo recomienda. Los tratamientos adicionales pueden ayudarle día a día a lidiar con la enfermedad. Estos incluyen la terapia, educación familiar, la rehabilitación y la capacitación profesional. NIH: Instituto Nacional de la Salud Mental</dc:description>
+<dc:description xml:lang="en">Schizophrenia is a serious brain illness. People who have it may hear voices that aren't there. They may think other people are trying to hurt them. Sometimes they don't make sense when they talk. The disorder makes it hard for them to keep a job or take care of themselves. Symptoms of schizophrenia usually start between ages 16 and 30. Men often develop symptoms at a younger age than women. People usually do not get schizophrenia after age 45. There are three types of symptoms: Psychotic symptoms distort a person's thinking. These include hallucinations (hearing or seeing things that are not there), delusions (beliefs that are not true), trouble organizing thoughts, and strange movements. "Negative" symptoms make it difficult to show emotions and to function normally. A person may seem depressed and withdrawn. Cognitive symptoms affect the thought process. These include trouble using information, making decisions, and paying attention. No one is sure what causes schizophrenia. Your genes, environment, and brain chemistry may play a role. There is no cure. Medicine can help control many of the symptoms. You may need to try different medicines to see which works best. You should stay on your medicine for as long as your doctor recommends. Additional treatments can help you deal with your illness from day to day. These include therapy, family education, rehabilitation, and skills training. NIH: National Institute of Mental Health</dc:description>
+<dc:subject dcterms="mesh">Schizophrenia</dc:subject>
+<dc:subject xml:lang="es">Esquizofrenia</dc:subject>
+<dc:subject xml:lang="en">Schizophrenia</dc:subject>
+</metadata>
+</record>
+</MedlinePlus-document>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<MedlinePlus-document>
+<record>
+<header>
+<identifier>https://medlineplus.gov/chronicbronchitis.html</identifier>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:type>Text</dc:type>
+<dc:language>spa</dc:language>
+<dc:language>eng</dc:language>
+<dc:title xml:lang="es">Bronquitis crónica</dc:title>
+<dc:title xml:lang="en">Chronic Bronchitis</dc:title>
+<dc:publisher>National Library of Medicine</dc:publisher>
+<dc:relation type="IsPartOf">Lungs and Breathing</dc:relation>
+<dc:relation type="IsPartOf">Infections</dc:relation>
+<dc:date type="created">2002-07-21</dc:date>
+<dc:date type="modified">2017-12-26</dc:date>
+<dc:identifier type="URL" xml:lang="es">https://medlineplus.gov/spanish/chronicbronchitis.html</dc:identifier>
+<dc:identifier type="URL" xml:lang="en">https://medlineplus.gov/chronicbronchitis.html</dc:identifier>
+<dc:description xml:lang="es">La bronquitis es la inflamación de los conductos bronquiales, las vías respiratorias que llevan oxígeno a sus pulmones. Causa tos con mucosidad. También puede causar dificultar para respirar, jadeo, fiebre baja y presión en el pecho. Existen dos tipos de bronquitis: aguda y crónica. La bronquitis crónica es un tipo de EPOC (enfermedad pulmonar obstructiva crónica). Los bronquios inflamados producen una secreción mucosa abundante. Esto conduce a tos y dificultad para respirar. El fumar cigarrillos es la causa más común. Respirar aire contaminado, humo y polvo por un período prolongado también puede causarla. Para diagnosticar la bronquitis crónica, su médico va a buscar signos y síntomas y escuchar su respiración. Usted también puede tener otras pruebas. La bronquitis crónica es una condición a largo plazo que reaparece o nunca desaparece por completo. Si usted fuma, es importante dejar de hacerlo. El tratamiento puede ayudar con sus síntomas. A menudo incluye medicamentos para abrir sus vías respiratorias y eliminar la mucosidad. Usted también puede necesitar terapia con oxígeno. La rehabilitación pulmonar puede ayudarle a tener mejor calidad de vida. NIH: Instituto Nacional del Corazón, los Pulmones y la Sangre</dc:description>
+<dc:description xml:lang="en">Bronchitis is an inflammation of the bronchial tubes, the airways that carry air to your lungs. It causes a cough that often brings up mucus. It can also cause shortness of breath, wheezing, a low fever, and chest tightness. There are two main types of bronchitis: acute and chronic. Chronic bronchitis is one type of COPD (chronic obstructive pulmonary disease). The inflamed bronchial tubes produce a lot of mucus. This leads to coughing and difficulty breathing. Cigarette smoking is the most common cause. Breathing in air pollution, fumes, or dust over a long period of time may also cause it. To diagnose chronic bronchitis, your doctor will look at your signs and symptoms and listen to your breathing. You may also have other tests. Chronic bronchitis is a long-term condition that keeps coming back or never goes away completely. If you smoke, it is important to quit. Treatment can help with your symptoms. It often includes medicines to open your airways and help clear away mucus. You may also need oxygen therapy. Pulmonary rehabilitation may help you manage better in daily life. NIH: National Heart, Lung, and Blood Institute</dc:description>
+<dc:subject dcterms="mesh">Bronchitis, Chronic</dc:subject>
+<dc:subject xml:lang="es">Bronquitis crónica</dc:subject>
+<dc:subject xml:lang="en">Chronic Bronchitis</dc:subject>
+<dc:subject xml:lang="en">Bronchitis</dc:subject>
+</metadata>
+</record>
+</MedlinePlus-document>

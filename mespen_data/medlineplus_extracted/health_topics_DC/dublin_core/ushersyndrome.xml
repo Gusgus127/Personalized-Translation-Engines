@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<MedlinePlus-document>
+<record>
+<header>
+<identifier>https://medlineplus.gov/ushersyndrome.html</identifier>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title type="alternate" xml:lang="es">Usher, Síndrome</dc:title>
+<dc:type>Text</dc:type>
+<dc:language>spa</dc:language>
+<dc:language>eng</dc:language>
+<dc:title xml:lang="es">Síndrome de Usher</dc:title>
+<dc:title xml:lang="en">Usher Syndrome</dc:title>
+<dc:publisher>National Library of Medicine</dc:publisher>
+<dc:relation type="IsPartOf">Ear, Nose and Throat</dc:relation>
+<dc:relation type="IsPartOf">Genetics/Birth Defects</dc:relation>
+<dc:relation type="IsPartOf">Eyes and Vision</dc:relation>
+<dc:date type="created">2017-02-15</dc:date>
+<dc:date type="modified">2017-02-13</dc:date>
+<dc:identifier type="URL" xml:lang="es">https://medlineplus.gov/spanish/ushersyndrome.html</dc:identifier>
+<dc:identifier type="URL" xml:lang="en">https://medlineplus.gov/ushersyndrome.html</dc:identifier>
+<dc:description xml:lang="es">El síndrome de Usher es una enfermedad hereditaria que causa una pérdida grave de la audición y retinitis pigmentosa, un trastorno ocular que causa un deterioro de la visión con el tiempo. Es la condición más común que afecta tanto la audición como la visión. Existen tres tipos de síndrome de Usher: Las personas con tipo I son sordas de nacimiento y tienen problemas de equilibrio grave desde una edad temprana. Los problemas de visión por lo general comienzan a los 10 años y conducen a la ceguera Las personas con tipo II tienen sordera moderada a severa y equilibrio normal. Los problemas de visión empiezan a principios de la adolescencia y empeoran más lentamente que en el tipo I Las personas con tipo III nacen con audición normal y equilibrio casi normal, pero desarrollan problemas a la vista y luego pérdida de la audición No hay cura. Dispositivos tales como audífonos o implantes cocleares pueden ayudar a algunas personas. Capacitación en lenguaje Braille, servicios de baja visión o entrenamiento auditivo también puede ayudar. NIH: Instituto Nacional de la Sordera y otros Trastornos de la Comunicación</dc:description>
+<dc:description xml:lang="en">Usher syndrome is an inherited disease that causes serious hearing loss and retinitis pigmentosa, an eye disorder that causes your vision to get worse over time. It is the most common condition that affects both hearing and vision. There are three types of Usher syndrome: People with type I are deaf from birth and have severe balance problems from a young age. Vision problems usually start by age 10 and lead to blindness. People with type II have moderate to severe hearing loss and normal balance. Vision problems start in the early teens and get worse more slowly than in type I. People with type III are born with normal hearing and near-normal balance but develop vision problems and then hearing loss. There is no cure. Tools such as hearing aids or cochlear implants can help some people. Training such as Braille instruction, low-vision services, or auditory training can also help. NIH: National Institute on Deafness and Other Communication Disorders</dc:description>
+<dc:subject dcterms="mesh">Usher Syndromes</dc:subject>
+<dc:subject xml:lang="es">Síndrome de Usher</dc:subject>
+<dc:subject xml:lang="es">Usher</dc:subject>
+<dc:subject xml:lang="es">Síndrome</dc:subject>
+<dc:subject xml:lang="en">Usher Syndrome</dc:subject>
+</metadata>
+</record>
+</MedlinePlus-document>

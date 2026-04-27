@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<MedlinePlus-document>
+<record>
+<header>
+<identifier>https://medlineplus.gov/hivaidsandpregnancy.html</identifier>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title type="alternate" xml:lang="es">Embarazo y VIH/SIDA</dc:title>
+<dc:title type="alternate" xml:lang="es">SIDA y embarazo</dc:title>
+<dc:title type="alternate" xml:lang="en">Pregnancy and AIDS</dc:title>
+<dc:title type="alternate" xml:lang="en">AIDS and Pregnancy</dc:title>
+<dc:type>Text</dc:type>
+<dc:language>spa</dc:language>
+<dc:language>eng</dc:language>
+<dc:title xml:lang="es">VIH/SIDA y el embarazo</dc:title>
+<dc:title xml:lang="en">HIV/AIDS and Pregnancy</dc:title>
+<dc:publisher>National Library of Medicine</dc:publisher>
+<dc:relation type="IsPartOf">Pregnancy and Reproduction</dc:relation>
+<dc:relation type="IsPartOf">Female Reproductive System</dc:relation>
+<dc:relation type="IsPartOf">Women</dc:relation>
+<dc:relation type="IsPartOf">Immune System</dc:relation>
+<dc:date type="created">2002-07-21</dc:date>
+<dc:date type="modified">2017-11-28</dc:date>
+<dc:identifier type="URL" xml:lang="es">https://medlineplus.gov/spanish/hivaidsandpregnancy.html</dc:identifier>
+<dc:identifier type="URL" xml:lang="en">https://medlineplus.gov/hivaidsandpregnancy.html</dc:identifier>
+<dc:description xml:lang="es">Si está embarazada y tiene VIH/SIDA, existe el riesgo de transmitir el VIH a su bebé. Puede suceder de tres maneras: Durante el embarazo Durante el parto, especialmente si es un parto vaginal. En algunos casos, su médico puede sugerirle hacer una cesárea para disminuir el riesgo durante el parto Durante la lactancia Usted puede reducir mucho ese riesgo tomando medicinas para el VIH/SIDA. Estos medicamentos también ayudarán a proteger su salud. Como algunos medicamentos no son seguros para los bebés, es importante que hable con su proveedor de atención médica sobre cuáles debe tomar. Luego debe asegurarse de tomarlos regularmente. Su bebé recibirá medicamentos contra el VIH/SIDA durante cuatro a seis semanas después del nacimiento. Los medicamentos protegen contra la infección de cualquier VIH que haya pasado de usted a su bebé durante el parto. Su bebé recibirá varias pruebas de VIH durante los primeros meses para ver si hubo infección. Algunas mujeres embarazadas con VIH/SIDA pueden no saber que lo tienen. Por lo tanto, es importante que todas las mujeres que están embarazadas o que planean quedar embarazadas se hagan la prueba del VIH lo antes posible. Debido a que la mayoría de las mujeres embarazadas con VIH/SIDA y sus bebés toman medicamentos contra el VIH/SIDA, pocos bebés en los Estados Unidos contraen el VIH.</dc:description>
+<dc:description xml:lang="en">If you are pregnant and have HIV/AIDS,there is a risk of passing HIV to your baby. It can happen in three ways: During pregnancy During childbirth, especially if it is vaginal childbirth. In some cases, your doctor may suggest doing a Cesarean section to lower the risk during childbirth. During breastfeeding You can greatly lower that risk by taking HIV/AIDS medicines. These medicines will also help protect your health. Since some medicines are not safe for babies, it is important to talk with your health care provider about which ones you should take. Then you need to make sure you take your medicines regularly. Your baby will get HIV/AIDS medicines for 4 to 6 weeks after birth. The medicines protect your baby from infection from any HIV that passed from you during childbirth. Your baby will get several tests to check for HIV over the first few months. Some pregnant women with HIV/AIDS may not know that they have it. So it is important that all women who are pregnant or planning to get pregnant have an HIV test as early as possible. Because most pregnant women with HIV/AIDS and their babies take HIV/AIDS medicines, few babies in the United States get HIV.</dc:description>
+<dc:subject dcterms="mesh">HIV Infections</dc:subject>
+<dc:subject dcterms="mesh">Pregnancy</dc:subject>
+<dc:subject xml:lang="es">VIH/SIDA y el embarazo</dc:subject>
+<dc:subject xml:lang="es">Embarazo y VIH/SIDA</dc:subject>
+<dc:subject xml:lang="es">SIDA y embarazo</dc:subject>
+<dc:subject xml:lang="en">HIV/AIDS and Pregnancy</dc:subject>
+<dc:subject xml:lang="en">Pregnancy and AIDS</dc:subject>
+<dc:subject xml:lang="en">AIDS and Pregnancy</dc:subject>
+</metadata>
+</record>
+</MedlinePlus-document>

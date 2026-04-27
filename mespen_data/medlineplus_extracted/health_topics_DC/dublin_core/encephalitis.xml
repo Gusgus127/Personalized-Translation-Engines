@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<MedlinePlus-document>
+<record>
+<header>
+<identifier>https://medlineplus.gov/encephalitis.html</identifier>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:type>Text</dc:type>
+<dc:language>spa</dc:language>
+<dc:language>eng</dc:language>
+<dc:title xml:lang="es">Encefalitis</dc:title>
+<dc:title xml:lang="en">Encephalitis</dc:title>
+<dc:publisher>National Library of Medicine</dc:publisher>
+<dc:relation type="IsPartOf">Brain and Nerves</dc:relation>
+<dc:date type="created">2002-07-21</dc:date>
+<dc:date type="modified">2018-01-19</dc:date>
+<dc:identifier type="URL" xml:lang="es">https://medlineplus.gov/spanish/encephalitis.html</dc:identifier>
+<dc:identifier type="URL" xml:lang="en">https://medlineplus.gov/encephalitis.html</dc:identifier>
+<dc:description xml:lang="es">La encefalitis es una inflamación del cerebro. La causa más común es una infección viral, pero las bacterias también pueden ocasionarla. Puede ser leve o grave. La mayoría de los casos son leves. Si es así, se presentan síntomas parecidos a los de la gripe. Usted debería hacer reposo, beber mucho líquido y tomar algún medicamento para el dolor. Los casos más graves, necesitan tratamiento inmediato. Los síntomas son: Dolores de cabeza fuertes Fiebre súbita Somnolencia Vómitos Confusión Convulsiones En los bebés, pueden presentarse otros síntomas como llanto constante, no querer comer, rigidez corporal y fontanelas (el punto blando en la parte superior de la cabeza) hinchadas. Es posible que en los casos más graves la persona tenga que quedarse en el hospital. El tratamiento incluye medicamentos por vía intravenosa para reducir la inflamación y tratar la infección. Las personas que tengan dificultad para respirar pueden necesitar respiración artificial. Es probable que una vez que la infección este bajo control, la persona necesite terapia física, del lenguaje y ocupacional. NIH: Instituto Nacional de Trastornos Neurológicos y Accidentes Cerebrovasculares</dc:description>
+<dc:description xml:lang="en">Encephalitis is an inflammation of the brain. Usually the cause is a viral infection, but bacteria can also cause it. It can be mild or severe. Most cases are mild. You may have flu-like symptoms. With a mild case, you may just need rest, plenty of fluids, and a pain reliever. Severe cases need immediate treatment. Symptoms of severe cases include Severe headache Sudden fever Drowsiness Vomiting Confusion Seizures In babies, additional symptoms may include constant crying, poor feeding, body stiffness, and bulging in the soft spots of the skull. Severe cases may require a stay in the hospital. Treatments include oral and intravenous (IV) medicines to reduce inflammation and treat infection. Patients with breathing difficulties may need artificial respiration. Some people may need physical, speech, and occupational therapy once the illness is under control. NIH: National Institute of Neurological Disorders and Stroke</dc:description>
+<dc:subject dcterms="mesh">Encephalitis</dc:subject>
+<dc:subject xml:lang="es">Encefalitis</dc:subject>
+<dc:subject xml:lang="en">Encephalitis</dc:subject>
+</metadata>
+</record>
+</MedlinePlus-document>

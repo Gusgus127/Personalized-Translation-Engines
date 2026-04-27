@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<MedlinePlus-document>
+<record>
+<header>
+<identifier>https://medlineplus.gov/seasonalaffectivedisorder.html</identifier>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title type="alternate" xml:lang="es">TAE (Trastorno afectivo estacional)</dc:title>
+<dc:title type="alternate" xml:lang="es">Afectivo estacional, Trastorno</dc:title>
+<dc:title type="alternate" xml:lang="en">SAD</dc:title>
+<dc:type>Text</dc:type>
+<dc:language>spa</dc:language>
+<dc:language>eng</dc:language>
+<dc:title xml:lang="es">Trastorno afectivo estacional</dc:title>
+<dc:title xml:lang="en">Seasonal Affective Disorder</dc:title>
+<dc:publisher>National Library of Medicine</dc:publisher>
+<dc:relation type="IsPartOf">Mental Health and Behavior</dc:relation>
+<dc:date type="created">2003-02-27</dc:date>
+<dc:date type="modified">2016-12-07</dc:date>
+<dc:identifier type="URL" xml:lang="es">https://medlineplus.gov/spanish/seasonalaffectivedisorder.html</dc:identifier>
+<dc:identifier type="URL" xml:lang="en">https://medlineplus.gov/seasonalaffectivedisorder.html</dc:identifier>
+<dc:description xml:lang="es">El trastorno afectivo estacional es un tipo de depresión que va y viene con las estaciones. Por lo general, comienza a finales de otoño y principios del invierno y desaparece durante la primavera y el verano. Algunas personas tienen episodios de depresión que comienzan en la primavera o el verano, pero eso es mucho menos común. Los síntomas pueden incluir: Tristeza Perspectiva sombría Sentimientos de desesperanza, pesimismo e irritación Pérdida de interés en actividades que antes solía disfrutar Poca energía Dificultad para dormir o dormir demasiado Deseos de comer carbohidratos y aumento de peso Pensamientos de muerte o suicidio El trastorno afectivo estacional es más común en las mujeres, los jóvenes y los que viven lejos del ecuador. También es más probable que lo sufra si usted o miembros de su familia tienen depresión. Se desconocen las causas exactas del trastorno. Los investigadores han encontrado que quienes la sufren pueden tener un desequilibrio de serotonina, un químico del cerebro que afecta su estado de ánimo. Sus cuerpos también producen demasiada melatonina, una hormona que regula el sueño, y no suficiente vitamina D. El tratamiento principal para el trastorno es la terapia de luz (fototerapia). La idea es reemplazar la luz del sol que se pierde durante los meses de otoño e invierno. Usted se sienta delante de una caja de fototerapia cada mañana para exponerse en forma diaria a la luz artificial brillante. Pero casi la mitad de algunas personas con el trastorno no responden a la terapia de luz sola. Los medicamentos antidepresivos y terapia de conversación pueden reducir los síntomas del trastorno afectivo estacional, ya sea solos o combinados con fototerapia. NIH: Instituto Nacional de la Salud Mental</dc:description>
+<dc:description xml:lang="en">Seasonal affective disorder (SAD) is a type of depression that comes and goes with the seasons. It usually starts in the late fall and early winter and goes away during the spring and summer. Some people do have episodes of depression that start in the spring or summer, but that is a lot less common. Symptoms of SAD may include Sadness Gloomy outlook Feeling hopeless, worthless, and irritable Loss of interest or pleasure in activities you used to enjoy Low energy Difficulty sleeping or oversleeping Carbohydrate cravings and weight gain Thoughts of death or suicide SAD is more common in women, young people, and those who live far from the equator. You are also more likely to have SAD if you or your family members have depression. The exact causes of SAD are unknown. Researchers have found that people with SAD may have an imbalance of serotonin, a brain chemical that affects your mood. Their bodies also make too much melatonin, a hormone that regulates sleep, and not enough vitamin D. The main treatment for SAD is light therapy. The idea behind light therapy is to replace the sunshine that you miss during the fall and winter months. You sit in front of a light therapy box every morning to get daily exposure to bright, artificial light. But some people with SAD do not respond to light therapy alone. Antidepressant medicines and talk therapy can reduce SAD symptoms, either alone or combined with light therapy. NIH: National Institute of Mental Health</dc:description>
+<dc:subject dcterms="mesh">Seasonal Affective Disorder</dc:subject>
+<dc:subject xml:lang="es">Trastorno afectivo estacional</dc:subject>
+<dc:subject xml:lang="es">TAE (Trastorno afectivo estacional)</dc:subject>
+<dc:subject xml:lang="es">Afectivo estacional</dc:subject>
+<dc:subject xml:lang="es">Trastorno</dc:subject>
+<dc:subject xml:lang="en">Seasonal Affective Disorder</dc:subject>
+<dc:subject xml:lang="en">SAD</dc:subject>
+</metadata>
+</record>
+</MedlinePlus-document>

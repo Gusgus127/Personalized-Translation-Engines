@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<MedlinePlus-document>
+<record>
+<header>
+<identifier>https://medlineplus.gov/ankylosingspondylitis.html</identifier>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:type>Text</dc:type>
+<dc:language>spa</dc:language>
+<dc:language>eng</dc:language>
+<dc:title xml:lang="es">Espondilitis anquilosante</dc:title>
+<dc:title xml:lang="en">Ankylosing Spondylitis</dc:title>
+<dc:publisher>National Library of Medicine</dc:publisher>
+<dc:relation type="IsPartOf">Bones, Joints and Muscles</dc:relation>
+<dc:relation type="IsPartOf">Immune System</dc:relation>
+<dc:date type="created">2002-07-21</dc:date>
+<dc:date type="modified">2017-10-11</dc:date>
+<dc:identifier type="URL" xml:lang="es">https://medlineplus.gov/spanish/ankylosingspondylitis.html</dc:identifier>
+<dc:identifier type="URL" xml:lang="en">https://medlineplus.gov/ankylosingspondylitis.html</dc:identifier>
+<dc:description xml:lang="es">La espondilitis anquilosante es un tipo de artritis de la columna vertebral. Provoca hinchazón entre las vértebras, que son los discos que forman la columna vertebral, y las articulaciones entre la columna y la pelvis. En algunas personas puede afectar otras articulaciones. La espondilitis anquilosante es más común y más grave entre los hombres. Suele ser hereditaria. Se desconoce su causa, pero es probable que tanto genes y factores medioambientales jueguen un rol en su aparición. Los síntomas prematuros incluyen dolor y rigidez en la espalda. Estos problemas suelen empezar justo después de la adolescencia o al inicio de la adultez. Con el tiempo, la espondilitis anquilosante puede fusionar sus vértebras y limitar los movimientos. Algunas personas presentan síntomas que aparecen y desaparecen, mientras otras padecen dolor severo y constante. El diagnóstico se hace basado en su historial médico y un examen físico. También pueden realizarse exámenes de imagen y de sangre. La enfermedad no tiene cura, pero las medicinas pueden aliviar los síntomas y evitar que empeore. Alimentarse con una dieta sana, no fumar y hacer ejercicio también puede ayudarle. En casos aislados, usted podría necesitar cirugía para enderezar la columna. NIH: Instituto Nacional de Artritis y Enfermedades Musculoesqueléticas y de la Piel</dc:description>
+<dc:description xml:lang="en">Ankylosing spondylitis is a type of arthritis of the spine. It causes inflammation between your vertebrae, which are the bones that make up your spine, and in the joints between your spine and pelvis. In some people, it can affect other joints. AS is more common and more severe in men. It often runs in families. The cause is unknown, but it is likely that both genes and factors in the environment play a role. Early symptoms of AS include back pain and stiffness. These problems often start in late adolescence or early adulthood. Over time, AS can fuse your vertebrae together, limiting movement. Some people have symptoms that come and go. Others have severe, ongoing pain. A diagnosis of AS is based on your medical history and a physical examination. You may also have imaging or blood tests. AS has no cure, but medicines can relieve symptoms and may keep the disease from getting worse. Eating a healthy diet, not smoking, and exercising can also help. In rare cases, you may need surgery to straighten the spine. NIH: National Institute of Arthritis and Musculoskeletal and Skin Disease</dc:description>
+<dc:subject dcterms="mesh">Spondylitis, Ankylosing</dc:subject>
+<dc:subject xml:lang="es">Espondilitis anquilosante</dc:subject>
+<dc:subject xml:lang="en">Ankylosing Spondylitis</dc:subject>
+<dc:subject xml:lang="en">Spondylitis</dc:subject>
+<dc:subject xml:lang="en">Ankylosing</dc:subject>
+<dc:subject xml:lang="en">Rheumatoid Spondylitis</dc:subject>
+</metadata>
+</record>
+</MedlinePlus-document>

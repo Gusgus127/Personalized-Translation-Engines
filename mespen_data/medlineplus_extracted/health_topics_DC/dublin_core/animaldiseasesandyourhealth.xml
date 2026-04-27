@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<MedlinePlus-document>
+<record>
+<header>
+<identifier>https://medlineplus.gov/animaldiseasesandyourhealth.html</identifier>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title type="alternate" xml:lang="es">Animales y su salud</dc:title>
+<dc:title type="alternate" xml:lang="es">Campilobacteriosis</dc:title>
+<dc:title type="alternate" xml:lang="es">Brucelosis</dc:title>
+<dc:title type="alternate" xml:lang="es">Fiebre Q</dc:title>
+<dc:title type="alternate" xml:lang="es">Veterinaria</dc:title>
+<dc:title type="alternate" xml:lang="en">Animal Health</dc:title>
+<dc:title type="alternate" xml:lang="en">Zoonoses</dc:title>
+<dc:type>Text</dc:type>
+<dc:language>spa</dc:language>
+<dc:language>eng</dc:language>
+<dc:title xml:lang="es">Enfermedades de los animales y su salud</dc:title>
+<dc:title xml:lang="en">Animal Diseases and Your Health</dc:title>
+<dc:publisher>National Library of Medicine</dc:publisher>
+<dc:relation type="IsPartOf">Infections</dc:relation>
+<dc:date type="created">2005-02-03</dc:date>
+<dc:date type="modified">2017-05-31</dc:date>
+<dc:identifier type="URL" xml:lang="es">https://medlineplus.gov/spanish/animaldiseasesandyourhealth.html</dc:identifier>
+<dc:identifier type="URL" xml:lang="en">https://medlineplus.gov/animaldiseasesandyourhealth.html</dc:identifier>
+<dc:description xml:lang="es">Las enfermedades que las personas pueden contraer de los animales se llaman zoonosis. Muchas de las enfermedades que afectan a los humanos se pueden remontar a animales o a productos animales. Usted puede contagiarse directamente de un animal o indirectamente a través del ambiente. Los animales de granja pueden transmitir enfermedades. Si una persona los toca o toca objetos que éstos han tocado, como cercas o baldes, debe lavarse muy bien las manos. Los adultos deben asegurarse de que los niños que visitan las granjas o los zoológicos de mascotas también se laven bien las manos. Aunque puedan ser adorables y cariñosos, los animales salvajes pueden estar infectados con gérmenes, virus y parásitos. Los ciervos y el ratón ciervo son portadores (persona o animal que lleva y trae, en este caso, gérmenes) de garrapatas que causan la enfermedad de Lyme. Algunos animales salvajes son portadores de rabia. Disfrute los animales salvajes desde lejos. Las mascotas también pueden transmitir enfermedades. Los reptiles plantean un riesgo particular. Las tortugas, las serpientes y las iguanas pueden transmitir Salmonella a sus dueños. Usted puede contagiarse de rabia de un perro infectado o toxoplasmosis por manipular las arena sanitaria de un gato infectado. Las posibilidades de que su perro o su gato le contagien una enfermedad son pocas. Usted puede reducir el riesgo de contagio con una buena higiene, manteniendo limpias las áreas que las mascotas frecuentan y vacunando a su mascota cuando sea necesario.</dc:description>
+<dc:description xml:lang="en">Animal diseases that people can catch are called zoonoses. Many diseases affecting humans can be traced to animals or animal products. You can get a disease directly from an animal, or indirectly, through the environment. Farm animals can carry diseases. If you touch them or things they have touched, like fencing or buckets, wash your hands thoroughly. Adults should make sure children who visit farms or petting zoos wash up as well. Though they may be cute and cuddly, wild animals may carry germs, viruses, and parasites. Deer and deer mice carry ticks that cause Lyme disease. Some wild animals may carry rabies. Enjoy wildlife from a distance. Pets can also make you sick. Reptiles pose a particular risk. Turtles, snakes and iguanas can transmit Salmonella bacteria to their owners. You can get rabies from an infected dog or toxoplasmosis from handling kitty litter of an infected cat. The chance that your dog or cat will make you sick is small. You can reduce the risk by practicing good hygiene, keeping pet areas clean and keeping your pets' shots up-to-date.</dc:description>
+<dc:subject dcterms="mesh">Zoonoses</dc:subject>
+<dc:subject xml:lang="es">Enfermedades de los animales y su salud</dc:subject>
+<dc:subject xml:lang="es">Animales y su salud</dc:subject>
+<dc:subject xml:lang="es">Campilobacteriosis</dc:subject>
+<dc:subject xml:lang="es">Brucelosis</dc:subject>
+<dc:subject xml:lang="es">Fiebre Q</dc:subject>
+<dc:subject xml:lang="es">Veterinaria</dc:subject>
+<dc:subject xml:lang="en">Animal Diseases and Your Health</dc:subject>
+<dc:subject xml:lang="en">Animal Health</dc:subject>
+<dc:subject xml:lang="en">Zoonoses</dc:subject>
+</metadata>
+</record>
+</MedlinePlus-document>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<MedlinePlus-document>
+<record>
+<header>
+<identifier>https://medlineplus.gov/bleeding.html</identifier>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title type="alternate" xml:lang="es">Sangrado</dc:title>
+<dc:title type="alternate" xml:lang="en">Hematoma</dc:title>
+<dc:title type="alternate" xml:lang="en">Hemorrhage</dc:title>
+<dc:type>Text</dc:type>
+<dc:language>spa</dc:language>
+<dc:language>eng</dc:language>
+<dc:title xml:lang="es">Hemorragia</dc:title>
+<dc:title xml:lang="en">Bleeding</dc:title>
+<dc:publisher>National Library of Medicine</dc:publisher>
+<dc:relation type="IsPartOf">Symptoms</dc:relation>
+<dc:relation type="IsPartOf">Blood, Heart and Circulation</dc:relation>
+<dc:relation type="IsPartOf">Injuries and Wounds</dc:relation>
+<dc:date type="created">2012-09-17</dc:date>
+<dc:date type="modified">2018-02-05</dc:date>
+<dc:identifier type="URL" xml:lang="es">https://medlineplus.gov/spanish/bleeding.html</dc:identifier>
+<dc:identifier type="URL" xml:lang="en">https://medlineplus.gov/bleeding.html</dc:identifier>
+<dc:description xml:lang="es">El sangrado o hemorragia es la pérdida de sangre. Puede ocurrir afuera o dentro del cuerpo. Usted puede sangrar tras sufrir un corte u otra herida. El sangrado puede ocurrir también por una lesión a un órgano interno. A veces el sangrado puede causar otros problemas. Un moretón o hematoma es un sangrado debajo de la piel. Algunos ataques cerebrales son causados por hemorragias en el cerebro. Otros sangrados como la hemorragia gastrointestinal, toser sangre o sangrado vaginal pueden ser síntomas de una enfermedad. Usualmente, cuando usted sangra, su sangre forma coágulos para detener la hemorragia. Un sangrado profuso o severo puede necesitar primeros auxilios o acudir a la sala de emergencias. Si usted tiene un problema de coagulación, su sangre no forma coágulos normalmente.</dc:description>
+<dc:description xml:lang="en">Bleeding is the loss of blood. It can happen outside or inside the body. You may bleed when you get a cut or other wound. Bleeding can also be due to an injury to internal organs. Sometimes bleeding can cause other problems. A bruise is bleeding under the skin. Some strokes are caused by bleeding in the brain. Other bleeding, such as gastrointestinal bleeding, coughing up blood, or vaginal bleeding, can be a symptom of a disease. Normally, when you bleed, your blood forms clots to stop the bleeding. Severe bleeding may require first aid or a trip to the emergency room. If you have a bleeding disorder, your blood does not form clots normally.</dc:description>
+<dc:subject dcterms="mesh">Hemorrhage</dc:subject>
+<dc:subject xml:lang="es">Hemorragia</dc:subject>
+<dc:subject xml:lang="es">Sangrado</dc:subject>
+<dc:subject xml:lang="en">Bleeding</dc:subject>
+<dc:subject xml:lang="en">Hematoma</dc:subject>
+<dc:subject xml:lang="en">Hemorrhage</dc:subject>
+</metadata>
+</record>
+</MedlinePlus-document>

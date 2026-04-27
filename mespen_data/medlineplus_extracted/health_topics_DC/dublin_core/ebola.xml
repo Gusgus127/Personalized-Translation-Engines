@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<MedlinePlus-document>
+<record>
+<header>
+<identifier>https://medlineplus.gov/ebola.html</identifier>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title type="alternate" xml:lang="es">Enfermedad por el virus del Ebola</dc:title>
+<dc:type>Text</dc:type>
+<dc:language>spa</dc:language>
+<dc:language>eng</dc:language>
+<dc:title xml:lang="es">Ebola</dc:title>
+<dc:title xml:lang="en">Ebola</dc:title>
+<dc:publisher>National Library of Medicine</dc:publisher>
+<dc:relation type="IsPartOf">Infections</dc:relation>
+<dc:date type="created">2014-08-18</dc:date>
+<dc:date type="modified">2017-08-29</dc:date>
+<dc:identifier type="URL" xml:lang="es">https://medlineplus.gov/spanish/ebola.html</dc:identifier>
+<dc:identifier type="URL" xml:lang="en">https://medlineplus.gov/ebola.html</dc:identifier>
+<dc:description xml:lang="es">La fiebre hemorrágica del Ebola es causada por un virus. Es una enfermedad grave y muchas veces fatal. Puede afectar a humanos y a otros primates. Los investigadores creen que los humanos la contraen a través de un animal infectado. Puede contagiarse de persona a persona por medio de sangre o secreciones. Los síntomas pueden aparecer entre los dos y los 21 días luego de la exposición al virus. En general, incluyen: Fiebre Dolor de cabeza Dolor en los músculos y articulaciones Debilidad Diarrea Vómitos Dolor de panza Falta de apetito Otros síntomas incluyen sarpullido, enrojecimiento de los ojos y sangrado interno y externo. Los primeros síntomas son similares a los de otras enfermedades comunes. Esto hace difícil diagnosticar a una persona que ha sido infectada por poco tiempo. Sin embargo, si una persona presenta estos síntomas y existe la sospecha de Ebola, el paciente debe ser aislado en cuarentena. También es importante avisar a las autoridades sanitarias. Varios exámenes de laboratorio pueden confirmar el diagnóstico de Ebola. No existe una cura para el Ebola. El tratamiento consiste en proveer cuidado de apoyo como fluidos, oxígeno y tratamientos para las complicaciones. Algunas personas con Ebola se recuperan pero muchas no. Centros para el Control y la Prevención de Enfermedades</dc:description>
+<dc:description xml:lang="en">Ebola hemorrhagic fever is caused by a virus. It is a severe and often fatal disease. It can affect humans and other primates. Researchers believe that the virus first spreads from an infected animal to a human. It can then spread from human to human through direct contact with a patient's blood or secretions. Symptoms of Ebola may appear anywhere from 2 to 21 days after exposure to the virus. Symptoms usually include Fever Headache Joint and muscle aches Weakness Diarrhea Vomiting Stomach pain Lack of appetite Other symptoms including rash, red eyes, and internal and external bleeding, may also occur. The early symptoms of Ebola are similar to other, more common, diseases. This makes it difficult to diagnose Ebola in someone who has been infected for only a few days. However, if a person has the early symptoms of Ebola and there is reason to suspect Ebola, the patient should be isolated. It is also important to notify public health professionals. Lab tests can confirm whether the patient has Ebola. There is no cure for Ebola. Treatment involves supportive care such as fluids, oxygen, and treatment of complications. Some people who get Ebola are able to recover, but many do not. Centers for Disease Control and Prevention</dc:description>
+<dc:subject dcterms="mesh">Ebolavirus</dc:subject>
+<dc:subject dcterms="mesh">Hemorrhagic Fever, Ebola</dc:subject>
+<dc:subject dcterms="mesh">Ebola Vaccines</dc:subject>
+<dc:subject xml:lang="es">Ebola</dc:subject>
+<dc:subject xml:lang="es">Enfermedad por el virus del Ebola</dc:subject>
+<dc:subject xml:lang="en">Ebola</dc:subject>
+</metadata>
+</record>
+</MedlinePlus-document>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<MedlinePlus-document>
+<record>
+<header>
+<identifier>https://medlineplus.gov/childbirthproblems.html</identifier>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title type="alternate" xml:lang="es">Parto prematuro</dc:title>
+<dc:title type="alternate" xml:lang="es">Parto, Problemas</dc:title>
+<dc:title type="alternate" xml:lang="es">Prematuro, Parto</dc:title>
+<dc:title type="alternate" xml:lang="en">Birth Injuries</dc:title>
+<dc:title type="alternate" xml:lang="en">Premature Labor</dc:title>
+<dc:type>Text</dc:type>
+<dc:language>spa</dc:language>
+<dc:language>eng</dc:language>
+<dc:title xml:lang="es">Problemas durante el parto</dc:title>
+<dc:title xml:lang="en">Childbirth Problems</dc:title>
+<dc:publisher>National Library of Medicine</dc:publisher>
+<dc:relation type="IsPartOf">Children and Teenagers</dc:relation>
+<dc:relation type="IsPartOf">Pregnancy and Reproduction</dc:relation>
+<dc:relation type="IsPartOf">Women</dc:relation>
+<dc:date type="created">2011-09-28</dc:date>
+<dc:date type="modified">2017-11-22</dc:date>
+<dc:identifier type="URL" xml:lang="es">https://medlineplus.gov/spanish/childbirthproblems.html</dc:identifier>
+<dc:identifier type="URL" xml:lang="en">https://medlineplus.gov/childbirthproblems.html</dc:identifier>
+<dc:description xml:lang="es">Aunque un parto en general sucede sin problemas, a veces pueden ocurrir algunas complicaciones. Pueden acarrear riesgos para la madre, el bebé o ambos. Las complicaciones que pueden presentarse incluyen Parto prematuro, cuando el trabajo de parto comienza antes de las 37 semanas completas de embarazo Problemas con el cordón umbilical Problemas con la posición del bebé, por ejemplo, cuando está de nalgas, en la que los pies del bebé saldrían antes que su cabeza Lesión al nacer En algunas de estas complicaciones, es probable que el bebé necesite nacer por cesárea.</dc:description>
+<dc:description xml:lang="en">While childbirth usually goes well, complications can happen. They can cause a risk to the mother, baby, or both. Possible complications include Preterm (premature) labor, when labor starts before 37 completed weeks of pregnancy Problems with the umbilical cord Problems with the position of the baby, such as breech, in which the baby is going to come out feet first Birth injuries For some of these problems, the baby may need to be delivered surgically by a Cesarean section.</dc:description>
+<dc:subject dcterms="mesh">Obstetric Labor Complications</dc:subject>
+<dc:subject xml:lang="es">Problemas durante el parto</dc:subject>
+<dc:subject xml:lang="es">Parto prematuro</dc:subject>
+<dc:subject xml:lang="es">Parto</dc:subject>
+<dc:subject xml:lang="es">Problemas</dc:subject>
+<dc:subject xml:lang="es">Prematuro</dc:subject>
+<dc:subject xml:lang="es">Parto</dc:subject>
+<dc:subject xml:lang="en">Childbirth Problems</dc:subject>
+<dc:subject xml:lang="en">Birth Injuries</dc:subject>
+<dc:subject xml:lang="en">Premature Labor</dc:subject>
+</metadata>
+</record>
+</MedlinePlus-document>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<MedlinePlus-document>
+<record>
+<header>
+<identifier>https://medlineplus.gov/menshealth.html</identifier>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title type="alternate" xml:lang="es">Hombres, Salud de los</dc:title>
+<dc:title type="alternate" xml:lang="es">Varón, Salud del</dc:title>
+<dc:title type="alternate" xml:lang="en">Male Menopause</dc:title>
+<dc:title type="alternate" xml:lang="en">Menopause, Male</dc:title>
+<dc:type>Text</dc:type>
+<dc:language>spa</dc:language>
+<dc:language>eng</dc:language>
+<dc:title xml:lang="es">Salud de los hombres</dc:title>
+<dc:title xml:lang="en">Men's Health</dc:title>
+<dc:publisher>National Library of Medicine</dc:publisher>
+<dc:relation type="IsPartOf">Population Groups</dc:relation>
+<dc:relation type="IsPartOf">Men</dc:relation>
+<dc:date type="created">2002-07-21</dc:date>
+<dc:date type="modified">2018-02-05</dc:date>
+<dc:identifier type="URL" xml:lang="es">https://medlineplus.gov/spanish/menshealth.html</dc:identifier>
+<dc:identifier type="URL" xml:lang="en">https://medlineplus.gov/menshealth.html</dc:identifier>
+<dc:description xml:lang="es">La mayoría de los hombres tienen que prestar más atención a su salud. En comparación con las mujeres, los hombres son más propensos a: Fumar y beber Tomar decisiones poco saludables o riesgosas Retrasar chequeos regulares y atención médica También hay condiciones de salud que afectan solamente a los hombres, como el cáncer de próstata y bajos niveles de testosterona. Muchos de los principales riesgos de salud que enfrentan los hombres, como el de cáncer del colon o enfermedades cardiacas, pueden prevenirse y tratarse con un diagnóstico anticipado. Pruebas de diagnóstico pueden determinar enfermedades en forma temprana, cuando es más fácil tratarlas. Es importante someterse con regularidad a los exámenes médicos necesarios.</dc:description>
+<dc:description xml:lang="en">Most men need to pay more attention to their health. Compared to women, men are more likely to Smoke and drink Make unhealthy or risky choices Put off regular checkups and medical care There are also health conditions that only affect men, such as prostate cancer and low testosterone. Many of the major health risks that men face - like colon cancer or heart disease - can be prevented and treated with early diagnosis. Screening tests can find diseases early, when they are easier to treat. It's important to get the screening tests you need.</dc:description>
+<dc:subject dcterms="mesh">Men's Health</dc:subject>
+<dc:subject xml:lang="es">Salud de los hombres</dc:subject>
+<dc:subject xml:lang="es">Hombres</dc:subject>
+<dc:subject xml:lang="es">Salud de los</dc:subject>
+<dc:subject xml:lang="es">Varón</dc:subject>
+<dc:subject xml:lang="es">Salud del</dc:subject>
+<dc:subject xml:lang="en">Men's Health</dc:subject>
+<dc:subject xml:lang="en">Male Menopause</dc:subject>
+<dc:subject xml:lang="en">Menopause</dc:subject>
+<dc:subject xml:lang="en">Male</dc:subject>
+</metadata>
+</record>
+</MedlinePlus-document>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<MedlinePlus-document>
+<record>
+<header>
+<identifier>https://medlineplus.gov/sepsis.html</identifier>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title type="alternate" xml:lang="es">Septicemia</dc:title>
+<dc:title type="alternate" xml:lang="es">Shock tóxico</dc:title>
+<dc:title type="alternate" xml:lang="en">Toxic Shock Syndrome</dc:title>
+<dc:title type="alternate" xml:lang="en">Septicemia</dc:title>
+<dc:title type="alternate" xml:lang="en">Blood Poisoning</dc:title>
+<dc:title type="alternate" xml:lang="en">Septic Shock</dc:title>
+<dc:title type="alternate" xml:lang="en">Bacteremia</dc:title>
+<dc:type>Text</dc:type>
+<dc:language>spa</dc:language>
+<dc:language>eng</dc:language>
+<dc:title xml:lang="es">Sepsis</dc:title>
+<dc:title xml:lang="en">Sepsis</dc:title>
+<dc:publisher>National Library of Medicine</dc:publisher>
+<dc:relation type="IsPartOf">Infections</dc:relation>
+<dc:date type="created">2003-06-27</dc:date>
+<dc:date type="modified">2017-11-08</dc:date>
+<dc:identifier type="URL" xml:lang="es">https://medlineplus.gov/spanish/sepsis.html</dc:identifier>
+<dc:identifier type="URL" xml:lang="en">https://medlineplus.gov/sepsis.html</dc:identifier>
+<dc:description xml:lang="es">La sepsis es una enfermedad grave. Ocurre cuando el cuerpo tiene una abrumadora respuesta inmunitaria a una infección bacteriana. Las sustancias químicas liberadas a la sangre para combatir la infección desencadenan una inflamación generalizada, lo que conduce a la formación de coágulos de sangre y la filtración de vasos sanguíneos. Esto causa un pobre flujo sanguíneo, lo que priva a los órganos de nutrientes y oxígeno. En los casos más serios, uno o más órganos puede fallar. En el peor de los casos, la presión arterial baja y el corazón se debilita, lo que lleva a un shock séptico. Cualquier persona puede presentar una sepsis, pero el riesgo es mayor en: Personas con sistemas inmunitarios debilitados Bebés y niños Personas mayores Personas con enfermedades crónicas, como diabetes, SIDA, cáncer y enfermedad renal o hepática Personas que sufren de una quemadura severa o trauma físico Los síntomas comunes de la sepsis son fiebre, escalofríos, respiración rápida y ritmo cardíaco acelerado, sarpullido, confusión y desorientación. Los médicos diagnostican la sepsis mediante un análisis de sangre para ver si el número de células blancas en la sangre es anormal. También hacen pruebas de laboratorio que comprueban si hay signos de infección. Las personas con sepsis suelen ser tratadas en unidades de cuidados intensivos del hospital. Los médicos intentan tratar la infección, mantener los órganos vitales y evitar una caída en la presión arterial. Muchos pacientes reciben oxígeno y líquidos intravenosos. Otros tipos de tratamiento, como respiradores mecánicos o diálisis renal, pueden ser necesarios. A veces, se necesita cirugía para eliminar una infección. NIH: Instituto Nacional de Ciencias Médicas Generales</dc:description>
+<dc:description xml:lang="en">Sepsis is a serious illness. It happens when your body has an overwhelming immune response to a bacterial infection. The chemicals released into the blood to fight the infection trigger widespread inflammation. This leads to blood clots and leaky blood vessels. They cause poor blood flow, which deprives your body's organs of nutrients and oxygen. In severe cases, one or more organs fail. In the worst cases, blood pressure drops and the heart weakens, leading to septic shock. Anyone can get sepsis, but the risk is higher in People with weakened immune systems Infants and children The elderly People with chronic illnesses, such as diabetes, AIDS, cancer, and kidney or liver disease People suffering from a severe burn or physical trauma Common symptoms of sepsis are fever, chills, rapid breathing and heart rate, rash, confusion, and disorientation. Doctors diagnose sepsis using a blood test to see if the number of white blood cells is abnormal. They also do lab tests that check for signs of infection. People with sepsis are usually treated in hospital intensive care units. Doctors try to treat the infection, sustain the vital organs, and prevent a drop in blood pressure. Many patients receive oxygen and intravenous (IV) fluids. Other types of treatment, such as respirators or kidney dialysis, may be necessary. Sometimes, surgery is needed to clear up an infection. NIH: National Institute of General Medical Sciences</dc:description>
+<dc:subject dcterms="mesh">Sepsis</dc:subject>
+<dc:subject xml:lang="es">Sepsis</dc:subject>
+<dc:subject xml:lang="es">Septicemia</dc:subject>
+<dc:subject xml:lang="es">Shock tóxico</dc:subject>
+<dc:subject xml:lang="en">Sepsis</dc:subject>
+<dc:subject xml:lang="en">Toxic Shock Syndrome</dc:subject>
+<dc:subject xml:lang="en">Septicemia</dc:subject>
+<dc:subject xml:lang="en">Blood Poisoning</dc:subject>
+<dc:subject xml:lang="en">Septic Shock</dc:subject>
+<dc:subject xml:lang="en">Bacteremia</dc:subject>
+</metadata>
+</record>
+</MedlinePlus-document>

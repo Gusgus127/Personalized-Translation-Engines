@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<MedlinePlus-document>
+<record>
+<header>
+<identifier>https://medlineplus.gov/psoriaticarthritis.html</identifier>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:type>Text</dc:type>
+<dc:language>spa</dc:language>
+<dc:language>eng</dc:language>
+<dc:title xml:lang="es">Artritis psoriásica</dc:title>
+<dc:title xml:lang="en">Psoriatic Arthritis</dc:title>
+<dc:publisher>National Library of Medicine</dc:publisher>
+<dc:relation type="IsPartOf">Bones, Joints and Muscles</dc:relation>
+<dc:date type="created">2013-09-09</dc:date>
+<dc:date type="modified">2016-11-25</dc:date>
+<dc:identifier type="URL" xml:lang="es">https://medlineplus.gov/spanish/psoriaticarthritis.html</dc:identifier>
+<dc:identifier type="URL" xml:lang="en">https://medlineplus.gov/psoriaticarthritis.html</dc:identifier>
+<dc:description xml:lang="es">La psoriasis es una enfermedad de la piel que causa picazón o parches dolorosos de piel que se ha engrosado y enrojecido con escamas plateadas. Suele aparecer en los hombros, las rodillas, el cuero cabelludo, la espalda, la cara, las palmas de las manos y las plantas de los pies, pero también puede presentarse en otras partes del cuerpo. Algunas personas con esta condición desarrollan artritis psoriásica. Esto genera dolor, rigidez e hinchazón en las articulaciones. Generalmente es leve pero a veces puede ser grave y afectar varias articulaciones a la vez. Estos problemas y los de la piel quizás no sucedan al mismo tiempo. Su doctor hará un examen físico y de imágenes para diagnosticar la enfermedad. No existe una cura, pero los medicamentos pueden ayudar a controlar la inflamación y el dolor. En raras ocasiones, se puede necesitar cirugía para reparar o reemplazar las articulaciones dañadas.</dc:description>
+<dc:description xml:lang="en">Psoriasis is a skin disease that causes itchy or sore patches of thick, red skin with silvery scales. You usually get them on your elbows, knees, scalp, back, face, palms and feet, but they can show up on other parts of your body. Some people with psoriasis have psoriatic arthritis. It causes pain, stiffness, and swelling of the joints. It is often mild, but can sometimes be serious and affect many joints. The joint and skin problems don't always happen at the same time. Your doctor will do a physical exam and imaging tests to diagnose psoriatic arthritis. There is no cure, but medicines can help control inflammation and pain. In rare cases, you might need surgery to repair or replace damaged joints.</dc:description>
+<dc:subject dcterms="mesh">Arthritis, Psoriatic</dc:subject>
+<dc:subject xml:lang="es">Artritis psoriásica</dc:subject>
+<dc:subject xml:lang="en">Psoriatic Arthritis</dc:subject>
+</metadata>
+</record>
+</MedlinePlus-document>

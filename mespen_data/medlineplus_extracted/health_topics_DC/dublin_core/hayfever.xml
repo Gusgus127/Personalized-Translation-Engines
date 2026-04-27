@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<MedlinePlus-document>
+<record>
+<header>
+<identifier>https://medlineplus.gov/hayfever.html</identifier>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:type>Text</dc:type>
+<dc:language>spa</dc:language>
+<dc:language>eng</dc:language>
+<dc:title xml:lang="es">Rinitis alérgica</dc:title>
+<dc:title xml:lang="en">Hay Fever</dc:title>
+<dc:publisher>National Library of Medicine</dc:publisher>
+<dc:relation type="IsPartOf">Immune System</dc:relation>
+<dc:relation type="IsPartOf">Ear, Nose and Throat</dc:relation>
+<dc:date type="created">2008-11-21</dc:date>
+<dc:date type="modified">2017-11-08</dc:date>
+<dc:identifier type="URL" xml:lang="es">https://medlineplus.gov/spanish/hayfever.html</dc:identifier>
+<dc:identifier type="URL" xml:lang="en">https://medlineplus.gov/hayfever.html</dc:identifier>
+<dc:description xml:lang="es">Cada primavera, verano y otoño, árboles, malezas y pasto liberan pequeños granos de polen al ambiente. Algunos de ellos terminan en su nariz y garganta. Esto puede provocar un tipo de alergia llamada rinitis alérgica. Los síntomas pueden incluir: Estornudos, a menudo con congestión o romadizo nasal Tos y goteo nasal posterior Picazón de ojos, nariz y garganta Ojeras Su proveedor de salud puede diagnosticar la rinitis alérgica con un examen físico y sus síntomas. A veces se utilizan pruebas de sangre o de piel. Algunas medicinas y sprays nasales pueden aliviar los síntomas. También puede hacerse enjuagues nasales, pero asegúrese de usar agua destilada o esterilizada con sal. Las inyecciones para la alergia pueden hacerlo menos sensible al polen y brindar alivio a largo plazo. NIH: Instituto Nacional de Alergias y Enfermedades Infecciosas</dc:description>
+<dc:description xml:lang="en">Each spring, summer, and fall, trees, weeds, and grasses release tiny pollen grains into the air. Some of the pollen ends up in your nose and throat. This can trigger a type of allergy called hay fever. Symptoms can include Sneezing, often with a runny or clogged nose Coughing and postnasal drip Itching eyes, nose and throat Red and watery eyes Dark circles under the eyes Your health care provider may diagnose hay fever based on a physical exam and your symptoms. Sometimes skin or blood tests are used. Taking medicines and using nasal sprays can relieve symptoms. You can also rinse out your nose, but be sure to use distilled or sterilized water with saline. Allergy shots can help make you less sensitive to pollen and provide long-term relief. NIH: National Institute of Allergy and Infectious Diseases</dc:description>
+<dc:subject dcterms="mesh">Rhinitis, Allergic, Seasonal</dc:subject>
+<dc:subject xml:lang="es">Rinitis alérgica</dc:subject>
+<dc:subject xml:lang="en">Hay Fever</dc:subject>
+<dc:subject xml:lang="en">Pollen Allergy</dc:subject>
+<dc:subject xml:lang="en">Seasonal Allergies</dc:subject>
+<dc:subject xml:lang="en">Allergic Rhinitis</dc:subject>
+</metadata>
+</record>
+</MedlinePlus-document>

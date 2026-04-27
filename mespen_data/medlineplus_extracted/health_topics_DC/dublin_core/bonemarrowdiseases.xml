@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<MedlinePlus-document>
+<record>
+<header>
+<identifier>https://medlineplus.gov/bonemarrowdiseases.html</identifier>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title type="alternate" xml:lang="es">Médula ósea, Enfermedades de la</dc:title>
+<dc:title type="alternate" xml:lang="es">Mieloproliferativos, Trastornos</dc:title>
+<dc:title type="alternate" xml:lang="es">Trombocitemia</dc:title>
+<dc:title type="alternate" xml:lang="es">Policitemia vera</dc:title>
+<dc:title type="alternate" xml:lang="es">Mielofibrosis idiopática</dc:title>
+<dc:title type="alternate" xml:lang="en">Myeloproliferative Disorders</dc:title>
+<dc:type>Text</dc:type>
+<dc:language>spa</dc:language>
+<dc:language>eng</dc:language>
+<dc:title xml:lang="es">Enfermedades de la médula ósea</dc:title>
+<dc:title xml:lang="en">Bone Marrow Diseases</dc:title>
+<dc:publisher>National Library of Medicine</dc:publisher>
+<dc:relation type="IsPartOf">Immune System</dc:relation>
+<dc:date type="created">2002-07-21</dc:date>
+<dc:date type="modified">2017-12-27</dc:date>
+<dc:identifier type="URL" xml:lang="es">https://medlineplus.gov/spanish/bonemarrowdiseases.html</dc:identifier>
+<dc:identifier type="URL" xml:lang="en">https://medlineplus.gov/bonemarrowdiseases.html</dc:identifier>
+<dc:description xml:lang="es">La médula ósea es el tejido esponjoso que se encuentra dentro de sus huesos, como en la cadera y el hueso del muslo. Contiene células madre. Las células madre pueden desarrollarse hasta ser glóbulos rojos que transportan oxígeno a su cuerpo, glóbulos blancos que combaten las infecciones y plaquetas que ayudan a la coagulación de la sangre. Con la enfermedad de médula ósea, hay problemas con las células madre o con su desarrollo: En la leucemia, un cáncer de la sangre, la médula ósea produce glóbulos blancos anormales En la anemia aplásica, la médula ósea no produce glóbulos rojos En las enfermedades mieloproliferativas, la médula ósea produce demasiados glóbulos blancos Otras enfermedades como el linfoma pueden diseminarse a la médula ósea y afectar la producción de células sanguíneas Las causas de las enfermedades de la medula ósea incluyen factores genéticos y ambientales. Las pruebas incluyen análisis de sangre y de médula ósea. Los tratamientos dependen del trastorno y de su severidad. Pueden involucrar medicinas, transfusiones de sangre o un trasplante de médula ósea.</dc:description>
+<dc:description xml:lang="en">Bone marrow is the spongy tissue inside some of your bones, such as your hip and thigh bones. It contains stem cells. The stem cells can develop into the red blood cells that carry oxygen through your body, the white blood cells that fight infections, and the platelets that help with blood clotting. With bone marrow disease, there are problems with the stem cells or how they develop: In leukemia, a cancer of the blood, the bone marrow makes abnormal white blood cells In aplastic anemia, the bone marrow doesn't make red blood cells In myeloproliferative disorders, the bone marrow makes too many white blood cells Other diseases, such as lymphoma, can spread into the bone marrow and affect the production of blood cells Causes of bone marrow diseases include genetics and environmental factors. Tests for bone marrow diseases include blood and bone marrow tests. Treatments depend on the disorder and how severe it is. They might involve medicines, blood transfusions or a bone marrow transplant.</dc:description>
+<dc:subject dcterms="mesh">Bone Marrow Diseases</dc:subject>
+<dc:subject xml:lang="es">Enfermedades de la médula ósea</dc:subject>
+<dc:subject xml:lang="es">Médula ósea</dc:subject>
+<dc:subject xml:lang="es">Enfermedades de la</dc:subject>
+<dc:subject xml:lang="es">Mieloproliferativos</dc:subject>
+<dc:subject xml:lang="es">Trastornos</dc:subject>
+<dc:subject xml:lang="es">Trombocitemia</dc:subject>
+<dc:subject xml:lang="es">Policitemia vera</dc:subject>
+<dc:subject xml:lang="es">Mielofibrosis idiopática</dc:subject>
+<dc:subject xml:lang="en">Bone Marrow Diseases</dc:subject>
+<dc:subject xml:lang="en">Myeloproliferative Disorders</dc:subject>
+</metadata>
+</record>
+</MedlinePlus-document>

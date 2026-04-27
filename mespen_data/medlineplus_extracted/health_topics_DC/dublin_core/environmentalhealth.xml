@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<MedlinePlus-document>
+<record>
+<header>
+<identifier>https://medlineplus.gov/environmentalhealth.html</identifier>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title type="alternate" xml:lang="es">Ambiente, Salud del</dc:title>
+<dc:title type="alternate" xml:lang="es">Medioambiente, Salud del</dc:title>
+<dc:title type="alternate" xml:lang="es">Cambio del clima</dc:title>
+<dc:title type="alternate" xml:lang="es">Climático, Cambio</dc:title>
+<dc:type>Text</dc:type>
+<dc:language>spa</dc:language>
+<dc:language>eng</dc:language>
+<dc:title xml:lang="es">Salud ambiental</dc:title>
+<dc:title xml:lang="en">Environmental Health</dc:title>
+<dc:publisher>National Library of Medicine</dc:publisher>
+<dc:relation type="IsPartOf">Poisoning, Toxicology, Environmental Health</dc:relation>
+<dc:date type="created">2002-07-21</dc:date>
+<dc:date type="modified">2017-12-21</dc:date>
+<dc:identifier type="URL" xml:lang="es">https://medlineplus.gov/spanish/environmentalhealth.html</dc:identifier>
+<dc:identifier type="URL" xml:lang="en">https://medlineplus.gov/environmentalhealth.html</dc:identifier>
+<dc:description xml:lang="es">El medio ambiente afecta nuestra salud. Nuestro promedio de vida casi se ha duplicado en el último siglo principalmente debido a que tenemos agua potable para beber. Sin embargo, la contaminación de algunas partes del medio ambiente, como el aire, el agua o la tierra puede causar problemas de salud. Por ejemplo, las crisis de asma pueden ser a consecuencia de contaminantes y otras sustancias químicas en el aire y dentro del hogar. Algunos riesgos ambientales son parte del mundo natural, como el radón en la tierra. Otros son resultado de actividades humanas, como intoxicación por plomo en la pintura o la exposición al asbesto o al mercurio por su uso en la minería e industrias. NIH: Instituto Nacional de las Ciencias de Salud Ambiental</dc:description>
+<dc:description xml:lang="en">Our environment affects our health. If parts of the environment, like the air, water, or soil become polluted, it can lead to health problems. For example, asthma pollutants and chemicals in the air or in the home can trigger asthma attacks. Some environmental risks are a part of the natural world, like radon in the soil. Others are the result of human activities, like lead poisoning from paint, or exposure to asbestos or mercury from mining or industrial use. NIH: National Institute of Environmental Health Sciences</dc:description>
+<dc:subject dcterms="mesh">Environmental Health</dc:subject>
+<dc:subject xml:lang="es">Salud ambiental</dc:subject>
+<dc:subject xml:lang="es">Ambiente</dc:subject>
+<dc:subject xml:lang="es">Salud del</dc:subject>
+<dc:subject xml:lang="es">Medioambiente</dc:subject>
+<dc:subject xml:lang="es">Salud del</dc:subject>
+<dc:subject xml:lang="es">Cambio del clima</dc:subject>
+<dc:subject xml:lang="es">Climático</dc:subject>
+<dc:subject xml:lang="es">Cambio</dc:subject>
+<dc:subject xml:lang="en">Environmental Health</dc:subject>
+</metadata>
+</record>
+</MedlinePlus-document>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<MedlinePlus-document>
+<record>
+<header>
+<identifier>https://medlineplus.gov/braindiseases.html</identifier>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title type="alternate" xml:lang="es">Cerebro, Enfermedades del</dc:title>
+<dc:title type="alternate" xml:lang="es">Kuru</dc:title>
+<dc:title type="alternate" xml:lang="es">Leucoencefalopatía multifocal progresiva</dc:title>
+<dc:title type="alternate" xml:lang="es">Cerebro, Tumores</dc:title>
+<dc:title type="alternate" xml:lang="es">Tronco cerebral, Enfermedades del</dc:title>
+<dc:type>Text</dc:type>
+<dc:language>spa</dc:language>
+<dc:language>eng</dc:language>
+<dc:title xml:lang="es">Enfermedades del cerebro</dc:title>
+<dc:title xml:lang="en">Brain Diseases</dc:title>
+<dc:publisher>National Library of Medicine</dc:publisher>
+<dc:relation type="IsPartOf">Brain and Nerves</dc:relation>
+<dc:date type="created">2002-07-21</dc:date>
+<dc:date type="modified">2018-01-19</dc:date>
+<dc:identifier type="URL" xml:lang="es">https://medlineplus.gov/spanish/braindiseases.html</dc:identifier>
+<dc:identifier type="URL" xml:lang="en">https://medlineplus.gov/braindiseases.html</dc:identifier>
+<dc:description xml:lang="es">El cerebro es el centro de control del cuerpo. Controla los pensamientos, la memoria, el habla y los movimientos. Regula la función de muchos órganos. Cuando el cerebro está sano, funciona de forma rápida y automática. Sin embargo, cuando ocurren problemas, los resultados pueden ser devastadores. La inflamación en el cerebro puede conducir a problemas tales como la pérdida de la vista, debilidad y parálisis. La pérdida de células cerebrales, que ocurre cuando se sufre un derrame cerebral, puede afectar la capacidad de pensar con claridad. Los tumores cerebrales también pueden presionar algunos nervios y afectar la función cerebral. Algunas enfermedades cerebrales son genéticas; en otras, como la enfermedad de Alzheimer, se desconoce la causa.. Los síntomas de enfermedades cerebrales varían ampliamente dependiendo del problema específico. En algunos casos, el daño es permanente. En otros, los tratamientos como la cirugía, medicinas o fisioterapia pueden corregir el origen de la enfermedad o mejorar los síntomas.</dc:description>
+<dc:description xml:lang="en">The brain is the control center of the body. It controls thoughts, memory, speech, and movement. It regulates the function of many organs. When the brain is healthy, it works quickly and automatically. However, when problems occur, the results can be devastating. Inflammation in the brain can lead to problems such as vision loss, weakness and paralysis. Loss of brain cells, which happens if you suffer a stroke, can affect your ability to think clearly. Brain tumors can also press on nerves and affect brain function. Some brain diseases are genetic. And we do not know what causes some brain diseases, such as Alzheimer's disease. The symptoms of brain diseases vary widely depending on the specific problem. In some cases, damage is permanent. In other cases, treatments such as surgery, medicines, or physical therapy can correct the source of the problem or improve symptoms.</dc:description>
+<dc:subject dcterms="mesh">Brain Diseases</dc:subject>
+<dc:subject xml:lang="es">Enfermedades del cerebro</dc:subject>
+<dc:subject xml:lang="es">Cerebro</dc:subject>
+<dc:subject xml:lang="es">Enfermedades del</dc:subject>
+<dc:subject xml:lang="es">Kuru</dc:subject>
+<dc:subject xml:lang="es">Leucoencefalopatía multifocal progresiva</dc:subject>
+<dc:subject xml:lang="es">Cerebro</dc:subject>
+<dc:subject xml:lang="es">Tumores</dc:subject>
+<dc:subject xml:lang="es">Tronco cerebral</dc:subject>
+<dc:subject xml:lang="es">Enfermedades del</dc:subject>
+<dc:subject xml:lang="en">Brain Diseases</dc:subject>
+</metadata>
+</record>
+</MedlinePlus-document>

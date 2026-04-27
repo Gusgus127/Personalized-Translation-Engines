@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<MedlinePlus-document>
+<record>
+<header>
+<identifier>https://medlineplus.gov/prenataltesting.html</identifier>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title type="alternate" xml:lang="es">Ultrasonido</dc:title>
+<dc:title type="alternate" xml:lang="es">Amniocentesis</dc:title>
+<dc:title type="alternate" xml:lang="es">Análisis de la sangre materna</dc:title>
+<dc:title type="alternate" xml:lang="es">Muestra del villus coriónico (CVS)</dc:title>
+<dc:title type="alternate" xml:lang="es">Exploración triple</dc:title>
+<dc:title type="alternate" xml:lang="es">Prueba de glucosa</dc:title>
+<dc:title type="alternate" xml:lang="en">Amniocentesis</dc:title>
+<dc:title type="alternate" xml:lang="en">Chorionic Villi Sampling</dc:title>
+<dc:title type="alternate" xml:lang="en">Fetal Ultrasound</dc:title>
+<dc:type>Text</dc:type>
+<dc:language>spa</dc:language>
+<dc:language>eng</dc:language>
+<dc:title xml:lang="es">Pruebas prenatales</dc:title>
+<dc:title xml:lang="en">Prenatal Testing</dc:title>
+<dc:publisher>National Library of Medicine</dc:publisher>
+<dc:relation type="IsPartOf">Pregnancy and Reproduction</dc:relation>
+<dc:relation type="IsPartOf">Female Reproductive System</dc:relation>
+<dc:relation type="IsPartOf">Diagnostic Tests</dc:relation>
+<dc:relation type="IsPartOf">Genetics/Birth Defects</dc:relation>
+<dc:date type="created">2003-02-20</dc:date>
+<dc:date type="modified">2018-01-29</dc:date>
+<dc:identifier type="URL" xml:lang="es">https://medlineplus.gov/spanish/prenataltesting.html</dc:identifier>
+<dc:identifier type="URL" xml:lang="en">https://medlineplus.gov/prenataltesting.html</dc:identifier>
+<dc:description xml:lang="es">Los exámenes prenatales proporcionan información acerca de la salud de su bebé antes de nacer. Algunos exámenes rutinarios que se realizan durante el embarazo también evalúan su salud. En su primera visita prenatal, su proveedor de cuidados de salud tomará en cuenta varias cosas, como problemas de sangre, signos de infecciones y si usted es inmune a la rubéola y a la varicela. En el transcurso de su embarazo, su proveedor de cuidados médicos puede sugerirle otros exámenes. Algunos de estos tests son comunes para todas las mujeres, como exámenes para detectar diabetes gestacional, síndrome de Down y SIDA. Otras pruebas pueden ser ofrecidas basadas en su: Edad Historia médica o familiar Raza Resultados de exámenes rutinarios Algunos exámenes son de detección. Encuentran riesgos o signos de posibles problemas de salud en usted o en su bebé. De acuerdo con los resultados de estos exámenes, su doctor puede sugerirle pruebas de diagnóstico. Estas confirman o descartan problemas de salud en usted o en su bebé. Oficina para la Salud de la Mujer en el Dept. de Salud y Servicios Humanos de los EE.UU</dc:description>
+<dc:description xml:lang="en">Prenatal testing provides information about your baby's health before he or she is born. Some routine tests during pregnancy also check on your health. At your first prenatal visit, your health care provider will test for a number of things, including problems with your blood, signs of infections, and whether you are immune to rubella (German measles) and chickenpox. Throughout your pregnancy, your health care provider may suggest a number of other tests, too. Some tests are suggested for all women, such as screenings for gestational diabetes, Down syndrome, and HIV. Other tests might be offered based on your: Age Personal or family health history Ethnic background Results of routine tests Some tests are screening tests. They detect risks for or signs of possible health problems in you or your baby. Based on screening test results, your doctor might suggest diagnostic tests. Diagnostic tests confirm or rule out health problems in you or your baby. Dept. of Health and Human Services Office on Women's Health</dc:description>
+<dc:subject dcterms="mesh">Prenatal Diagnosis</dc:subject>
+<dc:subject xml:lang="es">Pruebas prenatales</dc:subject>
+<dc:subject xml:lang="es">Ultrasonido</dc:subject>
+<dc:subject xml:lang="es">Amniocentesis</dc:subject>
+<dc:subject xml:lang="es">Análisis de la sangre materna</dc:subject>
+<dc:subject xml:lang="es">Muestra del villus coriónico (CVS)</dc:subject>
+<dc:subject xml:lang="es">Exploración triple</dc:subject>
+<dc:subject xml:lang="es">Prueba de glucosa</dc:subject>
+<dc:subject xml:lang="en">Prenatal Testing</dc:subject>
+<dc:subject xml:lang="en">Amniocentesis</dc:subject>
+<dc:subject xml:lang="en">Chorionic Villi Sampling</dc:subject>
+<dc:subject xml:lang="en">Fetal Ultrasound</dc:subject>
+</metadata>
+</record>
+</MedlinePlus-document>

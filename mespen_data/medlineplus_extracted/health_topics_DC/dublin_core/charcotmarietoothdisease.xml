@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<MedlinePlus-document>
+<record>
+<header>
+<identifier>https://medlineplus.gov/charcotmarietoothdisease.html</identifier>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title type="alternate" xml:lang="es">Charcot-Marie-Tooth, Enfermedad de</dc:title>
+<dc:type>Text</dc:type>
+<dc:language>spa</dc:language>
+<dc:language>eng</dc:language>
+<dc:title xml:lang="es">Enfermedad de Charcot-Marie-Tooth</dc:title>
+<dc:title xml:lang="en">Charcot-Marie-Tooth Disease</dc:title>
+<dc:publisher>National Library of Medicine</dc:publisher>
+<dc:relation type="IsPartOf">Brain and Nerves</dc:relation>
+<dc:relation type="IsPartOf">Genetics/Birth Defects</dc:relation>
+<dc:date type="created">2002-07-21</dc:date>
+<dc:date type="modified">2018-01-29</dc:date>
+<dc:identifier type="URL" xml:lang="es">https://medlineplus.gov/spanish/charcotmarietoothdisease.html</dc:identifier>
+<dc:identifier type="URL" xml:lang="en">https://medlineplus.gov/charcotmarietoothdisease.html</dc:identifier>
+<dc:description xml:lang="es">La enfermedad de Charcot-Marie-Tooth (CMT, por sus siglas en inglés) es un grupo de trastornos nerviosos genéticos. Su nombre se debe a los tres médicos que la identificaron por primera vez. En los Estados Unidos, la CMT afecta aproximadamente a 1 de cada 2.500 personas. La enfermedad CMT afecta los nervios periféricos. Los nervios periféricos conducen las señales de movimiento y de sensaciones entre el cerebro, la médula espinal y el resto del cuerpo. Los síntomas suelen comenzar durante la adolescencia. Los problemas en los pies, tales como el pie arqueado (arco pronunciado) o los dedos en martillo, pueden ser los primeros síntomas. A medida que la CMT avanza, la parte inferior de las piernas puede debilitarse. Más adelante, las manos también pueden debilitarse. Los médicos diagnostican esta enfermedad mediante un examen neurológico, pruebas genéticas o biopsias de los nervios. No existe una cura. La enfermedad puede ser tan leve que no perciba que la tiene o ser lo suficientemente severa para debilitarlo. La fisioterapia, la terapia ocupacional, los aparatos ortopédicos y otros dispositivos y, en algunos casos, la cirugía pueden ayudarlo. NIH: Instituto Nacional de Trastornos Neurológicos y Accidentes Cerebrovasculares</dc:description>
+<dc:description xml:lang="en">Charcot-Marie-Tooth disease (CMT) is a group of genetic nerve disorders. It is named after the three doctors who first identified it. In the United States, CMT affects about 1 in 2,500 people. CMT affects your peripheral nerves. Peripheral nerves carry movement and sensation signals between the brain and spinal cord and the rest of the body. Symptoms usually start around the teen years. Foot problems such as high arches or hammertoes can be early symptoms. As CMT progresses, your lower legs may weaken. Later, your hands may also become weak. Doctors diagnose CMT by doing a neurologic exam, nerve tests, genetic tests, or a nerve biopsy. There is no cure. The disease can be so mild you don't realize you have it or severe enough to make you weak. Physical therapy, occupational therapy, braces and other devices and sometimes surgery can help. NIH: National Institute of Neurological Disorders and Stroke</dc:description>
+<dc:subject dcterms="mesh">Charcot-Marie-Tooth Disease</dc:subject>
+<dc:subject xml:lang="es">Enfermedad de Charcot-Marie-Tooth</dc:subject>
+<dc:subject xml:lang="es">Charcot-Marie-Tooth</dc:subject>
+<dc:subject xml:lang="es">Enfermedad de</dc:subject>
+<dc:subject xml:lang="en">Charcot-Marie-Tooth Disease</dc:subject>
+</metadata>
+</record>
+</MedlinePlus-document>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<MedlinePlus-document>
+<record>
+<header>
+<identifier>https://medlineplus.gov/heelinjuriesanddisorders.html</identifier>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title type="alternate" xml:lang="es">Talón, Lesiones y enfermedades</dc:title>
+<dc:title type="alternate" xml:lang="en">Plantar Fasciitis</dc:title>
+<dc:title type="alternate" xml:lang="en">Achilles Tendon Injuries</dc:title>
+<dc:type>Text</dc:type>
+<dc:language>spa</dc:language>
+<dc:language>eng</dc:language>
+<dc:title xml:lang="es">Lesiones y enfermedades del talón</dc:title>
+<dc:title xml:lang="en">Heel Injuries and Disorders</dc:title>
+<dc:publisher>National Library of Medicine</dc:publisher>
+<dc:relation type="IsPartOf">Bones, Joints and Muscles</dc:relation>
+<dc:relation type="IsPartOf">Injuries and Wounds</dc:relation>
+<dc:date type="created">2004-04-29</dc:date>
+<dc:date type="modified">2017-09-27</dc:date>
+<dc:identifier type="URL" xml:lang="es">https://medlineplus.gov/spanish/heelinjuriesanddisorders.html</dc:identifier>
+<dc:identifier type="URL" xml:lang="en">https://medlineplus.gov/heelinjuriesanddisorders.html</dc:identifier>
+<dc:description xml:lang="es">Los problemas en el talón son comunes y pueden ser dolorosos. Con frecuencia, resultan de un exceso de tensión en el hueso del talón y los tejidos que lo rodean. La tensión puede provenir de: Lesiones Hematomas que se adquieren al caminar, correr o saltar Uso de zapatos que no le quedan bien o no están bien hechos Sobrepeso Esto puede conducir a tendinitis, bursitis y fasciitis, que son tipos de inflamación de los tejidos que rodean el talón. Con el tiempo, la tensión puede causar espolones óseos y deformidades. Algunas enfermedades, como la artritis reumatoide y la gota, también pueden conducir a problemas en los talones. El tratamiento de los problemas en los talones puede incluir reposo, medicinas, ejercicio, uso de vendas y zapatos especiales. Rara vez se requiere cirugía.</dc:description>
+<dc:description xml:lang="en">Heel problems are common and can be painful. Often, they result from too much stress on your heel bone and the tissues that surround it. That stress can come from Injuries Bruises that you get walking, running or jumping Wearing shoes that don't fit or aren't made well Being overweight These can lead to tendinitis, bursitis, and fasciitis, which are all types of inflammation of the tissues that surround your heel. Over time the stress can cause bone spurs and deformities. Certain diseases, such as rheumatoid arthritis and gout, can also lead to heel problems. Treatments for heel problems might include rest, medicines, exercises, taping, and special shoes. Surgery is rarely needed.</dc:description>
+<dc:subject dcterms="mesh">Heel</dc:subject>
+<dc:subject xml:lang="es">Lesiones y enfermedades del talón</dc:subject>
+<dc:subject xml:lang="es">Talón</dc:subject>
+<dc:subject xml:lang="es">Lesiones y enfermedades</dc:subject>
+<dc:subject xml:lang="en">Heel Injuries and Disorders</dc:subject>
+<dc:subject xml:lang="en">Plantar Fasciitis</dc:subject>
+<dc:subject xml:lang="en">Achilles Tendon Injuries</dc:subject>
+</metadata>
+</record>
+</MedlinePlus-document>

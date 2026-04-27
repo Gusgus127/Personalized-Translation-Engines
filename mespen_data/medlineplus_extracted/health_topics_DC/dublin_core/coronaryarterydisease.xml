@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<MedlinePlus-document>
+<record>
+<header>
+<identifier>https://medlineplus.gov/coronaryarterydisease.html</identifier>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title type="alternate" xml:lang="es">Ecocardiograma</dc:title>
+<dc:title type="alternate" xml:lang="es">Placa vulnerable</dc:title>
+<dc:title type="alternate" xml:lang="es">Isquemia silenciosa</dc:title>
+<dc:title type="alternate" xml:lang="es">Arterias coronarias, Enfermedad</dc:title>
+<dc:title type="alternate" xml:lang="es">Enfermedad arteria coronaria</dc:title>
+<dc:title type="alternate" xml:lang="es">Enfermedad coronaria</dc:title>
+<dc:title type="alternate" xml:lang="en">Coronary Arteriosclerosis</dc:title>
+<dc:title type="alternate" xml:lang="en">Arteriosclerosis, Coronary</dc:title>
+<dc:title type="alternate" xml:lang="en">Atherosclerosis, Coronary</dc:title>
+<dc:title type="alternate" xml:lang="en">CAD</dc:title>
+<dc:type>Text</dc:type>
+<dc:language>spa</dc:language>
+<dc:language>eng</dc:language>
+<dc:title xml:lang="es">Enfermedad de las arterias coronarias</dc:title>
+<dc:title xml:lang="en">Coronary Artery Disease</dc:title>
+<dc:publisher>National Library of Medicine</dc:publisher>
+<dc:relation type="IsPartOf">Seniors</dc:relation>
+<dc:relation type="IsPartOf">Blood, Heart and Circulation</dc:relation>
+<dc:date type="created">2002-07-21</dc:date>
+<dc:date type="modified">2018-02-07</dc:date>
+<dc:identifier type="URL" xml:lang="es">https://medlineplus.gov/spanish/coronaryarterydisease.html</dc:identifier>
+<dc:identifier type="URL" xml:lang="en">https://medlineplus.gov/coronaryarterydisease.html</dc:identifier>
+<dc:description xml:lang="es">La enfermedad de las arterias coronarias (EAC) es el tipo más común de enfermedad cardiaca. Es la principal causa de muerte entre los hombres y las mujeres en los Estados Unidos. La EAC ocurre cuando las arterias que suministran la sangre al músculo cardíaco se endurecen y se estrechan. Esto se debe a la acumulación de colesterol y otros materiales llamados placa en la capa interna de las paredes de la arteria. Esta acumulación se llama arterioesclerosis. A medida que esta avanza, fluye menos sangre a través de las arterias. Como consecuencia, el músculo cardíaco no puede recibir la sangre o el oxígeno que necesita. Eso puede conducir a dolor en el pecho (angina) o a un infarto. La mayoría de los infartos ocurren cuando un coágulo súbitamente interrumpe el suministro de sangre al corazón, causando un daño cardíaco permanente. Con el tiempo, la EAC también puede debilitar el músculo cardíaco y contribuir a la presencia de insuficiencia cardiaca y arritmias. Insuficiencia cardiaca significa que el corazón no puede bombear la sangre adecuadamente al resto del cuerpo. Las arritmias son cambios en el ritmo normal del corazón. NIH: Instituto Nacional del Corazón, los Pulmones y la Sangre</dc:description>
+<dc:description xml:lang="en">Coronary artery disease (CAD) is the most common type of heart disease. It is the leading cause of death in the United States in both men and women. CAD happens when the arteries that supply blood to heart muscle become hardened and narrowed. This is due to the buildup of cholesterol and other material, called plaque, on their inner walls. This buildup is called atherosclerosis. As it grows, less blood can flow through the arteries. As a result, the heart muscle can't get the blood or oxygen it needs. This can lead to chest pain (angina) or a heart attack. Most heart attacks happen when a blood clot suddenly cuts off the hearts' blood supply, causing permanent heart damage. Over time, CAD can also weaken the heart muscle and contribute to heart failure and arrhythmias. Heart failure means the heart can't pump blood well to the rest of the body. Arrhythmias are changes in the normal beating rhythm of the heart. NIH: National Heart, Lung, and Blood Institute</dc:description>
+<dc:subject dcterms="mesh">Coronary Artery Disease</dc:subject>
+<dc:subject xml:lang="es">Enfermedad de las arterias coronarias</dc:subject>
+<dc:subject xml:lang="es">Ecocardiograma</dc:subject>
+<dc:subject xml:lang="es">Placa vulnerable</dc:subject>
+<dc:subject xml:lang="es">Isquemia silenciosa</dc:subject>
+<dc:subject xml:lang="es">Arterias coronarias</dc:subject>
+<dc:subject xml:lang="es">Enfermedad</dc:subject>
+<dc:subject xml:lang="es">Enfermedad arteria coronaria</dc:subject>
+<dc:subject xml:lang="es">Enfermedad coronaria</dc:subject>
+<dc:subject xml:lang="en">Coronary Artery Disease</dc:subject>
+<dc:subject xml:lang="en">Coronary Arteriosclerosis</dc:subject>
+<dc:subject xml:lang="en">Arteriosclerosis</dc:subject>
+<dc:subject xml:lang="en">Coronary</dc:subject>
+<dc:subject xml:lang="en">Atherosclerosis</dc:subject>
+<dc:subject xml:lang="en">Coronary</dc:subject>
+<dc:subject xml:lang="en">CAD</dc:subject>
+</metadata>
+</record>
+</MedlinePlus-document>

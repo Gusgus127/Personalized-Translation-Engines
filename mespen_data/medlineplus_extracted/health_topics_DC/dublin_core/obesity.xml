@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<MedlinePlus-document>
+<record>
+<header>
+<identifier>https://medlineplus.gov/obesity.html</identifier>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title type="alternate" xml:lang="es">Sobrepeso</dc:title>
+<dc:title type="alternate" xml:lang="es">Gordura</dc:title>
+<dc:title type="alternate" xml:lang="en">Overweight</dc:title>
+<dc:type>Text</dc:type>
+<dc:language>spa</dc:language>
+<dc:language>eng</dc:language>
+<dc:title xml:lang="es">Obesidad</dc:title>
+<dc:title xml:lang="en">Obesity</dc:title>
+<dc:publisher>National Library of Medicine</dc:publisher>
+<dc:relation type="IsPartOf">Food and Nutrition</dc:relation>
+<dc:relation type="IsPartOf">Metabolic Problems</dc:relation>
+<dc:date type="created">2002-07-21</dc:date>
+<dc:date type="modified">2018-02-07</dc:date>
+<dc:identifier type="URL" xml:lang="es">https://medlineplus.gov/spanish/obesity.html</dc:identifier>
+<dc:identifier type="URL" xml:lang="en">https://medlineplus.gov/obesity.html</dc:identifier>
+<dc:description xml:lang="es">Obesidad significa tener un exceso de grasa en el cuerpo. Se diferencia del sobrepeso, que significa pesar demasiado. El peso puede ser resultado de la masa muscular, los huesos, la grasa y/o el agua en el cuerpo. Ambos términos significan que el peso de una persona es mayor de lo que se considera saludable según su estatura. La obesidad se presenta con el transcurso del tiempo, cuando se ingieren más calorías que aquellas que consume. El equilibrio entre la ingestión de calorías y las calorías que se pierden es diferente en cada persona. Entre los factores que pueden afectar su peso se incluyen la constitución genética, el exceso de comida, el consumo de alimentos ricos en grasas y la falta de actividad física. La obesidad aumenta el riesgo de padecer diabetes, enfermedades cardiacas, derrames cerebrales, artritis y ciertos cánceres. Si usted está obeso, perder por lo menos de cinco a 10 por ciento de su peso puede retrasar o prevenir algunas de estas enfermedades. Por ejemplo, si usted pesa 200 libras, el cinco al 10 por ciento serían unas 10 a 20 libras. NIH: Instituto Nacional de la Diabetes y las Enfermedades Digestivas y Renales</dc:description>
+<dc:description xml:lang="en">Obesity means having too much body fat. It is different from being overweight, which means weighing too much. The weight may come from muscle, bone, fat, and/or body water. Both terms mean that a person's weight is greater than what's considered healthy for his or her height. Obesity happens over time when you eat more calories than you use. The balance between calories-in and calories-out differs for each person. Factors that might affect your weight include your genetic makeup, overeating, eating high-fat foods, and not being physically active. Obesity increases your risk of diabetes, heart disease, stroke, arthritis, and some cancers. If you have obesity, losing even 5 to 10 percent of your weight can delay or prevent some of these diseases. For example, that means losing 10 to 20 pounds if you weigh 200 pounds. NIH: National Institute of Diabetes and Digestive and Kidney Diseases</dc:description>
+<dc:subject dcterms="mesh">Obesity</dc:subject>
+<dc:subject xml:lang="es">Obesidad</dc:subject>
+<dc:subject xml:lang="es">Sobrepeso</dc:subject>
+<dc:subject xml:lang="es">Gordura</dc:subject>
+<dc:subject xml:lang="en">Obesity</dc:subject>
+<dc:subject xml:lang="en">Overweight</dc:subject>
+</metadata>
+</record>
+</MedlinePlus-document>

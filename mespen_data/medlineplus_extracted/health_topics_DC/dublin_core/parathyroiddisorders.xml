@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<MedlinePlus-document>
+<record>
+<header>
+<identifier>https://medlineplus.gov/parathyroiddisorders.html</identifier>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title type="alternate" xml:lang="es">Hiperparatiroidismo</dc:title>
+<dc:title type="alternate" xml:lang="es">Hipoparatiroidismo</dc:title>
+<dc:title type="alternate" xml:lang="es">Paratiroides, Enfermedades de la</dc:title>
+<dc:title type="alternate" xml:lang="en">Hyperparathyroidism</dc:title>
+<dc:title type="alternate" xml:lang="en">Hypoparathyroidism</dc:title>
+<dc:title type="alternate" xml:lang="en">Multiple Endocrine Neoplasia</dc:title>
+<dc:type>Text</dc:type>
+<dc:language>spa</dc:language>
+<dc:language>eng</dc:language>
+<dc:title xml:lang="es">Enfermedades de la paratiroides</dc:title>
+<dc:title xml:lang="en">Parathyroid Disorders</dc:title>
+<dc:publisher>National Library of Medicine</dc:publisher>
+<dc:relation type="IsPartOf">Endocrine System</dc:relation>
+<dc:date type="created">2002-07-21</dc:date>
+<dc:date type="modified">2017-11-08</dc:date>
+<dc:identifier type="URL" xml:lang="es">https://medlineplus.gov/spanish/parathyroiddisorders.html</dc:identifier>
+<dc:identifier type="URL" xml:lang="en">https://medlineplus.gov/parathyroiddisorders.html</dc:identifier>
+<dc:description xml:lang="es">La mayoría de las personas tiene cuatro glándulas del tamaño de un guisante, llamadas paratiroides, sobre la glándula tiroides que se encuentra en el cuello. Aunque sus nombres son similares, las tiroides y las paratiroides son completamente diferentes. Las glándulas paratiroides producen la hormona paratiroidea (PTH, por sus siglas en inglés), que ayuda al cuerpo a mantener el equilibrio entre el calcio y el fósforo. Si las glándulas paratiroideas producen cantidades excesivas o muy bajas de hormona, alteran el equilibrio. Si segregan demasiada PTH, el cuadro se denomina hiperparatiroidismo y el nivel de calcio en la sangre aumenta. En muchos casos, un tumor benigno en las paratiroides aumenta su actividad. En otros casos, el exceso de hormonas puede provenir de glándulas paratiroides aumentadas de tamaño. En muy raros casos, la causa es un cáncer. Si no se produce suficiente cantidad de PTH, el cuadro se denomina hipoparatiroidismo. La sangre tendrá muy poco calcio y una excesiva cantidad de fósforo. Entre las causas se encuentran las lesiones de las glándulas, los trastornos endocrinos o los cuadros genéticos. El tratamiento se enfoca en recuperar el equilibrio entre el calcio y el fósforo. NIH: Instituto Nacional de la Diabetes y las Enfermedades Digestivas y Renales</dc:description>
+<dc:description xml:lang="en">Most people have four pea-sized glands, called parathyroid glands, on the thyroid gland in the neck. Though their names are similar, the thyroid and parathyroid glands are completely different. The parathyroid glands make parathyroid hormone (PTH), which helps your body keep the right balance of calcium and phosphorous. If your parathyroid glands make too much or too little hormone, it disrupts this balance. If they secrete extra PTH, you have hyperparathyroidism, and your blood calcium rises. In many cases, a benign tumor on a parathyroid gland makes it overactive. Or, the extra hormones can come from enlarged parathyroid glands. Very rarely, the cause is cancer. If you do not have enough PTH, you have hypoparathyroidism. Your blood will have too little calcium and too much phosphorous. Causes include injury to the glands, endocrine disorders, or genetic conditions. Treatment is aimed at restoring the balance of calcium and phosphorous. NIH: National Institute of Diabetes and Digestive and Kidney Diseases</dc:description>
+<dc:subject dcterms="mesh">Parathyroid Diseases</dc:subject>
+<dc:subject xml:lang="es">Enfermedades de la paratiroides</dc:subject>
+<dc:subject xml:lang="es">Hiperparatiroidismo</dc:subject>
+<dc:subject xml:lang="es">Hipoparatiroidismo</dc:subject>
+<dc:subject xml:lang="es">Paratiroides</dc:subject>
+<dc:subject xml:lang="es">Enfermedades de la</dc:subject>
+<dc:subject xml:lang="en">Parathyroid Disorders</dc:subject>
+<dc:subject xml:lang="en">Hyperparathyroidism</dc:subject>
+<dc:subject xml:lang="en">Hypoparathyroidism</dc:subject>
+<dc:subject xml:lang="en">Multiple Endocrine Neoplasia</dc:subject>
+</metadata>
+</record>
+</MedlinePlus-document>

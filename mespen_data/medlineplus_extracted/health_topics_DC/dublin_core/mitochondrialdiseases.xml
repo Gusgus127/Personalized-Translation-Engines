@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<MedlinePlus-document>
+<record>
+<header>
+<identifier>https://medlineplus.gov/mitochondrialdiseases.html</identifier>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title type="alternate" xml:lang="es">Mitocondriales, Trastornos</dc:title>
+<dc:type>Text</dc:type>
+<dc:language>spa</dc:language>
+<dc:language>eng</dc:language>
+<dc:title xml:lang="es">Trastornos mitocondriales</dc:title>
+<dc:title xml:lang="en">Mitochondrial Diseases</dc:title>
+<dc:publisher>National Library of Medicine</dc:publisher>
+<dc:relation type="IsPartOf">Metabolic Problems</dc:relation>
+<dc:date type="created">2016-10-11</dc:date>
+<dc:date type="modified">2018-01-16</dc:date>
+<dc:identifier type="URL" xml:lang="es">https://medlineplus.gov/spanish/mitochondrialdiseases.html</dc:identifier>
+<dc:identifier type="URL" xml:lang="en">https://medlineplus.gov/mitochondrialdiseases.html</dc:identifier>
+<dc:description xml:lang="es">El metabolismo es el proceso que su cuerpo utiliza para producir energía a partir de los alimentos que consume. Los alimentos se componen de proteínas, carbohidratos y grasas. Los productos químicos en su sistema digestivo (enzimas) descomponen la comida en azúcares y ácidos, el combustible para su cuerpo. Usted puede utilizar este combustible en forma inmediata, o puede almacenarlo en sus tejidos corporales. Si usted tiene un trastorno metabólicos, hay un problema en este proceso. Las enfermedades mitocondriales son un grupo de trastornos metabólicos. Las mitocondrias son estructuras pequeñas que producen energía en casi todas sus células. Ellas lo hacen mediante la combinación de oxígeno con las moléculas de combustible (azúcares y grasas) que provienen de los alimentos. Cuando las mitocondrias son defectuosas, las células no tienen suficiente energía. Las moléculas de oxígeno y combustible no utilizadas se acumulan en las células, causando daños. Los síntomas de enfermedad mitocondrial pueden variar. Depende de la cantidad de mitocondrias defectuosas y dónde están en el cuerpo. A veces, sólo un órgano, tejido o tipo de célula se ve afectada. Pero a menudo el problema afecta a muchos de ellos. Las células musculares y nerviosas tienen necesidades especialmente altas de energía, por lo que los problemas musculares y neurológicos son comunes. Las enfermedades varían de leves a graves. Algunas de ellas pueden ser fatales. Las mutaciones genéticas causan estas enfermedades. Por lo general, ocurren antes de los 20 años, y algunas son más comunes en los bebés. No hay cura para estas enfermedades, pero los tratamientos pueden ayudar con los síntomas y retrasar la enfermedad. Ellos pueden incluir terapia física, vitaminas y suplementos, dietas especiales y medicamentos.</dc:description>
+<dc:description xml:lang="en">Metabolism is the process your body uses to make energy from the food you eat. Food is made up of proteins, carbohydrates, and fats. Chemicals in your digestive system (enzymes) break the food parts down into sugars and acids, your body's fuel. Your body can use this fuel right away, or it can store the energy in your body tissues. If you have a metabolic disorder, something goes wrong with this process. Mitochondrial diseases are a group of metabolic disorders. Mitochondria are small structures that produce energy in almost all of your cells. They make it by combining oxygen with the fuel molecules (sugars and fats) that come from your food. When the mitochondria are defective, the cells do not have enough energy. The unused oxygen and fuel molecules build up in the cells and cause damage. The symptoms of mitochondrial disease can vary. It depends on how many mitochondria are defective, and where they are in the body. Sometimes only one organ, tissue, or cell type is affected. But often the problem affects many of them. Muscle and nerve cells have especially high energy needs, so muscular and neurological problems are common. The diseases range from mild to severe. Some types can be fatal. Genetic mutations cause these diseases. They usually happen before age 20, and some are more common in infants. There are no cures for these diseases, but treatments may help with symptoms and slow down the disease. They may include physical therapy, vitamins and supplements, special diets, and medicines.</dc:description>
+<dc:subject dcterms="mesh">Mitochondrial Diseases</dc:subject>
+<dc:subject xml:lang="es">Trastornos mitocondriales</dc:subject>
+<dc:subject xml:lang="es">Mitocondriales</dc:subject>
+<dc:subject xml:lang="es">Trastornos</dc:subject>
+<dc:subject xml:lang="en">Mitochondrial Diseases</dc:subject>
+</metadata>
+</record>
+</MedlinePlus-document>

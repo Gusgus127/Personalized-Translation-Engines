@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<MedlinePlus-document>
+<record>
+<header>
+<identifier>https://medlineplus.gov/jointdisorders.html</identifier>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:type>Text</dc:type>
+<dc:language>spa</dc:language>
+<dc:language>eng</dc:language>
+<dc:title xml:lang="es">Problemas de las articulaciones</dc:title>
+<dc:title xml:lang="en">Joint Disorders</dc:title>
+<dc:publisher>National Library of Medicine</dc:publisher>
+<dc:relation type="IsPartOf">Bones, Joints and Muscles</dc:relation>
+<dc:date type="created">2009-01-06</dc:date>
+<dc:date type="modified">2018-01-08</dc:date>
+<dc:identifier type="URL" xml:lang="es">https://medlineplus.gov/spanish/jointdisorders.html</dc:identifier>
+<dc:identifier type="URL" xml:lang="en">https://medlineplus.gov/jointdisorders.html</dc:identifier>
+<dc:description xml:lang="es">Una articulación es donde se unen dos o más huesos, como la rodilla, la cadera, el codo o el hombro. Las articulaciones pueden dañarse por muchos tipos de lesiones o enfermedades, incluyendo: Artritis: Inflamación de las articulaciones. Causa dolor, rigidez e inflamación. Con el tiempo, la articulación inflamada puede dañarse en forma seria Bursitis: Inflamación de una pequeña bolsa llena de líquido que protege a la articulación Dislocaciones: Lesiones que sacan de lugar a los huesos El tratamiento de los problemas de las articulaciones varía según su causa. Si usted tiene una lesión causada por los deportes, el tratamiento suele comenzar con el método RICE (reposo, hielo, compresión y elevación en inglés) para aliviar el dolor, reducir la inflamación y acelerar la curación. Otros tratamientos incluyen calmantes para el dolor, no mover la zona lastimada, rehabilitación y a veces cirugía. Para la artritis, lesiones, u otras enfermedades, puede que sea necesaria una cirugía para reemplazar la articulación dañada por una nueva. NIH: Instituto Nacional de Artritis y Enfermedades Musculoesqueléticas y de la Piel</dc:description>
+<dc:description xml:lang="en">A joint is where two or more bones come together, like the knee, hip, elbow, or shoulder. Joints can be damaged by many types of injuries or diseases, including Arthritis - inflammation of a joint. It causes pain, stiffness, and swelling. Over time, the joint can become severely damaged. Bursitis - inflammation of a fluid-filled sac that cushions the joint Dislocations - injuries that force the ends of the bones out of position Treatment of joint problems depends on the cause. If you have a sports injury, treatment often begins with the RICE (Rest, Ice, Compression, and Elevation) method to relieve pain, reduce swelling, and speed healing. Other possible treatments include pain relievers, keeping the injured area from moving, rehabilitation, and sometimes surgery. For arthritis, injuries, or other diseases, you may need joint replacement surgery to remove the damaged joint and put in a new one. NIH: National Institute of Arthritis and Musculoskeletal and Skin Diseases</dc:description>
+<dc:subject dcterms="mesh">Joint Diseases</dc:subject>
+<dc:subject xml:lang="es">Problemas de las articulaciones</dc:subject>
+<dc:subject xml:lang="en">Joint Disorders</dc:subject>
+<dc:subject xml:lang="en">Arthrography</dc:subject>
+<dc:subject xml:lang="en">Arthroscopy</dc:subject>
+<dc:subject xml:lang="en">Arthroplasty</dc:subject>
+</metadata>
+</record>
+</MedlinePlus-document>

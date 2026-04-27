@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<MedlinePlus-document>
+<record>
+<header>
+<identifier>https://medlineplus.gov/growthdisorders.html</identifier>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title type="alternate" xml:lang="es">Crecimiento, Trastorno del</dc:title>
+<dc:title type="alternate" xml:lang="en">Acromegaly</dc:title>
+<dc:title type="alternate" xml:lang="en">Failure to Thrive</dc:title>
+<dc:type>Text</dc:type>
+<dc:language>spa</dc:language>
+<dc:language>eng</dc:language>
+<dc:title xml:lang="es">Trastornos de crecimiento</dc:title>
+<dc:title xml:lang="en">Growth Disorders</dc:title>
+<dc:publisher>National Library of Medicine</dc:publisher>
+<dc:relation type="IsPartOf">Children and Teenagers</dc:relation>
+<dc:relation type="IsPartOf">Endocrine System</dc:relation>
+<dc:date type="created">2002-07-21</dc:date>
+<dc:date type="modified">2017-10-04</dc:date>
+<dc:identifier type="URL" xml:lang="es">https://medlineplus.gov/spanish/growthdisorders.html</dc:identifier>
+<dc:identifier type="URL" xml:lang="en">https://medlineplus.gov/growthdisorders.html</dc:identifier>
+<dc:description xml:lang="es">¿Su hijo parece mucho más bajo o mucho más alto que los otros niños de su edad? Eso puede ser normal. Algunos niños pueden parecer pequeños para su edad pero, en realidad, se están desarrollando normalmente. Otros son bajos o altos porque sus padres lo son. Pero otros pueden tener un problema de crecimiento. Estos son trastornos que hacen que los niños no tengan una estatura, peso o madurez sexual normales. Algunas veces, el crecimiento muy rápido o muy lento puede indicar una enfermedad o un problema glandular. La glándula pituitaria produce la hormona del crecimiento que estimula el crecimiento de los huesos y otros tejidos. Los niños que tienen una deficiencia de esta hormona, o sea que no producen suficiente, pueden tener muy baja estatura. El tratamiento con hormonas específicas puede estimular el crecimiento. Pero las personas también pueden tener un exceso de esta hormona, o sea que producen demasiado. Por lo general, la causa es un tumor en la glándula pituitaria, que no es un cáncer. El exceso de la hormona de crecimiento puede causar gigantismo en los niños, en cuyo caso los huesos y el cuerpo crecen demasiado. En los adultos, puede causar acromegalia, que hace que las manos, los pies y la cara sean más grandes de lo normal. Los tratamientos posibles incluyen cirugía para extirpar el tumor, medicinas y radioterapia.</dc:description>
+<dc:description xml:lang="en">Does your child seem much shorter - or much taller - than other kids his or her age? It could be normal. Some children may be small for their age but still be developing normally. Some children are short or tall because their parents are. But some children have growth disorders. Growth disorders are problems that prevent children from developing normal height, weight, sexual maturity or other features. Very slow or very fast growth can sometimes signal a gland problem or disease. The pituitary gland makes growth hormone, which stimulates the growth of bone and other tissues. Children who have too little of it may be very short. Treatment with growth hormone can stimulate growth. People can also have too much growth hormone. Usually the cause is a pituitary gland tumor, which is not cancer. Too much growth hormone can cause gigantism in children, where their bones and their body grow too much. In adults, it can cause acromegaly, which makes the hands, feet and face larger than normal. Possible treatments include surgery to remove the tumor, medicines, and radiation therapy.</dc:description>
+<dc:subject dcterms="mesh">Growth Disorders</dc:subject>
+<dc:subject xml:lang="es">Trastornos de crecimiento</dc:subject>
+<dc:subject xml:lang="es">Crecimiento</dc:subject>
+<dc:subject xml:lang="es">Trastorno del</dc:subject>
+<dc:subject xml:lang="en">Growth Disorders</dc:subject>
+<dc:subject xml:lang="en">Acromegaly</dc:subject>
+<dc:subject xml:lang="en">Failure to Thrive</dc:subject>
+</metadata>
+</record>
+</MedlinePlus-document>

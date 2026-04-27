@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<MedlinePlus-document>
+<record>
+<header>
+<identifier>https://medlineplus.gov/crohnsdisease.html</identifier>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title type="alternate" xml:lang="es">Enfermedad inflamatoria intestinal</dc:title>
+<dc:title type="alternate" xml:lang="es">Crohn, Enfermedad de</dc:title>
+<dc:title type="alternate" xml:lang="es">Intestino, Enfermedad inflamatoria</dc:title>
+<dc:title type="alternate" xml:lang="en">Inflammatory Bowel Disease</dc:title>
+<dc:title type="alternate" xml:lang="en">Regional Enteritis</dc:title>
+<dc:title type="alternate" xml:lang="en">Regional Ileitis</dc:title>
+<dc:type>Text</dc:type>
+<dc:language>spa</dc:language>
+<dc:language>eng</dc:language>
+<dc:title xml:lang="es">Enfermedad de Crohn</dc:title>
+<dc:title xml:lang="en">Crohn's Disease</dc:title>
+<dc:publisher>National Library of Medicine</dc:publisher>
+<dc:relation type="IsPartOf">Digestive System</dc:relation>
+<dc:date type="created">2002-07-21</dc:date>
+<dc:date type="modified">2017-11-15</dc:date>
+<dc:identifier type="URL" xml:lang="es">https://medlineplus.gov/spanish/crohnsdisease.html</dc:identifier>
+<dc:identifier type="URL" xml:lang="en">https://medlineplus.gov/crohnsdisease.html</dc:identifier>
+<dc:description xml:lang="es">La enfermedad de Crohn causa inflamación del sistema digestivo. Pertenece a un grupo de enfermedades llamado enfermedad intestinal inflamatoria. La enfermedad de Crohn puede afectar cualquier área desde la boca hasta el ano. Suele afectar la parte baja del intestino delgado, llamada ileon. No se conoce la causa de esta enfermedad. Puede deberse a una reacción anormal del sistema inmune del cuerpo. También parece tener una tendencia familiar. Generalmente comienza alrededor de los 13 o 30 años de edad. Los síntomas más comunes son dolor en el abdomen y diarrea. Otros síntomas incluyen: Sangrado rectal Pérdida de peso Fiebre Su doctor puede diagnosticar esta condición con exámenes físicos, de laboratorio, de imágenes y/o una colonoscopía. La enfermedad de Crohn puede causar complicaciones como obstrucción intestinal, úlceras en el intestino y problemas para absorber suficientes nutrientes. Las personas con esta condición también pueden desarrollar dolor en las articulaciones y problemas en la piel. Los niños pueden tener problemas de crecimiento. No existe una cura. El tratamiento consiste en ayudar a controlar los síntomas. Puede incluir medicamentos, suplementos nutricionales y/o cirugía. Algunas personas pueden experimentar largos períodos de remisión en los que no presentan síntomas. NIH: Instituto Nacional de la Diabetes y las Enfermedades Digestivas y Renales</dc:description>
+<dc:description xml:lang="en">Crohn's disease causes inflammation of the digestive system. It is one of a group of diseases called inflammatory bowel disease. Crohn's can affect any area from the mouth to the anus. It often affects the lower part of the small intestine called the ileum. The cause of Crohn's disease is unknown. It may be due to an abnormal reaction by the body's immune system. It also seems to run in some families. It most commonly starts between the ages of 13 and 30. The most common symptoms are pain in the abdomen and diarrhea. Other symptoms include Bleeding from the rectum Weight loss Fever Your doctor will diagnose Crohn's disease with a physical exam, lab tests, imaging tests, and a colonoscopy. Crohn's can cause complications, such as intestinal blockages, ulcers in the intestine, and problems getting enough nutrients. People with Crohn's can also have joint pain and skin problems. Children with the disease may have growth problems. There is no cure for Crohn's. Treatment can help control symptoms, and may include medicines, nutrition supplements, and/or surgery. Some people have long periods of remission, when they are free of symptoms. NIH: National Institute of Diabetes and Digestive and Kidney Diseases</dc:description>
+<dc:subject dcterms="mesh">Crohn Disease</dc:subject>
+<dc:subject xml:lang="es">Enfermedad de Crohn</dc:subject>
+<dc:subject xml:lang="es">Enfermedad inflamatoria intestinal</dc:subject>
+<dc:subject xml:lang="es">Crohn</dc:subject>
+<dc:subject xml:lang="es">Enfermedad de</dc:subject>
+<dc:subject xml:lang="es">Intestino</dc:subject>
+<dc:subject xml:lang="es">Enfermedad inflamatoria</dc:subject>
+<dc:subject xml:lang="en">Crohn's Disease</dc:subject>
+<dc:subject xml:lang="en">Inflammatory Bowel Disease</dc:subject>
+<dc:subject xml:lang="en">Regional Enteritis</dc:subject>
+<dc:subject xml:lang="en">Regional Ileitis</dc:subject>
+</metadata>
+</record>
+</MedlinePlus-document>

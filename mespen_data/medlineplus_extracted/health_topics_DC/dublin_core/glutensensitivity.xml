@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<MedlinePlus-document>
+<record>
+<header>
+<identifier>https://medlineplus.gov/glutensensitivity.html</identifier>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:type>Text</dc:type>
+<dc:language>spa</dc:language>
+<dc:language>eng</dc:language>
+<dc:title xml:lang="es">Sensibilidad al gluten</dc:title>
+<dc:title xml:lang="en">Gluten Sensitivity</dc:title>
+<dc:publisher>National Library of Medicine</dc:publisher>
+<dc:relation type="IsPartOf">Digestive System</dc:relation>
+<dc:date type="created">2015-07-28</dc:date>
+<dc:date type="modified">2017-10-04</dc:date>
+<dc:identifier type="URL" xml:lang="es">https://medlineplus.gov/spanish/glutensensitivity.html</dc:identifier>
+<dc:identifier type="URL" xml:lang="en">https://medlineplus.gov/glutensensitivity.html</dc:identifier>
+<dc:description xml:lang="es">El gluten es una proteína que se encuentra en el trigo, el centeno y la cebada. Se encuentra principalmente en los alimentos, pero también puede estar en otros productos como medicamentos, vitaminas y suplementos. Las personas con esta sensibilidad tienen problemas de salud. Es diferente de la enfermedad celíaca, una enfermedad inmune en el que las personas no pueden comer gluten, ya que puede dañar su intestino delgado. Algunos de los síntomas de la sensibilidad al gluten son similares a la enfermedad celíaca. Estos incluyen cansancio y dolores de estómago. Puede causar otros síntomas también, incluyendo calambres musculares y entumecimiento de las piernas. Pero no daña el intestino delgado como la enfermedad celíaca. Los científicos aún están investigando más sobre la sensibilidad al gluten. Si su médico cree que usted lo tiene, puede sugerirle que deje de comer gluten para ver si desaparecen los síntomas. Sin embargo, primero debe hacerse la prueba para descartar enfermedad celíaca. Oficina de Salud de la Mujer del Departamento de Salud y Servicios Humanos</dc:description>
+<dc:description xml:lang="en">Gluten is a protein found in wheat, rye, and barley. It is found mainly in foods but may also be in other products like medicines, vitamins, and supplements. People with gluten sensitivity have problems with gluten. It is different from celiac disease, an immune disease in which people can't eat gluten because it will damage their small intestine. Some of the symptoms of gluten sensitivity are similar to celiac disease. They include tiredness and stomachaches. It can cause other symptoms too, including muscle cramps and leg numbness. But it does not damage the small intestine like celiac disease. Researchers are still learning more about gluten sensitivity. If your health care provider thinks you have it, he or she may suggest that you stop eating gluten to see if your symptoms go away. However, you should first be tested to rule out celiac disease. Dept. of Health and Human Services Office on Women's Health</dc:description>
+<dc:subject xml:lang="es">Sensibilidad al gluten</dc:subject>
+<dc:subject xml:lang="en">Gluten Sensitivity</dc:subject>
+<dc:subject xml:lang="en">Gluten Intolerance</dc:subject>
+</metadata>
+</record>
+</MedlinePlus-document>

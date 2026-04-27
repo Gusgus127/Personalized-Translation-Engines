@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<MedlinePlus-document>
+<record>
+<header>
+<identifier>https://medlineplus.gov/moles.html</identifier>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title type="alternate" xml:lang="es">Marcas de nacimiento</dc:title>
+<dc:title type="alternate" xml:lang="es">Nacimiento, Marcas de</dc:title>
+<dc:title type="alternate" xml:lang="en">Nevus</dc:title>
+<dc:type>Text</dc:type>
+<dc:language>spa</dc:language>
+<dc:language>eng</dc:language>
+<dc:title xml:lang="es">Lunares</dc:title>
+<dc:title xml:lang="en">Moles</dc:title>
+<dc:publisher>National Library of Medicine</dc:publisher>
+<dc:relation type="IsPartOf">Skin, Hair and Nails</dc:relation>
+<dc:date type="created">2008-03-05</dc:date>
+<dc:date type="modified">2017-07-07</dc:date>
+<dc:identifier type="URL" xml:lang="es">https://medlineplus.gov/spanish/moles.html</dc:identifier>
+<dc:identifier type="URL" xml:lang="en">https://medlineplus.gov/moles.html</dc:identifier>
+<dc:description xml:lang="es">Los lunares son crecimientos sobre la piel. Se producen cuando las células productoras de pigmento de la piel, llamadas melanocitos, crecen en grupos. Los lunares son muy comunes. La mayoría de las personas tiene entre 10 y 40 lunares. Una persona puede desarrollar nuevos lunares hasta los 40 años aproximadamente. Suelen ir desapareciendo a medida que envejecemos. Los lunares suelen ser rosados, morenos o marrones. Pueden ser planos o elevados. Generalmente son redondos u ovalados y no mayores que una goma de lápiz. Casi una de cada diez personas tiene por lo menos un lunar inusual (atípico) de aspecto distinto a los lunares comunes. Este se denomina nevo displásico. Estos lunares pueden tener más probabilidades de convertirse en melanoma, un tipo de cáncer de piel, que los lunares comunes. Usted debería consultar con un médico para que le revise cualquier lunar de aspecto irregular, de mayor crecimiento, que cambia de color o de forma o cualquier otro tipo de anormalidad. NIH: Instituto Nacional del Cáncer</dc:description>
+<dc:description xml:lang="en">Moles are growths on the skin. They happen when pigment cells in the skin, called melanocytes, grow in clusters. Moles are very common. Most people have between 10 and 40 moles. A person may develop new moles from time to time, usually until about age 40. In older people, they tend to fade away. Moles are usually pink, tan or brown. They can be flat or raised. They are usually round or oval and no larger than a pencil eraser. About one out of every ten people has at least one unusual (or atypical) mole that looks different from an ordinary mole. They are called dysplastic nevi. They may be more likely than ordinary moles to develop into melanoma, a type of skin cancer. You should have a health care professional check your moles if they look unusual, grow larger, change in color or outline, or in any other way. NIH: National Cancer Institute</dc:description>
+<dc:subject dcterms="mesh">Nevus</dc:subject>
+<dc:subject xml:lang="es">Lunares</dc:subject>
+<dc:subject xml:lang="es">Marcas de nacimiento</dc:subject>
+<dc:subject xml:lang="es">Nacimiento</dc:subject>
+<dc:subject xml:lang="es">Marcas de</dc:subject>
+<dc:subject xml:lang="en">Moles</dc:subject>
+<dc:subject xml:lang="en">Nevus</dc:subject>
+</metadata>
+</record>
+</MedlinePlus-document>

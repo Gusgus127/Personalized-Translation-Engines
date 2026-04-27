@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<MedlinePlus-document>
+<record>
+<header>
+<identifier>https://medlineplus.gov/ataxiatelangiectasia.html</identifier>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title type="alternate" xml:lang="es">Louis-Bar, Síndrome</dc:title>
+<dc:type>Text</dc:type>
+<dc:language>spa</dc:language>
+<dc:language>eng</dc:language>
+<dc:title xml:lang="es">Ataxia telangiectasia</dc:title>
+<dc:title xml:lang="en">Ataxia Telangiectasia</dc:title>
+<dc:publisher>National Library of Medicine</dc:publisher>
+<dc:relation type="IsPartOf">Genetics/Birth Defects</dc:relation>
+<dc:relation type="IsPartOf">Brain and Nerves</dc:relation>
+<dc:date type="created">2016-03-10</dc:date>
+<dc:date type="modified">2017-06-01</dc:date>
+<dc:identifier type="URL" xml:lang="es">https://medlineplus.gov/spanish/ataxiatelangiectasia.html</dc:identifier>
+<dc:identifier type="URL" xml:lang="en">https://medlineplus.gov/ataxiatelangiectasia.html</dc:identifier>
+<dc:description xml:lang="es">La ataxia telangiectasia (AT) es una enfermedad hereditaria poco frecuente. Afecta el sistema nervioso, el sistema inmunológico y otros sistemas del cuerpo. Los síntomas se presentan en niños pequeños, generalmente antes de los cinco años. Estos incluyen: Ataxia: dificultad para coordinar los movimientos Problemas con el equilibrio Dificultad para pronunciar las palabras Venas rojas diminutas, como arañas, denominadas telangiectasias, en la piel y los ojos Infecciones pulmonares Atraso en el desarrollo físico y sexual Las personas con AT tienen mayor riesgo de desarrollar diabetes y algunos cánceres, especialmente linfoma y leucemia. Aun cuando afecta el cerebro, los pacientes con esta enfermedad suelen tener una inteligencia normal o superior a la normal. La AT no tiene cura. Los tratamientos pueden mejorar algunos síntomas. Estos pueden ser inyecciones para fortalecer el sistema inmunológico, la terapia física y del habla y altas dosis de vitaminas. NIH: Instituto Nacional de Trastornos Neurológicos y Accidentes Cerebrovasculares</dc:description>
+<dc:description xml:lang="en">Ataxia-telangiectasia (A-T) is a rare, inherited disease. It affects the nervous system, immune system, and other body systems. Symptoms appear in young children, usually before age 5. They include Ataxia - trouble coordinating movements Poor balance Slurred speech Tiny, red spider veins, called telangiectasias, on the skin and eyes Lung infections Delayed physical and sexual development People with A-T have an increased risk of developing diabetes and cancers, especially lymphoma and leukemia. Although it affects the brain, people with A-T usually have normal or high intelligence. A-T has no cure. Treatments might improve some symptoms. They include injections to strengthen the immune system, physical and speech therapy, and high-dose vitamins. NIH: National Institute of Neurological Disorders and Stroke</dc:description>
+<dc:subject dcterms="mesh">Ataxia Telangiectasia</dc:subject>
+<dc:subject xml:lang="es">Ataxia telangiectasia</dc:subject>
+<dc:subject xml:lang="es">Louis-Bar</dc:subject>
+<dc:subject xml:lang="es">Síndrome</dc:subject>
+<dc:subject xml:lang="en">Ataxia Telangiectasia</dc:subject>
+</metadata>
+</record>
+</MedlinePlus-document>

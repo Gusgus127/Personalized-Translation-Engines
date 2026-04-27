@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<MedlinePlus-document>
+<record>
+<header>
+<identifier>https://medlineplus.gov/dystonia.html</identifier>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title type="alternate" xml:lang="es">Tortícolis</dc:title>
+<dc:title type="alternate" xml:lang="en">Spasmodic Torticollis</dc:title>
+<dc:title type="alternate" xml:lang="en">Torticollis</dc:title>
+<dc:type>Text</dc:type>
+<dc:language>spa</dc:language>
+<dc:language>eng</dc:language>
+<dc:title xml:lang="es">Distonía</dc:title>
+<dc:title xml:lang="en">Dystonia</dc:title>
+<dc:publisher>National Library of Medicine</dc:publisher>
+<dc:relation type="IsPartOf">Brain and Nerves</dc:relation>
+<dc:date type="created">2002-07-21</dc:date>
+<dc:date type="modified">2018-01-19</dc:date>
+<dc:identifier type="URL" xml:lang="es">https://medlineplus.gov/spanish/dystonia.html</dc:identifier>
+<dc:identifier type="URL" xml:lang="en">https://medlineplus.gov/dystonia.html</dc:identifier>
+<dc:description xml:lang="es">La distonía es un trastorno del movimiento que causa contracciones involuntarias de los músculos. Estas contracciones resultan en torsiones y movimientos repetitivos. Algunas veces son dolorosas. La distonía puede afectar solamente un músculo, un grupo de músculos o todos los músculos. Los síntomas pueden incluir temblores, problemas en la voz o arrastrar un pie. Los síntomas suelen comenzar en la infancia. También pueden comenzar al final de la adolescencia o en la edad adulta temprana. Algunos casos empeoran con el tiempo. Otros son leves. Algunas personas heredan esta condición. Otras, la desarrollan como consecuencia de otra enfermedad. Los investigadores consideran que la distonía proviene de un problema en la parte del cerebro que controla los mensajes relacionados con las contracciones musculares. No existe una cura. Pero los médicos usan medicinas, inyecciones de Botox, cirugía, terapia física y otros tratamientos para reducir o eliminar los espasmos musculares y el dolor. NIH: Instituto Nacional de Trastornos Neurológicos y Accidentes Cerebrovasculares</dc:description>
+<dc:description xml:lang="en">Dystonia is a movement disorder that causes involuntary contractions of your muscles. These contractions result in twisting and repetitive movements. Sometimes they are painful. Dystonia can affect just one muscle, a group of muscles or all of your muscles. Symptoms can include tremors, voice problems or a dragging foot. Symptoms often start in childhood. They can also start in the late teens or early adulthood. Some cases worsen over time. Others are mild. Some people inherit dystonia. Others have it because of another disease. Researchers think that dystonia may be due to a problem in the part of the brain that handles messages about muscle contractions. There is no cure. Doctors use medicines, Botox injections, surgery, physical therapy, and other treatments to reduce or eliminate muscle spasms and pain. NIH: National Institute of Neurological Disorders and Stroke</dc:description>
+<dc:subject dcterms="mesh">Dystonia</dc:subject>
+<dc:subject xml:lang="es">Distonía</dc:subject>
+<dc:subject xml:lang="es">Tortícolis</dc:subject>
+<dc:subject xml:lang="en">Dystonia</dc:subject>
+<dc:subject xml:lang="en">Spasmodic Torticollis</dc:subject>
+<dc:subject xml:lang="en">Torticollis</dc:subject>
+</metadata>
+</record>
+</MedlinePlus-document>

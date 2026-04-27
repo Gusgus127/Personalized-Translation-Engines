@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<MedlinePlus-document>
+<record>
+<header>
+<identifier>https://medlineplus.gov/walkingproblems.html</identifier>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title type="alternate" xml:lang="es">Caminar, Problemas para</dc:title>
+<dc:title type="alternate" xml:lang="en">Gait Abnormalities</dc:title>
+<dc:type>Text</dc:type>
+<dc:language>spa</dc:language>
+<dc:language>eng</dc:language>
+<dc:title xml:lang="es">Problemas para caminar</dc:title>
+<dc:title xml:lang="en">Walking Problems</dc:title>
+<dc:publisher>National Library of Medicine</dc:publisher>
+<dc:relation type="IsPartOf">Bones, Joints and Muscles</dc:relation>
+<dc:relation type="IsPartOf">Brain and Nerves</dc:relation>
+<dc:date type="created">2010-10-20</dc:date>
+<dc:date type="modified">2018-01-03</dc:date>
+<dc:identifier type="URL" xml:lang="es">https://medlineplus.gov/spanish/walkingproblems.html</dc:identifier>
+<dc:identifier type="URL" xml:lang="en">https://medlineplus.gov/walkingproblems.html</dc:identifier>
+<dc:description xml:lang="es">Las personas caminan miles de pasos al día. Caminamos para hacer nuestras actividades diarias, ir de un lado a otro y hacer ejercicio. Tener un problema para caminar puede hacer que la vida diaria sea más difícil. El patrón de cómo usted camina se llama marcha. Una variedad de problemas puede causar una alteración de la marcha y dar lugar a problemas para caminar. Estos incluyen: Lesiones, enfermedades o el desarrollo anormal de los músculos o los huesos de las piernas o los pies Trastornos del movimiento como la enfermedad de Parkinson Enfermedades como la artritis o la esclerosis múltiple Problemas de visión o de equilibrio El tratamiento de los problemas para caminar depende de su causa. La terapia física, cirugía o el uso de aparatos para caminar pueden ser de ayuda.</dc:description>
+<dc:description xml:lang="en">We walk thousands of steps each day. We walk to do our daily activities, get around, and exercise. Having a problem with walking can make daily life more difficult. The pattern of how you walk is called your gait. A variety of problems can cause an abnormal gait and lead to problems with walking. These include: Injuries, diseases, or abnormal development of the muscles or bones of your legs or feet Movement disorders such as Parkinson's disease Diseases such as arthritis or multiple sclerosis Vision or balance problems Treatment of walking problems depends on the cause. Physical therapy, surgery, or mobility aids may help.</dc:description>
+<dc:subject dcterms="mesh">Gait Disorders, Neurologic</dc:subject>
+<dc:subject dcterms="mesh">Gait Ataxia</dc:subject>
+<dc:subject dcterms="mesh">Gait Apraxia</dc:subject>
+<dc:subject xml:lang="es">Problemas para caminar</dc:subject>
+<dc:subject xml:lang="es">Caminar</dc:subject>
+<dc:subject xml:lang="es">Problemas para</dc:subject>
+<dc:subject xml:lang="en">Walking Problems</dc:subject>
+<dc:subject xml:lang="en">Gait Abnormalities</dc:subject>
+</metadata>
+</record>
+</MedlinePlus-document>

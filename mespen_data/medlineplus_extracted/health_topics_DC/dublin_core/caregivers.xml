@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<MedlinePlus-document>
+<record>
+<header>
+<identifier>https://medlineplus.gov/caregivers.html</identifier>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:type>Text</dc:type>
+<dc:language>spa</dc:language>
+<dc:language>eng</dc:language>
+<dc:title xml:lang="es">Proveedor de atención al paciente</dc:title>
+<dc:title xml:lang="en">Caregivers</dc:title>
+<dc:publisher>National Library of Medicine</dc:publisher>
+<dc:relation type="IsPartOf">Health System</dc:relation>
+<dc:relation type="IsPartOf">Social/Family Issues</dc:relation>
+<dc:date type="created">2002-07-21</dc:date>
+<dc:date type="modified">2017-11-07</dc:date>
+<dc:identifier type="URL" xml:lang="es">https://medlineplus.gov/spanish/caregivers.html</dc:identifier>
+<dc:identifier type="URL" xml:lang="en">https://medlineplus.gov/caregivers.html</dc:identifier>
+<dc:description xml:lang="es">Los proveedores de atención al paciente son personas que cuidan a otros adultos, en general a sus padres o cónyuges o a niños con necesidades médicas especiales. Algunos proveedores de atención son miembros de la familia; a otros se les pagan por sus servicios. Ayudan con: La compra y la preparación de los alimentos La limpieza de la casa El pago de las cuentas La administración de medicinas El uso del baño, la higiene y a vestirse La alimentación Brindan compañía y apoyo emocional Brindar atención a un paciente es difícil y los proveedores de atención a personas con enfermedades crónicas suelen sentirse estresados. Ellos están "de guardia" las 24 horas al día, 7 días a la semana. Si usted cuida de alguien con problemas mentales como la enfermedad de Alzheimer la situación puede ser especialmente difícil. Los grupos de apoyo pueden ayudar. Instituto Nacional sobre el Envejecimiento</dc:description>
+<dc:description xml:lang="en">Caregivers provide help to another person in need. The person receiving care may be an adult - often a parent or a spouse - or a child with special medical needs. Some caregivers are family members. Others are paid. They do many things: Shop for food and cook Clean the house Pay bills Give medicine Help the person go to the toilet, bathe and dress Help the person eat Provide company and emotional support Caregiving is hard, and caregivers of chronically ill people often feel stress. They are "on call" 24 hours a day, 7 days a week. If you're caring for someone with mental problems like Alzheimer's disease it can be especially difficult. Support groups can help. Dept. of Health and Human Services Office on Women's Health</dc:description>
+<dc:subject dcterms="mesh">Caregivers</dc:subject>
+<dc:subject xml:lang="es">Proveedor de atención al paciente</dc:subject>
+<dc:subject xml:lang="en">Caregivers</dc:subject>
+</metadata>
+</record>
+</MedlinePlus-document>

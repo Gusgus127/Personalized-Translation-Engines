@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<MedlinePlus-document>
+<record>
+<header>
+<identifier>https://medlineplus.gov/antidepressants.html</identifier>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title type="alternate" xml:lang="es">Inhibidores de serotonina y norepinefrina (SNRI)</dc:title>
+<dc:title type="alternate" xml:lang="es">Inhibidores selectivos de recaptación de serotonina (SSRI)</dc:title>
+<dc:title type="alternate" xml:lang="en">SSRIs</dc:title>
+<dc:title type="alternate" xml:lang="en">SNRI </dc:title>
+<dc:type>Text</dc:type>
+<dc:language>spa</dc:language>
+<dc:language>eng</dc:language>
+<dc:title xml:lang="es">Antidepresivos</dc:title>
+<dc:title xml:lang="en">Antidepressants</dc:title>
+<dc:publisher>National Library of Medicine</dc:publisher>
+<dc:relation type="IsPartOf">Mental Health and Behavior</dc:relation>
+<dc:relation type="IsPartOf">Drug Therapy</dc:relation>
+<dc:date type="created">2006-04-10</dc:date>
+<dc:date type="modified">2018-01-30</dc:date>
+<dc:identifier type="URL" xml:lang="es">https://medlineplus.gov/spanish/antidepressants.html</dc:identifier>
+<dc:identifier type="URL" xml:lang="en">https://medlineplus.gov/antidepressants.html</dc:identifier>
+<dc:description xml:lang="es">Los antidepresivos son medicinas que receta un médico para tratar la depresión. Estos medicamentos ayudan a mejorar la forma en que el cerebro utiliza ciertas sustancias químicas naturales. Pueden tardar varias semanas en hacer efecto. Existen muchos tipos de antidepresivos. A veces, es necesario probar más de uno hasta encontrar el que surta un mejor efecto. Estos medicamentos pueden causar algunos efectos secundarios menores que, en general, no duran mucho tiempo. Por ejemplo: dolor de cabeza, náuseas, problemas para dormir, inquietud y problemas sexuales. Infórmele al médico si tiene cualquier efecto secundario. También debe informarle al médico si toma otras medicinas, vitaminas o suplementos herbarios. Es importante que continúe tomando las medicinas, aunque se sienta mejor y no deje de tomarlas sin hablar con el médico. Generalmente, los antidepresivos deben interrumpirse gradualmente. NIH: Instituto Nacional de la Salud Mental</dc:description>
+<dc:description xml:lang="en">Antidepressants are medicines that treat depression. Your doctor can prescribe them for you. They work to balance some of the natural chemicals in our brains. It may take several weeks for them to help. There are several types of antidepressants. You and your doctor may have to try a few before finding what works best for you. Antidepressants may cause mild side effects that usually do not last long. These may include headache, nausea, sleep problems, restlessness, and sexual problems. Tell your doctor if you have any side effects. You should also let your doctor know if you take any other medicines, vitamins, or herbal supplements. It is important to keep taking your medicines, even if you feel better. Do not stop taking your medicines without talking to your doctor. You often need to stop antidepressants gradually. NIH: National Institute of Mental Health</dc:description>
+<dc:subject dcterms="mesh">Antidepressive Agents</dc:subject>
+<dc:subject xml:lang="es">Antidepresivos</dc:subject>
+<dc:subject xml:lang="es">Inhibidores de serotonina y norepinefrina (SNRI)</dc:subject>
+<dc:subject xml:lang="es">Inhibidores selectivos de recaptación de serotonina (SSRI)</dc:subject>
+<dc:subject xml:lang="en">Antidepressants</dc:subject>
+<dc:subject xml:lang="en">SSRIs</dc:subject>
+<dc:subject xml:lang="en">SNRI </dc:subject>
+</metadata>
+</record>
+</MedlinePlus-document>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<MedlinePlus-document>
+<record>
+<header>
+<identifier>https://medlineplus.gov/thymuscancer.html</identifier>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title type="alternate" xml:lang="es">Timo, Cáncer de</dc:title>
+<dc:type>Text</dc:type>
+<dc:language>spa</dc:language>
+<dc:language>eng</dc:language>
+<dc:title xml:lang="es">Cáncer de timo</dc:title>
+<dc:title xml:lang="en">Thymus Cancer</dc:title>
+<dc:publisher>National Library of Medicine</dc:publisher>
+<dc:relation type="IsPartOf">Cancers</dc:relation>
+<dc:relation type="IsPartOf">Endocrine System</dc:relation>
+<dc:relation type="IsPartOf">Immune System</dc:relation>
+<dc:date type="created">2002-07-21</dc:date>
+<dc:date type="modified">2016-11-03</dc:date>
+<dc:identifier type="URL" xml:lang="es">https://medlineplus.gov/spanish/thymuscancer.html</dc:identifier>
+<dc:identifier type="URL" xml:lang="en">https://medlineplus.gov/thymuscancer.html</dc:identifier>
+<dc:description xml:lang="es">El timo es un pequeño órgano ubicado en la parte superior del pecho, por debajo del esternón. Antes del nacimiento y en la infancia, el timo ayuda a producir un tipo de glóbulos blancos. Estas células ayudan a protegerlo contra las infecciones. El cáncer del timo es poco frecuente. Tiene más probabilidades de tener uno si tiene otras enfermedades como miastenia grave, lupus o artritis reumatoide. Algunas veces no presenta síntomas. Otras veces, el cáncer de timo puede causar: Tos persistente Dolor en el pecho Dificultades para respirar Los médicos utilizan un examen físico, pruebas de imagen y una biopsia para diagnosticar el cáncer de timo. El tratamiento más común es la cirugía para extirpar el tumor. Otras opciones incluyen la radioterapia, quimioterapia y terapia hormonal. NIH: Instituto Nacional del Cáncer</dc:description>
+<dc:description xml:lang="en">The thymus is a small organ in your upper chest, under your breastbone. Before birth and during childhood, the thymus helps the body make a type of white blood cell. These cells help protect you from infections. Cancer of the thymus is rare. You are more likely to get it if you have other diseases such as myasthenia gravis, lupus or rheumatoid arthritis. Sometimes there are no symptoms. Other times, thymus cancer can cause A cough that doesn't go away Chest pain Trouble breathing Doctors use a physical exam, imaging tests, and a biopsy to diagnose thymus cancer. The most common treatment is surgery to remove the tumor. Other options include radiation therapy, chemotherapy, and hormone therapy. NIH: National Cancer Institute</dc:description>
+<dc:subject dcterms="mesh">Thymus Neoplasms</dc:subject>
+<dc:subject xml:lang="es">Cáncer de timo</dc:subject>
+<dc:subject xml:lang="es">Timo</dc:subject>
+<dc:subject xml:lang="es">Cáncer de</dc:subject>
+<dc:subject xml:lang="en">Thymus Cancer</dc:subject>
+</metadata>
+</record>
+</MedlinePlus-document>

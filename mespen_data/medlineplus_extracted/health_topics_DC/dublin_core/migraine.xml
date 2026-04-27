@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<MedlinePlus-document>
+<record>
+<header>
+<identifier>https://medlineplus.gov/migraine.html</identifier>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:type>Text</dc:type>
+<dc:language>spa</dc:language>
+<dc:language>eng</dc:language>
+<dc:title xml:lang="es">Migraña</dc:title>
+<dc:title xml:lang="en">Migraine</dc:title>
+<dc:publisher>National Library of Medicine</dc:publisher>
+<dc:relation type="IsPartOf">Brain and Nerves</dc:relation>
+<dc:date type="created">2003-09-11</dc:date>
+<dc:date type="modified">2018-02-06</dc:date>
+<dc:identifier type="URL" xml:lang="es">https://medlineplus.gov/spanish/migraine.html</dc:identifier>
+<dc:identifier type="URL" xml:lang="en">https://medlineplus.gov/migraine.html</dc:identifier>
+<dc:description xml:lang="es">Si usted sufre de dolores de cabeza tipo migrañas, no esta solo. Cerca de un 12 por ciento de la población de los Estados Unidos también sufre esta condición. Las migrañas son ataques que van desde moderados a severos. Las personas que tienen migrañas con frecuencia suelen describir este dolor como pulsante o vibrante en un área de la cabeza. Durante los episodios de migraña, las personas se vuelven muy sensibles a la luz y al sonido. También pueden sentir nausea y vómitos. La migraña es tres veces más común en las mujeres que en los hombres. Algunas personas pueden sentir cuando van a tener migraña porque ven destellos luminosos o líneas en zigzag o pierden temporalmente la vista antes de la aparición del dolor. Muchas cosas pueden desencadenar una migraña. Entre ellas: Ansiedad Estrés Falta de alimentos o de sueño Exposición a la luz Cambios hormonales (en mujeres) Los médicos creían que las migrañas se relacionaban con la dilatación y el estrechamiento de los vasos sanguíneos de la cabeza. Ahora piensan que la causa se relaciona con los genes que controlan la actividad de algunas células cerebrales. Las medicinas pueden ayudarle a prevenir las crisis de migraña o a aliviar los síntomas cuando las crisis ya se han presentado. Para muchas personas, los tratamientos para aliviar el estrés también pueden ayudar. NIH: Instituto Nacional de Trastornos Neurológicos y Accidentes Cerebrovasculares</dc:description>
+<dc:description xml:lang="en">If you suffer from migraine headaches, you're not alone. About 12 percent of the U.S. population gets them. Migraines are recurring attacks of moderate to severe pain. The pain is throbbing or pulsing, and is often on one side of the head. During migraines, people are very sensitive to light and sound. They may also become nauseated and vomit. Migraine is three times more common in women than in men. Some people can tell when they are about to have a migraine because they see flashing lights or zigzag lines or they temporarily lose their vision. Many things can trigger a migraine. These include Anxiety Stress Lack of food or sleep Exposure to light Hormonal changes (in women) Doctors used to believe migraines were linked to the opening and narrowing of blood vessels in the head. Now they believe the cause is related to genes that control the activity of some brain cells. Medicines can help prevent migraine attacks or help relieve symptoms of attacks when they happen. For many people, treatments to relieve stress can also help. NIH: National Institute of Neurological Disorders and Stroke</dc:description>
+<dc:subject dcterms="mesh">Migraine Disorders</dc:subject>
+<dc:subject xml:lang="es">Migraña</dc:subject>
+<dc:subject xml:lang="en">Migraine</dc:subject>
+<dc:subject xml:lang="en">Vascular Headache</dc:subject>
+</metadata>
+</record>
+</MedlinePlus-document>

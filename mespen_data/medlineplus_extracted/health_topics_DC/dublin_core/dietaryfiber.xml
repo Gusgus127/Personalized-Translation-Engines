@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<MedlinePlus-document>
+<record>
+<header>
+<identifier>https://medlineplus.gov/dietaryfiber.html</identifier>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:type>Text</dc:type>
+<dc:language>spa</dc:language>
+<dc:language>eng</dc:language>
+<dc:title xml:lang="es">Fibra en la dieta</dc:title>
+<dc:title xml:lang="en">Dietary Fiber</dc:title>
+<dc:publisher>National Library of Medicine</dc:publisher>
+<dc:relation type="IsPartOf">Food and Nutrition</dc:relation>
+<dc:date type="created">2003-02-07</dc:date>
+<dc:date type="modified">2017-10-05</dc:date>
+<dc:identifier type="URL" xml:lang="es">https://medlineplus.gov/spanish/dietaryfiber.html</dc:identifier>
+<dc:identifier type="URL" xml:lang="en">https://medlineplus.gov/dietaryfiber.html</dc:identifier>
+<dc:description xml:lang="es">La fibra es una sustancia en las plantas. La fibra dietética es el tipo que se come. Es un tipo de carbohidrato. También puede verla listada en la etiqueta de los alimentos como fibra soluble o fibra insoluble. Ambos tipos ofrecen importantes beneficios a la salud. Buenas fuentes de fibra dietética incluyen: Los cereales integrales Nueces y semillas Frutas y hortalizas La fibra dietética agrega volumen a su dieta y hace que se sienta lleno más rápido, lo que ayuda a controlar su peso. Ayuda a la digestión y a prevenir el estreñimiento. La mayoría de los estadounidenses no comen suficiente fibra dietética. Pero añádala a su dieta lentamente. El aumento de fibra en la dieta demasiado rápido puede provocar gases, distensión y cólicos. Centros para el Control y Prevención de Enfermedades</dc:description>
+<dc:description xml:lang="en">Fiber is a substance in plants. Dietary fiber is the kind you eat. It's a type of carbohydrate. You may also see it listed on a food label as soluble fiber or insoluble fiber. Both types have important health benefits. Good sources of dietary fiber include Whole grains Nuts and seeds Fruit and vegetables Dietary fiber adds bulk to your diet and makes you feel full faster, helping you control your weight. It helps digestion and helps prevent constipation. Most Americans don't eat enough dietary fiber. But add it to your diet slowly. Increasing dietary fiber too quickly can lead to gas, bloating, and cramps. Centers for Disease Control and Prevention</dc:description>
+<dc:subject dcterms="mesh">Dietary Fiber</dc:subject>
+<dc:subject xml:lang="es">Fibra en la dieta</dc:subject>
+<dc:subject xml:lang="en">Dietary Fiber</dc:subject>
+<dc:subject xml:lang="en">Fiber</dc:subject>
+</metadata>
+</record>
+</MedlinePlus-document>

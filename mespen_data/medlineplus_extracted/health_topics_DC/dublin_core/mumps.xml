@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<MedlinePlus-document>
+<record>
+<header>
+<identifier>https://medlineplus.gov/mumps.html</identifier>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:type>Text</dc:type>
+<dc:language>spa</dc:language>
+<dc:language>eng</dc:language>
+<dc:title xml:lang="es">Paperas</dc:title>
+<dc:title xml:lang="en">Mumps</dc:title>
+<dc:publisher>National Library of Medicine</dc:publisher>
+<dc:relation type="IsPartOf">Children and Teenagers</dc:relation>
+<dc:relation type="IsPartOf">Infections</dc:relation>
+<dc:date type="created">2002-07-21</dc:date>
+<dc:date type="modified">2017-07-27</dc:date>
+<dc:identifier type="URL" xml:lang="es">https://medlineplus.gov/spanish/mumps.html</dc:identifier>
+<dc:identifier type="URL" xml:lang="en">https://medlineplus.gov/mumps.html</dc:identifier>
+<dc:description xml:lang="es">Las paperas son causadas por el virus de las paperas. La enfermedad comienza con estos síntomas: Fiebre Dolor de cabeza Dolores musculares Cansancio Pérdida del apetito Luego de la aparición de estos síntomas, las glándulas salivales bajo las orejas o mandíbula se inflaman. Esta inflamación puede ser en uno o en los dos lados de la cara. Los síntomas duran entre siete a 10 días. Las complicaciones serias son muy raras. Se puede adquirir paperas por estar con otra persona que tenga la enfermedad. No existe un tratamiento para las paperas, pero la vacuna contra las paperas, el sarampión y la rubéola (triple viral o MMR, por sus siglas en inglés) pueden prevenirla. Antes de los programas de vacunación en los Estados Unidos, las paperas era una enfermedad muy común entre recién nacidos, bebés y jóvenes. En la actualidad, esta enfermedad es muy poco frecuente. Centros para el Control y la Prevención de Enfermedades</dc:description>
+<dc:description xml:lang="en">Mumps is an illness caused by the mumps virus. It starts with Fever Headache Muscle aches Tiredness Loss of appetite After that, the salivary glands under the ears or jaw become swollen and tender. The swelling can be on one or both sides of the face. Symptoms last 7 to 10 days. Serious complications are rare. You can catch mumps by being with another person who has it. There is no treatment for mumps, but the measles-mumps-rubella (MMR) vaccine can prevent it. Before the routine vaccination program in the United States, mumps was a common illness in infants, children and young adults. Now it is a rare disease in the U.S. Centers for Disease Control and Prevention</dc:description>
+<dc:subject dcterms="mesh">Mumps</dc:subject>
+<dc:subject xml:lang="es">Paperas</dc:subject>
+<dc:subject xml:lang="en">Mumps</dc:subject>
+</metadata>
+</record>
+</MedlinePlus-document>

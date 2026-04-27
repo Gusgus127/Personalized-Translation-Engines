@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<MedlinePlus-document>
+<record>
+<header>
+<identifier>https://medlineplus.gov/highbloodpressure.html</identifier>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title type="alternate" xml:lang="es">Hipertensión</dc:title>
+<dc:title type="alternate" xml:lang="es">Alta presión</dc:title>
+<dc:title type="alternate" xml:lang="es">Presión sanguínea alta</dc:title>
+<dc:title type="alternate" xml:lang="es">Alta presión sanguínea</dc:title>
+<dc:title type="alternate" xml:lang="es">Tensión arterial alta</dc:title>
+<dc:title type="alternate" xml:lang="en">Hypertension</dc:title>
+<dc:title type="alternate" xml:lang="en">Blood Pressure</dc:title>
+<dc:type>Text</dc:type>
+<dc:language>spa</dc:language>
+<dc:language>eng</dc:language>
+<dc:title xml:lang="es">Presión arterial alta</dc:title>
+<dc:title xml:lang="en">High Blood Pressure</dc:title>
+<dc:publisher>National Library of Medicine</dc:publisher>
+<dc:relation type="IsPartOf">Blood, Heart and Circulation</dc:relation>
+<dc:relation type="IsPartOf">Seniors</dc:relation>
+<dc:date type="created">2002-07-21</dc:date>
+<dc:date type="modified">2018-02-12</dc:date>
+<dc:identifier type="URL" xml:lang="es">https://medlineplus.gov/spanish/highbloodpressure.html</dc:identifier>
+<dc:identifier type="URL" xml:lang="en">https://medlineplus.gov/highbloodpressure.html</dc:identifier>
+<dc:description xml:lang="es">La presión arterial es la fuerza que ejerce la sangre contra las paredes de las arterias. Cada vez que el corazón late, bombea sangre hacia las arterias, que es cuando su presión es más alta. A esto se le llama presión sistólica. Cuando su corazón está en reposo entre un latido y otro, la presión sanguínea disminuye. A esto se le llama la presión diastólica. En la lectura de la presión arterial se utilizan ambos números, la presión sistólica y diastólica. En general, la presión sistólica se menciona primero o encima de la diastólica. Una lectura con valores de: 119/79 o menos es considerada presión arterial normal 140/90 o más se considera hipertensión arterial Entre 120 y 139 para el número más elevado, o entre 80 y 89 para el número más bajo es prehipertensión. La prehipertensión significa que puede desarrollar presión arterial alta, a menos que tome medidas. La hipertensión arterial no suele tener síntomas, pero puede causar problemas serios como derrames cerebrales, insuficiencia cardiaca, infarto e insuficiencia renal. Usted mismo puede controlar la presión arterial mediante hábitos de vida saludables como hacer ejercicio y la dieta DASH y, de ser necesario, medicamentos. NIH: Instituto Nacional del Corazón, los Pulmones y la Sangre</dc:description>
+<dc:description xml:lang="en">Blood pressure is the force of your blood pushing against the walls of your arteries. Each time your heart beats, it pumps blood into the arteries. Your blood pressure is highest when your heart beats, pumping the blood. This is called systolic pressure. When your heart is at rest, between beats, your blood pressure falls. This is called diastolic pressure. Your blood pressure reading uses these two numbers. Usually the systolic number comes before or above the diastolic number. A reading of 119/79 or lower is normal blood pressure 140/90 or higher is high blood pressure Between 120 and 139 for the top number, or between 80 and 89 for the bottom number is called prehypertension. Prehypertension means you may end up with high blood pressure, unless you take steps to prevent it. High blood pressure usually has no symptoms, but it can cause serious problems such as stroke, heart failure, heart attack and kidney failure. You can control high blood pressure through healthy lifestyle habits such as exercise and the DASH diet and taking medicines, if needed. NIH: National Heart, Lung, and Blood Institute</dc:description>
+<dc:subject dcterms="mesh">Hypertension</dc:subject>
+<dc:subject dcterms="mesh">Prehypertension</dc:subject>
+<dc:subject xml:lang="es">Presión arterial alta</dc:subject>
+<dc:subject xml:lang="es">Hipertensión</dc:subject>
+<dc:subject xml:lang="es">Alta presión</dc:subject>
+<dc:subject xml:lang="es">Presión sanguínea alta</dc:subject>
+<dc:subject xml:lang="es">Alta presión sanguínea</dc:subject>
+<dc:subject xml:lang="es">Tensión arterial alta</dc:subject>
+<dc:subject xml:lang="en">High Blood Pressure</dc:subject>
+<dc:subject xml:lang="en">Hypertension</dc:subject>
+<dc:subject xml:lang="en">Blood Pressure</dc:subject>
+</metadata>
+</record>
+</MedlinePlus-document>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<MedlinePlus-document>
+<record>
+<header>
+<identifier>https://medlineplus.gov/thyroidtests.html</identifier>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title type="alternate" xml:lang="es">Tiroides, Diagnóstico</dc:title>
+<dc:title type="alternate" xml:lang="es">Tiroides, Exámenes</dc:title>
+<dc:type>Text</dc:type>
+<dc:language>spa</dc:language>
+<dc:language>eng</dc:language>
+<dc:title xml:lang="es">Pruebas y exámenes para la tiroides</dc:title>
+<dc:title xml:lang="en">Thyroid Tests</dc:title>
+<dc:publisher>National Library of Medicine</dc:publisher>
+<dc:relation type="IsPartOf">Endocrine System</dc:relation>
+<dc:relation type="IsPartOf">Diagnostic Tests</dc:relation>
+<dc:date type="created">2016-07-13</dc:date>
+<dc:date type="modified">2017-11-13</dc:date>
+<dc:identifier type="URL" xml:lang="es">https://medlineplus.gov/spanish/thyroidtests.html</dc:identifier>
+<dc:identifier type="URL" xml:lang="en">https://medlineplus.gov/thyroidtests.html</dc:identifier>
+<dc:description xml:lang="es">La tiroides es una glándula en forma de mariposa ubicada en el cuello, justo arriba de la clavícula. Es una de las glándulas endocrinas que producen hormonas. Las hormonas tiroideas controlan el ritmo de muchas actividades del cuerpo. Estas incluyen la velocidad con la que se queman calorías y cuán rápido late el corazón. Las pruebas de función tiroidea verifican cómo su tiroides está funcionando. También se usan para diagnosticar y ayudar a encontrar la causa de enfermedades de la tiroides, incluyendo el hipertiroidismo y el hipotiroidismo. Los exámenes de la tiroides incluyen análisis de sangre y pruebas de imagen. Los análisis de sangre para la tiroides incluyen: Hormona estimulante de la tiroides (TSH): Es la medida más precisa de la actividad de la tiroides T3 y T4: Miden diferentes hormonas de la tiroides TSI: Mide la inmunoglobulina estimulante de la tiroides Prueba de anticuerpos antitiroideos: Mide la cantidad de anticuerpos (indicadores en la sangre) Las pruebas de imagen incluyen tomografía computarizada, ultrasonido y pruebas de medicina nuclear. Un tipo de examen de medicina nuclear es la gammagrafía de la tiroides. Se usan pequeñas cantidades de material radiactivo para crear una imagen de la glándula tiroides, que muestra su tamaño, forma y posición. Puede ayudar a encontrar la causa de hipertiroidismo y comprobar si hay nódulos tiroideos (protuberancias en la tiroides). Otra prueba nuclear es la captación de yodo radiactivo o prueba de captación tiroidea. Comprueba cómo su tiroides está funcionando y puede ayudar a encontrar la causa de hipertiroidismo. NIH: Instituto Nacional de la Diabetes y las Enfermedades Digestivas y Renales</dc:description>
+<dc:description xml:lang="en">Your thyroid is a butterfly-shaped gland in your neck, just above your collarbone. It is one of your endocrine glands, which make hormones. Thyroid hormones control the rate of many activities in your body. They include how fast you burn calories and how fast your heart beats. Thyroid tests check how well your thyroid is working. They are also used to diagnose and help find the cause of thyroid diseases such as hyperthyroidism and hypothyroidism. Thyroid tests include blood tests and imaging tests. Blood tests for your thyroid include TSH - measures thyroid-stimulating hormone. It is the most accurate measure of thyroid activity. T3 and T4 - measure different thyroid hormones. TSI - measures thyroid-stimulating immunoglobulin. Antithyroid antibody test - measures antibodies (markers in the blood). Imaging tests include CT scans, ultrasound, and nuclear medicine tests. One type of nuclear medicine test is the thyroid scan. It uses small amounts of radioactive material to create a picture of the thyroid, showing its size, shape, and position. It can help find the cause of hyperthyroidism and check for thyroid nodules (lumps in the thyroid). Another nuclear test is the radioactive iodine uptake test, or thyroid uptake test. It checks how well your thyroid is working and can help find the cause of hyperthyroidism. NIH: National Institute of Diabetes and Digestive and Kidney Diseases</dc:description>
+<dc:subject dcterms="mesh">Thyroid Function Tests</dc:subject>
+<dc:subject xml:lang="es">Pruebas y exámenes para la tiroides</dc:subject>
+<dc:subject xml:lang="es">Tiroides</dc:subject>
+<dc:subject xml:lang="es">Diagnóstico</dc:subject>
+<dc:subject xml:lang="es">Tiroides</dc:subject>
+<dc:subject xml:lang="es">Exámenes</dc:subject>
+<dc:subject xml:lang="en">Thyroid Tests</dc:subject>
+</metadata>
+</record>
+</MedlinePlus-document>

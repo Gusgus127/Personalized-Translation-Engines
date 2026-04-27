@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<MedlinePlus-document>
+<record>
+<header>
+<identifier>https://medlineplus.gov/falls.html</identifier>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:type>Text</dc:type>
+<dc:language>spa</dc:language>
+<dc:language>eng</dc:language>
+<dc:title xml:lang="es">Caídas</dc:title>
+<dc:title xml:lang="en">Falls</dc:title>
+<dc:publisher>National Library of Medicine</dc:publisher>
+<dc:relation type="IsPartOf">Safety Issues</dc:relation>
+<dc:relation type="IsPartOf">Seniors</dc:relation>
+<dc:date type="created">2003-03-14</dc:date>
+<dc:date type="modified">2017-11-20</dc:date>
+<dc:identifier type="URL" xml:lang="es">https://medlineplus.gov/spanish/falls.html</dc:identifier>
+<dc:identifier type="URL" xml:lang="en">https://medlineplus.gov/falls.html</dc:identifier>
+<dc:description xml:lang="es">Las caídas pueden ser peligrosas a cualquier edad. Los bebés y los niños pequeños pueden lastimarse al caerse de los muebles o al bajar las escaleras. Los niños mayores pueden caerse de los juegos en el parque. Para las personas mayores, las caídas pueden ser especialmente graves y tienen un mayor riesgo de caerse. También es más probable que se quiebren un hueso al caerse, especialmente si tienen osteoporosis. Un hueso roto, sobre todo cuando es la cadera, puede incluso llevar a la discapacidad y la pérdida de independencia de los ancianos. Algunas causas comunes de caídas incluyen: Problemas de equilibrio Algunos medicamentos, que pueden hacer que se sienta mareado, confundido o lento Problemas de la vista Beber alcohol, lo que puede afectar su equilibrio y reflejos Debilidad muscular, especialmente en las piernas, que puede hacer que le resulte más difícil levantarse de una silla o mantener el equilibrio cuando camina sobre una superficie irregular Ciertas enfermedades, como presión arterial baja, diabetes y neuropatía Reflejos lentos, que hacen que sea difícil mantener el equilibrio o alejarse de algún peligro Tropezar o resbalar debido a la pérdida de equilibrio o tracción A cualquier edad, las personas pueden hacer cambios para reducir el riesgo de caídas. Es importante cuidar su salud, incluso hacerse exámenes de ojos regulares. Hacer ejercicio puede disminuir su riesgo de caídas al fortalecer sus músculos, mejorar su equilibrio y mantener sus huesos fuertes. Y puede buscar formas de hacer que su casa sea más segura. Por ejemplo, puede eliminar cosas que pueden hacerle tropezar y colocar barandas en las escaleras y en el baño. Para reducir las posibilidades de quebrarse un hueso si se cae, asegúrese de tomar suficiente calcio y vitamina D. NIH: Instituto Nacional sobre el Envejecimiento</dc:description>
+<dc:description xml:lang="en">Falls can be dangerous at any age. Babies and young children can get hurt falling off furniture or down the stairs. Older children may fall off playground equipment. For elderly people, falls can be especially serious. They are at higher risk of falling. They are also more likely to break a bone when they fall, especially if they have osteoporosis. A broken bone, especially when it is a hip, may even lead to disability and a loss of independence for the elderly. Some common causes of falls include Balance problems Some medicines, which can make you feel dizzy, confused, or slow Vision problems Alcohol, which can affect your balance and reflexes Muscle weakness, especially in your legs, which can make it harder for you to get up from a chair or keep your balance when walking on an uneven surface. Certain illnesses, such as low blood pressure, diabetes, and neuropathy Slow reflexes, which make it hard to keep your balance or move out of the way of a hazard Tripping or slipping due to loss of footing or traction At any age, people can make changes to lower their risk of falling. It important to take care of your health, including getting regular eye exams. Regular exercise may lower your risk of falls by strengthening your muscles, improving your balance, and keeping your bones strong. And you can look for ways to make your house safer. For example, you can get rid of tripping hazards and make sure that you have rails on the stairs and in the bath. To reduce the chances of breaking a bone if you do fall, make sure that you get enough calcium and vitamin D. NIH: National Institute on Aging</dc:description>
+<dc:subject dcterms="mesh">Accidental Falls</dc:subject>
+<dc:subject xml:lang="es">Caídas</dc:subject>
+<dc:subject xml:lang="en">Falls</dc:subject>
+<dc:subject xml:lang="en">Accidents</dc:subject>
+</metadata>
+</record>
+</MedlinePlus-document>

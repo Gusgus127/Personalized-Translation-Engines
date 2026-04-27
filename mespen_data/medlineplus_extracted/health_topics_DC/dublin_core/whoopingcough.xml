@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<MedlinePlus-document>
+<record>
+<header>
+<identifier>https://medlineplus.gov/whoopingcough.html</identifier>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title type="alternate" xml:lang="es">Pertussis</dc:title>
+<dc:title type="alternate" xml:lang="es">Tos convulsa</dc:title>
+<dc:title type="alternate" xml:lang="en">Pertussis</dc:title>
+<dc:type>Text</dc:type>
+<dc:language>spa</dc:language>
+<dc:language>eng</dc:language>
+<dc:title xml:lang="es">Tosferina</dc:title>
+<dc:title xml:lang="en">Whooping Cough</dc:title>
+<dc:publisher>National Library of Medicine</dc:publisher>
+<dc:relation type="IsPartOf">Children and Teenagers</dc:relation>
+<dc:relation type="IsPartOf">Lungs and Breathing</dc:relation>
+<dc:relation type="IsPartOf">Infections</dc:relation>
+<dc:date type="created">2002-07-21</dc:date>
+<dc:date type="modified">2017-08-04</dc:date>
+<dc:identifier type="URL" xml:lang="es">https://medlineplus.gov/spanish/whoopingcough.html</dc:identifier>
+<dc:identifier type="URL" xml:lang="en">https://medlineplus.gov/whoopingcough.html</dc:identifier>
+<dc:description xml:lang="es">La tos ferina es una enfermedad infecciosa bacteriana que causa una tos incontrolable. El nombre proviene del ruido parecido a un ruido feroz que se produce al respirar después de toser. Es posible tener episodios de tos o toser tan fuerte que el esfuerzo lo haga vomitar. Cualquiera puede tener tos ferina, pero es más común entre los niños y los recién nacidos en quienes es más peligrosa. Las crisis de tos pueden ser tan severas que puede ser difícil para los bebés comer, beber o respirar. Para diagnosticarla, el médico puede hacer un examen físico, análisis de sangre, rayos X del pecho o cultivos de secreciones nasales o de garganta. Antes de que existiera una vacuna, la tos ferina era una de las enfermedades más comunes en la infancia y una causa importante de muerte infantil en los Estados Unidos. Actualmente, muchos casos pueden prevenirse con vacunas. Si alguien tiene tos ferina, el tratamiento temprano con antibióticos puede ayudar. Centros para el Control y la Prevención de Enfermedades</dc:description>
+<dc:description xml:lang="en">Whooping cough is an infectious bacterial disease that causes uncontrollable coughing. The name comes from the noise you make when you take a breath after you cough. You may have choking spells or may cough so hard that you vomit. Anyone can get whooping cough, but it is more common in infants and children. It's especially dangerous for infants. The coughing spells can be so bad that it is hard for infants to eat, drink, or breathe. To make a diagnosis, your doctor may do a physical exam, blood tests, chest x-rays, or nose or throat cultures. Before there was a vaccine, whooping cough was one of the most common childhood diseases and a major cause of childhood deaths in the U.S. Now most cases are prevented by vaccines. If you have whooping cough, treatment with antibiotics may help if given early. Centers for Disease Control and Prevention</dc:description>
+<dc:subject dcterms="mesh">Whooping Cough</dc:subject>
+<dc:subject xml:lang="es">Tosferina</dc:subject>
+<dc:subject xml:lang="es">Pertussis</dc:subject>
+<dc:subject xml:lang="es">Tos convulsa</dc:subject>
+<dc:subject xml:lang="en">Whooping Cough</dc:subject>
+<dc:subject xml:lang="en">Pertussis</dc:subject>
+</metadata>
+</record>
+</MedlinePlus-document>

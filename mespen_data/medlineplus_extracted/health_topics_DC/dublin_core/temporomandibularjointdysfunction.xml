@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<MedlinePlus-document>
+<record>
+<header>
+<identifier>https://medlineplus.gov/temporomandibularjointdysfunction.html</identifier>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title type="alternate" xml:lang="es">ATM</dc:title>
+<dc:title type="alternate" xml:lang="es">Articulación temporomandibular, Trastorno</dc:title>
+<dc:title type="alternate" xml:lang="es">Disfunción de la articulación temporomandibular</dc:title>
+<dc:title type="alternate" xml:lang="en">TMJ</dc:title>
+<dc:title type="alternate" xml:lang="en">TMD</dc:title>
+<dc:type>Text</dc:type>
+<dc:language>spa</dc:language>
+<dc:language>eng</dc:language>
+<dc:title xml:lang="es">Trastorno de la articulación temporomandibular</dc:title>
+<dc:title xml:lang="en">Temporomandibular Joint Dysfunction</dc:title>
+<dc:publisher>National Library of Medicine</dc:publisher>
+<dc:relation type="IsPartOf">Mouth and Teeth</dc:relation>
+<dc:date type="created">2003-03-14</dc:date>
+<dc:date type="modified">2017-08-24</dc:date>
+<dc:identifier type="URL" xml:lang="es">https://medlineplus.gov/spanish/temporomandibularjointdysfunction.html</dc:identifier>
+<dc:identifier type="URL" xml:lang="en">https://medlineplus.gov/temporomandibularjointdysfunction.html</dc:identifier>
+<dc:description xml:lang="es">La articulación temporomandibular conecta la mandíbula con la parte lateral de la cabeza. Cuando funciona adecuadamente, le permite hablar, masticar y bostezar. En las personas con disfunción temporomandibular, los problemas en la articulación y los músculos que la rodean pueden causarles: Dolor que se disemina hacia la cara, la mandíbula o el cuello Rigidez en los músculos mandibulares Limitación del movimiento o bloqueo de la mandíbula Chasquidos dolorosos al mover la mandíbula Cambios en la alineación de los dientes superiores e inferiores El dolor en la mandíbula puede desaparecer con poco o ningún tratamiento. El tratamiento puede incluir cosas simples que puede hacer por sí mismo, como ingerir alimentos blandos o aplicarse hielo. También puede incluir analgésicos o dispositivos para colocarse en su boca. En muy raras ocasiones, es posible que se requiera cirugía. NIH: Instituto Nacional de Investigación Dental y Craneofacial</dc:description>
+<dc:description xml:lang="en">The temporomandibular joint (TMJ) connects your jaw to the side of your head. When it works well, it enables you to talk, chew, and yawn. For people with TMJ dysfunction, problems with the joint and muscles around it may cause Pain that travels through the face, jaw, or neck Stiff jaw muscles Limited movement or locking of the jaw Painful clicking or popping in the jaw A change in the way the upper and lower teeth fit together Jaw pain may go away with little or no treatment. Treatment may include simple things you can do yourself, such as eating soft foods or applying ice packs. It may also include pain medicines or devices to insert in your mouth. In very rare cases, you might need surgery. NIH: National Institute of Dental and Craniofacial Research</dc:description>
+<dc:subject dcterms="mesh">Temporomandibular Joint Disorders</dc:subject>
+<dc:subject xml:lang="es">Trastorno de la articulación temporomandibular</dc:subject>
+<dc:subject xml:lang="es">ATM</dc:subject>
+<dc:subject xml:lang="es">Articulación temporomandibular</dc:subject>
+<dc:subject xml:lang="es">Trastorno</dc:subject>
+<dc:subject xml:lang="es">Disfunción de la articulación temporomandibular</dc:subject>
+<dc:subject xml:lang="en">Temporomandibular Joint Dysfunction</dc:subject>
+<dc:subject xml:lang="en">TMJ</dc:subject>
+<dc:subject xml:lang="en">TMD</dc:subject>
+</metadata>
+</record>
+</MedlinePlus-document>

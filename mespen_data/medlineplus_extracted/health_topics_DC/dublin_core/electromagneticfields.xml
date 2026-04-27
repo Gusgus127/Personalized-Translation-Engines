@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<MedlinePlus-document>
+<record>
+<header>
+<identifier>https://medlineplus.gov/electromagneticfields.html</identifier>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title type="alternate" xml:lang="es">Teléfonos celulares</dc:title>
+<dc:title type="alternate" xml:lang="en">EMF</dc:title>
+<dc:title type="alternate" xml:lang="en">Cell Phones</dc:title>
+<dc:type>Text</dc:type>
+<dc:language>spa</dc:language>
+<dc:language>eng</dc:language>
+<dc:title xml:lang="es">Campos electromagnéticos</dc:title>
+<dc:title xml:lang="en">Electromagnetic Fields</dc:title>
+<dc:publisher>National Library of Medicine</dc:publisher>
+<dc:relation type="IsPartOf">Poisoning, Toxicology, Environmental Health</dc:relation>
+<dc:date type="created">2002-07-21</dc:date>
+<dc:date type="modified">2018-01-23</dc:date>
+<dc:identifier type="URL" xml:lang="es">https://medlineplus.gov/spanish/electromagneticfields.html</dc:identifier>
+<dc:identifier type="URL" xml:lang="en">https://medlineplus.gov/electromagneticfields.html</dc:identifier>
+<dc:description xml:lang="es">Los campos eléctricos y magnéticos son áreas de energía alrededor de dispositivos eléctricos. Fuentes diarias de estos campos incluyen: Líneas eléctricas Cableado eléctrico Hornos microondas Computadores Teléfonos celulares Algunas personas se preocupan por la exposición a campos electromagnéticos y el cáncer. Algunos estudios han encontrado una relación entre la exposición a los campos y un mayor riesgo de leucemia infantil, pero otros estudios no establecen relación. Otras investigaciones no han encontrado evidencias de que la exposición a campos electromagnéticos provoque otros cánceres infantiles. Estudios en adultos no han demostrado que la exposición causa cáncer. También causa preocupación en algunos que los teléfonos inalámbricos y celulares causen cáncer u otros problemas de salud. Los teléfonos emiten energía de radiofrecuencia, una forma de radiación electromagnética. Hasta ahora, no se ha encontrado evidencia científica que pruebe una relación entre uso de celulares y problemas de salud en humanos. Sin embargo, los científicos necesitan hacer más investigaciones antes de poder dar una respuesta categórica. NIH: Instituto Nacional de las Ciencias de Salud Ambiental</dc:description>
+<dc:description xml:lang="en">Electric and magnetic fields (EMFs) are areas of energy that surround electrical devices. Everyday sources of EMFs include Power lines Electrical wiring Microwave ovens Computers Cell phones Some people worry about EMF exposure and cancer. Some studies have found a link between EMF exposure and a higher risk of childhood leukemia, but other studies have not. Other studies have not found proof that EMF exposure causes other childhood cancers. Studies in adults did not prove that EMF exposure causes cancer. Some people worry that wireless and cellular phones cause cancer or other health problems. The phones do give off radio-frequency energy (RF), a form of electromagnetic radiation. So far, scientific evidence has not found a link between cell phone use and health problems in humans. However, scientists need to do more research on this before they can say for sure. NIH: National Institute of Environmental Health Sciences</dc:description>
+<dc:subject dcterms="mesh">Electromagnetic Fields</dc:subject>
+<dc:subject xml:lang="es">Campos electromagnéticos</dc:subject>
+<dc:subject xml:lang="es">Teléfonos celulares</dc:subject>
+<dc:subject xml:lang="en">Electromagnetic Fields</dc:subject>
+<dc:subject xml:lang="en">EMF</dc:subject>
+<dc:subject xml:lang="en">Cell Phones</dc:subject>
+</metadata>
+</record>
+</MedlinePlus-document>

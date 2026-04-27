@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<MedlinePlus-document>
+<record>
+<header>
+<identifier>https://medlineplus.gov/clostridiumdifficileinfections.html</identifier>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:type>Text</dc:type>
+<dc:language>spa</dc:language>
+<dc:language>eng</dc:language>
+<dc:title xml:lang="es">Infecciones por Clostridium difficile</dc:title>
+<dc:title xml:lang="en">Clostridium Difficile Infections</dc:title>
+<dc:publisher>National Library of Medicine</dc:publisher>
+<dc:relation type="IsPartOf">Digestive System</dc:relation>
+<dc:relation type="IsPartOf">Infections</dc:relation>
+<dc:date type="created">2012-01-24</dc:date>
+<dc:date type="modified">2017-10-05</dc:date>
+<dc:identifier type="URL" xml:lang="es">https://medlineplus.gov/spanish/clostridiumdifficileinfections.html</dc:identifier>
+<dc:identifier type="URL" xml:lang="en">https://medlineplus.gov/clostridiumdifficileinfections.html</dc:identifier>
+<dc:description xml:lang="es">Clostridium difficile (C. difficile) es una bacteria que causa diarrea y condiciones intestinales más graves, como la colitis. Los síntomas incluyen: Diarrea acuosa (al menos tres deposiciones diarias por dos o más días) Fiebre Pérdida del apetito Náuseas Dolor o molestia abdominal El Clostridium difficile es más común en personas que tienen que tomar antibióticos por un largo periodo de tiempo. Los adultos mayores también tienen un mayor riesgo de presentarla. La infección se disemina con frecuencia dentro del hospital y residencias de adultos mayores. Las pruebas de heces pueden diagnosticar C. difficile. En ocasiones, también puede necesitar pruebas de imagen para ver si presenta complicaciones. Ciertos antibióticos pueden tratar la infección. Rara vez ocurren casos graves que necesitan cirugía. Centros para el Control y la Prevención de Enfermedades</dc:description>
+<dc:description xml:lang="en">Clostridium difficile (C. difficile) is a bacterium that causes diarrhea and more serious intestinal conditions such as colitis. Symptoms include Watery diarrhea (at least three bowel movements per day for two or more days) Fever Loss of appetite Nausea Abdominal pain or tenderness C. difficile is more common in people who need to take antibiotics for a long period of time.The elderly also have a higher risk of getting it. The infection can spread in hospitals and nursing homes. Tests of your stool can diagnose C. difficile. Sometimes you might also need imaging tests, to check for complications. Certain antibiotics can treat it. Rarely, there are severe cases that need surgery. Centers for Disease Control and Prevention</dc:description>
+<dc:subject dcterms="mesh">Enterocolitis, Pseudomembranous</dc:subject>
+<dc:subject dcterms="mesh">Clostridium difficile</dc:subject>
+<dc:subject xml:lang="es">Infecciones por Clostridium difficile</dc:subject>
+<dc:subject xml:lang="en">Clostridium Difficile Infections</dc:subject>
+<dc:subject xml:lang="en">C. diff. Infections</dc:subject>
+</metadata>
+</record>
+</MedlinePlus-document>

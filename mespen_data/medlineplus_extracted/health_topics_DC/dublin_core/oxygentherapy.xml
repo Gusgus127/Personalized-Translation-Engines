@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<MedlinePlus-document>
+<record>
+<header>
+<identifier>https://medlineplus.gov/oxygentherapy.html</identifier>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title type="alternate" xml:lang="es">Oxígeno, Terapia</dc:title>
+<dc:title type="alternate" xml:lang="en">Hyperbaric Oxygen</dc:title>
+<dc:type>Text</dc:type>
+<dc:language>spa</dc:language>
+<dc:language>eng</dc:language>
+<dc:title xml:lang="es">Terapia con oxígeno</dc:title>
+<dc:title xml:lang="en">Oxygen Therapy</dc:title>
+<dc:publisher>National Library of Medicine</dc:publisher>
+<dc:relation type="IsPartOf">Surgery and Rehabilitation</dc:relation>
+<dc:relation type="IsPartOf">Lungs and Breathing</dc:relation>
+<dc:date type="created">2011-02-16</dc:date>
+<dc:date type="modified">2018-01-29</dc:date>
+<dc:identifier type="URL" xml:lang="es">https://medlineplus.gov/spanish/oxygentherapy.html</dc:identifier>
+<dc:identifier type="URL" xml:lang="en">https://medlineplus.gov/oxygentherapy.html</dc:identifier>
+<dc:description xml:lang="es">La terapia con oxígeno es un tratamiento que le proporciona oxígeno adicional. El oxígeno es un gas que su cuerpo necesita para funcionar. Normalmente, los pulmones absorben el oxígeno del aire que respira. Sin embargo, algunas condiciones pueden evitar que usted obtenga suficiente oxígeno. Usted puede necesitar oxígeno si tiene: Enfermedad pulmonar obstructiva crónica (EPOC) Neumonía Un ataque grave de asma Insuficiencia cardíaca en etapa avanzada Fibrosis quística Apnea del sueño El oxígeno se entrega a través de cánulas nasales, una máscara o un tubo de respiración. Si usted tiene un problema crónico, puede que tenga un tanque de oxígeno portátil o una máquina en su casa. La oxigenoterapia hiperbárica es otro tipo de terapia con oxígeno. Esta utiliza oxígeno a alta presión para tratar heridas e infecciones serias. NIH: Instituto Nacional del Corazón, los Pulmones y la Sangre</dc:description>
+<dc:description xml:lang="en">Oxygen therapy is a treatment that provides you with extra oxygen. Oxygen is a gas that your body needs to function. Normally, your lungs absorb oxygen from the air you breathe. But some conditions can prevent you from getting enough oxygen. You may need oxygen if you have COPD (chronic obstructive pulmonary disease) Pneumonia A severe asthma attack Late-stage heart failure Cystic fibrosis Sleep apnea The oxygen comes through nasal prongs, a mask, or a breathing tube. If you have a chronic problem, you may have a portable oxygen tank or a machine in your home. A different kind of oxygen therapy is called hyperbaric oxygen therapy. It uses oxygen at high pressure to treat wounds and serious infections. NIH: National Heart, Lung, and Blood Institute</dc:description>
+<dc:subject dcterms="mesh">Oxygen Inhalation Therapy</dc:subject>
+<dc:subject xml:lang="es">Terapia con oxígeno</dc:subject>
+<dc:subject xml:lang="es">Oxígeno</dc:subject>
+<dc:subject xml:lang="es">Terapia</dc:subject>
+<dc:subject xml:lang="en">Oxygen Therapy</dc:subject>
+<dc:subject xml:lang="en">Hyperbaric Oxygen</dc:subject>
+</metadata>
+</record>
+</MedlinePlus-document>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<MedlinePlus-document>
+<record>
+<header>
+<identifier>https://medlineplus.gov/chestpain.html</identifier>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:type>Text</dc:type>
+<dc:language>spa</dc:language>
+<dc:language>eng</dc:language>
+<dc:title xml:lang="es">Dolor de pecho</dc:title>
+<dc:title xml:lang="en">Chest Pain</dc:title>
+<dc:publisher>National Library of Medicine</dc:publisher>
+<dc:relation type="IsPartOf">Symptoms</dc:relation>
+<dc:relation type="IsPartOf">Blood, Heart and Circulation</dc:relation>
+<dc:date type="created">2010-04-26</dc:date>
+<dc:date type="modified">2018-01-03</dc:date>
+<dc:identifier type="URL" xml:lang="es">https://medlineplus.gov/spanish/chestpain.html</dc:identifier>
+<dc:identifier type="URL" xml:lang="en">https://medlineplus.gov/chestpain.html</dc:identifier>
+<dc:description xml:lang="es">Tener dolor en el pecho puede asustarlo. Pero no significa que usted esté sufriendo un ataque al corazón. Hay muchas otras razones: Otros problemas del corazón como la angina Ataques de pánico Problemas digestivos como acidez o enfermedades del esófago Músculos adoloridos Enfermedades de los pulmones, como neumonía, pleuresía o embolismo pulmonar Costocondritis: una inflamación de las articulaciones del pecho Algunos de estos problemas pueden ser serios. Solicite atención médica urgente si el dolor de pecho no se va, si siente presión o compresión o si el dolor de pecho viene acompañado de náusea, sudor, mareo o falta de aire. El tratamiento del dolor de pecho dependerá de la causa del dolor.</dc:description>
+<dc:description xml:lang="en">Having a pain in your chest can be scary. It does not always mean that you are having a heart attack. There can be many other causes, including Other heart problems, such as angina Panic attacks Digestive problems, such as heartburn or esophagus disorders Sore muscles Lung diseases, such as pneumonia, pleurisy, or pulmonary embolism Costochondritis - an inflammation of joints in your chest Some of these problems can be serious. Get immediate medical care if you have chest pain that does not go away, crushing pain or pressure in the chest, or chest pain along with nausea, sweating, dizziness or shortness of breath. Treatment depends on the cause of the pain.</dc:description>
+<dc:subject dcterms="mesh">Chest Pain</dc:subject>
+<dc:subject xml:lang="es">Dolor de pecho</dc:subject>
+<dc:subject xml:lang="en">Chest Pain</dc:subject>
+<dc:subject xml:lang="en">Pain</dc:subject>
+<dc:subject xml:lang="en">Chest</dc:subject>
+</metadata>
+</record>
+</MedlinePlus-document>

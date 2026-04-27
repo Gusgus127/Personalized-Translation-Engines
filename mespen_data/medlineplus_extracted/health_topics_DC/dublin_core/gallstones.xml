@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<MedlinePlus-document>
+<record>
+<header>
+<identifier>https://medlineplus.gov/gallstones.html</identifier>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title type="alternate" xml:lang="es">Biliares, Cálculos</dc:title>
+<dc:title type="alternate" xml:lang="en">Cholelithiasis</dc:title>
+<dc:title type="alternate" xml:lang="en">Choledocholithiasis</dc:title>
+<dc:type>Text</dc:type>
+<dc:language>spa</dc:language>
+<dc:language>eng</dc:language>
+<dc:title xml:lang="es">Cálculos biliares</dc:title>
+<dc:title xml:lang="en">Gallstones</dc:title>
+<dc:publisher>National Library of Medicine</dc:publisher>
+<dc:relation type="IsPartOf">Digestive System</dc:relation>
+<dc:date type="created">2008-12-15</dc:date>
+<dc:date type="modified">2017-12-07</dc:date>
+<dc:identifier type="URL" xml:lang="es">https://medlineplus.gov/spanish/gallstones.html</dc:identifier>
+<dc:identifier type="URL" xml:lang="en">https://medlineplus.gov/gallstones.html</dc:identifier>
+<dc:description xml:lang="es">La vesícula biliar es un órgano con forma de pera ubicada bajo el hígado. Almacena bilis, un líquido producido por el hígado para digerir las grasas. Cuando el estómago y el intestino digieren los alimentos, la vesícula biliar libera bilis a través de un tubo denominado conducto biliar común. Ese conducto conecta a la vesícula biliar y el hígado con el intestino delgado. Es más probable que la vesícula cause problemas si algo obstruye el flujo de bilis por los conductos biliares. La causa suele ser por cálculos biliares. Los cálculos se forman cuando hay sustancias en la bilis que se endurecen. Las crisis por cálculos suelen presentarse después de las comidas. Los signos de una crisis por cálculos incluyen nauseas, vómitos o dolor en el abdomen, la espalda o debajo del brazo derecho. Los cálculos biliares son más comunes entre los adultos mayores, las mujeres, las personas con sobrepeso, los indígenas estadounidenses y los mexicano-estadounidenses. El tratamiento más común es la extracción de la vesícula biliar. Afortunadamente, la vesícula biliar no es un órgano imprescindible para la vida. La bilis tiene otras vías para llegar al intestino delgado. NIH: Instituto Nacional de la Diabetes y las Enfermedades Digestivas y Renales</dc:description>
+<dc:description xml:lang="en">Your gallbladder is a pear-shaped organ under your liver. It stores bile, a fluid made by your liver to digest fat. As your stomach and intestines digest food, your gallbladder releases bile through a tube called the common bile duct. The duct connects your gallbladder and liver to your small intestine. Your gallbladder is most likely to give you trouble if something blocks the flow of bile through the bile ducts. That is usually a gallstone. Gallstones form when substances in bile harden. Gallstone attacks usually happen after you eat. Signs of a gallstone attack may include nausea, vomiting, or pain in the abdomen, back, or just under the right arm. Gallstones are most common among older adults, women, overweight people, Native Americans and Mexican Americans. Gallstones are often found during imaging tests for other health conditions. If you do not have symptoms, you usually do not need treatment. The most common treatment is removal of the gallbladder. Fortunately, you can live without a gallbladder. Bile has other ways to reach your small intestine. NIH: National Institute of Diabetes and Digestive and Kidney Diseases</dc:description>
+<dc:subject dcterms="mesh">Cholelithiasis</dc:subject>
+<dc:subject xml:lang="es">Cálculos biliares</dc:subject>
+<dc:subject xml:lang="es">Biliares</dc:subject>
+<dc:subject xml:lang="es">Cálculos</dc:subject>
+<dc:subject xml:lang="en">Gallstones</dc:subject>
+<dc:subject xml:lang="en">Cholelithiasis</dc:subject>
+<dc:subject xml:lang="en">Choledocholithiasis</dc:subject>
+</metadata>
+</record>
+</MedlinePlus-document>

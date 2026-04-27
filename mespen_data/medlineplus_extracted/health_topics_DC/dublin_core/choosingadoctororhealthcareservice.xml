@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<MedlinePlus-document>
+<record>
+<header>
+<identifier>https://medlineplus.gov/choosingadoctororhealthcareservice.html</identifier>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title type="alternate" xml:lang="es">Doctor, Elección</dc:title>
+<dc:title type="alternate" xml:lang="es">Médico, Elección</dc:title>
+<dc:type>Text</dc:type>
+<dc:language>spa</dc:language>
+<dc:language>eng</dc:language>
+<dc:title xml:lang="es">Elección de un doctor o plan médico</dc:title>
+<dc:title xml:lang="en">Choosing a Doctor or Health Care Service</dc:title>
+<dc:publisher>National Library of Medicine</dc:publisher>
+<dc:relation type="IsPartOf">Personal Health Issues</dc:relation>
+<dc:relation type="IsPartOf">Health System</dc:relation>
+<dc:date type="created">2002-07-21</dc:date>
+<dc:date type="modified">2017-12-15</dc:date>
+<dc:identifier type="URL" xml:lang="es">https://medlineplus.gov/spanish/choosingadoctororhealthcareservice.html</dc:identifier>
+<dc:identifier type="URL" xml:lang="en">https://medlineplus.gov/choosingadoctororhealthcareservice.html</dc:identifier>
+<dc:description xml:lang="es">Todos queremos recibir un servicio para el cuidado de la salud que sea de alta calidad, pero es difícil saber cómo elegir el plan de atención médica. Existen muchas cosas en las que deberá pensar, entre ellas: La cobertura del seguro Si el profesional y el plan de atención médica están acreditados La ubicación del servicio El horario en el que el servicio se encuentra disponible Si le agrada la personalidad del profesional de la atención médica En esta página, encontrará información que lo ayudará a elegir un profesional o un plan de atención médica.</dc:description>
+<dc:description xml:lang="en">We all want high-quality health care, but it's hard to know how to choose. There are many things to consider, including What your insurance covers Whether a health care provider or service is accredited The location of a service Hours that the service is available Whether you like a health care provider's personality On this page you'll find information to help you choose a health care provider or service.</dc:description>
+<dc:subject dcterms="mesh">Physician-Patient Relations</dc:subject>
+<dc:subject dcterms="mesh">Delivery of Health Care</dc:subject>
+<dc:subject xml:lang="es">Elección de un doctor o plan médico</dc:subject>
+<dc:subject xml:lang="es">Doctor</dc:subject>
+<dc:subject xml:lang="es">Elección</dc:subject>
+<dc:subject xml:lang="es">Médico</dc:subject>
+<dc:subject xml:lang="es">Elección</dc:subject>
+<dc:subject xml:lang="en">Choosing a Doctor or Health Care Service</dc:subject>
+</metadata>
+</record>
+</MedlinePlus-document>

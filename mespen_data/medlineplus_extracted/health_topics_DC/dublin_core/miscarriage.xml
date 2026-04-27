@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<MedlinePlus-document>
+<record>
+<header>
+<identifier>https://medlineplus.gov/miscarriage.html</identifier>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title type="alternate" xml:lang="es">Aborto espontáneo</dc:title>
+<dc:title type="alternate" xml:lang="en">Spontaneous Abortion</dc:title>
+<dc:title type="alternate" xml:lang="en">Pregnancy Loss</dc:title>
+<dc:type>Text</dc:type>
+<dc:language>spa</dc:language>
+<dc:language>eng</dc:language>
+<dc:title xml:lang="es">Pérdida del embarazo</dc:title>
+<dc:title xml:lang="en">Miscarriage</dc:title>
+<dc:publisher>National Library of Medicine</dc:publisher>
+<dc:relation type="IsPartOf">Women</dc:relation>
+<dc:relation type="IsPartOf">Pregnancy and Reproduction</dc:relation>
+<dc:relation type="IsPartOf">Female Reproductive System</dc:relation>
+<dc:date type="created">2002-07-21</dc:date>
+<dc:date type="modified">2017-10-13</dc:date>
+<dc:identifier type="URL" xml:lang="es">https://medlineplus.gov/spanish/miscarriage.html</dc:identifier>
+<dc:identifier type="URL" xml:lang="en">https://medlineplus.gov/miscarriage.html</dc:identifier>
+<dc:description xml:lang="es">Un aborto espontáneo es la pérdida del embarazo antes de la semana 20 del embarazo. La mayoría de los abortos espontáneos ocurren muy temprano en el embarazo, a menudo antes de que la mujer sepa que está embarazada. Las causas de los abortos espontáneos incluyen: Un problema genético del feto Problemas con el útero o el cuello uterino Enfermedades crónicas, incluyendo el síndrome de ovario poliquístico Los signos de un aborto espontáneo pueden incluir manchado vaginal, dolor abdominal o calambres y fluidos o tejidos que salen por la vagina. El sangrado vaginal puede ser un síntoma común de un aborto espontáneo, pero muchas mujeres tienen un poco de sangrado al comienzo del embarazo sin ser un aborto espontáneo. Para estar segura, llame a su proveedor de cuidados de salud inmediatamente si presenta sangrado. Las mujeres que sufren un aborto espontáneo en las etapas tempranas de su embarazo en general no necesitan tratamiento. En algunos casos, tejido queda en el útero. Los médicos usan un procedimiento llamado dilatación y curetaje o medicinas para eliminar el tejido. La asesoría psicológica puede serle de ayuda para enfrentar el duelo. Más adelante, si decide intentar el embarazo de nuevo , trabaje junto al proveedor de atención médica para disminuir los riesgos. Muchas mujeres que pierden sus embarazos continúan teniendo bebés sanos. NIH: Instituto Nacional de Salud Infantil y Desarrollo</dc:description>
+<dc:description xml:lang="en">A miscarriage is an unexpected loss of pregnancy before the 20th week of pregnancy. Most miscarriages happen very early in the pregnancy, often before a woman even knows she is pregnant. Factors that may contribute to miscarriage include A genetic problem with the fetus Problems with the uterus or cervix Chronic diseases, such as polycystic ovary syndrome Signs of a miscarriage include vaginal spotting, abdominal pain or cramping, and fluid or tissue passing from the vagina. Bleeding can be a symptom of miscarriage, but many women also have it in early pregnancy and don't miscarry. To be sure, contact your health care provider right away if you have bleeding. Women who miscarry early in their pregnancy usually do not need any treatment. In some cases, there is tissue left in the uterus. Doctors use a procedure called a dilatation and curettage (D&amp;C) or medicines to remove the tissue. Counseling may help you cope with your grief. Later, if you do decide to try again, work closely with your health care provider to lower the risks. Many women who have a miscarriage go on to have healthy babies. NIH: National Institute of Child Health and Human Development</dc:description>
+<dc:subject dcterms="mesh">Abortion, Spontaneous</dc:subject>
+<dc:subject xml:lang="es">Pérdida del embarazo</dc:subject>
+<dc:subject xml:lang="es">Aborto espontáneo</dc:subject>
+<dc:subject xml:lang="en">Miscarriage</dc:subject>
+<dc:subject xml:lang="en">Spontaneous Abortion</dc:subject>
+<dc:subject xml:lang="en">Pregnancy Loss</dc:subject>
+</metadata>
+</record>
+</MedlinePlus-document>

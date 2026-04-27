@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<MedlinePlus-document>
+<record>
+<header>
+<identifier>https://medlineplus.gov/fifthdisease.html</identifier>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:type>Text</dc:type>
+<dc:language>spa</dc:language>
+<dc:language>eng</dc:language>
+<dc:title xml:lang="es">Quinta enfermedad</dc:title>
+<dc:title xml:lang="en">Fifth Disease</dc:title>
+<dc:publisher>National Library of Medicine</dc:publisher>
+<dc:relation type="IsPartOf">Infections</dc:relation>
+<dc:relation type="IsPartOf">Skin, Hair and Nails</dc:relation>
+<dc:relation type="IsPartOf">Children and Teenagers</dc:relation>
+<dc:date type="created">2002-08-19</dc:date>
+<dc:date type="modified">2017-06-08</dc:date>
+<dc:identifier type="URL" xml:lang="es">https://medlineplus.gov/spanish/fifthdisease.html</dc:identifier>
+<dc:identifier type="URL" xml:lang="en">https://medlineplus.gov/fifthdisease.html</dc:identifier>
+<dc:description xml:lang="es">La quinta enfermedad es una infección viral causada por el parvovirus B19. El virus sólo infecta a los seres humanos, no es el mismo parvovirus que pueden tener los perros o los gatos. La quinta enfermedad afecta principalmente a los niños. Los síntomas pueden parecerse a un resfriado, poca fiebre y dolor de cabeza. Luego, aparece una erupción color rojo en las mejillas que parece una bofetada. Esta erupción puede aparecer también en los brazos, las piernas y el tronco. Los adultos también pueden tener dolor e hinchazón en las articulaciones. La enfermedad se disemina fácilmente a través de la saliva y el moco. Usted puede contagiarse cuando una persona enferma tose o estornuda cerca suyo. Puede ayudar a prevenir la infección lavándose las manos con frecuencia. La mayoría de las personas se hace inmune al virus después de tenerlo una vez. La quinta enfermedad suele ser leve y desaparecer por sí sola. Sin embargo, puede ser seria si usted: Está embarazada Tiene anemia Tiene cáncer o un sistema inmunitario debilitado Centros para el Control y la Prevención de Enfermedades</dc:description>
+<dc:description xml:lang="en">Fifth disease is a viral infection caused by parvovirus B19. The virus only infects humans; it's not the same parvovirus that dogs and cats can get. Fifth disease mostly affects children. Symptoms can include a low fever, cold symptoms, and a headache. Then you get a red rash on your face. It looks like a "slapped cheek." The rash can spread to the arms, legs, and trunk. Adults who get it might also have joint pain and swelling. Fifth disease spreads easily, through saliva and mucus. You can get it when an infected person coughs or sneezes. Frequently washing your hands might help prevent getting the virus. Most people become immune to the virus after having it once. Fifth disease is usually mild and goes away on its own. However, it can be serious if you Are pregnant Are anemic Have cancer or a weak immune system Centers for Disease Control and Prevention</dc:description>
+<dc:subject dcterms="mesh">Erythema Infectiosum</dc:subject>
+<dc:subject xml:lang="es">Quinta enfermedad</dc:subject>
+<dc:subject xml:lang="en">Fifth Disease</dc:subject>
+<dc:subject xml:lang="en">Erythema Infectiosum</dc:subject>
+</metadata>
+</record>
+</MedlinePlus-document>

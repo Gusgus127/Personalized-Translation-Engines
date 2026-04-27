@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<MedlinePlus-document>
+<record>
+<header>
+<identifier>https://medlineplus.gov/viralinfections.html</identifier>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title type="alternate" xml:lang="es">Virus, Infecciones por</dc:title>
+<dc:title type="alternate" xml:lang="es">Artritis viral</dc:title>
+<dc:title type="alternate" xml:lang="es">Enterovirus no-polio</dc:title>
+<dc:title type="alternate" xml:lang="es">Molluscum contagioso</dc:title>
+<dc:title type="alternate" xml:lang="es">Enfermedad de mano, pie y boca (MPB)</dc:title>
+<dc:title type="alternate" xml:lang="es">Mano, pie y boca, Enfermedad</dc:title>
+<dc:title type="alternate" xml:lang="es">Laringitis viral</dc:title>
+<dc:title type="alternate" xml:lang="es">Croup</dc:title>
+<dc:title type="alternate" xml:lang="en">Roseola</dc:title>
+<dc:title type="alternate" xml:lang="en">Coxsackievirus Infections</dc:title>
+<dc:title type="alternate" xml:lang="en">Infections, Viral</dc:title>
+<dc:title type="alternate" xml:lang="en">Adenovirus Infections</dc:title>
+<dc:title type="alternate" xml:lang="en">Hand, Foot, and Mouth Disease</dc:title>
+<dc:title type="alternate" xml:lang="en">Enterovirus</dc:title>
+<dc:type>Text</dc:type>
+<dc:language>spa</dc:language>
+<dc:language>eng</dc:language>
+<dc:title xml:lang="es">Infecciones virales</dc:title>
+<dc:title xml:lang="en">Viral Infections</dc:title>
+<dc:publisher>National Library of Medicine</dc:publisher>
+<dc:relation type="IsPartOf">Infections</dc:relation>
+<dc:relation type="IsPartOf">Immune System</dc:relation>
+<dc:date type="created">2002-07-21</dc:date>
+<dc:date type="modified">2018-01-19</dc:date>
+<dc:identifier type="URL" xml:lang="es">https://medlineplus.gov/spanish/viralinfections.html</dc:identifier>
+<dc:identifier type="URL" xml:lang="en">https://medlineplus.gov/viralinfections.html</dc:identifier>
+<dc:description xml:lang="es">Los virus son gérmenes muy pequeños. Están hechos de material genético dentro de un recubrimiento de proteína. Los virus causan enfermedades infecciosas comunes como el resfrío común, la gripe y las verrugas. También causan enfermedades graves como el VIH/SIDA, la viruela y el Ébola. Los virus son como secuestradores. Invaden las células vivas y normales y las usan para multiplicarse y producir otros virus como ellos. Esto puede matar, dañar o mutar las células y enfermarle. Virus diferentes atacan distintas células de su cuerpo, como el hígado, el sistema respiratorio o la sangre. Cuando usted contrae un virus, no siempre se enfermará por él. Su sistema inmunitario puede ser capaz de combatirlo. Para la mayoría de las infecciones virales, los tratamientos sólo pueden ayudar con los síntomas mientras espera a que su sistema inmunitario lucha luchar contra el virus. Los antibióticos no funcionan para las infecciones virales. Hay medicamentos antivirales para tratar algunos de ellos. Las vacunas pueden ayudar a evitar que usted contraiga muchas enfermedades virales.</dc:description>
+<dc:description xml:lang="en">Viruses are very tiny germs. They are made of genetic material inside of a protein coating. Viruses cause familiar infectious diseases such as the common cold, flu and warts. They also cause severe illnesses such as HIV/AIDS, smallpox, and Ebola. Viruses are like hijackers. They invade living, normal cells and use those cells to multiply and produce other viruses like themselves. This can kill, damage, or change the cells and make you sick. Different viruses attack certain cells in your body such as your liver, respiratory system, or blood. When you get a virus, you may not always get sick from it. Your immune system may be able to fight it off. For most viral infections, treatments can only help with symptoms while you wait for your immune system to fight off the virus. Antibiotics do not work for viral infections. There are antiviral medicines to treat some viral infections. Vaccines can help prevent you from getting many viral diseases.</dc:description>
+<dc:subject dcterms="mesh">Virus Diseases</dc:subject>
+<dc:subject xml:lang="es">Infecciones virales</dc:subject>
+<dc:subject xml:lang="es">Virus</dc:subject>
+<dc:subject xml:lang="es">Infecciones por</dc:subject>
+<dc:subject xml:lang="es">Artritis viral</dc:subject>
+<dc:subject xml:lang="es">Enterovirus no-polio</dc:subject>
+<dc:subject xml:lang="es">Molluscum contagioso</dc:subject>
+<dc:subject xml:lang="es">Enfermedad de mano</dc:subject>
+<dc:subject xml:lang="es">pie y boca (MPB)</dc:subject>
+<dc:subject xml:lang="es">Mano</dc:subject>
+<dc:subject xml:lang="es">pie y boca</dc:subject>
+<dc:subject xml:lang="es">Enfermedad</dc:subject>
+<dc:subject xml:lang="es">Laringitis viral</dc:subject>
+<dc:subject xml:lang="es">Croup</dc:subject>
+<dc:subject xml:lang="en">Viral Infections</dc:subject>
+<dc:subject xml:lang="en">Roseola</dc:subject>
+<dc:subject xml:lang="en">Coxsackievirus Infections</dc:subject>
+<dc:subject xml:lang="en">Infections</dc:subject>
+<dc:subject xml:lang="en">Viral</dc:subject>
+<dc:subject xml:lang="en">Adenovirus Infections</dc:subject>
+<dc:subject xml:lang="en">Hand</dc:subject>
+<dc:subject xml:lang="en">Foot</dc:subject>
+<dc:subject xml:lang="en">and Mouth Disease</dc:subject>
+<dc:subject xml:lang="en">Enterovirus</dc:subject>
+</metadata>
+</record>
+</MedlinePlus-document>

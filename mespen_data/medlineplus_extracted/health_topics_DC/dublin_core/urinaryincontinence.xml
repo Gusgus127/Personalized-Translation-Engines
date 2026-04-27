@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<MedlinePlus-document>
+<record>
+<header>
+<identifier>https://medlineplus.gov/urinaryincontinence.html</identifier>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title type="alternate" xml:lang="es">Control de la vejiga</dc:title>
+<dc:title type="alternate" xml:lang="es">Vejiga, Control de la</dc:title>
+<dc:title type="alternate" xml:lang="en">Incontinence</dc:title>
+<dc:title type="alternate" xml:lang="en">Bladder Control</dc:title>
+<dc:title type="alternate" xml:lang="en">Stress Incontinence</dc:title>
+<dc:type>Text</dc:type>
+<dc:language>spa</dc:language>
+<dc:language>eng</dc:language>
+<dc:title xml:lang="es">Incontinencia urinaria</dc:title>
+<dc:title xml:lang="en">Urinary Incontinence</dc:title>
+<dc:publisher>National Library of Medicine</dc:publisher>
+<dc:relation type="IsPartOf">Kidneys and Urinary System</dc:relation>
+<dc:relation type="IsPartOf">Seniors</dc:relation>
+<dc:date type="created">2002-07-21</dc:date>
+<dc:date type="modified">2017-10-02</dc:date>
+<dc:identifier type="URL" xml:lang="es">https://medlineplus.gov/spanish/urinaryincontinence.html</dc:identifier>
+<dc:identifier type="URL" xml:lang="en">https://medlineplus.gov/urinaryincontinence.html</dc:identifier>
+<dc:description xml:lang="es">La incontinencia urinaria es la pérdida del control de la vejiga. Los síntomas pueden variar desde una filtración de orina leve hasta la salida abundante e incontrolable de ésta. Puede ocurrirle a cualquiera, pero es más común con la edad. Las mujeres la experimentan el doble en comparación con los hombres. La mayoría de los problemas de control de la vejiga ocurren cuando los músculos están demasiado débiles o demasiado activos. Si los músculos que mantienen la vejiga cerrada se debilitan, es posible que tenga accidentes al estornudar, reír o levantar objetos pesados. Esto se conoce como incontinencia de esfuerzo (o por estrés). Si los músculos de la vejiga están demasiado activos, es posible que sienta una fuerte urgencia por ir al baño cuando tenga poca orina en la vejiga. Esto se conoce como incontinencia de urgencia o vejiga hiperactiva. Existen otras causas de incontinencia, tales como problemas con la próstata y lesiones neurológicas. El tratamiento depende del tipo de problema que tenga y lo que mejor se adapte a su estilo de vida. Puede incluir ejercicios simples, medicinas, dispositivos especiales o procedimientos indicados por el médico o cirugía. NIH: Instituto Nacional de la Diabetes y las Enfermedades Digestivas y Renales</dc:description>
+<dc:description xml:lang="en">Urinary incontinence (UI) is loss of bladder control. Symptoms can range from mild leaking to uncontrollable wetting. It can happen to anyone, but it becomes more common with age. Women experience UI twice as often as men. Most bladder control problems happen when muscles are too weak or too active. If the muscles that keep your bladder closed are weak, you may have accidents when you sneeze, laugh or lift a heavy object. This is stress incontinence. If bladder muscles become too active, you may feel a strong urge to go to the bathroom when you have little urine in your bladder. This is urge incontinence or overactive bladder. There are other causes of incontinence, such as prostate problems and nerve damage. Treatment depends on the type of problem you have and what best fits your lifestyle. It may include simple exercises, medicines, special devices or procedures prescribed by your doctor, or surgery. NIH: National Institute of Diabetes and Digestive and Kidney Diseases</dc:description>
+<dc:subject dcterms="mesh">Urinary Incontinence</dc:subject>
+<dc:subject xml:lang="es">Incontinencia urinaria</dc:subject>
+<dc:subject xml:lang="es">Control de la vejiga</dc:subject>
+<dc:subject xml:lang="es">Vejiga</dc:subject>
+<dc:subject xml:lang="es">Control de la</dc:subject>
+<dc:subject xml:lang="en">Urinary Incontinence</dc:subject>
+<dc:subject xml:lang="en">Incontinence</dc:subject>
+<dc:subject xml:lang="en">Bladder Control</dc:subject>
+<dc:subject xml:lang="en">Stress Incontinence</dc:subject>
+</metadata>
+</record>
+</MedlinePlus-document>

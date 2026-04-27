@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<MedlinePlus-document>
+<record>
+<header>
+<identifier>https://medlineplus.gov/croup.html</identifier>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title type="alternate" xml:lang="es">Laringotraqueobronquitis </dc:title>
+<dc:type>Text</dc:type>
+<dc:language>spa</dc:language>
+<dc:language>eng</dc:language>
+<dc:title xml:lang="es">Crup</dc:title>
+<dc:title xml:lang="en">Croup</dc:title>
+<dc:publisher>National Library of Medicine</dc:publisher>
+<dc:relation type="IsPartOf">Children and Teenagers</dc:relation>
+<dc:relation type="IsPartOf">Lungs and Breathing</dc:relation>
+<dc:date type="created">2015-10-07</dc:date>
+<dc:date type="modified">2017-01-24</dc:date>
+<dc:identifier type="URL" xml:lang="es">https://medlineplus.gov/spanish/croup.html</dc:identifier>
+<dc:identifier type="URL" xml:lang="en">https://medlineplus.gov/croup.html</dc:identifier>
+<dc:description xml:lang="es">El crup es una inflamación de las cuerdas vocales (laringe) y la tráquea. Causa dificultad para respirar, tos seca similar a la de los perros y voz ronca. La causa suele ser un virus, a menudo parainfluenza. Otras causas incluyen alergias y reflujo. El crup a menudo comienza como un resfriado. Pero luego las cuerdas vocales y la tráquea se inflaman, causando ronquera y tos. También puede haber fiebre y sonidos agudos al respirar. Los síntomas en general empeoran en la noche y duran entre tres y cinco días. Los niños entre los seis meses y tres años están en mayor riesgo. El crup es más frecuente durante el otoño y el invierno. La mayoría de los casos de crup viral son leves y pueden tratarse en casa. En raras ocasiones, el crup puede llegar a ser grave e interferir con la respiración de su hijo. Si usted está preocupado acerca de la respiración de su hijo, llame a su proveedor de atención médica de inmediato.</dc:description>
+<dc:description xml:lang="en">Croup is an inflammation of the vocal cords (larynx) and windpipe (trachea). It causes difficulty breathing, a barking cough, and a hoarse voice. The cause is usually a virus, often parainfluenza virus. Other causes include allergies and reflux. Croup often starts out like a cold. But then the vocal cords and windpipe become swollen, causing the hoarseness and the cough. There may also be a fever and high-pitched noisy sounds when breathing. The symptoms are usually worse at night, and last for about three to five days. Children between the ages of 6 months and 3 years have the highest risk of getting croup. They may also have more severe symptoms. Croup is more common in the fall and winter. Most cases of viral croup are mild and can be treated at home. Rarely, croup can become serious and interfere with your child's breathing. If you are worried about your child's breathing, call your health care provider right away.</dc:description>
+<dc:subject dcterms="mesh">Croup</dc:subject>
+<dc:subject xml:lang="es">Crup</dc:subject>
+<dc:subject xml:lang="es">Laringotraqueobronquitis </dc:subject>
+<dc:subject xml:lang="en">Croup</dc:subject>
+</metadata>
+</record>
+</MedlinePlus-document>

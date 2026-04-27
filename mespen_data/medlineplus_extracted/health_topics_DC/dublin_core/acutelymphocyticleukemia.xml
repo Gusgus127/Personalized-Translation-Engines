@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<MedlinePlus-document>
+<record>
+<header>
+<identifier>https://medlineplus.gov/acutelymphocyticleukemia.html</identifier>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title type="alternate" xml:lang="es">Leucemia aguda en adultos</dc:title>
+<dc:title type="alternate" xml:lang="en">ALL</dc:title>
+<dc:title type="alternate" xml:lang="en">Acute Lymphoblastic Leukemia</dc:title>
+<dc:title type="alternate" xml:lang="en">Leukemia, Acute Lymphocytic</dc:title>
+<dc:title type="alternate" xml:lang="en">Leukemia, Acute Lymphoblastic</dc:title>
+<dc:type>Text</dc:type>
+<dc:language>spa</dc:language>
+<dc:language>eng</dc:language>
+<dc:title xml:lang="es">Leucemia linfocítica aguda</dc:title>
+<dc:title xml:lang="en">Acute Lymphocytic Leukemia</dc:title>
+<dc:publisher>National Library of Medicine</dc:publisher>
+<dc:relation type="IsPartOf">Immune System</dc:relation>
+<dc:relation type="IsPartOf">Cancers</dc:relation>
+<dc:relation type="IsPartOf">Blood, Heart and Circulation</dc:relation>
+<dc:date type="created">2002-07-21</dc:date>
+<dc:date type="modified">2017-12-27</dc:date>
+<dc:identifier type="URL" xml:lang="es">https://medlineplus.gov/spanish/acutelymphocyticleukemia.html</dc:identifier>
+<dc:identifier type="URL" xml:lang="en">https://medlineplus.gov/acutelymphocyticleukemia.html</dc:identifier>
+<dc:description xml:lang="es">La leucemia es un cáncer de los glóbulos blancos. Los glóbulos blancos ayudan a su organismo a combatir las infecciones. Las células sanguíneas se forman en la médula ósea. Sin embargo, en la leucemia la médula ósea produce glóbulos blancos anormales. Estas células reemplazan a las células sanguíneas sanas y dificultan que la sangre cumpla su función. En la leucemia linfocítica aguda, también llamada leucemia linfoblástica aguda, hay demasiados glóbulos blancos de un tipo específico llamados linfocitos o linfoblastos. Esta leucemia es el cáncer más común en niños. Los posibles factores de riesgo para la leucemia linfocítica aguda incluyen ser hombre, ser blanco, tratamiento previo con quimioterapia, exposición a radiación y, para los adultos, tener más de 70 años. Los síntomas incluyen: Debilidad o cansancio Fiebre Fácil aparición de moretones o sangrado Sangrado debajo de la piel Dificultad para respirar Pérdida de peso o pérdida del apetito Dolor en los huesos o en el estómago Dolor o sensación de llenura debajo de las costillas Protuberancias indoloras en el cuello, las axilas, el estómago o la ingle La leucemia linfocítica aguda se diagnostica con pruebas de sangre y de médula ósea. Los tratamientos pueden incluir quimioterapia, radioterapia, trasplantes de células madre y terapia dirigida. La terapia dirigida utiliza sustancias que atacan células cancerosas específicas sin dañar las células normales. Una vez que la leucemia esta en remisión, se necesita tratamiento adicional para prevenir una recaída. NIH: Instituto Nacional del Cáncer</dc:description>
+<dc:description xml:lang="en">Leukemia is cancer of the white blood cells. White blood cells help your body fight infection. Your blood cells form in your bone marrow. In leukemia, however, the bone marrow produces abnormal white blood cells. These cells crowd out the healthy blood cells, making it hard for blood to do its work. In acute lymphocytic leukemia (ALL), also called acute lymphoblastic leukemia, there are too many of specific types of white blood cells called lymphocytes or lymphoblasts. ALL is the most common type of cancer in children. Possible risk factors for ALL include being male, being white, previous chemotherapy treatment, exposure to radiation, and for adults, being older than 70. Symptoms of ALL include: Weakness or feeling tired Fever Easy bruising or bleeding Bleeding under the skin Shortness of breath Weight loss or loss of appetite Pain in the bones or stomach Pain or a feeling of fullness below the ribs Painless lumps in the neck, underarm, stomach, or groin Tests that examine the blood and bone marrow diagnose ALL. Treatments include chemotherapy, radiation therapy, stem cell transplants, and targeted therapy. Targeted therapy uses substances that attack cancer cells without harming normal cells. Once the leukemia is in remission, you need additional treatment to make sure that it does not come back. NIH: National Cancer Institute</dc:description>
+<dc:subject dcterms="mesh">Leukemia, Lymphoid</dc:subject>
+<dc:subject xml:lang="es">Leucemia linfocítica aguda</dc:subject>
+<dc:subject xml:lang="es">Leucemia aguda en adultos</dc:subject>
+<dc:subject xml:lang="en">Acute Lymphocytic Leukemia</dc:subject>
+<dc:subject xml:lang="en">ALL</dc:subject>
+<dc:subject xml:lang="en">Acute Lymphoblastic Leukemia</dc:subject>
+<dc:subject xml:lang="en">Leukemia</dc:subject>
+<dc:subject xml:lang="en">Acute Lymphocytic</dc:subject>
+<dc:subject xml:lang="en">Leukemia</dc:subject>
+<dc:subject xml:lang="en">Acute Lymphoblastic</dc:subject>
+</metadata>
+</record>
+</MedlinePlus-document>

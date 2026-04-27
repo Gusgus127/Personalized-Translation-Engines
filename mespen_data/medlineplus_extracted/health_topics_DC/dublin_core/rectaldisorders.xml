@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<MedlinePlus-document>
+<record>
+<header>
+<identifier>https://medlineplus.gov/rectaldisorders.html</identifier>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title type="alternate" xml:lang="es">Recto, Enfermedades</dc:title>
+<dc:title type="alternate" xml:lang="en">Proctitis</dc:title>
+<dc:title type="alternate" xml:lang="en">Rectocele</dc:title>
+<dc:type>Text</dc:type>
+<dc:language>spa</dc:language>
+<dc:language>eng</dc:language>
+<dc:title xml:lang="es">Enfermedades rectales</dc:title>
+<dc:title xml:lang="en">Rectal Disorders</dc:title>
+<dc:publisher>National Library of Medicine</dc:publisher>
+<dc:relation type="IsPartOf">Digestive System</dc:relation>
+<dc:date type="created">2011-08-29</dc:date>
+<dc:date type="modified">2018-01-03</dc:date>
+<dc:identifier type="URL" xml:lang="es">https://medlineplus.gov/spanish/rectaldisorders.html</dc:identifier>
+<dc:identifier type="URL" xml:lang="en">https://medlineplus.gov/rectaldisorders.html</dc:identifier>
+<dc:description xml:lang="es">El recto es la parte inferior del intestino grueso, donde el organismo almacena la materia fecal. Los problemas del recto son comunes. Incluyen hemorroides, abscesos, incontinencia y cáncer. A muchas personas les avergüenza hablar acerca de problemas rectales. Pero es importante consultar al médico acerca de ellos, especialmente si le duele o tiene hemorragia. Los tratamientos varían dependiendo del problema en particular. NIH: Instituto Nacional de la Diabetes y las Enfermedades Digestivas y Renales</dc:description>
+<dc:description xml:lang="en">The rectum is the lower part of your large intestine where your body stores stool. Problems with rectum are common. They include hemorrhoids, abscesses, incontinence and cancer. Many people are embarrassed to talk about rectal troubles. But seeing your doctor about problems in this area is important. This is especially true if you have pain or bleeding. Treatments vary depending on the particular problem. NIH: National Institute of Diabetes and Digestive and Kidney Diseases</dc:description>
+<dc:subject dcterms="mesh">Rectal Diseases</dc:subject>
+<dc:subject xml:lang="es">Enfermedades rectales</dc:subject>
+<dc:subject xml:lang="es">Recto</dc:subject>
+<dc:subject xml:lang="es">Enfermedades</dc:subject>
+<dc:subject xml:lang="en">Rectal Disorders</dc:subject>
+<dc:subject xml:lang="en">Proctitis</dc:subject>
+<dc:subject xml:lang="en">Rectocele</dc:subject>
+</metadata>
+</record>
+</MedlinePlus-document>

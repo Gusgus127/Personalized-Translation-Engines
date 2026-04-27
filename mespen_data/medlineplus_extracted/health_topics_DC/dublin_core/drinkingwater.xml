@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<MedlinePlus-document>
+<record>
+<header>
+<identifier>https://medlineplus.gov/drinkingwater.html</identifier>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:type>Text</dc:type>
+<dc:language>spa</dc:language>
+<dc:language>eng</dc:language>
+<dc:title xml:lang="es">Agua potable</dc:title>
+<dc:title xml:lang="en">Drinking Water</dc:title>
+<dc:publisher>National Library of Medicine</dc:publisher>
+<dc:relation type="IsPartOf">Poisoning, Toxicology, Environmental Health</dc:relation>
+<dc:relation type="IsPartOf">Food and Nutrition</dc:relation>
+<dc:date type="created">2002-07-21</dc:date>
+<dc:date type="modified">2017-06-05</dc:date>
+<dc:identifier type="URL" xml:lang="es">https://medlineplus.gov/spanish/drinkingwater.html</dc:identifier>
+<dc:identifier type="URL" xml:lang="en">https://medlineplus.gov/drinkingwater.html</dc:identifier>
+<dc:description xml:lang="es">Todos necesitamos agua para vivir. La cantidad depende de nuestra talla, el nivel de actividad y el clima donde vivimos. El agua potable de la llave es una combinación de aguas que se encuentran en la superficie del suelo (superficial) y aguas subterráneas. El agua superficial incluye a los ríos, lagos y represas. Las aguas subterráneas provienen del subsuelo (capa de suelo debajo de la capa superficial de la tierra). En los Estados Unidos existe uno de los suministros de agua más sanos del mundo, pero la calidad del agua potable puede variar de un lugar a otro. Esta depende de la condición de la fuente del agua y del tratamiento que recibe. El tratamiento puede incluir agregarle fluoruro para prevenir las caries y cloruro para matar a los gérmenes. En los Estados Unidos, su proveedor de agua potable debe enviarle informes anuales sobre el agua potable. El informe incluye de dónde viene el agua y qué contaminantes puede contener. Centros para el Control y la Prevención de Enfermedades</dc:description>
+<dc:description xml:lang="en">We all need to drink water. How much you need depends on your size, activity level, and the weather where you live. The water you drink is a combination of surface water and groundwater. Surface water includes rivers, lakes and reservoirs. Groundwater comes from underground. The United States has one of the safest water supplies in the world, but drinking water quality can vary from place to place. It depends on the condition of the source water and the treatment it receives. Treatment may include adding fluoride to prevent cavities and chlorine to kill germs. Your water supplier must give you annual reports on drinking water. The reports include where your water came from and what contaminants are in it. Centers for Disease Control and Prevention</dc:description>
+<dc:subject dcterms="mesh">Drinking Water</dc:subject>
+<dc:subject xml:lang="es">Agua potable</dc:subject>
+<dc:subject xml:lang="en">Drinking Water</dc:subject>
+<dc:subject xml:lang="en">Water</dc:subject>
+</metadata>
+</record>
+</MedlinePlus-document>

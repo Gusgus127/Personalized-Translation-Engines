@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<MedlinePlus-document>
+<record>
+<header>
+<identifier>https://medlineplus.gov/vonhippellindaudisease.html</identifier>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title type="alternate" xml:lang="es">von Hippel-Lindau, Enfermedad</dc:title>
+<dc:title type="alternate" xml:lang="en">VHL</dc:title>
+<dc:type>Text</dc:type>
+<dc:language>spa</dc:language>
+<dc:language>eng</dc:language>
+<dc:title xml:lang="es">Enfermedad de von Hippel-Lindau</dc:title>
+<dc:title xml:lang="en">Von Hippel-Lindau Disease</dc:title>
+<dc:publisher>National Library of Medicine</dc:publisher>
+<dc:relation type="IsPartOf">Genetics/Birth Defects</dc:relation>
+<dc:date type="created">2017-02-13</dc:date>
+<dc:date type="modified">2017-08-28</dc:date>
+<dc:identifier type="URL" xml:lang="es">https://medlineplus.gov/spanish/vonhippellindaudisease.html</dc:identifier>
+<dc:identifier type="URL" xml:lang="en">https://medlineplus.gov/vonhippellindaudisease.html</dc:identifier>
+<dc:description xml:lang="es">La enfermedad de Von Hippel-Lindau (VHL) es una enfermedad genética poco común que provoca el crecimiento de tumores y quistes en el cuerpo. Los tumores pueden ser cancerosos o benignos. Pueden crecer en el cerebro, la médula espinal, los riñones, el páncreas y, entre los hombres, en el aparato genital. Los síntomas de la enfermedad de VHL varían y dependen del tamaño y la ubicación de los tumores. Pueden incluir dolores de cabeza, problemas con el equilibrio y caminar, mareos, debilidad en las extremidades, problemas con la vista e hipertensión arterial. La detección y el tratamiento anticipados de la enfermedad de VHL son importantes. El tratamiento suele implicar cirugía o, en algunos casos, radioterapia. La meta es tratar los crecimientos tumorales mientras son pequeños y antes de que causen daños permanentes. NIH: Instituto Nacional de Trastornos Neurológicos y Accidentes Cerebrovasculares</dc:description>
+<dc:description xml:lang="en">Von Hippel-Lindau disease (VHL) is a rare, genetic disease that causes tumors and cysts to grow in your body. The tumors can be either cancerous or benign. They can grow in your brain and spinal cord, kidneys, pancreas and, in men, their genital tract. Symptoms of VHL vary and depend on the size and location of the tumors. They may include headaches, problems with balance and walking, dizziness, weakness of the limbs, vision problems and high blood pressure. Detecting and treating VHL early is important. Treatment usually involves surgery or sometimes radiation therapy. The goal is to treat growths while they are small and before they do permanent damage. NIH: National Institute of Neurological Disorders and Stroke</dc:description>
+<dc:subject dcterms="mesh">von Hippel-Lindau Disease</dc:subject>
+<dc:subject xml:lang="es">Enfermedad de von Hippel-Lindau</dc:subject>
+<dc:subject xml:lang="es">von Hippel-Lindau</dc:subject>
+<dc:subject xml:lang="es">Enfermedad</dc:subject>
+<dc:subject xml:lang="en">Von Hippel-Lindau Disease</dc:subject>
+<dc:subject xml:lang="en">VHL</dc:subject>
+</metadata>
+</record>
+</MedlinePlus-document>

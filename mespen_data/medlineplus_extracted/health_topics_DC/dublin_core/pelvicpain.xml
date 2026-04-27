@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<MedlinePlus-document>
+<record>
+<header>
+<identifier>https://medlineplus.gov/pelvicpain.html</identifier>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title type="alternate" xml:lang="es">Pelvis, Dolor</dc:title>
+<dc:type>Text</dc:type>
+<dc:language>spa</dc:language>
+<dc:language>eng</dc:language>
+<dc:title xml:lang="es">Dolor pélvico</dc:title>
+<dc:title xml:lang="en">Pelvic Pain</dc:title>
+<dc:publisher>National Library of Medicine</dc:publisher>
+<dc:relation type="IsPartOf">Symptoms</dc:relation>
+<dc:relation type="IsPartOf">Sexual Health Issues</dc:relation>
+<dc:relation type="IsPartOf">Female Reproductive System</dc:relation>
+<dc:relation type="IsPartOf">Women</dc:relation>
+<dc:date type="created">2012-03-06</dc:date>
+<dc:date type="modified">2018-01-17</dc:date>
+<dc:identifier type="URL" xml:lang="es">https://medlineplus.gov/spanish/pelvicpain.html</dc:identifier>
+<dc:identifier type="URL" xml:lang="en">https://medlineplus.gov/pelvicpain.html</dc:identifier>
+<dc:description xml:lang="es">El dolor pélvico ocurre principalmente en la parte baja del abdomen. El dolor puede ser constante o aparecer y desaparecer. Puede ser un dolor intenso y punzante en un lugar específico, o una molestia tenue en un área amplia de la pelvis. Si el dolor es fuerte, puede interferir con las actividades cotidianas. Si usted es mujer, puede sentir dolor durante el período menstrual. También puede ocurrir cuando tiene relaciones sexuales. El dolor pélvico puede ser un signo de que existe un problema con uno de los órganos de la región pélvica, como el útero, los ovarios, las trompas de Falopio, el cuello uterino o la vagina. Si es hombre, puede deberse a un problema de la próstata. En hombres y mujeres, puede ser un síntoma de infección o de problemas en las vías urinarias, el intestino, el recto, los músculos o los huesos. Algunas mujeres pueden presentar más de una causa de dolor pélvico al mismo tiempo. Quizá deba someterse a exámenes de laboratorio, de imagen u otras pruebas médicas para encontrar la causa del dolor. El tratamiento dependerá de la causa, la intensidad y frecuencia del dolor. NIH: Instituto Nacional de Salud Infantil y Desarrollo Humano</dc:description>
+<dc:description xml:lang="en">Pelvic pain occurs mostly in the lower abdomen area. The pain might be steady, or it might come and go. It can be a sharp and stabbing pain in a specific spot, or a dull pain that is spread out. If the pain is severe, it might get in the way of your daily activities. If you're a woman, you might feel pain during your period. It could also happen when you have sex. Pelvic pain can be a sign that there is a problem with one of the organs in your pelvic area, such as the uterus, ovaries, fallopian tubes, cervix, or vagina. If you're a man, the cause could be problem with the prostate. In men and women, it could be a symptom of infection, or a problem with the urinary tract, lower intestines, rectum, muscle, or bone. Some women have more than one cause of pelvic pain at the same time. You might have to have lab, imaging, or other medical tests to find the cause of the pain. The treatment will depend on the cause, how bad the pain is, and how often it occurs. NIH: National Institute of Child Health and Human Development</dc:description>
+<dc:subject dcterms="mesh">Pudendal Neuralgia</dc:subject>
+<dc:subject dcterms="mesh">Pelvic Pain</dc:subject>
+<dc:subject xml:lang="es">Dolor pélvico</dc:subject>
+<dc:subject xml:lang="es">Pelvis</dc:subject>
+<dc:subject xml:lang="es">Dolor</dc:subject>
+<dc:subject xml:lang="en">Pelvic Pain</dc:subject>
+</metadata>
+</record>
+</MedlinePlus-document>

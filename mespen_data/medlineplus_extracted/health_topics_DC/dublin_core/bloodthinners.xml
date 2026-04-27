@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<MedlinePlus-document>
+<record>
+<header>
+<identifier>https://medlineplus.gov/bloodthinners.html</identifier>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title type="alternate" xml:lang="es">Antiplaquetarios</dc:title>
+<dc:title type="alternate" xml:lang="es">Warfarina</dc:title>
+<dc:title type="alternate" xml:lang="es">Coumadin</dc:title>
+<dc:title type="alternate" xml:lang="en">Anticoagulants</dc:title>
+<dc:title type="alternate" xml:lang="en">Anti-platelet drugs</dc:title>
+<dc:type>Text</dc:type>
+<dc:language>spa</dc:language>
+<dc:language>eng</dc:language>
+<dc:title xml:lang="es">Anticoagulantes y antiplaquetarios</dc:title>
+<dc:title xml:lang="en">Blood Thinners</dc:title>
+<dc:publisher>National Library of Medicine</dc:publisher>
+<dc:relation type="IsPartOf">Blood, Heart and Circulation</dc:relation>
+<dc:relation type="IsPartOf">Drug Therapy</dc:relation>
+<dc:date type="created">2009-11-18</dc:date>
+<dc:date type="modified">2018-02-07</dc:date>
+<dc:identifier type="URL" xml:lang="es">https://medlineplus.gov/spanish/bloodthinners.html</dc:identifier>
+<dc:identifier type="URL" xml:lang="en">https://medlineplus.gov/bloodthinners.html</dc:identifier>
+<dc:description xml:lang="es">Los anticoagulantes son medicamentos que previenen la formación de coágulos sanguíneos. También evitan que los coágulos de sangre ya existentes se hagan más grandes. Los coágulos en las arterias, las venas y el corazón pueden causar ataques al corazón, derrames cerebrales y bloqueos. Usted puede tomar un anticoagulante si tiene: Ciertas enfermedades del corazón o de los vasos sanguíneos Un ritmo cardíaco anormal llamado fibrilación auricular Un reemplazo de válvula cardíaca Un riesgo de coágulos de sangre después de una cirugía Defectos cardíacos congénitos Hay dos tipos principales de anticoagulantes. Los anticoagulantes como la heparina o la warfarina (también llamada Coumadin) desaceleran el proceso de formación de coágulos en su cuerpo. Los fármacos antiplaquetarios, como la aspirina, previenen que las células sanguíneas llamadas plaquetas se aglomeren para formar un coágulo. Cuando tome un anticoagulante, siga las instrucciones cuidadosamente. Los anticoagulantes pueden interactuar con ciertos alimentos, medicamentos, vitaminas y alcohol. Asegúrese de que su proveedor de atención médica conoce todos los medicamentos y suplementos que está usando. Es probable que necesite exámenes de sangre regulares para comprobar lo bien que su sangre está coagulando. Es importante asegurarse de que está tomando el suficiente medicamento para prevenir coágulos, pero no demasiado, para que no cause sangrado.</dc:description>
+<dc:description xml:lang="en">Blood thinners are medicines that prevent blood clots from forming. They also keep existing blood clots from getting larger. Clots in your arteries, veins, and heart can cause heart attacks, strokes, and blockages. You may take a blood thinner if you have Certain heart or blood vessel diseases An abnormal heart rhythm called atrial fibrillation A heart valve replacement A risk of blood clots after surgery Congenital heart defects There are two main types of blood thinners. Anticoagulants such as heparin or warfarin (also called Coumadin) slow down your body's process of making clots. Antiplatelet drugs, such as aspirin, prevent blood cells called platelets from clumping together to form a clot. When you take a blood thinner, follow directions carefully. Blood thinners may interact with certain foods, medicines, vitamins, and alcohol. Make sure that your healthcare provider knows all of the medicines and supplements you are using. You will probably need regular blood tests to check how well your blood is clotting. It is important to make sure that you're taking enough medicine to prevent clots, but not so much that it causes bleeding.</dc:description>
+<dc:subject dcterms="mesh">Heparin</dc:subject>
+<dc:subject dcterms="mesh">Anticoagulants</dc:subject>
+<dc:subject dcterms="mesh">Warfarin</dc:subject>
+<dc:subject dcterms="mesh">Platelet Aggregation Inhibitors</dc:subject>
+<dc:subject xml:lang="es">Anticoagulantes y antiplaquetarios</dc:subject>
+<dc:subject xml:lang="es">Antiplaquetarios</dc:subject>
+<dc:subject xml:lang="es">Warfarina</dc:subject>
+<dc:subject xml:lang="es">Coumadin</dc:subject>
+<dc:subject xml:lang="en">Blood Thinners</dc:subject>
+<dc:subject xml:lang="en">Anticoagulants</dc:subject>
+<dc:subject xml:lang="en">Anti-platelet drugs</dc:subject>
+</metadata>
+</record>
+</MedlinePlus-document>

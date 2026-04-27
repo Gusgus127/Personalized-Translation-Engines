@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<MedlinePlus-document>
+<record>
+<header>
+<identifier>https://medlineplus.gov/ulcerativecolitis.html</identifier>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title type="alternate" xml:lang="es">Enfermedad inflamatoria intestinal</dc:title>
+<dc:title type="alternate" xml:lang="es">Colitis</dc:title>
+<dc:title type="alternate" xml:lang="es">Inflamación intestinal, Enfermedad</dc:title>
+<dc:title type="alternate" xml:lang="en">Colitis</dc:title>
+<dc:title type="alternate" xml:lang="en">Inflammatory Bowel Disease</dc:title>
+<dc:type>Text</dc:type>
+<dc:language>spa</dc:language>
+<dc:language>eng</dc:language>
+<dc:title xml:lang="es">Colitis ulcerativa</dc:title>
+<dc:title xml:lang="en">Ulcerative Colitis</dc:title>
+<dc:publisher>National Library of Medicine</dc:publisher>
+<dc:relation type="IsPartOf">Digestive System</dc:relation>
+<dc:date type="created">2002-07-21</dc:date>
+<dc:date type="modified">2017-11-15</dc:date>
+<dc:identifier type="URL" xml:lang="es">https://medlineplus.gov/spanish/ulcerativecolitis.html</dc:identifier>
+<dc:identifier type="URL" xml:lang="en">https://medlineplus.gov/ulcerativecolitis.html</dc:identifier>
+<dc:description xml:lang="es">La colitis ulcerativa es una enfermedad que causa inflamación y úlceras en la membrana que recubre el recto y el colon. Pertenece a un grupo de enfermedades llamado enfermedad intestinal inflamatoria. La colitis ulcerativa puede ocurrir a cualquier edad, pero suele comenzar entre los 15 y los 30 años. Tiende a ser hereditaria. Los síntomas más comunes son dolor abdominal y diarrea con sangre. Otros síntomas pueden incluir: Anemia Cansancio severo Pérdida de peso Pérdida del apetito Hemorragia rectal Llagas en la piel Dolor en las articulaciones Problemas de crecimiento en niños Aproximadamente la mitad de las personas con colitis ulcerativa tienen síntomas leves. Los médicos utilizan pruebas de sangre, pruebas de heces, la colonoscopía y pruebas de imagen para diagnosticarla. Varios tipos de medicamentos pueden ayudar a controlarla. Algunas personas tienen largos períodos de remisión, cuando están libres de síntomas. En casos severos, los médicos deben extirpar el colon NIH: Instituto Nacional de la Diabetes y las Enfermedades Digestivas y Renales</dc:description>
+<dc:description xml:lang="en">Ulcerative colitis (UC) is a disease that causes inflammation and sores, called ulcers, in the lining of the rectum and colon. It is one of a group of diseases called inflammatory bowel disease. UC can happen at any age, but it usually starts between the ages of 15 and 30. It tends to run in families. The most common symptoms are pain in the abdomen and blood or pus in diarrhea. Other symptoms may include Anemia Severe tiredness Weight loss Loss of appetite Bleeding from the rectum Sores on the skin Joint pain Growth failure in children About half of people with UC have mild symptoms. Doctors use blood tests, stool tests, colonoscopy or sigmoidoscopy, and imaging tests to diagnose UC. Several types of drugs can help control it. Some people have long periods of remission, when they are free of symptoms. In severe cases, doctors must remove the colon. NIH: National Institute of Diabetes and Digestive and Kidney Diseases</dc:description>
+<dc:subject dcterms="mesh">Colitis, Ulcerative</dc:subject>
+<dc:subject xml:lang="es">Colitis ulcerativa</dc:subject>
+<dc:subject xml:lang="es">Enfermedad inflamatoria intestinal</dc:subject>
+<dc:subject xml:lang="es">Colitis</dc:subject>
+<dc:subject xml:lang="es">Inflamación intestinal</dc:subject>
+<dc:subject xml:lang="es">Enfermedad</dc:subject>
+<dc:subject xml:lang="en">Ulcerative Colitis</dc:subject>
+<dc:subject xml:lang="en">Colitis</dc:subject>
+<dc:subject xml:lang="en">Inflammatory Bowel Disease</dc:subject>
+</metadata>
+</record>
+</MedlinePlus-document>

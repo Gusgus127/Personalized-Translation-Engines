@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<MedlinePlus-document>
+<record>
+<header>
+<identifier>https://medlineplus.gov/kawasakidisease.html</identifier>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title type="alternate" xml:lang="es">Kawasaki, Enfermedad</dc:title>
+<dc:title type="alternate" xml:lang="en">Mucocutaneous Lymph Node Syndrome</dc:title>
+<dc:type>Text</dc:type>
+<dc:language>spa</dc:language>
+<dc:language>eng</dc:language>
+<dc:title xml:lang="es">Enfermedad de Kawasaki</dc:title>
+<dc:title xml:lang="en">Kawasaki Disease</dc:title>
+<dc:publisher>National Library of Medicine</dc:publisher>
+<dc:relation type="IsPartOf">Blood, Heart and Circulation</dc:relation>
+<dc:relation type="IsPartOf">Skin, Hair and Nails</dc:relation>
+<dc:relation type="IsPartOf">Immune System</dc:relation>
+<dc:date type="created">2009-06-09</dc:date>
+<dc:date type="modified">2017-11-08</dc:date>
+<dc:identifier type="URL" xml:lang="es">https://medlineplus.gov/spanish/kawasakidisease.html</dc:identifier>
+<dc:identifier type="URL" xml:lang="en">https://medlineplus.gov/kawasakidisease.html</dc:identifier>
+<dc:description xml:lang="es">La enfermedad de Kawasaki es una enfermedad rara infantil. Hace que se inflamen las paredes de los vasos sanguíneos en el cuerpo. Puede afectar cualquier tipo de vaso sanguíneo, incluidas las arterias, las venas y los capilares. No se conocen sus causas. Los síntomas incluyen: Fiebre alta que dura más de cinco días Hinchazón de los ganglios linfáticos del cuello Picazón en la sección media y en la zona genital Labios rojos, secos y partidos y la lengua hinchada y enrojecida Palmas de las manos y las plantas de los pies rojas e hinchadas Ojos enrojecidos La enfermedad de Kawasaki no es contagiosa entre niños. No hay una prueba única. Para diagnosticarla, los médicos buscan signos y síntomas. También pueden usar un ecocardiograma u otras pruebas. Es tratada principalmente con medicamentos. En muy pocos casos, procedimientos médicos y cirugía también pueden ser usados en niños cuyas arterias coronarias están comprometidas. La enfermedad de Kawasaki no se puede prevenir. Sin embargo, la mayoría de los niños que sufren la enfermedad se recuperan completamente luego de algunas semanas de mostrar los signos y síntomas. Más complicaciones son poco comunes. NIH: Instituto Nacional del Corazón, los Pulmones y la Sangre</dc:description>
+<dc:description xml:lang="en">Kawasaki disease is a rare childhood disease. It makes the walls of the blood vessels in the body become inflamed. It can affect any type of blood vessel, including the arteries, veins, and capillaries. No one knows what causes Kawasaki disease. Symptoms include High fever that lasts longer than 5 days Swollen lymph nodes in the neck A rash on the mid-section and genital area Red, dry, cracked lips and a red, swollen tongue Red, swollen palms of the hands and soles of the feet Redness of the eyes Kawasaki disease can't be passed from one child to another. There is no single test. To diagnose it, doctors look at the signs and symptoms. They may also use an echocardiogram or other tests. It is mainly treated with medicines. Rarely, medical procedures and surgery also may be used for children whose coronary arteries are affected. Kawasaki disease can't be prevented. However, most children who develop the disease fully recover - usually within weeks of getting signs and symptoms. Further problems are rare. NIH: National Heart, Lung, and Blood Institute</dc:description>
+<dc:subject dcterms="mesh">Mucocutaneous Lymph Node Syndrome</dc:subject>
+<dc:subject xml:lang="es">Enfermedad de Kawasaki</dc:subject>
+<dc:subject xml:lang="es">Kawasaki</dc:subject>
+<dc:subject xml:lang="es">Enfermedad</dc:subject>
+<dc:subject xml:lang="en">Kawasaki Disease</dc:subject>
+<dc:subject xml:lang="en">Mucocutaneous Lymph Node Syndrome</dc:subject>
+</metadata>
+</record>
+</MedlinePlus-document>

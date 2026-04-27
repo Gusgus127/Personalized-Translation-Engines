@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<MedlinePlus-document>
+<record>
+<header>
+<identifier>https://medlineplus.gov/hysterectomy.html</identifier>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:type>Text</dc:type>
+<dc:language>spa</dc:language>
+<dc:language>eng</dc:language>
+<dc:title xml:lang="es">Histerectomía</dc:title>
+<dc:title xml:lang="en">Hysterectomy</dc:title>
+<dc:publisher>National Library of Medicine</dc:publisher>
+<dc:relation type="IsPartOf">Female Reproductive System</dc:relation>
+<dc:relation type="IsPartOf">Women</dc:relation>
+<dc:relation type="IsPartOf">Surgery and Rehabilitation</dc:relation>
+<dc:date type="created">2002-07-21</dc:date>
+<dc:date type="modified">2018-01-08</dc:date>
+<dc:identifier type="URL" xml:lang="es">https://medlineplus.gov/spanish/hysterectomy.html</dc:identifier>
+<dc:identifier type="URL" xml:lang="en">https://medlineplus.gov/hysterectomy.html</dc:identifier>
+<dc:description xml:lang="es">Una histerectomía es una operación para extraer el útero de una mujer. El útero es donde crece el bebé durante el embarazo. Una histerectomía interrumpirá sus períodos menstruales y no podrá volver a embarazarse. A veces en las operaciones también se extirpan los ovarios y las trompas de Falopio. Si se extirpan ambos ovarios, usted entrará en menopausia. El médico puede recomendarle una histerectomía si tiene: Fibromas Endometriosis que no responde a tratamiento con medicinas o cirugía Prolapso uterino: cuando el útero desciende hacia la vagina Cáncer de útero, cuello uterino u ovarios Sangrado vaginal que persiste a pesar del tratamiento Dolor pélvico crónico: la cirugía puede ser un último recurso Oficina para la Salud de la Mujer en el Dept. de Salud y Servicios Humanos de los EE.UU.</dc:description>
+<dc:description xml:lang="en">A hysterectomy is surgery to remove a woman's uterus or womb. The uterus is the place where a baby grows when a woman is pregnant. After a hysterectomy, you no longer have menstrual periods and can't become pregnant. Sometimes the surgery also removes the ovaries and fallopian tubes. If you have both ovaries taken out, you will enter menopause. Your health care provider might recommend a hysterectomy if you have Fibroids Endometriosis that hasn't been cured by medicine or surgery Uterine prolapse - when the uterus drops into the vagina Cancer of the uterine, cervix, or ovaries Vaginal bleeding that persists despite treatment Chronic pelvic pain, as a last resort Dept. of Health and Human Services Office on Women's Health</dc:description>
+<dc:subject dcterms="mesh">Hysterectomy</dc:subject>
+<dc:subject xml:lang="es">Histerectomía</dc:subject>
+<dc:subject xml:lang="en">Hysterectomy</dc:subject>
+</metadata>
+</record>
+</MedlinePlus-document>

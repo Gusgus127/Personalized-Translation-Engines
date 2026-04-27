@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<MedlinePlus-document>
+<record>
+<header>
+<identifier>https://medlineplus.gov/amyloidosis.html</identifier>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title type="alternate" xml:lang="es">Amiloide</dc:title>
+<dc:type>Text</dc:type>
+<dc:language>spa</dc:language>
+<dc:language>eng</dc:language>
+<dc:title xml:lang="es">Amiloidosis</dc:title>
+<dc:title xml:lang="en">Amyloidosis</dc:title>
+<dc:publisher>National Library of Medicine</dc:publisher>
+<dc:relation type="IsPartOf">Metabolic Problems</dc:relation>
+<dc:date type="created">2009-10-06</dc:date>
+<dc:date type="modified">2017-07-31</dc:date>
+<dc:identifier type="URL" xml:lang="es">https://medlineplus.gov/spanish/amyloidosis.html</dc:identifier>
+<dc:identifier type="URL" xml:lang="en">https://medlineplus.gov/amyloidosis.html</dc:identifier>
+<dc:description xml:lang="es">La amiloidosis ocurre cuando proteínas anormales llamadas amiloides se acumulan y forman depósitos. Estos depósitos pueden concentrarse en ciertos órganos como los riñones y el corazón. Esto puede causar que el órgano se vuelva rígido y no pueda funcionar como debería. Hay tres tipos de amiloidosis: Primaria: sin causa conocida Secundaria: causada por otra enfermedad, incluyendo ciertos tipos de cáncer Hereditaria: se transmite por los genes Los síntomas pueden variar dependiendo del órgano afectado. El tratamiento depende del tipo de amiloidosis que usted tenga. El objetivo es aliviar los síntomas y limitar la producción de proteínas. Si la causa es otra enfermedad, se debe tratar.</dc:description>
+<dc:description xml:lang="en">Amyloidosis occurs when abnormal proteins called amyloids build up and form deposits. The deposits can collect in organs such as the kidney and heart. This can cause the organs to become stiff and unable to work the way they should. There are three main types of amyloidosis: Primary - with no known cause Secondary - caused by another disease, including some types of cancer Familial - passed down through genes Symptoms can vary, depending upon which organs are affected. Treatment depends on the type of amyloidosis you have. The goal is to help with symptoms and limit the production of proteins. If another disease is the cause, it needs to be treated.</dc:description>
+<dc:subject dcterms="mesh">Amyloidosis</dc:subject>
+<dc:subject xml:lang="es">Amiloidosis</dc:subject>
+<dc:subject xml:lang="es">Amiloide</dc:subject>
+<dc:subject xml:lang="en">Amyloidosis</dc:subject>
+</metadata>
+</record>
+</MedlinePlus-document>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<MedlinePlus-document>
+<record>
+<header>
+<identifier>https://medlineplus.gov/cervicalcancerscreening.html</identifier>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title type="alternate" xml:lang="es">Cuello uterino, Exámenes para el cáncer</dc:title>
+<dc:title type="alternate" xml:lang="es">Cérvix, Exámenes para el cáncer</dc:title>
+<dc:type>Text</dc:type>
+<dc:language>spa</dc:language>
+<dc:language>eng</dc:language>
+<dc:title xml:lang="es">Pruebas y exámenes para el cáncer de cuello uterino</dc:title>
+<dc:title xml:lang="en">Cervical Cancer Screening</dc:title>
+<dc:publisher>National Library of Medicine</dc:publisher>
+<dc:relation type="IsPartOf">Cancers</dc:relation>
+<dc:relation type="IsPartOf">Female Reproductive System</dc:relation>
+<dc:relation type="IsPartOf">Women</dc:relation>
+<dc:date type="created">2014-11-05</dc:date>
+<dc:date type="modified">2018-01-11</dc:date>
+<dc:identifier type="URL" xml:lang="es">https://medlineplus.gov/spanish/cervicalcancerscreening.html</dc:identifier>
+<dc:identifier type="URL" xml:lang="en">https://medlineplus.gov/cervicalcancerscreening.html</dc:identifier>
+<dc:description xml:lang="es">El cuello uterino es la parte baja del útero y es donde crece el bebé durante el embarazo. Los exámenes para detectar el cáncer son pruebas que se hacen antes de que usted tenga algún síntoma. Cuanto antes se detecte el cáncer, más fácil puede ser de tratar. Los exámenes de detección para el cáncer de cuello uterino (también llamado cervical) son una parte del chequeo médico de rutina de la mujer. Existen dos tipos de exámenes: La prueba de Papanicolaou (Pap) y la del virus del papiloma humano (VPH), un virus que se contagia por medio de relaciones sexuales y puede, a veces, causar cáncer. Si los resultados son anormales, el doctor puede recomendar otras pruebas como una biopsia. Los exámenes de detección para el cáncer de cuello uterino pueden presentar riesgos. Los resultados, a veces, pueden ser incorrectos y derivar en exámenes extras innecesarios. También tienen beneficios. Las pruebas de detección han ayudado a disminuir el número de muertes por cáncer cervical. Usted y su doctor deberán analizar los riesgos del cáncer cervical, los pros y contras de los exámenes de detección, a qué edad deberá comenzar a realizarse estas pruebas y cuán seguido deberá hacerlo.</dc:description>
+<dc:description xml:lang="en">The cervix is the lower part of the uterus, the place where a baby grows during pregnancy. Cancer screening is looking for cancer before you have any symptoms. Cancer found early may be easier to treat. Cervical cancer screening is usually part of a woman's health checkup. There are two types of tests: the Pap test and the HPV test. For both, the doctor or nurse collects cells from the surface of the cervix. With the Pap test, the lab checks the sample for cancer cells or abnormal cells that could become cancer later. With the HPV test, the lab checks for HPV infection. HPV is a virus that spreads through sexual contact. It can sometimes lead to cancer. If your screening tests are abnormal, your doctor may do more tests, such as a biopsy. Cervical cancer screening has risks. The results can sometimes be wrong, and you may have unnecessary follow-up tests. There are also benefits. Screening has been shown to decrease the number of deaths from cervical cancer. You and your doctor should discuss your risk for cervical cancer, the pros and cons of the screening tests, at what age to start being screened, and how often to be screened.</dc:description>
+<dc:subject dcterms="mesh">Papanicolaou Test</dc:subject>
+<dc:subject dcterms="mesh">Vaginal Smears</dc:subject>
+<dc:subject dcterms="mesh">Human Papillomavirus DNA Tests</dc:subject>
+<dc:subject xml:lang="es">Pruebas y exámenes para el cáncer de cuello uterino</dc:subject>
+<dc:subject xml:lang="es">Cuello uterino</dc:subject>
+<dc:subject xml:lang="es">Exámenes para el cáncer</dc:subject>
+<dc:subject xml:lang="es">Cérvix</dc:subject>
+<dc:subject xml:lang="es">Exámenes para el cáncer</dc:subject>
+<dc:subject xml:lang="en">Cervical Cancer Screening</dc:subject>
+</metadata>
+</record>
+</MedlinePlus-document>

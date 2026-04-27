@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<MedlinePlus-document>
+<record>
+<header>
+<identifier>https://medlineplus.gov/cornealdisorders.html</identifier>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title type="alternate" xml:lang="es">Córnea, Enfermedades de la</dc:title>
+<dc:type>Text</dc:type>
+<dc:language>spa</dc:language>
+<dc:language>eng</dc:language>
+<dc:title xml:lang="es">Enfermedades de la córnea</dc:title>
+<dc:title xml:lang="en">Corneal Disorders</dc:title>
+<dc:publisher>National Library of Medicine</dc:publisher>
+<dc:relation type="IsPartOf">Eyes and Vision</dc:relation>
+<dc:date type="created">2010-06-21</dc:date>
+<dc:date type="modified">2017-11-21</dc:date>
+<dc:identifier type="URL" xml:lang="es">https://medlineplus.gov/spanish/cornealdisorders.html</dc:identifier>
+<dc:identifier type="URL" xml:lang="en">https://medlineplus.gov/cornealdisorders.html</dc:identifier>
+<dc:description xml:lang="es">Su córnea es la capa externa del ojo. Es transparente y tiene la forma de una cúpula. La córnea ayuda a proteger el ojo de gérmenes, polvo y otros materiales dañinos. También ayuda al ojo a enfocar. Si usted usa lentes de contacto, estos flotan sobre su córnea. Los problemas de la córnea incluyen Errores de refracción Alergias Infecciones Lesiones Distrofias - condiciones en las que algunas partes de la córnea pierden transparencia debido a la acumulación de material turbio. El tratamiento de las enfermedades de la córnea incluye medicinas, trasplante y cirugía laser. Instituto Nacional del Ojo</dc:description>
+<dc:description xml:lang="en">Your cornea is the outermost layer of your eye. It is clear and shaped like a dome. The cornea helps to shield the rest of the eye from germs, dust, and other harmful matter. It also helps your eye to focus. If you wear contact lenses, they float on top of your corneas. Problems with the cornea include Refractive errors Allergies Infections Injuries Dystrophies - conditions in which parts of the cornea lose clarity due to a buildup of cloudy material Treatments of corneal disorders include medicines, corneal transplantation, and corneal laser surgery. NIH: National Eye Institute</dc:description>
+<dc:subject dcterms="mesh">Corneal Diseases</dc:subject>
+<dc:subject dcterms="mesh">Corneal Injuries</dc:subject>
+<dc:subject xml:lang="es">Enfermedades de la córnea</dc:subject>
+<dc:subject xml:lang="es">Córnea</dc:subject>
+<dc:subject xml:lang="es">Enfermedades de la</dc:subject>
+<dc:subject xml:lang="en">Corneal Disorders</dc:subject>
+</metadata>
+</record>
+</MedlinePlus-document>

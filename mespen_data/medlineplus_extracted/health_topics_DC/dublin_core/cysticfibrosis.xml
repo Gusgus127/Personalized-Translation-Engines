@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<MedlinePlus-document>
+<record>
+<header>
+<identifier>https://medlineplus.gov/cysticfibrosis.html</identifier>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:type>Text</dc:type>
+<dc:language>spa</dc:language>
+<dc:language>eng</dc:language>
+<dc:title xml:lang="es">Fibrosis quística</dc:title>
+<dc:title xml:lang="en">Cystic Fibrosis</dc:title>
+<dc:publisher>National Library of Medicine</dc:publisher>
+<dc:relation type="IsPartOf">Lungs and Breathing</dc:relation>
+<dc:relation type="IsPartOf">Genetics/Birth Defects</dc:relation>
+<dc:date type="created">2002-07-21</dc:date>
+<dc:date type="modified">2017-10-18</dc:date>
+<dc:identifier type="URL" xml:lang="es">https://medlineplus.gov/spanish/cysticfibrosis.html</dc:identifier>
+<dc:identifier type="URL" xml:lang="en">https://medlineplus.gov/cysticfibrosis.html</dc:identifier>
+<dc:description xml:lang="es">La fibrosis quística es una enfermedad hereditaria de las glándulas mucosas y sudoríparas. Afecta principalmente los pulmones, el páncreas, el hígado, los intestinos, los senos paranasales y los órganos sexuales. La fibrosis quística hace que la mucosidad sea espesa y pegajosa. Esta mucosidad tapa los pulmones, causando problemas para respirar y facilitando el crecimiento de bacterias. Esto puede provocar infecciones pulmonares repetidas y daños pulmonares. Los síntomas y la severidad de la fibrosis quística pueden variar. Algunas personas tienen problemas serios desde el nacimiento. Otras pueden tener un tipo más leve de la enfermedad que no se manifiesta hasta la adolescencia o al inicio de la edad adulta. A veces se tienen pocos síntomas, pero más tarde es posible tener más. La fibrosis quística se diagnostica a través de varias pruebas, tales como genes, sangre y pruebas de sudor. No existe cura, pero los tratamientos han mejorado mucho en los últimos años. En el pasado, la mayoría de las muertes por fibrosis quística eran niños y adolescentes. Hoy en día, con la mejora de los tratamientos, algunas personas con fibrosis quística viven pasados los cuarenta, cincuenta años o más. Los tratamientos pueden incluir terapia física para el pecho, terapias nutricionales y respiratorias, medicinas y ejercicio. NIH: Instituto Nacional del Corazón, los Pulmones y la Sangre</dc:description>
+<dc:description xml:lang="en">Cystic fibrosis (CF) is an inherited disease of the mucus and sweat glands. It affects mostly your lungs, pancreas, liver, intestines, sinuses, and sex organs. CF causes your mucus to be thick and sticky. The mucus clogs the lungs, causing breathing problems and making it easy for bacteria to grow. This can lead to repeated lung infections and lung damage. The symptoms and severity of CF can vary. Some people have serious problems from birth. Others have a milder version of the disease that doesn't show up until they are teens or young adults. Sometimes you will have few symptoms, but later you may have more symptoms. CF is diagnosed through various tests, such as gene, blood, and sweat tests. There is no cure for CF, but treatments have improved greatly in recent years. In the past, most deaths from CF were in children and teenagers. Today, with improved treatments, some people who have CF are living into their forties, fifties, or older. Treatments may include chest physical therapy, nutritional and respiratory therapies, medicines, and exercise. NIH: National Heart, Lung, and Blood Institute</dc:description>
+<dc:subject dcterms="mesh">Cystic Fibrosis</dc:subject>
+<dc:subject xml:lang="es">Fibrosis quística</dc:subject>
+<dc:subject xml:lang="en">Cystic Fibrosis</dc:subject>
+</metadata>
+</record>
+</MedlinePlus-document>

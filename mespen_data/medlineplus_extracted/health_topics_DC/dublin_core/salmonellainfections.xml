@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<MedlinePlus-document>
+<record>
+<header>
+<identifier>https://medlineplus.gov/salmonellainfections.html</identifier>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title type="alternate" xml:lang="es">Salmonelosis</dc:title>
+<dc:title type="alternate" xml:lang="es">Salmonela, Infecciones por</dc:title>
+<dc:title type="alternate" xml:lang="en">Typhoid Fever</dc:title>
+<dc:type>Text</dc:type>
+<dc:language>spa</dc:language>
+<dc:language>eng</dc:language>
+<dc:title xml:lang="es">Infecciones por salmonela</dc:title>
+<dc:title xml:lang="en">Salmonella Infections</dc:title>
+<dc:publisher>National Library of Medicine</dc:publisher>
+<dc:relation type="IsPartOf">Infections</dc:relation>
+<dc:date type="created">2002-07-21</dc:date>
+<dc:date type="modified">2017-11-08</dc:date>
+<dc:identifier type="URL" xml:lang="es">https://medlineplus.gov/spanish/salmonellainfections.html</dc:identifier>
+<dc:identifier type="URL" xml:lang="en">https://medlineplus.gov/salmonellainfections.html</dc:identifier>
+<dc:description xml:lang="es">Salmonela es el nombre de un grupo de bacterias. En Estados Unidos es la causa más común de las enfermedades transmitidas por alimentos. La salmonela se encuentra en las aves crudas, los huevos, la carne vacuna y, algunas veces, en las frutas y vegetales sin lavar. También se puede adquirir tras manipular mascotas, especialmente reptiles como las serpientes, tortugas y lagartos. Los síntomas incluyen: Fiebre Diarrea Cólicos abdominales Dolor de cabeza Pueden presentarse náuseas, vómitos y pérdida de apetito Los síntomas suelen durar entre cuatro y siete días. Su proveedor de salud puede diagnosticarla con una prueba de heces. La mayoría de las personas mejora sin tratamiento. Puede ser más grave entre los ancianos, niños pequeños y personas con enfermedades crónicas. Si la salmonela penetra en el torrente sanguíneo, puede ser seria. Se trata con antibióticos. La fiebre tifoidea, una enfermedad más seria causada por salmonela, no es común en Estados Unidos, pero ocurre frecuentemente en países en vías de desarrollo. NIH: Instituto Nacional de Alergias y Enfermedades Infecciosas</dc:description>
+<dc:description xml:lang="en">Salmonella is the name of a group of bacteria. In the United States, it is a common cause of foodborne illness. Salmonella occurs in raw poultry, eggs, beef, and sometimes on unwashed fruit and vegetables. You also can get infected after handling pets, especially reptiles like snakes, turtles, and lizards. Symptoms include Fever Diarrhea Abdominal cramps Headache Possible nausea, vomiting, and loss of appetite Symptoms usually last 4-7 days. Your health care provider diagnoses the infection with a stool test. Most people get better without treatment. Infection can be more serious in the elderly, infants, and people with chronic health problems. If Salmonella gets into the bloodstream, it can be serious. The usual treatment is antibiotics. Typhoid fever, a more serious disease caused by Salmonella, is not common in the United States. It frequently occurs in developing countries. NIH: National Institute of Allergy and Infectious Diseases</dc:description>
+<dc:subject dcterms="mesh">Salmonella Infections</dc:subject>
+<dc:subject xml:lang="es">Infecciones por salmonela</dc:subject>
+<dc:subject xml:lang="es">Salmonelosis</dc:subject>
+<dc:subject xml:lang="es">Salmonela</dc:subject>
+<dc:subject xml:lang="es">Infecciones por</dc:subject>
+<dc:subject xml:lang="en">Salmonella Infections</dc:subject>
+<dc:subject xml:lang="en">Typhoid Fever</dc:subject>
+</metadata>
+</record>
+</MedlinePlus-document>

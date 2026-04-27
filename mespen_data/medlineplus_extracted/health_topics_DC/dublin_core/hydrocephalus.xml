@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<MedlinePlus-document>
+<record>
+<header>
+<identifier>https://medlineplus.gov/hydrocephalus.html</identifier>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title type="alternate" xml:lang="es">Agua en el cerebro</dc:title>
+<dc:type>Text</dc:type>
+<dc:language>spa</dc:language>
+<dc:language>eng</dc:language>
+<dc:title xml:lang="es">Hidrocefalia</dc:title>
+<dc:title xml:lang="en">Hydrocephalus</dc:title>
+<dc:publisher>National Library of Medicine</dc:publisher>
+<dc:relation type="IsPartOf">Brain and Nerves</dc:relation>
+<dc:relation type="IsPartOf">Genetics/Birth Defects</dc:relation>
+<dc:date type="created">2002-07-21</dc:date>
+<dc:date type="modified">2018-01-19</dc:date>
+<dc:identifier type="URL" xml:lang="es">https://medlineplus.gov/spanish/hydrocephalus.html</dc:identifier>
+<dc:identifier type="URL" xml:lang="en">https://medlineplus.gov/hydrocephalus.html</dc:identifier>
+<dc:description xml:lang="es">La hidrocefalia es la acumulación de una cantidad excesiva de líquido cefalorraquídeo en el cerebro. Normalmente, este fluido protege y amortigua el cerebro. Sin embargo, demasiado líquido ejerce una presión dañina para el cerebro. La hidrocefalia puede ser congénita, que se presenta al nacer. Sus causas incluyen problemas genéticos y problemas que se desarrollan en el feto durante el embarazo. El principal signo de la hidrocefalia congénita es una cabeza con un tamaño fuera de lo normal. La hidrocefalia también puede presentarse después de nacer. Esto se llama hidrocefalia adquirida. Puede ocurrir a cualquier edad. Las causas pueden incluir traumatismos en la cabeza, derrames cerebrales, infecciones, tumores y hemorragia cerebral. Los síntomas de la hidrocefalia pueden incluir: Dolor de cabeza Vómitos y náusea Visión borrosa Problemas de equilibrio Problemas para controlar la vejiga Problemas con el pensamiento y la memoria La hidrocefalia puede causar daños permanentes en el cerebro y provocar problemas con el desarrollo físico y mental. Cuando no se trata, suele ser mortal. Con tratamiento, muchas personas llevan una vida normal, con ciertas limitaciones. El tratamiento suele incluir una cirugía para implantar una derivación. Una derivación es un tubo flexible pero robusto. Este desvía el flujo del líquido cefalorraquídeo a otra zona del cuerpo donde pueda ser absorbido. Las medicinas y la rehabilitación también pueden ayudar. NIH: Instituto Nacional de Trastornos Neurológicos y Accidentes Cerebrovasculares</dc:description>
+<dc:description xml:lang="en">Hydrocephalus is the buildup of too much cerebrospinal fluid in the brain. Normally, this fluid cushions your brain. When you have too much, though, it puts harmful pressure on your brain. Hydrocephalus can be congenital, or present at birth. Causes include genetic problems and problems with how the fetus develops. An unusually large head is the main sign of congenital hydrocephalus. Hydrocephalus can also happen after birth. This is called acquired hydrocephalus. It can occur at any age. Causes can include head injuries, strokes, infections, tumors, and bleeding in the brain. Symptoms include Headache Vomiting and nausea Blurry vision Balance problems Bladder control problems Thinking and memory problems Hydrocephalus can permanently damage the brain, causing problems with physical and mental development. If untreated, it is usually fatal. With treatment, many people lead normal lives with few limitations. Treatment usually involves surgery to insert a shunt. A shunt is a flexible but sturdy plastic tube. The shunt moves the cerebrospinal fluid to another area of the body where it can be absorbed. Medicine and rehabilitation therapy can also help. NIH: National Institute of Neurological Disorders and Stroke</dc:description>
+<dc:subject dcterms="mesh">Hydrocephalus</dc:subject>
+<dc:subject xml:lang="es">Hidrocefalia</dc:subject>
+<dc:subject xml:lang="es">Agua en el cerebro</dc:subject>
+<dc:subject xml:lang="en">Hydrocephalus</dc:subject>
+</metadata>
+</record>
+</MedlinePlus-document>

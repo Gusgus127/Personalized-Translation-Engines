@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<MedlinePlus-document>
+<record>
+<header>
+<identifier>https://medlineplus.gov/gaylesbianbisexualandtransgenderhealth.html</identifier>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title type="alternate" xml:lang="es">Homosexualidad</dc:title>
+<dc:title type="alternate" xml:lang="es">Salud de las lesbianas</dc:title>
+<dc:title type="alternate" xml:lang="es">Homosexuales y las lesbianas, Salud de</dc:title>
+<dc:title type="alternate" xml:lang="es">Lesbianas, Salud de las</dc:title>
+<dc:title type="alternate" xml:lang="es">Gays</dc:title>
+<dc:title type="alternate" xml:lang="es">Transexuales, Salud de los</dc:title>
+<dc:title type="alternate" xml:lang="es">LGTB</dc:title>
+<dc:title type="alternate" xml:lang="en">Homosexuality</dc:title>
+<dc:title type="alternate" xml:lang="en">Lesbian Health</dc:title>
+<dc:title type="alternate" xml:lang="en">Transgender Health</dc:title>
+<dc:title type="alternate" xml:lang="en">Bisexual Health</dc:title>
+<dc:title type="alternate" xml:lang="en">LGBT Health</dc:title>
+<dc:type>Text</dc:type>
+<dc:language>spa</dc:language>
+<dc:language>eng</dc:language>
+<dc:title xml:lang="es">Salud de los gays, lesbianas, bisexuales y trans</dc:title>
+<dc:title xml:lang="en">Gay, Lesbian, Bisexual, and Transgender Health</dc:title>
+<dc:publisher>National Library of Medicine</dc:publisher>
+<dc:relation type="IsPartOf">Men</dc:relation>
+<dc:relation type="IsPartOf">Population Groups</dc:relation>
+<dc:relation type="IsPartOf">Women</dc:relation>
+<dc:relation type="IsPartOf">Sexual Health Issues</dc:relation>
+<dc:date type="created">2002-07-21</dc:date>
+<dc:date type="modified">2018-02-05</dc:date>
+<dc:identifier type="URL" xml:lang="es">https://medlineplus.gov/spanish/gaylesbianbisexualandtransgenderhealth.html</dc:identifier>
+<dc:identifier type="URL" xml:lang="en">https://medlineplus.gov/gaylesbianbisexualandtransgenderhealth.html</dc:identifier>
+<dc:description xml:lang="es">Los hombres y las mujeres homosexuales y lesbianas, bisexuales y transexuales tienen problemas de salud especiales además de los habituales que afectan a la mayoría de las personas. En esta página encontrará información acerca de estos problemas de salud específicos.</dc:description>
+<dc:description xml:lang="en">Gay, lesbian, bisexual, and transgender individuals have special health concerns besides the usual ones that affect most men and women. On this page you'll find information about these specific health issues.</dc:description>
+<dc:subject dcterms="mesh">Transgender Persons</dc:subject>
+<dc:subject dcterms="mesh">Sexual and Gender Minorities</dc:subject>
+<dc:subject dcterms="mesh">Bisexuality</dc:subject>
+<dc:subject dcterms="mesh">Health Services for Transgender Persons</dc:subject>
+<dc:subject dcterms="mesh">Homosexuality</dc:subject>
+<dc:subject xml:lang="es">Salud de los gays</dc:subject>
+<dc:subject xml:lang="es">lesbianas</dc:subject>
+<dc:subject xml:lang="es">bisexuales y trans</dc:subject>
+<dc:subject xml:lang="es">Homosexualidad</dc:subject>
+<dc:subject xml:lang="es">Salud de las lesbianas</dc:subject>
+<dc:subject xml:lang="es">Homosexuales y las lesbianas</dc:subject>
+<dc:subject xml:lang="es">Salud de</dc:subject>
+<dc:subject xml:lang="es">Lesbianas</dc:subject>
+<dc:subject xml:lang="es">Salud de las</dc:subject>
+<dc:subject xml:lang="es">Gays</dc:subject>
+<dc:subject xml:lang="es">Transexuales</dc:subject>
+<dc:subject xml:lang="es">Salud de los</dc:subject>
+<dc:subject xml:lang="es">LGTB</dc:subject>
+<dc:subject xml:lang="en">Gay</dc:subject>
+<dc:subject xml:lang="en">Lesbian</dc:subject>
+<dc:subject xml:lang="en">Bisexual</dc:subject>
+<dc:subject xml:lang="en">and Transgender Health</dc:subject>
+<dc:subject xml:lang="en">Homosexuality</dc:subject>
+<dc:subject xml:lang="en">Lesbian Health</dc:subject>
+<dc:subject xml:lang="en">Transgender Health</dc:subject>
+<dc:subject xml:lang="en">Bisexual Health</dc:subject>
+<dc:subject xml:lang="en">LGBT Health</dc:subject>
+</metadata>
+</record>
+</MedlinePlus-document>

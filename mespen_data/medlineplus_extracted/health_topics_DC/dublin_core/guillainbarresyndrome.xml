@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<MedlinePlus-document>
+<record>
+<header>
+<identifier>https://medlineplus.gov/guillainbarresyndrome.html</identifier>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title type="alternate" xml:lang="es">Guillain-Barré, Síndrome de</dc:title>
+<dc:type>Text</dc:type>
+<dc:language>spa</dc:language>
+<dc:language>eng</dc:language>
+<dc:title xml:lang="es">Síndrome de Guillain-Barré</dc:title>
+<dc:title xml:lang="en">Guillain-Barre Syndrome</dc:title>
+<dc:publisher>National Library of Medicine</dc:publisher>
+<dc:relation type="IsPartOf">Brain and Nerves</dc:relation>
+<dc:date type="created">2002-07-21</dc:date>
+<dc:date type="modified">2018-01-19</dc:date>
+<dc:identifier type="URL" xml:lang="es">https://medlineplus.gov/spanish/guillainbarresyndrome.html</dc:identifier>
+<dc:identifier type="URL" xml:lang="en">https://medlineplus.gov/guillainbarresyndrome.html</dc:identifier>
+<dc:description xml:lang="es">El síndrome de Guillain-Barré es un trastorno poco común que hace que el sistema inmunitario ataque el sistema nervioso periférico. Los nervios del sistema nervioso periférico conectan el cerebro y la médula espinal con el resto del cuerpo. La lesión de estos nervios dificulta la transmisión de las señales. Como resultado, los músculos tienen problemas para responder a las señales del cerebro. Nadie conoce la causa de este síndrome. Algunas veces, es desencadenado por una infección, una cirugía o una vacuna. El primer síntoma suele ser debilidad o una sensación de hormigueo en las piernas. La sensación puede extenderse a la parte superior del cuerpo. En casos severos, el paciente queda casi paralizado. Esto puede poner en riesgo la vida de la persona. Puede ser necesario usar un ventilador mecánico para ayudar con la respiración. Generalmente, los síntomas empeoran en un período de semanas y luego se estabilizan. El síndrome puede ser difícil de diagnosticar. Dentro de los exámenes médicos posibles se incluyen exámenes neurológicos y una punción lumbar. La mayoría de las personas se recupera. La recuperación puede tomar algunas semanas o algunos años. El tratamiento ayuda con los síntomas y puede incluir medicamentos o un procedimiento llamado intercambio de plasma. NIH: Instituto Nacional de Trastornos Neurológicos y Accidentes Cerebrovasculares</dc:description>
+<dc:description xml:lang="en">Guillain-Barre syndrome is a rare disorder that causes your immune system to attack your peripheral nervous system (PNS). The PNS nerves connect your brain and spinal cord with the rest of your body. Damage to these nerves makes it hard for them to transmit signals. As a result, your muscles have trouble responding to your brain. No one knows what causes the syndrome. Sometimes it is triggered by an infection, surgery, or a vaccination. The first symptom is usually weakness or a tingling feeling in your legs. The feeling can spread to your upper body. In severe cases, you become almost paralyzed. This is life-threatening. You might need a respirator to breathe. Symptoms usually worsen over a period of weeks and then stabilize. Guillain-Barre can be hard to diagnose. Possible tests include nerve tests and a spinal tap. Most people recover. Recovery can take a few weeks to a few years. Treatment can help symptoms, and may include medicines or a procedure called plasma exchange. NIH: National Institute of Neurological Disorders and Stroke</dc:description>
+<dc:subject dcterms="mesh">Guillain-Barre Syndrome</dc:subject>
+<dc:subject xml:lang="es">Síndrome de Guillain-Barré</dc:subject>
+<dc:subject xml:lang="es">Guillain-Barré</dc:subject>
+<dc:subject xml:lang="es">Síndrome de</dc:subject>
+<dc:subject xml:lang="en">Guillain-Barre Syndrome</dc:subject>
+</metadata>
+</record>
+</MedlinePlus-document>

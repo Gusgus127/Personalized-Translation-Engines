@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<MedlinePlus-document>
+<record>
+<header>
+<identifier>https://medlineplus.gov/autismspectrumdisorder.html</identifier>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title type="alternate" xml:lang="es">Autismo</dc:title>
+<dc:title type="alternate" xml:lang="es">Asperger, Síndrome</dc:title>
+<dc:title type="alternate" xml:lang="es">Trastornos generalizados del desarrollo</dc:title>
+<dc:title type="alternate" xml:lang="en">Pervasive Developmental Disorder</dc:title>
+<dc:title type="alternate" xml:lang="en">Asperger Syndrome</dc:title>
+<dc:title type="alternate" xml:lang="en">Autism</dc:title>
+<dc:type>Text</dc:type>
+<dc:language>spa</dc:language>
+<dc:language>eng</dc:language>
+<dc:title xml:lang="es">Trastorno del espectro autista</dc:title>
+<dc:title xml:lang="en">Autism Spectrum Disorder</dc:title>
+<dc:publisher>National Library of Medicine</dc:publisher>
+<dc:relation type="IsPartOf">Children and Teenagers</dc:relation>
+<dc:relation type="IsPartOf">Mental Health and Behavior</dc:relation>
+<dc:date type="created">2002-07-21</dc:date>
+<dc:date type="modified">2018-01-19</dc:date>
+<dc:identifier type="URL" xml:lang="es">https://medlineplus.gov/spanish/autismspectrumdisorder.html</dc:identifier>
+<dc:identifier type="URL" xml:lang="en">https://medlineplus.gov/autismspectrumdisorder.html</dc:identifier>
+<dc:description xml:lang="es">El trastorno del espectro autista (TEA) es una condición neurológica y de desarrollo que comienza en la niñez y dura toda la vida. Afecta cómo una persona se comporta, interactúa con otros, se comunica y aprende. Este trastorno incluye lo que se conocía como síndrome de Asperger y el trastorno generalizado del desarrollo no especificado. Se lo llama "trastorno de espectro" porque diferentes personas con TEA pueden tener una gran variedad de síntomas distintos. Estas pueden tener problemas para hablar con usted y es posible que no lo miren a los ojos cuando usted les habla. Además, pueden tener intereses limitados y comportamientos repetitivos. Es posible que pasen mucho tiempo ordenando cosas o repitiendo una frase una y otra vez. Parecieran estar en su "propio mundo". Durante los chequeos regulares, el doctor debería examinar el desarrollo de su niño. Si existen signos de TEA, su niño tendrá una evaluación completa y exhaustiva. Esta puede incluir un equipo de especialistas que realizarán varios exámenes y evaluaciones para llegar a un diagnóstico. No se conocen las causas del trastorno del espectro autista. Las investigaciones sugieren que tanto los genes como los factores ambientales juegan un rol importante. Actualmente, no existe un tratamiento estándar para el TEA. Hay muchas maneras de maximizar la capacidad del niño para crecer y aprender nuevas habilidades. Cuanto antes se comience, mayores son las probabilidades de tener más efectos positivos en los síntomas y las aptitudes. Los tratamientos incluyen terapias de comportamiento y de comunicación, desarrollo de habilidades y/o medicamentos para controlar los síntomas. NIH: Instituto Nacional de Salud Infantil y Desarrollo Humano</dc:description>
+<dc:description xml:lang="en">Autism spectrum disorder (ASD) is a neurological and developmental disorder that begins early in childhood and lasts throughout a person's life. It affects how a person acts and interacts with others, communicates, and learns. It includes what used to be known as Asperger syndrome and pervasive developmental disorders. It is called a "spectrum" disorder because people with ASD can have a range of symptoms. People with ASD might have problems talking with you, or they might not look you in the eye when you talk to them. They may also have restricted interests and repetitive behaviors. They may spend a lot of time putting things in order, or they may say the same sentence again and again. They may often seem to be in their "own world." At well-child checkups, the health care provider should check your child's development. If there are signs of ASD, your child will have a comprehensive evaluation. It may include a team of specialists, doing various tests and evaluations to make a diagnosis. The causes of ASD are not known. Research suggests that both genes and environment play important roles. There is currently no one standard treatment for ASD. There are many ways to increase your child's ability to grow and learn new skills. Starting them early can lead to better results. Treatments include behavior and communication therapies, skills training, and medicines to control symptoms. NIH: National Institute of Child Health and Human Development</dc:description>
+<dc:subject dcterms="mesh">Autism Spectrum Disorder</dc:subject>
+<dc:subject xml:lang="es">Trastorno del espectro autista</dc:subject>
+<dc:subject xml:lang="es">Autismo</dc:subject>
+<dc:subject xml:lang="es">Asperger</dc:subject>
+<dc:subject xml:lang="es">Síndrome</dc:subject>
+<dc:subject xml:lang="es">Trastornos generalizados del desarrollo</dc:subject>
+<dc:subject xml:lang="en">Autism Spectrum Disorder</dc:subject>
+<dc:subject xml:lang="en">Pervasive Developmental Disorder</dc:subject>
+<dc:subject xml:lang="en">Asperger Syndrome</dc:subject>
+<dc:subject xml:lang="en">Autism</dc:subject>
+</metadata>
+</record>
+</MedlinePlus-document>

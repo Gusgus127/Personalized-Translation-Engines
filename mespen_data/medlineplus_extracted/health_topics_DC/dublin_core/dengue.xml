@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<MedlinePlus-document>
+<record>
+<header>
+<identifier>https://medlineplus.gov/dengue.html</identifier>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:type>Text</dc:type>
+<dc:language>spa</dc:language>
+<dc:language>eng</dc:language>
+<dc:title xml:lang="es">Dengue</dc:title>
+<dc:title xml:lang="en">Dengue</dc:title>
+<dc:publisher>National Library of Medicine</dc:publisher>
+<dc:relation type="IsPartOf">Infections</dc:relation>
+<dc:date type="created">2003-02-07</dc:date>
+<dc:date type="modified">2017-07-07</dc:date>
+<dc:identifier type="URL" xml:lang="es">https://medlineplus.gov/spanish/dengue.html</dc:identifier>
+<dc:identifier type="URL" xml:lang="en">https://medlineplus.gov/dengue.html</dc:identifier>
+<dc:description xml:lang="es">El dengue es una infección causada por un virus. Usted puede infectarse si un mosquito infectado lo pica. El dengue no se transmite de persona a persona. Es común en áreas cálidas y húmedas del mundo. Los brotes pueden ocurrir en las épocas de lluvia. El dengue es raro en los Estados Unidos. Los síntomas incluyen fiebre alta, dolores de cabeza, dolor en las articulaciones y los músculos, vómitos y sarpullido. Algunas veces, el dengue se convierte en fiebre hemorrágica por dengue, que causa sangrado en la nariz, las encías o debajo de la piel. También puede convertirse en síndrome de shock por dengue que causa sangrado masivo y shock. Estas formas de dengue ponen la vida en peligro. No hay un tratamiento específico. La mayoría de las personas con dengue se recupera en unas dos semanas. Hasta entonces, beber abundantes líquidos, reposar y tomar medicamentos contra la fiebre que no sean aspirina puede ayudar. Las personas con las formas más peligrosas de dengue generalmente necesitan ir al hospital y recibir líquidos. Para disminuir el riesgo, cuando viaje a áreas donde hay dengue use repelentes para insectos que tengan DEET Utilice ropa que le cubra los brazos, las piernas y los pies Cierre las puertas y ventanas que no tengan telas protectoras NIH: Instituto Nacional de Alergias y Enfermedades Infecciosas</dc:description>
+<dc:description xml:lang="en">Dengue is an infection caused by a virus. You can get it if an infected mosquito bites you. Dengue does not spread from person to person. It is common in warm, wet areas of the world. Outbreaks occur in the rainy season. Dengue is rare in the United States. Symptoms include a high fever, headaches, joint and muscle pain, vomiting, and a rash. In some cases, dengue turns into dengue hemorrhagic fever, which causes bleeding from your nose, gums, or under your skin. It can also become dengue shock syndrome, which causes massive bleeding and shock. These forms of dengue are life-threatening. There is no specific treatment. Most people with dengue recover within 2 weeks. Until then, drinking lots of fluids, resting and taking non-aspirin fever-reducing medicines might help. People with the more severe forms of dengue usually need to go to the hospital and get fluids. To lower your risk when traveling to areas where dengue is found Wear insect repellent with DEET Wear clothes that cover your arms, legs and feet Close unscreened doors and windows NIH: National Institute of Allergy and Infectious Diseases</dc:description>
+<dc:subject dcterms="mesh">Dengue</dc:subject>
+<dc:subject xml:lang="es">Dengue</dc:subject>
+<dc:subject xml:lang="en">Dengue</dc:subject>
+<dc:subject xml:lang="en">Break-bone Fever</dc:subject>
+</metadata>
+</record>
+</MedlinePlus-document>

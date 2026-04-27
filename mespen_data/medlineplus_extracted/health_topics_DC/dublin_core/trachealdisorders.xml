@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<MedlinePlus-document>
+<record>
+<header>
+<identifier>https://medlineplus.gov/trachealdisorders.html</identifier>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title type="alternate" xml:lang="es">Tráquea, Enfermedades de la</dc:title>
+<dc:title type="alternate" xml:lang="en">Tracheostomy</dc:title>
+<dc:title type="alternate" xml:lang="en">Windpipe Disorders</dc:title>
+<dc:type>Text</dc:type>
+<dc:language>spa</dc:language>
+<dc:language>eng</dc:language>
+<dc:title xml:lang="es">Enfermedades de la tráquea</dc:title>
+<dc:title xml:lang="en">Tracheal Disorders</dc:title>
+<dc:publisher>National Library of Medicine</dc:publisher>
+<dc:relation type="IsPartOf">Lungs and Breathing</dc:relation>
+<dc:date type="created">2010-04-20</dc:date>
+<dc:date type="modified">2018-02-05</dc:date>
+<dc:identifier type="URL" xml:lang="es">https://medlineplus.gov/spanish/trachealdisorders.html</dc:identifier>
+<dc:identifier type="URL" xml:lang="en">https://medlineplus.gov/trachealdisorders.html</dc:identifier>
+<dc:description xml:lang="es">Su tráquea es una parte de su sistema respiratorio. Los órganos de su sistema respiratorio llevan aire rico en oxígeno hacia sus pulmones. También sacan dióxido de carbono fuera de sus pulmones. Cuando usted inhala, el aire viaja por su nariz a través de la laringe y luego por su tráquea. Esta se divide en dos bronquios que entran a sus pulmones. Los posibles problemas en la tráquea incluyen estrechamiento, inflamación y algunos problemas hereditarios. Usted puede necesitar un procedimiento llamado traqueotomía para ayudarle a respirar si tiene problemas al tragar o alguna condición que no lo deje toser o que interfiera con su respiración. Puede que también necesite una traqueotomía si usted esta en terapia intensiva y necesita estar en un respirador. NIH: Instituto Nacional del Corazón, los Pulmones y la Sangre</dc:description>
+<dc:description xml:lang="en">Your trachea, or windpipe, is one part of your airway system. Airways are pipes that carry oxygen-rich air to your lungs. They also carry carbon dioxide, a waste gas, out of your lungs. When you inhale, air travels from your nose, through your larynx, and down your windpipe. The windpipe splits into two bronchi that enter your lungs. Problems with the trachea include narrowing, inflammation, and some inherited conditions. You may need a procedure called a tracheostomy to help you breathe if you have swallowing problems, or have conditions that affect coughing or block your airways. You might also need a tracheostomy if you are in critical care and need to be on a breathing machine. NIH: National Heart, Lung, and Blood Institute</dc:description>
+<dc:subject dcterms="mesh">Tracheal Diseases</dc:subject>
+<dc:subject xml:lang="es">Enfermedades de la tráquea</dc:subject>
+<dc:subject xml:lang="es">Tráquea</dc:subject>
+<dc:subject xml:lang="es">Enfermedades de la</dc:subject>
+<dc:subject xml:lang="en">Tracheal Disorders</dc:subject>
+<dc:subject xml:lang="en">Tracheostomy</dc:subject>
+<dc:subject xml:lang="en">Windpipe Disorders</dc:subject>
+</metadata>
+</record>
+</MedlinePlus-document>

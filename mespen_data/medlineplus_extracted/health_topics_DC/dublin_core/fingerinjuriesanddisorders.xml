@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<MedlinePlus-document>
+<record>
+<header>
+<identifier>https://medlineplus.gov/fingerinjuriesanddisorders.html</identifier>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title type="alternate" xml:lang="es">Dedos, Lesiones y enfermedades de los</dc:title>
+<dc:title type="alternate" xml:lang="en">Thumb Injuries</dc:title>
+<dc:title type="alternate" xml:lang="en">Dupuytren Contracture</dc:title>
+<dc:type>Text</dc:type>
+<dc:language>spa</dc:language>
+<dc:language>eng</dc:language>
+<dc:title xml:lang="es">Lesiones y enfermedades de los dedos</dc:title>
+<dc:title xml:lang="en">Finger Injuries and Disorders</dc:title>
+<dc:publisher>National Library of Medicine</dc:publisher>
+<dc:relation type="IsPartOf">Bones, Joints and Muscles</dc:relation>
+<dc:relation type="IsPartOf">Injuries and Wounds</dc:relation>
+<dc:date type="created">2010-04-21</dc:date>
+<dc:date type="modified">2016-12-08</dc:date>
+<dc:identifier type="URL" xml:lang="es">https://medlineplus.gov/spanish/fingerinjuriesanddisorders.html</dc:identifier>
+<dc:identifier type="URL" xml:lang="en">https://medlineplus.gov/fingerinjuriesanddisorders.html</dc:identifier>
+<dc:description xml:lang="es">Usted utiliza sus dedos y pulgares para hacer de todo, desde tomar objetos y tocar instrumentos hasta escribir en la computadora. Cuando no funcionan bien, puede hacerle la vida difícil. Los problemas más comunes incluyen: Lesiones que producen fracturas ruptura de ligamentos y luxaciones Osteoartritis: desgaste que también puede causar deformidad Tendinitis: irritación de los tendones Contractura de Dupuytren: una afección hereditaria que produce un engrosamiento del tejido por debajo de la piel de su mano, lo que causa contractura y curvatura en sus dedos Dedo en gatillo: una irritación del revestimiento de los tendones flexores, lo que a veces causa que el tendón se flexione en forma de gatillo</dc:description>
+<dc:description xml:lang="en">You use your fingers and thumbs to do everything from grasping objects to playing musical instruments to typing. When there is something wrong with them, it can make life difficult. Common problems include Injuries that result in fractures, ruptured ligaments and dislocations Osteoarthritis - wear-and-tear arthritis. It can also cause deformity. Tendinitis - irritation of the tendons Dupuytren's contracture - a hereditary thickening of the tough tissue that lies just below the skin of your palm. It causes the fingers to stiffen and bend. Trigger finger - an irritation of the sheath that surrounds the flexor tendons. It can cause the tendon to catch and release like a trigger.</dc:description>
+<dc:subject dcterms="mesh">Finger Injuries</dc:subject>
+<dc:subject xml:lang="es">Lesiones y enfermedades de los dedos</dc:subject>
+<dc:subject xml:lang="es">Dedos</dc:subject>
+<dc:subject xml:lang="es">Lesiones y enfermedades de los</dc:subject>
+<dc:subject xml:lang="en">Finger Injuries and Disorders</dc:subject>
+<dc:subject xml:lang="en">Thumb Injuries</dc:subject>
+<dc:subject xml:lang="en">Dupuytren Contracture</dc:subject>
+</metadata>
+</record>
+</MedlinePlus-document>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<MedlinePlus-document>
+<record>
+<header>
+<identifier>https://medlineplus.gov/healthinsurance.html</identifier>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title type="alternate" xml:lang="es">Aseguranza</dc:title>
+<dc:title type="alternate" xml:lang="en">Insurance</dc:title>
+<dc:title type="alternate" xml:lang="en">HIPAA</dc:title>
+<dc:title type="alternate" xml:lang="en">Affordable Care Act</dc:title>
+<dc:type>Text</dc:type>
+<dc:language>spa</dc:language>
+<dc:language>eng</dc:language>
+<dc:title xml:lang="es">Seguro de salud</dc:title>
+<dc:title xml:lang="en">Health Insurance</dc:title>
+<dc:publisher>National Library of Medicine</dc:publisher>
+<dc:relation type="IsPartOf">Health System</dc:relation>
+<dc:date type="created">2002-07-21</dc:date>
+<dc:date type="modified">2018-01-09</dc:date>
+<dc:identifier type="URL" xml:lang="es">https://medlineplus.gov/spanish/healthinsurance.html</dc:identifier>
+<dc:identifier type="URL" xml:lang="en">https://medlineplus.gov/healthinsurance.html</dc:identifier>
+<dc:description xml:lang="es">El seguro para el cuidado de la salud ayuda a la gente a protegerse contra los elevados costos médicos. Es un contrato entre la persona y la compañía de seguros en donde la persona compra un plan y la compañía accede a cubrir parte de los gastos médicos. Mucha gente en los Estados Unidos tiene un seguro para el cuidado de la salud a través de sus empleadores. En la mayoría de los casos, el empleador ayuda a pagar ese seguro. El seguro a través de los empleadores suele ser un plan de atención médica administrada. Estos planes contratan a profesionales de la salud y centros médicos para suministrarles atención médica a los afiliados, con costos reducidos. También puede adquirir por su cuenta un seguro para el cuidado de la salud. Las personas que cumplen con ciertos requisitos pueden tener derecho a un seguro gubernamental para el cuidado de la salud, tales como Medicare y Medicaid. La Ley del Cuidado de Salud a Bajo Precio amplia la cobertura para muchas personas en los Estados Unidos.</dc:description>
+<dc:description xml:lang="en">Health insurance helps protect you from high medical care costs. It is a contract between you and your insurance company. You buy a plan or policy, and the company agrees to pay part of your expenses when you need medical care. Many people in the United States get a health insurance policy through their employers. In most cases, the employer helps pay for that insurance. Insurance through employers is often with a managed care plan. These plans contract with health care providers and medical facilities to provide care for members at reduced costs. You can also purchase health insurance on your own. People who meet certain requirements can qualify for government health insurance, such as Medicare and Medicaid. The Affordable Care Act expands health insurance coverage for many people in the U.S.</dc:description>
+<dc:subject dcterms="mesh">Insurance, Health</dc:subject>
+<dc:subject xml:lang="es">Seguro de salud</dc:subject>
+<dc:subject xml:lang="es">Aseguranza</dc:subject>
+<dc:subject xml:lang="en">Health Insurance</dc:subject>
+<dc:subject xml:lang="en">Insurance</dc:subject>
+<dc:subject xml:lang="en">HIPAA</dc:subject>
+<dc:subject xml:lang="en">Affordable Care Act</dc:subject>
+</metadata>
+</record>
+</MedlinePlus-document>

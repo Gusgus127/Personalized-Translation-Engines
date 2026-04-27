@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<MedlinePlus-document>
+<record>
+<header>
+<identifier>https://medlineplus.gov/teendevelopment.html</identifier>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title type="alternate" xml:lang="es">Adolescentes, Desarrollo de los</dc:title>
+<dc:title type="alternate" xml:lang="en">Adolescent Development</dc:title>
+<dc:type>Text</dc:type>
+<dc:language>spa</dc:language>
+<dc:language>eng</dc:language>
+<dc:title xml:lang="es">Desarrollo del adolescente</dc:title>
+<dc:title xml:lang="en">Teen Development</dc:title>
+<dc:publisher>National Library of Medicine</dc:publisher>
+<dc:relation type="IsPartOf">Mental Health and Behavior</dc:relation>
+<dc:relation type="IsPartOf">Children and Teenagers</dc:relation>
+<dc:date type="created">2002-07-21</dc:date>
+<dc:date type="modified">2017-09-14</dc:date>
+<dc:identifier type="URL" xml:lang="es">https://medlineplus.gov/spanish/teendevelopment.html</dc:identifier>
+<dc:identifier type="URL" xml:lang="en">https://medlineplus.gov/teendevelopment.html</dc:identifier>
+<dc:description xml:lang="es">Como adolescente, pasas por muchos cambios físicos, mentales, emocionales y sociales. El cambio más grande es la pubertad el proceso por el cual se llega a la madurez sexual. Por lo general, ocurre entre los 10 y 14 para las niñas y los 12 y 16 para los varones. A medida que tu cuerpo cambia, puede que tengas preguntas sobre la salud sexual. Durante este tiempo, comienzas a desarrollar tu propia personalidad y opiniones. Algunos cambios que podrías notar incluyen Aumento de la independencia de tus padres Más preocupaciones sobre la imagen corporal y la ropa Más influencia de tus compañeros Mayor capacidad de sentir el bien y el mal Todos estos cambios a veces pueden ser abrumadores. Un poco de tristeza o mal humor puede ser normal. Pero sentirse muy triste, sin esperanza o sin valor podrían ser señales de advertencia de un problema de salud mental. Si necesitas ayuda, habla con tus padres, un consejero escolar o un profesional de la salud. Centros para el Control y la Prevención de Enfermedades</dc:description>
+<dc:description xml:lang="en">As a teenager, you go through many physical, mental, emotional, and social changes. The biggest change is puberty, the process of becoming sexually mature. It usually happens between ages 10 and 14 for girls and ages 12 and 16 for boys. As your body changes, you may have questions about sexual health. During this time, you start to develop your own unique personality and opinions. Some changes that you might notice include Increased independence from your parents More concerns about body image and clothes More influence from peers Greater ability to sense right and wrong All of these changes can sometimes seem overwhelming. Some sadness or moodiness can be normal. But feeling very sad, hopeless, or worthless could be warning signs of a mental health problem. If you need help, talk to your parents, school counselor, or health care provider. Centers for Disease Control and Prevention</dc:description>
+<dc:subject dcterms="mesh">Adolescent Development</dc:subject>
+<dc:subject dcterms="mesh">Psychology, Adolescent</dc:subject>
+<dc:subject xml:lang="es">Desarrollo del adolescente</dc:subject>
+<dc:subject xml:lang="es">Adolescentes</dc:subject>
+<dc:subject xml:lang="es">Desarrollo de los</dc:subject>
+<dc:subject xml:lang="en">Teen Development</dc:subject>
+<dc:subject xml:lang="en">Adolescent Development</dc:subject>
+</metadata>
+</record>
+</MedlinePlus-document>

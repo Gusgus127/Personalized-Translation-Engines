@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<MedlinePlus-document>
+<record>
+<header>
+<identifier>https://medlineplus.gov/nauseaandvomiting.html</identifier>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title type="alternate" xml:lang="es">Vómito</dc:title>
+<dc:title type="alternate" xml:lang="en">Vomiting</dc:title>
+<dc:type>Text</dc:type>
+<dc:language>spa</dc:language>
+<dc:language>eng</dc:language>
+<dc:title xml:lang="es">Náusea y vómitos</dc:title>
+<dc:title xml:lang="en">Nausea and Vomiting</dc:title>
+<dc:publisher>National Library of Medicine</dc:publisher>
+<dc:relation type="IsPartOf">Digestive System</dc:relation>
+<dc:relation type="IsPartOf">Symptoms</dc:relation>
+<dc:date type="created">2002-07-21</dc:date>
+<dc:date type="modified">2018-01-10</dc:date>
+<dc:identifier type="URL" xml:lang="es">https://medlineplus.gov/spanish/nauseaandvomiting.html</dc:identifier>
+<dc:identifier type="URL" xml:lang="en">https://medlineplus.gov/nauseaandvomiting.html</dc:identifier>
+<dc:description xml:lang="es">La náusea es una sensación de malestar o de estómago revuelto junto con una urgencia por vomitar. La náusea y los vómitos no son enfermedades. Pueden ser síntomas de muchos cuadros diferentes. Entre ellos se incluyen malestar matutino durante el embarazo, infecciones, dolores de cabeza tipo migraña, mareos por el movimiento, intoxicación por alimentos, quimioterapia por un cáncer u otras medicinas. En los casos de niños y en adultos con vómitos, evite alimentos sólidos hasta que los vómitos se hayan detenido durante por lo menos seis horas. Luego, vuelva a alimentarse con una dieta normal. Ingiera pequeñas cantidades de líquidos transparentes para evitar la deshidratación. La náusea y los vómitos son comunes. Por lo general, no son serios. Debe consultar a un médico de inmediato si sospecha una intoxicación o si tiene: Vómitos durante más de 24 horas Presencia de sangre en el vómito Dolor abdominal severo Dolor de cabeza y rigidez en la nuca Signos de deshidratación, tales como boca seca, frecuencia urinaria escasa y orina oscura</dc:description>
+<dc:description xml:lang="en">Nausea is an uneasy or unsettled feeling in the stomach together with an urge to vomit. Nausea and vomiting, or throwing up, are not diseases. They can be symptoms of many different conditions. These include morning sickness during pregnancy, infections, migraine headaches, motion sickness, food poisoning, cancer chemotherapy or other medicines. For vomiting in children and adults, avoid solid foods until vomiting has stopped for at least six hours. Then work back to a normal diet. Drink small amounts of clear liquids to avoid dehydration. Nausea and vomiting are common. Usually, they are not serious. You should see a doctor immediately if you suspect poisoning or if you have Vomited for longer than 24 hours Blood in the vomit Severe abdominal pain Headache and stiff neck Signs of dehydration, such as dry mouth, infrequent urination or dark urine</dc:description>
+<dc:subject dcterms="mesh">Nausea</dc:subject>
+<dc:subject dcterms="mesh">Vomiting</dc:subject>
+<dc:subject xml:lang="es">Náusea y vómitos</dc:subject>
+<dc:subject xml:lang="es">Vómito</dc:subject>
+<dc:subject xml:lang="en">Nausea and Vomiting</dc:subject>
+<dc:subject xml:lang="en">Vomiting</dc:subject>
+</metadata>
+</record>
+</MedlinePlus-document>

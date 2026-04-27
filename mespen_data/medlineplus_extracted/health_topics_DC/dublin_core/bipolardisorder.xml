@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<MedlinePlus-document>
+<record>
+<header>
+<identifier>https://medlineplus.gov/bipolardisorder.html</identifier>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:type>Text</dc:type>
+<dc:language>spa</dc:language>
+<dc:language>eng</dc:language>
+<dc:title xml:lang="es">Trastorno bipolar</dc:title>
+<dc:title xml:lang="en">Bipolar Disorder</dc:title>
+<dc:publisher>National Library of Medicine</dc:publisher>
+<dc:relation type="IsPartOf">Mental Health and Behavior</dc:relation>
+<dc:date type="created">2002-07-21</dc:date>
+<dc:date type="modified">2017-12-15</dc:date>
+<dc:identifier type="URL" xml:lang="es">https://medlineplus.gov/spanish/bipolardisorder.html</dc:identifier>
+<dc:identifier type="URL" xml:lang="en">https://medlineplus.gov/bipolardisorder.html</dc:identifier>
+<dc:description xml:lang="es">El trastorno bipolar es una enfermedad mental severa. Las personas que la sufren experimentan cambios de ánimo poco comunes. Pueden pasar de ser muy activos y felices a sentirse muy tristes y desesperanzados. Y, así, empezar el ciclo otra vez. Frecuentemente tienen estados de ánimo normales entre uno y otro ciclo. A las sensaciones de euforia y actividad se les llama manías. A las de tristeza y desesperanza se les llama depresión. Las causas de este trastorno no son del todo claras. Pueden ser genéticas, o sea que pueden tener una tendencia familiar. Otra causa puede ser una estructura anormal de las funciones del cerebro. El trastorno bipolar suele empezar en los últimos años de la adolescencia o al inicio de la edad adulta pero niños y adultos también pueden sufrirlo. La enfermedad, generalmente, dura toda la vida. Si no se trata, el trastorno bipolar puede dañar las relaciones personales, causar bajo rendimiento en la escuela o en el trabajo e incluso el suicidio. Sin embargo, existen tratamientos eficaces para tratar los síntomas: medicinas y "terapia de conversación". La combinación de ambas suele ser lo que mejor funciona. NIH: Instituto Nacional de la Salud Mental</dc:description>
+<dc:description xml:lang="en">Bipolar disorder is a serious mental illness. People who have it go through unusual mood changes. They go from very happy, "up," and active to very sad and hopeless, "down," and inactive, and then back again. They often have normal moods in between. The up feeling is called mania. The down feeling is depression. The causes of bipolar disorder aren't always clear. It runs in families. Abnormal brain structure and function may also play a role. Bipolar disorder often starts in a person's late teen or early adult years. But children and adults can have bipolar disorder too. The illness usually lasts a lifetime. If you think you may have it, tell your health care provider. A medical checkup can rule out other illnesses that might cause your mood changes. If not treated, bipolar disorder can lead to damaged relationships, poor job or school performance, and even suicide. However, there are effective treatments to control symptoms: medicine and talk therapy. A combination usually works best. NIH: National Institute of Mental Health</dc:description>
+<dc:subject dcterms="mesh">Bipolar Disorder</dc:subject>
+<dc:subject xml:lang="es">Trastorno bipolar</dc:subject>
+<dc:subject xml:lang="en">Bipolar Disorder</dc:subject>
+<dc:subject xml:lang="en">Manic-Depressive Illness</dc:subject>
+<dc:subject xml:lang="en">Bi-polar Disorder</dc:subject>
+</metadata>
+</record>
+</MedlinePlus-document>

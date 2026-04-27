@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<MedlinePlus-document>
+<record>
+<header>
+<identifier>https://medlineplus.gov/klinefelterssyndrome.html</identifier>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:type>Text</dc:type>
+<dc:language>spa</dc:language>
+<dc:language>eng</dc:language>
+<dc:title xml:lang="es">Síndrome de Klinefelter</dc:title>
+<dc:title xml:lang="en">Klinefelter's Syndrome</dc:title>
+<dc:publisher>National Library of Medicine</dc:publisher>
+<dc:relation type="IsPartOf">Genetics/Birth Defects</dc:relation>
+<dc:relation type="IsPartOf">Men</dc:relation>
+<dc:date type="created">2005-06-01</dc:date>
+<dc:date type="modified">2017-09-25</dc:date>
+<dc:identifier type="URL" xml:lang="es">https://medlineplus.gov/spanish/klinefelterssyndrome.html</dc:identifier>
+<dc:identifier type="URL" xml:lang="en">https://medlineplus.gov/klinefelterssyndrome.html</dc:identifier>
+<dc:description xml:lang="es">El síndrome de Klinefelter es un cuadro que ocurre entre los hombres que tienen un cromosoma X adicional en la mayoría de sus células. El síndrome puede afectar las diversas etapas del desarrollo físico, social y del lenguaje. El síntoma más común es la infertilidad. Debido a que generalmente no producen la misma cantidad de testosterona que los demás varones, los adolescentes con síndrome de Klinefelter pueden tener menos vello facial y corporal y ser menos musculosos que otros niños. Pueden presentar dificultades para usar el lenguaje y expresarse. Es posible que sean tímidos y tengan problemas de adaptación. Es importante comenzar el tratamiento lo antes posible. Con el tratamiento, la mayoría de los niños crece y tiene una vida sexual normal, una carrera exitosa y relaciones sociales normales. Los tratamientos incluyen: Servicios educativos Terapia física, del lenguaje y ocupacional Tratamientos médicos que incluyen reemplazo de testosterona NIH: Instituto Nacional de Salud Infantil y Desarrollo Humano</dc:description>
+<dc:description xml:lang="en">Klinefelter syndrome (KS) is a condition that occurs in men who have an extra X chromosome. The syndrome can affect different stages of physical, language, and social development. The most common symptom is infertility. Boys may be taller than other boys their age, with more fat around the belly. After puberty, KS boys may have Smaller testes and penis Breast growth Less facial and body hair Reduced muscle tone Narrower shoulders and wider hips Weaker bones Decreased sexual interest Lower energy KS males may have learning or language problems. They may be quiet and shy and have trouble fitting in. A genetic test can diagnose KS. There is no cure, but treatments are available. It is important to start treatment as early as possible. With treatment, most boys grow up to have normal lives. Treatments include testosterone replacement therapy and breast reduction surgery. If needed, physical, speech, language, and occupational therapy may also help. NIH: National Institute of Child Health and Human Development</dc:description>
+<dc:subject dcterms="mesh">Klinefelter Syndrome</dc:subject>
+<dc:subject xml:lang="es">Síndrome de Klinefelter</dc:subject>
+<dc:subject xml:lang="en">Klinefelter's Syndrome</dc:subject>
+</metadata>
+</record>
+</MedlinePlus-document>

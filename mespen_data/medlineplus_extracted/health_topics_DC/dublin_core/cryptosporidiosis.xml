@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<MedlinePlus-document>
+<record>
+<header>
+<identifier>https://medlineplus.gov/cryptosporidiosis.html</identifier>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:type>Text</dc:type>
+<dc:language>spa</dc:language>
+<dc:language>eng</dc:language>
+<dc:title xml:lang="es">Criptosporidiosis</dc:title>
+<dc:title xml:lang="en">Cryptosporidiosis</dc:title>
+<dc:publisher>National Library of Medicine</dc:publisher>
+<dc:relation type="IsPartOf">Infections</dc:relation>
+<dc:relation type="IsPartOf">Immune System</dc:relation>
+<dc:date type="created">2002-07-21</dc:date>
+<dc:date type="modified">2017-07-17</dc:date>
+<dc:identifier type="URL" xml:lang="es">https://medlineplus.gov/spanish/cryptosporidiosis.html</dc:identifier>
+<dc:identifier type="URL" xml:lang="en">https://medlineplus.gov/cryptosporidiosis.html</dc:identifier>
+<dc:description xml:lang="es">La criptosporidiosis es una enfermedad causada por un parásito. Este parásito vive en la tierra, los alimentos y el agua. También puede estar en las superficies contaminadas con heces. Usted puede infectarse si se traga el parásito, si está en su comida, en el agua que bebe o en la que nada. También puede infectarse si se toca la boca con manos contaminadas. El síntoma más común es una diarrea acuosa. Otros síntomas pueden incluir: Deshidratación Pérdida de peso Cólicos o dolor estomacal Fiebre Náusea Vómitos Contacte a su proveedor de salud si tiene diarrea acuosa que dura más de algunos días. La mayoría de las personas con criptosporidiosis se mejora sin tratamiento en una a dos semanas. Sin embargo, las personas con sistemas inmunitarios debilitados, como con VIH/SIDA, pueden presentar problemas serios. Para reducir su riesgo, lávese las manos con frecuencia, sólo beba agua que sabe es segura y lave o pele las frutas frescas y los vegetales antes de consumirlos. Centros para el Control y la Prevención de Enfermedades</dc:description>
+<dc:description xml:lang="en">Cryptosporidiosis (crypto) is an illness caused by a parasite. The parasite lives in soil, food, and water. It may also be on surfaces that have been contaminated with feces (poop). You can become infected by swallowing the parasite, if it is in your food, drinking water, or water that you swim in. You can also get it by touching your mouth with contaminated hands. The most common symptom of crypto is watery diarrhea. Other symptoms include Dehydration Weight loss Stomach cramps or pain Fever Nausea Vomiting Contact your health care provider if you have watery diarrhea that lasts more than a few days. Most people with crypto get better without treatment within one to two weeks. But crypto can cause serious problems in people with weak immune systems, like those with HIV/AIDS. To reduce your risk of crypto, wash your hands often, only drink water that you know is safe, and wash or peel fresh fruits and vegetables before eating. Centers for Disease Control and Prevention</dc:description>
+<dc:subject dcterms="mesh">Cryptosporidiosis</dc:subject>
+<dc:subject xml:lang="es">Criptosporidiosis</dc:subject>
+<dc:subject xml:lang="en">Cryptosporidiosis</dc:subject>
+</metadata>
+</record>
+</MedlinePlus-document>

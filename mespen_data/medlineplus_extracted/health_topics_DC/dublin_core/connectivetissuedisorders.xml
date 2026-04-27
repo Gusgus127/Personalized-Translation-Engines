@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<MedlinePlus-document>
+<record>
+<header>
+<identifier>https://medlineplus.gov/connectivetissuedisorders.html</identifier>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:type>Text</dc:type>
+<dc:language>spa</dc:language>
+<dc:language>eng</dc:language>
+<dc:title xml:lang="es">Enfermedades del tejido conectivo</dc:title>
+<dc:title xml:lang="en">Connective Tissue Disorders</dc:title>
+<dc:publisher>National Library of Medicine</dc:publisher>
+<dc:relation type="IsPartOf">Bones, Joints and Muscles</dc:relation>
+<dc:date type="created">2004-02-25</dc:date>
+<dc:date type="modified">2018-01-18</dc:date>
+<dc:identifier type="URL" xml:lang="es">https://medlineplus.gov/spanish/connectivetissuedisorders.html</dc:identifier>
+<dc:identifier type="URL" xml:lang="en">https://medlineplus.gov/connectivetissuedisorders.html</dc:identifier>
+<dc:description xml:lang="es">Su tejido conectivo apoya a muchas partes diferentes de su cuerpo, como la piel, los ojos y el corazón. Es como un "pegamento celular" que entrega su forma a partes de su cuerpo y ayuda a mantenerlas fuertes. También ayuda a algunos de tus tejidos a hacer su trabajo. Está hecho de muchos tipos de proteínas. El cartílago y la grasa son tipos de tejido conectivo. Existen más de 200 trastornos que afectan el tejido conectivo. Hay de diferentes tipos: Trastornos genéticos, como el síndrome de Ehlers-Danlos, síndrome de Marfan y la osteogénesis imperfecta Enfermedades autoinmunes, como el lupus y la esclerodermia Cáncer, como algunos tipos de sarcoma del tejido blando Cada trastorno tiene sus propios síntomas y requiere diferentes tratamientos. NIH: Instituto Nacional de Artritis y Enfermedades Musculoesqueléticas y de la Piel</dc:description>
+<dc:description xml:lang="en">Your connective tissue supports many different parts of your body, such as your skin, eyes, and heart. It is like a "cellular glue" that gives your body parts their shape and helps keep them strong. It also helps some of your tissues do their work. It is made of many kinds of proteins. Cartilage and fat are types of connective tissue. Over 200 disorders that impact connective tissue. There are different types: Genetic disorders, such as Ehlers-Danlos syndrome, Marfan syndrome, and osteogenesis imperfecta Autoimmune disorders, such as lupus and scleroderma Cancers, like some types of soft tissue sarcoma Each disorder has its own symptoms and needs different treatment. NIH: National Institute of Arthritis and Musculoskeletal and Skin Diseases</dc:description>
+<dc:subject dcterms="mesh">Connective Tissue Diseases</dc:subject>
+<dc:subject xml:lang="es">Enfermedades del tejido conectivo</dc:subject>
+<dc:subject xml:lang="en">Connective Tissue Disorders</dc:subject>
+<dc:subject xml:lang="en">Mixed Connective Tissue Disease</dc:subject>
+<dc:subject xml:lang="en">PXE</dc:subject>
+</metadata>
+</record>
+</MedlinePlus-document>

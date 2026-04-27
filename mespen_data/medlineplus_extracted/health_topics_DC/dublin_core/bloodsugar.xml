@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<MedlinePlus-document>
+<record>
+<header>
+<identifier>https://medlineplus.gov/bloodsugar.html</identifier>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:type>Text</dc:type>
+<dc:language>spa</dc:language>
+<dc:language>eng</dc:language>
+<dc:title xml:lang="es">Azúcar en la sangre</dc:title>
+<dc:title xml:lang="en">Blood Sugar</dc:title>
+<dc:publisher>National Library of Medicine</dc:publisher>
+<dc:relation type="IsPartOf">Metabolic Problems</dc:relation>
+<dc:relation type="IsPartOf">Endocrine System</dc:relation>
+<dc:relation type="IsPartOf">Diabetes Mellitus</dc:relation>
+<dc:date type="created">2013-04-10</dc:date>
+<dc:date type="modified">2018-01-03</dc:date>
+<dc:identifier type="URL" xml:lang="es">https://medlineplus.gov/spanish/bloodsugar.html</dc:identifier>
+<dc:identifier type="URL" xml:lang="en">https://medlineplus.gov/bloodsugar.html</dc:identifier>
+<dc:description xml:lang="es">El azúcar en la sangre, también llamada "glucosa" es el azúcar principal que se encuentra en su sangre. Esta proviene de los alimentos que usted consume y es su principal fuente de energía. Su sangre lleva la glucosa a todas las células de su cuerpo para ser usada como energía. La diabetes es una enfermedad que se caracteriza por niveles elevados de azúcar en la sangre. Con el tiempo, esto puede causar serios problemas. Aunque una persona no tenga diabetes también puede tener problemas de salud si el azúcar en su sangre está muy bajo o muy alto. Mantener un plan de comidas, actividades y medicamentos puede ayudar a regular el azúcar. Si usted sufre de diabetes, es importante que mantenga el azúcar en un nivel determinado. Quizás necesite medirla varias veces al día. Su proveedor de cuidados de salud también realizará un examen llamado A1c que analiza el promedio de azúcar en la sangre en los tres últimos meses. Si el azúcar es demasiado alto, quizás sea necesario tomar medicamentos y/o seguir una dieta especial. Centros para el Control y la Prevención de Enfermedades</dc:description>
+<dc:description xml:lang="en">Blood sugar, or glucose, is the main sugar found in your blood. It comes from the food you eat, and is your body's main source of energy. Your blood carries glucose to all of your body's cells to use for energy. Diabetes is a disease in which your blood sugar levels are too high. Over time, having too much glucose in your blood can cause serious problems. Even if you don't have diabetes, sometimes you may have problems with blood sugar that is too low or too high. Keeping a regular schedule of eating, activity, and taking any medicines you need can help. If you do have diabetes, it is very important to keep your blood sugar numbers in your target range. You may need to check your blood sugar several times each day. Your health care provider will also do a blood test called an A1C. It checks your average blood sugar level over the past three months. If your blood sugar is too high, you may need to take medicines and/or follow a special diet. NIH: National Institute of Diabetes and Digestive and Kidney Diseases</dc:description>
+<dc:subject dcterms="mesh">Blood Glucose</dc:subject>
+<dc:subject xml:lang="es">Azúcar en la sangre</dc:subject>
+<dc:subject xml:lang="en">Blood Sugar</dc:subject>
+<dc:subject xml:lang="en">Blood Glucose</dc:subject>
+<dc:subject xml:lang="en">Glucose</dc:subject>
+</metadata>
+</record>
+</MedlinePlus-document>

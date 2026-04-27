@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<MedlinePlus-document>
+<record>
+<header>
+<identifier>https://medlineplus.gov/lipidmetabolismdisorders.html</identifier>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title type="alternate" xml:lang="es">Lípidos, Trastornos metabólicos de los</dc:title>
+<dc:title type="alternate" xml:lang="es">Grasas, Trastornos metabólicos de las</dc:title>
+<dc:type>Text</dc:type>
+<dc:language>spa</dc:language>
+<dc:language>eng</dc:language>
+<dc:title xml:lang="es">Trastornos del metabolismo de los lípidos</dc:title>
+<dc:title xml:lang="en">Lipid Metabolism Disorders</dc:title>
+<dc:publisher>National Library of Medicine</dc:publisher>
+<dc:relation type="IsPartOf">Metabolic Problems</dc:relation>
+<dc:date type="created">2016-10-05</dc:date>
+<dc:date type="modified">2017-12-18</dc:date>
+<dc:identifier type="URL" xml:lang="es">https://medlineplus.gov/spanish/lipidmetabolismdisorders.html</dc:identifier>
+<dc:identifier type="URL" xml:lang="en">https://medlineplus.gov/lipidmetabolismdisorders.html</dc:identifier>
+<dc:description xml:lang="es">El metabolismo es el proceso que su cuerpo utiliza para producir energía a partir de los alimentos que consume. Los alimentos se componen de proteínas, carbohidratos y grasas. Los productos químicos en su sistema digestivo (enzimas) descomponen la comida en azúcares y ácidos, el combustible para su cuerpo. Usted puede utilizar este combustible en forma inmediata, o puede almacenarlo en sus tejidos corporales. Si usted tiene un trastornos metabólico, hay un problema en este proceso. Los trastornos del metabolismo de los lípidos, como la enfermedad de Gaucher y la enfermedad de Tay-Sachs, tienen que ver con los lípidos. Los lípidos son grasas o sustancias similares a la grasa. Estos incluyen aceites, ácidos grasos, ceras y colesterol. Si usted tiene alguno de estos trastornos, puede que no tenga suficientes enzimas para descomponer los lípidos, o las enzimas pueden no funcionar en forma correcta y su cuerpo no puede convertir las grasas en energía. Esto causa que una cantidad dañina de lípidos se acumule en su organismo. Con el tiempo, se pueden dañar las células y los tejidos, especialmente en el cerebro, el sistema nervioso periférico, el hígado, el bazo y la médula ósea. Muchos de estos trastornos pueden ser muy graves, o incluso a veces fatales. Estos trastornos se heredan. Muchos bebés recién nacidos son sometidos a pruebas mediante análisis de sangre. Si hay historia familiar de uno de estos trastornos, los padres pueden obtener pruebas genéticas para ver si son portadores del gen. Otras pruebas genéticas pueden determinar si el feto tiene el trastorno o si es portador del gen del trastorno. Las terapias de reemplazo de enzimas pueden ayudar con algunos de estos trastornos. Para otros no existe tratamiento. Medicamentos, transfusiones de sangre y otros procedimientos pueden ayudar con las complicaciones.</dc:description>
+<dc:description xml:lang="en">Metabolism is the process your body uses to make energy from the food you eat. Food is made up of proteins, carbohydrates, and fats. Chemicals in your digestive system (enzymes) break the food parts down into sugars and acids, your body's fuel. Your body can use this fuel right away, or it can store the energy in your body tissues. If you have a metabolic disorder, something goes wrong with this process. Lipid metabolism disorders, such as Gaucher disease and Tay-Sachs disease, involve lipids. Lipids are fats or fat-like substances. They include oils, fatty acids, waxes, and cholesterol. If you have one of these disorders, you may not have enough enzymes to break down lipids. Or the enzymes may not work properly and your body can't convert the fats into energy. They cause a harmful amount of lipids to build up in your body. Over time, that can damage your cells and tissues, especially in the brain, peripheral nervous system, liver, spleen, and bone marrow. Many of these disorders can be very serious, or sometimes even fatal. These disorders are inherited. Newborn babies get screened for some of them, using blood tests. If there is a family history of one of these disorders, parents can get genetic testing to see whether they carry the gene. Other genetic tests can tell whether the fetus has the disorder or carries the gene for the disorder. Enzyme replacement therapies can help with a few of these disorders. For others, there is no treatment. Medicines, blood transfusions, and other procedures may help with complications.</dc:description>
+<dc:subject dcterms="mesh">Lipid Metabolism Disorders</dc:subject>
+<dc:subject dcterms="mesh">Lipid Metabolism, Inborn Errors</dc:subject>
+<dc:subject xml:lang="es">Trastornos del metabolismo de los lípidos</dc:subject>
+<dc:subject xml:lang="es">Lípidos</dc:subject>
+<dc:subject xml:lang="es">Trastornos metabólicos de los</dc:subject>
+<dc:subject xml:lang="es">Grasas</dc:subject>
+<dc:subject xml:lang="es">Trastornos metabólicos de las</dc:subject>
+<dc:subject xml:lang="en">Lipid Metabolism Disorders</dc:subject>
+</metadata>
+</record>
+</MedlinePlus-document>

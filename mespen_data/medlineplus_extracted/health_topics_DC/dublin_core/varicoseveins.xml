@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<MedlinePlus-document>
+<record>
+<header>
+<identifier>https://medlineplus.gov/varicoseveins.html</identifier>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title type="alternate" xml:lang="es">Varicosidad</dc:title>
+<dc:title type="alternate" xml:lang="es">Varicosas</dc:title>
+<dc:title type="alternate" xml:lang="es">Venas varicosas</dc:title>
+<dc:title type="alternate" xml:lang="en">Spider Veins</dc:title>
+<dc:title type="alternate" xml:lang="en">Veins</dc:title>
+<dc:type>Text</dc:type>
+<dc:language>spa</dc:language>
+<dc:language>eng</dc:language>
+<dc:title xml:lang="es">Várices</dc:title>
+<dc:title xml:lang="en">Varicose Veins</dc:title>
+<dc:publisher>National Library of Medicine</dc:publisher>
+<dc:relation type="IsPartOf">Blood, Heart and Circulation</dc:relation>
+<dc:date type="created">2002-08-19</dc:date>
+<dc:date type="modified">2017-12-13</dc:date>
+<dc:identifier type="URL" xml:lang="es">https://medlineplus.gov/spanish/varicoseveins.html</dc:identifier>
+<dc:identifier type="URL" xml:lang="en">https://medlineplus.gov/varicoseveins.html</dc:identifier>
+<dc:description xml:lang="es">Las venas varicosas son venas hinchadas y retorcidas que pueden verse justo debajo de la piel. Por lo general ocurren en las piernas, pero también se pueden formar en otras partes del cuerpo. Las hemorroides son un tipo de vena varicosa. Sus venas tienen válvulas que ayudan a mantener la sangre fluyendo en una sola dirección hacia su corazón. Si las válvulas están débiles o dañadas, la sangre puede detenerse y acumularse en las venas. Esto hace que las venas se hinchen, lo que puede conducir a venas varicosas. Las várices son muy comunes. Usted está en mayor riesgo si es mayor, mujer, tiene obesidad, no hace ejercicio o tiene antecedentes familiares de venas varicosas. También pueden ser más comunes durante el embarazo. Los médicos a menudo diagnostican las várices con un examen físico. A veces es posible que necesite pruebas adicionales. Hacer ejercicio, perder peso, elevar las piernas al descansar y no cruzarlas al sentarse puede ayudar a evitar que las várices empeoren. El uso de ropa suelta y evitar largos períodos de pie también puede ayudar. Si las várices son dolorosas o no le gusta su apariencia, su médico puede recomendar procedimientos para extirparlas. NIH: Instituto Nacional del Corazón, los Pulmones y la Sangre</dc:description>
+<dc:description xml:lang="en">Varicose veins are swollen, twisted veins that you can see just under the skin. They usually occur in the legs, but also can form in other parts of the body. Hemorrhoids are a type of varicose vein. Your veins have one-way valves that help keep blood flowing toward your heart. If the valves are weak or damaged, blood can back up and pool in your veins. This causes the veins to swell, which can lead to varicose veins. Varicose veins are very common. You are more at risk if you are older, are female, have obesity, don't exercise, or have a family history of varicose veins. They can also be more common in pregnancy. Doctors often diagnose varicose veins from a physical exam. Sometimes you may need additional tests. Exercising, losing weight, elevating your legs when resting, and not crossing them when sitting can help keep varicose veins from getting worse. Wearing loose clothing and avoiding long periods of standing can also help. If varicose veins are painful or you don't like the way they look, your doctor may recommend procedures to remove them. NIH: National Heart, Lung, and Blood Institute</dc:description>
+<dc:subject dcterms="mesh">Varicose Veins</dc:subject>
+<dc:subject xml:lang="es">Várices</dc:subject>
+<dc:subject xml:lang="es">Varicosidad</dc:subject>
+<dc:subject xml:lang="es">Varicosas</dc:subject>
+<dc:subject xml:lang="es">Venas varicosas</dc:subject>
+<dc:subject xml:lang="en">Varicose Veins</dc:subject>
+<dc:subject xml:lang="en">Spider Veins</dc:subject>
+<dc:subject xml:lang="en">Veins</dc:subject>
+</metadata>
+</record>
+</MedlinePlus-document>

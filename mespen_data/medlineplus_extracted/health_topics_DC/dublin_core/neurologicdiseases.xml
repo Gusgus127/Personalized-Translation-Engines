@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<MedlinePlus-document>
+<record>
+<header>
+<identifier>https://medlineplus.gov/neurologicdiseases.html</identifier>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title type="alternate" xml:lang="es">Neurológicas, Enfermedades</dc:title>
+<dc:title type="alternate" xml:lang="es">Nervios, Enfermedades de los</dc:title>
+<dc:title type="alternate" xml:lang="es">von Hippel-Lindau</dc:title>
+<dc:title type="alternate" xml:lang="en">Nerve Diseases</dc:title>
+<dc:title type="alternate" xml:lang="en">Nervous System Diseases</dc:title>
+<dc:type>Text</dc:type>
+<dc:language>spa</dc:language>
+<dc:language>eng</dc:language>
+<dc:title xml:lang="es">Enfermedades neurológicas</dc:title>
+<dc:title xml:lang="en">Neurologic Diseases</dc:title>
+<dc:publisher>National Library of Medicine</dc:publisher>
+<dc:relation type="IsPartOf">Brain and Nerves</dc:relation>
+<dc:date type="created">2002-07-21</dc:date>
+<dc:date type="modified">2018-01-19</dc:date>
+<dc:identifier type="URL" xml:lang="es">https://medlineplus.gov/spanish/neurologicdiseases.html</dc:identifier>
+<dc:identifier type="URL" xml:lang="en">https://medlineplus.gov/neurologicdiseases.html</dc:identifier>
+<dc:description xml:lang="es">El cerebro, la médula espinal y los nervios conforman el sistema nervioso. En conjunto controlan todas las funciones del cuerpo. Cuando algo funciona mal en una parte del sistema nervioso, es posible que tenga dificultad para moverse, hablar, tragar, respirar o aprender. También puede haber problemas con la memoria, los sentidos o el estado de ánimo. Existen más de 600 enfermedades neurológicas. Los tipos más reconocidos incluyen: Enfermedades causadas por genes defectuosos, tales como la enfermedad de Huntington y la distrofia muscular Problemas con el desarrollo del sistema nervioso, tales como la espina bífida Enfermedades degenerativas, en las cuales las células nerviosas están dañadas o mueren, tales como las enfermedades de Parkinson y el mal de Alzheimer Enfermedades de los vasos sanguíneos que abastecen el cerebro, tales como los derrames cerebrales Lesiones en la médula espinal y el cerebro Trastornos convulsivos, tales como la epilepsia Cáncer, tales como los tumores cerebrales Infecciones como la meningitis</dc:description>
+<dc:description xml:lang="en">The brain, spinal cord, and nerves make up the nervous system. Together they control all the workings of the body. When something goes wrong with a part of your nervous system, you can have trouble moving, speaking, swallowing, breathing, or learning. You can also have problems with your memory, senses, or mood. There are more than 600 neurologic diseases. Major types include Diseases caused by faulty genes, such as Huntington's disease and muscular dystrophy Problems with the way the nervous system develops, such as spina bifida Degenerative diseases, where nerve cells are damaged or die, such as Parkinson's disease and Alzheimer's disease Diseases of the blood vessels that supply the brain, such as stroke Injuries to the spinal cord and brain Seizure disorders, such as epilepsy Cancer, such as brain tumors infections, such as meningitis</dc:description>
+<dc:subject dcterms="mesh">Nervous System Diseases</dc:subject>
+<dc:subject xml:lang="es">Enfermedades neurológicas</dc:subject>
+<dc:subject xml:lang="es">Neurológicas</dc:subject>
+<dc:subject xml:lang="es">Enfermedades</dc:subject>
+<dc:subject xml:lang="es">Nervios</dc:subject>
+<dc:subject xml:lang="es">Enfermedades de los</dc:subject>
+<dc:subject xml:lang="es">von Hippel-Lindau</dc:subject>
+<dc:subject xml:lang="en">Neurologic Diseases</dc:subject>
+<dc:subject xml:lang="en">Nerve Diseases</dc:subject>
+<dc:subject xml:lang="en">Nervous System Diseases</dc:subject>
+</metadata>
+</record>
+</MedlinePlus-document>

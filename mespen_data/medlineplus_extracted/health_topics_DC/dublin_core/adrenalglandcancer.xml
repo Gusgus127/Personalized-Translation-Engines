@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<MedlinePlus-document>
+<record>
+<header>
+<identifier>https://medlineplus.gov/adrenalglandcancer.html</identifier>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title type="alternate" xml:lang="es">Glándulas adrenales, Cáncer</dc:title>
+<dc:title type="alternate" xml:lang="es">Adrenales, Cáncer</dc:title>
+<dc:title type="alternate" xml:lang="es">Suprarrenales, Cáncer</dc:title>
+<dc:title type="alternate" xml:lang="es">Glándulas suprarrenales, Cáncer</dc:title>
+<dc:type>Text</dc:type>
+<dc:language>spa</dc:language>
+<dc:language>eng</dc:language>
+<dc:title xml:lang="es">Cáncer de las glándulas suprarrenales</dc:title>
+<dc:title xml:lang="en">Adrenal Gland Cancer</dc:title>
+<dc:publisher>National Library of Medicine</dc:publisher>
+<dc:relation type="IsPartOf">Cancers</dc:relation>
+<dc:relation type="IsPartOf">Endocrine System</dc:relation>
+<dc:date type="created">2010-04-26</dc:date>
+<dc:date type="modified">2018-01-03</dc:date>
+<dc:identifier type="URL" xml:lang="es">https://medlineplus.gov/spanish/adrenalglandcancer.html</dc:identifier>
+<dc:identifier type="URL" xml:lang="en">https://medlineplus.gov/adrenalglandcancer.html</dc:identifier>
+<dc:description xml:lang="es">Sus glándulas suprarrenales se encuentran encima de cada riñón. Estas glándulas producen hormonas que son esenciales para la vida, incluyendo hormonas sexuales y cortisol, que ayuda a responder al estrés y tiene muchas otras funciones. Varios problemas pueden afectar a las glándulas suprarrenales, incluyendo tumores. Éstos pueden ser benignos o malignos. Los tumores benignos no son cáncer, pero sí los malignos. La mayoría de los tumores de las glándulas suprarrenales son benignos. Usualmente no causan síntomas y pueden no necesitar tratamiento. Los tumores malignos de glándulas suprarrenales son poco comunes. Los tipos de tumores incluyen: Carcinoma de la corteza suprarrenal, un cáncer en la parte externa de la glándula Neuroblastoma, un tipo de cáncer que afecta a los niños Feocromocitoma, un tumor raro que usualmente es benigno. Los síntomas dependen del tipo de cáncer que tenga. Los tratamientos pueden incluir cirugía, quimioterapia o radioterapia.</dc:description>
+<dc:description xml:lang="en">Your adrenal, or suprarenal, glands are located on the top of each kidney. These glands produce hormones that you can't live without, including sex hormones and cortisol, which helps you respond to stress and has many other functions. A number of disorders can affect the adrenal glands, including tumors. Tumors can be either benign or malignant. Benign tumors aren't cancer. Malignant ones are. Most adrenal gland tumors are benign. They usually do not cause symptoms and may not require treatment. Malignant adrenal gland cancers are uncommon. Types of tumors include Adrenocortical carcinoma - cancer in the outer part of the gland Neuroblastoma, a type of childhood cancer Pheochromocytoma - a rare tumor that is usually benign Symptoms depend on the type of cancer you have. Treatments may include surgery, chemotherapy, or radiation therapy.</dc:description>
+<dc:subject dcterms="mesh">Adrenal Gland Neoplasms</dc:subject>
+<dc:subject xml:lang="es">Cáncer de las glándulas suprarrenales</dc:subject>
+<dc:subject xml:lang="es">Glándulas adrenales</dc:subject>
+<dc:subject xml:lang="es">Cáncer</dc:subject>
+<dc:subject xml:lang="es">Adrenales</dc:subject>
+<dc:subject xml:lang="es">Cáncer</dc:subject>
+<dc:subject xml:lang="es">Suprarrenales</dc:subject>
+<dc:subject xml:lang="es">Cáncer</dc:subject>
+<dc:subject xml:lang="es">Glándulas suprarrenales</dc:subject>
+<dc:subject xml:lang="es">Cáncer</dc:subject>
+<dc:subject xml:lang="en">Adrenal Gland Cancer</dc:subject>
+</metadata>
+</record>
+</MedlinePlus-document>

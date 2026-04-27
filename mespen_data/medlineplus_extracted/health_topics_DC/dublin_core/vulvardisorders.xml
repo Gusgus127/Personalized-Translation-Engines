@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<MedlinePlus-document>
+<record>
+<header>
+<identifier>https://medlineplus.gov/vulvardisorders.html</identifier>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title type="alternate" xml:lang="es">Liquen escleroso</dc:title>
+<dc:title type="alternate" xml:lang="es">Vulva, Enfermedades de la</dc:title>
+<dc:title type="alternate" xml:lang="es">Vulvitis</dc:title>
+<dc:title type="alternate" xml:lang="es">Vulvodinia</dc:title>
+<dc:title type="alternate" xml:lang="en">Vulvodynia</dc:title>
+<dc:type>Text</dc:type>
+<dc:language>spa</dc:language>
+<dc:language>eng</dc:language>
+<dc:title xml:lang="es">Enfermedades de la vulva</dc:title>
+<dc:title xml:lang="en">Vulvar Disorders</dc:title>
+<dc:publisher>National Library of Medicine</dc:publisher>
+<dc:relation type="IsPartOf">Female Reproductive System</dc:relation>
+<dc:relation type="IsPartOf">Women</dc:relation>
+<dc:date type="created">2007-11-27</dc:date>
+<dc:date type="modified">2018-02-05</dc:date>
+<dc:identifier type="URL" xml:lang="es">https://medlineplus.gov/spanish/vulvardisorders.html</dc:identifier>
+<dc:identifier type="URL" xml:lang="en">https://medlineplus.gov/vulvardisorders.html</dc:identifier>
+<dc:description xml:lang="es">La vulva es la parte externa de los genitales femeninos. Algunos problemas que pueden aparecer en el área vulvar incluyen: Vaginitis o vulvovaginitis, una inflamación o infección de la vulva o la vagina Problemas de la piel debidos a las alergias Cáncer de vulva Vulvodinia o dolor vulvar Los síntomas pueden incluir enrojecimiento, picazón, dolor o grietas en la piel. El tratamiento depende de la causa.</dc:description>
+<dc:description xml:lang="en">The vulva is the external part of a woman's genitals. Some problems you can have with the vulvar area include Vaginitis or vulvovaginitis, swelling or infection of the vulva and vagina Skin problems due to allergy Vulvar cancer Vulvodynia, or vulvar pain Symptoms may include redness, itching, pain, or cracks in the skin. Treatment depends on the cause.</dc:description>
+<dc:subject dcterms="mesh">Vulvar Diseases</dc:subject>
+<dc:subject xml:lang="es">Enfermedades de la vulva</dc:subject>
+<dc:subject xml:lang="es">Liquen escleroso</dc:subject>
+<dc:subject xml:lang="es">Vulva</dc:subject>
+<dc:subject xml:lang="es">Enfermedades de la</dc:subject>
+<dc:subject xml:lang="es">Vulvitis</dc:subject>
+<dc:subject xml:lang="es">Vulvodinia</dc:subject>
+<dc:subject xml:lang="en">Vulvar Disorders</dc:subject>
+<dc:subject xml:lang="en">Vulvodynia</dc:subject>
+</metadata>
+</record>
+</MedlinePlus-document>

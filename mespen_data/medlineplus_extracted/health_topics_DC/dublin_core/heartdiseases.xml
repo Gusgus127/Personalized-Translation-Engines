@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<MedlinePlus-document>
+<record>
+<header>
+<identifier>https://medlineplus.gov/heartdiseases.html</identifier>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title type="alternate" xml:lang="es">Corazón, Enfermedades del</dc:title>
+<dc:title type="alternate" xml:lang="es">Derrame pericárdico</dc:title>
+<dc:title type="alternate" xml:lang="es">Hipertrofia ventricular izquierda</dc:title>
+<dc:title type="alternate" xml:lang="es">Miocarditis</dc:title>
+<dc:title type="alternate" xml:lang="es">Periocarditis</dc:title>
+<dc:title type="alternate" xml:lang="en">Cardiac Diseases</dc:title>
+<dc:title type="alternate" xml:lang="en">Cardiovascular Diseases</dc:title>
+<dc:type>Text</dc:type>
+<dc:language>spa</dc:language>
+<dc:language>eng</dc:language>
+<dc:title xml:lang="es">Enfermedades del corazón</dc:title>
+<dc:title xml:lang="en">Heart Diseases</dc:title>
+<dc:publisher>National Library of Medicine</dc:publisher>
+<dc:relation type="IsPartOf">Seniors</dc:relation>
+<dc:relation type="IsPartOf">Blood, Heart and Circulation</dc:relation>
+<dc:date type="created">2002-07-21</dc:date>
+<dc:date type="modified">2018-02-14</dc:date>
+<dc:identifier type="URL" xml:lang="es">https://medlineplus.gov/spanish/heartdiseases.html</dc:identifier>
+<dc:identifier type="URL" xml:lang="en">https://medlineplus.gov/heartdiseases.html</dc:identifier>
+<dc:description xml:lang="es">Si usted es como la mayoría, probablemente pensará que la enfermedad cardiaca es un problema de otras personas. Sin embargo, la enfermedad cardiaca es la asesina número uno en los Estados Unidos. También es una causa importante de discapacidad. Existen muchos tipos de enfermedades cardiacas pero la causa más común es el estrechamiento o bloqueo de las arterias coronarias, los vasos sanguíneos que suministran sangre al propio corazón. A esto se le llama enfermedad de las arterias coronarias y se desarrolla lentamente con el transcurso del tiempo. Es la causa más importante por la cual las personas sufren infartos. Otros tipos de problemas cardíacos pueden ocurrir en las válvulas del corazón, o el corazón puede no latir bien a causa de una insuficiencia cardiaca. Ciertas personas nacen con una enfermedad cardiaca. Usted puede reducir las probabilidades de padecer una enfermedad cardiaca tomando medidas para controlar los factores de riesgo: Controle su presión arterial Disminuya su colesterol No fume Haga suficiente ejercicio NIH: Instituto Nacional del Corazón, los Pulmones y la Sangre</dc:description>
+<dc:description xml:lang="en">If you're like most people, you think that heart disease is a problem for others. But heart disease is the number one killer in the U.S. It is also a major cause of disability. There are many different forms of heart disease. The most common cause of heart disease is narrowing or blockage of the coronary arteries, the blood vessels that supply blood to the heart itself. This is called coronary artery disease and happens slowly over time. It's the major reason people have heart attacks. Other kinds of heart problems may happen to the valves in the heart, or the heart may not pump well and cause heart failure. Some people are born with heart disease. You can help reduce your risk of heart disease by taking steps to control factors that put you at greater risk: Control your blood pressure Lower your cholesterol Don't smoke Get enough exercise NIH: National Heart, Lung, and Blood Institute</dc:description>
+<dc:subject dcterms="mesh">Heart Diseases</dc:subject>
+<dc:subject xml:lang="es">Enfermedades del corazón</dc:subject>
+<dc:subject xml:lang="es">Corazón</dc:subject>
+<dc:subject xml:lang="es">Enfermedades del</dc:subject>
+<dc:subject xml:lang="es">Derrame pericárdico</dc:subject>
+<dc:subject xml:lang="es">Hipertrofia ventricular izquierda</dc:subject>
+<dc:subject xml:lang="es">Miocarditis</dc:subject>
+<dc:subject xml:lang="es">Periocarditis</dc:subject>
+<dc:subject xml:lang="en">Heart Diseases</dc:subject>
+<dc:subject xml:lang="en">Cardiac Diseases</dc:subject>
+<dc:subject xml:lang="en">Cardiovascular Diseases</dc:subject>
+</metadata>
+</record>
+</MedlinePlus-document>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<MedlinePlus-document>
+<record>
+<header>
+<identifier>https://medlineplus.gov/firstaid.html</identifier>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title type="alternate" xml:lang="es">Emergencias</dc:title>
+<dc:title type="alternate" xml:lang="en">Accidents</dc:title>
+<dc:type>Text</dc:type>
+<dc:language>spa</dc:language>
+<dc:language>eng</dc:language>
+<dc:title xml:lang="es">Primeros auxilios</dc:title>
+<dc:title xml:lang="en">First Aid</dc:title>
+<dc:publisher>National Library of Medicine</dc:publisher>
+<dc:relation type="IsPartOf">Injuries and Wounds</dc:relation>
+<dc:relation type="IsPartOf">Safety Issues</dc:relation>
+<dc:date type="created">2002-07-21</dc:date>
+<dc:date type="modified">2017-12-19</dc:date>
+<dc:identifier type="URL" xml:lang="es">https://medlineplus.gov/spanish/firstaid.html</dc:identifier>
+<dc:identifier type="URL" xml:lang="en">https://medlineplus.gov/firstaid.html</dc:identifier>
+<dc:description xml:lang="es">Los accidentes son cosas que pasan. Quizás una persona se ahogue con un cubo de hielo o le pique una abeja. Es importante saber cuándo llamar al 9-1-1. Este número es para emergencias que atentan contra la vida de una persona. Mientras espera la ayuda de emergencia, usted puede salvar la vida de alguien. La resucitación cardiopulmonar (RCP) es para las personas cuyo corazón o cuya respiración se detienen y la maniobra de Heimlich es para las personas que se atragantan. También se puede aprender a manejar lesiones y heridas comunes. Las cortaduras y los rasguños, por ejemplo, deben enjuagarse con agua fría. Para detener una hemorragia, presione firme pero suavemente con una gasa. Si la sangre empapa la gasa, coloque otra sobre ella sin retirar la primera que colocó. Mantenga presión en el área. Es importante tener un botiquín de primeros auxilios disponible. Tenga uno en casa y uno en su automóvil. El botiquín debe incluir una guía de primeros auxilios. Lea la guía para aprender a utilizar los artículos, de modo que esté listo en caso de una emergencia.</dc:description>
+<dc:description xml:lang="en">Accidents happen. Someone chokes on an ice cube or gets stung by a bee. It is important to know when to call 9-1-1 -- it is for life-threatening emergencies. While waiting for help to arrive, you may be able to save someone's life. Cardiopulmonary resuscitation (CPR) is for people whose hearts or breathing has stopped and the Heimlich maneuver is for people who are choking. You can also learn to handle common injuries and wounds. Cuts and scrapes, for example, should be rinsed with cool water. To stop bleeding, apply firm but gentle pressure, using gauze. If blood soaks through, add more gauze, keeping the first layer in place. Continue to apply pressure. It is important to have a first aid kit available. Keep one at home and one in your car. It should include a first-aid guide. Read the guide to learn how to use the items, so you are ready in case an emergency happens.</dc:description>
+<dc:subject dcterms="mesh">First Aid</dc:subject>
+<dc:subject xml:lang="es">Primeros auxilios</dc:subject>
+<dc:subject xml:lang="es">Emergencias</dc:subject>
+<dc:subject xml:lang="en">First Aid</dc:subject>
+<dc:subject xml:lang="en">Accidents</dc:subject>
+</metadata>
+</record>
+</MedlinePlus-document>

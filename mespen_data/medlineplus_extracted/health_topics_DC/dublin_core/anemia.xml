@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<MedlinePlus-document>
+<record>
+<header>
+<identifier>https://medlineplus.gov/anemia.html</identifier>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title type="alternate" xml:lang="es">Hierro, Falta de</dc:title>
+<dc:title type="alternate" xml:lang="en">Iron Deficiency Anemia</dc:title>
+<dc:type>Text</dc:type>
+<dc:language>spa</dc:language>
+<dc:language>eng</dc:language>
+<dc:title xml:lang="es">Anemia</dc:title>
+<dc:title xml:lang="en">Anemia</dc:title>
+<dc:publisher>National Library of Medicine</dc:publisher>
+<dc:relation type="IsPartOf">Blood, Heart and Circulation</dc:relation>
+<dc:date type="created">2002-07-21</dc:date>
+<dc:date type="modified">2018-01-08</dc:date>
+<dc:identifier type="URL" xml:lang="es">https://medlineplus.gov/spanish/anemia.html</dc:identifier>
+<dc:identifier type="URL" xml:lang="en">https://medlineplus.gov/anemia.html</dc:identifier>
+<dc:description xml:lang="es">Si padece anemia, es debido a que su sangre no está transportando suficiente oxígeno al resto de su cuerpo. La causa más común de anemia es no tener suficiente hierro. El cuerpo necesita este mineral para producir hemoglobina. La hemoglobina es una proteína rica en hierro que da a la sangre su color rojo y transporta oxígeno desde los pulmones al resto del cuerpo. Las tres causas principales de anemia son: pérdida de sangre, no producir glóbulos rojos y destrucción de estos a gran velocidad. Los problemas médicos que pueden causar anemia pueden ser: Períodos menstruales muy abundantes Embarazo Ulceras Pólipos en el colon o cáncer del colon Trastornos hereditarios Una dieta que no contiene suficiente hierro, ácido fólico o vitamina B 12 Algunos trastornos, tales como anemia falciforme, talasemia o cáncer Anemia aplásica, una condición que puede ser hereditaria o adquirida Deficiencia de glucosa -6- fosfato-deshidrogenasa La anemia puede hacerlo sentirse débil, tener frío, estar mareado e irritable. También puede sentir dificultad para respirar o dolores de cabeza. El doctor diagnosticará la enfermedad a través de un examen físico y de sangre. El tratamiento depende del tipo de anemia que usted tenga. NIH: Instituto Nacional del Corazón, los Pulmones y la Sangre</dc:description>
+<dc:description xml:lang="en">If you have anemia, your blood does not carry enough oxygen to the rest of your body. The most common cause of anemia is not having enough iron. Your body needs iron to make hemoglobin. Hemoglobin is an iron-rich protein that gives the red color to blood. It carries oxygen from the lungs to the rest of the body. Anemia has three main causes: blood loss, lack of red blood cell production, and high rates of red blood cell destruction. Conditions that may lead to anemia include Heavy periods Pregnancy Ulcers Colon polyps or colon cancer Inherited disorders A diet that does not have enough iron, folic acid or vitamin B12 Blood disorders such as sickle cell anemia and thalassemia, or cancer Aplastic anemia, a condition that can be inherited or acquired G6PD deficiency, a metabolic disorder Anemia can make you feel tired, cold, dizzy, and irritable. You may be short of breath or have a headache. Your doctor will diagnose anemia with a physical exam and blood tests. Treatment depends on the kind of anemia you have. NIH: National Heart, Lung, and Blood Institute</dc:description>
+<dc:subject dcterms="mesh">Anemia</dc:subject>
+<dc:subject xml:lang="es">Anemia</dc:subject>
+<dc:subject xml:lang="es">Hierro</dc:subject>
+<dc:subject xml:lang="es">Falta de</dc:subject>
+<dc:subject xml:lang="en">Anemia</dc:subject>
+<dc:subject xml:lang="en">Iron Deficiency Anemia</dc:subject>
+</metadata>
+</record>
+</MedlinePlus-document>

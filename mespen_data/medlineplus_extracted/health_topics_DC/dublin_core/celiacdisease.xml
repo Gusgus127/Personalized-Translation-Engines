@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<MedlinePlus-document>
+<record>
+<header>
+<identifier>https://medlineplus.gov/celiacdisease.html</identifier>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title type="alternate" xml:lang="es">Celíaca, Enfermedad</dc:title>
+<dc:title type="alternate" xml:lang="en">Gluten-Sensitive Enteropathy</dc:title>
+<dc:title type="alternate" xml:lang="en">Nontropical Sprue</dc:title>
+<dc:title type="alternate" xml:lang="en">Gluten Intolerance</dc:title>
+<dc:type>Text</dc:type>
+<dc:language>spa</dc:language>
+<dc:language>eng</dc:language>
+<dc:title xml:lang="es">Enfermedad celíaca</dc:title>
+<dc:title xml:lang="en">Celiac Disease</dc:title>
+<dc:publisher>National Library of Medicine</dc:publisher>
+<dc:relation type="IsPartOf">Digestive System</dc:relation>
+<dc:relation type="IsPartOf">Metabolic Problems</dc:relation>
+<dc:date type="created">2002-07-21</dc:date>
+<dc:date type="modified">2017-10-04</dc:date>
+<dc:identifier type="URL" xml:lang="es">https://medlineplus.gov/spanish/celiacdisease.html</dc:identifier>
+<dc:identifier type="URL" xml:lang="en">https://medlineplus.gov/celiacdisease.html</dc:identifier>
+<dc:description xml:lang="es">La enfermedad celíaca es una condición del sistema inmunitario en la que las personas no pueden consumir gluten porque daña su intestino delgado. El gluten es una proteína presente en el trigo, cebada y centeno. También puede encontrarse en vitaminas, suplementos, productos para el cabello y la piel, pasta de dientes y bálsamos labiales. La enfermedad celíaca afecta a cada persona de manera diferente. Los síntomas pueden ocurrir en el sistema digestivo o en otras partes del cuerpo. Una persona puede tener diarrea y dolor abdominal, mientras que otra puede sentirse irritable o deprimida. La irritabilidad es uno de los síntomas más comunes en los niños. Algunas personas no tienen síntomas. La enfermedad celíaca es genética. Los análisis de sangre pueden ayudar al médico a diagnosticar la enfermedad. Su médico también podría examinar una pequeña muestra de tejido del intestino delgado. El tratamiento es una dieta sin gluten. NIH: Instituto Nacional de la Diabetes y las Enfermedades Digestivas y Renales</dc:description>
+<dc:description xml:lang="en">Celiac disease is an immune disease in which people can't eat gluten because it will damage their small intestine. If you have celiac disease and eat foods with gluten, your immune system responds by damaging the small intestine. Gluten is a protein found in wheat, rye, and barley. It may also be in other products like vitamins and supplements, hair and skin products, toothpastes, and lip balm. Celiac disease affects each person differently. Symptoms may occur in the digestive system, or in other parts of the body. One person might have diarrhea and abdominal pain, while another person may be irritable or depressed. Irritability is one of the most common symptoms in children. Some people have no symptoms. Celiac disease is genetic. Blood tests can help your doctor diagnose the disease. Your doctor may also need to examine a small piece of tissue from your small intestine. Treatment is a diet free of gluten. NIH: National Institute of Diabetes and Digestive and Kidney Diseases</dc:description>
+<dc:subject dcterms="mesh">Celiac Disease</dc:subject>
+<dc:subject xml:lang="es">Enfermedad celíaca</dc:subject>
+<dc:subject xml:lang="es">Celíaca</dc:subject>
+<dc:subject xml:lang="es">Enfermedad</dc:subject>
+<dc:subject xml:lang="en">Celiac Disease</dc:subject>
+<dc:subject xml:lang="en">Gluten-Sensitive Enteropathy</dc:subject>
+<dc:subject xml:lang="en">Nontropical Sprue</dc:subject>
+<dc:subject xml:lang="en">Gluten Intolerance</dc:subject>
+</metadata>
+</record>
+</MedlinePlus-document>

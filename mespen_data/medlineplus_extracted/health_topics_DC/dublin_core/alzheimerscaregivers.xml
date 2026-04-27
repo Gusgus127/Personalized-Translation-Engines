@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<MedlinePlus-document>
+<record>
+<header>
+<identifier>https://medlineplus.gov/alzheimerscaregivers.html</identifier>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title type="alternate" xml:lang="es">Alzheimer, Proveedores de atención al paciente</dc:title>
+<dc:title type="alternate" xml:lang="en">Caregivers for Alzheimer's Disease</dc:title>
+<dc:type>Text</dc:type>
+<dc:language>spa</dc:language>
+<dc:language>eng</dc:language>
+<dc:title xml:lang="es">Proveedores de atención al paciente con Alzheimer</dc:title>
+<dc:title xml:lang="en">Alzheimer's Caregivers</dc:title>
+<dc:publisher>National Library of Medicine</dc:publisher>
+<dc:relation type="IsPartOf">Social/Family Issues</dc:relation>
+<dc:relation type="IsPartOf">Brain and Nerves</dc:relation>
+<dc:relation type="IsPartOf">Seniors</dc:relation>
+<dc:date type="created">2002-12-30</dc:date>
+<dc:date type="modified">2017-11-06</dc:date>
+<dc:identifier type="URL" xml:lang="es">https://medlineplus.gov/spanish/alzheimerscaregivers.html</dc:identifier>
+<dc:identifier type="URL" xml:lang="en">https://medlineplus.gov/alzheimerscaregivers.html</dc:identifier>
+<dc:description xml:lang="es">Cuidar a una persona que padece la enfermedad de Alzheimer (EA) puede ser estresante y abrumador. Es importante que también se cuide a sí mismo. Pida y acepte ayuda. Hable con el médico. Entérese de qué tratamientos pueden ayudarle a controlar los síntomas o tratar problemas de comportamiento. Busque un grupo de apoyo. Es probable que otras personas que han estado en su situación puedan ayudarlo y comprenderlo. Si hay momentos del día en los que la persona está menos confundida o coopera más, aprovéchelos en la rutina diaria. Piense en la posibilidad de aprovechar los centros de atención diurna para adultos o servicios paliativos. Eso permite hacer una pausa con la tranquilidad de saber que el paciente está siendo bien atendido. Empiece por hacer planes para el futuro. Estos pueden incluir: Poner en orden los documentos financieros y legales Buscar centros de vida asistida o cuidados especializados Conocer la cobertura de su seguro médico y de Medicare NIH: Instituto Nacional sobre el Envejecimiento</dc:description>
+<dc:description xml:lang="en">Caring for someone who has Alzheimer's disease (AD) can be stressful and overwhelming. It's important to take care of yourself. Ask for and accept help. Talk to the doctor. Find out what treatments might help control symptoms or address behavior problems. Find a support group. Others who have "been there" may be able to help and will understand. If there are times of day that the person is less confused or more cooperative, take advantage of that in daily routines. Consider using adult day care or respite services. These offer a break with the peace of mind that the patient is being taken care of. Begin to plan for the future. This may include Getting financial and legal documents in order Looking into assisted living or nursing homes Finding out what your health insurance and Medicare will cover NIH: National Institute on Aging</dc:description>
+<dc:subject dcterms="mesh">Alzheimer Disease</dc:subject>
+<dc:subject dcterms="mesh">Caregivers</dc:subject>
+<dc:subject xml:lang="es">Proveedores de atención al paciente con Alzheimer</dc:subject>
+<dc:subject xml:lang="es">Alzheimer</dc:subject>
+<dc:subject xml:lang="es">Proveedores de atención al paciente</dc:subject>
+<dc:subject xml:lang="en">Alzheimer's Caregivers</dc:subject>
+<dc:subject xml:lang="en">Caregivers for Alzheimer's Disease</dc:subject>
+</metadata>
+</record>
+</MedlinePlus-document>

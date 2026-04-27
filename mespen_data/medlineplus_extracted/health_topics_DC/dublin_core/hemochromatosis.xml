@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<MedlinePlus-document>
+<record>
+<header>
+<identifier>https://medlineplus.gov/hemochromatosis.html</identifier>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:type>Text</dc:type>
+<dc:language>spa</dc:language>
+<dc:language>eng</dc:language>
+<dc:title xml:lang="es">Hemocromatosis</dc:title>
+<dc:title xml:lang="en">Hemochromatosis</dc:title>
+<dc:publisher>National Library of Medicine</dc:publisher>
+<dc:relation type="IsPartOf">Metabolic Problems</dc:relation>
+<dc:relation type="IsPartOf">Digestive System</dc:relation>
+<dc:relation type="IsPartOf">Genetics/Birth Defects</dc:relation>
+<dc:date type="created">2005-02-17</dc:date>
+<dc:date type="modified">2017-11-08</dc:date>
+<dc:identifier type="URL" xml:lang="es">https://medlineplus.gov/spanish/hemochromatosis.html</dc:identifier>
+<dc:identifier type="URL" xml:lang="en">https://medlineplus.gov/hemochromatosis.html</dc:identifier>
+<dc:description xml:lang="es">La hemocromatosis es una enfermedad en la que exceso de hierro se acumula en su cuerpo. Su cuerpo necesita hierro, pero demasiado resulta tóxico. Si usted tiene hemocromatosis, absorbe más hierro de lo que necesita. Su cuerpo no tiene cómo deshacerse del hierro adicional en forma natural. Éste se almacena en los tejidos del cuerpo, especialmente el hígado, corazón y páncreas. El hierro adicional puede dañar sus órganos. Sin tratamiento, puede causar que sus órganos fallen. Hay dos tipos de hemocromatosis. La hemocromatosis primaria es una enfermedad hereditaria. Hemocromatosis secundaria es generalmente el resultado de algo más, como la anemia, la talasemia, enfermedad hepática o transfusiones de sangre. Muchos de los síntomas de la hemocromatosis se parecen a los de otras enfermedades. No todos muestran síntomas. Si lo hace, usted puede presentar dolor en las articulaciones, fatiga, debilidad general, pérdida de peso y dolor de estómago. Su médico diagnosticará la hemocromatosis tomando en cuenta sus antecedentes médicos y familiares, un examen físico y los resultados de pruebas y procedimientos. Los tratamientos incluyen la eliminación de la sangre (y el hierro) de su cuerpo, medicamentos y cambios en su dieta. NIH: Instituto Nacional del Corazón, los Pulmones y la Sangre</dc:description>
+<dc:description xml:lang="en">Hemochromatosis is a disease in which too much iron builds up in your body. Your body needs iron but too much of it is toxic. If you have hemochromatosis, you absorb more iron than you need. Your body has no natural way to get rid of the extra iron. It stores it in body tissues, especially the liver, heart, and pancreas. The extra iron can damage your organs. Without treatment, it can cause your organs to fail. There are two types of hemochromatosis. Primary hemochromatosis is an inherited disease. Secondary hemochromatosis is usually the result of something else, such as anemia, thalassemia, liver disease, or blood transfusions. Many symptoms of hemochromatosis are similar to those of other diseases. Not everyone has symptoms. If you do, you may have joint pain, fatigue, general weakness, weight loss, and stomach pain. Your doctor will diagnose hemochromatosis based on your medical and family histories, a physical exam, and the results from tests and procedures. Treatments include removing blood (and iron) from your body, medicines, and changes in your diet. NIH: National Heart, Lung, and Blood Institute</dc:description>
+<dc:subject dcterms="mesh">Hemochromatosis</dc:subject>
+<dc:subject xml:lang="es">Hemocromatosis</dc:subject>
+<dc:subject xml:lang="en">Hemochromatosis</dc:subject>
+<dc:subject xml:lang="en">Iron Overload Disease</dc:subject>
+</metadata>
+</record>
+</MedlinePlus-document>

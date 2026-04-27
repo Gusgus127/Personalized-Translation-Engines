@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<MedlinePlus-document>
+<record>
+<header>
+<identifier>https://medlineplus.gov/dietaryfats.html</identifier>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:type>Text</dc:type>
+<dc:language>spa</dc:language>
+<dc:language>eng</dc:language>
+<dc:title xml:lang="es">Grasas en la dieta</dc:title>
+<dc:title xml:lang="en">Dietary Fats</dc:title>
+<dc:publisher>National Library of Medicine</dc:publisher>
+<dc:relation type="IsPartOf">Food and Nutrition</dc:relation>
+<dc:date type="created">2003-10-06</dc:date>
+<dc:date type="modified">2018-02-07</dc:date>
+<dc:identifier type="URL" xml:lang="es">https://medlineplus.gov/spanish/dietaryfats.html</dc:identifier>
+<dc:identifier type="URL" xml:lang="en">https://medlineplus.gov/dietaryfats.html</dc:identifier>
+<dc:description xml:lang="es">La grasa es un tipo de nutriente. Usted necesita un poco de grasa en su dieta pero no demasiada. La grasa es una fuente de energía y ayuda al cuerpo a absorber vitaminas. También tiene un rol importante en los niveles de colesterol. No todas las grasas son iguales. Usted debe intentar evitar: Las grasas saturadas como la mantequilla, grasa sólida y grasa de cerdo Las grasas trans, que se encuentran en las grasas vegetales, ciertas margarinas, galletas saladas y dulces, los bocadillos y otras comidas hechas o fritas con aceites parcialmente hidrogenados Trate de reemplazar estas grasas por aceites como el de canola, oliva, cártamo, sésamo y girasol. Por supuesto, consumir demasiadas grasas hará que suba de peso. La grasa tiene el doble de calorías que las proteínas o hidratos de carbono. NIH: Instituto Nacional del Corazón, los Pulmones y la Sangre</dc:description>
+<dc:description xml:lang="en">Fat is a type of nutrient. You need some fat in your diet but not too much. Fats give you energy and help your body absorb vitamins. Dietary fat also plays a major role in your cholesterol levels. But not all fats are the same. You should try to avoid Saturated fats such as butter, solid shortening, and lard Trans fats. These are found in vegetable shortenings, some margarines, crackers, cookies, snack foods, and other foods made with or fried in partially hydrogenated oils (PHOs). By 2018, most U.S. companies will not be allowed to add PHOs to food. Try to replace them with oils such as canola, olive, safflower, sesame, or sunflower. Of course, eating too much fat will put on the pounds. Fat has twice as many calories as proteins or carbohydrates. NIH: National Heart, Lung, and Blood Institute</dc:description>
+<dc:subject dcterms="mesh">Dietary Fats</dc:subject>
+<dc:subject xml:lang="es">Grasas en la dieta</dc:subject>
+<dc:subject xml:lang="en">Dietary Fats</dc:subject>
+<dc:subject xml:lang="en">Fats</dc:subject>
+<dc:subject xml:lang="en">Dietary</dc:subject>
+<dc:subject xml:lang="en">Trans Fats</dc:subject>
+<dc:subject xml:lang="en">Omega-3 Fatty Acids</dc:subject>
+</metadata>
+</record>
+</MedlinePlus-document>

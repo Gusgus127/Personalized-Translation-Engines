@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<MedlinePlus-document>
+<record>
+<header>
+<identifier>https://medlineplus.gov/fever.html</identifier>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:type>Text</dc:type>
+<dc:language>spa</dc:language>
+<dc:language>eng</dc:language>
+<dc:title xml:lang="es">Fiebre</dc:title>
+<dc:title xml:lang="en">Fever</dc:title>
+<dc:publisher>National Library of Medicine</dc:publisher>
+<dc:relation type="IsPartOf">Symptoms</dc:relation>
+<dc:relation type="IsPartOf">Infections</dc:relation>
+<dc:date type="created">2002-07-21</dc:date>
+<dc:date type="modified">2017-12-11</dc:date>
+<dc:identifier type="URL" xml:lang="es">https://medlineplus.gov/spanish/fever.html</dc:identifier>
+<dc:identifier type="URL" xml:lang="en">https://medlineplus.gov/fever.html</dc:identifier>
+<dc:description xml:lang="es">La fiebre es una temperatura del cuerpo más elevada de lo normal. Una temperatura normal puede variar de persona a persona, pero generalmente es alrededor de 98.6 ºF o 37ºC. La fiebre no es una enfermedad. Por lo general, es una señal de que su cuerpo está tratando de combatir una enfermedad o infección. Las infecciones causan la mayoría de las fiebres. Tiene fiebre porque su cuerpo está tratando de matar el virus o las bacterias que causaron la infección. La mayoría de estas bacterias y virus sobreviven bien cuando su cuerpo está a su temperatura normal. Pero si tiene fiebre, es más difícil para ellos sobrevivir. La fiebre también activa el sistema inmunitario de su cuerpo. Medicinas, incluyendo antibióticos, medicinas para la presión arterial y medicinas anticonvulsivas Enfermedades por el calor Cánceres Enfermedades autoinmunes Algunas vacunas para niños El tratamiento depende de la causa de la fiebre. Si la fiebre es muy alta. Su proveedor de salud puede recomendarle tomar medicinas de venta libre como el acetaminofén o el ibuprofén. Los adultos también pueden tomar aspirina, pero los niños con fiebre no deben tomar aspirina. También es importante que beban suficientes líquidos para prevenir la deshidratación.</dc:description>
+<dc:description xml:lang="en">A fever is a body temperature that is higher than normal. A normal temperature can vary from person to person, but it is usually around 98.6 F. A fever is not a disease. It is usually a sign that your body is trying to fight an illness or infection. Infections cause most fevers. You get a fever because your body is trying to kill the virus or bacteria that caused the infection. Most of those bacteria and viruses do well when your body is at your normal temperature. But if you have a fever, it is harder for them to survive. Fever also activates your body's immune system. Other causes of fevers include Medicines, including some antibiotics, blood pressure medicines, and anti-seizure medicines Heat illness Cancers Autoimmune diseases Some childhood immunizations Treatment depends on the cause of your fever. If the fever is very high, your health care provider may recommend taking an over-the-counter medicine such as acetaminophen or ibuprofen. Adults can also take aspirin, but children with fevers should not take aspirin. It is also important to drink enough liquids, to prevent dehydration.</dc:description>
+<dc:subject dcterms="mesh">Fever</dc:subject>
+<dc:subject xml:lang="es">Fiebre</dc:subject>
+<dc:subject xml:lang="en">Fever</dc:subject>
+<dc:subject xml:lang="en">Hot (Temperature)</dc:subject>
+<dc:subject xml:lang="en">Pyrexia</dc:subject>
+</metadata>
+</record>
+</MedlinePlus-document>

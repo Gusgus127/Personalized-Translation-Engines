@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<MedlinePlus-document>
+<record>
+<header>
+<identifier>https://medlineplus.gov/shoulderinjuriesanddisorders.html</identifier>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title type="alternate" xml:lang="es">Lesión del manguito de los rotadores</dc:title>
+<dc:title type="alternate" xml:lang="es">Hombro, Lesiones y enfermedades del</dc:title>
+<dc:title type="alternate" xml:lang="es">Manguito de los rotadores, Lesión</dc:title>
+<dc:title type="alternate" xml:lang="en">Frozen Shoulder</dc:title>
+<dc:title type="alternate" xml:lang="en">Collarbone Injuries</dc:title>
+<dc:title type="alternate" xml:lang="en">Clavicle Injuries</dc:title>
+<dc:title type="alternate" xml:lang="en">Scapula Injuries</dc:title>
+<dc:type>Text</dc:type>
+<dc:language>spa</dc:language>
+<dc:language>eng</dc:language>
+<dc:title xml:lang="es">Lesiones y enfermedades del hombro</dc:title>
+<dc:title xml:lang="en">Shoulder Injuries and Disorders</dc:title>
+<dc:publisher>National Library of Medicine</dc:publisher>
+<dc:relation type="IsPartOf">Bones, Joints and Muscles</dc:relation>
+<dc:relation type="IsPartOf">Injuries and Wounds</dc:relation>
+<dc:date type="created">2002-07-21</dc:date>
+<dc:date type="modified">2018-02-12</dc:date>
+<dc:identifier type="URL" xml:lang="es">https://medlineplus.gov/spanish/shoulderinjuriesanddisorders.html</dc:identifier>
+<dc:identifier type="URL" xml:lang="en">https://medlineplus.gov/shoulderinjuriesanddisorders.html</dc:identifier>
+<dc:description xml:lang="es">La articulación del hombro se compone de tres huesos: la clavícula, el omóplato y el húmero. Sus hombros son las articulaciones más móviles de su cuerpo. También puede ser inestable debido a que la bola de la parte superior del brazo es más grande que la cavidad del hombro que la sujeta. Para permanecer en una posición estable o normal, el hombro debe estar anclado por músculos, tendones y ligamentos. Debido a que su hombro puede ser inestable, puede lesionarse fácilmente. Los problemas comunes incluyen: Torceduras y distensiones Dislocaciones Separaciones Tendinitis Bursitis Ruptura del manguito rotador Hombro congelado Fracturas Artritis Los proveedores de salud diagnostican los problemas en el hombro mediante el uso de su historial médico, un examen físico y pruebas de imagen. A menudo, el primer tratamiento para los problemas del hombro es el reposo, hielo, compresión y elevación (método RICE, en inglés). Otros tratamientos incluyen ejercicio y medicamentos para reducir el dolor y la hinchazón. Si eso no funciona, es posible que necesite cirugía. NIH: Instituto Nacional de Artritis y Enfermedades Musculoesqueléticas y de la Piel</dc:description>
+<dc:description xml:lang="en">Your shoulder joint is composed of three bones: the clavicle (collarbone), the scapula (shoulder blade), and the humerus (upper arm bone). Your shoulders are the most movable joints in your body. They can also be unstable because the ball of the upper arm is larger than the shoulder socket that holds it. To remain in a stable or normal position, the shoulder must be anchored by muscles, tendons, and ligaments. Because your shoulder can be unstable, it can be easily injured. Common problems include Sprains and strains Dislocations Separations Tendinitis Bursitis Torn rotator cuffs Frozen shoulder Fractures Arthritis Health care providers diagnose shoulder problems by using your medical history, a physical exam, and imaging tests. Often, the first treatment for shoulder problems is RICE. This stands for Rest, Ice, Compression, and Elevation. Other treatments include exercise and medicines to reduce pain and swelling. If those don't work, you may need surgery. NIH: National Institute of Arthritis and Musculoskeletal and Skin Diseases</dc:description>
+<dc:subject dcterms="mesh">Shoulder Fractures</dc:subject>
+<dc:subject dcterms="mesh">Acromioclavicular Joint</dc:subject>
+<dc:subject dcterms="mesh">Shoulder Dislocation</dc:subject>
+<dc:subject dcterms="mesh">Shoulder Injuries</dc:subject>
+<dc:subject xml:lang="es">Lesiones y enfermedades del hombro</dc:subject>
+<dc:subject xml:lang="es">Lesión del manguito de los rotadores</dc:subject>
+<dc:subject xml:lang="es">Hombro</dc:subject>
+<dc:subject xml:lang="es">Lesiones y enfermedades del</dc:subject>
+<dc:subject xml:lang="es">Manguito de los rotadores</dc:subject>
+<dc:subject xml:lang="es">Lesión</dc:subject>
+<dc:subject xml:lang="en">Shoulder Injuries and Disorders</dc:subject>
+<dc:subject xml:lang="en">Frozen Shoulder</dc:subject>
+<dc:subject xml:lang="en">Collarbone Injuries</dc:subject>
+<dc:subject xml:lang="en">Clavicle Injuries</dc:subject>
+<dc:subject xml:lang="en">Scapula Injuries</dc:subject>
+</metadata>
+</record>
+</MedlinePlus-document>

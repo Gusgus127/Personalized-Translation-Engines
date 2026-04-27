@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<MedlinePlus-document>
+<record>
+<header>
+<identifier>https://medlineplus.gov/scleroderma.html</identifier>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title type="alternate" xml:lang="es">Esclerosis sistémica</dc:title>
+<dc:title type="alternate" xml:lang="en">Systemic Sclerosis</dc:title>
+<dc:title type="alternate" xml:lang="en">Morphea</dc:title>
+<dc:type>Text</dc:type>
+<dc:language>spa</dc:language>
+<dc:language>eng</dc:language>
+<dc:title xml:lang="es">Esclerodermia</dc:title>
+<dc:title xml:lang="en">Scleroderma</dc:title>
+<dc:publisher>National Library of Medicine</dc:publisher>
+<dc:relation type="IsPartOf">Skin, Hair and Nails</dc:relation>
+<dc:relation type="IsPartOf">Immune System</dc:relation>
+<dc:date type="created">2003-07-29</dc:date>
+<dc:date type="modified">2017-10-11</dc:date>
+<dc:identifier type="URL" xml:lang="es">https://medlineplus.gov/spanish/scleroderma.html</dc:identifier>
+<dc:identifier type="URL" xml:lang="en">https://medlineplus.gov/scleroderma.html</dc:identifier>
+<dc:description xml:lang="es">Esclerodermia significa piel dura. Es un grupo de enfermedades que causa un crecimiento anormal del tejido conectivo. El tejido conectivo es el material que se encuentra dentro del cuerpo y le da forma a los tejidos y los mantiene fuertes. La esclerodermia hace que el tejido conectivo se endurezca y se ponga grueso. También puede causar hinchazón o dolor en los músculos y articulaciones. Existen dos tipos principales. La esclerodermia localizada afecta únicamente la piel. La esclerodermia sistémica afecta los vasos sanguíneos y los órganos internos, así como la piel. Los síntomas de esclerodermia incluyen: Depósitos de calcio en los tejidos conectivos Fenómeno de Reynaud, estrechamiento de los vasos sanguíneos de las manos o los pies Inflamación del esófago, el tubo entre la garganta y el estómago Piel gruesa y tirante en los dedos Manchas rojas en las manos y la cara Nadie conoce la causa de la esclerodermia. Es más común entre las mujeres. Puede ser leve o severa. Los doctores diagnostican esta condición a través de la historia clínica, un examen físico o de laboratorio o una biopsia de piel. No existe una cura, pero existen varios tratamientos para controlar los síntomas y complicaciones. NIH: Instituto Nacional de Artritis y Enfermedades Musculoesqueléticas y de la Piel</dc:description>
+<dc:description xml:lang="en">Scleroderma means hard skin. It is a group of diseases that cause abnormal growth of connective tissue. Connective tissue is the material inside your body that gives your tissues their shape and helps keep them strong. In scleroderma, the tissue gets hard or thick. It can cause swelling or pain in your muscles and joints. Symptoms of scleroderma include Calcium deposits in connective tissues Raynaud's phenomenon, a narrowing of blood vessels in the hands or feet Swelling of the esophagus, the tube between your throat and stomach Thick, tight skin on your fingers Red spots on your hands and face No one knows what causes scleroderma. It is more common in women. It can be mild or severe. Doctors diagnose scleroderma using your medical history, a physical exam, lab tests, and a skin biopsy. There is no cure, but various treatments can control symptoms and complications. NIH: National Institute of Arthritis and Musculoskeletal and Skin Diseases</dc:description>
+<dc:subject dcterms="mesh">Scleroderma, Systemic</dc:subject>
+<dc:subject dcterms="mesh">Scleroderma, Localized</dc:subject>
+<dc:subject xml:lang="es">Esclerodermia</dc:subject>
+<dc:subject xml:lang="es">Esclerosis sistémica</dc:subject>
+<dc:subject xml:lang="en">Scleroderma</dc:subject>
+<dc:subject xml:lang="en">Systemic Sclerosis</dc:subject>
+<dc:subject xml:lang="en">Morphea</dc:subject>
+</metadata>
+</record>
+</MedlinePlus-document>

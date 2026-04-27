@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<MedlinePlus-document>
+<record>
+<header>
+<identifier>https://medlineplus.gov/kidneytests.html</identifier>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title type="alternate" xml:lang="es">Riñones, Pruebas y exámenes</dc:title>
+<dc:title type="alternate" xml:lang="en">Kidney Function Tests</dc:title>
+<dc:title type="alternate" xml:lang="en">Kidney Biopsy</dc:title>
+<dc:type>Text</dc:type>
+<dc:language>spa</dc:language>
+<dc:language>eng</dc:language>
+<dc:title xml:lang="es">Pruebas y exámenes para los riñones</dc:title>
+<dc:title xml:lang="en">Kidney Tests</dc:title>
+<dc:publisher>National Library of Medicine</dc:publisher>
+<dc:relation type="IsPartOf">Kidneys and Urinary System</dc:relation>
+<dc:relation type="IsPartOf">Diagnostic Tests</dc:relation>
+<dc:date type="created">2016-09-06</dc:date>
+<dc:date type="modified">2017-11-14</dc:date>
+<dc:identifier type="URL" xml:lang="es">https://medlineplus.gov/spanish/kidneytests.html</dc:identifier>
+<dc:identifier type="URL" xml:lang="en">https://medlineplus.gov/kidneytests.html</dc:identifier>
+<dc:description xml:lang="es">Usted tiene dos riñones, órganos del tamaño de un puño ubicados a cada lado de la columna vertebral un poco más arriba de su cintura. Sus riñones filtran y limpian su sangre, eliminando los productos de desecho y produciendo la orina. Las pruebas renales se usan para ver qué tan bien están funcionando sus riñones. Estas incluyen pruebas de sangre, orina y de imagen. Por lo general, la enfermedad renal en etapa temprana no muestra signos o síntomas. Las pruebas son la única forma de saber cómo están funcionando sus riñones. Es importante que se haga un chequeo por enfermedad renal si tiene los principales factores de riesgo: diabetes, presión arterial alta, enfermedades del corazón o una historia familiar de insuficiencia renal. Las pruebas renales específicas incluyen: Tasa de filtración glomerular: Uno de los análisis de sangre más comunes para la enfermedad renal crónica. Muestra qué tan bien filtran sus riñones Prueba de creatinina en sangre y orina: Chequea los niveles de creatinina, un producto de desecho que sus riñones eliminan de la sangre Análisis de albúmina en orina: Busca la presencia de albúmina, una proteína que puede aparecer en la orina si los riñones están dañados Pruebas de imagen como una ecografía: Proporciona imágenes de los riñones, las que ayudan al médico a visualizar el tamaño y forma de los riñones, y ver si hay algo inusual Biopsia de riñón: Consiste en tomar una pequeña muestra de tejido del riñón para analizarla en un microscopio. Comprueba la causa de la enfermedad renal y qué tan dañados están sus riñones. NIH: Instituto Nacional de la Diabetes y las Enfermedades Digestivas y Renales</dc:description>
+<dc:description xml:lang="en">You have two kidneys. They are fist-sized organs on either side of your backbone above your waist. Your kidneys filter and clean your blood, taking out waste products and making urine. Kidney tests check to see how well your kidneys are working. They include blood, urine, and imaging tests. Early kidney disease usually does not have signs or symptoms. Testing is the only way to know how your kidneys are doing. It is important for you to get checked for kidney disease if you have the key risk factors - diabetes, high blood pressure, heart disease, or a family history of kidney failure. Specific kidney tests include Glomerular filtration rate (GFR) - one of the most common blood tests to check for chronic kidney disease. It tells how well your kidneys are filtering. Creatinine blood and urine tests - check the levels of creatinine, a waste product that your kidneys remove from your blood Albumin urine test - checks for albumin, a protein that can pass into the urine if the kidneys are damaged Imaging tests, such as an ultrasound - provide pictures of the kidneys. The pictures help the health care provider see the size and shape of the kidneys, and check for anything unusual. Kidney biopsy - a procedure that involves taking a small piece of kidney tissue for examination with a microscope. It checks for the cause of kidney disease and how damaged your kidneys are. NIH: National Institute of Diabetes and Digestive and Kidney Diseases</dc:description>
+<dc:subject dcterms="mesh">Kidney Function Tests</dc:subject>
+<dc:subject xml:lang="es">Pruebas y exámenes para los riñones</dc:subject>
+<dc:subject xml:lang="es">Riñones</dc:subject>
+<dc:subject xml:lang="es">Pruebas y exámenes</dc:subject>
+<dc:subject xml:lang="en">Kidney Tests</dc:subject>
+<dc:subject xml:lang="en">Kidney Function Tests</dc:subject>
+<dc:subject xml:lang="en">Kidney Biopsy</dc:subject>
+</metadata>
+</record>
+</MedlinePlus-document>

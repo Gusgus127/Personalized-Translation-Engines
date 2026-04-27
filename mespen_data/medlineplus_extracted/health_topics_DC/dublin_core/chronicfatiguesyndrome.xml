@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<MedlinePlus-document>
+<record>
+<header>
+<identifier>https://medlineplus.gov/chronicfatiguesyndrome.html</identifier>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title type="alternate" xml:lang="es">SFC</dc:title>
+<dc:title type="alternate" xml:lang="es">Fatiga crónica, Síndrome de</dc:title>
+<dc:title type="alternate" xml:lang="es">Enfermedad sistémica de intolerancia al esfuerzo</dc:title>
+<dc:title type="alternate" xml:lang="en">CFS</dc:title>
+<dc:type>Text</dc:type>
+<dc:language>spa</dc:language>
+<dc:language>eng</dc:language>
+<dc:title xml:lang="es">Síndrome de fatiga crónica</dc:title>
+<dc:title xml:lang="en">Chronic Fatigue Syndrome</dc:title>
+<dc:publisher>National Library of Medicine</dc:publisher>
+<dc:relation type="IsPartOf">Bones, Joints and Muscles</dc:relation>
+<dc:relation type="IsPartOf">Infections</dc:relation>
+<dc:date type="created">2002-07-21</dc:date>
+<dc:date type="modified">2016-12-07</dc:date>
+<dc:identifier type="URL" xml:lang="es">https://medlineplus.gov/spanish/chronicfatiguesyndrome.html</dc:identifier>
+<dc:identifier type="URL" xml:lang="en">https://medlineplus.gov/chronicfatiguesyndrome.html</dc:identifier>
+<dc:description xml:lang="es">El síndrome de fatiga crónica es un trastorno que provoca fatiga extrema. Esta fatiga no es el tipo de cansancio que desaparece después del descanso. Por el contrario, persiste un largo tiempo y limita su capacidad para hacer las tareas cotidianas. El síntoma principal es un cansancio extremo que dura más de seis meses. También se pueden presentar estos otros síntomas: Sentirse mal por más de 24 horas después de haber realizado ejercicio Dolor muscular Problemas de memoria Dolores de cabeza Dolor en varias articulaciones Problemas para dormir Dolor de garganta Ganglios linfáticos inflamados Este síndrome es difícil de diagnosticar. No existen análisis médicos específicos. Además, otras enfermedades pueden causar síntomas similares. Su doctor tendrá que descartar otras enfermedades antes de diagnosticar el síndrome de fatiga crónica. No se conoce la causa. Es más común en las mujeres entre los 40 y 60 años de edad, pero cualquiera puede tenerlo. Puede durar por años. No existe una cura para la fatiga crónica, por lo que el objetivo del tratamiento es mejorar los síntomas. El síndrome afecta a las personas en forma diferente. Usted debe colaborar con sus médicos para crear un plan de tratamiento que se ajuste a sus necesidades. Puede incluir terapias para manejar sus síntomas, como medicinas para el dolor, trastornos del sueño y otros problemas. También puede incluir otros métodos para enfrentar la enfermedad y formas para administrar sus actividades diarias. Centros para el Control y la Prevención de Enfermedades</dc:description>
+<dc:description xml:lang="en">Chronic fatigue syndrome (CFS) is a disorder that causes extreme fatigue. This fatigue is not the kind of tired feeling that goes away after you rest. Instead, it lasts a long time and limits your ability to do ordinary daily activities. The main symptom of CFS is severe fatigue that lasts for 6 months or more. You also have at least four of these other symptoms: Feeling unwell for more than 24 hours after physical activity Muscle pain Memory problems Headaches Pain in multiple joints Sleep problems Sore throat Tender lymph nodes CFS is hard to diagnose. There are no tests for it, and other illnesses can cause similar symptoms. Your doctor has to rule out other diseases before making a diagnosis of CFS. No one knows what causes CFS. It is most common in women in their 40s and 50s, but anyone can have it. It can last for years. There is no cure for CFS, so the goal of treatment is to improve symptoms. CFS affects people in different ways. You should work with your doctors to create a treatment program that best meets your own needs. It may include therapies to manage your symptoms, such as medicines to treat pain, sleep disorders, and other problems. It may also include coping techniques, and ways of managing your daily activities. Centers for Disease Control and Prevention</dc:description>
+<dc:subject dcterms="mesh">Fatigue Syndrome, Chronic</dc:subject>
+<dc:subject xml:lang="es">Síndrome de fatiga crónica</dc:subject>
+<dc:subject xml:lang="es">SFC</dc:subject>
+<dc:subject xml:lang="es">Fatiga crónica</dc:subject>
+<dc:subject xml:lang="es">Síndrome de</dc:subject>
+<dc:subject xml:lang="es">Enfermedad sistémica de intolerancia al esfuerzo</dc:subject>
+<dc:subject xml:lang="en">Chronic Fatigue Syndrome</dc:subject>
+<dc:subject xml:lang="en">CFS</dc:subject>
+</metadata>
+</record>
+</MedlinePlus-document>

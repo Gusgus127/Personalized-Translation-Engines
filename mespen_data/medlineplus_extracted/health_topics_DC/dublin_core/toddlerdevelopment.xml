@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<MedlinePlus-document>
+<record>
+<header>
+<identifier>https://medlineplus.gov/toddlerdevelopment.html</identifier>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title type="alternate" xml:lang="es">Niño pequeño, Desarrollo</dc:title>
+<dc:type>Text</dc:type>
+<dc:language>spa</dc:language>
+<dc:language>eng</dc:language>
+<dc:title xml:lang="es">Desarrollo del niño pequeño</dc:title>
+<dc:title xml:lang="en">Toddler Development</dc:title>
+<dc:publisher>National Library of Medicine</dc:publisher>
+<dc:relation type="IsPartOf">Children and Teenagers</dc:relation>
+<dc:date type="created">2010-05-27</dc:date>
+<dc:date type="modified">2018-02-05</dc:date>
+<dc:identifier type="URL" xml:lang="es">https://medlineplus.gov/spanish/toddlerdevelopment.html</dc:identifier>
+<dc:identifier type="URL" xml:lang="en">https://medlineplus.gov/toddlerdevelopment.html</dc:identifier>
+<dc:description xml:lang="es">Dominar nuevas habilidades como caminar, hablar y dejar los pañales son hitos en el desarrollo. Es emocionante ver a su pequeño aprender cosas nuevas. El crecimiento normal de los niños menores de tres años incluye las siguientes áreas: Motricidad gruesa: Caminar, correr, trepar Motricidad fina: Comer por sí mismo, dibujar Sensorial: Ver, escuchar, saborear, tocar y oler Lenguaje: Decir sólo palabras al comienzo y luego oraciones Social: Jugar con otras personas, tomar turnos, jugar usando la imaginación Los niños pequeños no se desarrollan a la misma velocidad. Existe una amplia gama de lo que se considera "normal". Su niño puede estar adelantado en algunas áreas y apenas un poco más atrasado en otras. Si le preocupan los posibles atrasos, consúltelo con el pediatra de su niño.</dc:description>
+<dc:description xml:lang="en">Mastering new skills such as how to walk, talk, and use the potty are developmental milestones. It is exciting to watch your toddler learn new skills. The normal development of children aged 1-3 includes several areas: Gross motor - walking, running, climbing Fine motor - feeding themselves, drawing Sensory - seeing, hearing, tasting, touching, and smelling Language - saying single words, then sentences Social - playing with others, taking turns, doing fantasy play Toddlers do not develop at the same rate. There is a wide range of what is considered "normal." Your child may be ahead in some areas and slightly behind in others. If you are worried about possible delays, talk to your child's health care provider.</dc:description>
+<dc:subject dcterms="mesh">Child Development</dc:subject>
+<dc:subject xml:lang="es">Desarrollo del niño pequeño</dc:subject>
+<dc:subject xml:lang="es">Niño pequeño</dc:subject>
+<dc:subject xml:lang="es">Desarrollo</dc:subject>
+<dc:subject xml:lang="en">Toddler Development</dc:subject>
+</metadata>
+</record>
+</MedlinePlus-document>

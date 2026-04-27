@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<MedlinePlus-document>
+<record>
+<header>
+<identifier>https://medlineplus.gov/plague.html</identifier>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:type>Text</dc:type>
+<dc:language>spa</dc:language>
+<dc:language>eng</dc:language>
+<dc:title xml:lang="es">Peste</dc:title>
+<dc:title xml:lang="en">Plague</dc:title>
+<dc:publisher>National Library of Medicine</dc:publisher>
+<dc:relation type="IsPartOf">Infections</dc:relation>
+<dc:date type="created">2002-07-21</dc:date>
+<dc:date type="modified">2017-12-28</dc:date>
+<dc:identifier type="URL" xml:lang="es">https://medlineplus.gov/spanish/plague.html</dc:identifier>
+<dc:identifier type="URL" xml:lang="en">https://medlineplus.gov/plague.html</dc:identifier>
+<dc:description xml:lang="es">La peste es una infección causada por la bacteria Yersinia pestis. Las bacterias se encuentran principalmente entre ratas y en las moscas que se alimentan de ellas. Las personas y otros animales pueden adquirir la peste a través de mordeduras de estos animales. En el pasado, la peste destruyó civilizaciones enteras. En la actualidad, la peste es poco común gracias a las mejores condiciones de vida y a los antibióticos. Existen tres tipos de pestes: Peste bubónica, que causa inflamación de las amígdalas, las adenoides, el bazo y el timo. Los síntomas incluyen fiebre, dolores, escalofríos y sensibilidad en los ganglios linfáticos Peste septicémica, en la que las bacterias se multiplican en la sangre. Causa fiebre, escalofríos, shock y hemorragias debajo de la piel o en otros órganos Peste neumónica, en la que las bacterias alcanzan los pulmones y causan neumonía. Las personas infectadas pueden contagiar este tipo de peste a otras personas. Esta es la más grave y puede ser usada como un agente bioterrorista El diagnóstico se hace a través de pruebas de laboratorio. El tratamiento es un antibiótico fuerte. No existe una vacuna. NIH: Instituto Nacional de Alergias y Enfermedades Infecciosas</dc:description>
+<dc:description xml:lang="en">Plague is an infection caused by the bacterium Yersinia pestis. The bacteria are found mainly in rats and in the fleas that feed on them. People and other animals can get plague from rat or flea bites. In the past, plague destroyed entire civilizations. Today plague is uncommon, due to better living conditions and antibiotics. There are three forms of plague: Bubonic plague causes the tonsils, adenoids, spleen, and thymus to become inflamed. Symptoms include fever, aches, chills, and tender lymph glands. In septicemic plague, bacteria multiply in the blood. It causes fever, chills, shock, and bleeding under the skin or other organs. Pneumonic plague is the most serious form. Bacteria enter the lungs and cause pneumonia. People with the infection can spread this form to others. This type could be a bioterror agent. Lab tests can diagnose plague. Treatment is a strong antibiotic. There is no vaccine. NIH: National Institute of Allergy and Infectious Diseases</dc:description>
+<dc:subject dcterms="mesh">Plague</dc:subject>
+<dc:subject xml:lang="es">Peste</dc:subject>
+<dc:subject xml:lang="en">Plague</dc:subject>
+<dc:subject xml:lang="en">Bubonic Plague</dc:subject>
+<dc:subject xml:lang="en">Pneumonic Plague</dc:subject>
+</metadata>
+</record>
+</MedlinePlus-document>

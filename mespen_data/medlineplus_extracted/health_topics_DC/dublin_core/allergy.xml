@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<MedlinePlus-document>
+<record>
+<header>
+<identifier>https://medlineplus.gov/allergy.html</identifier>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:type>Text</dc:type>
+<dc:language>spa</dc:language>
+<dc:language>eng</dc:language>
+<dc:title xml:lang="es">Alergia</dc:title>
+<dc:title xml:lang="en">Allergy</dc:title>
+<dc:publisher>National Library of Medicine</dc:publisher>
+<dc:relation type="IsPartOf">Ear, Nose and Throat</dc:relation>
+<dc:relation type="IsPartOf">Immune System</dc:relation>
+<dc:date type="created">2002-07-21</dc:date>
+<dc:date type="modified">2017-12-28</dc:date>
+<dc:identifier type="URL" xml:lang="es">https://medlineplus.gov/spanish/allergy.html</dc:identifier>
+<dc:identifier type="URL" xml:lang="en">https://medlineplus.gov/allergy.html</dc:identifier>
+<dc:description xml:lang="es">Una alergia es una reacción de su sistema inmunitario hacia algo que no molesta a la mayoría de las demás personas. Quienes tienen alergias suelen ser sensibles a más de una cosa. Las sustancias que suelen causar reacciones son: Polen Ácaros del polvo Esporas de moho Caspa de animales Alimentos Picaduras de insectos Medicinas Normalmente, su sistema inmunitario combate los gérmenes. Es el sistema de defensa de su cuerpo. Sin embargo, en la mayoría de las reacciones alérgicas responde a una falsa alarma. Los genes y el medio ambiente probablemente tienen un rol en las alergias. Las alergias pueden provocar una serie de síntomas como goteos nasales, estornudos, picazón, sarpullidos, edema (hinchazón) o asma. Las alergias van de leves a severas. Una reacción severa llamada anafilaxia puede resultar fatal. Los médicos usan pruebas de piel y sangre para diagnosticar las alergias. Los tratamientos incluyen medicinas, inyecciones y evitar las sustancias que causan las alergias. NIH: Instituto Nacional de Alergias y Enfermedades Infecciosas</dc:description>
+<dc:description xml:lang="en">An allergy is a reaction by your immune system to something that does not bother most other people. People who have allergies often are sensitive to more than one thing. Substances that often cause reactions are Pollen Dust mites Mold spores Pet dander Food Insect stings Medicines Normally, your immune system fights germs. It is your body's defense system. In most allergic reactions, however, it is responding to a false alarm. Genes and the environment probably both play a role. Allergies can cause a variety of symptoms such as a runny nose, sneezing, itching, rashes, swelling, or asthma. Allergies can range from minor to severe. Anaphylaxis is a severe reaction that can be life-threatening. Doctors use skin and blood tests to diagnose allergies. Treatments include medicines, allergy shots, and avoiding the substances that cause the reactions. NIH: National Institute of Allergy and Infectious Diseases</dc:description>
+<dc:subject dcterms="mesh">Hypersensitivity</dc:subject>
+<dc:subject xml:lang="es">Alergia</dc:subject>
+<dc:subject xml:lang="en">Allergy</dc:subject>
+<dc:subject xml:lang="en">Hypersensitivity</dc:subject>
+<dc:subject xml:lang="en">Allergic Rhinitis</dc:subject>
+</metadata>
+</record>
+</MedlinePlus-document>

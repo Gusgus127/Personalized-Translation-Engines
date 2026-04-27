@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<MedlinePlus-document>
+<record>
+<header>
+<identifier>https://medlineplus.gov/pinkeye.html</identifier>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title type="alternate" xml:lang="es">Alergia, Conjuntivitis</dc:title>
+<dc:title type="alternate" xml:lang="es">Tracoma</dc:title>
+<dc:title type="alternate" xml:lang="es">Bebé, Conjuntivitis</dc:title>
+<dc:title type="alternate" xml:lang="es">Primaveral, Conjuntivitis</dc:title>
+<dc:title type="alternate" xml:lang="es">Ojo rojo</dc:title>
+<dc:title type="alternate" xml:lang="en">Conjunctivitis</dc:title>
+<dc:type>Text</dc:type>
+<dc:language>spa</dc:language>
+<dc:language>eng</dc:language>
+<dc:title xml:lang="es">Conjuntivitis</dc:title>
+<dc:title xml:lang="en">Pinkeye</dc:title>
+<dc:publisher>National Library of Medicine</dc:publisher>
+<dc:relation type="IsPartOf">Infections</dc:relation>
+<dc:relation type="IsPartOf">Eyes and Vision</dc:relation>
+<dc:date type="created">2009-05-27</dc:date>
+<dc:date type="modified">2017-09-20</dc:date>
+<dc:identifier type="URL" xml:lang="es">https://medlineplus.gov/spanish/pinkeye.html</dc:identifier>
+<dc:identifier type="URL" xml:lang="en">https://medlineplus.gov/pinkeye.html</dc:identifier>
+<dc:description xml:lang="es">La conjuntivitis causa hinchazón, picazón, ardor, lagrimeo y enrojecimiento de la conjuntiva, la membrana delgada y translúcida que recubre la parte blanca del ojo y el interior de los párpados. Las causas pueden ser Infección bacteriana o viral Alergias Sustancias que causan irritación Productos que se usan para los lentes de contacto, gotas para los ojos o ungüentos. La conjuntivitis, en general, no afecta la vista. La conjunctivitis infecciosa se contagia fácilmente de persona a persona. La infección desaparece por sí sola sin tratamiento, pero la conjuntivitis bacteriana necesita tratamiento con gotas o ungüentos antibióticos. NIH: Instituto Nacional del Ojo</dc:description>
+<dc:description xml:lang="en">Conjunctivitis is the medical name for pink eye. It involves inflammation of the outer layer of the eye and inside of the eyelid. It can cause swelling, itching, burning, discharge, and redness. Causes include Bacterial or viral infection Allergies Substances that cause irritation Contact lens products, eye drops, or eye ointments Pinkeye usually does not affect vision. Infectious pink eye can easily spread from one person to another. The infection will clear in most cases without medical care, but bacterial pinkeye needs treatment with antibiotic eye drops or ointment. NIH: National Eye Institute</dc:description>
+<dc:subject dcterms="mesh">Conjunctivitis</dc:subject>
+<dc:subject xml:lang="es">Conjuntivitis</dc:subject>
+<dc:subject xml:lang="es">Alergia</dc:subject>
+<dc:subject xml:lang="es">Conjuntivitis</dc:subject>
+<dc:subject xml:lang="es">Tracoma</dc:subject>
+<dc:subject xml:lang="es">Bebé</dc:subject>
+<dc:subject xml:lang="es">Conjuntivitis</dc:subject>
+<dc:subject xml:lang="es">Primaveral</dc:subject>
+<dc:subject xml:lang="es">Conjuntivitis</dc:subject>
+<dc:subject xml:lang="es">Ojo rojo</dc:subject>
+<dc:subject xml:lang="en">Pinkeye</dc:subject>
+<dc:subject xml:lang="en">Conjunctivitis</dc:subject>
+</metadata>
+</record>
+</MedlinePlus-document>

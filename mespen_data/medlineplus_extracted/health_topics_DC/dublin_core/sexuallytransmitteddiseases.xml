@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<MedlinePlus-document>
+<record>
+<header>
+<identifier>https://medlineplus.gov/sexuallytransmitteddiseases.html</identifier>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title type="alternate" xml:lang="es">ETS (Enfermedad de transmisión sexual)</dc:title>
+<dc:title type="alternate" xml:lang="es">Enfermedad venérea</dc:title>
+<dc:title type="alternate" xml:lang="es">Verrugas anales</dc:title>
+<dc:title type="alternate" xml:lang="es">Venérea, Enfermedad</dc:title>
+<dc:title type="alternate" xml:lang="es">Transmisión sexual, Enfermedades de</dc:title>
+<dc:title type="alternate" xml:lang="es">Chancroide</dc:title>
+<dc:title type="alternate" xml:lang="es">Molusco contagioso</dc:title>
+<dc:title type="alternate" xml:lang="es">Uretritis no gonocócica</dc:title>
+<dc:title type="alternate" xml:lang="en">STD</dc:title>
+<dc:title type="alternate" xml:lang="en">Venereal Disease</dc:title>
+<dc:title type="alternate" xml:lang="en">Crab Lice</dc:title>
+<dc:type>Text</dc:type>
+<dc:language>spa</dc:language>
+<dc:language>eng</dc:language>
+<dc:title xml:lang="es">Enfermedades de transmisión sexual</dc:title>
+<dc:title xml:lang="en">Sexually Transmitted Diseases</dc:title>
+<dc:publisher>National Library of Medicine</dc:publisher>
+<dc:relation type="IsPartOf">Infections</dc:relation>
+<dc:relation type="IsPartOf">Sexual Health Issues</dc:relation>
+<dc:relation type="IsPartOf">Male Reproductive System</dc:relation>
+<dc:relation type="IsPartOf">Men</dc:relation>
+<dc:relation type="IsPartOf">Women</dc:relation>
+<dc:relation type="IsPartOf">Female Reproductive System</dc:relation>
+<dc:date type="created">2002-07-21</dc:date>
+<dc:date type="modified">2018-01-24</dc:date>
+<dc:identifier type="URL" xml:lang="es">https://medlineplus.gov/spanish/sexuallytransmitteddiseases.html</dc:identifier>
+<dc:identifier type="URL" xml:lang="en">https://medlineplus.gov/sexuallytransmitteddiseases.html</dc:identifier>
+<dc:description xml:lang="es">Las enfermedades de transmisión sexual (ETS) son infecciones que transmiten de una persona a otra a través del contacto sexual. Las causas de las ETS son las bacterias, parásitos, hongos y virus. Existen más de 20 tipos de ETS, que incluyen: Clamidia Herpes genital Gonorrea VIH/SIDA VPH Sífilis Tricomoniasis La mayoría de las ETS afectan tanto a hombres como a mujeres, pero en muchos casos los problemas de salud que provocan pueden ser más graves en las mujeres. Si una mujer embarazada padece de ETS, puede causarle graves problemas de salud al bebé. Los antibióticos pueden tratar las ETS causadas por bacterias, hongos o parásitos. No hay cura para ETS causada por un virus, pero los medicamentos pueden ayudar con los síntomas y mantener la enfermedad bajo control. El uso correcto de preservativos de látex reduce enormemente, aunque no elimina, el riesgo de adquirir y contagiarse con ETS. La forma más confiable de evitar la infección es no tener sexo anal, vaginal u oral. Centros para el Control y la Prevención de Enfermedades</dc:description>
+<dc:description xml:lang="en">Sexually transmitted diseases (STDs) are infections that are passed from one person to another through sexual contact. The causes of STDs are bacteria, parasites, yeast, and viruses. There are more than 20 types of STDs, including Chlamydia Genital herpes Gonorrhea HIV/AIDS HPV Syphilis Trichomoniasis Most STDs affect both men and women, but in many cases the health problems they cause can be more severe for women. If a pregnant woman has an STD, it can cause serious health problems for the baby. Antibiotics can treat STDs caused by bacteria, yeast, or parasites. There is no cure for STDs caused by a virus, but medicines can often help with the symptoms and keep the disease under control. Correct usage of latex condoms greatly reduces, but does not completely eliminate, the risk of catching or spreading STDs. The most reliable way to avoid infection is to not have anal, vaginal, or oral sex. Centers for Disease Control and Prevention</dc:description>
+<dc:subject dcterms="mesh">Sexually Transmitted Diseases</dc:subject>
+<dc:subject xml:lang="es">Enfermedades de transmisión sexual</dc:subject>
+<dc:subject xml:lang="es">ETS (Enfermedad de transmisión sexual)</dc:subject>
+<dc:subject xml:lang="es">Enfermedad venérea</dc:subject>
+<dc:subject xml:lang="es">Verrugas anales</dc:subject>
+<dc:subject xml:lang="es">Venérea</dc:subject>
+<dc:subject xml:lang="es">Enfermedad</dc:subject>
+<dc:subject xml:lang="es">Transmisión sexual</dc:subject>
+<dc:subject xml:lang="es">Enfermedades de</dc:subject>
+<dc:subject xml:lang="es">Chancroide</dc:subject>
+<dc:subject xml:lang="es">Molusco contagioso</dc:subject>
+<dc:subject xml:lang="es">Uretritis no gonocócica</dc:subject>
+<dc:subject xml:lang="en">Sexually Transmitted Diseases</dc:subject>
+<dc:subject xml:lang="en">STD</dc:subject>
+<dc:subject xml:lang="en">Venereal Disease</dc:subject>
+<dc:subject xml:lang="en">Crab Lice</dc:subject>
+</metadata>
+</record>
+</MedlinePlus-document>

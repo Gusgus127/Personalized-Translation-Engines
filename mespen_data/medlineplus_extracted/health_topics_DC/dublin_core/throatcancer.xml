@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<MedlinePlus-document>
+<record>
+<header>
+<identifier>https://medlineplus.gov/throatcancer.html</identifier>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title type="alternate" xml:lang="es">Garganta, Cáncer</dc:title>
+<dc:title type="alternate" xml:lang="en">Laryngopharyngeal Cancer</dc:title>
+<dc:title type="alternate" xml:lang="en">Pharyngeal Cancer</dc:title>
+<dc:title type="alternate" xml:lang="en">Laryngeal Cancer</dc:title>
+<dc:title type="alternate" xml:lang="en">Hypopharyngeal Cancer</dc:title>
+<dc:title type="alternate" xml:lang="en">Oropharyngeal Cancer</dc:title>
+<dc:title type="alternate" xml:lang="en">Nasopharyngeal Cancer</dc:title>
+<dc:type>Text</dc:type>
+<dc:language>spa</dc:language>
+<dc:language>eng</dc:language>
+<dc:title xml:lang="es">Cáncer de garganta</dc:title>
+<dc:title xml:lang="en">Throat Cancer</dc:title>
+<dc:publisher>National Library of Medicine</dc:publisher>
+<dc:relation type="IsPartOf">Cancers</dc:relation>
+<dc:relation type="IsPartOf">Ear, Nose and Throat</dc:relation>
+<dc:date type="created">2011-08-29</dc:date>
+<dc:date type="modified">2018-01-25</dc:date>
+<dc:identifier type="URL" xml:lang="es">https://medlineplus.gov/spanish/throatcancer.html</dc:identifier>
+<dc:identifier type="URL" xml:lang="en">https://medlineplus.gov/throatcancer.html</dc:identifier>
+<dc:description xml:lang="es">El cáncer de garganta es un tipo de cáncer de cabeza y cuello. Se lo denomina de diferentes maneras dependiendo de cuál parte de la garganta es afectada. Las partes de su garganta se llaman orofaringe, hipofaringe, nasofaringe y laringe o caja laríngea. Los principales factores de riesgo del cáncer de garganta son el consumo de tabaco y beber alcohol en forma excesiva. Algunos tipos de cáncer de garganta tienen otros factores de riesgo. Por ejemplo, tener VPH es un factor de riesgo del cáncer orofaríngeo. Los síntomas del cáncer de garganta pueden incluir: Dolor de garganta que no mejora Una protuberancia en el cuello Dolor o zumbido en los oídos Dificultad para tragar Dolor de oído Para diagnosticar el cáncer de garganta, los médicos pueden hacer un examen físico y de historia clínica, pruebas de imagen y una biopsia. Usted también puede necesitar otras pruebas, dependiendo del tipo de cáncer. Los tratamientos incluyen cirugía, radioterapia y quimioterapia. El tratamiento para algunos tipos de cáncer de garganta también puede incluir terapia dirigida. La terapia dirigida utiliza sustancias que atacan a las células cancerosas sin dañar las células normales. NIH: Instituto Nacional del Cáncer</dc:description>
+<dc:description xml:lang="en">Throat cancer is a type of head and neck cancer. Throat cancer has different names, depending on which part of the throat is affected. The different parts of your throat are called the oropharynx, the hypopharynx, the nasopharynx, and the larynx, or voice box. The main risk factors for throat cancer are using tobacco heavy drinking. Certain types of throat cancer also have other risk factors. For example, having HPV is a risk factor for oropharyngeal cancer. Symptoms of throat cancer may include A sore throat that does not go away A lump in the neck Pain or ringing in the ears Trouble swallowing Ear pain To diagnose throat cancers, doctors may do a physical exam and history, imaging tests, and a biopsy. You may also need other tests, depending on the type of cancer. Treatments include surgery, radiation therapy, and chemotherapy. Treatment for some types of throat cancer may also include targeted therapy. Targeted therapy uses substances that attack cancer cells without harming normal cells. NIH: National Cancer Institute</dc:description>
+<dc:subject dcterms="mesh">Pharyngeal Neoplasms</dc:subject>
+<dc:subject xml:lang="es">Cáncer de garganta</dc:subject>
+<dc:subject xml:lang="es">Garganta</dc:subject>
+<dc:subject xml:lang="es">Cáncer</dc:subject>
+<dc:subject xml:lang="en">Throat Cancer</dc:subject>
+<dc:subject xml:lang="en">Laryngopharyngeal Cancer</dc:subject>
+<dc:subject xml:lang="en">Pharyngeal Cancer</dc:subject>
+<dc:subject xml:lang="en">Laryngeal Cancer</dc:subject>
+<dc:subject xml:lang="en">Hypopharyngeal Cancer</dc:subject>
+<dc:subject xml:lang="en">Oropharyngeal Cancer</dc:subject>
+<dc:subject xml:lang="en">Nasopharyngeal Cancer</dc:subject>
+</metadata>
+</record>
+</MedlinePlus-document>

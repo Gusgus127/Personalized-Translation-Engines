@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<MedlinePlus-document>
+<record>
+<header>
+<identifier>https://medlineplus.gov/sleepapnea.html</identifier>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:type>Text</dc:type>
+<dc:language>spa</dc:language>
+<dc:language>eng</dc:language>
+<dc:title xml:lang="es">Apnea del sueño</dc:title>
+<dc:title xml:lang="en">Sleep Apnea</dc:title>
+<dc:publisher>National Library of Medicine</dc:publisher>
+<dc:relation type="IsPartOf">Brain and Nerves</dc:relation>
+<dc:relation type="IsPartOf">Lungs and Breathing</dc:relation>
+<dc:date type="created">2002-10-16</dc:date>
+<dc:date type="modified">2017-12-13</dc:date>
+<dc:identifier type="URL" xml:lang="es">https://medlineplus.gov/spanish/sleepapnea.html</dc:identifier>
+<dc:identifier type="URL" xml:lang="en">https://medlineplus.gov/sleepapnea.html</dc:identifier>
+<dc:description xml:lang="es">La apnea del sueño es un trastorno común en donde la respiración se interrumpe o se hace muy superficial. Estas interrupciones pueden durar desde unos pocos segundos a minutos y pueden ocurrir más de 30 veces por hora. El tipo más común es la apnea obstructiva del sueño. Esta causa un colapso en las vías respiratorias o una obstrucción de ellas durante el sueño. Luego, la respiración vuelve con un ronquido o resoplido. La gente que padece de apnea suele roncar muy fuerte. De todos modos, no todas las personas que roncan tienen apnea. Las personas que tienen más riesgo de apnea son: hombres, personas que tienen sobrepeso, historia familiar o pequeñas vías respiratorias. Los niños con amígdalas y adenoides hinchadas también pueden sufrir de apnea. El diagnóstico se basa en su historia médica y familiar, un examen físico y en los resultados de un examen del sueño. Cuando el sueño se interrumpe durante la noche, puede estar somnoliento durante el día. Las personas con apnea del sueño tienen mayor riesgo de sufrir accidentes de tránsito, accidentes de trabajo y otros problemas médicos. Si usted tiene apnea del sueño, es importante que reciba tratamiento. Estos pueden incluir cambios en el estilo de vida, dispositivos bucales, cirugía y aparatos para la respiración. NIH: Instituto Nacional del Corazón, los Pulmones y la Sangre</dc:description>
+<dc:description xml:lang="en">Sleep apnea is a common disorder that causes your breathing to stop or get very shallow. Breathing pauses can last from a few seconds to minutes. They may occur 30 times or more an hour. The most common type is obstructive sleep apnea. It causes your airway to collapse or become blocked during sleep. Normal breathing starts again with a snort or choking sound. People with sleep apnea often snore loudly. However, not everyone who snores has sleep apnea. You are more at risk for sleep apnea if you are overweight, male, or have a family history or small airways. Children with enlarged tonsils or adenoids may also get it. Doctors diagnose sleep apnea based on medical and family histories, a physical exam, and sleep study results. When your sleep is interrupted throughout the night, you can be drowsy during the day. People with sleep apnea are at higher risk for car crashes, work-related accidents, and other medical problems. If you have it, it is important to get treatment. Lifestyle changes, mouthpieces, surgery, and breathing devices can treat sleep apnea in many people. NIH: National Heart, Lung, and Blood Institute</dc:description>
+<dc:subject dcterms="mesh">Sleep Apnea Syndromes</dc:subject>
+<dc:subject xml:lang="es">Apnea del sueño</dc:subject>
+<dc:subject xml:lang="en">Sleep Apnea</dc:subject>
+<dc:subject xml:lang="en">Apnea</dc:subject>
+<dc:subject xml:lang="en">Sleep</dc:subject>
+<dc:subject xml:lang="en">Sleep-disordered Breathing</dc:subject>
+</metadata>
+</record>
+</MedlinePlus-document>

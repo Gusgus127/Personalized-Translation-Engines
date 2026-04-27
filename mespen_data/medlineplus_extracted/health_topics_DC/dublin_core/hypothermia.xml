@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<MedlinePlus-document>
+<record>
+<header>
+<identifier>https://medlineplus.gov/hypothermia.html</identifier>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title type="alternate" xml:lang="es">Daño causado por clima frío</dc:title>
+<dc:title type="alternate" xml:lang="es">Frío, Daño causado por</dc:title>
+<dc:title type="alternate" xml:lang="en">Cold (Temperature)</dc:title>
+<dc:type>Text</dc:type>
+<dc:language>spa</dc:language>
+<dc:language>eng</dc:language>
+<dc:title xml:lang="es">Hipotermia</dc:title>
+<dc:title xml:lang="en">Hypothermia</dc:title>
+<dc:publisher>National Library of Medicine</dc:publisher>
+<dc:relation type="IsPartOf">Injuries and Wounds</dc:relation>
+<dc:relation type="IsPartOf">Symptoms</dc:relation>
+<dc:date type="created">2002-07-21</dc:date>
+<dc:date type="modified">2018-01-23</dc:date>
+<dc:identifier type="URL" xml:lang="es">https://medlineplus.gov/spanish/hypothermia.html</dc:identifier>
+<dc:identifier type="URL" xml:lang="en">https://medlineplus.gov/hypothermia.html</dc:identifier>
+<dc:description xml:lang="es">El clima frío puede afectar al cuerpo en formas diferentes. Usted puede sufrir congelación, una lesión en el cuerpo causada por el congelamiento. Además, el cuerpo puede perder calor más rápido de lo que usted puede producirlo. El resultado es la hipotermia, o una temperatura corporal anormalmente baja. Puede causarle somnolencia, confusión y torpeza en los movimientos. Dado que ocurre en forma gradual y afecta el pensamiento, es posible que no se dé cuenta que necesita ayuda. Esto lo hace especialmente peligrosa. Una temperatura corporal por debajo de 95°F constituye una emergencia médica y puede conducir a la muerte si no se trata en forma rápida. Cualquier persona que pase mucho tiempo al aire libre en climas fríos puede tener hipotermia. También puede ocurrir por tener frío y estar mojado, o permanecer en aguas frías durante mucho tiempo. Los bebés y las personas mayores presentan un riesgo especial. Los bebés pueden tenerla por dormir en una habitación fría. Centros para el Control y la Prevención de Enfermedades</dc:description>
+<dc:description xml:lang="en">Cold weather can affect your body in different ways. You can get frostbite, which is an injury to the body that is caused by freezing. Your body can also lose heat faster than you can produce it. That can cause hypothermia, or abnormally low body temperature. It can make you sleepy, confused, and clumsy. Because it happens gradually and affects your thinking, you may not realize you need help. That makes it especially dangerous. A body temperature below 95° F is a medical emergency and can lead to death if not treated promptly. Anyone who spends much time outdoors in cold weather can get hypothermia. You can also get it from being cold and wet, or under cold water for too long. Babies and old people are especially at risk. Babies can get it from sleeping in a cold room. Centers for Disease Control and Prevention</dc:description>
+<dc:subject dcterms="mesh">Hypothermia</dc:subject>
+<dc:subject xml:lang="es">Hipotermia</dc:subject>
+<dc:subject xml:lang="es">Daño causado por clima frío</dc:subject>
+<dc:subject xml:lang="es">Frío</dc:subject>
+<dc:subject xml:lang="es">Daño causado por</dc:subject>
+<dc:subject xml:lang="en">Hypothermia</dc:subject>
+<dc:subject xml:lang="en">Cold (Temperature)</dc:subject>
+</metadata>
+</record>
+</MedlinePlus-document>

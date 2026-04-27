@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<MedlinePlus-document>
+<record>
+<header>
+<identifier>https://medlineplus.gov/westnilevirus.html</identifier>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title type="alternate" xml:lang="es">VNO</dc:title>
+<dc:title type="alternate" xml:lang="es">Nilo Occidental, Virus del</dc:title>
+<dc:title type="alternate" xml:lang="en">WNV</dc:title>
+<dc:type>Text</dc:type>
+<dc:language>spa</dc:language>
+<dc:language>eng</dc:language>
+<dc:title xml:lang="es">Virus del Nilo Occidental</dc:title>
+<dc:title xml:lang="en">West Nile Virus</dc:title>
+<dc:publisher>National Library of Medicine</dc:publisher>
+<dc:relation type="IsPartOf">Infections</dc:relation>
+<dc:relation type="IsPartOf">Brain and Nerves</dc:relation>
+<dc:date type="created">2003-07-14</dc:date>
+<dc:date type="modified">2017-05-31</dc:date>
+<dc:identifier type="URL" xml:lang="es">https://medlineplus.gov/spanish/westnilevirus.html</dc:identifier>
+<dc:identifier type="URL" xml:lang="en">https://medlineplus.gov/westnilevirus.html</dc:identifier>
+<dc:description xml:lang="es">El virus del Nilo Occidental es una enfermedad infecciosa que apareció por primera vez en los Estados Unidos en 1999. Mosquitos infectados diseminaron el virus que la causa. Las personas que contraen el virus no suelen tener síntomas o presentan síntomas leves. Los síntomas incluyen fiebre, dolor de cabeza, dolores de cuerpo, erupción cutánea o ganglios linfáticos inflamados. Sin embargo, si el virus entra al cerebro puede ser mortal. Puede causar una inflamación del cerebro llamada encefalitis o inflamación del tejido que rodea el cerebro y la médula espinal, llamada meningitis. Un examen físico, su historial médico y pruebas de laboratorio se utilizan para diagnosticarlo. Las personas mayores y aquellos con sistemas inmunitarios débiles están en mayor riesgo. No existen vacunas o tratamientos específicos para la enfermedad en humanos. La mejor manera de evitarlo es prevenir las picaduras de mosquitos: Use repelente contra insectos Deshágase de los lugares donde los mosquito ponen huevos vaciando el agua que permanece estancada en floreros, baldes o barriles Permanezca en ambientes cerrados entre el atardecer y el amanecer, cuando los mosquitos están más activos Use mosquiteros en las ventanas para que los insectos no entren en las habitaciones NIH: Instituto Nacional de Alergias y Enfermedades Infecciosas</dc:description>
+<dc:description xml:lang="en">West Nile virus (WNV) is an infectious disease that first appeared in the United States in 1999. Infected mosquitoes spread the virus that causes it. People who get WNV usually have no symptoms or mild symptoms. The symptoms include a fever, headache, body aches, skin rash, and swollen lymph glands. They can last a few days to several weeks, and usually go away on their own. If West Nile virus enters the brain, however, it can be life-threatening. It may cause inflammation of the brain, called encephalitis, or inflammation of the tissue that surrounds the brain and spinal cord, called meningitis. A physical exam, health history and laboratory tests can diagnose it. Older people and those with weakened immune systems are most at risk. There are no specific vaccines or treatments for human WNV disease. The best way to avoid WNV is to prevent mosquito bites: Use insect repellent Get rid of mosquito breeding sites by emptying standing water from flower pots, buckets or barrels Stay indoors between dusk and dawn, when mosquitoes are most active Use screens on windows to keep mosquitoes out NIH: National Institute of Allergy and Infectious Diseases</dc:description>
+<dc:subject dcterms="mesh">West Nile Fever</dc:subject>
+<dc:subject xml:lang="es">Virus del Nilo Occidental</dc:subject>
+<dc:subject xml:lang="es">VNO</dc:subject>
+<dc:subject xml:lang="es">Nilo Occidental</dc:subject>
+<dc:subject xml:lang="es">Virus del</dc:subject>
+<dc:subject xml:lang="en">West Nile Virus</dc:subject>
+<dc:subject xml:lang="en">WNV</dc:subject>
+</metadata>
+</record>
+</MedlinePlus-document>

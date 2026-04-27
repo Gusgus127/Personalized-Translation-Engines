@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<MedlinePlus-document>
+<record>
+<header>
+<identifier>https://medlineplus.gov/athletesfoot.html</identifier>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:type>Text</dc:type>
+<dc:language>spa</dc:language>
+<dc:language>eng</dc:language>
+<dc:title xml:lang="es">Pie de atleta</dc:title>
+<dc:title xml:lang="en">Athlete's Foot</dc:title>
+<dc:publisher>National Library of Medicine</dc:publisher>
+<dc:relation type="IsPartOf">Skin, Hair and Nails</dc:relation>
+<dc:relation type="IsPartOf">Infections</dc:relation>
+<dc:date type="created">2002-07-21</dc:date>
+<dc:date type="modified">2016-07-01</dc:date>
+<dc:identifier type="URL" xml:lang="es">https://medlineplus.gov/spanish/athletesfoot.html</dc:identifier>
+<dc:identifier type="URL" xml:lang="en">https://medlineplus.gov/athletesfoot.html</dc:identifier>
+<dc:description xml:lang="es">El pie de atleta es una infección común en el pie causada por hongos que afecta el área entre los dedos. Los síntomas incluyen picazón, ardor y piel quebradiza y escamosa entre los dedos de los pies. Se puede contagiar el pie de atleta al pisar superficies húmedas, como por ejemplo, las duchas, las piscinas y los pisos de los vestidores. Para prevenirlo se debe: Mantener los pies limpios, secos y frescos Usar calcetines limpios No caminar descalzo en las áreas públicas Utilizar chancletas en las duchas de los vestidores Los tratamientos incluyen cremas antimicóticas sin receta médica, en la mayoría de los casos y medicinas con receta médica para las infecciones más graves. Estos remedios, en general, curan la infección pero ésta puede volver. Centros para el Control y la Prevención de Enfermedades</dc:description>
+<dc:description xml:lang="en">Athlete's foot is a common infection caused by a fungus. It most often affects the space between the toes. Symptoms include itching, burning, and cracked, scaly skin between your toes. You can get athlete's foot from damp surfaces, such as showers, swimming pools, and locker room floors. To prevent it Keep your feet clean, dry, and cool Wear clean socks Don't walk barefoot in public areas Wear flip-flops in locker room showers Keep your toenails clean and clipped short Treatments include over-the-counter antifungal creams for most cases and prescription medicines for more serious infections. These usually clear up the infection, but it can come back. Centers for Disease Control and Prevention</dc:description>
+<dc:subject dcterms="mesh">Tinea Pedis</dc:subject>
+<dc:subject xml:lang="es">Pie de atleta</dc:subject>
+<dc:subject xml:lang="en">Athlete's Foot</dc:subject>
+<dc:subject xml:lang="en">Tinea Pedis</dc:subject>
+</metadata>
+</record>
+</MedlinePlus-document>

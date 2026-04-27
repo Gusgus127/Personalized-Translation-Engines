@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<MedlinePlus-document>
+<record>
+<header>
+<identifier>https://medlineplus.gov/farmhealthandsafety.html</identifier>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title type="alternate" xml:lang="es">Granja, Seguridad y salud en la</dc:title>
+<dc:title type="alternate" xml:lang="en">Farmers</dc:title>
+<dc:type>Text</dc:type>
+<dc:language>spa</dc:language>
+<dc:language>eng</dc:language>
+<dc:title xml:lang="es">Salud y seguridad en la granja</dc:title>
+<dc:title xml:lang="en">Farm Health and Safety</dc:title>
+<dc:publisher>National Library of Medicine</dc:publisher>
+<dc:relation type="IsPartOf">Safety Issues</dc:relation>
+<dc:date type="created">2002-07-21</dc:date>
+<dc:date type="modified">2017-02-06</dc:date>
+<dc:identifier type="URL" xml:lang="es">https://medlineplus.gov/spanish/farmhealthandsafety.html</dc:identifier>
+<dc:identifier type="URL" xml:lang="en">https://medlineplus.gov/farmhealthandsafety.html</dc:identifier>
+<dc:description xml:lang="es">Usted puede pensar que las granjas son ambientes pacíficos. En realidad, el trabajo de las granjas es uno de los más peligrosos en Estados Unidos. Las granjas tienen muchos riesgos para la salud y la seguridad, entre ellos: Sustancias químicas y pesticidas Maquinaria, herramientas y equipos que pueden ser peligrosos Áreas riesgosas, tales como graneros, silos y pozos Ganado puede diseminar enfermedades o causarle lesiones Las lesiones en las granjas son muy comunes. El trabajo físico y los accidentes pueden causar lesiones. La mayoría de los accidentes involucran el uso de maquinaria. Una adecuada inspección y mantenimiento de las máquinas puede ayudar a prevenir los accidentes. El uso de guantes de seguridad, gafas protectoras y otros equipos de protección también pueden reducir los accidentes.</dc:description>
+<dc:description xml:lang="en">You might think of farms as peaceful settings. Actually, farming is one of the most dangerous jobs in the United States. Farms have many health and safety hazards, including Chemicals and pesticides Machinery, tools and equipment that can be dangerous Hazardous areas, such as grain bins, silos and wells Livestock that can spread diseases or cause injuries Farming injuries are very common. Physical labor and accidents can cause injuries. Most farm accidents involve machinery. Proper machine inspection and maintenance can help prevent accidents. Using safety gloves, goggles and other protective equipment can also reduce accidents. Occupational Safety and Health Administration</dc:description>
+<dc:subject dcterms="mesh">Agricultural Workers' Diseases</dc:subject>
+<dc:subject xml:lang="es">Salud y seguridad en la granja</dc:subject>
+<dc:subject xml:lang="es">Granja</dc:subject>
+<dc:subject xml:lang="es">Seguridad y salud en la</dc:subject>
+<dc:subject xml:lang="en">Farm Health and Safety</dc:subject>
+<dc:subject xml:lang="en">Farmers</dc:subject>
+</metadata>
+</record>
+</MedlinePlus-document>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<MedlinePlus-document>
+<record>
+<header>
+<identifier>https://medlineplus.gov/bellspalsy.html</identifier>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title type="alternate" xml:lang="es">Parálisis facial</dc:title>
+<dc:type>Text</dc:type>
+<dc:language>spa</dc:language>
+<dc:language>eng</dc:language>
+<dc:title xml:lang="es">Parálisis de Bell</dc:title>
+<dc:title xml:lang="en">Bell's Palsy</dc:title>
+<dc:publisher>National Library of Medicine</dc:publisher>
+<dc:relation type="IsPartOf">Brain and Nerves</dc:relation>
+<dc:date type="created">2002-07-21</dc:date>
+<dc:date type="modified">2018-01-19</dc:date>
+<dc:identifier type="URL" xml:lang="es">https://medlineplus.gov/spanish/bellspalsy.html</dc:identifier>
+<dc:identifier type="URL" xml:lang="en">https://medlineplus.gov/bellspalsy.html</dc:identifier>
+<dc:description xml:lang="es">La parálisis de Bell es la forma más común de parálisis. Suele afectar únicamente un lado de la cara. Los síntomas aparecen de repente y suelen ser peores a las 48 horas de haber comenzado. Pueden ser de leves a severos e incluyen: Tics Debilidad Parálisis Caída del párpado y de la comisura de la boca Baboseo Sequedad del ojo de la boca Lagrimeo excesivo del ojo Deterioro del gusto Los científicos creen que una infección viral es la que provoca la hinchazón o inflamación del nervio facial. Es más probable que se presente una parálisis de Bell en las pacientes embarazadas, en diabéticos o en personas con gripe o un resfrío. Tres de cada cuatro pacientes mejoran sin tratamiento. Con o sin tratamiento, la mayoría de las personas empieza a mejorar en 2 semanas y se recupera completamente 3 a 6 meses después. NIH: Instituto Nacional de Trastornos Neurológicos y Accidentes Cerebrovasculares</dc:description>
+<dc:description xml:lang="en">Bell's palsy is the most common cause of facial paralysis. It usually affects just one side of the face. Symptoms appear suddenly and are at their worst about 48 hours after they start. They can range from mild to severe and include Twitching Weakness Paralysis Drooping eyelid or corner of mouth Drooling Dry eye or mouth Excessive tearing in the eye Impaired ability to taste Scientists think that a viral infection makes the facial nerve swell or become inflamed. You are most likely to get Bell's palsy if you are pregnant, diabetic or sick with a cold or flu. Three out of four patients improve without treatment. With or without treatment, most people begin to get better within 2 weeks and recover completely within 3 to 6 months. NIH: National Institute of Neurological Disorders and Stroke</dc:description>
+<dc:subject dcterms="mesh">Bell Palsy</dc:subject>
+<dc:subject xml:lang="es">Parálisis de Bell</dc:subject>
+<dc:subject xml:lang="es">Parálisis facial</dc:subject>
+<dc:subject xml:lang="en">Bell's Palsy</dc:subject>
+</metadata>
+</record>
+</MedlinePlus-document>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<MedlinePlus-document>
+<record>
+<header>
+<identifier>https://medlineplus.gov/developmentaldisabilities.html</identifier>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title type="alternate" xml:lang="es">Retraso mental</dc:title>
+<dc:title type="alternate" xml:lang="es">Discapacidad intelectual</dc:title>
+<dc:title type="alternate" xml:lang="es">Intelectual, discapacidad</dc:title>
+<dc:title type="alternate" xml:lang="en">Mental Retardation</dc:title>
+<dc:type>Text</dc:type>
+<dc:language>spa</dc:language>
+<dc:language>eng</dc:language>
+<dc:title xml:lang="es">Trastornos del desarrollo</dc:title>
+<dc:title xml:lang="en">Developmental Disabilities</dc:title>
+<dc:publisher>National Library of Medicine</dc:publisher>
+<dc:relation type="IsPartOf">Children and Teenagers</dc:relation>
+<dc:relation type="IsPartOf">Mental Health and Behavior</dc:relation>
+<dc:date type="created">2002-07-21</dc:date>
+<dc:date type="modified">2017-10-03</dc:date>
+<dc:identifier type="URL" xml:lang="es">https://medlineplus.gov/spanish/developmentaldisabilities.html</dc:identifier>
+<dc:identifier type="URL" xml:lang="en">https://medlineplus.gov/developmentaldisabilities.html</dc:identifier>
+<dc:description xml:lang="es">Los trastornos de desarrollo son problemas severos y de larga duración. Pueden ser físicos, como la ceguera. Pueden afectar las actividades mentales, como los problemas de aprendizaje. O pueden ser una combinación de ambos, como el síndrome de Down. Los problemas son a largo plazo y afectan la vida cotidiana. Existen varias causas de las capacidades de desarrollo. Estas incluyen: Anormalidades cromosómicas o genéticas. Estas causan condiciones como el síndrome de Down y el síndrome de Rett. Exposición durante el embarazo a ciertas sustancias. Beber alcohol en el embarazo puede causar trastornos del espectro alcohólico fetal. Ciertas infecciones durante el embarazo Parto prematuro En general, no existe una cura pero los tratamientos pueden ayudar con los síntomas. La terapia física, del habla y ocupacional pueden ser algunas opciones. Las clases de educación especial y el asesoramiento psicológico también pueden ayudar. NIH: Instituto Nacional de Salud Infantil y Desarrollo Humano</dc:description>
+<dc:description xml:lang="en">Developmental disabilities are severe, long-term problems. They may be physical, such as blindness. They may affect mental ability, such as learning disorders. Or the problem can be both physical and mental, such as Down syndrome. The problems are usually life-long, and can affect everyday living. There are many causes of developmental disabilities, including Genetic or chromosome abnormalities. These cause conditions such as Down syndrome and Rett syndrome. Prenatal exposure to substances. Drinking alcohol when pregnant can cause fetal alcohol spectrum disorders. Certain viral infections during pregnancy Preterm birth Often there is no cure, but treatment can help the symptoms. Treatments include physical, speech, and occupational therapy. Special education classes and psychological counseling can also help. NIH: National Institute of Child Health and Human Development</dc:description>
+<dc:subject dcterms="mesh">Developmental Disabilities</dc:subject>
+<dc:subject xml:lang="es">Trastornos del desarrollo</dc:subject>
+<dc:subject xml:lang="es">Retraso mental</dc:subject>
+<dc:subject xml:lang="es">Discapacidad intelectual</dc:subject>
+<dc:subject xml:lang="es">Intelectual</dc:subject>
+<dc:subject xml:lang="es">discapacidad</dc:subject>
+<dc:subject xml:lang="en">Developmental Disabilities</dc:subject>
+<dc:subject xml:lang="en">Mental Retardation</dc:subject>
+</metadata>
+</record>
+</MedlinePlus-document>

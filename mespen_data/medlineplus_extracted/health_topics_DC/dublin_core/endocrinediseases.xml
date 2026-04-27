@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<MedlinePlus-document>
+<record>
+<header>
+<identifier>https://medlineplus.gov/endocrinediseases.html</identifier>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title type="alternate" xml:lang="es">Neoplasia endocrina múltiple</dc:title>
+<dc:title type="alternate" xml:lang="es">Sistema endocrino, Enfermedades del (General)</dc:title>
+<dc:title type="alternate" xml:lang="es">Pubertad precoz</dc:title>
+<dc:title type="alternate" xml:lang="en">Multiple Endocrine Neoplasia</dc:title>
+<dc:type>Text</dc:type>
+<dc:language>spa</dc:language>
+<dc:language>eng</dc:language>
+<dc:title xml:lang="es">Enfermedades del sistema endocrino</dc:title>
+<dc:title xml:lang="en">Endocrine Diseases</dc:title>
+<dc:publisher>National Library of Medicine</dc:publisher>
+<dc:relation type="IsPartOf">Endocrine System</dc:relation>
+<dc:date type="created">2002-07-21</dc:date>
+<dc:date type="modified">2017-11-10</dc:date>
+<dc:identifier type="URL" xml:lang="es">https://medlineplus.gov/spanish/endocrinediseases.html</dc:identifier>
+<dc:identifier type="URL" xml:lang="en">https://medlineplus.gov/endocrinediseases.html</dc:identifier>
+<dc:description xml:lang="es">Su sistema endocrino incluye ocho glándulas principales distribuidas por todo el cuerpo. Estas glándulas producen hormonas. Las hormonas son mensajeros químicos. Viajan a través del torrente sanguíneo hacia los tejidos y órganos. Las hormonas trabajan lentamente y afectan los procesos corporales desde la cabeza hasta los pies. Entre esos procesos se encuentran: Crecimiento y desarrollo Metabolismo: digestión, eliminación, respiración, circulación sanguínea y mantenimiento de la temperatura corporal Función sexual Reproducción Estado de ánimo Si los niveles hormonales están demasiado elevados o disminuidos, es posible que tenga un trastorno hormonal. Las enfermedades hormonales también ocurren si el cuerpo no responde a las hormonas como debería hacerlo. El estrés, las infecciones y los cambios en el equilibrio de líquidos y electrolitos de la sangre también pueden afectar los niveles hormonales. En los Estados Unidos, la enfermedad endocrina más común es la diabetes. Existen muchas otras. El tratamiento suele consistir en controlar la cantidad de hormonas que produce el organismo. Si el problema es la falta de niveles suficientes de hormonas, los suplementos hormonales pueden ayudar.</dc:description>
+<dc:description xml:lang="en">Your endocrine system includes eight major glands throughout your body. These glands make hormones. Hormones are chemical messengers. They travel through your bloodstream to tissues or organs. Hormones work slowly and affect body processes from head to toe. These include Growth and development Metabolism - digestion, elimination, breathing, blood circulation and maintaining body temperature Sexual function Reproduction Mood If your hormone levels are too high or too low, you may have a hormone disorder. Hormone diseases also occur if your body does not respond to hormones the way it is supposed to. Stress, infection and changes in your blood's fluid and electrolyte balance can also influence hormone levels. In the United States, the most common endocrine disease is diabetes. There are many others. They are usually treated by controlling how much hormone your body makes. Hormone supplements can help if the problem is too little of a hormone.</dc:description>
+<dc:subject dcterms="mesh">Endocrine System Diseases</dc:subject>
+<dc:subject xml:lang="es">Enfermedades del sistema endocrino</dc:subject>
+<dc:subject xml:lang="es">Neoplasia endocrina múltiple</dc:subject>
+<dc:subject xml:lang="es">Sistema endocrino</dc:subject>
+<dc:subject xml:lang="es">Enfermedades del (General)</dc:subject>
+<dc:subject xml:lang="es">Pubertad precoz</dc:subject>
+<dc:subject xml:lang="en">Endocrine Diseases</dc:subject>
+<dc:subject xml:lang="en">Multiple Endocrine Neoplasia</dc:subject>
+</metadata>
+</record>
+</MedlinePlus-document>

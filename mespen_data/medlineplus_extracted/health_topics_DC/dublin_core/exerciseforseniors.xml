@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<MedlinePlus-document>
+<record>
+<header>
+<identifier>https://medlineplus.gov/exerciseforseniors.html</identifier>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title type="alternate" xml:lang="es">Condición física</dc:title>
+<dc:title type="alternate" xml:lang="es">Personas mayores, Ejercicio para</dc:title>
+<dc:title type="alternate" xml:lang="en">Fitness</dc:title>
+<dc:title type="alternate" xml:lang="en">Seniors' Fitness</dc:title>
+<dc:type>Text</dc:type>
+<dc:language>spa</dc:language>
+<dc:language>eng</dc:language>
+<dc:title xml:lang="es">Ejercicio para personas mayores</dc:title>
+<dc:title xml:lang="en">Exercise for Seniors</dc:title>
+<dc:publisher>National Library of Medicine</dc:publisher>
+<dc:relation type="IsPartOf">Wellness and Lifestyle</dc:relation>
+<dc:relation type="IsPartOf">Fitness and Exercise</dc:relation>
+<dc:relation type="IsPartOf">Seniors</dc:relation>
+<dc:date type="created">2002-07-21</dc:date>
+<dc:date type="modified">2017-10-19</dc:date>
+<dc:identifier type="URL" xml:lang="es">https://medlineplus.gov/spanish/exerciseforseniors.html</dc:identifier>
+<dc:identifier type="URL" xml:lang="en">https://medlineplus.gov/exerciseforseniors.html</dc:identifier>
+<dc:description xml:lang="es">El ejercicio y la actividad física benefician a casi todas las personas, incluidos los adultos mayores. Hay cuatro tipos principales y cada uno es diferente. Practicar todos ellos le entregará más beneficios. Las actividades de resistencia, o aeróbicas, aumentan la respiración y la frecuencia cardíaca. Algunos ejemplos son las caminatas o correr, bailar, nadar y andar en bicicleta Los ejercicios de fuerza fortalecen los músculos. Levantar pesas o usar bandas elásticas puede fortalecerle Los ejercicios de equilibrio ayudan a prevenir caídas Los ejercicios de flexibilidad estiran los músculos y pueden ayudar a que su cuerpo permanezca relajado Si usted no ha estado activo, puede comenzar lentamente y trabajar hasta su meta. La cantidad de ejercicio que necesita depende de su edad y salud. Consulte a su médico sobre lo que es mejor para usted. NIH: Instituto Nacional sobre el Envejecimiento</dc:description>
+<dc:description xml:lang="en">Exercise and physical activity are good for just about everyone, including older adults. There are four main types and each type is different. Doing them all will give you more benefits. Endurance, or aerobic, activities increase your breathing and heart rate. Brisk walking or jogging, dancing, swimming, and biking are examples. Strength exercises make your muscles stronger. Lifting weights or using a resistance band can build strength. Balance exercises help prevent falls Flexibility exercises stretch your muscles and can help your body stay limber If you have not been active, you can start slowly and work up to your goal. How much exercise you need depends on your age and health. Check with your health care provider on what is right for you. NIH: National Institute on Aging</dc:description>
+<dc:subject dcterms="mesh">Exercise</dc:subject>
+<dc:subject xml:lang="es">Ejercicio para personas mayores</dc:subject>
+<dc:subject xml:lang="es">Condición física</dc:subject>
+<dc:subject xml:lang="es">Personas mayores</dc:subject>
+<dc:subject xml:lang="es">Ejercicio para</dc:subject>
+<dc:subject xml:lang="en">Exercise for Seniors</dc:subject>
+<dc:subject xml:lang="en">Fitness</dc:subject>
+<dc:subject xml:lang="en">Seniors' Fitness</dc:subject>
+</metadata>
+</record>
+</MedlinePlus-document>

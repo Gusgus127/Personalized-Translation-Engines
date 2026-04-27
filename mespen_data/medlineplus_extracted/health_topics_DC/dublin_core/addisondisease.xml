@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<MedlinePlus-document>
+<record>
+<header>
+<identifier>https://medlineplus.gov/addisondisease.html</identifier>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title type="alternate" xml:lang="es">Addison, Enfermedad de</dc:title>
+<dc:title type="alternate" xml:lang="en">Adrenal Insufficiency</dc:title>
+<dc:type>Text</dc:type>
+<dc:language>spa</dc:language>
+<dc:language>eng</dc:language>
+<dc:title xml:lang="es">Enfermedad de Addison</dc:title>
+<dc:title xml:lang="en">Addison Disease</dc:title>
+<dc:publisher>National Library of Medicine</dc:publisher>
+<dc:relation type="IsPartOf">Endocrine System</dc:relation>
+<dc:relation type="IsPartOf">Immune System</dc:relation>
+<dc:date type="created">2002-07-21</dc:date>
+<dc:date type="modified">2017-12-07</dc:date>
+<dc:identifier type="URL" xml:lang="es">https://medlineplus.gov/spanish/addisondisease.html</dc:identifier>
+<dc:identifier type="URL" xml:lang="en">https://medlineplus.gov/addisondisease.html</dc:identifier>
+<dc:description xml:lang="es">Las glándulas suprarrenales se localizan justo arriba de los riñones. La capa externa de estas glándulas produce hormonas que ayudan al cuerpo a responder al estrés, regulan la presión sanguínea y el equilibrio del agua y sal en el cuerpo. La enfermedad de Addison ocurre cuando las glándulas suprarrenales no producen suficientes hormonas. Este enfermeadad suele ser a consecuencia de un problema con el sistema inmunitario. El sistema inmunitario ataca equivocadamente sus propios tejidos y daña las glándulas suprarrenales. Otras causas pueden ser algunas infecciones y cáncer. Los síntomas incluyen: Pérdida de peso Debilidad muscular Fatiga que empeora con el tiempo Baja presión arterial Piel oscura o manchada Existen pruebas de laboratorio que pueden confirmar si padece de la enfermedad de Addison. Si no se trata, puede ser mortal. Necesitará tomar pastillas de hormonas por el resto de su vida. Si padece de la enfermedad de Addison deberá llevar consigo una tarjeta de identificación en caso de urgencia. Esta deberá mencionar que usted padece dicha enfermedad e indicar sus medicinas y las dosis que necesita en caso de urgencia. NIH: Instituto Nacional de la Diabetes y las Enfermedades Digestivas y Renales</dc:description>
+<dc:description xml:lang="en">Your adrenal glands are just above your kidneys. The outside layer of these glands makes hormones that help your body respond to stress and regulate your blood pressure and water and salt balance. Addison disease happens if the adrenal glands don't make enough of these hormones. A problem with your immune system usually causes Addison disease. The immune system mistakenly attacks your own tissues, damaging your adrenal glands. Other causes include infections and cancer. Symptoms include Weight loss Muscle weakness Fatigue that gets worse over time Low blood pressure Patchy or dark skin Lab tests can confirm that you have Addison disease. If you don't treat it, it can be fatal. You will need to take hormone pills for the rest of your life. If you have Addison disease, you should carry an emergency ID. It should say that you have the disease, list your medicines and say how much you need in an emergency. NIH: National Institute of Diabetes and Digestive and Kidney Diseases</dc:description>
+<dc:subject dcterms="mesh">Addison Disease</dc:subject>
+<dc:subject xml:lang="es">Enfermedad de Addison</dc:subject>
+<dc:subject xml:lang="es">Addison</dc:subject>
+<dc:subject xml:lang="es">Enfermedad de</dc:subject>
+<dc:subject xml:lang="en">Addison Disease</dc:subject>
+<dc:subject xml:lang="en">Adrenal Insufficiency</dc:subject>
+</metadata>
+</record>
+</MedlinePlus-document>

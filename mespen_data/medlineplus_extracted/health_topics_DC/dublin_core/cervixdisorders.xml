@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<MedlinePlus-document>
+<record>
+<header>
+<identifier>https://medlineplus.gov/cervixdisorders.html</identifier>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title type="alternate" xml:lang="es">Cuello uterino, Trastornos</dc:title>
+<dc:title type="alternate" xml:lang="es">Cuello del útero, Trastornos</dc:title>
+<dc:title type="alternate" xml:lang="en">Uterine Cervix Disorders</dc:title>
+<dc:title type="alternate" xml:lang="en">Cervical Dysplasia</dc:title>
+<dc:type>Text</dc:type>
+<dc:language>spa</dc:language>
+<dc:language>eng</dc:language>
+<dc:title xml:lang="es">Trastornos del cuello uterino</dc:title>
+<dc:title xml:lang="en">Cervix Disorders</dc:title>
+<dc:publisher>National Library of Medicine</dc:publisher>
+<dc:relation type="IsPartOf">Female Reproductive System</dc:relation>
+<dc:date type="created">2010-04-26</dc:date>
+<dc:date type="modified">2018-01-11</dc:date>
+<dc:identifier type="URL" xml:lang="es">https://medlineplus.gov/spanish/cervixdisorders.html</dc:identifier>
+<dc:identifier type="URL" xml:lang="en">https://medlineplus.gov/cervixdisorders.html</dc:identifier>
+<dc:description xml:lang="es">El cuello uterino es la parte baja del útero y es donde crece el bebé durante el embarazo. El cuello del útero tiene una abertura elástica que se expande durante el parto. También es por donde el flujo menstrual sale del cuerpo de la mujer. Su proveedor de cuidados de salud quizás realice un Papanicolau durante su chequeo médico regular para notar si hay cambios en las células del cuello uterino, incluyendo cáncer de cuello uterino. Otros problemas del cuello uterino incluyen: Cervicitis: inflamación del cuello uterino, por lo general resultado de una infección Insuficiencia cérvicouterina: puede ocurrir durante el embarazo y consiste en un ensanchamiento del cuello del útero mucho antes de que el bebé nazca Pólipos y quistes cervicales: crecimientos anormales en el cuello uterino</dc:description>
+<dc:description xml:lang="en">The cervix is the lower part of the uterus, the place where a baby grows during pregnancy. The cervix has a small opening that expands during childbirth. It also allows menstrual blood to leave a woman's body. Your health care provider may perform a Pap test during your health checkup to look for changes to the cells of the cervix, including cervical cancer. Other problems with the cervix include: Cervicitis - inflammation of the cervix. This is usually from an infection. Cervical incompetence - This can happen during pregnancy. The opening of the cervix widens long before the baby is due. Cervical polyps and cysts - abnormal growths on the cervix</dc:description>
+<dc:subject dcterms="mesh">Uterine Cervical Diseases</dc:subject>
+<dc:subject xml:lang="es">Trastornos del cuello uterino</dc:subject>
+<dc:subject xml:lang="es">Cuello uterino</dc:subject>
+<dc:subject xml:lang="es">Trastornos</dc:subject>
+<dc:subject xml:lang="es">Cuello del útero</dc:subject>
+<dc:subject xml:lang="es">Trastornos</dc:subject>
+<dc:subject xml:lang="en">Cervix Disorders</dc:subject>
+<dc:subject xml:lang="en">Uterine Cervix Disorders</dc:subject>
+<dc:subject xml:lang="en">Cervical Dysplasia</dc:subject>
+</metadata>
+</record>
+</MedlinePlus-document>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<MedlinePlus-document>
+<record>
+<header>
+<identifier>https://medlineplus.gov/veteransandmilitaryfamilyhealth.html</identifier>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title type="alternate" xml:lang="es">Veterano, Salud de la familia del</dc:title>
+<dc:title type="alternate" xml:lang="es">Militar, Salud de la familia del</dc:title>
+<dc:type>Text</dc:type>
+<dc:language>spa</dc:language>
+<dc:language>eng</dc:language>
+<dc:title xml:lang="es">Salud de la familia del veterano y personal militar</dc:title>
+<dc:title xml:lang="en">Veterans and Military Family Health</dc:title>
+<dc:publisher>National Library of Medicine</dc:publisher>
+<dc:relation type="IsPartOf">Population Groups</dc:relation>
+<dc:date type="created">2008-12-15</dc:date>
+<dc:date type="modified">2017-03-28</dc:date>
+<dc:identifier type="URL" xml:lang="es">https://medlineplus.gov/spanish/veteransandmilitaryfamilyhealth.html</dc:identifier>
+<dc:identifier type="URL" xml:lang="en">https://medlineplus.gov/veteransandmilitaryfamilyhealth.html</dc:identifier>
+<dc:description xml:lang="es">El personal militar y los veteranos de guerra se enfrentan a diferentes problemas de salud comparados a la población civil. Sus familias también enfrentan algunos problemas específicos. Las familias pueden tener que lidiar con: La separación de los seres queridos Ansiedad por la seguridad de sus seres queridos en zonas de combate Enfermedades y lesiones por el combate, incluyendo discapacidades Problemas de salud mental por su servicio militar, incluyendo trastorno de estrés postraumático Estrés por los cuidados al paciente</dc:description>
+<dc:description xml:lang="en">Service members and veterans face some different health issues from civilians. Their families also face some unique challenges. Families may have to cope with Separation from their loved ones Anxiety over loved ones' safety in combat zones Illnesses and injuries from combat, including disabilities Mental health effects of military service, including post-traumatic stress disorder Family issues such as disruptions in parenting Caregiver stress</dc:description>
+<dc:subject dcterms="mesh">Family Health</dc:subject>
+<dc:subject dcterms="mesh">Military Family</dc:subject>
+<dc:subject dcterms="mesh">Military Personnel</dc:subject>
+<dc:subject dcterms="mesh">Veterans</dc:subject>
+<dc:subject xml:lang="es">Salud de la familia del veterano y personal militar</dc:subject>
+<dc:subject xml:lang="es">Veterano</dc:subject>
+<dc:subject xml:lang="es">Salud de la familia del</dc:subject>
+<dc:subject xml:lang="es">Militar</dc:subject>
+<dc:subject xml:lang="es">Salud de la familia del</dc:subject>
+<dc:subject xml:lang="en">Veterans and Military Family Health</dc:subject>
+</metadata>
+</record>
+</MedlinePlus-document>

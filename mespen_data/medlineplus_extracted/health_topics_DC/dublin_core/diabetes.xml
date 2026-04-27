@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<MedlinePlus-document>
+<record>
+<header>
+<identifier>https://medlineplus.gov/diabetes.html</identifier>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title type="alternate" xml:lang="es">Diabetes mellitus no insulino-Dependiente</dc:title>
+<dc:title type="alternate" xml:lang="es">Diabetes tipo II</dc:title>
+<dc:title type="alternate" xml:lang="en">Sugar Diabetes</dc:title>
+<dc:title type="alternate" xml:lang="en">Diabetes Mellitus</dc:title>
+<dc:type>Text</dc:type>
+<dc:language>spa</dc:language>
+<dc:language>eng</dc:language>
+<dc:title xml:lang="es">Diabetes</dc:title>
+<dc:title xml:lang="en">Diabetes</dc:title>
+<dc:publisher>National Library of Medicine</dc:publisher>
+<dc:relation type="IsPartOf">Seniors</dc:relation>
+<dc:relation type="IsPartOf">Metabolic Problems</dc:relation>
+<dc:relation type="IsPartOf">Diabetes Mellitus</dc:relation>
+<dc:relation type="IsPartOf">Endocrine System</dc:relation>
+<dc:date type="created">2002-07-21</dc:date>
+<dc:date type="modified">2018-01-03</dc:date>
+<dc:identifier type="URL" xml:lang="es">https://medlineplus.gov/spanish/diabetes.html</dc:identifier>
+<dc:identifier type="URL" xml:lang="en">https://medlineplus.gov/diabetes.html</dc:identifier>
+<dc:description xml:lang="es">La diabetes es una enfermedad en la que los niveles de glucosa (azúcar) de la sangre están muy altos. La glucosa proviene de los alimentos que consume. La insulina es una hormona que ayuda a que la glucosa entre a las células para suministrarles energía. En la diabetes tipo 1, el cuerpo no produce insulina. En la diabetes tipo 2, la más común, el cuerpo no produce o no usa la insulina de manera adecuada. Sin suficiente insulina, la glucosa permanece en la sangre. Con el tiempo, el exceso de glucosa en la sangre puede causar problemas serios. Puede dañar los ojos, los riñones y los nervios. La diabetes también puede causar enfermedades cardíacas, derrames cerebrales y la necesidad de amputar un miembro. Las mujeres embarazadas también pueden desarrollar diabetes, llamada diabetes gestacional. Un análisis de sangre puede mostrar si tiene diabetes. Un tipo de prueba, la A1c, también puede comprobar cómo está manejando su diabetes. El ejercicio, el control de peso y respetar el plan de comidas puede ayudar a controlar la diabetes. También debe controlar el nivel de glucosa en sangre y, si tiene receta médica, tomar medicamentos. NIH: Instituto Nacional de la Diabetes y las Enfermedades Digestivas y Renales</dc:description>
+<dc:description xml:lang="en">Diabetes is a disease in which your blood glucose, or blood sugar, levels are too high. Glucose comes from the foods you eat. Insulin is a hormone that helps the glucose get into your cells to give them energy. With type 1 diabetes, your body does not make insulin. With type 2 diabetes, the more common type, your body does not make or use insulin well. Without enough insulin, the glucose stays in your blood. You can also have prediabetes. This means that your blood sugar is higher than normal but not high enough to be called diabetes. Having prediabetes puts you at a higher risk of getting type 2 diabetes. Over time, having too much glucose in your blood can cause serious problems. It can damage your eyes, kidneys, and nerves. Diabetes can also cause heart disease, stroke and even the need to remove a limb. Pregnant women can also get diabetes, called gestational diabetes. Blood tests can show if you have diabetes. One type of test, the A1C, can also check on how you are managing your diabetes. Exercise, weight control and sticking to your meal plan can help control your diabetes. You should also monitor your blood glucose level and take medicine if prescribed. NIH: National Institute of Diabetes and Digestive and Kidney Diseases</dc:description>
+<dc:subject dcterms="mesh">Diabetes Mellitus</dc:subject>
+<dc:subject xml:lang="es">Diabetes</dc:subject>
+<dc:subject xml:lang="es">Diabetes mellitus no insulino-Dependiente</dc:subject>
+<dc:subject xml:lang="es">Diabetes tipo II</dc:subject>
+<dc:subject xml:lang="en">Diabetes</dc:subject>
+<dc:subject xml:lang="en">Sugar Diabetes</dc:subject>
+<dc:subject xml:lang="en">Diabetes Mellitus</dc:subject>
+</metadata>
+</record>
+</MedlinePlus-document>

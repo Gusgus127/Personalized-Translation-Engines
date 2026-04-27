@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<MedlinePlus-document>
+<record>
+<header>
+<identifier>https://medlineplus.gov/skinconditions.html</identifier>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title type="alternate" xml:lang="es">Piel, Enfermedades de la</dc:title>
+<dc:title type="alternate" xml:lang="es">Dermatitis seborreica</dc:title>
+<dc:title type="alternate" xml:lang="es">Intertrigo</dc:title>
+<dc:title type="alternate" xml:lang="es">Liquen plano</dc:title>
+<dc:title type="alternate" xml:lang="es">Mastocitosis</dc:title>
+<dc:title type="alternate" xml:lang="es">Pitiriasis rosada</dc:title>
+<dc:title type="alternate" xml:lang="es">Púrpura de Schönlein-Henoch</dc:title>
+<dc:title type="alternate" xml:lang="es">Liquen escleroso</dc:title>
+<dc:title type="alternate" xml:lang="es">Celulitis (grasa)</dc:title>
+<dc:title type="alternate" xml:lang="en">Dermatology</dc:title>
+<dc:title type="alternate" xml:lang="en">Cutaneous Disorders</dc:title>
+<dc:type>Text</dc:type>
+<dc:language>spa</dc:language>
+<dc:language>eng</dc:language>
+<dc:title xml:lang="es">Enfermedades de la piel</dc:title>
+<dc:title xml:lang="en">Skin Conditions</dc:title>
+<dc:publisher>National Library of Medicine</dc:publisher>
+<dc:relation type="IsPartOf">Skin, Hair and Nails</dc:relation>
+<dc:date type="created">2002-12-30</dc:date>
+<dc:date type="modified">2017-12-28</dc:date>
+<dc:identifier type="URL" xml:lang="es">https://medlineplus.gov/spanish/skinconditions.html</dc:identifier>
+<dc:identifier type="URL" xml:lang="en">https://medlineplus.gov/skinconditions.html</dc:identifier>
+<dc:description xml:lang="es">La piel es el órgano más grande del cuerpo; cubre y protege su cuerpo. La piel: Mantiene los fluidos corporales dentro del cuerpo, previniendo la deshidratación Lo protege contra las bacterias y virus que pueden causar infecciones Lo ayuda a percibir el mundo externo, si hace frío o calor, si está húmedo o seco Regula la temperatura del cuerpo Elabora vitamina D cuando recibe sol Cualquier cosa que irrite, obstruya o inflame la piel puede causar síntomas como enrojecimiento, hinchazón, ardor y picazón. La alergia, irritantes, su composición genética y ciertas enfermedades y problemas del sistema inmunitario pueden provocar sarpullido, urticaria y otros problemas en la piel. Muchos problemas de la piel, como el acné, también afectan su apariencia.</dc:description>
+<dc:description xml:lang="en">Your skin is your body's largest organ. It covers and protects your body. Your skin Holds body fluids in, preventing dehydration Keeps harmful microbes out, preventing infections Helps you feel things like heat, cold, and pain Keeps your body temperature even Makes vitamin D when the sun shines on it Anything that irritates, clogs, or inflames your skin can cause symptoms such as redness, swelling, burning, and itching. Allergies, irritants, your genetic makeup, and certain diseases and immune system problems can cause rashes, hives, and other skin conditions. Many skin problems, such as acne, also affect your appearance. NIH: National Institute of Arthritis and Musculoskeletal and Skin Diseases</dc:description>
+<dc:subject dcterms="mesh">Skin Diseases</dc:subject>
+<dc:subject xml:lang="es">Enfermedades de la piel</dc:subject>
+<dc:subject xml:lang="es">Piel</dc:subject>
+<dc:subject xml:lang="es">Enfermedades de la</dc:subject>
+<dc:subject xml:lang="es">Dermatitis seborreica</dc:subject>
+<dc:subject xml:lang="es">Intertrigo</dc:subject>
+<dc:subject xml:lang="es">Liquen plano</dc:subject>
+<dc:subject xml:lang="es">Mastocitosis</dc:subject>
+<dc:subject xml:lang="es">Pitiriasis rosada</dc:subject>
+<dc:subject xml:lang="es">Púrpura de Schönlein-Henoch</dc:subject>
+<dc:subject xml:lang="es">Liquen escleroso</dc:subject>
+<dc:subject xml:lang="es">Celulitis (grasa)</dc:subject>
+<dc:subject xml:lang="en">Skin Conditions</dc:subject>
+<dc:subject xml:lang="en">Dermatology</dc:subject>
+<dc:subject xml:lang="en">Cutaneous Disorders</dc:subject>
+</metadata>
+</record>
+</MedlinePlus-document>

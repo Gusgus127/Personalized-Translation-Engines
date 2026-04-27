@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<MedlinePlus-document>
+<record>
+<header>
+<identifier>https://medlineplus.gov/seniorshealth.html</identifier>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title type="alternate" xml:lang="es">Personas mayores, Salud</dc:title>
+<dc:title type="alternate" xml:lang="es">Vejez</dc:title>
+<dc:title type="alternate" xml:lang="es">Envejecimiento</dc:title>
+<dc:title type="alternate" xml:lang="es">Ancianos, Problemas de salud</dc:title>
+<dc:title type="alternate" xml:lang="en">Aging</dc:title>
+<dc:type>Text</dc:type>
+<dc:language>spa</dc:language>
+<dc:language>eng</dc:language>
+<dc:title xml:lang="es">Salud de las personas mayores</dc:title>
+<dc:title xml:lang="en">Seniors' Health</dc:title>
+<dc:publisher>National Library of Medicine</dc:publisher>
+<dc:relation type="IsPartOf">Population Groups</dc:relation>
+<dc:relation type="IsPartOf">Seniors</dc:relation>
+<dc:date type="created">2002-07-21</dc:date>
+<dc:date type="modified">2018-02-14</dc:date>
+<dc:identifier type="URL" xml:lang="es">https://medlineplus.gov/spanish/seniorshealth.html</dc:identifier>
+<dc:identifier type="URL" xml:lang="en">https://medlineplus.gov/seniorshealth.html</dc:identifier>
+<dc:description xml:lang="es">Las personas en Estados Unidos están viviendo más años que antes. Muchas personas mayores viven saludablemente y tienen vidas activas. Pero no hay manera de evitarlo: cuando envejecemos, nuestros cuerpos y mentes cambian. Es importante saber qué esperar. Algunos cambios son normales al envejecer, mientras que otros pueden ser una señal de un problema de salud. Es importante reconocer la diferencia y hablar con su proveedor de cuidados de salud si usted tiene alguna inquietud. Un estilo de vida sano puede ayudarlo a enfrentar los cambios normales del envejecimiento y disfrutar de su vida a pleno.</dc:description>
+<dc:description xml:lang="en">People in the U.S. are living longer than ever before. Many seniors live active and healthy lives. But there's no getting around one thing: as we age, our bodies and minds change. There are things you can do to stay healthy and active as you age. It is important to understand what to expect. Some changes may just be part of normal aging, while others may be a warning sign of a medical problem. It is important to know the difference, and to let your health care provider know if you have any concerns. Having a healthy lifestyle can help you to deal with normal aging changes and make the most of your life.</dc:description>
+<dc:subject dcterms="mesh">Aging</dc:subject>
+<dc:subject xml:lang="es">Salud de las personas mayores</dc:subject>
+<dc:subject xml:lang="es">Personas mayores</dc:subject>
+<dc:subject xml:lang="es">Salud</dc:subject>
+<dc:subject xml:lang="es">Vejez</dc:subject>
+<dc:subject xml:lang="es">Envejecimiento</dc:subject>
+<dc:subject xml:lang="es">Ancianos</dc:subject>
+<dc:subject xml:lang="es">Problemas de salud</dc:subject>
+<dc:subject xml:lang="en">Seniors' Health</dc:subject>
+<dc:subject xml:lang="en">Aging</dc:subject>
+</metadata>
+</record>
+</MedlinePlus-document>

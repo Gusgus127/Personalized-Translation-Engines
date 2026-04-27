@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<MedlinePlus-document>
+<record>
+<header>
+<identifier>https://medlineplus.gov/cellulitis.html</identifier>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:type>Text</dc:type>
+<dc:language>spa</dc:language>
+<dc:language>eng</dc:language>
+<dc:title xml:lang="es">Celulitis</dc:title>
+<dc:title xml:lang="en">Cellulitis</dc:title>
+<dc:publisher>National Library of Medicine</dc:publisher>
+<dc:relation type="IsPartOf">Infections</dc:relation>
+<dc:relation type="IsPartOf">Skin, Hair and Nails</dc:relation>
+<dc:date type="created">2002-12-30</dc:date>
+<dc:date type="modified">2018-01-03</dc:date>
+<dc:identifier type="URL" xml:lang="es">https://medlineplus.gov/spanish/cellulitis.html</dc:identifier>
+<dc:identifier type="URL" xml:lang="en">https://medlineplus.gov/cellulitis.html</dc:identifier>
+<dc:description xml:lang="es">La celulitis es una infección de la piel y los tejidos más profundos. El estreptococo del grupo A es la causa más común. La bacteria entra en su cuerpo cuando usted se lesiona la piel como sucede en una herida, quemadura o corte quirúrgico. Los síntomas pueden incluir: Fiebre y escalofríos Inflamación de los nódulos o ganglios linfáticos Erupción dolorosa donde la piel se presenta roja y frágil. Se pueden formar ampollas y costras Su profesional de cuidados de salud puede tomar una muestra o cultivo de la piel o hacer un análisis de sangre para identificar la bacteria que está causando la infección. El tratamiento consiste en antibióticos orales (por la boca) en el caso de casos leves o por vía intravenosa (a través de una vena) en los casos más severos. NIH: Instituto Nacional de Alergias y Enfermedades Infecciosas</dc:description>
+<dc:description xml:lang="en">Cellulitis is an infection of the skin and deep underlying tissues. Group A strep (streptococcal) bacteria are the most common cause. The bacteria enter your body when you get an injury such as a bruise, burn, surgical cut, or wound. Symptoms include Fever and chills Swollen glands or lymph nodes A rash with painful, red, tender skin. The skin may blister and scab over. Your health care provider may take a sample or culture from your skin or do a blood test to identify the bacteria causing infection. Treatment is with antibiotics. They may be oral in mild cases, or intravenous (by IV) for more severe cases. NIH: National Institute of Allergy and Infectious Diseases</dc:description>
+<dc:subject dcterms="mesh">Cellulitis</dc:subject>
+<dc:subject xml:lang="es">Celulitis</dc:subject>
+<dc:subject xml:lang="en">Cellulitis</dc:subject>
+</metadata>
+</record>
+</MedlinePlus-document>

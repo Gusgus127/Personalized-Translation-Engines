@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<MedlinePlus-document>
+<record>
+<header>
+<identifier>https://medlineplus.gov/eyewear.html</identifier>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title type="alternate" xml:lang="es">Lentes de contacto</dc:title>
+<dc:title type="alternate" xml:lang="es">Protección ocular</dc:title>
+<dc:title type="alternate" xml:lang="en">Contact Lenses</dc:title>
+<dc:title type="alternate" xml:lang="en">Glasses</dc:title>
+<dc:title type="alternate" xml:lang="en">Protective Eye Wear</dc:title>
+<dc:title type="alternate" xml:lang="en">Eyeglasses</dc:title>
+<dc:type>Text</dc:type>
+<dc:language>spa</dc:language>
+<dc:language>eng</dc:language>
+<dc:title xml:lang="es">Anteojos, lentes de contacto y protección ocular</dc:title>
+<dc:title xml:lang="en">Eye Wear</dc:title>
+<dc:publisher>National Library of Medicine</dc:publisher>
+<dc:relation type="IsPartOf">Eyes and Vision</dc:relation>
+<dc:date type="created">2002-07-21</dc:date>
+<dc:date type="modified">2018-02-06</dc:date>
+<dc:identifier type="URL" xml:lang="es">https://medlineplus.gov/spanish/eyewear.html</dc:identifier>
+<dc:identifier type="URL" xml:lang="en">https://medlineplus.gov/eyewear.html</dc:identifier>
+<dc:description xml:lang="es">Los anteojos protegen la vista o la corrigen. Algunos ejemplos son los anteojos de sol, las gafas de seguridad, los anteojos y los lentes de contacto. Si necesita lentes para corregirle la vista, es posible que pueda elegir entre lentes de contacto o anteojos. Cualquier opción suele necesitar de una receta médica. Casi cualquiera puede usar anteojos. Los lentes de contacto requieren de una manipulación más cuidadosa. Muchos trabajos y algunos deportes implican el riesgo de una lesión ocular. Miles de niños y adultos sufren lesiones en los ojos todos los años. La mayoría pueden prevenirse con una protección ocular adecuada. Todas las personas tienen riesgos de daños en los ojos debido al sol. Es importante usar regularmente anteojos para el sol que bloqueen por lo menos el 99 por ciento de los rayos ultravioleta.</dc:description>
+<dc:description xml:lang="en">Eye wear protects or corrects your vision. Examples are Sunglasses Safety goggles Glasses (also called eyeglasses) Contact lenses If you need corrective lenses, you may be able to choose between contacts or glasses. Either usually requires a prescription. Almost anyone can wear glasses. Contact lenses require more careful handling. Many jobs and some sports carry a risk of eye injury. Thousands of children and adults get eye injuries every year. Most are preventable with proper eye protection. Everyone is at risk for eye damage from the sun year-round. It's important to regularly use sunglasses that block out at least 99 percent of UV rays.</dc:description>
+<dc:subject dcterms="mesh">Eyeglasses</dc:subject>
+<dc:subject dcterms="mesh">Contact Lenses</dc:subject>
+<dc:subject xml:lang="es">Anteojos</dc:subject>
+<dc:subject xml:lang="es">lentes de contacto y protección ocular</dc:subject>
+<dc:subject xml:lang="es">Lentes de contacto</dc:subject>
+<dc:subject xml:lang="es">Protección ocular</dc:subject>
+<dc:subject xml:lang="en">Eye Wear</dc:subject>
+<dc:subject xml:lang="en">Contact Lenses</dc:subject>
+<dc:subject xml:lang="en">Glasses</dc:subject>
+<dc:subject xml:lang="en">Protective Eye Wear</dc:subject>
+<dc:subject xml:lang="en">Eyeglasses</dc:subject>
+</metadata>
+</record>
+</MedlinePlus-document>

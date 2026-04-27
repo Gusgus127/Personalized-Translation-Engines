@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<MedlinePlus-document>
+<record>
+<header>
+<identifier>https://medlineplus.gov/birthdefects.html</identifier>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title type="alternate" xml:lang="es">Nacimiento, Defectos</dc:title>
+<dc:title type="alternate" xml:lang="en">Abnormalities</dc:title>
+<dc:type>Text</dc:type>
+<dc:language>spa</dc:language>
+<dc:language>eng</dc:language>
+<dc:title xml:lang="es">Defectos congénitos</dc:title>
+<dc:title xml:lang="en">Birth Defects</dc:title>
+<dc:publisher>National Library of Medicine</dc:publisher>
+<dc:relation type="IsPartOf">Genetics/Birth Defects</dc:relation>
+<dc:date type="created">2002-07-21</dc:date>
+<dc:date type="modified">2018-01-18</dc:date>
+<dc:identifier type="URL" xml:lang="es">https://medlineplus.gov/spanish/birthdefects.html</dc:identifier>
+<dc:identifier type="URL" xml:lang="en">https://medlineplus.gov/birthdefects.html</dc:identifier>
+<dc:description xml:lang="es">Un defecto congénito es un problema que ocurre mientras un bebé se desarrolla dentro del cuerpo de su madre. La mayoría de los defectos congénitos ocurren durante los primeros tres meses del embarazo. Uno de cada 33 bebés en los Estados Unidos nace con un defecto congénito. Un defecto congénito puede afectar el aspecto del cuerpo, su funcionamiento o ambos. Algunos defectos congénitos, como el labio leporino o los defectos del tubo neural son problemas estructurales que pueden ser fáciles de notar. Para encontrar otros, como los defectos cardíacos, los médicos usan pruebas especiales. Los defectos congénitos pueden ser de leves a severos. Las causas incluyen: Genes Exposición a medicinas o sustancias químicas. Por ejemplo, el abuso de alcohol puede causar el síndrome de alcoholismo fetal Infecciones durante el embarazo Algunos medicamentos. Antes de quedar embarazada hable con su proveedor de salud sobre las medicinas que consume No consumir suficientes nutrientes. Por ejemplo, la carencia de ácido fólico es un factor clave en el desarrollo de defectos del tubo neural Se desconoce la causa de la mayoría de los defectos congénitos. Los proveedores de atención médica pueden diagnosticar ciertos defectos de nacimiento durante el embarazo con pruebas prenatales. Por ello es importante obtener atención prenatal regular. Otros defectos de nacimiento no se encuentran hasta después de nacer el bebé. A veces, el defecto es obvio de inmediato. En otras ocasiones, el proveedor de atención médica puede no descubrirlo hasta más adelante en la vida. Los bebés con defectos congénitos necesitan cuidados y atenciones especiales. Los tratamientos pueden incluir cirugía, medicinas, aparatos de asistencia y terapias. Centros para el Control y la Prevención de Enfermedades</dc:description>
+<dc:description xml:lang="en">A birth defect is a problem that happens while a baby is developing in the mother's body. Most birth defects happen during the first 3 months of pregnancy. One out of every 33 babies in the United States is born with a birth defect. A birth defect may affect how the body looks, works or both. Some birth defects like cleft lip or neural tube defects are structural problems that can be easy to see. To find others, like heart defects, doctors use special tests. Birth defects can range from mild to severe. Causes can include Genetics Exposures to medicines or chemicals. For example, alcohol abuse can cause fetal alcohol syndrome. Infections during pregnancy Certain medicines. Before you get pregnant, talk to your health care provider about any medicines you take. Not getting enough of certain nutrients. For example, not getting enough folic acid before and during pregnancy is a key factor in causing neural tube defects. For most birth defects, the cause is unknown. Health care providers can diagnose certain birth defects during pregnancy, with prenatal tests. That's why it important to get regular prenatal care. Other birth defects may not be found until after the baby is born. Sometimes the defect is obvious right away. Other times, the health care provider may not discover it until later in life. Babies with birth defects often need special care and treatments. The treatments may include surgery, medicines, assistive devices, and therapies. Centers for Disease Control and Prevention</dc:description>
+<dc:subject dcterms="mesh">Congenital Abnormalities</dc:subject>
+<dc:subject xml:lang="es">Defectos congénitos</dc:subject>
+<dc:subject xml:lang="es">Nacimiento</dc:subject>
+<dc:subject xml:lang="es">Defectos</dc:subject>
+<dc:subject xml:lang="en">Birth Defects</dc:subject>
+<dc:subject xml:lang="en">Abnormalities</dc:subject>
+</metadata>
+</record>
+</MedlinePlus-document>

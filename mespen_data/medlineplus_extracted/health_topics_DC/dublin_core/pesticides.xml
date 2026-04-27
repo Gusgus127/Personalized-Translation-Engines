@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<MedlinePlus-document>
+<record>
+<header>
+<identifier>https://medlineplus.gov/pesticides.html</identifier>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title type="alternate" xml:lang="es">Fungicidas</dc:title>
+<dc:title type="alternate" xml:lang="es">Herbicidas</dc:title>
+<dc:title type="alternate" xml:lang="es">Insecticidas</dc:title>
+<dc:title type="alternate" xml:lang="es">Raticida</dc:title>
+<dc:title type="alternate" xml:lang="en">Insecticides</dc:title>
+<dc:title type="alternate" xml:lang="en">Fungicides</dc:title>
+<dc:title type="alternate" xml:lang="en">Herbicides</dc:title>
+<dc:title type="alternate" xml:lang="en">Rodenticides</dc:title>
+<dc:type>Text</dc:type>
+<dc:language>spa</dc:language>
+<dc:language>eng</dc:language>
+<dc:title xml:lang="es">Pesticidas</dc:title>
+<dc:title xml:lang="en">Pesticides</dc:title>
+<dc:publisher>National Library of Medicine</dc:publisher>
+<dc:relation type="IsPartOf">Poisoning, Toxicology, Environmental Health</dc:relation>
+<dc:date type="created">2002-07-21</dc:date>
+<dc:date type="modified">2017-08-07</dc:date>
+<dc:identifier type="URL" xml:lang="es">https://medlineplus.gov/spanish/pesticides.html</dc:identifier>
+<dc:identifier type="URL" xml:lang="en">https://medlineplus.gov/pesticides.html</dc:identifier>
+<dc:description xml:lang="es">Las plagas viven donde no son bienvenidas o causan daños a los cultivos, las personas o los animales. Los pesticidas pueden ayudar a librarse de ellas. Los pesticidas no solo sirven para matar insectos, también incluyen sustancias químicas para el control de hierbas, roedores, moho, gérmenes y otros. Muchos productos domésticos contienen pesticidas. Los pesticidas pueden proteger su salud al matar los gérmenes, los animales o las plantas que pueden causarle daño. Sin embargo, estos también pueden ser dañinos para las personas o las mascotas. Es posible que prefiera intentar primero métodos no químicos. Si necesita un pesticida, utilícelo correctamente. Tenga especial cuidado alrededor de niños y mascotas. También es importante desechar los pesticidas correctamente, puede ayudar a proteger el medio ambiente. Los pesticidas con base biológica están haciéndose más populares. Frecuentemente, son más seguros que los tradicionales. Agencia de Protección Ambiental</dc:description>
+<dc:description xml:lang="en">Pests live where they are not wanted or cause harm to crops, people, or animals. Pesticides can help get rid of them. Pesticides are not just insect killers. They also include chemicals to control weeds, rodents, mildew, germs, and more. Many household products contain pesticides. Pesticides can protect your health by killing germs, animals, or plants that could hurt you. However, they can also be harmful to people or pets. You might want to try non-chemical methods first. If you do need a pesticide, use it correctly. Be especially careful around children and pets. Proper disposal of pesticides is also important - it can help protect the environment. Biologically-based pesticides are becoming more popular. They often are safer than traditional pesticides. Environmental Protection Agency</dc:description>
+<dc:subject dcterms="mesh">Pesticides</dc:subject>
+<dc:subject xml:lang="es">Pesticidas</dc:subject>
+<dc:subject xml:lang="es">Fungicidas</dc:subject>
+<dc:subject xml:lang="es">Herbicidas</dc:subject>
+<dc:subject xml:lang="es">Insecticidas</dc:subject>
+<dc:subject xml:lang="es">Raticida</dc:subject>
+<dc:subject xml:lang="en">Pesticides</dc:subject>
+<dc:subject xml:lang="en">Insecticides</dc:subject>
+<dc:subject xml:lang="en">Fungicides</dc:subject>
+<dc:subject xml:lang="en">Herbicides</dc:subject>
+<dc:subject xml:lang="en">Rodenticides</dc:subject>
+</metadata>
+</record>
+</MedlinePlus-document>

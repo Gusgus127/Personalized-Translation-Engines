@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<MedlinePlus-document>
+<record>
+<header>
+<identifier>https://medlineplus.gov/gout.html</identifier>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title type="alternate" xml:lang="es">Hiperuricemia</dc:title>
+<dc:title type="alternate" xml:lang="es">Seudogota</dc:title>
+<dc:title type="alternate" xml:lang="en">Hyperuricemia</dc:title>
+<dc:title type="alternate" xml:lang="en">Chondrocalcinosis</dc:title>
+<dc:title type="alternate" xml:lang="en">Pseudogout</dc:title>
+<dc:type>Text</dc:type>
+<dc:language>spa</dc:language>
+<dc:language>eng</dc:language>
+<dc:title xml:lang="es">Gota</dc:title>
+<dc:title xml:lang="en">Gout</dc:title>
+<dc:publisher>National Library of Medicine</dc:publisher>
+<dc:relation type="IsPartOf">Bones, Joints and Muscles</dc:relation>
+<dc:date type="created">2002-08-19</dc:date>
+<dc:date type="modified">2017-10-11</dc:date>
+<dc:identifier type="URL" xml:lang="es">https://medlineplus.gov/spanish/gout.html</dc:identifier>
+<dc:identifier type="URL" xml:lang="en">https://medlineplus.gov/gout.html</dc:identifier>
+<dc:description xml:lang="es">La gota es una forma común y dolorosa de artritis. Produce hinchazón, enrojecimiento, calor y rigidez en las articulaciones. La gota ocurre cuando se acumula ácido úrico en la sangre. El ácido úrico surge por la descomposición de unas sustancias llamadas purinas. Las purinas se encuentran en todos los tejidos del cuerpo. También se encuentran en muchos alimentos tales como el hígado, los frijoles y guisantes secos y en las anchoas. Normalmente, el ácido úrico se disuelve en la sangre, pasa por los riñones y sale del cuerpo en la orina. Pero, a veces, el ácido úrico puede acumularse en cristales con forma de aguja. Cuando se forma en las articulaciones, es muy doloroso. Los cristales también pueden causar piedras en los riñones. Con frecuencia, el primer ataque de gota ocurre en el dedo gordo del pie. También puede afectar los tobillos, talones, rodillas, muñecas, dedos y codos. Al comienzo, los ataques de gota mejoran en unos días. Con el correr del tiempo, los ataques duran más tiempo y suceden más frecuentemente. Una persona tiene más posibilidades de tener gota si: Es de sexo masculino Tiene antecedentes familiares de gota Esta excedido de peso Consume alcohol Consume muchos alimentos ricos en purinas La gota puede ser difícil de diagnosticar. Su doctor puede tomar una muestra del fluido de las articulaciones inflamadas para determinar si hay cristales. Se puede tratar la gota con medicamentos. La pseudogota tiene síntomas parecidos y a veces se confunde con la gota. Sin embargo, es causada por fosfato de calcio y no por ácido úrico. NIH: Instituto Nacional de Artritis y Enfermedades Musculoesqueléticas y de la Piel</dc:description>
+<dc:description xml:lang="en">Gout is a common, painful form of arthritis. It causes swollen, red, hot and stiff joints. Gout happens when uric acid builds up in your body. Uric acid comes from the breakdown of substances called purines. Purines are in your body's tissues and in foods, such as liver, dried beans and peas, and anchovies. Normally, uric acid dissolves in the blood. It passes through the kidneys and out of the body in urine. But sometimes uric acid can build up and form needle-like crystals. When they form in your joints, it is very painful. The crystals can also cause kidney stones. Often, gout first attacks your big toe. It can also attack ankles, heels, knees, wrists, fingers, and elbows. At first, gout attacks usually get better in days. Eventually, attacks last longer and happen more often. You are more likely to get gout if you Are a man Have family member with gout Are overweight Drink alcohol Eat too many foods rich in purines Gout can be hard to diagnose. Your doctor may take a sample of fluid from an inflamed joint to look for crystals. You can treat gout with medicines. Pseudogout has similar symptoms and is sometimes confused with gout. However, it is caused by calcium phosphate, not uric acid. NIH: National Institute of Arthritis and Musculoskeletal and Skin Diseases</dc:description>
+<dc:subject dcterms="mesh">Gout</dc:subject>
+<dc:subject xml:lang="es">Gota</dc:subject>
+<dc:subject xml:lang="es">Hiperuricemia</dc:subject>
+<dc:subject xml:lang="es">Seudogota</dc:subject>
+<dc:subject xml:lang="en">Gout</dc:subject>
+<dc:subject xml:lang="en">Hyperuricemia</dc:subject>
+<dc:subject xml:lang="en">Chondrocalcinosis</dc:subject>
+<dc:subject xml:lang="en">Pseudogout</dc:subject>
+</metadata>
+</record>
+</MedlinePlus-document>

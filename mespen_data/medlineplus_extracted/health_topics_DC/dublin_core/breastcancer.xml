@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<MedlinePlus-document>
+<record>
+<header>
+<identifier>https://medlineplus.gov/breastcancer.html</identifier>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title type="alternate" xml:lang="es">Cáncer de mama</dc:title>
+<dc:title type="alternate" xml:lang="es">Seno, Cáncer de</dc:title>
+<dc:title type="alternate" xml:lang="es">Mama, Cáncer de</dc:title>
+<dc:title type="alternate" xml:lang="en">Paget's Disease of Breast</dc:title>
+<dc:type>Text</dc:type>
+<dc:language>spa</dc:language>
+<dc:language>eng</dc:language>
+<dc:title xml:lang="es">Cáncer de seno</dc:title>
+<dc:title xml:lang="en">Breast Cancer</dc:title>
+<dc:publisher>National Library of Medicine</dc:publisher>
+<dc:relation type="IsPartOf">Cancers</dc:relation>
+<dc:relation type="IsPartOf">Female Reproductive System</dc:relation>
+<dc:relation type="IsPartOf">Women</dc:relation>
+<dc:date type="created">2002-07-21</dc:date>
+<dc:date type="modified">2018-01-09</dc:date>
+<dc:identifier type="URL" xml:lang="es">https://medlineplus.gov/spanish/breastcancer.html</dc:identifier>
+<dc:identifier type="URL" xml:lang="en">https://medlineplus.gov/breastcancer.html</dc:identifier>
+<dc:description xml:lang="es">El cáncer de mama afecta a una de cada ocho mujeres durante su vida. Nadie sabe por qué algunas mujeres desarrollan cáncer de mama, pero existen varios factores de riesgo. Los factores que no se pueden cambiar incluyen: Edad: El riesgo aumenta a medida que usted envejece Genes: Dos genes, BRCA1 y BRCA2, aumentan en gran medida el riesgo. Las mujeres que tienen antecedentes familiares de cáncer de mama o de ovario pueden desear hacerse el examen genético Factores personales: Comenzar la menstruación antes de los 12 años o la menopausia después de los 55 Otros factores de riesgo incluyen obesidad, usar terapia de reemplazo hormonal (también llamada terapia hormonal para la menopausia), tomar pastillas anticonceptivas, beber alcohol, no tener hijos o tener el primer hijo después de los 35 años, y tener senos densos. Los síntomas del cáncer de mama pueden incluir un bulto o masa en la mama, un cambio de tamaño o forma de la mama, y secreciones del pezón. El autoexamen y la mamografía puede ayudar a diagnosticar el cáncer de mama en forma temprana, cuando es más tratable. Un posible tratamiento es la cirugía. Puede ser una lumpectomía o una mastectomía. Otros tratamientos incluyen radioterapia, quimioterapia, terapia hormonal y terapia dirigida. La terapia dirigida usa sustancias que atacan las células cancerígenas sin dañar las células normales. Los hombres también pueden tener cáncer de mama, pero es raro. NIH: Instituto Nacional del Cáncer</dc:description>
+<dc:description xml:lang="en">Breast cancer affects one in eight women during their lives. No one knows why some women get breast cancer, but there are many risk factors. Risks that you cannot change include Age - the risk rises as you get older Genes - two genes, BRCA1 and BRCA2, greatly increase the risk. Women who have family members with breast or ovarian cancer may wish to be tested for the genes. Personal factors - beginning periods before age 12 or going through menopause after age 55 Other risks include obesity, using hormone replacement therapy (also called menopausal hormone therapy), taking birth control pills, drinking alcohol, not having children or having your first child after age 35, and having dense breasts. Symptoms of breast cancer may include a lump in the breast, a change in size or shape of the breast, and discharge from a nipple. Breast self-exams and mammography can help find breast cancer early, when it is most treatable. One possible treatment is surgery. It could be a lumpectomy or a mastectomy. Other treatments include radiation therapy, chemotherapy, hormone therapy, and targeted therapy. Targeted therapy uses substances that attack cancer cells without harming normal cells. Men can have breast cancer, too, but it is rare. NIH: National Cancer Institute</dc:description>
+<dc:subject dcterms="mesh">Hereditary Breast and Ovarian Cancer Syndrome</dc:subject>
+<dc:subject dcterms="mesh">Breast Neoplasms</dc:subject>
+<dc:subject dcterms="mesh">Carcinoma, Ductal, Breast</dc:subject>
+<dc:subject dcterms="mesh">Inflammatory Breast Neoplasms</dc:subject>
+<dc:subject xml:lang="es">Cáncer de seno</dc:subject>
+<dc:subject xml:lang="es">Cáncer de mama</dc:subject>
+<dc:subject xml:lang="es">Seno</dc:subject>
+<dc:subject xml:lang="es">Cáncer de</dc:subject>
+<dc:subject xml:lang="es">Mama</dc:subject>
+<dc:subject xml:lang="es">Cáncer de</dc:subject>
+<dc:subject xml:lang="en">Breast Cancer</dc:subject>
+<dc:subject xml:lang="en">Paget's Disease of Breast</dc:subject>
+</metadata>
+</record>
+</MedlinePlus-document>

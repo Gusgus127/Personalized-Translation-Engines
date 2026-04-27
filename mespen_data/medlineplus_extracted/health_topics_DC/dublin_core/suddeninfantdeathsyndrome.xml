@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<MedlinePlus-document>
+<record>
+<header>
+<identifier>https://medlineplus.gov/suddeninfantdeathsyndrome.html</identifier>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title type="alternate" xml:lang="es">SMIS</dc:title>
+<dc:title type="alternate" xml:lang="es">Muerte infantil súbita, Síndrome de</dc:title>
+<dc:title type="alternate" xml:lang="en">SIDS</dc:title>
+<dc:title type="alternate" xml:lang="en">Crib Death</dc:title>
+<dc:type>Text</dc:type>
+<dc:language>spa</dc:language>
+<dc:language>eng</dc:language>
+<dc:title xml:lang="es">Síndrome de muerte infantil súbita</dc:title>
+<dc:title xml:lang="en">Sudden Infant Death Syndrome</dc:title>
+<dc:publisher>National Library of Medicine</dc:publisher>
+<dc:relation type="IsPartOf">Children and Teenagers</dc:relation>
+<dc:date type="created">2002-07-21</dc:date>
+<dc:date type="modified">2018-02-12</dc:date>
+<dc:identifier type="URL" xml:lang="es">https://medlineplus.gov/spanish/suddeninfantdeathsyndrome.html</dc:identifier>
+<dc:identifier type="URL" xml:lang="en">https://medlineplus.gov/suddeninfantdeathsyndrome.html</dc:identifier>
+<dc:description xml:lang="es">El síndrome de muerte súbita infantil es la muerte repentina e inexplicable de un niño menor de un año de edad. Algunas personas llaman este síndrome "muerte en la cuna" porque muchos casos de bebés muertos son encontrados en sus cunas. El síndrome de muerte súbita infantil es la principal causa de muerte en niños entre un mes y un año de vida. La mayoría de los casos ocurre cuando los bebés tienen entre dos y cuatro meses de edad. Los bebés prematuros, varones, afroamericanos y indioamericanos o nativos de Alaska tienen un mayor riesgo de este síndrome. Aun cuando los profesionales de la salud no conocen las causas, se sabe que hay formas de disminuir los riesgos. Estas incluyen: Poner a los bebés de espaldas para dormir. Ponerlos de estómago es para cuando los bebés están despiertos y hay alguien observándolos Dejar a su bebé dormir en su habitación por lo menos durante los primeros seis meses. Su bebé debe dormir cerca de usted, pero en un lugar aparte diseñado para bebés, como una cuna o un moisés Colocarlos sobre una superficie firme al dormir, tal como un colchón de una cuna cubierto con una sábana ajustada Mantener los objetos blandos y la ropa de cama suelta alejados del área de dormir Amamantar al bebé Asegurarse que los bebés no tengan demasiado calor. Mantenga la habitación a una temperatura cómoda para un adulto No fume cuando esté embarazada y tampoco deje que otras personas lo hagan cerca de su bebé NIH: Instituto Nacional de Salud Infantil y Desarrollo Humano</dc:description>
+<dc:description xml:lang="en">Sudden infant death syndrome (SIDS) is the sudden, unexplained death of an infant younger than one year old. Some people call SIDS "crib death" because many babies who die of SIDS are found in their cribs. SIDS is the leading cause of death in children between one month and one year old. Most SIDS deaths occur when babies are between one month and four months old. Premature babies, boys, African Americans, and American Indian/Alaska Native infants have a higher risk of SIDS. Although health care professionals don't know what causes SIDS, they do know ways to reduce the risk. These include Placing your baby on his or her back to sleep, even for short naps. "Tummy time" is for when babies are awake and someone is watching Having your baby sleep in your room for at least the first six months. Your baby should sleep close to you, but on a separate surface designed for infants, such as a crib or bassinet. Using a firm sleep surface, such as a crib mattress covered with a fitted sheet Keeping soft objects and loose bedding away from your baby's sleep area Breastfeeding your baby Making sure that your baby doesn't get too hot. Keep the room at a comfortable temperature for an adult. Not smoking during pregnancy or allowing anyone to smoke near your baby NIH: National Institute of Child Health and Human Development</dc:description>
+<dc:subject dcterms="mesh">Sudden Infant Death</dc:subject>
+<dc:subject xml:lang="es">Síndrome de muerte infantil súbita</dc:subject>
+<dc:subject xml:lang="es">SMIS</dc:subject>
+<dc:subject xml:lang="es">Muerte infantil súbita</dc:subject>
+<dc:subject xml:lang="es">Síndrome de</dc:subject>
+<dc:subject xml:lang="en">Sudden Infant Death Syndrome</dc:subject>
+<dc:subject xml:lang="en">SIDS</dc:subject>
+<dc:subject xml:lang="en">Crib Death</dc:subject>
+</metadata>
+</record>
+</MedlinePlus-document>

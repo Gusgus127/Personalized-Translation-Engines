@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<MedlinePlus-document>
+<record>
+<header>
+<identifier>https://medlineplus.gov/pain.html</identifier>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:type>Text</dc:type>
+<dc:language>spa</dc:language>
+<dc:language>eng</dc:language>
+<dc:title xml:lang="es">Dolor</dc:title>
+<dc:title xml:lang="en">Pain</dc:title>
+<dc:publisher>National Library of Medicine</dc:publisher>
+<dc:relation type="IsPartOf">Symptoms</dc:relation>
+<dc:relation type="IsPartOf">Brain and Nerves</dc:relation>
+<dc:date type="created">2002-07-21</dc:date>
+<dc:date type="modified">2018-01-19</dc:date>
+<dc:identifier type="URL" xml:lang="es">https://medlineplus.gov/spanish/pain.html</dc:identifier>
+<dc:identifier type="URL" xml:lang="en">https://medlineplus.gov/pain.html</dc:identifier>
+<dc:description xml:lang="es">El dolor es una señal del sistema nervioso de que algo no anda bien. Es una sensación desagradable, como un pinchazo, hormigueo, picadura, ardor o molestia. El dolor puede ser agudo o sordo. Puede ser intermitente o ser constante. Puede sentir dolor en algún lugar del cuerpo, como la espalda, el abdomen, el pecho o la pelvis. O puede sentir dolor generalizado. El dolor puede ayudar a diagnosticar un problema. Sin dolor, usted podría lastimarse gravemente sin saberlo o no darse cuenta de que tiene un problema médico que requiere tratamiento. Hay dos tipos de dolor: Agudo y crónico. En general, el dolor agudo aparece de repente, debido a una enfermedad, lesión o inflamación. A menudo puede ser diagnosticado y tratado. Generalmente desaparece, aunque a veces puede convertirse en dolor crónico. El dolor crónico dura mucho tiempo y puede causar problemas graves. El dolor no siempre es curable, pero hay muchas formas de tratarlo. El tratamiento depende de la causa y el tipo de dolor. Los analgésicos y otros medicamentos, la acupuntura, la fisioterapia y, a veces, la cirugía pueden ser útiles. NIH: Instituto Nacional de Trastornos Neurológicos y Accidentes Cerebrovasculares</dc:description>
+<dc:description xml:lang="en">Pain is a signal in your nervous system that something may be wrong. It is an unpleasant feeling, such as a prick, tingle, sting, burn, or ache. Pain may be sharp or dull. It may come and go, or it may be constant. You may feel pain in one area of your body, such as your back, abdomen, chest, pelvis, or you may feel pain all over Pain can be helpful in diagnosing a problem. If you never felt pain, you might seriously hurt yourself without knowing it, or you might not realize you have a medical problem that needs treatment. There are two types of pain: acute and chronic. Acute pain usually comes on suddenly, because of a disease, injury, or inflammation. It can often be diagnosed and treated. It usually goes away, though sometimes it can turn into chronic pain. Chronic pain lasts for a long time, and can cause severe problems. Pain is not always curable, but there are many ways to treat it. Treatment depends on the cause and type of pain. Pain relievers and other medicines, acupuncture, physical therapy, and sometimes surgery may be helpful. NIH: National Institute of Neurological Disorders and Stroke</dc:description>
+<dc:subject dcterms="mesh">Pain Perception</dc:subject>
+<dc:subject dcterms="mesh">Pain Management</dc:subject>
+<dc:subject dcterms="mesh">Pain</dc:subject>
+<dc:subject xml:lang="es">Dolor</dc:subject>
+<dc:subject xml:lang="en">Pain</dc:subject>
+</metadata>
+</record>
+</MedlinePlus-document>

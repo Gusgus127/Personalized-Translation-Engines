@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<MedlinePlus-document>
+<record>
+<header>
+<identifier>https://medlineplus.gov/neckinjuriesanddisorders.html</identifier>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title type="alternate" xml:lang="es">Región cervical de la columna vertebral</dc:title>
+<dc:title type="alternate" xml:lang="es">Traumatismo cervical</dc:title>
+<dc:title type="alternate" xml:lang="es">Cuello, Lesiones y enfermedades del</dc:title>
+<dc:title type="alternate" xml:lang="es">Cervical, Traumatismo</dc:title>
+<dc:title type="alternate" xml:lang="en">Cervical Spine</dc:title>
+<dc:title type="alternate" xml:lang="en">Whiplash</dc:title>
+<dc:type>Text</dc:type>
+<dc:language>spa</dc:language>
+<dc:language>eng</dc:language>
+<dc:title xml:lang="es">Lesiones y enfermedades del cuello</dc:title>
+<dc:title xml:lang="en">Neck Injuries and Disorders</dc:title>
+<dc:publisher>National Library of Medicine</dc:publisher>
+<dc:relation type="IsPartOf">Bones, Joints and Muscles</dc:relation>
+<dc:relation type="IsPartOf">Injuries and Wounds</dc:relation>
+<dc:date type="created">2002-07-21</dc:date>
+<dc:date type="modified">2017-11-20</dc:date>
+<dc:identifier type="URL" xml:lang="es">https://medlineplus.gov/spanish/neckinjuriesanddisorders.html</dc:identifier>
+<dc:identifier type="URL" xml:lang="en">https://medlineplus.gov/neckinjuriesanddisorders.html</dc:identifier>
+<dc:description xml:lang="es">Cualquier parte del cuello: músculos, huesos, articulaciones, tendones, ligamentos o nervios puede ocasionar problemas y dolor en el cuello. El dolor también puede provenir del hombro, la mandíbula, la cabeza o los brazos. Las distensiones musculares o la tensión suelen causar dolor en el cuello. El problema suele ser el exceso de uso, como ocurre al sentarse durante demasiado tiempo frente a una computadora. Algunas veces, los músculos del cuello pueden torcerse por dormir en posiciones incómodas o por excederse en el ejercicio. Las caídas o los accidentes, incluyendo los accidentes automovilísticos, son otra causa común de dolor en el cuello. El latigazo cervical, una lesión de los tejidos blandos del cuello, también se denomina distensión o torcedura del cuello. El tratamiento depende de la causa, pero puede incluir hielo, analgésicos, fisioterapia o un collarín cervical. Raras veces se requiere cirugía.</dc:description>
+<dc:description xml:lang="en">Any part of your neck - muscles, bones, joints, tendons, ligaments, or nerves - can cause neck problems. Neck pain is very common. Pain may also come from your shoulder, jaw, head, or upper arms. Muscle strain or tension often causes neck pain. The problem is usually overuse, such as from sitting at a computer for too long. Sometimes you can strain your neck muscles from sleeping in an awkward position or overdoing it during exercise. Falls or accidents, including car accidents, are another common cause of neck pain. Whiplash, a soft tissue injury to the neck, is also called neck sprain or strain. Treatment depends on the cause, but may include applying ice, taking pain relievers, getting physical therapy or wearing a cervical collar. You rarely need surgery.</dc:description>
+<dc:subject dcterms="mesh">Neck Injuries</dc:subject>
+<dc:subject dcterms="mesh">Cervical Vertebrae</dc:subject>
+<dc:subject dcterms="mesh">Neck Pain</dc:subject>
+<dc:subject xml:lang="es">Lesiones y enfermedades del cuello</dc:subject>
+<dc:subject xml:lang="es">Región cervical de la columna vertebral</dc:subject>
+<dc:subject xml:lang="es">Traumatismo cervical</dc:subject>
+<dc:subject xml:lang="es">Cuello</dc:subject>
+<dc:subject xml:lang="es">Lesiones y enfermedades del</dc:subject>
+<dc:subject xml:lang="es">Cervical</dc:subject>
+<dc:subject xml:lang="es">Traumatismo</dc:subject>
+<dc:subject xml:lang="en">Neck Injuries and Disorders</dc:subject>
+<dc:subject xml:lang="en">Cervical Spine</dc:subject>
+<dc:subject xml:lang="en">Whiplash</dc:subject>
+</metadata>
+</record>
+</MedlinePlus-document>

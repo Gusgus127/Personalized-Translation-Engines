@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<MedlinePlus-document>
+<record>
+<header>
+<identifier>https://medlineplus.gov/pancreaticcancer.html</identifier>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title type="alternate" xml:lang="es">Células de los islotes, Cáncer de</dc:title>
+<dc:title type="alternate" xml:lang="es">Cáncer de células de los islotes</dc:title>
+<dc:title type="alternate" xml:lang="es">Páncreas, Cáncer del</dc:title>
+<dc:title type="alternate" xml:lang="es">Zollinger-Ellison, Síndrome de</dc:title>
+<dc:title type="alternate" xml:lang="en">Islet Cell Carcinoma</dc:title>
+<dc:type>Text</dc:type>
+<dc:language>spa</dc:language>
+<dc:language>eng</dc:language>
+<dc:title xml:lang="es">Cáncer de páncreas</dc:title>
+<dc:title xml:lang="en">Pancreatic Cancer</dc:title>
+<dc:publisher>National Library of Medicine</dc:publisher>
+<dc:relation type="IsPartOf">Digestive System</dc:relation>
+<dc:relation type="IsPartOf">Endocrine System</dc:relation>
+<dc:relation type="IsPartOf">Cancers</dc:relation>
+<dc:date type="created">2002-07-21</dc:date>
+<dc:date type="modified">2017-11-14</dc:date>
+<dc:identifier type="URL" xml:lang="es">https://medlineplus.gov/spanish/pancreaticcancer.html</dc:identifier>
+<dc:identifier type="URL" xml:lang="en">https://medlineplus.gov/pancreaticcancer.html</dc:identifier>
+<dc:description xml:lang="es">El páncreas es una glándula localizada detrás del estómago y por delante de la columna. Produce jugos que ayudan a descomponer los alimentos y hormonas que ayudan a controlar los niveles de azúcar en la sangre. El cáncer de páncreas es la cuarta causa principal de muerte por cáncer en los Estados Unidos. Algunos factores de riesgo para el desarrollo de cáncer de páncreas incluyen: Fumar Sufrir de diabetes por mucho tiempo Pancreatitis crónica Algunos trastornos hereditarios El cáncer de páncreas es difícil de detectar con anticipación. No causa síntomas de inmediato. Cuando los síntomas aparecen, suelen ser vagos o imperceptibles. Incluyen una coloración amarillenta de la piel y los ojos, dolor en el abdomen y la espalda, pérdida de peso y fatiga. Además, como el páncreas está oculto detrás de otros órganos, los profesionales de la salud no pueden ver ni palpar los tumores en los exámenes de rutina. Para el diagnóstico, los doctores hacen un examen físico, pruebas de sangre, exámenes de imágenes y una biopsia. Dado que frecuentemente se detecta tarde y se disemina rápidamente, el cáncer de páncreas puede ser difícil de tratar. Los posibles tratamientos incluyen cirugía, radiación y quimioterapia y terapia dirigida. La terapia dirigida es un tipo de tratamiento en el que se utilizan sustancias para identificar y atacar células cancerosas específicas sin dañar las células normales. NIH: Instituto Nacional del Cáncer</dc:description>
+<dc:description xml:lang="en">The pancreas is a gland behind your stomach and in front of your spine. It produces the juices that help break down food and the hormones that help control blood sugar levels. Pancreatic cancer usually begins in the cells that produce the juices. Some risk factors for developing pancreatic cancer include Smoking Long-term diabetes Chronic pancreatitis Certain hereditary disorders Pancreatic cancer is hard to catch early. It doesn't cause symptoms right away. When you do get symptoms, they are often vague or you may not notice them. They include yellowing of the skin and eyes, pain in the abdomen and back, weight loss and fatigue. Also, because the pancreas is hidden behind other organs, health care providers cannot see or feel the tumors during routine exams. Doctors use a physical exam, blood tests, imaging tests, and a biopsy to diagnose it. Because it is often found late and it spreads quickly, pancreatic cancer can be hard to treat. Possible treatments include surgery, radiation, chemotherapy, and targeted therapy. Targeted therapy uses substances that attack cancer cells without harming normal cells. NIH: National Cancer Institute</dc:description>
+<dc:subject dcterms="mesh">Pancreatic Neoplasms</dc:subject>
+<dc:subject xml:lang="es">Cáncer de páncreas</dc:subject>
+<dc:subject xml:lang="es">Células de los islotes</dc:subject>
+<dc:subject xml:lang="es">Cáncer de</dc:subject>
+<dc:subject xml:lang="es">Cáncer de células de los islotes</dc:subject>
+<dc:subject xml:lang="es">Páncreas</dc:subject>
+<dc:subject xml:lang="es">Cáncer del</dc:subject>
+<dc:subject xml:lang="es">Zollinger-Ellison</dc:subject>
+<dc:subject xml:lang="es">Síndrome de</dc:subject>
+<dc:subject xml:lang="en">Pancreatic Cancer</dc:subject>
+<dc:subject xml:lang="en">Islet Cell Carcinoma</dc:subject>
+</metadata>
+</record>
+</MedlinePlus-document>

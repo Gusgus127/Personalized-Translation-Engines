@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<MedlinePlus-document>
+<record>
+<header>
+<identifier>https://medlineplus.gov/hypoglycemia.html</identifier>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title type="alternate" xml:lang="es">Azúcar baja en la sangre</dc:title>
+<dc:title type="alternate" xml:lang="en">Low Blood Sugar</dc:title>
+<dc:type>Text</dc:type>
+<dc:language>spa</dc:language>
+<dc:language>eng</dc:language>
+<dc:title xml:lang="es">Hipoglucemia</dc:title>
+<dc:title xml:lang="en">Hypoglycemia</dc:title>
+<dc:publisher>National Library of Medicine</dc:publisher>
+<dc:relation type="IsPartOf">Metabolic Problems</dc:relation>
+<dc:date type="created">2002-07-21</dc:date>
+<dc:date type="modified">2017-11-10</dc:date>
+<dc:identifier type="URL" xml:lang="es">https://medlineplus.gov/spanish/hypoglycemia.html</dc:identifier>
+<dc:identifier type="URL" xml:lang="en">https://medlineplus.gov/hypoglycemia.html</dc:identifier>
+<dc:description xml:lang="es">Hipoglucemia significa poca glucosa, una forma de azúcar, en la sangre. El cuerpo necesita glucosa para tener suficiente energía. Después de comer, la sangre absorbe la glucosa. Si ingiere más azúcar de la que su cuerpo necesita, los músculos y el hígado almacenan lo que no usa. Cuando el azúcar en la sangre comienza a bajar, una hormona le indica al hígado que libere glucosa. En la mayoría de las personas, eso eleva el nivel de azúcar en la sangre. Cuando eso no ocurre, usted tiene hipoglicemia y el nivel de azúcar en la sangre puede estar peligrosamente bajo. Los síntomas incluyen: Hambre Temblor Mareos Confusión Dificultad para hablar Sensación de ansiedad o debilidad En los diabéticos, la hipoglicemia suele ser un efecto secundario de las medicinas para la diabetes. Comer o beber algo con carbohidratos puede ayudar. Si ocurre con frecuencia, es posible que el médico deba cambiarle su plan de tratamiento. En las personas no diabéticas, las causas de azúcar baja en la sangre incluyen medicamentos o enfermedades, problemas con las hormonas o enzimas y tumores. Los análisis de laboratorio pueden encontrar la causa. El tratamiento depende de lo que esté causando el azúcar bajo. NIH: Instituto Nacional de la Diabetes y las Enfermedades Digestivas y Renales</dc:description>
+<dc:description xml:lang="en">Hypoglycemia means low blood glucose, or blood sugar. Your body needs glucose to have enough energy. After you eat, your blood absorbs glucose. If you eat more sugar than your body needs, your muscles, and liver store the extra. When your blood sugar begins to fall, a hormone tells your liver to release glucose. In most people, this raises blood sugar. If it doesn't, you have hypoglycemia, and your blood sugar can be dangerously low. Signs include Hunger Shakiness Dizziness Confusion Difficulty speaking Feeling anxious or weak In people with diabetes, hypoglycemia is often a side effect of diabetes medicines. Eating or drinking something with carbohydrates can help. If it happens often, your health care provider may need to change your treatment plan. You can also have low blood sugar without having diabetes. Causes include certain medicines or diseases, hormone or enzyme deficiencies, and tumors. Laboratory tests can help find the cause. The kind of treatment depends on why you have low blood sugar. NIH: National Institute of Diabetes and Digestive and Kidney Diseases</dc:description>
+<dc:subject dcterms="mesh">Hypoglycemia</dc:subject>
+<dc:subject xml:lang="es">Hipoglucemia</dc:subject>
+<dc:subject xml:lang="es">Azúcar baja en la sangre</dc:subject>
+<dc:subject xml:lang="en">Hypoglycemia</dc:subject>
+<dc:subject xml:lang="en">Low Blood Sugar</dc:subject>
+</metadata>
+</record>
+</MedlinePlus-document>

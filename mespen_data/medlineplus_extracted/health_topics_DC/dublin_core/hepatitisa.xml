@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<MedlinePlus-document>
+<record>
+<header>
+<identifier>https://medlineplus.gov/hepatitisa.html</identifier>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:type>Text</dc:type>
+<dc:language>spa</dc:language>
+<dc:language>eng</dc:language>
+<dc:title xml:lang="es">Hepatitis A</dc:title>
+<dc:title xml:lang="en">Hepatitis A</dc:title>
+<dc:publisher>National Library of Medicine</dc:publisher>
+<dc:relation type="IsPartOf">Digestive System</dc:relation>
+<dc:relation type="IsPartOf">Infections</dc:relation>
+<dc:date type="created">2002-07-21</dc:date>
+<dc:date type="modified">2017-11-08</dc:date>
+<dc:identifier type="URL" xml:lang="es">https://medlineplus.gov/spanish/hepatitisa.html</dc:identifier>
+<dc:identifier type="URL" xml:lang="en">https://medlineplus.gov/hepatitisa.html</dc:identifier>
+<dc:description xml:lang="es">El hígado es el órgano más grande dentro de su cuerpo. Ayuda al organismo a digerir los alimentos, almacenar energía y eliminar las toxinas. La hepatitis es una inflamación del hígado. Un tipo, hepatitis A, es causado por el virus de la hepatitis A (VHA). La enfermedad se disemina principalmente a través de contacto con heces de una persona infectada. Es posible contagiarse del VHA por: Comer alimentos preparados por una persona con el VHA que no se lavó las manos después de ir al baño Beber agua contaminada o comer alimentos lavados con agua contaminada Llevar a la boca un dedo u objeto que estuvo en contacto con heces contaminadas Tener contacto cercano con alguien infectado, como relaciones sexuales o al atender a alguien enfermo La mayoría de la gente no presenta síntomas. Si usted tiene síntomas, puede sentirse como si tuviera gripe. También puede tener ojos y piel amarillos, condición llamada ictericia. Un análisis de sangre confirmará si tiene VHA. El VHA en general mejora en unas semanas sin tratamiento. Sin embargo, algunas personas pueden tener síntomas por hasta seis meses. Su médico puede sugerir medicamentos para ayudar a aliviar sus síntomas. La vacuna contra la hepatitis A puede prevenir el VHA. La buena higiene también puede ayudar. Lávese bien las manos antes de preparar alimentos, después de ir al baño o después de cambiar un pañal. Los viajeros internacionales deben tener cuidado al beber agua del grifo. NIH: Instituto Nacional de la Diabetes y las Enfermedades Digestivas y Renales</dc:description>
+<dc:description xml:lang="en">Your liver is the largest organ inside your body. It helps your body digest food, store energy, and remove poisons. Hepatitis is an inflammation of the liver. One type, hepatitis A, is caused by the hepatitis A virus (HAV). The disease spreads through contact with an infected person's stool. You can get it from Eating food made by an infected person who did not wash their hands after using the bathroom Drinking untreated water or eating food washed in untreated water Putting into your mouth a finger or object that came into contact with an infected person's stool Having close contact with an infected person, such as through sex or caring for someone who is ill Most people do not have any symptoms. If you do have symptoms, you may feel as if you have the flu. You may also have yellowish eyes and skin, called jaundice. A blood test will show if you have HAV. HAV usually gets better in a few weeks without treatment. However, some people can have symptoms for up to 6 months. Your doctor may suggest medicines to help relieve your symptoms. The hepatitis A vaccine can prevent HAV. Good hygiene can also help. Wash your hands thoroughly before preparing food, after using the toilet, or after changing a diaper. International travelers should be careful about drinking tap water. NIH: National Institute of Diabetes and Digestive and Kidney Diseases</dc:description>
+<dc:subject dcterms="mesh">Hepatitis A</dc:subject>
+<dc:subject xml:lang="es">Hepatitis A</dc:subject>
+<dc:subject xml:lang="en">Hepatitis A</dc:subject>
+</metadata>
+</record>
+</MedlinePlus-document>

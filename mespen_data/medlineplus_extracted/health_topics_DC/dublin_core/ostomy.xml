@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<MedlinePlus-document>
+<record>
+<header>
+<identifier>https://medlineplus.gov/ostomy.html</identifier>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title type="alternate" xml:lang="es">Ano contra natura</dc:title>
+<dc:title type="alternate" xml:lang="es">Ostomía</dc:title>
+<dc:title type="alternate" xml:lang="en">Ileostomy</dc:title>
+<dc:title type="alternate" xml:lang="en">Colostomy</dc:title>
+<dc:title type="alternate" xml:lang="en">Urostomy</dc:title>
+<dc:title type="alternate" xml:lang="en">Stoma</dc:title>
+<dc:type>Text</dc:type>
+<dc:language>spa</dc:language>
+<dc:language>eng</dc:language>
+<dc:title xml:lang="es">Estomas</dc:title>
+<dc:title xml:lang="en">Ostomy</dc:title>
+<dc:publisher>National Library of Medicine</dc:publisher>
+<dc:relation type="IsPartOf">Surgery and Rehabilitation</dc:relation>
+<dc:relation type="IsPartOf">Kidneys and Urinary System</dc:relation>
+<dc:relation type="IsPartOf">Digestive System</dc:relation>
+<dc:date type="created">2003-02-07</dc:date>
+<dc:date type="modified">2018-01-30</dc:date>
+<dc:identifier type="URL" xml:lang="es">https://medlineplus.gov/spanish/ostomy.html</dc:identifier>
+<dc:identifier type="URL" xml:lang="en">https://medlineplus.gov/ostomy.html</dc:identifier>
+<dc:description xml:lang="es">Una ostomía es una abertura artificial (estoma) creada quirúrgicamente desde el cuerpo hacia afuera para permitir el paso de orina y heces. Se usa para tratar ciertas enfermedades de los sistemas digestivos o urinarios. Puede ser permanente como cuando se extirpa un órgano o temporario como cuando un órgano necesita sanar. En general, se realiza en el intestino delgado, el colon, el recto o la vejiga. Existen muchos tipos distintos de estomas. Algunos ejemplos son: Ileostomía: la última parte del intestino delgado (ileum) se une al estoma evitando así el colon, recto y ano Colostomía: el colon es unido al estoma evitando así el recto y el ano Urostomía: los tubos que llevan la orina a la vejiga (uréteres) se unen al estoma evitando así la vejiga NIH: Instituto Nacional de la Diabetes y las Enfermedades Digestivas y Renales</dc:description>
+<dc:description xml:lang="en">An ostomy is surgery to create an opening (stoma) from an area inside the body to the outside. It treats certain diseases of the digestive or urinary systems. It can be permanent, when an organ must be removed. It can be temporary, when the organ needs time to heal. The organ could be the small intestine, colon, rectum, or bladder. With an ostomy, there must be a new way for wastes to leave the body. There are many different types of ostomy. Some examples are Ileostomy - the bottom of the small intestine (ileum) is attached to the stoma. This bypasses the colon, rectum and anus. Colostomy - the colon is attached to the stoma. This bypasses the rectum and the anus. Urostomy - the tubes that carry urine to the bladder are attached to the stoma. This bypasses the bladder. NIH: National Institute of Diabetes and Digestive and Kidney Diseases</dc:description>
+<dc:subject dcterms="mesh">Ostomy</dc:subject>
+<dc:subject xml:lang="es">Estomas</dc:subject>
+<dc:subject xml:lang="es">Ano contra natura</dc:subject>
+<dc:subject xml:lang="es">Ostomía</dc:subject>
+<dc:subject xml:lang="en">Ostomy</dc:subject>
+<dc:subject xml:lang="en">Ileostomy</dc:subject>
+<dc:subject xml:lang="en">Colostomy</dc:subject>
+<dc:subject xml:lang="en">Urostomy</dc:subject>
+<dc:subject xml:lang="en">Stoma</dc:subject>
+</metadata>
+</record>
+</MedlinePlus-document>

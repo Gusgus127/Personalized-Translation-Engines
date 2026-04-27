@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<MedlinePlus-document>
+<record>
+<header>
+<identifier>https://medlineplus.gov/polymyalgiarheumatica.html</identifier>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:type>Text</dc:type>
+<dc:language>spa</dc:language>
+<dc:language>eng</dc:language>
+<dc:title xml:lang="es">Polimialgia reumática</dc:title>
+<dc:title xml:lang="en">Polymyalgia Rheumatica</dc:title>
+<dc:publisher>National Library of Medicine</dc:publisher>
+<dc:relation type="IsPartOf">Skin, Hair and Nails</dc:relation>
+<dc:relation type="IsPartOf">Bones, Joints and Muscles</dc:relation>
+<dc:date type="created">2005-10-21</dc:date>
+<dc:date type="modified">2017-11-28</dc:date>
+<dc:identifier type="URL" xml:lang="es">https://medlineplus.gov/spanish/polymyalgiarheumatica.html</dc:identifier>
+<dc:identifier type="URL" xml:lang="en">https://medlineplus.gov/polymyalgiarheumatica.html</dc:identifier>
+<dc:description xml:lang="es">La polimialgia reumática es una enfermedad que causa dolores musculares y rigidez en el cuello, los hombros y las caderas. Es más común en las mujeres y casi siempre ocurre en las personas mayores de 50 años. El síntoma principal es la rigidez después de descansar. Otros síntomas incluyen fiebre, debilidad y pérdida de peso. En algunos casos, la polimialgia reumática se desarrolla durante la noche. En otros, es gradual. Se desconoce su causa. No existe un único test para diagnosticarla. Su doctor usará su historia clínica, síntomas y un examen físico para hacer un diagnóstico. Las pruebas de laboratorio que se hacen para detectar inflamación pueden ayudar a confirmar el diagnóstico. Algunas veces, la polimialgia reumática ocurre junto con arteritis de células gigantes, una condición que causa inflamación de las arterias de la cabeza. Los síntomas incluyen dolores de cabeza y vista borrosa. Con frecuencia, los médicos recetan prednisona, un corticoide para ambas condiciones. La polimialgia reumática responde muy bien al tratamiento y puede desaparecer en uno o dos días. Sin tratamiento, suele desaparecer al cabo de un año o más. NIH: Instituto Nacional de Artritis y Enfermedades Musculoesqueléticas y de la Piel</dc:description>
+<dc:description xml:lang="en">Polymyalgia rheumatica is a disorder that causes muscle pain and stiffness in your neck, shoulders, and hips. It is most common in women and almost always occurs in people over 50. The main symptom is stiffness after resting. Other symptoms include fever, weakness and weight loss. In some cases, polymyalgia rheumatica develops overnight. In others, it is gradual. The cause is not known. There is no single test to diagnose polymyalgia rheumatica. Your doctor will use your medical history, symptoms, and a physical exam to make the diagnosis. Lab tests for inflammation may help confirm the diagnosis. Polymyalgia rheumatica sometimes occurs along with giant cell arteritis, a condition that causes swelling of the arteries in your head. Symptoms include headaches and blurred vision. Doctors often prescribe prednisone, a steroid medicine, for both conditions. With treatment, polymyalgia rheumatica usually disappears in a day or two. Without treatment, it usually goes away after a year or more. NIH: National Institute of Arthritis and Musculoskeletal and Skin Diseases</dc:description>
+<dc:subject dcterms="mesh">Polymyalgia Rheumatica</dc:subject>
+<dc:subject xml:lang="es">Polimialgia reumática</dc:subject>
+<dc:subject xml:lang="en">Polymyalgia Rheumatica</dc:subject>
+</metadata>
+</record>
+</MedlinePlus-document>

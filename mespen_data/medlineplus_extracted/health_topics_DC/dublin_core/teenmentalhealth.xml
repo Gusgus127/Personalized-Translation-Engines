@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<MedlinePlus-document>
+<record>
+<header>
+<identifier>https://medlineplus.gov/teenmentalhealth.html</identifier>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title type="alternate" xml:lang="es">Adolescente, Salud mental del</dc:title>
+<dc:title type="alternate" xml:lang="en">Mental Health, Teen</dc:title>
+<dc:type>Text</dc:type>
+<dc:language>spa</dc:language>
+<dc:language>eng</dc:language>
+<dc:title xml:lang="es">Salud mental del adolescente</dc:title>
+<dc:title xml:lang="en">Teen Mental Health</dc:title>
+<dc:publisher>National Library of Medicine</dc:publisher>
+<dc:relation type="IsPartOf">Mental Health and Behavior</dc:relation>
+<dc:relation type="IsPartOf">Children and Teenagers</dc:relation>
+<dc:date type="created">2003-12-09</dc:date>
+<dc:date type="modified">2017-08-07</dc:date>
+<dc:identifier type="URL" xml:lang="es">https://medlineplus.gov/spanish/teenmentalhealth.html</dc:identifier>
+<dc:identifier type="URL" xml:lang="en">https://medlineplus.gov/teenmentalhealth.html</dc:identifier>
+<dc:description xml:lang="es">Ser adolescente es difícil. Te sentirás estresado por tratar de ser agradable, desempeñarte bien en la escuela, llevarte bien con la familia y tomar decisiones importantes. La mayoría de estas presiones son inevitables y preocuparte por ellas es normal. Sin embargo, sentirte muy triste, desesperanzado o sin valor alguno puede ser un signo de advertencia de un problema de salud mental. Los problemas de salud mental son reales, dolorosos y, algunas veces, graves. Es posible que necesites ayuda si presentas los signos mencionados anteriormente o si: Te sientes frecuentemente molesto o muy preocupado Sufres por mucho tiempo después de una pérdida o una muerte Piensas que alguien o algo controla tu mente o que tu mente está fuera de control Consumes alcohol o drogas Te ejercitas obsesivamente, haces dietas y/o comes en exceso Lastimas a otras personas o destruyes la propiedad ajena Haces cosas imprudentes que podrían lastimarte o lastimar a los demás Los problemas de salud mental pueden tratarse. Para obtener ayuda, habla con tus padres, el consejero escolar o un profesional de la salud.</dc:description>
+<dc:description xml:lang="en">Being a teenager is hard. You're under stress to be liked, do well in school, get along with your family, and make big decisions. You can't avoid most of these pressures, and worrying about them is normal. But feeling very sad, hopeless or worthless could be warning signs of a mental health problem. Mental health problems are real, painful, and sometimes severe. You might need help if you have the signs mentioned above, or if you Often feel very angry or very worried Feel grief for a long time after a loss or death Think your mind is controlled or out of control Use alcohol or drugs Exercise, diet and/or binge-eat obsessively Hurt other people or destroy property Do reckless things that could harm you or others Mental health problems can be treated. To find help, talk to your parents, school counselor, or health care provider.</dc:description>
+<dc:subject dcterms="mesh">Psychology, Adolescent</dc:subject>
+<dc:subject dcterms="mesh">Adolescent Psychiatry</dc:subject>
+<dc:subject xml:lang="es">Salud mental del adolescente</dc:subject>
+<dc:subject xml:lang="es">Adolescente</dc:subject>
+<dc:subject xml:lang="es">Salud mental del</dc:subject>
+<dc:subject xml:lang="en">Teen Mental Health</dc:subject>
+<dc:subject xml:lang="en">Mental Health</dc:subject>
+<dc:subject xml:lang="en">Teen</dc:subject>
+</metadata>
+</record>
+</MedlinePlus-document>

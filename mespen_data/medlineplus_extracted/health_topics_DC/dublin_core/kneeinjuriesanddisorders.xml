@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<MedlinePlus-document>
+<record>
+<header>
+<identifier>https://medlineplus.gov/kneeinjuriesanddisorders.html</identifier>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title type="alternate" xml:lang="es">Rótula</dc:title>
+<dc:title type="alternate" xml:lang="es">Ligamento cruciforme anterior</dc:title>
+<dc:title type="alternate" xml:lang="es">Rodilla, Lesiones y enfermedades de la</dc:title>
+<dc:title type="alternate" xml:lang="es">Osgood-Schlatter</dc:title>
+<dc:title type="alternate" xml:lang="en">Anterior Cruciate Ligament Injury</dc:title>
+<dc:title type="alternate" xml:lang="en">Chondromalacia Patellae</dc:title>
+<dc:title type="alternate" xml:lang="en">Patella</dc:title>
+<dc:title type="alternate" xml:lang="en">ACL Injuries</dc:title>
+<dc:title type="alternate" xml:lang="en">Meniscus</dc:title>
+<dc:title type="alternate" xml:lang="en">Baker's Cyst</dc:title>
+<dc:type>Text</dc:type>
+<dc:language>spa</dc:language>
+<dc:language>eng</dc:language>
+<dc:title xml:lang="es">Lesiones y enfermedades de la rodilla</dc:title>
+<dc:title xml:lang="en">Knee Injuries and Disorders</dc:title>
+<dc:publisher>National Library of Medicine</dc:publisher>
+<dc:relation type="IsPartOf">Injuries and Wounds</dc:relation>
+<dc:relation type="IsPartOf">Bones, Joints and Muscles</dc:relation>
+<dc:date type="created">2002-07-21</dc:date>
+<dc:date type="modified">2018-01-24</dc:date>
+<dc:identifier type="URL" xml:lang="es">https://medlineplus.gov/spanish/kneeinjuriesanddisorders.html</dc:identifier>
+<dc:identifier type="URL" xml:lang="en">https://medlineplus.gov/kneeinjuriesanddisorders.html</dc:identifier>
+<dc:description xml:lang="es">La articulación de la rodilla se compone de hueso, cartílago, ligamentos y líquidos. Los músculos y los tendones ayudan a que la rodilla se mueva en su articulación. Cuando alguna de estas estructuras se lastima o se enferma, surgen problemas. Los problemas en las rodillas pueden provocar dolor y dificultades para caminar. Los problemas en las rodillas son muy comunes y pueden ocurrir a cualquier edad. Pueden interferir con muchas actividades, desde la práctica de deportes hasta poder levantarse de una silla y caminar. Pueden tener un gran impacto en su vida. La enfermedad más común que afecta los huesos de las rodillas es la artritis. El cartílago de la rodilla se desgasta gradualmente y provoca dolor e inflamación. Las lesiones en los ligamentos y tendones también causan problemas con la rodilla. Una lesión común se produce en el ligamento cruzado anterior (LCA, por sus siglas en inglés). Estas lesiones frecuentemente suelen ocurrir por un movimiento de torsión repentino. Las lesiones del LCA y otras son lesiones deportivas comunes. El tratamiento de los problemas con la rodilla depende de la causa. En algunos casos, el médico puede recomendar un reemplazo de rodilla. NIH: Instituto Nacional de Artritis y Enfermedades Musculoesqueléticas y de la Piel</dc:description>
+<dc:description xml:lang="en">Your knee joint is made up of bone, cartilage, ligaments and fluid. Muscles and tendons help the knee joint move. When any of these structures is hurt or diseased, you have knee problems. Knee problems can cause pain and difficulty walking. Knee problems are very common, and they occur in people of all ages. Knee problems can interfere with many things, from participation in sports to simply getting up from a chair and walking. This can have a big impact on your life. The most common disease affecting the knee is osteoarthritis. The cartilage in the knee gradually wears away, causing pain and swelling. Injuries to ligaments and tendons also cause knee problems. A common injury is to the anterior cruciate ligament (ACL). You usually injure your ACL by a sudden twisting motion. ACL and other knee injuries are common sports injuries. Treatment of knee problems depends on the cause. In some cases your doctor may recommend knee replacement. NIH: National Institute of Arthritis and Musculoskeletal and Skin Diseases</dc:description>
+<dc:subject dcterms="mesh">Anterior Cruciate Ligament Reconstruction</dc:subject>
+<dc:subject dcterms="mesh">Knee Injuries</dc:subject>
+<dc:subject xml:lang="es">Lesiones y enfermedades de la rodilla</dc:subject>
+<dc:subject xml:lang="es">Rótula</dc:subject>
+<dc:subject xml:lang="es">Ligamento cruciforme anterior</dc:subject>
+<dc:subject xml:lang="es">Rodilla</dc:subject>
+<dc:subject xml:lang="es">Lesiones y enfermedades de la</dc:subject>
+<dc:subject xml:lang="es">Osgood-Schlatter</dc:subject>
+<dc:subject xml:lang="en">Knee Injuries and Disorders</dc:subject>
+<dc:subject xml:lang="en">Anterior Cruciate Ligament Injury</dc:subject>
+<dc:subject xml:lang="en">Chondromalacia Patellae</dc:subject>
+<dc:subject xml:lang="en">Patella</dc:subject>
+<dc:subject xml:lang="en">ACL Injuries</dc:subject>
+<dc:subject xml:lang="en">Meniscus</dc:subject>
+<dc:subject xml:lang="en">Baker's Cyst</dc:subject>
+</metadata>
+</record>
+</MedlinePlus-document>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<MedlinePlus-document>
+<record>
+<header>
+<identifier>https://medlineplus.gov/medicationerrors.html</identifier>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title type="alternate" xml:lang="es">Medicamentos, Errores en la administración</dc:title>
+<dc:title type="alternate" xml:lang="es">Remedios, Cómo tomarlos de manera segura</dc:title>
+<dc:title type="alternate" xml:lang="en">Drug Errors</dc:title>
+<dc:type>Text</dc:type>
+<dc:language>spa</dc:language>
+<dc:language>eng</dc:language>
+<dc:title xml:lang="es">Errores en la administración de medicamentos</dc:title>
+<dc:title xml:lang="en">Medication Errors</dc:title>
+<dc:publisher>National Library of Medicine</dc:publisher>
+<dc:relation type="IsPartOf">Drug Therapy</dc:relation>
+<dc:date type="created">2010-12-07</dc:date>
+<dc:date type="modified">2017-10-03</dc:date>
+<dc:identifier type="URL" xml:lang="es">https://medlineplus.gov/spanish/medicationerrors.html</dc:identifier>
+<dc:identifier type="URL" xml:lang="en">https://medlineplus.gov/medicationerrors.html</dc:identifier>
+<dc:description xml:lang="es">Los medicamentos curan enfermedades infecciosas, previenen problemas para que éstos no se conviertan en enfermedades crónicas y alivian el dolor. Pero las medicinas también pueden causar reacciones no deseadas si no se usan correctamente. Los errores pueden suceder en el hospital, en el consultorio del doctor, en la farmacia o en casa. Usted puede prevenir estos errores al: Conocer sus remedios. Tenga una lista de los nombres de sus medicamentos, cuánto y cuándo los toma. Incluya las medicinas sin receta, vitaminas y hierbas y suplementos. Lleve esta lista a todas sus visitas con el médico. Leer y seguir las instrucciones de las etiquetas o prospectos de los medicamentos. No tome remedios recetados a otra persona. Tenga mucho cuidado al darle remedios a los niños. Hacer preguntas. Si no conoce las respuestas a estas preguntas, pregunte a su doctor o farmacéutico: ¿Por qué tengo que tomar este remedio? ¿Cuáles son los efectos a los que tengo que estar atento? ¿Qué debo hacer si ocurren? ¿Cuándo debo dejar de tomar el medicamento? ¿Puedo tomar este remedio junto con las otras medicinas en mi lista? Centros para el Control y la Prevención de Enfermedades</dc:description>
+<dc:description xml:lang="en">Medicines cure infectious diseases, prevent problems from chronic diseases, and ease pain. But medicines can also cause harmful reactions if not used correctly. Errors can happen in the hospital, at the doctor's office, at the pharmacy, or at home. You can help prevent errors by Knowing your medicines. Keep a list of the names of your medicines, how much you take, and when you take them. Include over-the-counter medicines, vitamins, and supplements and herbs. Take this list to all your doctor visits. Reading medicine labels and following the directions. Don't take medications prescribed for someone else. Taking extra caution when giving medicines to children. Asking questions. If you don't know the answers to these questions, ask your doctor or pharmacist. Why am I taking this medicine? What are the common problems to watch out for? What should I do if they occur? When should I stop this medicine? Can I take this medicine with the other medicines on my list? Centers for Disease Control and Prevention</dc:description>
+<dc:subject dcterms="mesh">Medication Errors</dc:subject>
+<dc:subject dcterms="mesh">Prescription Drug Misuse</dc:subject>
+<dc:subject xml:lang="es">Errores en la administración de medicamentos</dc:subject>
+<dc:subject xml:lang="es">Medicamentos</dc:subject>
+<dc:subject xml:lang="es">Errores en la administración</dc:subject>
+<dc:subject xml:lang="es">Remedios</dc:subject>
+<dc:subject xml:lang="es">Cómo tomarlos de manera segura</dc:subject>
+<dc:subject xml:lang="en">Medication Errors</dc:subject>
+<dc:subject xml:lang="en">Drug Errors</dc:subject>
+</metadata>
+</record>
+</MedlinePlus-document>

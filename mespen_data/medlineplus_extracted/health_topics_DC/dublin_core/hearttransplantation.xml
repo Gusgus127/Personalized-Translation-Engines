@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<MedlinePlus-document>
+<record>
+<header>
+<identifier>https://medlineplus.gov/hearttransplantation.html</identifier>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title type="alternate" xml:lang="es">Corazón, Trasplante de</dc:title>
+<dc:type>Text</dc:type>
+<dc:language>spa</dc:language>
+<dc:language>eng</dc:language>
+<dc:title xml:lang="es">Trasplante de corazón</dc:title>
+<dc:title xml:lang="en">Heart Transplantation</dc:title>
+<dc:publisher>National Library of Medicine</dc:publisher>
+<dc:relation type="IsPartOf">Transplantation and Donation</dc:relation>
+<dc:relation type="IsPartOf">Blood, Heart and Circulation</dc:relation>
+<dc:date type="created">2002-07-21</dc:date>
+<dc:date type="modified">2018-02-07</dc:date>
+<dc:identifier type="URL" xml:lang="es">https://medlineplus.gov/spanish/hearttransplantation.html</dc:identifier>
+<dc:identifier type="URL" xml:lang="en">https://medlineplus.gov/hearttransplantation.html</dc:identifier>
+<dc:description xml:lang="es">Durante el trasplante de corazón se extrae un corazón lesionado o enfermo y se reemplaza con uno sano. El corazón sano proviene de un donante que falleció. Es el último recurso de las personas con insuficiencia cardíaca cuando todos los otros tratamientos han fracasado. La insuficiencia cardíaca pudo haber sido causada por la enfermedad coronaria, válvulas o músculos cardíacos dañados, defectos congénitos (de nacimiento) o infecciones virales del corazón. Aunque la cirugía de trasplante es un procedimiento que puede salvar vidas, tiene muchos riesgos. La observación, tratamiento y cuidado médico regular pueden prevenir o manejar estos riesgos. Luego de la cirugía, la mayoría de pacientes trasplantados pueden volver a sus actividades normales. Sin embargo, por diversas razones, menos del 30 por ciento de ellos vuelve a trabajar. NIH: Instituto Nacional del Corazón, los Pulmones y la Sangre</dc:description>
+<dc:description xml:lang="en">A heart transplant removes a damaged or diseased heart and replaces it with a healthy one. The healthy heart comes from a donor who has died. It is the last resort for people with heart failure when all other treatments have failed. The heart failure might have been caused by coronary heart disease, damaged heart valves or heart muscles, congenital heart defects, or viral infections of the heart. Although heart transplant surgery is a life-saving measure, it has many risks. Careful monitoring, treatment, and regular medical care can prevent or help manage some of these risks. After the surgery, most heart transplant patients can return to their normal levels of activity. However, fewer than 30 percent return to work for many different reasons. NIH: National Heart, Lung, and Blood Institute</dc:description>
+<dc:subject dcterms="mesh">Heart Transplantation</dc:subject>
+<dc:subject xml:lang="es">Trasplante de corazón</dc:subject>
+<dc:subject xml:lang="es">Corazón</dc:subject>
+<dc:subject xml:lang="es">Trasplante de</dc:subject>
+<dc:subject xml:lang="en">Heart Transplantation</dc:subject>
+</metadata>
+</record>
+</MedlinePlus-document>

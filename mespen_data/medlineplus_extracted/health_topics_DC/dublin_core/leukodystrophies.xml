@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<MedlinePlus-document>
+<record>
+<header>
+<identifier>https://medlineplus.gov/leukodystrophies.html</identifier>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:type>Text</dc:type>
+<dc:language>spa</dc:language>
+<dc:language>eng</dc:language>
+<dc:title xml:lang="es">Leucodistrofias</dc:title>
+<dc:title xml:lang="en">Leukodystrophies</dc:title>
+<dc:publisher>National Library of Medicine</dc:publisher>
+<dc:relation type="IsPartOf">Metabolic Problems</dc:relation>
+<dc:relation type="IsPartOf">Brain and Nerves</dc:relation>
+<dc:relation type="IsPartOf">Genetics/Birth Defects</dc:relation>
+<dc:date type="created">2003-01-10</dc:date>
+<dc:date type="modified">2017-05-30</dc:date>
+<dc:identifier type="URL" xml:lang="es">https://medlineplus.gov/spanish/leukodystrophies.html</dc:identifier>
+<dc:identifier type="URL" xml:lang="en">https://medlineplus.gov/leukodystrophies.html</dc:identifier>
+<dc:description xml:lang="es">Las leucodistrofias son enfermedades raras que afectan las células del cerebro. Específicamente, las enfermedades afectan la vaina de mielina, el material que rodea y protege las células nerviosas. El daño en la vaina hace más lentos o bloquea los mensajes entre el cerebro y el resto del cuerpo. Eso conduce a problemas de: Movimiento Habla Vista Audición Desarrollo mental y físico La mayoría de las leucodistrofias son genéticas. Suelen aparecer durante la infancia o la niñez. Pueden ser difíciles de detectar anticipadamente porque en el inicio los niños parecen sanos. Sin embargo, los síntomas empeoran gradualmente con el tiempo. No existen curas para ninguna de las leucodistrofias. Las medicinas, la terapia del lenguaje y la fisioterapia pueden ayudar con los síntomas. Los investigadores están probando el trasplante de médula ósea como tratamiento para algunas de las leucodistrofias. NIH: Instituto Nacional de Trastornos Neurológicos y Accidentes Cerebrovasculares</dc:description>
+<dc:description xml:lang="en">The leukodystrophies are rare diseases that affect the cells of the brain. Specifically, the diseases affect the myelin sheath, the material that surrounds and protects nerve cells. Damage to this sheath slows down or blocks messages between the brain and the rest of the body. This leads to problems with Movement Speaking Vision Hearing Mental and physical development Most of the leukodystrophies are genetic. They usually appear during infancy or childhood. They can be hard to detect early because children seem healthy at first. However, symptoms gradually get worse over time. There are no cures for any of the leukodystrophies. Medicines, speech therapy and physical therapy might help with symptoms. Researchers are testing bone marrow transplantation as a treatment for some of the leukodystrophies. NIH: National Institute of Neurological Disorders and Stroke</dc:description>
+<dc:subject dcterms="mesh">Leukodystrophy, Globoid Cell</dc:subject>
+<dc:subject dcterms="mesh">Leukodystrophy, Metachromatic</dc:subject>
+<dc:subject dcterms="mesh">Canavan Disease</dc:subject>
+<dc:subject xml:lang="es">Leucodistrofias</dc:subject>
+<dc:subject xml:lang="en">Leukodystrophies</dc:subject>
+<dc:subject xml:lang="en">Adrenoleukodystrophy</dc:subject>
+<dc:subject xml:lang="en">Canavan Disease</dc:subject>
+</metadata>
+</record>
+</MedlinePlus-document>

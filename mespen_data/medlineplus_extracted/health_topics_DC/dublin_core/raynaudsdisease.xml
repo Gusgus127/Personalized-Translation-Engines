@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<MedlinePlus-document>
+<record>
+<header>
+<identifier>https://medlineplus.gov/raynaudsdisease.html</identifier>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:type>Text</dc:type>
+<dc:language>spa</dc:language>
+<dc:language>eng</dc:language>
+<dc:title xml:lang="es">Enfermedad de Raynaud</dc:title>
+<dc:title xml:lang="en">Raynaud's Disease</dc:title>
+<dc:publisher>National Library of Medicine</dc:publisher>
+<dc:relation type="IsPartOf">Blood, Heart and Circulation</dc:relation>
+<dc:relation type="IsPartOf">Symptoms</dc:relation>
+<dc:date type="created">2003-11-03</dc:date>
+<dc:date type="modified">2018-01-18</dc:date>
+<dc:identifier type="URL" xml:lang="es">https://medlineplus.gov/spanish/raynaudsdisease.html</dc:identifier>
+<dc:identifier type="URL" xml:lang="en">https://medlineplus.gov/raynaudsdisease.html</dc:identifier>
+<dc:description xml:lang="es">La enfermedad de Raynaud es un trastorno poco frecuente de los vasos sanguíneos que afecta generalmente los dedos de las manos y los pies. Esta enfermedad provoca un estrechamiento de los vasos sanguíneos cuando la persona siente frío o estrés. Cuando esto ocurre, la sangre no puede llegar a la superficie de la piel y las áreas afectadas se vuelven blancas y azules. Cuando el flujo sanguíneo regresa, la piel se enrojece y tiene una sensación de palpitación o de hormigueo. En casos severos, la pérdida del flujo sanguíneo puede causar llagas o muerte de los tejidos. Existen dos tipos de la enfermedad: primaria y secundaria. No se conoce la causa de la enfermedad de Raynaud primaria. El fenómeno de Raynaud secundario es causado por lesiones, otras enfermedades o ciertas medicinas. Las personas en climas más fríos tienen una tendencia mayor a desarrollar este cuadro. También es más común en mujeres, en quienes tienen familiares con esta enfermedad y en personas mayores de 30 años. El tratamiento puede incluir medicamentos que mantengan dilatados los vasos sanguíneos. También hay algunas cosas simples que se pueden hacer, tales como: Mojarse las manos en agua tibia ante el primer signo de una crisis Mantener sus manos y pies calientes en los climas fríos Evitar ciertos desencadenantes como ciertos medicamentos y el estrés NIH: Instituto Nacional del Corazón, los Pulmones y la Sangre</dc:description>
+<dc:description xml:lang="en">Raynaud's disease is a rare disorder of the blood vessels, usually in the fingers and toes. It causes the blood vessels to narrow when you are cold or feeling stressed. When this happens, blood can't get to the surface of the skin and the affected areas turn white and blue. When the blood flow returns, the skin turns red and throbs or tingles. In severe cases, loss of blood flow can cause sores or tissue death. Primary Raynaud's happens on its own. The cause is not known. There is also secondary Raynaud's, which is caused by injuries, other diseases, or certain medicines. People in colder climates are more likely to develop Raynaud's. It is also more common in women, people with a family history, and those over age 30. Treatment for Raynaud's may include drugs to keep the blood vessels open. There are also simple things you can do yourself, such as Soaking hands in warm water at the first sign of an attack Keeping your hands and feet warm in cold weather Avoiding triggers, such as certain medicines and stress NIH: National Heart, Lung, and Blood Institute</dc:description>
+<dc:subject dcterms="mesh">Raynaud Disease</dc:subject>
+<dc:subject xml:lang="es">Enfermedad de Raynaud</dc:subject>
+<dc:subject xml:lang="en">Raynaud's Disease</dc:subject>
+</metadata>
+</record>
+</MedlinePlus-document>

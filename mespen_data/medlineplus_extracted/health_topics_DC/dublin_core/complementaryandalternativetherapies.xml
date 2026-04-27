@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<MedlinePlus-document>
+<record>
+<header>
+<identifier>https://medlineplus.gov/complementaryandalternativetherapies.html</identifier>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:type>Text</dc:type>
+<dc:language>spa</dc:language>
+<dc:language>eng</dc:language>
+<dc:publisher>National Library of Medicine</dc:publisher>
+<dc:relation type="IsPartOf">Terapias complementarias y alternativas</dc:relation>
+<dc:identifier type="URL" xml:lang="es">https://medlineplus.gov/spanish/complementaryandalternativetherapies.html</dc:identifier>
+<dc:identifier type="URL" xml:lang="en">https://medlineplus.gov/complementaryandalternativetherapies.html</dc:identifier>
+<dc:description xml:lang="es"/>
+<dc:description xml:lang="en"/>
+<dc:subject dcterms="mesh">Complementary Therapies</dc:subject>
+</metadata>
+</record>
+</MedlinePlus-document>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<MedlinePlus-document>
+<record>
+<header>
+<identifier>https://medlineplus.gov/premenstrualsyndrome.html</identifier>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title type="alternate" xml:lang="es">SPM</dc:title>
+<dc:title type="alternate" xml:lang="es">Menstruación, Síndrome premenstrual</dc:title>
+<dc:title type="alternate" xml:lang="es">Premenstrual, Síndrome</dc:title>
+<dc:title type="alternate" xml:lang="en">PMS</dc:title>
+<dc:type>Text</dc:type>
+<dc:language>spa</dc:language>
+<dc:language>eng</dc:language>
+<dc:title xml:lang="es">Síndrome premenstrual</dc:title>
+<dc:title xml:lang="en">Premenstrual Syndrome</dc:title>
+<dc:publisher>National Library of Medicine</dc:publisher>
+<dc:relation type="IsPartOf">Female Reproductive System</dc:relation>
+<dc:relation type="IsPartOf">Women</dc:relation>
+<dc:date type="created">2004-03-25</dc:date>
+<dc:date type="modified">2018-01-03</dc:date>
+<dc:identifier type="URL" xml:lang="es">https://medlineplus.gov/spanish/premenstrualsyndrome.html</dc:identifier>
+<dc:identifier type="URL" xml:lang="en">https://medlineplus.gov/premenstrualsyndrome.html</dc:identifier>
+<dc:description xml:lang="es">El síndrome premenstrual, o SPM, es un grupo de síntomas que comienzan una o dos semanas antes de la menstruación. La mayoría de las mujeres tiene por lo menos algún síntoma de SPM, que desaparece cuando comienza la menstruación. En algunas mujeres los síntomas son lo suficientemente graves para interferir con sus vidas. Tienen un tipo de SPM llamado trastorno disfórico premenstrual. Los síntomas comunes de SPM incluyen: Senos inflamados y adoloridos Acné Distensión abdominal y aumento de peso Dolor: dolor de cabeza o en las articulaciones Ganas de comer Irritabilidad, cambios de humor, crisis de llanto, depresión Nadie conoce la causa del SPM, pero los cambios hormonales desencadenan los síntomas. Ningún tratamiento único para el SPM causa los efectos esperados en todas. Los analgésicos a la venta sin receta médica, tales como ibuprofén aspirina o naproxeno pueden ayudar a aliviar los cólicos, los dolores de cabeza y de espalda y las molestias en los senos. Hacer ejercicio, dormir suficiente y evitar la sal, la cafeína y el alcohol puede también ayudar. Oficina para la Salud de la Mujer en el Dept. de Salud y Servicios Humanos de los EE.UU</dc:description>
+<dc:description xml:lang="en">Premenstrual syndrome, or PMS, is a group of symptoms that start one to two weeks before your period. Most women have at least some symptoms of PMS, and the symptoms go away after their periods start. For some women, the symptoms are severe enough to interfere with their lives. They have a type of PMS called premenstrual dysphoric disorder, or PMDD. Common PMS symptoms include Breast swelling and tenderness Acne Bloating and weight gain Pain - headache or joint pain Food cravings Irritability, mood swings, crying spells, depression No one knows what causes PMS, but hormonal changes trigger the symptoms. No single PMS treatment works for everyone. Over-the-counter pain relievers such as ibuprofen, aspirin or naproxen may help ease cramps, headaches, backaches and breast tenderness. Exercising, getting enough sleep, and avoiding salt, caffeine, and alcohol can also help. Dept. of Health and Human Services Office on Women's Health</dc:description>
+<dc:subject dcterms="mesh">Premenstrual Dysphoric Disorder</dc:subject>
+<dc:subject dcterms="mesh">Premenstrual Syndrome</dc:subject>
+<dc:subject xml:lang="es">Síndrome premenstrual</dc:subject>
+<dc:subject xml:lang="es">SPM</dc:subject>
+<dc:subject xml:lang="es">Menstruación</dc:subject>
+<dc:subject xml:lang="es">Síndrome premenstrual</dc:subject>
+<dc:subject xml:lang="es">Premenstrual</dc:subject>
+<dc:subject xml:lang="es">Síndrome</dc:subject>
+<dc:subject xml:lang="en">Premenstrual Syndrome</dc:subject>
+<dc:subject xml:lang="en">PMS</dc:subject>
+</metadata>
+</record>
+</MedlinePlus-document>

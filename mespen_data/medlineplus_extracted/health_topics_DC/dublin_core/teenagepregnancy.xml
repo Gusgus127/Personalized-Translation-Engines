@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<MedlinePlus-document>
+<record>
+<header>
+<identifier>https://medlineplus.gov/teenagepregnancy.html</identifier>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title type="alternate" xml:lang="es">Adolescente, Embarazo del</dc:title>
+<dc:title type="alternate" xml:lang="en">Pregnancy, Teen</dc:title>
+<dc:title type="alternate" xml:lang="en">Adolescent Pregnancy</dc:title>
+<dc:type>Text</dc:type>
+<dc:language>spa</dc:language>
+<dc:language>eng</dc:language>
+<dc:title xml:lang="es">Embarazo de adolescentes</dc:title>
+<dc:title xml:lang="en">Teenage Pregnancy</dc:title>
+<dc:publisher>National Library of Medicine</dc:publisher>
+<dc:relation type="IsPartOf">Children and Teenagers</dc:relation>
+<dc:relation type="IsPartOf">Pregnancy and Reproduction</dc:relation>
+<dc:relation type="IsPartOf">Female Reproductive System</dc:relation>
+<dc:relation type="IsPartOf">Women</dc:relation>
+<dc:date type="created">2002-07-21</dc:date>
+<dc:date type="modified">2017-09-28</dc:date>
+<dc:identifier type="URL" xml:lang="es">https://medlineplus.gov/spanish/teenagepregnancy.html</dc:identifier>
+<dc:identifier type="URL" xml:lang="en">https://medlineplus.gov/teenagepregnancy.html</dc:identifier>
+<dc:description xml:lang="es">La mayoría de las adolescentes no planea embarazarse, pero muchas lo hacen. Los embarazos en la adolescencia tienen riesgos adicionales de salud tanto para la madre como para el bebé. Con frecuencia, las adolescentes no reciben cuidados prenatales a tiempo, lo que puede provocar problemas posteriores. Tienen mayor riesgo de hipertensión arterial y sus complicaciones. Los riesgos para el bebé incluyen partos prematuros y niños con poco peso al nacer. Si eres adolescente y estás embarazada, puedes ayudarte y ayudar a tu bebé si: Obtienes cuidado durante el embarazo en forma regular Tomas las vitaminas prenatales para tu salud y para prevenir algunos defectos congénitos Evitas el cigarrillo, el alcohol y las drogas Usas un condón, en caso de que continúes teniendo relaciones sexuales, para prevenir enfermedades de transmisión sexual que podrían dañar a tu bebé.</dc:description>
+<dc:description xml:lang="en">Most teenage girls don't plan to get pregnant, but many do. Teen pregnancies carry extra health risks to both the mother and the baby. Often, teens don't get prenatal care soon enough, which can lead to problems later on. They have a higher risk for pregnancy-related high blood pressure and its complications. Risks for the baby include premature birth and a low birth weight. If you're a pregnant teen, you can help yourself and your baby by Getting regular prenatal care Taking your prenatal vitamins for your health and to prevent some birth defects Avoiding smoking, alcohol, and drugs Using a condom, if you are having sex, to prevent sexually transmitted diseases that could hurt your baby</dc:description>
+<dc:subject dcterms="mesh">Pregnancy in Adolescence</dc:subject>
+<dc:subject xml:lang="es">Embarazo de adolescentes</dc:subject>
+<dc:subject xml:lang="es">Adolescente</dc:subject>
+<dc:subject xml:lang="es">Embarazo del</dc:subject>
+<dc:subject xml:lang="en">Teenage Pregnancy</dc:subject>
+<dc:subject xml:lang="en">Pregnancy</dc:subject>
+<dc:subject xml:lang="en">Teen</dc:subject>
+<dc:subject xml:lang="en">Adolescent Pregnancy</dc:subject>
+</metadata>
+</record>
+</MedlinePlus-document>

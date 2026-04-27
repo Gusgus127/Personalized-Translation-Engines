@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<MedlinePlus-document>
+<record>
+<header>
+<identifier>https://medlineplus.gov/spiderbites.html</identifier>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title type="alternate" xml:lang="es">Arañas, Picaduras de</dc:title>
+<dc:title type="alternate" xml:lang="es">Arácnidos, Picaduras</dc:title>
+<dc:title type="alternate" xml:lang="en">Black Widow Spider Bites</dc:title>
+<dc:title type="alternate" xml:lang="en">Brown Recluse Spider Bites</dc:title>
+<dc:type>Text</dc:type>
+<dc:language>spa</dc:language>
+<dc:language>eng</dc:language>
+<dc:title xml:lang="es">Picaduras de arañas</dc:title>
+<dc:title xml:lang="en">Spider Bites</dc:title>
+<dc:publisher>National Library of Medicine</dc:publisher>
+<dc:relation type="IsPartOf">Injuries and Wounds</dc:relation>
+<dc:date type="created">2009-08-03</dc:date>
+<dc:date type="modified">2017-06-20</dc:date>
+<dc:identifier type="URL" xml:lang="es">https://medlineplus.gov/spanish/spiderbites.html</dc:identifier>
+<dc:identifier type="URL" xml:lang="en">https://medlineplus.gov/spiderbites.html</dc:identifier>
+<dc:description xml:lang="es">Aunque mucha gente le tiene miedo a las arañas, éstas generalmente no pican a las personas a menos que se sientan amenazadas. La mayoría de las picaduras de arañas son inofensivas. A veces pueden causar reacciones alérgicas. Pero las picaduras de la viuda negra o la reclusa parda pueden ser muy peligrosas. Si a usted le ha picado una araña, quizás tenga una reacción similar a la que puede ocasionarle una abeja, como enrojecimiento, dolor e hinchazón en el lugar de la picadura. Para tratar una picadura de araña: Lave el área afectada con agua y jabón Aplique hielo o una compresa húmeda Si necesita, tome un medicamento para el dolor de venta libre Considere tomar remedios para la alergia en caso de hinchazón severa Busque tratamiento médico para niños y adultos con síntomas graves</dc:description>
+<dc:description xml:lang="en">Though many people are afraid of spiders, they rarely bite people unless threatened. Most spider bites are harmless. Occasionally, spider bites can cause allergic reactions. And bites by the venomous black widow and brown recluse spiders can be very dangerous to people. If you are bitten by a spider, you may see a reaction similar to that of a bee sting, including redness, pain and swelling at the site. To treat a spider bite: Wash the area well with soap and water Apply an ice pack or a wet compress to the area Take over-the-counter pain medicine, if needed Consider using antihistamines for severe swelling Seek medical treatment for small children and adults with severe symptoms</dc:description>
+<dc:subject dcterms="mesh">Spider Bites</dc:subject>
+<dc:subject xml:lang="es">Picaduras de arañas</dc:subject>
+<dc:subject xml:lang="es">Arañas</dc:subject>
+<dc:subject xml:lang="es">Picaduras de</dc:subject>
+<dc:subject xml:lang="es">Arácnidos</dc:subject>
+<dc:subject xml:lang="es">Picaduras</dc:subject>
+<dc:subject xml:lang="en">Spider Bites</dc:subject>
+<dc:subject xml:lang="en">Black Widow Spider Bites</dc:subject>
+<dc:subject xml:lang="en">Brown Recluse Spider Bites</dc:subject>
+</metadata>
+</record>
+</MedlinePlus-document>

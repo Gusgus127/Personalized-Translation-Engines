@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<MedlinePlus-document>
+<record>
+<header>
+<identifier>https://medlineplus.gov/potassium.html</identifier>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:type>Text</dc:type>
+<dc:language>spa</dc:language>
+<dc:language>eng</dc:language>
+<dc:title xml:lang="es">Potasio en la dieta</dc:title>
+<dc:title xml:lang="en">Potassium</dc:title>
+<dc:publisher>National Library of Medicine</dc:publisher>
+<dc:relation type="IsPartOf">Food and Nutrition</dc:relation>
+<dc:date type="created">2012-01-17</dc:date>
+<dc:date type="modified">2017-11-29</dc:date>
+<dc:identifier type="URL" xml:lang="es">https://medlineplus.gov/spanish/potassium.html</dc:identifier>
+<dc:identifier type="URL" xml:lang="en">https://medlineplus.gov/potassium.html</dc:identifier>
+<dc:description xml:lang="es">El potasio es un mineral que el cuerpo necesita para funcionar normalmente. Es un tipo de electrolito. Ayuda a la función de los nervios y a la contracción de los músculos y a que su ritmo cardiaco se mantenga constante. También permite que los nutrientes fluyan a las células y a expulsar los desechos de estas. Una dieta rica en potasio ayuda a contrarrestar algunos de los efectos nocivos del sodio sobre la presión arterial. La mayoría de las personas obtiene el potasio que necesita de lo que come y bebe. Las principales fuentes de potasio en la dieta incluyen: Verduras de hoja verde como espinacas y col rizada Frutos de las vides como las uvas y las moras Vegetales de raíz o tubérculos como las zanahorias y las papas Frutas cítricas como naranjas y toronjas Los riñones ayudan a mantener la cantidad adecuada de potasio en su cuerpo. Si usted tiene enfermedad renal crónica, los riñones no pueden eliminar el potasio adicional de la sangre. Algunos medicamentos también pueden elevar su nivel de potasio. Es posible que necesite una dieta especial para reducir la cantidad de potasio que consume.</dc:description>
+<dc:description xml:lang="en">Potassium is a mineral that your body needs to work properly. It is a type of electrolyte. It helps your nerves to function and muscles to contract. It helps your heartbeat stay regular. It also helps move nutrients into cells and waste products out of cells. A diet rich in potassium helps to offset some of sodium's harmful effects on blood pressure. Many people get all the potassium they need from what they eat and drink. Sources of potassium in the diet include Leafy greens, such as spinach and collards Fruit from vines, such as grapes and blackberries Root vegetables, such as carrots and potatoes Citrus fruits, such as oranges and grapefruit Your kidneys help to keep the right amount of potassium in your body. If you have chronic kidney disease, your kidneys may not remove extra potassium from the blood. Some medicines also can raise your potassium level. You may need a special diet to lower the amount of potassium that you eat.</dc:description>
+<dc:subject dcterms="mesh">Potassium, Dietary</dc:subject>
+<dc:subject dcterms="mesh">Potassium</dc:subject>
+<dc:subject xml:lang="es">Potasio en la dieta</dc:subject>
+<dc:subject xml:lang="en">Potassium</dc:subject>
+<dc:subject xml:lang="en">Hypokalemia</dc:subject>
+<dc:subject xml:lang="en">Hyperkalemia</dc:subject>
+</metadata>
+</record>
+</MedlinePlus-document>

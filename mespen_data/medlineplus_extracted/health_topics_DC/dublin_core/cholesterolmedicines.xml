@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<MedlinePlus-document>
+<record>
+<header>
+<identifier>https://medlineplus.gov/cholesterolmedicines.html</identifier>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title type="alternate" xml:lang="es">Colesterol, Medicinas</dc:title>
+<dc:type>Text</dc:type>
+<dc:language>spa</dc:language>
+<dc:language>eng</dc:language>
+<dc:title xml:lang="es">Medicinas para el colesterol</dc:title>
+<dc:title xml:lang="en">Cholesterol Medicines</dc:title>
+<dc:publisher>National Library of Medicine</dc:publisher>
+<dc:relation type="IsPartOf">Blood, Heart and Circulation</dc:relation>
+<dc:relation type="IsPartOf">Food and Nutrition</dc:relation>
+<dc:date type="modified"/>
+<dc:identifier type="URL" xml:lang="es">https://medlineplus.gov/spanish/cholesterolmedicines.html</dc:identifier>
+<dc:identifier type="URL" xml:lang="en">https://medlineplus.gov/cholesterolmedicines.html</dc:identifier>
+<dc:description xml:lang="es"/>
+<dc:description xml:lang="en">What is cholesterol? Your body needs some cholesterol to work properly. But if you have too much in your blood, it can stick to the walls of your arteries and narrow or even block them. This puts you at risk for coronary artery disease and other heart diseases. There are two main types of cholesterol. LDL is the "bad" cholesterol. A high LDL level leads to a buildup of cholesterol in your arteries. HDL is the "good" cholesterol. It carries cholesterol from other parts of your body back to your liver. Then your liver removes the cholesterol from your body. What are the treatments for high cholesterol? If you have high cholesterol, lifestyle changes can help you to lower your cholesterol level. But sometimes the lifestyle changes are not enough, and you need to take cholesterol medicines. You should still continue with the lifestyle changes even though you are taking medicines. Who needs cholesterol medicines? Your health care provider may prescribe medicine if: You have already had a heart attack or stroke, or you have peripheral arterial disease Your LDL (bad) cholesterol level is 190 mg/dL or higher You are 40-75 years old, you have diabetes, and your LDL cholesterol level is 70 mg/dL or higher You are 40-75 years old, you have a high risk of developing heart disease or stroke, and your LDL cholesterol level is 70 mg/dL or higher What are the different types of medicines for cholesterol? There are several types of cholesterol-lowering drugs available, including Statins, which block the liver from making cholesterol Bile acid sequestrants, which decrease the amount of fat absorbed from food Cholesterol absorption inhibitors, which decrease the amount of cholesterol absorbed from food and lower triglycerides. Nicotinic acid (niacin), which lowers LDL (bad) cholesterol and triglycerides and raises HDL (good) cholesterol. Even though you can buy niacin without a prescription, you should talk to your health care provider before taking it to lower your cholesterol. High doses of niacin can cause serious side effects. PCSK9 inhibitors, which block a protein called PCSK9. This helps your liver remove and clear LDL cholesterol from your blood. Fibrates, which lower triglycerides. They may also raise HDL (good) cholesterol. If you take them with statins, they may increase the risk of muscle problems. Combination medicines, which include more than one type of cholesterol-lowering medicine There are also a few other cholesterol medicines (lomitapide and mipomersen) that are only for people who have familial hypercholesterolemia (FH). FH is an inherited disorder that causes high LDL cholesterol. How does my health care provider decide which cholesterol medicine I should take? When deciding which medicine you should take and which dose you need, your health care provider will consider Your cholesterol levels Your risk for heart disease and stroke Your age Any other health problems you have Possible side effects of the medicines. Higher doses are more likely to cause side effects, especially over time. Medicines can help control your cholesterol, but they don't cure it. You need to keep taking your medicines and get regular cholesterol checks to make sure that you cholesterol levels are in a healthy range.</dc:description>
+<dc:subject dcterms="mesh">Ezetimibe</dc:subject>
+<dc:subject dcterms="mesh">Hydroxymethylglutaryl-CoA Reductase Inhibitors</dc:subject>
+<dc:subject dcterms="mesh">Hypercholesterolemia</dc:subject>
+<dc:subject dcterms="mesh">Hypolipidemic Agents</dc:subject>
+<dc:subject dcterms="mesh">Nicotinic Acids</dc:subject>
+<dc:subject dcterms="mesh">Fibric Acids</dc:subject>
+<dc:subject xml:lang="es">Medicinas para el colesterol</dc:subject>
+<dc:subject xml:lang="es">Colesterol</dc:subject>
+<dc:subject xml:lang="es">Medicinas</dc:subject>
+<dc:subject xml:lang="en">Cholesterol Medicines</dc:subject>
+</metadata>
+</record>
+</MedlinePlus-document>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<MedlinePlus-document>
+<record>
+<header>
+<identifier>https://medlineplus.gov/toilettraining.html</identifier>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title type="alternate" xml:lang="es">Pampers, Dejar los</dc:title>
+<dc:title type="alternate" xml:lang="es">Pañales, Dejar los</dc:title>
+<dc:title type="alternate" xml:lang="es">Enseñar a su hijo a usar el inodoro</dc:title>
+<dc:title type="alternate" xml:lang="en">Potty Training</dc:title>
+<dc:type>Text</dc:type>
+<dc:language>spa</dc:language>
+<dc:language>eng</dc:language>
+<dc:title xml:lang="es">Dejar los pañales</dc:title>
+<dc:title xml:lang="en">Toilet Training</dc:title>
+<dc:publisher>National Library of Medicine</dc:publisher>
+<dc:relation type="IsPartOf">Children and Teenagers</dc:relation>
+<dc:date type="created">2011-08-18</dc:date>
+<dc:date type="modified">2017-04-12</dc:date>
+<dc:identifier type="URL" xml:lang="es">https://medlineplus.gov/spanish/toilettraining.html</dc:identifier>
+<dc:identifier type="URL" xml:lang="en">https://medlineplus.gov/toilettraining.html</dc:identifier>
+<dc:description xml:lang="es">¿Está listo su hijo para ir al baño sin ayuda? Los niños suelen estar listos entre los 18 y los 24 meses de edad. A menudo indican que están listos avisando que necesitan un cambio de pañal. Debe estar preparado para alentar al niño diariamente por tres meses. Las idas al baño con resultados exitosos deberían recompensarse. Las dificultades no deberían recibir demasiada atención. El proceso requiere paciencia. Si no tiene éxito, es posible que su hijo no esté preparado para dejar los pañales. Si su vida familiar pasa por cambios importantes, como mudarse de casa o la llegada de un nuevo bebé, puede no ser un buen momento para comenzar el proceso de dejar los pañales.</dc:description>
+<dc:description xml:lang="en">Is your child ready to use a potty? Children are usually ready around ages 18-24 months. They often signal that they are ready by letting you know when their diapers need changing. You should be prepared to commit to three months of daily encouragement. Successful trips to the potty should be rewarded. Accidents shouldn't get as much attention. Training requires patience. If it is not successful, it may mean your child is not ready. If there are major changes in your family's life, such as moving or having a new baby, it may not be a good time to start potty training.</dc:description>
+<dc:subject dcterms="mesh">Toilet Training</dc:subject>
+<dc:subject xml:lang="es">Dejar los pañales</dc:subject>
+<dc:subject xml:lang="es">Pampers</dc:subject>
+<dc:subject xml:lang="es">Dejar los</dc:subject>
+<dc:subject xml:lang="es">Pañales</dc:subject>
+<dc:subject xml:lang="es">Dejar los</dc:subject>
+<dc:subject xml:lang="es">Enseñar a su hijo a usar el inodoro</dc:subject>
+<dc:subject xml:lang="en">Toilet Training</dc:subject>
+<dc:subject xml:lang="en">Potty Training</dc:subject>
+</metadata>
+</record>
+</MedlinePlus-document>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<MedlinePlus-document>
+<record>
+<header>
+<identifier>https://medlineplus.gov/endoflifeissues.html</identifier>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title type="alternate" xml:lang="es">Voluntad en vida (con relación al cuidado médico)</dc:title>
+<dc:title type="alternate" xml:lang="es">Final de la vida</dc:title>
+<dc:title type="alternate" xml:lang="es">Estado terminal</dc:title>
+<dc:title type="alternate" xml:lang="es">Muerte y enfermo terminal</dc:title>
+<dc:title type="alternate" xml:lang="en">Death and Dying</dc:title>
+<dc:title type="alternate" xml:lang="en">Terminal Care</dc:title>
+<dc:type>Text</dc:type>
+<dc:language>spa</dc:language>
+<dc:language>eng</dc:language>
+<dc:title xml:lang="es">Asuntos que enfrenta el enfermo terminal</dc:title>
+<dc:title xml:lang="en">End of Life Issues</dc:title>
+<dc:publisher>National Library of Medicine</dc:publisher>
+<dc:relation type="IsPartOf">Social/Family Issues</dc:relation>
+<dc:relation type="IsPartOf">Personal Health Issues</dc:relation>
+<dc:date type="created">2002-07-21</dc:date>
+<dc:date type="modified">2017-10-30</dc:date>
+<dc:identifier type="URL" xml:lang="es">https://medlineplus.gov/spanish/endoflifeissues.html</dc:identifier>
+<dc:identifier type="URL" xml:lang="en">https://medlineplus.gov/endoflifeissues.html</dc:identifier>
+<dc:description xml:lang="es">La planificación para enfermos terminales puede ser difícil. Pero al decidir cuando esté sano el mejor cuidado paliativo para sus necesidades puede ayudar a las personas cercanas a usted a tomar las decisiones correctas cuando llegue el momento. La planificación para enfermos terminales por lo general incluye la toma de decisiones sobre lo siguiente: Los objetivos de la atención (por ejemplo, si se deben utilizar ciertos medicamentos durante los últimos días de vida) Dónde quiere pasar sus últimos días Qué tratamientos de cuidado paliativo desea recibir Qué tipo de cuidado paliativo y hospicio desea recibir Instrucciones anticipadas pueden ayudar a clarificar sus deseos a su familia y a sus proveedores de salud.</dc:description>
+<dc:description xml:lang="en">Planning for the end of life can be difficult. But by deciding what end-of-life care best suits your needs when you are healthy, you can help those close to you make the right choices when the time comes. End-of-life planning usually includes making choices about the following: The goals of care (for example, whether to use certain medicines during the last days of life) Where you want to spend your final days Which treatments for end-of-life care you wish to receive What type of palliative care and hospice care you wish to receive Advance directives can help make your wishes clear to your family and health care providers.</dc:description>
+<dc:subject dcterms="mesh">Death</dc:subject>
+<dc:subject xml:lang="es">Asuntos que enfrenta el enfermo terminal</dc:subject>
+<dc:subject xml:lang="es">Voluntad en vida (con relación al cuidado médico)</dc:subject>
+<dc:subject xml:lang="es">Final de la vida</dc:subject>
+<dc:subject xml:lang="es">Estado terminal</dc:subject>
+<dc:subject xml:lang="es">Muerte y enfermo terminal</dc:subject>
+<dc:subject xml:lang="en">End of Life Issues</dc:subject>
+<dc:subject xml:lang="en">Death and Dying</dc:subject>
+<dc:subject xml:lang="en">Terminal Care</dc:subject>
+</metadata>
+</record>
+</MedlinePlus-document>

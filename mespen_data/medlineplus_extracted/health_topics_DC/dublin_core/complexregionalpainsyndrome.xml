@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<MedlinePlus-document>
+<record>
+<header>
+<identifier>https://medlineplus.gov/complexregionalpainsyndrome.html</identifier>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title type="alternate" xml:lang="es">Distrofia simpática refleja</dc:title>
+<dc:title type="alternate" xml:lang="en">Reflex Sympathetic Dystrophy</dc:title>
+<dc:title type="alternate" xml:lang="en">Causalgia</dc:title>
+<dc:type>Text</dc:type>
+<dc:language>spa</dc:language>
+<dc:language>eng</dc:language>
+<dc:title xml:lang="es">Síndrome de dolor regional complejo</dc:title>
+<dc:title xml:lang="en">Complex Regional Pain Syndrome</dc:title>
+<dc:publisher>National Library of Medicine</dc:publisher>
+<dc:relation type="IsPartOf">Brain and Nerves</dc:relation>
+<dc:date type="created">2002-07-21</dc:date>
+<dc:date type="modified">2018-01-19</dc:date>
+<dc:identifier type="URL" xml:lang="es">https://medlineplus.gov/spanish/complexregionalpainsyndrome.html</dc:identifier>
+<dc:identifier type="URL" xml:lang="en">https://medlineplus.gov/complexregionalpainsyndrome.html</dc:identifier>
+<dc:description xml:lang="es">El síndrome de dolor regional complejo es un trastorno de dolor crónico. Provoca dolor intenso, por lo general en los brazos, las manos, las piernas y los pies. Puede ocurrir después de una lesión en un nervio o en el tejido de un área afectada. Es posible que el reposo y el tiempo solamente lo empeoren. Los síntomas en el área afectada son: Cambios extremos en la temperatura, textura y color de la piel Dolor candente Mayor sensibilidad de la piel Inflamación y rigidez en las articulaciones afectadas Disminución de la capacidad para mover la parte del cuerpo afectada La causa del síndrome de dolor regional complejo se desconoce. No hay un examen de diagnóstico específico. Su doctor diagnosticará el síndrome basándose en sus síntomas. No existe una cura. Puede empeorar con el tiempo y diseminarse a otras partes del cuerpo. A veces, desaparece temporal o definitivamente. El tratamiento se enfoca en el alivio del dolor y puede incluir medicinas, fisioterapia y bloqueos nerviosos. NIH: Instituto Nacional de Trastornos Neurológicos y Accidentes Cerebrovasculares</dc:description>
+<dc:description xml:lang="en">Complex regional pain syndrome (CRPS) is a chronic pain condition. It causes intense pain, usually in the arms, hands, legs, or feet. It may happen after an injury, either to a nerve or to tissue in the affected area. Rest and time may only make it worse. Symptoms in the affected area are Dramatic changes in skin temperature, color, or texture Intense burning pain Extreme skin sensitivity Swelling and stiffness in affected joints Decreased ability to move the affected body part The cause of CRPS is unknown. There is no specific diagnostic test. Your doctor will diagnose CRPS based on your signs and symptoms. There is no cure. It can get worse over time, and may spread to other parts of the body. Occasionally it goes away, either temporarily or for good. Treatment focuses on relieving the pain, and can include medicines, physical therapy, and nerve blocks. NIH: National Institute of Neurological Disorders and Stroke</dc:description>
+<dc:subject dcterms="mesh">Complex Regional Pain Syndromes</dc:subject>
+<dc:subject xml:lang="es">Síndrome de dolor regional complejo</dc:subject>
+<dc:subject xml:lang="es">Distrofia simpática refleja</dc:subject>
+<dc:subject xml:lang="en">Complex Regional Pain Syndrome</dc:subject>
+<dc:subject xml:lang="en">Reflex Sympathetic Dystrophy</dc:subject>
+<dc:subject xml:lang="en">Causalgia</dc:subject>
+</metadata>
+</record>
+</MedlinePlus-document>

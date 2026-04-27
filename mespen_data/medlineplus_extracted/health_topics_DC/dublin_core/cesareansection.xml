@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<MedlinePlus-document>
+<record>
+<header>
+<identifier>https://medlineplus.gov/cesareansection.html</identifier>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:type>Text</dc:type>
+<dc:language>spa</dc:language>
+<dc:language>eng</dc:language>
+<dc:title xml:lang="es">Cesárea</dc:title>
+<dc:title xml:lang="en">Cesarean Section</dc:title>
+<dc:publisher>National Library of Medicine</dc:publisher>
+<dc:relation type="IsPartOf">Pregnancy and Reproduction</dc:relation>
+<dc:relation type="IsPartOf">Female Reproductive System</dc:relation>
+<dc:relation type="IsPartOf">Women</dc:relation>
+<dc:date type="created">2003-07-29</dc:date>
+<dc:date type="modified">2017-11-06</dc:date>
+<dc:identifier type="URL" xml:lang="es">https://medlineplus.gov/spanish/cesareansection.html</dc:identifier>
+<dc:identifier type="URL" xml:lang="en">https://medlineplus.gov/cesareansection.html</dc:identifier>
+<dc:description xml:lang="es">La cesárea es una cirugía para el nacimiento de un bebé. El bebé se saca a través de una incisión en el abdomen de la madre. En los Estados Unidos, cerca de una de cada cuatro mujeres dan a luz de este modo. La mayoría de las cesáreas se realiza cuando ocurren problemas inesperados durante el parto. Las razones para una cesárea incluyen: Problemas de salud de la madre Un embarazo múltiple de la madre El tamaño o la posición del bebé La salud del bebé está en peligro El parto no avanza como debería La operación es relativamente segura para la madre y el bebé. Sin embargo, es una cirugía mayor e implica riesgos. También requiere un período de recuperación más prolongado que el parto vaginal. Puede aumentar el riesgo de tener problemas en embarazos futuros. Algunas mujeres pueden presentar problemas al intentar un parto vaginal más adelante. No obstante, muchas mujeres pueden dar a luz por parto vaginal después de una cesárea.</dc:description>
+<dc:description xml:lang="en">A Cesarean section (C-section) is surgery to deliver a baby. The baby is taken out through the mother's abdomen. In the United States, almost one in three women has their babies this way. Some C-sections are planned, but many are done when unexpected problems happen during delivery. Reasons for a C-section may include Health problems in the mother The mother carrying more than one baby The size or position of the baby The baby's health is in danger Labor is not moving along as it should The surgery is relatively safe for mother and baby. Still, it is major surgery and carries risks. It also takes longer to recover from a C-section than from vaginal birth. It can raise the risk of having difficulties with future pregnancies. Some women may have problems attempting a vaginal birth later. Still, many women are able to have a vaginal birth after cesarean (VBAC). NIH: National Institute of Child Health and Human Development</dc:description>
+<dc:subject dcterms="mesh">Cesarean Section</dc:subject>
+<dc:subject xml:lang="es">Cesárea</dc:subject>
+<dc:subject xml:lang="en">Cesarean Section</dc:subject>
+<dc:subject xml:lang="en">C-Section</dc:subject>
+</metadata>
+</record>
+</MedlinePlus-document>

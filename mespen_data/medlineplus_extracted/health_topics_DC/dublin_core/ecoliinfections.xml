@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<MedlinePlus-document>
+<record>
+<header>
+<identifier>https://medlineplus.gov/ecoliinfections.html</identifier>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title type="alternate" xml:lang="es">E. coli (Escherichia coli), Infecciones por</dc:title>
+<dc:title type="alternate" xml:lang="es">Escherichia coli</dc:title>
+<dc:type>Text</dc:type>
+<dc:language>spa</dc:language>
+<dc:language>eng</dc:language>
+<dc:title xml:lang="es">Infecciones por Escherichia coli</dc:title>
+<dc:title xml:lang="en">E. Coli Infections</dc:title>
+<dc:publisher>National Library of Medicine</dc:publisher>
+<dc:relation type="IsPartOf">Infections</dc:relation>
+<dc:date type="created">2002-07-21</dc:date>
+<dc:date type="modified">2017-08-09</dc:date>
+<dc:identifier type="URL" xml:lang="es">https://medlineplus.gov/spanish/ecoliinfections.html</dc:identifier>
+<dc:identifier type="URL" xml:lang="en">https://medlineplus.gov/ecoliinfections.html</dc:identifier>
+<dc:description xml:lang="es">E. coli es el nombre de un tipo de bacteria que vive en el intestino. La mayoría de las E. coli no causan problemas. Pero, algunos tipos pueden producir enfermedades y causar diarrea. Uno de ellos causa la diarrea del viajero. El peor tipo de E. coli causa una diarrea hemorrágica y a veces puede causar insuficiencia renal y hasta la muerte. Esto, en general, ocurre en niños y en adultos con sistemas inmunitarios debilitados. Se pueden adquirir infecciones por E. coli al consumir alimentos que contienen la bacteria. Los síntomas pueden incluir: Náuseas o vómitos Fuertes cólicos abdominales Diarrea líquida o con mucha sangre Cansancio Fiebre Para evitar la intoxicación por alimentos y prevenir infecciones, manipule la comida con seguridad. Cocine bien las carnes, lave las frutas y verduras antes de comerlas o cocinarlas y evite la leche y los jugos sin pasteurizar. La infección también se puede adquirir al tragar agua en una piscina contaminada con desechos humanos. La mayoría de los casos de infección por E. coli mejoran sin tratamiento en cinco a 10 días. NIH: Instituto Nacional de Alergias y Enfermedades Infecciosas</dc:description>
+<dc:description xml:lang="en">E. coli is the name of a type of bacteria that lives in your intestines. Most types of E. coli are harmless. However, some types can make you sick and cause diarrhea. One type causes travelers' diarrhea. The worst type of E. coli causes bloody diarrhea, and can sometimes cause kidney failure and even death. These problems are most likely to occur in children and in adults with weak immune systems. You can get E. coli infections by eating foods containing the bacteria. Symptoms of infection include Nausea or vomiting Severe abdominal cramps Watery or very bloody diarrhea Fatigue Fever To help avoid food poisoning and prevent infection, handle food safely. Cook meat well, wash fruits and vegetables before eating or cooking them, and avoid unpasteurized milk and juices. You can also get the infection by swallowing water in a swimming pool contaminated with human waste. Most cases of E. coli infection get better without treatment in 5 to 10 days. NIH: National Institute of Allergy and Infectious Diseases</dc:description>
+<dc:subject dcterms="mesh">Escherichia coli Infections</dc:subject>
+<dc:subject xml:lang="es">Infecciones por Escherichia coli</dc:subject>
+<dc:subject xml:lang="es">E. coli (Escherichia coli)</dc:subject>
+<dc:subject xml:lang="es">Infecciones por</dc:subject>
+<dc:subject xml:lang="es">Escherichia coli</dc:subject>
+<dc:subject xml:lang="en">E. Coli Infections</dc:subject>
+</metadata>
+</record>
+</MedlinePlus-document>

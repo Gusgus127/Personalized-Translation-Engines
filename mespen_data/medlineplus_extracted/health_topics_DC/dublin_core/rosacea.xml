@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<MedlinePlus-document>
+<record>
+<header>
+<identifier>https://medlineplus.gov/rosacea.html</identifier>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:type>Text</dc:type>
+<dc:language>spa</dc:language>
+<dc:language>eng</dc:language>
+<dc:title xml:lang="es">Rosácea</dc:title>
+<dc:title xml:lang="en">Rosacea</dc:title>
+<dc:publisher>National Library of Medicine</dc:publisher>
+<dc:relation type="IsPartOf">Skin, Hair and Nails</dc:relation>
+<dc:date type="created">2006-03-14</dc:date>
+<dc:date type="modified">2017-10-11</dc:date>
+<dc:identifier type="URL" xml:lang="es">https://medlineplus.gov/spanish/rosacea.html</dc:identifier>
+<dc:identifier type="URL" xml:lang="en">https://medlineplus.gov/rosacea.html</dc:identifier>
+<dc:description xml:lang="es">La rosácea es una enfermedad crónica que afecta la piel y algunas veces los ojos. Causa enrojecimiento de la piel y espinillas. La rosácea es más común entre las mujeres y las personas de piel clara. Suele afectar a adultos de edad mediana y avanzada. En la mayoría de los casos, la rosácea sólo afecta la cara. Los síntomas pueden incluir: Enrojecimiento frecuente de la cara Pequeñas líneas rojas debajo de la piel Acné Inflamación de la nariz Piel gruesa, generalmente en la frente, la barbilla y las mejillas Muchas personas con rosácea también presentan síntomas en los ojos, como enrojecimiento, sequedad y picazón. A veces ocurren problemas a la vista. No se conoce la causa de la rosácea. Es posible que tenga más probabilidades de tenerla si se enrojece con facilidad o si hay casos de rosácea en su familia. La rosácea no es peligrosa. No existe cura, pero tratamientos pueden ayudar. Estos incluyen medicinas y algunas veces cirugía. NIH: Instituto Nacional de Artritis y Enfermedades Musculoesqueléticas y de la Piel</dc:description>
+<dc:description xml:lang="en">Rosacea is a long-term disease that affects your skin and sometimes your eyes. It causes redness and pimples. Rosacea is most common in women and people with fair skin. It most often affects middle-aged and older adults. In most cases, rosacea only affects the face. Symptoms can include Frequent redness of the face, or flushing Small, red lines under the skin Acne A swollen nose Thick skin, usually on the forehead, chin, and cheeks Red, dry, itchy eyes and sometimes vision problems No one knows what causes rosacea. You may be more likely to have it if you blush a lot or if rosacea runs in your family. Rosacea is not dangerous. There is no cure, but treatments can help. They include medicines and sometimes surgery. NIH: National Institute of Arthritis and Musculoskeletal and Skin Diseases</dc:description>
+<dc:subject dcterms="mesh">Rosacea</dc:subject>
+<dc:subject xml:lang="es">Rosácea</dc:subject>
+<dc:subject xml:lang="en">Rosacea</dc:subject>
+<dc:subject xml:lang="en">Acne Rosacea</dc:subject>
+</metadata>
+</record>
+</MedlinePlus-document>

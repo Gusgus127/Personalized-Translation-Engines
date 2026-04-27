@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<MedlinePlus-document>
+<record>
+<header>
+<identifier>https://medlineplus.gov/bowelincontinence.html</identifier>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:type>Text</dc:type>
+<dc:language>spa</dc:language>
+<dc:language>eng</dc:language>
+<dc:title xml:lang="es">Incontinencia fecal</dc:title>
+<dc:title xml:lang="en">Bowel Incontinence</dc:title>
+<dc:publisher>National Library of Medicine</dc:publisher>
+<dc:relation type="IsPartOf">Digestive System</dc:relation>
+<dc:date type="created">2011-01-27</dc:date>
+<dc:date type="modified">2017-09-27</dc:date>
+<dc:identifier type="URL" xml:lang="es">https://medlineplus.gov/spanish/bowelincontinence.html</dc:identifier>
+<dc:identifier type="URL" xml:lang="en">https://medlineplus.gov/bowelincontinence.html</dc:identifier>
+<dc:description xml:lang="es">Incontinencia fecal es la incapacidad de controlar sus intestinos. Cuando a usted le urge ir al baño, y no puede aguantarse hasta llegar. Más de cinco millones y medio de estadounidenses sufren de incontinencia fecal. Afecta a personas de todas las edades - niños y adultos. Es más común en mujeres y en adultos mayores, pero no forma parte normal del envejecimiento. Las causas incluyen Constipación Daño en los músculos o nervios del ano o del recto Diarrea Prolapso de la pelvis Los tratamientos incluyen cambios en la dieta, medicinas, ejercicios para fortalecer los músculos del área o cirugía. NIH: Instituto Nacional de la Diabetes y las Enfermedades Digestivas y Renales</dc:description>
+<dc:description xml:lang="en">Bowel incontinence is the inability to control your bowels. When you feel the urge to have a bowel movement, you may not be able to hold it until you get to a toilet. Millions of Americans have this problem. It affects people of all ages - children and adults. It is more common in women and older adults. It is not a normal part of aging. Causes include Constipation Damage to muscles or nerves of the anus and rectum Diarrhea Pelvic support problems Treatments include changes in diet, medicines, bowel training, or surgery. NIH: National Institute of Diabetes and Digestive and Kidney Diseases</dc:description>
+<dc:subject dcterms="mesh">Encopresis</dc:subject>
+<dc:subject xml:lang="es">Incontinencia fecal</dc:subject>
+<dc:subject xml:lang="en">Bowel Incontinence</dc:subject>
+<dc:subject xml:lang="en">Encopresis</dc:subject>
+</metadata>
+</record>
+</MedlinePlus-document>

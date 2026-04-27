@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<MedlinePlus-document>
+<record>
+<header>
+<identifier>https://medlineplus.gov/colonoscopy.html</identifier>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:type>Text</dc:type>
+<dc:language>spa</dc:language>
+<dc:language>eng</dc:language>
+<dc:title xml:lang="es">Colonoscopía</dc:title>
+<dc:title xml:lang="en">Colonoscopy</dc:title>
+<dc:publisher>National Library of Medicine</dc:publisher>
+<dc:relation type="IsPartOf">Digestive System</dc:relation>
+<dc:relation type="IsPartOf">Diagnostic Tests</dc:relation>
+<dc:date type="created">2009-03-05</dc:date>
+<dc:date type="modified">2017-02-21</dc:date>
+<dc:identifier type="URL" xml:lang="es">https://medlineplus.gov/spanish/colonoscopy.html</dc:identifier>
+<dc:identifier type="URL" xml:lang="en">https://medlineplus.gov/colonoscopy.html</dc:identifier>
+<dc:description xml:lang="es">La colonoscopía y la sigmoidoscopia son procedimientos que le permite a su doctor mirar dentro de su intestino grueso. Ellos usan instrumentos llamados endoscopios. Los endoscopios tienen una pequeña cámara en la punta de un tubo fino y largo. El procedimiento le permite al doctor ver cosas como tejido inflamado, crecimientos anormales y úlceras. La colonoscopía permite observar todo su colon y recto. La sigmoidoscopia permite observar el sólo recto y el colon inferior. Su doctor puede recomendar uno de estos procedimientos: Para buscar señales tempranas de cáncer del colon y del recto. Puede ser parte de pruebas de rutina, que usualmente comienzan a los 50 años de edad Para buscar las causas de cambios inesperados en los hábitos intestinales Para evaluar síntomas como dolor de estómago, sangrado rectal y pérdida de peso Su doctor también puede remover pólipos de su colon durante una colonoscopía. Usted recibirá instrucciones por escrito a seguir en casa y antes del procedimiento para la preparación del intestino. Esta preparación limpia el intestino para que su médico pueda observar con claridad. Durante una colonoscopía, se entregan medicamentos para mantenerlo relajado. Por lo general, no se necesitan para una sigmoidoscopia. NIH: Instituto Nacional de la Diabetes y las Enfermedades Digestivas y Renales</dc:description>
+<dc:description xml:lang="en">Colonoscopy and sigmoidoscopy are procedures that let your doctor look inside your large intestine. They use instruments called scopes. Scopes have a tiny camera attached to a long, thin tube. The procedures let your doctor see things such as inflamed tissue, abnormal growths, and ulcers. Colonoscopy checks your entire colon and rectum. Sigmoidoscopy checks the rectum and the lower colon only. Your doctor may recommend one of these procedures To look for early signs of cancer in the colon and rectum. It may be part of a routine screening, which usually starts at age 50. To look for causes of unexplained changes in bowel habits To evaluate symptoms like abdominal pain, rectal bleeding, and weight loss Your doctor can also remove polyps from your colon during these procedures. You will get written bowel prep instructions to follow at home before the procedure. The bowel prep cleans out the intestine so your doctor can see everything clearly. During a colonoscopy, you get medicines to keep you relaxed. You usually do not need them for a sigmoidoscopy. NIH: National Institute of Diabetes and Digestive and Kidney Diseases</dc:description>
+<dc:subject dcterms="mesh">Colonoscopy</dc:subject>
+<dc:subject xml:lang="es">Colonoscopía</dc:subject>
+<dc:subject xml:lang="en">Colonoscopy</dc:subject>
+<dc:subject xml:lang="en">Sigmoidoscopy</dc:subject>
+</metadata>
+</record>
+</MedlinePlus-document>

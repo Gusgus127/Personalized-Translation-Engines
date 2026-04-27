@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<MedlinePlus-document>
+<record>
+<header>
+<identifier>https://medlineplus.gov/abdominalpain.html</identifier>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title type="alternate" xml:lang="es">Abdomen, Dolor</dc:title>
+<dc:title type="alternate" xml:lang="es">Dolor de barriga</dc:title>
+<dc:title type="alternate" xml:lang="en">Pain, Abdominal</dc:title>
+<dc:title type="alternate" xml:lang="en">Bellyache</dc:title>
+<dc:title type="alternate" xml:lang="en">Stomach Ache</dc:title>
+<dc:type>Text</dc:type>
+<dc:language>spa</dc:language>
+<dc:language>eng</dc:language>
+<dc:title xml:lang="es">Dolor abdominal</dc:title>
+<dc:title xml:lang="en">Abdominal Pain</dc:title>
+<dc:publisher>National Library of Medicine</dc:publisher>
+<dc:relation type="IsPartOf">Digestive System</dc:relation>
+<dc:relation type="IsPartOf">Symptoms</dc:relation>
+<dc:date type="created">2003-02-07</dc:date>
+<dc:date type="modified">2018-01-26</dc:date>
+<dc:identifier type="URL" xml:lang="es">https://medlineplus.gov/spanish/abdominalpain.html</dc:identifier>
+<dc:identifier type="URL" xml:lang="en">https://medlineplus.gov/abdominalpain.html</dc:identifier>
+<dc:description xml:lang="es">El abdomen se extiende desde abajo del pecho hasta la ingle. Algunas personas lo llaman estómago, pero el abdomen contiene muchos otros órganos importantes. El dolor abdominal puede provenir de cualquiera de ellos. El dolor puede comenzar en algún otro lugar como, por ejemplo, el pecho. Un dolor severo no siempre indica un problema grave, y un dolor leve no significa que el problema no es serio. Si el dolor leve persiste por una semana o más, o si se acompaña de otros síntomas, llame a un profesional de la salud. Obtenga ayuda médica inmediata si Tiene un dolor abdominal repentino e intenso También tiene dolor en el pecho, el cuello o el hombro Vomita sangre u observa sangre en las evacuaciones Tiene el abdomen rígido, duro y sensible al tacto No puede evacuar (mover el intestino), especialmente si además tiene vómitos</dc:description>
+<dc:description xml:lang="en">Your abdomen extends from below your chest to your groin. Some people call it the stomach, but your abdomen contains many other important organs. Pain in the abdomen can come from any one of them. The pain may start somewhere else, such as your chest. Severe pain doesn't always mean a serious problem. Nor does mild pain mean a problem is not serious. Call your health care provider if mild pain lasts a week or more or if you have pain with other symptoms. Get medical help immediately if You have abdominal pain that is sudden and sharp You also have pain in your chest, neck or shoulder You're vomiting blood or have blood in your stool Your abdomen is stiff, hard and tender to touch You can't move your bowels, especially if you're also vomiting</dc:description>
+<dc:subject dcterms="mesh">Abdominal Pain</dc:subject>
+<dc:subject xml:lang="es">Dolor abdominal</dc:subject>
+<dc:subject xml:lang="es">Abdomen</dc:subject>
+<dc:subject xml:lang="es">Dolor</dc:subject>
+<dc:subject xml:lang="es">Dolor de barriga</dc:subject>
+<dc:subject xml:lang="en">Abdominal Pain</dc:subject>
+<dc:subject xml:lang="en">Pain</dc:subject>
+<dc:subject xml:lang="en">Abdominal</dc:subject>
+<dc:subject xml:lang="en">Bellyache</dc:subject>
+<dc:subject xml:lang="en">Stomach Ache</dc:subject>
+</metadata>
+</record>
+</MedlinePlus-document>

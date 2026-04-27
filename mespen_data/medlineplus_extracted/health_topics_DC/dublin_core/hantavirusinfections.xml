@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<MedlinePlus-document>
+<record>
+<header>
+<identifier>https://medlineplus.gov/hantavirusinfections.html</identifier>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title type="alternate" xml:lang="es">SPH</dc:title>
+<dc:type>Text</dc:type>
+<dc:language>spa</dc:language>
+<dc:language>eng</dc:language>
+<dc:title xml:lang="es">Hantavirus</dc:title>
+<dc:title xml:lang="en">Hantavirus Infections</dc:title>
+<dc:publisher>National Library of Medicine</dc:publisher>
+<dc:relation type="IsPartOf">Infections</dc:relation>
+<dc:date type="created">2003-06-20</dc:date>
+<dc:date type="modified">2017-05-31</dc:date>
+<dc:identifier type="URL" xml:lang="es">https://medlineplus.gov/spanish/hantavirusinfections.html</dc:identifier>
+<dc:identifier type="URL" xml:lang="en">https://medlineplus.gov/hantavirusinfections.html</dc:identifier>
+<dc:description xml:lang="es">El síndrome pulmonar por hantavirus (HPS, por sus siglas en inglés) es una infección viral poco frecuente pero mortal. Es diseminada por los ratones y ratas. Ellos eliminan el virus en la orina, los excrementos y la saliva. Pequeñas gotas con el virus pueden flotar en el aire. Las personas pueden adquirir la enfermedad si respiran aire infectado o entran en contacto con roedores o sus excrementos. Las personas no lo contagian. Los primeros síntomas del HPS incluyen: Fatiga Fiebre Dolores musculares, especialmente en los muslos, caderas y espalda Dolor de cabeza Escalofríos Mareos Nausea, vómitos, diarrea o dolor abdominal Los síntomas posteriores incluyen tos y falta de aire. El control de los roedores dentro y alrededor de su casa es la mejor forma para protegerse de una infección. Si ha estado cerca de roedores y tiene síntomas como fiebre, dolores musculares profundos y una intensa sensación de falta de aire, consulte inmediatamente a un médico. No existe un tratamiento específico, cura o vacuna para esta infección. A los pacientes les va mejor si reconocen los síntomas con anticipación y reciben atención en terapia intensiva. Generalmente, necesitan un respirador y terapia de oxígeno. Centros para el Control y la Prevención de Enfermedades</dc:description>
+<dc:description xml:lang="en">Hantavirus pulmonary syndrome (HPS) is a rare but deadly viral infection. It is spread by mice and rats. They shed the virus in their urine, droppings, and saliva. Tiny droplets with the virus can enter the air. People can get the disease if they breathe infected air or come into contact with rodents or their urine or droppings. You cannot catch it from people. Early symptoms of HPS include Fatigue Fever Muscle aches, especially in the thighs, hips and back Headaches Chills Dizziness Nausea, vomiting, diarrhea or abdominal pain Later symptoms include coughing and shortness of breath. Controlling rodents in and around your house is the best way to prevent infection. If you have been around rodents and have symptoms of fever, deep muscle aches, and severe shortness of breath, see your doctor immediately. There is no specific treatment, cure, or vaccine for HPS. Patients may do better if it is recognized early and they get medical care in an intensive care unit. They often need to use a breathing machine and have oxygen therapy. Centers for Disease Control and Prevention</dc:description>
+<dc:subject dcterms="mesh">Hantavirus Infections</dc:subject>
+<dc:subject xml:lang="es">Hantavirus</dc:subject>
+<dc:subject xml:lang="es">SPH</dc:subject>
+<dc:subject xml:lang="en">Hantavirus Infections</dc:subject>
+</metadata>
+</record>
+</MedlinePlus-document>

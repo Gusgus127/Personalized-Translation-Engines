@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<MedlinePlus-document>
+<record>
+<header>
+<identifier>https://medlineplus.gov/thalassemia.html</identifier>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:type>Text</dc:type>
+<dc:language>spa</dc:language>
+<dc:language>eng</dc:language>
+<dc:title xml:lang="es">Talasemia</dc:title>
+<dc:title xml:lang="en">Thalassemia</dc:title>
+<dc:publisher>National Library of Medicine</dc:publisher>
+<dc:relation type="IsPartOf">Blood, Heart and Circulation</dc:relation>
+<dc:date type="created">2005-11-15</dc:date>
+<dc:date type="modified">2017-07-05</dc:date>
+<dc:identifier type="URL" xml:lang="es">https://medlineplus.gov/spanish/thalassemia.html</dc:identifier>
+<dc:identifier type="URL" xml:lang="en">https://medlineplus.gov/thalassemia.html</dc:identifier>
+<dc:description xml:lang="es">La talasemia es un trastorno hereditario de la sangre. Si usted tiene una, su cuerpo produce menos glóbulos rojos sanos y menos hemoglobina. La hemoglobina es una proteína que transporta el oxígeno al cuerpo. Esto conduce a la anemia. Las talasemias son más frecuentes entre las personas de ascendencia italiana, griega, del Medio Oriente, del sur de Asia y africana. Las talasemias pueden ser leves o graves. Algunas personas no tienen síntomas o presentan anemia leve. El tipo grave más común en Estados Unidos se denomina anemia de Cooley. Por lo general, aparece durante los primeros dos años de vida. Las personas que la desarrollan pueden tener anemia severa, crecimiento lento y pubertad tardía, y problemas en el bazo, el hígado, el corazón o los huesos. Los médicos diagnostican talasemias mediante pruebas de sangre. Los tratamientos incluyen transfusiones de sangre y procedimientos para eliminar el exceso de hierro del cuerpo. Si no tiene síntomas o son leves, puede que no necesite tratamiento. En algunos casos graves puede ser necesario un trasplante de médula ósea. NIH: Instituto Nacional del Corazón, los Pulmones y la Sangre</dc:description>
+<dc:description xml:lang="en">Thalassemias are inherited blood disorders. If you have one, your body makes fewer healthy red blood cells and less hemoglobin. Hemoglobin is a protein that carries oxygen to the body. That leads to anemia. Thalassemias occur most often among people of Italian, Greek, Middle Eastern, Southern Asian, and African descent. Thalassemias can be mild or severe. Some people have no symptoms or mild anemia. The most common severe type in the United States is called Cooley's anemia. It usually appears during the first two years of life. People with it may have severe anemia, slowed growth and delayed puberty, and problems with the spleen, liver, heart, or bones. Doctors diagnose thalassemias using blood tests. Treatments include blood transfusions and treatment to remove excess iron from the body. If you have mild symptoms or no symptoms, you may not need treatment. In some severe cases, you may need a bone marrow transplant. NIH: National Heart, Lung, and Blood Institute</dc:description>
+<dc:subject dcterms="mesh">Thalassemia</dc:subject>
+<dc:subject xml:lang="es">Talasemia</dc:subject>
+<dc:subject xml:lang="en">Thalassemia</dc:subject>
+<dc:subject xml:lang="en">Cooley's Anemia</dc:subject>
+<dc:subject xml:lang="en">Mediterranean Anemia</dc:subject>
+</metadata>
+</record>
+</MedlinePlus-document>

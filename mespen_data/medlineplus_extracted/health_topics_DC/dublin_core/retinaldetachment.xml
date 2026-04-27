@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<MedlinePlus-document>
+<record>
+<header>
+<identifier>https://medlineplus.gov/retinaldetachment.html</identifier>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title type="alternate" xml:lang="es">Retina, Desprendimiento</dc:title>
+<dc:type>Text</dc:type>
+<dc:language>spa</dc:language>
+<dc:language>eng</dc:language>
+<dc:title xml:lang="es">Desprendimiento de retina</dc:title>
+<dc:title xml:lang="en">Retinal Detachment</dc:title>
+<dc:publisher>National Library of Medicine</dc:publisher>
+<dc:relation type="IsPartOf">Eyes and Vision</dc:relation>
+<dc:date type="created">2013-06-27</dc:date>
+<dc:date type="modified">2017-07-19</dc:date>
+<dc:identifier type="URL" xml:lang="es">https://medlineplus.gov/spanish/retinaldetachment.html</dc:identifier>
+<dc:identifier type="URL" xml:lang="en">https://medlineplus.gov/retinaldetachment.html</dc:identifier>
+<dc:description xml:lang="es">La retina es una capa de tejido en la parte posterior del ojo que percibe la luz y envía las imágenes al cerebro. Suministra la visión nítida y central necesaria para leer, conducir y ver los detalles más pequeños. Se llama desprendimiento de retina a la separación de la retina de su posición normal debido a un desgarro. Puede sucederles a personas de todas las edades pero es más común en personas mayores de 40. Esta condición afecta más a los hombres que a las mujeres y a más blancos que afroamericanos. Las personas que presentan más riesgos también: Son extremadamente miopes o cortos de vista Tienen un desprendimiento de retina en el otro ojo Tienen una historia familiar de desprendimiento de retina Han tenido cirugía de cataratas Tienen otras enfermedades o condiciones de la vista o del ojo Han sufrido una lesión en el ojo Los síntomas incluyen un aumento de flotadores (pequeños puntos o manchas que aparecen en la visión de una persona, o destellos de luz en los ojos). También, puede sentir la sensación de que existe una "cortina" en su campo de visión. El desprendimiento de retina es una emergencia médica. Si no se trata pronto, puede ocasionar pérdida de la visión permanente. Si usted presenta alguno de los síntomas, acuda a un oculista (médico de los ojos) inmediatamente. El tratamiento incluye varios tipos de cirugía. NIH: Instituto Nacional del Ojo</dc:description>
+<dc:description xml:lang="en">The retina is a layer of tissue in the back of your eye that senses light and sends images to your brain. It provides the sharp, central vision needed for reading, driving, and seeing fine detail. A retinal detachment lifts or pulls the retina from its normal position. It can occur at any age, but it is more common in people over age 40. It affects men more than women and whites more than African Americans. A retinal detachment is also more likely to occur in people who Are extremely nearsighted Have had a retinal detachment in the other eye Have a family history of retinal detachment Have had cataract surgery Have other eye diseases or disorders Have had an eye injury Symptoms include an increase in the number of floaters, which are little "cobwebs" or specks that float about in your field of vision, and/or light flashes in the eye. It may also seem like there is a "curtain" over your field of vision. A retinal detachment is a medical emergency. If not promptly treated, it can cause permanent vision loss. If you have any symptoms, see an eye care professional immediately. Treatment includes different types of surgery. NIH: National Eye Institute</dc:description>
+<dc:subject dcterms="mesh">Retinal Detachment</dc:subject>
+<dc:subject xml:lang="es">Desprendimiento de retina</dc:subject>
+<dc:subject xml:lang="es">Retina</dc:subject>
+<dc:subject xml:lang="es">Desprendimiento</dc:subject>
+<dc:subject xml:lang="en">Retinal Detachment</dc:subject>
+</metadata>
+</record>
+</MedlinePlus-document>

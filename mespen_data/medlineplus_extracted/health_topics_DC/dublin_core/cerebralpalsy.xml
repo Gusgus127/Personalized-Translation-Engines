@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<MedlinePlus-document>
+<record>
+<header>
+<identifier>https://medlineplus.gov/cerebralpalsy.html</identifier>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:type>Text</dc:type>
+<dc:language>spa</dc:language>
+<dc:language>eng</dc:language>
+<dc:title xml:lang="es">Parálisis cerebral</dc:title>
+<dc:title xml:lang="en">Cerebral Palsy</dc:title>
+<dc:publisher>National Library of Medicine</dc:publisher>
+<dc:relation type="IsPartOf">Genetics/Birth Defects</dc:relation>
+<dc:relation type="IsPartOf">Brain and Nerves</dc:relation>
+<dc:date type="created">2002-07-21</dc:date>
+<dc:date type="modified">2018-01-19</dc:date>
+<dc:identifier type="URL" xml:lang="es">https://medlineplus.gov/spanish/cerebralpalsy.html</dc:identifier>
+<dc:identifier type="URL" xml:lang="en">https://medlineplus.gov/cerebralpalsy.html</dc:identifier>
+<dc:description xml:lang="es">La parálisis cerebral es un grupo de trastornos que afecta la capacidad de una persona para moverse, mantener el equilibrio y la postura. Los trastornos aparecen durante los primeros años de vida. Por lo general, no empeoran con el tiempo. Las personas con parálisis cerebral pueden tener dificultades para caminar. También pueden tener problemas realizando tareas como escribir o usar tijeras. Algunas tienen otras afecciones médicas, como trastornos convulsivos, o discapacidad mental. La parálisis cerebral ocurre cuando las áreas del cerebro que controlan el movimiento y la postura no se desarrollan correctamente o se lesionan. Los signos prematuros de parálisis cerebral suelen aparecer antes de los 3 años de edad. Frecuentemente, los bebés con parálisis cerebral son más lentos para voltearse, sentarse, gatear, sonreír o caminar. Algunos niños nacen con parálisis cerebral; otros la adquieren después del nacimiento. No existe una cura para la parálisis cerebral, pero el tratamiento puede mejorar las vidas de quienes la sufren. El tratamiento incluye medicinas, aparatos y terapia física, ocupacional y del habla. NIH: Instituto Nacional de Trastornos Neurológicos y Accidentes Cerebrovasculares</dc:description>
+<dc:description xml:lang="en">Cerebral palsy is a group of disorders that affect a person's ability to move and to maintain balance and posture. The disorders appear in the first few years of life. Usually they do not get worse over time. People with cerebral palsy may have difficulty walking. They may also have trouble with tasks such as writing or using scissors. Some have other medical conditions, including seizure disorders or mental impairment. Cerebral palsy happens when the areas of the brain that control movement and posture do not develop correctly or get damaged. Early signs of cerebral palsy usually appear before 3 years of age. Babies with cerebral palsy are often slow to roll over, sit, crawl, smile, or walk. Some babies are born with cerebral palsy; others get it after they are born. There is no cure for cerebral palsy, but treatment can improve the lives of those who have it. Treatment includes medicines, braces, and physical, occupational and speech therapy. NIH: National Institute of Neurological Disorders and Stroke</dc:description>
+<dc:subject dcterms="mesh">Cerebral Palsy</dc:subject>
+<dc:subject xml:lang="es">Parálisis cerebral</dc:subject>
+<dc:subject xml:lang="en">Cerebral Palsy</dc:subject>
+</metadata>
+</record>
+</MedlinePlus-document>

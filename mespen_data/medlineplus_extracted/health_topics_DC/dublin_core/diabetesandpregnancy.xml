@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<MedlinePlus-document>
+<record>
+<header>
+<identifier>https://medlineplus.gov/diabetesandpregnancy.html</identifier>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title type="alternate" xml:lang="es">Diabetes gestacional</dc:title>
+<dc:title type="alternate" xml:lang="en">Pregnancy and Diabetes</dc:title>
+<dc:title type="alternate" xml:lang="en">Gestational Diabetes</dc:title>
+<dc:type>Text</dc:type>
+<dc:language>spa</dc:language>
+<dc:language>eng</dc:language>
+<dc:title xml:lang="es">Diabetes y el embarazo</dc:title>
+<dc:title xml:lang="en">Diabetes and Pregnancy</dc:title>
+<dc:publisher>National Library of Medicine</dc:publisher>
+<dc:relation type="IsPartOf">Pregnancy and Reproduction</dc:relation>
+<dc:relation type="IsPartOf">Diabetes Mellitus</dc:relation>
+<dc:relation type="IsPartOf">Endocrine System</dc:relation>
+<dc:relation type="IsPartOf">Female Reproductive System</dc:relation>
+<dc:date type="created">2002-07-21</dc:date>
+<dc:date type="modified">2017-11-08</dc:date>
+<dc:identifier type="URL" xml:lang="es">https://medlineplus.gov/spanish/diabetesandpregnancy.html</dc:identifier>
+<dc:identifier type="URL" xml:lang="en">https://medlineplus.gov/diabetesandpregnancy.html</dc:identifier>
+<dc:description xml:lang="es">La diabetes es una enfermedad en donde los niveles de glucosa, o azúcar en la sangre, están muy altos. Un nivel alto de glucosa durante el embarazo no es bueno para su bebé. Cerca de siete por cada 100 mujeres embarazadas en los Estados Unidos padecen de diabetes gestacional. La diabetes gestacional es la diabetes que aparece por primera vez cuando una mujer está embarazada. La mayoría de las veces, esta diabetes desaparece una vez que nace el bebé pero esto aumenta el riesgo de diabetes tipo 2 más adelante. El niño también está a riesgo de obesidad y diabetes tipo 2. A la mayoría de las mujeres se les hace un examen de detección para la diabetes en el segundo trimestre del embarazo. Las mujeres que tienen mayor riesgo pueden ser examinadas antes. Si usted ya tiene diabetes, el mejor momento para controlar su diabetes es antes de quedar embarazada. Los niveles altos de azúcar en la sangre pueden causar daño a su bebé en las primeras semanas del embarazo, cuando quizás usted todavía no sepa que está embarazada. Para mantener a su bebé y a usted sanos es importante mantener el nivel de azúcar en la sangre tan cerca de lo normal posible como cuando la tuvo antes de quedar embarazada. Ambos tipos de diabetes durante el embarazo aumentan las posibilidades de problemas para su bebé y usted. Para disminuir los riesgos, hable con sus médicos sobre: Un plan de alimentación para seguir durante su embarazo Un plan de actividad física seguro Cuán seguido debe medirse el azúcar en la sangre Tomar sus medicamentos tal como se lo ha indicado el médico. Sus medicinas pueden cambiar durante su embarazo. NIH: Instituto Nacional de la Diabetes y las Enfermedades Digestivas y Renales</dc:description>
+<dc:description xml:lang="en">Diabetes is a disease in which your blood glucose, or blood sugar, levels are too high. When you are pregnant, high blood sugar levels are not good for your baby. About seven out of every 100 pregnant women in the United States get gestational diabetes. Gestational diabetes is diabetes that happens for the first time when a woman is pregnant. Most of the time, it goes away after you have your baby. But it does increase your risk for developing type 2 diabetes later on. Your child is also at risk for obesity and type 2 diabetes. Most women get a test to check for diabetes during their second trimester of pregnancy. Women at higher risk may get a test earlier. If you already have diabetes, the best time to control your blood sugar is before you get pregnant. High blood sugar levels can be harmful to your baby during the first weeks of pregnancy - even before you know you are pregnant. To keep you and your baby healthy, it is important to keep your blood sugar as close to normal as possible before and during pregnancy. Either type of diabetes during pregnancy increases the chances of problems for you and your baby. To help lower the chances talk to your health care team about A meal plan for your pregnancy A safe exercise plan How often to test your blood sugar Taking your medicine as prescribed. Your medicine plan may need to change during pregnancy. NIH: National Institute of Diabetes and Digestive and Kidney Diseases</dc:description>
+<dc:subject dcterms="mesh">Pregnancy in Diabetics</dc:subject>
+<dc:subject xml:lang="es">Diabetes y el embarazo</dc:subject>
+<dc:subject xml:lang="es">Diabetes gestacional</dc:subject>
+<dc:subject xml:lang="en">Diabetes and Pregnancy</dc:subject>
+<dc:subject xml:lang="en">Pregnancy and Diabetes</dc:subject>
+<dc:subject xml:lang="en">Gestational Diabetes</dc:subject>
+</metadata>
+</record>
+</MedlinePlus-document>

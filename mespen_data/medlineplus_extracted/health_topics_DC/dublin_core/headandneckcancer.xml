@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<MedlinePlus-document>
+<record>
+<header>
+<identifier>https://medlineplus.gov/headandneckcancer.html</identifier>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title type="alternate" xml:lang="es">Cáncer de la faringe</dc:title>
+<dc:title type="alternate" xml:lang="es">Cáncer de la garganta</dc:title>
+<dc:title type="alternate" xml:lang="es">Faringe, Cáncer de</dc:title>
+<dc:title type="alternate" xml:lang="es">Garganta, Cáncer de</dc:title>
+<dc:title type="alternate" xml:lang="es">Laringe, Cáncer de</dc:title>
+<dc:title type="alternate" xml:lang="es">Cabeza, Cáncer de</dc:title>
+<dc:title type="alternate" xml:lang="es">Cuello, Cáncer de</dc:title>
+<dc:title type="alternate" xml:lang="es">Cáncer de la laringe</dc:title>
+<dc:title type="alternate" xml:lang="es">Nasal, Cáncer</dc:title>
+<dc:title type="alternate" xml:lang="es">Orofaringe, Cáncer</dc:title>
+<dc:type>Text</dc:type>
+<dc:language>spa</dc:language>
+<dc:language>eng</dc:language>
+<dc:title xml:lang="es">Cáncer de cabeza y cuello</dc:title>
+<dc:title xml:lang="en">Head and Neck Cancer</dc:title>
+<dc:publisher>National Library of Medicine</dc:publisher>
+<dc:relation type="IsPartOf">Mouth and Teeth</dc:relation>
+<dc:relation type="IsPartOf">Lungs and Breathing</dc:relation>
+<dc:relation type="IsPartOf">Ear, Nose and Throat</dc:relation>
+<dc:relation type="IsPartOf">Cancers</dc:relation>
+<dc:date type="created">2002-07-21</dc:date>
+<dc:date type="modified">2017-12-04</dc:date>
+<dc:identifier type="URL" xml:lang="es">https://medlineplus.gov/spanish/headandneckcancer.html</dc:identifier>
+<dc:identifier type="URL" xml:lang="en">https://medlineplus.gov/headandneckcancer.html</dc:identifier>
+<dc:description xml:lang="es">El cáncer en la cabeza y cuello incluye cánceres de boca, nariz, senos paranasales, glándulas salivales, garganta y ganglios linfáticos en el cuello. La mayoría comienza en los tejidos húmedos que rodean la boca, la nariz y la garganta. Los síntomas incluyen: Un bulto o un dolor que no se cura Dolor de garganta que no desaparece Dificultad para tragar Cambios de voz o ronquera El cáncer de cabeza y cuello es dos veces más común en hombres. El consumo de tabaco o de alcohol aumenta el riesgo. De hecho, cerca del 75 por ciento de los cánceres en la cabeza y cuello se relacionan con el consumo del tabaco, incluyendo el fumar y el tabaco sin humo.La infección con el virus del papiloma humano es un factor de riesgo para algunos tipos de cáncer de cabeza y cuello. Para el diagnóstico de cáncer de cabeza y cuello, su médico le hará un examen físico y pruebas de diagnóstico. Se le hará una biopsia, donde se toma una muestra de tejido y se examina bajo un microscopio. Es la única prueba que puede señalar con seguridad si usted tiene cáncer. Si se detecta temprano, estos tipos de cáncer suelen ser curables. El tratamiento puede incluir cirugía, radiación, quimioterapia o una combinación. Los tratamientos pueden afectar la alimentación, el habla e incluso la respiración, por lo que es posible que el paciente necesite rehabilitación. NIH: Instituto Nacional del Cáncer</dc:description>
+<dc:description xml:lang="en">Head and neck cancer includes cancers of the mouth, nose, sinuses, salivary glands, throat, and lymph nodes in the neck. Most begin in the moist tissues that line the mouth, nose, and throat. Symptoms include A lump or sore that does not heal A sore throat that does not go away Trouble swallowing A change or hoarseness in the voice Head and neck cancers are twice as common in men. Using tobacco or alcohol increases your risk. In fact, around 75 percent of head and neck cancers are linked to tobacco use, including smoking and smokeless tobacco. Infection with HPV is a risk factor for some head and neck cancers. To diagnose head and neck cancer, your doctor will do a physical exam and diagnostic tests. You will have a biopsy, where a sample of tissue is taken out and examined under a microscope. It is the only test that can tell for sure if you have cancer. If found early, these cancers are often curable. Treatments may include surgery, radiation therapy, chemotherapy, or a combination. Treatments can affect eating, speaking or even breathing, so patients may need rehabilitation. NIH: National Cancer Institute</dc:description>
+<dc:subject dcterms="mesh">Head and Neck Neoplasms</dc:subject>
+<dc:subject xml:lang="es">Cáncer de cabeza y cuello</dc:subject>
+<dc:subject xml:lang="es">Cáncer de la faringe</dc:subject>
+<dc:subject xml:lang="es">Cáncer de la garganta</dc:subject>
+<dc:subject xml:lang="es">Faringe</dc:subject>
+<dc:subject xml:lang="es">Cáncer de</dc:subject>
+<dc:subject xml:lang="es">Garganta</dc:subject>
+<dc:subject xml:lang="es">Cáncer de</dc:subject>
+<dc:subject xml:lang="es">Laringe</dc:subject>
+<dc:subject xml:lang="es">Cáncer de</dc:subject>
+<dc:subject xml:lang="es">Cabeza</dc:subject>
+<dc:subject xml:lang="es">Cáncer de</dc:subject>
+<dc:subject xml:lang="es">Cuello</dc:subject>
+<dc:subject xml:lang="es">Cáncer de</dc:subject>
+<dc:subject xml:lang="es">Cáncer de la laringe</dc:subject>
+<dc:subject xml:lang="es">Nasal</dc:subject>
+<dc:subject xml:lang="es">Cáncer</dc:subject>
+<dc:subject xml:lang="es">Orofaringe</dc:subject>
+<dc:subject xml:lang="es">Cáncer</dc:subject>
+<dc:subject xml:lang="en">Head and Neck Cancer</dc:subject>
+</metadata>
+</record>
+</MedlinePlus-document>

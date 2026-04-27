@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<MedlinePlus-document>
+<record>
+<header>
+<identifier>https://medlineplus.gov/mammography.html</identifier>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title type="alternate" xml:lang="es">Cáncer de mama</dc:title>
+<dc:title type="alternate" xml:lang="es">Mama, Cáncer de</dc:title>
+<dc:title type="alternate" xml:lang="es">Mastografía</dc:title>
+<dc:type>Text</dc:type>
+<dc:language>spa</dc:language>
+<dc:language>eng</dc:language>
+<dc:title xml:lang="es">Mamografía</dc:title>
+<dc:title xml:lang="en">Mammography</dc:title>
+<dc:publisher>National Library of Medicine</dc:publisher>
+<dc:relation type="IsPartOf">Female Reproductive System</dc:relation>
+<dc:relation type="IsPartOf">Women</dc:relation>
+<dc:relation type="IsPartOf">Diagnostic Tests</dc:relation>
+<dc:date type="created">2002-07-21</dc:date>
+<dc:date type="modified">2017-03-24</dc:date>
+<dc:identifier type="URL" xml:lang="es">https://medlineplus.gov/spanish/mammography.html</dc:identifier>
+<dc:identifier type="URL" xml:lang="en">https://medlineplus.gov/mammography.html</dc:identifier>
+<dc:description xml:lang="es">Una mamografía es un tipo especial de radiografía de las mamas. Puede ser usado para detectar el cáncer de seno en mujeres que no presentan indicios o síntomas de la enfermedad. También puede ser usada si tiene un bulto u otro signo de cáncer de seno. Una mamografía de detección es un tipo de mamograma que la examina cuando no hay síntomas. Puede ayudar a reducir el número de fallecimientos debido a este cáncer en las mujeres de 40 a 70 años. Pero también pueden existir inconvenientes. Las mamografías pueden encontrar algo que no sea cáncer. Esto puede resultar en más exámenes que pueden causarle ansiedad. Otras veces, las mamografías pueden no detectar cáncer cuando en realidad sí hay. También la expone a usted a radiación. Usted debe hablar con su doctor acerca de los beneficios y desventajas de las mamografías. Juntos, pueden decidir cuándo comenzar y con qué frecuencia debe someterse a ellas. Cuando le realizan una mamografía, usted se pone de pie delante de un aparato de rayos X. La persona que hace el estudio coloca la mama entre dos placas plásticas. Las superficies presionan la mama haciéndola más plana. Esto puede resultar incómodo, pero ayuda a obtener una imagen clara. Usted debería recibir un informe por escrito de los resultados de la mamografía dentro de los 30 días. NIH: Instituto Nacional del Cáncer</dc:description>
+<dc:description xml:lang="en">A mammogram is an x-ray picture of the breast. It can be used to check for breast cancer in women who have no signs or symptoms of the disease. It can also be used if you have a lump or other sign of breast cancer. Screening mammography is the type of mammogram that checks you when you have no symptoms. It can help reduce the number of deaths from breast cancer among women ages 40 to 70. But it can also have drawbacks. Mammograms can sometimes find something that looks abnormal but isn't cancer. This leads to further testing and can cause you anxiety. Sometimes mammograms can miss cancer when it is there. It also exposes you to radiation. You should talk to your doctor about the benefits and drawbacks of mammograms. Together, you can decide when to start and how often to have a mammogram. Mammograms are also recommended for younger women who have symptoms of breast cancer or who have a high risk of the disease. When you have a mammogram, you stand in front of an x-ray machine. The person who takes the x-rays places your breast between two plastic plates. The plates press your breast and make it flat. This may be uncomfortable, but it helps get a clear picture. You should get a written report of your mammogram results within 30 days. NIH: National Cancer Institute</dc:description>
+<dc:subject dcterms="mesh">Mammography</dc:subject>
+<dc:subject xml:lang="es">Mamografía</dc:subject>
+<dc:subject xml:lang="es">Cáncer de mama</dc:subject>
+<dc:subject xml:lang="es">Mama</dc:subject>
+<dc:subject xml:lang="es">Cáncer de</dc:subject>
+<dc:subject xml:lang="es">Mastografía</dc:subject>
+<dc:subject xml:lang="en">Mammography</dc:subject>
+</metadata>
+</record>
+</MedlinePlus-document>

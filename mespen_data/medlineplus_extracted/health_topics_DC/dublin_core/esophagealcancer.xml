@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<MedlinePlus-document>
+<record>
+<header>
+<identifier>https://medlineplus.gov/esophagealcancer.html</identifier>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title type="alternate" xml:lang="es">Esófago, Cáncer de</dc:title>
+<dc:title type="alternate" xml:lang="es">Barrett, Esófago de</dc:title>
+<dc:type>Text</dc:type>
+<dc:language>spa</dc:language>
+<dc:language>eng</dc:language>
+<dc:title xml:lang="es">Cáncer de esófago</dc:title>
+<dc:title xml:lang="en">Esophageal Cancer</dc:title>
+<dc:publisher>National Library of Medicine</dc:publisher>
+<dc:relation type="IsPartOf">Cancers</dc:relation>
+<dc:relation type="IsPartOf">Digestive System</dc:relation>
+<dc:relation type="IsPartOf">Ear, Nose and Throat</dc:relation>
+<dc:date type="created">2002-07-21</dc:date>
+<dc:date type="modified">2017-11-27</dc:date>
+<dc:identifier type="URL" xml:lang="es">https://medlineplus.gov/spanish/esophagealcancer.html</dc:identifier>
+<dc:identifier type="URL" xml:lang="en">https://medlineplus.gov/esophagealcancer.html</dc:identifier>
+<dc:description xml:lang="es">El esófago es un tubo hueco que transporta los alimentos y los líquidos desde la garganta hasta el estómago. El cáncer de esófago en sus estadios tempranos no suele causar síntomas. Más adelante puede causar: Los factores de riesgo para el desarrollo de un cáncer de esófago incluyen: Dolor o dificultad para tragar Pérdida de peso Voz ronca o tos que no cesa Una persona está a mayor riesgo de este cáncer si fuma, toma mucho alcohol o tiene reflujo de ácido estomacal. El riesgo aumenta con los años. Su doctor usará diagnósticos por imágenes para diagnosticar el cáncer de esófago. El tratamiento incluye cirugía, radiación y quimioterapia. Es posible que también necesite apoyo nutricional, ya que el cáncer o su tratamiento pueden hacer difícil tragar los alimentos. NIH: Instituto Nacional del Cáncer</dc:description>
+<dc:description xml:lang="en">The esophagus is a hollow tube that carries food and liquids from your throat to your stomach. Early esophageal cancer usually does not cause symptoms. Later, you may have symptoms such as Painful or difficult swallowing Weight loss A hoarse voice or cough that doesn't go away You're at greater risk for getting esophageal cancer if you smoke, drink heavily, or have acid reflux. Your risk also goes up as you age Your doctor uses imaging tests and a biopsy to diagnose esophageal cancer. Treatments include surgery, radiation, and chemotherapy. You might also need nutritional support, since the cancer or treatment may make it hard to swallow. NIH: National Cancer Institute</dc:description>
+<dc:subject dcterms="mesh">Esophageal Neoplasms</dc:subject>
+<dc:subject xml:lang="es">Cáncer de esófago</dc:subject>
+<dc:subject xml:lang="es">Esófago</dc:subject>
+<dc:subject xml:lang="es">Cáncer de</dc:subject>
+<dc:subject xml:lang="es">Barrett</dc:subject>
+<dc:subject xml:lang="es">Esófago de</dc:subject>
+<dc:subject xml:lang="en">Esophageal Cancer</dc:subject>
+</metadata>
+</record>
+</MedlinePlus-document>

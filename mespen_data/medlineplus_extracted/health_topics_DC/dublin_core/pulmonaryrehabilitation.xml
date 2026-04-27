@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<MedlinePlus-document>
+<record>
+<header>
+<identifier>https://medlineplus.gov/pulmonaryrehabilitation.html</identifier>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title type="alternate" xml:lang="es">Pulmones, Rehabilitación</dc:title>
+<dc:title type="alternate" xml:lang="en">Chest Physical Therapy</dc:title>
+<dc:title type="alternate" xml:lang="en">Lung Rehabilitation</dc:title>
+<dc:type>Text</dc:type>
+<dc:language>spa</dc:language>
+<dc:language>eng</dc:language>
+<dc:title xml:lang="es">Rehabilitación pulmonar</dc:title>
+<dc:title xml:lang="en">Pulmonary Rehabilitation</dc:title>
+<dc:publisher>National Library of Medicine</dc:publisher>
+<dc:relation type="IsPartOf">Lungs and Breathing</dc:relation>
+<dc:relation type="IsPartOf">Surgery and Rehabilitation</dc:relation>
+<dc:date type="created">2012-03-27</dc:date>
+<dc:date type="modified">2017-10-13</dc:date>
+<dc:identifier type="URL" xml:lang="es">https://medlineplus.gov/spanish/pulmonaryrehabilitation.html</dc:identifier>
+<dc:identifier type="URL" xml:lang="en">https://medlineplus.gov/pulmonaryrehabilitation.html</dc:identifier>
+<dc:description xml:lang="es">La rehabilitación pulmonar es un programa supervisado por un médico para ayudar a las personas que tienen problemas respiratorios crónicos, entre ellos: Enfermedad pulmonar obstructiva crónica, EPOC Sarcoidosis Fibrosis pulmonar idiopática Fibrosis quística Durante la rehabilitación pulmonar, usted se entrenará para hacer ejercicio físico y aprender técnicas de respiración. También recibirá consejos sobre la conservación de su energía, asesoría en nutrición y cómo manejar la enfermedad. La rehabilitación pulmonar no puede curar su enfermedad pulmonar o aliviar totalmente sus problemas respiratorios, pero sí puede ayudarle a desempeñarse mejor en su vida diaria. NIH: Instituto Nacional del Corazón, los Pulmones y la Sangre</dc:description>
+<dc:description xml:lang="en">Pulmonary rehabilitation (rehab) is a medically supervised program to help people who have chronic breathing problems, including COPD (chronic obstructive pulmonary disease) Sarcoidosis Idiopathic pulmonary fibrosis Cystic fibrosis During pulmonary rehab you may do exercise training and learn breathing techniques. You'll also get tips on conserving your energy and advice on nutrition and coping. These can't cure your lung disease or completely ease your breathing problems. But it can help you function better in your daily life. NIH: National Heart, Lung, and Blood Institute</dc:description>
+<dc:subject dcterms="mesh">Lung Diseases</dc:subject>
+<dc:subject xml:lang="es">Rehabilitación pulmonar</dc:subject>
+<dc:subject xml:lang="es">Pulmones</dc:subject>
+<dc:subject xml:lang="es">Rehabilitación</dc:subject>
+<dc:subject xml:lang="en">Pulmonary Rehabilitation</dc:subject>
+<dc:subject xml:lang="en">Chest Physical Therapy</dc:subject>
+<dc:subject xml:lang="en">Lung Rehabilitation</dc:subject>
+</metadata>
+</record>
+</MedlinePlus-document>

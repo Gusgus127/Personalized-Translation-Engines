@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<MedlinePlus-document>
+<record>
+<header>
+<identifier>https://medlineplus.gov/adrenalglanddisorders.html</identifier>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title type="alternate" xml:lang="es">Glándulas suprarrenales, Enfermedades de las</dc:title>
+<dc:title type="alternate" xml:lang="es">Suprarrenales, Enfermedades de las glándulas</dc:title>
+<dc:title type="alternate" xml:lang="en">Congenital Adrenal Hyperplasia</dc:title>
+<dc:type>Text</dc:type>
+<dc:language>spa</dc:language>
+<dc:language>eng</dc:language>
+<dc:title xml:lang="es">Enfermedades de las glándulas suprarrenales</dc:title>
+<dc:title xml:lang="en">Adrenal Gland Disorders</dc:title>
+<dc:publisher>National Library of Medicine</dc:publisher>
+<dc:relation type="IsPartOf">Endocrine System</dc:relation>
+<dc:date type="created">2002-07-21</dc:date>
+<dc:date type="modified">2018-01-03</dc:date>
+<dc:identifier type="URL" xml:lang="es">https://medlineplus.gov/spanish/adrenalglanddisorders.html</dc:identifier>
+<dc:identifier type="URL" xml:lang="en">https://medlineplus.gov/adrenalglanddisorders.html</dc:identifier>
+<dc:description xml:lang="es">Las glándulas suprarrenales son pequeñas glándulas ubicadas en la parte superior de cada riñón. Estas producen hormonas imprescindibles para la vida, incluyendo hormonas sexuales y cortisol. El cortisol ayuda a responder al estrés y tiene muchas otras funciones importantes. Los trastornos de las glándulas suprarrenales provocan que sus glándulas produzcan demasiadas o no suficientes hormonas. En el síndrome de Cushing, hay demasiado cortisol, mientras que en la enfermedad de Addison, hay muy poco. Algunas personas nacen sin la capacidad de producir suficiente cortisol. Las causas de los trastornos de las glándulas suprarrenales incluyen: Mutaciones genéticas Tumores incluyendo feocromocitomas Infecciones Un problema en otra glándula, como la pituitaria, que ayuda a regular la glándula suprarenal Ciertos medicamentos El tratamiento depende del problema que tenga. La cirugía o los medicamentos pueden tratar muchos trastornos de las glándulas suprarrenales. NIH: Instituto Nacional de la Salud del Niño y Desarrollo Humano</dc:description>
+<dc:description xml:lang="en">The adrenal glands are small glands located on top of each kidney. They produce hormones that you can't live without, including sex hormones and cortisol. Cortisol helps you respond to stress and has many other important functions. With adrenal gland disorders, your glands make too much or not enough hormones. In Cushing's syndrome, there's too much cortisol, while with Addison's disease, there is too little. Some people are born unable to make enough cortisol. Causes of adrenal gland disorders include Genetic mutations Tumors including pheochromocytomas Infections A problem in another gland, such as the pituitary, which helps to regulate the adrenal gland Certain medicines Treatment depends on which problem you have. Surgery or medicines can treat many adrenal gland disorders. NIH: National Institute of Child Health and Human Development</dc:description>
+<dc:subject dcterms="mesh">Adrenal Gland Diseases</dc:subject>
+<dc:subject xml:lang="es">Enfermedades de las glándulas suprarrenales</dc:subject>
+<dc:subject xml:lang="es">Glándulas suprarrenales</dc:subject>
+<dc:subject xml:lang="es">Enfermedades de las</dc:subject>
+<dc:subject xml:lang="es">Suprarrenales</dc:subject>
+<dc:subject xml:lang="es">Enfermedades de las glándulas</dc:subject>
+<dc:subject xml:lang="en">Adrenal Gland Disorders</dc:subject>
+<dc:subject xml:lang="en">Congenital Adrenal Hyperplasia</dc:subject>
+</metadata>
+</record>
+</MedlinePlus-document>

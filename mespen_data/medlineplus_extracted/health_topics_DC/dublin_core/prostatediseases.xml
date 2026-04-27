@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<MedlinePlus-document>
+<record>
+<header>
+<identifier>https://medlineplus.gov/prostatediseases.html</identifier>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title type="alternate" xml:lang="es">Hipertrofia prostática benigna (HPB)</dc:title>
+<dc:title type="alternate" xml:lang="es">Próstata, Enfermedades de la</dc:title>
+<dc:title type="alternate" xml:lang="es">Prostatitis</dc:title>
+<dc:title type="alternate" xml:lang="es">Próstata, Agrandamiento</dc:title>
+<dc:type>Text</dc:type>
+<dc:language>spa</dc:language>
+<dc:language>eng</dc:language>
+<dc:title xml:lang="es">Enfermedades de la próstata</dc:title>
+<dc:title xml:lang="en">Prostate Diseases</dc:title>
+<dc:publisher>National Library of Medicine</dc:publisher>
+<dc:relation type="IsPartOf">Male Reproductive System</dc:relation>
+<dc:relation type="IsPartOf">Seniors</dc:relation>
+<dc:relation type="IsPartOf">Men</dc:relation>
+<dc:date type="created">2002-07-21</dc:date>
+<dc:date type="modified">2018-02-05</dc:date>
+<dc:identifier type="URL" xml:lang="es">https://medlineplus.gov/spanish/prostatediseases.html</dc:identifier>
+<dc:identifier type="URL" xml:lang="en">https://medlineplus.gov/prostatediseases.html</dc:identifier>
+<dc:description xml:lang="es">La próstata es una glándula que forma parte del sistema reproductivo masculino. Ayuda a producir semen, el líquido que contiene esperma. La próstata rodea al conducto que lleva la orina desde la vejiga hasta el exterior del cuerpo. La próstata de un joven tiene el tamaño aproximado de una nuez. Con la edad, aumenta lentamente de tamaño. Si se agranda demasiado, puede causar problemas. El aumento de tamaño de la próstata es muy común después de los 50 años. Con los años, hay más probabilidades de tener problemas prostáticos. Algunos problemas comunes son: Prostatitis: inflamación, generalmente causada por bacterias Hiperplasia prostática benigna (HPB o agrandamiento de la próstata): un problema común en hombres adultos que causa goteo después de orinar o la necesidad de orinar con frecuencia, especialmente por la noche Cáncer de próstata: un cáncer común que responde mejor al tratamiento cuando se detecta anticipadamente NIH: Instituto Nacional de la Diabetes y las Enfermedades Digestivas y Renales</dc:description>
+<dc:description xml:lang="en">The prostate is a gland in men. It helps make semen, the fluid that contains sperm. The prostate surrounds the tube that carries urine away from the bladder and out of the body. A young man's prostate is about the size of a walnut. It slowly grows larger with age. If it gets too large, it can cause problems. This is very common after age 50. The older men get, the more likely they are to have prostate trouble. Some common problems are Prostatitis - inflammation, usually caused by bacteria Enlarged prostate (BPH), or benign prostatic hyperplasia - a common problem in older men which may cause dribbling after urination or a need to go often, especially at night Prostate cancer - a common cancer that responds best to treatment when detected early NIH: National Institute of Diabetes and Digestive and Kidney Diseases</dc:description>
+<dc:subject dcterms="mesh">Prostatic Diseases</dc:subject>
+<dc:subject xml:lang="es">Enfermedades de la próstata</dc:subject>
+<dc:subject xml:lang="es">Hipertrofia prostática benigna (HPB)</dc:subject>
+<dc:subject xml:lang="es">Próstata</dc:subject>
+<dc:subject xml:lang="es">Enfermedades de la</dc:subject>
+<dc:subject xml:lang="es">Prostatitis</dc:subject>
+<dc:subject xml:lang="es">Próstata</dc:subject>
+<dc:subject xml:lang="es">Agrandamiento</dc:subject>
+<dc:subject xml:lang="en">Prostate Diseases</dc:subject>
+</metadata>
+</record>
+</MedlinePlus-document>

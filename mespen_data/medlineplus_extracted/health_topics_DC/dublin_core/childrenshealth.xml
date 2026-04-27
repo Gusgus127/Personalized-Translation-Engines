@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<MedlinePlus-document>
+<record>
+<header>
+<identifier>https://medlineplus.gov/childrenshealth.html</identifier>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title type="alternate" xml:lang="es">Pediatría</dc:title>
+<dc:title type="alternate" xml:lang="es">Niño, Salud del</dc:title>
+<dc:title type="alternate" xml:lang="es">Chicos, Salud de los</dc:title>
+<dc:title type="alternate" xml:lang="en">Pediatrics</dc:title>
+<dc:type>Text</dc:type>
+<dc:language>spa</dc:language>
+<dc:language>eng</dc:language>
+<dc:title xml:lang="es">Salud del niño</dc:title>
+<dc:title xml:lang="en">Children's Health</dc:title>
+<dc:publisher>National Library of Medicine</dc:publisher>
+<dc:relation type="IsPartOf">Children and Teenagers</dc:relation>
+<dc:relation type="IsPartOf">Population Groups</dc:relation>
+<dc:date type="created">2002-07-21</dc:date>
+<dc:date type="modified">2018-01-10</dc:date>
+<dc:identifier type="URL" xml:lang="es">https://medlineplus.gov/spanish/childrenshealth.html</dc:identifier>
+<dc:identifier type="URL" xml:lang="en">https://medlineplus.gov/childrenshealth.html</dc:identifier>
+<dc:description xml:lang="es">La salud de su hijo incluye el bienestar físico, mental y social. La mayoría de los padres conoce los aspectos básicos para mantener a los niños sanos tales como darles alimentos saludables, asegurarse de que duerman y se ejerciten lo suficiente y garantizar su seguridad. También es importante que los niños tengan chequeos médicos regulares. Estas visitas son una oportunidad para revisar el desarrollo de su hijo. También es un buen momento para detectar o prevenir problemas. Además de los chequeos, los niños en edad escolar deben ir al médico por: Pérdida o aumento importante de peso Problemas para dormir o cambios de conducta Fiebre de más de 102ºF (38.8ºC) Erupciones cutáneas o infecciones en la piel Dolores de garganta frecuentes Problemas respiratorios</dc:description>
+<dc:description xml:lang="en">Your child's health includes physical, mental and social well-being. Most parents know the basics of keeping children healthy, like offering them healthy foods, making sure they get enough sleep and exercise and insuring their safety. It is also important for children to get regular checkups with their health care provider. These visits are a chance to check your child's development. They are also a good time to catch or prevent problems. Other than checkups, school-age children should be seen for Significant weight gain or loss Sleep problems or change in behavior Fever higher than 102 Rashes or skin infections Frequent sore throats Breathing problems</dc:description>
+<dc:subject dcterms="mesh">Child Welfare</dc:subject>
+<dc:subject dcterms="mesh">Child Health</dc:subject>
+<dc:subject dcterms="mesh">Child, Hospitalized</dc:subject>
+<dc:subject dcterms="mesh">Pediatrics</dc:subject>
+<dc:subject dcterms="mesh">Child Health Services</dc:subject>
+<dc:subject xml:lang="es">Salud del niño</dc:subject>
+<dc:subject xml:lang="es">Pediatría</dc:subject>
+<dc:subject xml:lang="es">Niño</dc:subject>
+<dc:subject xml:lang="es">Salud del</dc:subject>
+<dc:subject xml:lang="es">Chicos</dc:subject>
+<dc:subject xml:lang="es">Salud de los</dc:subject>
+<dc:subject xml:lang="en">Children's Health</dc:subject>
+<dc:subject xml:lang="en">Pediatrics</dc:subject>
+</metadata>
+</record>
+</MedlinePlus-document>

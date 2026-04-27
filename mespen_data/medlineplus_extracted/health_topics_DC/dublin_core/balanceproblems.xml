@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<MedlinePlus-document>
+<record>
+<header>
+<identifier>https://medlineplus.gov/balanceproblems.html</identifier>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title type="alternate" xml:lang="es">Equilibrio, Problemas</dc:title>
+<dc:type>Text</dc:type>
+<dc:language>spa</dc:language>
+<dc:language>eng</dc:language>
+<dc:title xml:lang="es">Problemas de equilibrio</dc:title>
+<dc:title xml:lang="en">Balance Problems</dc:title>
+<dc:publisher>National Library of Medicine</dc:publisher>
+<dc:relation type="IsPartOf">Seniors</dc:relation>
+<dc:relation type="IsPartOf">Ear, Nose and Throat</dc:relation>
+<dc:date type="created">2012-02-08</dc:date>
+<dc:date type="modified">2018-02-05</dc:date>
+<dc:identifier type="URL" xml:lang="es">https://medlineplus.gov/spanish/balanceproblems.html</dc:identifier>
+<dc:identifier type="URL" xml:lang="en">https://medlineplus.gov/balanceproblems.html</dc:identifier>
+<dc:description xml:lang="es">¿Se ha sentido mareado, aturdido o como si la habitación estuviera dando vueltas a su alrededor? Si esta sensación le sucede a menudo, puede ser un signo de un problema de equilibrio. Los problemas de equilibrio pueden hacer que usted se sienta inestable. También puede tener visión borrosa, confusión y desorientación. Es una causa de caídas y lesiones, como fractura de cadera. Algunos problemas de equilibrio se deben a problemas en el oído interno, otros pueden estar relacionados con diferentes partes del cuerpo como el cerebro o el corazón. El envejecimiento, las infecciones, las lesiones en la cabeza, ciertos medicamentos o alteraciones en la circulación de la sangre pueden causar problemas de equilibrio. Es importante consultar a un médico si tiene problemas de equilibrio. Estos pueden ser señales de otros problemas de salud, como una infección de oído o un derrame cerebral. Su médico puede referirlo a un especialista para el diagnóstico. Es posible que necesite una prueba de audición, análisis de sangre o estudios de imagen de la cabeza y el cerebro. Otras pruebas posibles observarán sus movimientos oculares, y cómo su cuerpo responde al movimiento. En algunos casos, el tratamiento de la enfermedad que está causando el desorden le ayudará con el problema de equilibrio. Los ejercicios, un cambio en la dieta y algunos medicamentos también pueden ayudar. NIH: Instituto Nacional de la Sordera y otros Trastornos de la Comunicación</dc:description>
+<dc:description xml:lang="en">Have you ever felt dizzy, lightheaded, or as if the room is spinning around you? If the feeling happens often, it could be a sign of a balance problem. Balance problems can make you feel unsteady. You may also have blurred vision, confusion, and disorientation. They are one cause of falls and fall-related injuries, such as a hip fracture. Some balance problems are due to problems in the inner ear. Others may involve another part of the body, such as the brain or the heart. Aging, infections, head injury, certain medicines, or problems with blood circulation may also cause balance problems. It is important to see your doctor about balance problems. They can be a sign of other health problems, such as an ear infection or a stroke. Your doctor may send you to a specialist for a diagnosis. You may need a hearing test, blood tests, or imaging studies of your head and brain. Other possible tests look at your eye movements, and how your body responds to movement. In some cases, treating the illness that is causing the disorder will help with the balance problem. Exercises, a change in diet, and some medicines also can help. NIH: National Institute on Deafness and Other Communication Disorders</dc:description>
+<dc:subject dcterms="mesh">Proprioception</dc:subject>
+<dc:subject xml:lang="es">Problemas de equilibrio</dc:subject>
+<dc:subject xml:lang="es">Equilibrio</dc:subject>
+<dc:subject xml:lang="es">Problemas</dc:subject>
+<dc:subject xml:lang="en">Balance Problems</dc:subject>
+</metadata>
+</record>
+</MedlinePlus-document>

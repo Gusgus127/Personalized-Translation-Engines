@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<MedlinePlus-document>
+<record>
+<header>
+<identifier>https://medlineplus.gov/diabetestype2.html</identifier>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:type>Text</dc:type>
+<dc:language>spa</dc:language>
+<dc:language>eng</dc:language>
+<dc:title xml:lang="es">Diabetes tipo 2</dc:title>
+<dc:title xml:lang="en">Diabetes Type 2</dc:title>
+<dc:publisher>National Library of Medicine</dc:publisher>
+<dc:relation type="IsPartOf">Children and Teenagers</dc:relation>
+<dc:relation type="IsPartOf">Diabetes Mellitus</dc:relation>
+<dc:relation type="IsPartOf">Endocrine System</dc:relation>
+<dc:date type="created">2012-01-04</dc:date>
+<dc:date type="modified">2017-11-08</dc:date>
+<dc:identifier type="URL" xml:lang="es">https://medlineplus.gov/spanish/diabetestype2.html</dc:identifier>
+<dc:identifier type="URL" xml:lang="en">https://medlineplus.gov/diabetestype2.html</dc:identifier>
+<dc:description xml:lang="es">La diabetes significa que la glucosa en la sangre, también llamada azúcar en la sangre, está muy alta. Con la diabetes tipo 2, la más común, el cuerpo no produce o no usa bien la insulina. La insulina es una hormona que ayuda a la glucosa a entrar a las células para darles energía. Sin insulina hay demasiada glucosa en la sangre. Con el tiempo, un nivel alto de glucosa en la sangre puede causar problemas serios en el corazón, los ojos, los riñones, los nervios, las encías y los dientes. Usted tiene un riesgo mayor de tener diabetes tipo 2 si es adulto mayor, tiene obesidad, historia familiar de diabetes o no hace ejercicio. Sufrir de prediabetes también aumenta ese riesgo. Las personas que tienen prediabetes tienen un nivel de azúcar más alto del normal pero no lo suficiente como para ser considerados diabéticos. Si está en riesgo de diabetes tipo 2, usted podría retrasarla o prevenir su desarrollo al hacer unos cambios en su estilo de vida. Los síntomas de la diabetes tipo 2 aparecen lentamente. Algunas personas ni siquiera los notan. Pueden incluir Tener mucha sed Orinar frecuentemente Sentirse hambriento o cansado Perder peso sin proponérselo Tener heridas que sanan lentamente Visión borrosa Un examen de sangre puede mostrar si usted tiene diabetes. Un tipo de prueba, la A1c, también puede comprobar cómo está manejando su diabetes. Muchas personas controlan su diabetes a través de una alimentación saludable, actividad física y exámenes de glucosa en la sangre. Algunas personas necesitan además tomar algunas medicinas para la diabetes. NIH: Instituto Nacional de la Diabetes y las Enfermedades Digestivas y Renales</dc:description>
+<dc:description xml:lang="en">Diabetes means your blood glucose, or blood sugar, levels are too high. With type 2 diabetes, the more common type, your body does not make or use insulin well. Insulin is a hormone that helps glucose get into your cells to give them energy. Without insulin, too much glucose stays in your blood. Over time, high blood glucose can lead to serious problems with your heart, eyes, kidneys, nerves, and gums and teeth. You have a higher risk of type 2 diabetes if you are older, have obesity, have a family history of diabetes, or do not exercise. Having prediabetes also increases your risk. Prediabetes means that your blood sugar is higher than normal but not high enough to be called diabetes. If you are at risk for type 2 diabetes, you may be able to delay or prevent developing it by making some lifestyle changes. The symptoms of type 2 diabetes appear slowly. Some people do not notice symptoms at all. The symptoms can include Being very thirsty Urinating often Feeling very hungry or tired Losing weight without trying Having sores that heal slowly Having blurry eyesight Blood tests can show if you have diabetes. One type of test, the A1C, can also check on how you are managing your diabetes. Many people can manage their diabetes through healthy eating, physical activity, and blood glucose testing. Some people also need to take diabetes medicines. NIH: National Institute of Diabetes and Digestive and Kidney Diseases</dc:description>
+<dc:subject dcterms="mesh">Diabetes Mellitus, Type 2</dc:subject>
+<dc:subject xml:lang="es">Diabetes tipo 2</dc:subject>
+<dc:subject xml:lang="en">Diabetes Type 2</dc:subject>
+<dc:subject xml:lang="en">Non-Insulin Dependent Diabetes Mellitus</dc:subject>
+<dc:subject xml:lang="en">Type II Diabetes</dc:subject>
+<dc:subject xml:lang="en">Sugar Diabetes</dc:subject>
+</metadata>
+</record>
+</MedlinePlus-document>

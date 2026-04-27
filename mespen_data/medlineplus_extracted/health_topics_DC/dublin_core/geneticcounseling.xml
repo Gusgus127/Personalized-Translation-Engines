@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<MedlinePlus-document>
+<record>
+<header>
+<identifier>https://medlineplus.gov/geneticcounseling.html</identifier>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title type="alternate" xml:lang="es">Genética, Asesoramiento</dc:title>
+<dc:title type="alternate" xml:lang="es">Historia médica familiar</dc:title>
+<dc:type>Text</dc:type>
+<dc:language>spa</dc:language>
+<dc:language>eng</dc:language>
+<dc:title xml:lang="es">Asesoramiento genético</dc:title>
+<dc:title xml:lang="en">Genetic Counseling</dc:title>
+<dc:publisher>National Library of Medicine</dc:publisher>
+<dc:relation type="IsPartOf">Pregnancy and Reproduction</dc:relation>
+<dc:relation type="IsPartOf">Genetics/Birth Defects</dc:relation>
+<dc:date type="created">2005-09-13</dc:date>
+<dc:date type="modified">2017-06-20</dc:date>
+<dc:identifier type="URL" xml:lang="es">https://medlineplus.gov/spanish/geneticcounseling.html</dc:identifier>
+<dc:identifier type="URL" xml:lang="en">https://medlineplus.gov/geneticcounseling.html</dc:identifier>
+<dc:description xml:lang="es">El asesoramiento genético ofrece información y apoyo a las personas que tienen o pueden tener riesgos de trastornos genéticos. Un genetista se reunirá con usted para hablar de los riesgos genéticos. La consulta puede ser sobre usted o un familiar, o puede acceder a esta información cuando piense o planee tener un bebé. Puede obtener más información con pruebas genéticas. Existen muchas razones para buscar asesoramiento genético. Puede pensar en hacerlo si: Tiene historial familiar de una condición genética o defecto congénito Está embarazada o planea estarlo después de los 35 años Ya tiene un hijo con un trastorno o defecto congénito Tuvo dos o más pérdidas de embarazos o un bebé que falleció Se realizó un ultrasonido o pruebas que sugieren la posibilidad de un problema Guía Genética para el Hogar</dc:description>
+<dc:description xml:lang="en">Genetic counseling provides information and support to people who have, or may be at risk for, genetic disorders. A genetic counselor meets with you to discuss genetic risks. The counseling may be for yourself or a family member. Or you may get it when you are planning or expecting a baby. You may follow up with genetic testing. There are many reasons to seek genetic counseling. You may consider it if you Have a personal or family history of a genetic condition or birth defect Are pregnant or planning to be pregnant after age 35 Already have a child with a genetic disorder or birth defect Have had two or more pregnancy losses or a baby who died Have had ultrasound or screening tests that suggest a possible problem Genetics Home Reference</dc:description>
+<dc:subject dcterms="mesh">Genetic Counseling</dc:subject>
+<dc:subject xml:lang="es">Asesoramiento genético</dc:subject>
+<dc:subject xml:lang="es">Genética</dc:subject>
+<dc:subject xml:lang="es">Asesoramiento</dc:subject>
+<dc:subject xml:lang="es">Historia médica familiar</dc:subject>
+<dc:subject xml:lang="en">Genetic Counseling</dc:subject>
+</metadata>
+</record>
+</MedlinePlus-document>

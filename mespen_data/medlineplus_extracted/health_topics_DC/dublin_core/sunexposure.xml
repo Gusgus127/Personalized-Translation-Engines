@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<MedlinePlus-document>
+<record>
+<header>
+<identifier>https://medlineplus.gov/sunexposure.html</identifier>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title type="alternate" xml:lang="es">Broncearse</dc:title>
+<dc:title type="alternate" xml:lang="es">Quemadura del sol</dc:title>
+<dc:title type="alternate" xml:lang="es">Rayos ultravioleta</dc:title>
+<dc:title type="alternate" xml:lang="es">Sol, Exposición al</dc:title>
+<dc:title type="alternate" xml:lang="es">Sol, Quemadura</dc:title>
+<dc:title type="alternate" xml:lang="en">Ultraviolet Rays</dc:title>
+<dc:title type="alternate" xml:lang="en">Sunburn</dc:title>
+<dc:title type="alternate" xml:lang="en">Actinic Keratosis</dc:title>
+<dc:title type="alternate" xml:lang="en">Sunscreen</dc:title>
+<dc:type>Text</dc:type>
+<dc:language>spa</dc:language>
+<dc:language>eng</dc:language>
+<dc:title xml:lang="es">Exposición al sol</dc:title>
+<dc:title xml:lang="en">Sun Exposure</dc:title>
+<dc:publisher>National Library of Medicine</dc:publisher>
+<dc:relation type="IsPartOf">Skin, Hair and Nails</dc:relation>
+<dc:date type="created">2002-07-21</dc:date>
+<dc:date type="modified">2018-02-06</dc:date>
+<dc:identifier type="URL" xml:lang="es">https://medlineplus.gov/spanish/sunexposure.html</dc:identifier>
+<dc:identifier type="URL" xml:lang="en">https://medlineplus.gov/sunexposure.html</dc:identifier>
+<dc:description xml:lang="es">Los rayos ultravioleta (UV) son una forma invisible de radiación. Pueden penetrar la piel y dañar las células. Las quemaduras de sol son un signo de daño en la piel. El bronceado tampoco es saludable. Aparece después que los rayos del sol ya mataron algunas células y dañaron otras. Los rayos UV pueden causar lesiones en la piel durante cualquier estación del año y a cualquier temperatura. También pueden causar problemas en los ojos, arrugas, manchas en la piel y cáncer de piel. Para protegerse: Manténgase alejado del sol cuando sus rayos son más fuertes (entre las 10 a.m. y las 4 p.m.) Use protector solar con un SPF de 15 o más Utilice ropa protectora Use anteojos de sol con buena cobertura que le brinden 100 por ciento de protección contra los rayos UV Evite las lámparas solares y las camas para broncearse Revise su piel con regularidad para detectar cambios en el tamaño, la forma, el color o la textura de sus marcas de nacimiento, lunares y manchas. Esos cambios pueden ser un signo de cáncer en la piel. Centros para el Control y la Prevención de Enfermedades</dc:description>
+<dc:description xml:lang="en">Ultraviolet (UV) rays are an invisible form of radiation. They can pass through your skin and damage your skin cells. Sunburns are a sign of skin damage. Suntans aren't healthy, either. They appear after the sun's rays have already killed some cells and damaged others. UV rays can cause skin damage during any season or at any temperature. They can also cause eye problems, wrinkles, skin spots, and skin cancer. To protect yourself Stay out of the sun when it is strongest (between 10 a.m. and 2 p.m.) Use sunscreen with an SPF of 15 or higher Wear protective clothing Wear wraparound sunglasses that provide 100 percent UV ray protection Avoid sunlamps and tanning beds Check your skin regularly for changes in the size, shape, color, or feel of birthmarks, moles, and spots. Such changes are a sign of skin cancer. Food and Drug Administration</dc:description>
+<dc:subject dcterms="mesh">Sunscreening Agents</dc:subject>
+<dc:subject dcterms="mesh">Sunburn</dc:subject>
+<dc:subject dcterms="mesh">Sunbathing</dc:subject>
+<dc:subject xml:lang="es">Exposición al sol</dc:subject>
+<dc:subject xml:lang="es">Broncearse</dc:subject>
+<dc:subject xml:lang="es">Quemadura del sol</dc:subject>
+<dc:subject xml:lang="es">Rayos ultravioleta</dc:subject>
+<dc:subject xml:lang="es">Sol</dc:subject>
+<dc:subject xml:lang="es">Exposición al</dc:subject>
+<dc:subject xml:lang="es">Sol</dc:subject>
+<dc:subject xml:lang="es">Quemadura</dc:subject>
+<dc:subject xml:lang="en">Sun Exposure</dc:subject>
+<dc:subject xml:lang="en">Ultraviolet Rays</dc:subject>
+<dc:subject xml:lang="en">Sunburn</dc:subject>
+<dc:subject xml:lang="en">Actinic Keratosis</dc:subject>
+<dc:subject xml:lang="en">Sunscreen</dc:subject>
+</metadata>
+</record>
+</MedlinePlus-document>

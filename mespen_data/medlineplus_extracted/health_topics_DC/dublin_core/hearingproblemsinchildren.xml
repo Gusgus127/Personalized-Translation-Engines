@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<MedlinePlus-document>
+<record>
+<header>
+<identifier>https://medlineplus.gov/hearingproblemsinchildren.html</identifier>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title type="alternate" xml:lang="es">Audición en niños, Problemas</dc:title>
+<dc:title type="alternate" xml:lang="es">Chicos, Problemas de audición</dc:title>
+<dc:title type="alternate" xml:lang="en">Deafness</dc:title>
+<dc:type>Text</dc:type>
+<dc:language>spa</dc:language>
+<dc:language>eng</dc:language>
+<dc:title xml:lang="es">Problemas de audición en niños</dc:title>
+<dc:title xml:lang="en">Hearing Problems in Children</dc:title>
+<dc:publisher>National Library of Medicine</dc:publisher>
+<dc:relation type="IsPartOf">Children and Teenagers</dc:relation>
+<dc:relation type="IsPartOf">Ear, Nose and Throat</dc:relation>
+<dc:date type="created">2004-02-20</dc:date>
+<dc:date type="modified">2018-02-07</dc:date>
+<dc:identifier type="URL" xml:lang="es">https://medlineplus.gov/spanish/hearingproblemsinchildren.html</dc:identifier>
+<dc:identifier type="URL" xml:lang="en">https://medlineplus.gov/hearingproblemsinchildren.html</dc:identifier>
+<dc:description xml:lang="es">La mayoría de los niños puede oír desde el momento del nacimiento. Aprenden a hablar por imitación de los sonidos que escuchan a su alrededor y de las voces de sus padres y las personas que los cuidan. Pero aproximadamente dos o tres de cada 1.000 niños en los Estados Unidos nacen sordos o con dificultades auditivas. Otros pierden la audición más tarde durante la niñez. Los bebés deben someterse a pruebas auditivas antes de cumplir un mes de edad. Si su niño tiene un problema de audición, es importante considerar el uso de audífonos y otras opciones de comunicación antes de los seis meses de edad. Esto es porque los niños comienzan a aprender el lenguaje mucho antes de hablar. Los problemas auditivos pueden ser temporales o permanentes. Algunas veces, las infecciones de oído, las lesiones o las enfermedades pueden afectar el oído mismo. Si su hijo no oye bien, busque ayuda . NIH: Instituto Nacional de la Sordera y otros Trastornos de la Comunicación</dc:description>
+<dc:description xml:lang="en">Most children hear and listen from the moment they are born. They learn to talk by imitating the sounds around them and the voices of their parents and caregivers. But about 2 or 3 out of every 1,000 children in the United States are born deaf or hard-of-hearing. More lose their hearing later during childhood. Babies should have a hearing screening before they are a month old. If your child has a hearing loss, it is important to consider the use of hearing devices and other communication options by age 6 months. That's because children start learning speech and language long before they talk. Hearing problems can be temporary or permanent. Sometimes, ear infections, injuries or diseases affect hearing. If your child does not hear well, get help. NIH: National Institute on Deafness and Other Communication Disorders</dc:description>
+<dc:subject dcterms="mesh">Hearing Disorders</dc:subject>
+<dc:subject xml:lang="es">Problemas de audición en niños</dc:subject>
+<dc:subject xml:lang="es">Audición en niños</dc:subject>
+<dc:subject xml:lang="es">Problemas</dc:subject>
+<dc:subject xml:lang="es">Chicos</dc:subject>
+<dc:subject xml:lang="es">Problemas de audición</dc:subject>
+<dc:subject xml:lang="en">Hearing Problems in Children</dc:subject>
+<dc:subject xml:lang="en">Deafness</dc:subject>
+</metadata>
+</record>
+</MedlinePlus-document>

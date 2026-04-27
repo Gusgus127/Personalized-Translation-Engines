@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<MedlinePlus-document>
+<record>
+<header>
+<identifier>https://medlineplus.gov/muscledisorders.html</identifier>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title type="alternate" xml:lang="es">Musculares, Enfermedades</dc:title>
+<dc:title type="alternate" xml:lang="es">Miopatía</dc:title>
+<dc:title type="alternate" xml:lang="en">Myopathies</dc:title>
+<dc:title type="alternate" xml:lang="en">Rhabdomyolysis</dc:title>
+<dc:type>Text</dc:type>
+<dc:language>spa</dc:language>
+<dc:language>eng</dc:language>
+<dc:title xml:lang="es">Enfermedades musculares</dc:title>
+<dc:title xml:lang="en">Muscle Disorders</dc:title>
+<dc:publisher>National Library of Medicine</dc:publisher>
+<dc:relation type="IsPartOf">Bones, Joints and Muscles</dc:relation>
+<dc:date type="created">2002-07-21</dc:date>
+<dc:date type="modified">2018-01-29</dc:date>
+<dc:identifier type="URL" xml:lang="es">https://medlineplus.gov/spanish/muscledisorders.html</dc:identifier>
+<dc:identifier type="URL" xml:lang="en">https://medlineplus.gov/muscledisorders.html</dc:identifier>
+<dc:description xml:lang="es">Los músculos lo ayudan a moverse y forman parte del funcionamiento del cuerpo. Los distintos tipos de músculos tienen funciones diferentes. Existen muchos problemas que pueden afectar a los músculos. Las enfermedades musculares pueden causar debilidad, dolor o inclusive parálisis. Algunas causas conocidas son: Lesiones o exceso de uso, como en torceduras y distensiones, calambres o tendinitis Genéticas, como la distrofia muscular Cáncer Inflamación, como la miositis Enfermedades de los nervios que afectan a los músculos Infecciones Algunas medicinas Otras veces, la causa se desconoce.</dc:description>
+<dc:description xml:lang="en">Your muscles help you move and help your body work. Different types of muscles have different jobs. There are many problems that can affect muscles. Muscle disorders can cause weakness, pain or even paralysis. Causes of muscle disorders include Injury or overuse, such as sprains or strains, cramps or tendinitis A genetic disorder, such as muscular dystrophy Some cancers Inflammation, such as myositis Diseases of nerves that affect muscles Infections Certain medicines Sometimes the cause is not known.</dc:description>
+<dc:subject dcterms="mesh">Muscular Diseases</dc:subject>
+<dc:subject xml:lang="es">Enfermedades musculares</dc:subject>
+<dc:subject xml:lang="es">Musculares</dc:subject>
+<dc:subject xml:lang="es">Enfermedades</dc:subject>
+<dc:subject xml:lang="es">Miopatía</dc:subject>
+<dc:subject xml:lang="en">Muscle Disorders</dc:subject>
+<dc:subject xml:lang="en">Myopathies</dc:subject>
+<dc:subject xml:lang="en">Rhabdomyolysis</dc:subject>
+</metadata>
+</record>
+</MedlinePlus-document>

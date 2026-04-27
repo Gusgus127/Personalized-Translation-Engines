@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<MedlinePlus-document>
+<record>
+<header>
+<identifier>https://medlineplus.gov/assistedreproductivetechnology.html</identifier>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:type>Text</dc:type>
+<dc:language>spa</dc:language>
+<dc:language>eng</dc:language>
+<dc:title xml:lang="es">Tecnología de reproducción asistida</dc:title>
+<dc:title xml:lang="en">Assisted Reproductive Technology</dc:title>
+<dc:publisher>National Library of Medicine</dc:publisher>
+<dc:relation type="IsPartOf">Male Reproductive System</dc:relation>
+<dc:relation type="IsPartOf">Female Reproductive System</dc:relation>
+<dc:date type="created">2015-10-26</dc:date>
+<dc:date type="modified">2017-08-16</dc:date>
+<dc:identifier type="URL" xml:lang="es">https://medlineplus.gov/spanish/assistedreproductivetechnology.html</dc:identifier>
+<dc:identifier type="URL" xml:lang="en">https://medlineplus.gov/assistedreproductivetechnology.html</dc:identifier>
+<dc:description xml:lang="es">La tecnología de reproducción asistida se usa para tratar la infertilidad. Incluye tratamientos de fertilidad que manejan tanto los óvulos de una mujer como los espermatozoides de un hombre. Consiste en extraer los óvulos del cuerpo de una mujer, los que se mezclan con esperma para producir embriones. Luego los embriones se colocan en el cuerpo de la mujer. La fertilización in vitro es el tipo más común y eficaz de Tecnología de Reproducción Asistida. Los procedimientos de tecnología de reproducción asistida a veces usan óvulos de donantes, un donante de esperma o embriones previamente congelados. También pueden utilizar una madre subrogada tradicional o gestacional. Una madre subrogada tradicional (también llamada vientre de alquiler) es una mujer que queda embarazada con el esperma del hombre de la pareja. Una madre subrogada gestacional queda embarazada con un óvulo de la pareja femenina y esperma de la pareja masculina. La complicación más común de tecnología de reproducción asistida es un embarazo múltiple. Se puede prevenir o minimizar limitando el número de embriones que se colocan en el cuerpo de la mujer.</dc:description>
+<dc:description xml:lang="en">Assisted reproductive technology (ART) is used to treat infertility. It includes fertility treatments that handle both a woman's egg and a man's sperm. It works by removing eggs from a woman's body. The eggs are then mixed with sperm to make embryos. The embryos are then put back in the woman's body. In vitro fertilization (IVF) is the most common and effective type of ART. ART procedures sometimes use donor eggs, donor sperm, or previously frozen embryos. It may also involve a surrogate or gestational carrier. A surrogate is a woman who becomes pregnant with sperm from the male partner of the couple. A gestational carrier becomes pregnant with an egg from the female partner and the sperm from the male partner. The most common complication of ART is a multiple pregnancy. It can be prevented or minimized by limiting the number of embryos that are put into the woman's body.</dc:description>
+<dc:subject dcterms="mesh">In Vitro Techniques</dc:subject>
+<dc:subject dcterms="mesh">Reproductive Techniques, Assisted</dc:subject>
+<dc:subject xml:lang="es">Tecnología de reproducción asistida</dc:subject>
+<dc:subject xml:lang="en">Assisted Reproductive Technology</dc:subject>
+<dc:subject xml:lang="en">In Vitro Fertilization</dc:subject>
+<dc:subject xml:lang="en">IVF</dc:subject>
+<dc:subject xml:lang="en">Sperm Donation</dc:subject>
+<dc:subject xml:lang="en">Egg Donation</dc:subject>
+<dc:subject xml:lang="en">Surrogate </dc:subject>
+<dc:subject xml:lang="en">Gestational Carrier </dc:subject>
+</metadata>
+</record>
+</MedlinePlus-document>

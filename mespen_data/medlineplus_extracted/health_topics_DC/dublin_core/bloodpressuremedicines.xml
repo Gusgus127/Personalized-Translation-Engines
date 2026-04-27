@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<MedlinePlus-document>
+<record>
+<header>
+<identifier>https://medlineplus.gov/bloodpressuremedicines.html</identifier>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title type="alternate" xml:lang="es">Hipertensión, Medicamentos</dc:title>
+<dc:title type="alternate" xml:lang="es">Presión arterial, Medicinas</dc:title>
+<dc:title type="alternate" xml:lang="es">Tensión arterial, Medicinas</dc:title>
+<dc:title type="alternate" xml:lang="es">Presión sanguínea, Medicinas</dc:title>
+<dc:title type="alternate" xml:lang="es">Presión, Remedios</dc:title>
+<dc:title type="alternate" xml:lang="en">Antihypertensive Medicines</dc:title>
+<dc:title type="alternate" xml:lang="en">High Blood Pressure Medicines</dc:title>
+<dc:type>Text</dc:type>
+<dc:language>spa</dc:language>
+<dc:language>eng</dc:language>
+<dc:title xml:lang="es">Medicinas para la presión arterial</dc:title>
+<dc:title xml:lang="en">Blood Pressure Medicines</dc:title>
+<dc:publisher>National Library of Medicine</dc:publisher>
+<dc:relation type="IsPartOf">Blood, Heart and Circulation</dc:relation>
+<dc:relation type="IsPartOf">Drug Therapy</dc:relation>
+<dc:date type="created">2009-07-29</dc:date>
+<dc:date type="modified">2018-02-07</dc:date>
+<dc:identifier type="URL" xml:lang="es">https://medlineplus.gov/spanish/bloodpressuremedicines.html</dc:identifier>
+<dc:identifier type="URL" xml:lang="en">https://medlineplus.gov/bloodpressuremedicines.html</dc:identifier>
+<dc:description xml:lang="es">La presión arterial alta, llamada también hipertensión, generalmente no presenta síntomas. Sin embargo puede causar problemas tan serios como un ataque cerebral, fallo cardíaco, ataque al corazón e insuficiencia renal. Si usted no puede controlar su hipertensión mediante hábitos de vida saludables como bajar de peso y reducir el sodio en su dieta, tal vez su médico deba recetarle medicinas. Las medicinas para la presión arterial operan de varias formas. Algunas quitan el exceso de líquidos y sal del cuerpo para bajar la presión sanguínea. Otras hacen más lentos los latidos del corazón o aflojan y ensanchan los vasos sanguíneos. A menudo, dos o más medicinas combinadas funcionan mejor que una sola. NIH: Instituto Nacional del Corazón, los Pulmones y la Sangre</dc:description>
+<dc:description xml:lang="en">High blood pressure, also called hypertension, usually has no symptoms. But it can cause serious problems such as stroke, heart failure, heart attack and kidney failure. If you cannot control your high blood pressure through lifestyle changes such as losing weight and reducing sodium in your diet, you may need medicines. Blood pressure medicines work in different ways to lower blood pressure. Some remove extra fluid and salt from the body. Others slow down the heartbeat or relax and widen blood vessels. Often, two or more medicines work better than one. NIH: National Heart, Lung, and Blood Institute</dc:description>
+<dc:subject dcterms="mesh">Antihypertensive Agents</dc:subject>
+<dc:subject xml:lang="es">Medicinas para la presión arterial</dc:subject>
+<dc:subject xml:lang="es">Hipertensión</dc:subject>
+<dc:subject xml:lang="es">Medicamentos</dc:subject>
+<dc:subject xml:lang="es">Presión arterial</dc:subject>
+<dc:subject xml:lang="es">Medicinas</dc:subject>
+<dc:subject xml:lang="es">Tensión arterial</dc:subject>
+<dc:subject xml:lang="es">Medicinas</dc:subject>
+<dc:subject xml:lang="es">Presión sanguínea</dc:subject>
+<dc:subject xml:lang="es">Medicinas</dc:subject>
+<dc:subject xml:lang="es">Presión</dc:subject>
+<dc:subject xml:lang="es">Remedios</dc:subject>
+<dc:subject xml:lang="en">Blood Pressure Medicines</dc:subject>
+<dc:subject xml:lang="en">Antihypertensive Medicines</dc:subject>
+<dc:subject xml:lang="en">High Blood Pressure Medicines</dc:subject>
+</metadata>
+</record>
+</MedlinePlus-document>

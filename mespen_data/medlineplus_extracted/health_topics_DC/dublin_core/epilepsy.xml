@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<MedlinePlus-document>
+<record>
+<header>
+<identifier>https://medlineplus.gov/epilepsy.html</identifier>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:type>Text</dc:type>
+<dc:language>spa</dc:language>
+<dc:language>eng</dc:language>
+<dc:title xml:lang="es">Epilepsia</dc:title>
+<dc:title xml:lang="en">Epilepsy</dc:title>
+<dc:publisher>National Library of Medicine</dc:publisher>
+<dc:relation type="IsPartOf">Brain and Nerves</dc:relation>
+<dc:date type="created">2002-07-21</dc:date>
+<dc:date type="modified">2018-01-29</dc:date>
+<dc:identifier type="URL" xml:lang="es">https://medlineplus.gov/spanish/epilepsy.html</dc:identifier>
+<dc:identifier type="URL" xml:lang="en">https://medlineplus.gov/epilepsy.html</dc:identifier>
+<dc:description xml:lang="es">La epilepsia es un trastorno cerebral que hace que las personas tengan convulsiones recurrentes. Las convulsiones ocurren cuando los grupos de células nerviosas (neuronas) del cerebro envían señales erróneas. Las personas pueden tener sensaciones y emociones extrañas o comportarse de una manera rara. Pueden tener espasmos musculares violentos o perder el conocimiento. La epilepsia tiene muchas causas posibles, que incluyen las enfermedades, lesiones cerebrales y el desarrollo cerebral anormal. A pesar de eso, en muchos casos se desconoce la causa. Los médicos usan estudios cerebrales y otras pruebas para diagnosticar la epilepsia. Es importante iniciar el tratamiento de inmediato. No existe una cura para la epilepsia, pero en la mayoría de los casos las medicinas pueden controlar las convulsiones. Cuando los medicamentos no funcionan bien, la cirugía o los dispositivos implantados, como los estimuladores vagales, pueden ayudar. Las dietas especiales pueden ayudar a ciertos niños epilépticos. NIH: Instituto Nacional de Trastornos Neurológicos y Accidentes Cerebrovasculares</dc:description>
+<dc:description xml:lang="en">Epilepsy is a brain disorder that causes people to have recurring seizures. The seizures happen when clusters of nerve cells, or neurons, in the brain send out the wrong signals. People may have strange sensations and emotions or behave strangely. They may have violent muscle spasms or lose consciousness. Epilepsy has many possible causes, including illness, brain injury, and abnormal brain development. In many cases, the cause is unknown. Doctors use brain scans and other tests to diagnose epilepsy. It is important to start treatment right away. There is no cure for epilepsy, but medicines can control seizures for most people. When medicines are not working well, surgery or implanted devices such as vagus nerve stimulators may help. Special diets can help some children with epilepsy. NIH: National Institute of Neurological Disorders and Stroke</dc:description>
+<dc:subject dcterms="mesh">Epilepsy</dc:subject>
+<dc:subject xml:lang="es">Epilepsia</dc:subject>
+<dc:subject xml:lang="en">Epilepsy</dc:subject>
+</metadata>
+</record>
+</MedlinePlus-document>

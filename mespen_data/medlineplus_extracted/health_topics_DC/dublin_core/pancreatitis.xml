@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<MedlinePlus-document>
+<record>
+<header>
+<identifier>https://medlineplus.gov/pancreatitis.html</identifier>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title type="alternate" xml:lang="es">Pancreatitis crónica</dc:title>
+<dc:title type="alternate" xml:lang="es">Pancreatitis aguda</dc:title>
+<dc:title type="alternate" xml:lang="en">Chronic Pancreatitis</dc:title>
+<dc:title type="alternate" xml:lang="en">Acute Pancreatitis</dc:title>
+<dc:type>Text</dc:type>
+<dc:language>spa</dc:language>
+<dc:language>eng</dc:language>
+<dc:title xml:lang="es">Pancreatitis</dc:title>
+<dc:title xml:lang="en">Pancreatitis</dc:title>
+<dc:publisher>National Library of Medicine</dc:publisher>
+<dc:relation type="IsPartOf">Digestive System</dc:relation>
+<dc:date type="created">2011-09-29</dc:date>
+<dc:date type="modified">2018-01-18</dc:date>
+<dc:identifier type="URL" xml:lang="es">https://medlineplus.gov/spanish/pancreatitis.html</dc:identifier>
+<dc:identifier type="URL" xml:lang="en">https://medlineplus.gov/pancreatitis.html</dc:identifier>
+<dc:description xml:lang="es">El páncreas es una glándula grande ubicada detrás del estómago y cerca de la primera parte del intestino delgado que segrega jugos digestivos en el intestino delgado a través de un tubo llamado conducto pancreático. El páncreas también libera las hormonas insulina y glucagón en la sangre. La pancreatitis es una inflamación del páncreas. Esto ocurre cuando las enzimas digestivas comienzan a digerir el páncreas. La pancreatitis puede ser aguda o crónica. De cualquier forma es grave y puede traer complicaciones. La pancreatitis aguda ocurre de repente y generalmente desaparece en pocos días con tratamiento. A menudo es causada por cálculos biliares. Los síntomas comunes son dolor intenso en la parte superior del abdomen, náuseas y vómitos. El tratamiento suele ser fluidos, antibióticos y analgésicos por vía intravenosa durante unos días en el hospital. La pancreatitis crónica no se cura o mejora. Empeora con el tiempo y lleva a daño permanente. La causa más común es un consumo excesivo de alcohol. Otras causas pueden ser fibrosis quística y otras enfermedades heredadas, grandes cantidades de calcio o grasa en la sangre, algunos medicamentos y enfermedades autoinmunes. Los síntomas incluyen nauseas, vómitos, pérdida de peso y heces grasosas. El tratamiento suele ser fluidos, analgésicos por vía intravenosa y nutrición artificial durante unos días en el hospital. Luego de su estadía en el hospital, deberá tomar enzimas y llevar una dieta especial. También es importante no fumar ni beber alcohol. NIH: Instituto Nacional de la Diabetes y las Enfermedades Digestivas y Renales</dc:description>
+<dc:description xml:lang="en">The pancreas is a large gland behind the stomach and close to the first part of the small intestine. It secretes digestive juices into the small intestine through a tube called the pancreatic duct. The pancreas also releases the hormones insulin and glucagon into the bloodstream. Pancreatitis is inflammation of the pancreas. It happens when digestive enzymes start digesting the pancreas itself. Pancreatitis can be acute or chronic. Either form is serious and can lead to complications. Acute pancreatitis occurs suddenly and usually goes away in a few days with treatment. It is often caused by gallstones. Common symptoms are severe pain in the upper abdomen, nausea, and vomiting. Treatment is usually a few days in the hospital for intravenous (IV) fluids, antibiotics, and medicines to relieve pain. Chronic pancreatitis does not heal or improve. It gets worse over time and leads to permanent damage. The most common cause is heavy alcohol use. Other causes include cystic fibrosis and other inherited disorders, high levels of calcium or fats in the blood, some medicines, and autoimmune conditions. Symptoms include nausea, vomiting, weight loss, and oily stools. Treatment may also be a few days in the hospital for intravenous (IV) fluids, medicines to relieve pain, and nutritional support. After that, you may need to start taking enzymes and eat a special diet. It is also important to not smoke or drink alcohol. NIH: National Institute of Diabetes and Digestive and Kidney Diseases</dc:description>
+<dc:subject dcterms="mesh">Pancreatitis</dc:subject>
+<dc:subject xml:lang="es">Pancreatitis</dc:subject>
+<dc:subject xml:lang="es">Pancreatitis crónica</dc:subject>
+<dc:subject xml:lang="es">Pancreatitis aguda</dc:subject>
+<dc:subject xml:lang="en">Pancreatitis</dc:subject>
+<dc:subject xml:lang="en">Chronic Pancreatitis</dc:subject>
+<dc:subject xml:lang="en">Acute Pancreatitis</dc:subject>
+</metadata>
+</record>
+</MedlinePlus-document>

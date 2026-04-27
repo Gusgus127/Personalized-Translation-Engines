@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<MedlinePlus-document>
+<record>
+<header>
+<identifier>https://medlineplus.gov/hives.html</identifier>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:type>Text</dc:type>
+<dc:language>spa</dc:language>
+<dc:language>eng</dc:language>
+<dc:title xml:lang="es">Urticaria</dc:title>
+<dc:title xml:lang="en">Hives</dc:title>
+<dc:publisher>National Library of Medicine</dc:publisher>
+<dc:relation type="IsPartOf">Symptoms</dc:relation>
+<dc:relation type="IsPartOf">Skin, Hair and Nails</dc:relation>
+<dc:relation type="IsPartOf">Immune System</dc:relation>
+<dc:date type="created">2002-07-21</dc:date>
+<dc:date type="modified">2017-12-28</dc:date>
+<dc:identifier type="URL" xml:lang="es">https://medlineplus.gov/spanish/hives.html</dc:identifier>
+<dc:identifier type="URL" xml:lang="en">https://medlineplus.gov/hives.html</dc:identifier>
+<dc:description xml:lang="es">La urticaria son ronchas rojizas que a veces producen picazón en la piel. Suele ser causada por una reacción alérgica a un medicamento o una comida. Las reacciones alérgicas provocan en el cuerpo la liberación de sustancias químicas que hacen que la piel se inflame y se formen las ronchas. Las personas que tienen otras alergias son más propensas a tener urticaria. Entre otras posibles causas se encuentran las infecciones y el estrés. La urticaria es muy común. Suele desaparecer por sí sola, pero si el caso es serio, es posible que se necesiten medicinas o una inyección. En raras ocasiones, la urticaria puede causar una inflamación peligrosa en las vías respiratorias y dificultar la respiración. Esto es una emergencia médica.</dc:description>
+<dc:description xml:lang="en">Hives are red and sometimes itchy bumps on your skin. An allergic reaction to a drug or food usually causes them. Allergic reactions cause your body to release chemicals that can make your skin swell up in hives. People who have other allergies are more likely to get hives than other people. Other causes include infections and stress. Hives are very common. They usually go away on their own, but if you have a serious case, you might need medicine or a shot. In rare cases, hives can cause a dangerous swelling in your airways, making it hard to breathe - which is a medical emergency.</dc:description>
+<dc:subject dcterms="mesh">Urticaria</dc:subject>
+<dc:subject xml:lang="es">Urticaria</dc:subject>
+<dc:subject xml:lang="en">Hives</dc:subject>
+<dc:subject xml:lang="en">Urticaria</dc:subject>
+</metadata>
+</record>
+</MedlinePlus-document>

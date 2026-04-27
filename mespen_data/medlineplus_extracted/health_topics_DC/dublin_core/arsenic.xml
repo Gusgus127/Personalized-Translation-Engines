@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<MedlinePlus-document>
+<record>
+<header>
+<identifier>https://medlineplus.gov/arsenic.html</identifier>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:type>Text</dc:type>
+<dc:language>spa</dc:language>
+<dc:language>eng</dc:language>
+<dc:title xml:lang="es">Arsénico</dc:title>
+<dc:title xml:lang="en">Arsenic</dc:title>
+<dc:publisher>National Library of Medicine</dc:publisher>
+<dc:relation type="IsPartOf">Poisoning, Toxicology, Environmental Health</dc:relation>
+<dc:date type="created">2003-04-18</dc:date>
+<dc:date type="modified">2017-06-05</dc:date>
+<dc:identifier type="URL" xml:lang="es">https://medlineplus.gov/spanish/arsenic.html</dc:identifier>
+<dc:identifier type="URL" xml:lang="en">https://medlineplus.gov/arsenic.html</dc:identifier>
+<dc:description xml:lang="es">El arsénico es un elemento natural que se encuentra en la tierra y entre los minerales. Los componentes del arsénico se usan para preservar la madera, como plaguicidas y en ciertas industrias. El arsénico forma parte del aire, el agua y la tierra a través del polvo que se lleva el viento. También puede penetrar en el agua debido a los desbordamientos. Usted puede quedar expuesto al arsénico por: Ingerirlo en pequeñas cantidades en los alimentos, el agua o el aire Inhalar aserrín o humo al quemarse las maderas tratadas con arsénico Vivir en un área con altos niveles de arsénico en la roca Tener un trabajo en el que se produzca o se use arsénico La exposición al arsénico puede causar muchos problemas de salud. La exposición por tiempo prolongado a niveles bajos puede cambiar el color de la piel. Puede causar callos y pequeñas verrugas. La exposición a niveles elevados de arsénico puede provocar la muerte. Agencia para Sustancias Tóxicas y el Registro de Enfermedades</dc:description>
+<dc:description xml:lang="en">Arsenic is a natural element found in soil and minerals. Arsenic compounds are used to preserve wood, as pesticides, and in some industries. Arsenic can get into air, water, and the ground from wind-blown dust. It may also get into water from runoff. You may be exposed to arsenic by Taking in small amounts in food, drinking water, or air Breathing sawdust or burning smoke from arsenic-treated wood Living in an area with high levels of arsenic in rock Working in a job where arsenic is made or used Exposure to arsenic can cause many health problems. Being exposed to low levels for a long time can change the color of your skin. It can cause corns and small warts. Exposure to high levels of arsenic can cause death. Agency for Toxic Substances Disease Registry</dc:description>
+<dc:subject dcterms="mesh">Arsenic Poisoning</dc:subject>
+<dc:subject dcterms="mesh">Arsenic</dc:subject>
+<dc:subject xml:lang="es">Arsénico</dc:subject>
+<dc:subject xml:lang="en">Arsenic</dc:subject>
+</metadata>
+</record>
+</MedlinePlus-document>

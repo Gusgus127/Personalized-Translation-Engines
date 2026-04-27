@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<MedlinePlus-document>
+<record>
+<header>
+<identifier>https://medlineplus.gov/hepatitis.html</identifier>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title type="alternate" xml:lang="es">Hepatitis viral</dc:title>
+<dc:title type="alternate" xml:lang="en">Viral Hepatitis</dc:title>
+<dc:type>Text</dc:type>
+<dc:language>spa</dc:language>
+<dc:language>eng</dc:language>
+<dc:title xml:lang="es">Hepatitis</dc:title>
+<dc:title xml:lang="en">Hepatitis</dc:title>
+<dc:publisher>National Library of Medicine</dc:publisher>
+<dc:relation type="IsPartOf">Infections</dc:relation>
+<dc:relation type="IsPartOf">Digestive System</dc:relation>
+<dc:date type="created">2002-12-30</dc:date>
+<dc:date type="modified">2017-11-13</dc:date>
+<dc:identifier type="URL" xml:lang="es">https://medlineplus.gov/spanish/hepatitis.html</dc:identifier>
+<dc:identifier type="URL" xml:lang="en">https://medlineplus.gov/hepatitis.html</dc:identifier>
+<dc:description xml:lang="es">El hígado es el órgano más grande dentro de su cuerpo. Ayuda al organismo a digerir los alimentos, almacenar energía y eliminar las toxinas. La hepatitis es una inflamación del hígado. Los virus causan la mayoría de los casos de hepatitis. El tipo de hepatitis recibe su nombre de acuerdo con el virus que la produjo; por ejemplo, hepatitis A, hepatitis B o hepatitis C. El consumo de drogas o alcohol también puede provocar una hepatitis. En otros casos, su organismo ataca por equivocación células sanas en el hígado. Algunas personas que tienen hepatitis no presentan síntomas. Otras pueden presentar: Pérdida del apetito Náusea y vómitos Diarrea Orina oscura y evacuaciones de coloración pálida Dolor abdominal Ictericia, tonalidad amarilla de la piel y los ojos Algunas formas de hepatitis son leves, y otros pueden ser graves. Algunas pueden conducir a la cicatrización, llamada cirrosis, o provocar cáncer de hígado. Algunas veces, la hepatitis desaparece por sí sola. Si no sucede así, puede tratarse con fármacos. Otras veces, la hepatitis dura toda la vida. Las vacunas pueden ayudar a prevenir algunas formas virales.</dc:description>
+<dc:description xml:lang="en">Your liver is the largest organ inside your body. It helps your body digest food, store energy, and remove poisons. Hepatitis is an inflammation of the liver. Viruses cause most cases of hepatitis. The type of hepatitis is named for the virus that causes it; for example, hepatitis A, hepatitis B or hepatitis C. Drug or alcohol use can also cause hepatitis. In other cases, your body mistakenly attacks healthy cells in the liver. Some people who have hepatitis have no symptoms. Others may have Loss of appetite Nausea and vomiting Diarrhea Dark-colored urine and pale bowel movements Stomach pain Jaundice, yellowing of skin and eyes Some forms of hepatitis are mild, and others can be serious. Some can lead to scarring, called cirrhosis, or to liver cancer. Sometimes hepatitis goes away by itself. If it does not, it can be treated with drugs. Sometimes hepatitis lasts a lifetime. Vaccines can help prevent some viral forms.</dc:description>
+<dc:subject dcterms="mesh">Hepatitis</dc:subject>
+<dc:subject xml:lang="es">Hepatitis</dc:subject>
+<dc:subject xml:lang="es">Hepatitis viral</dc:subject>
+<dc:subject xml:lang="en">Hepatitis</dc:subject>
+<dc:subject xml:lang="en">Viral Hepatitis</dc:subject>
+</metadata>
+</record>
+</MedlinePlus-document>

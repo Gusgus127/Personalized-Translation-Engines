@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<MedlinePlus-document>
+<record>
+<header>
+<identifier>https://medlineplus.gov/thyroidcancer.html</identifier>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title type="alternate" xml:lang="es">Tiroides, Cáncer de</dc:title>
+<dc:type>Text</dc:type>
+<dc:language>spa</dc:language>
+<dc:language>eng</dc:language>
+<dc:title xml:lang="es">Cáncer de tiroides</dc:title>
+<dc:title xml:lang="en">Thyroid Cancer</dc:title>
+<dc:publisher>National Library of Medicine</dc:publisher>
+<dc:relation type="IsPartOf">Cancers</dc:relation>
+<dc:relation type="IsPartOf">Ear, Nose and Throat</dc:relation>
+<dc:relation type="IsPartOf">Endocrine System</dc:relation>
+<dc:date type="created">2002-07-21</dc:date>
+<dc:date type="modified">2018-01-04</dc:date>
+<dc:identifier type="URL" xml:lang="es">https://medlineplus.gov/spanish/thyroidcancer.html</dc:identifier>
+<dc:identifier type="URL" xml:lang="en">https://medlineplus.gov/thyroidcancer.html</dc:identifier>
+<dc:description xml:lang="es">La tiroides es una glándula en forma de mariposa ubicada en el cuello, justo arriba de la clavícula. Produce hormonas que ayudan al cuerpo a funcionar normalmente. Hay varios tipos de cáncer de la glándula tiroides. Usted está en mayor riesgo si: Tiene entre 25 y 65 años Es mujer De origen asiático Tiene antecedentes familiares de enfermedad tiroidea Ha recibido radioterapia en la cabeza o el cuello Debe consultar a un médico si nota un nódulo o una inflamación en el cuello. Los médicos utilizan un examen físico, pruebas para la tiroides, pruebas de imagen y una biopsia para diagnosticar el cáncer de tiroides. El tratamiento depende del tipo y de la diseminación del cáncer. Muchos pacientes reciben una combinación de tratamientos, incluyendo cirugía, iodo radioactivo, radioterapia, quimioterapia o terapia dirigida. La terapia dirigida usa sustancias que atacan las células del cáncer sin dañar las células normales. NIH: Instituto Nacional del Cáncer</dc:description>
+<dc:description xml:lang="en">Your thyroid is a butterfly-shaped gland in your neck, just above your collarbone. It makes hormones that help the body work normally. There are several types of cancer of the thyroid gland. You are at greater risk if you Are between ages 25 and 65 Are a woman Are Asian Have a family member who has had thyroid disease Have had radiation treatments to your head or neck You should see a doctor if you have a lump or swelling in your neck. Doctors use a physical exam, thyroid tests, other blood and imaging tests, and a biopsy to diagnose thyroid cancer. Treatment depends on the type of cancer you have and how far the cancer has spread. Many patients receive a combination of treatments. They may include surgery, radioactive iodine, hormone treatment, radiation therapy, chemotherapy, or targeted therapy. Targeted therapy uses substances that attack cancer cells without harming normal cells. NIH: National Cancer Institute</dc:description>
+<dc:subject dcterms="mesh">Thyroid Neoplasms</dc:subject>
+<dc:subject xml:lang="es">Cáncer de tiroides</dc:subject>
+<dc:subject xml:lang="es">Tiroides</dc:subject>
+<dc:subject xml:lang="es">Cáncer de</dc:subject>
+<dc:subject xml:lang="en">Thyroid Cancer</dc:subject>
+</metadata>
+</record>
+</MedlinePlus-document>

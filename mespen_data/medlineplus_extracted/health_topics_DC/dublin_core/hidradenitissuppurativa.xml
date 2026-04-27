@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<MedlinePlus-document>
+<record>
+<header>
+<identifier>https://medlineplus.gov/hidradenitissuppurativa.html</identifier>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:type>Text</dc:type>
+<dc:language>spa</dc:language>
+<dc:language>eng</dc:language>
+<dc:title xml:lang="es">Hidradenitis supurada</dc:title>
+<dc:title xml:lang="en">Hidradenitis Suppurativa</dc:title>
+<dc:publisher>National Library of Medicine</dc:publisher>
+<dc:relation type="IsPartOf">Skin, Hair and Nails</dc:relation>
+<dc:date type="modified"/>
+<dc:identifier type="URL" xml:lang="es">https://medlineplus.gov/spanish/hidradenitissuppurativa.html</dc:identifier>
+<dc:identifier type="URL" xml:lang="en">https://medlineplus.gov/hidradenitissuppurativa.html</dc:identifier>
+<dc:description xml:lang="es"/>
+<dc:description xml:lang="en">Hidradenitis suppurativa (HS) is a chronic skin disease. It can occur in one or multiple areas of your body. HS usually develops in your armpits, groin, and anal area. It causes long-term skin inflammation and can be painful. Symptoms include Blackheads and red, tender bumps, called abscesses. The abscesses get bigger, break open, and leak pus Tunnels that form under the skin between abscesses Scarring No one knows what causes HS. It is more common in women, African Americans, and people who have had acne. It usually starts after the teenage years. Treatments include antibiotics, anti-inflammatory medicines, and sometimes surgery. Losing weight or wearing looser clothing may help some patients avoid skin irritation.</dc:description>
+<dc:subject dcterms="mesh">Hidradenitis Suppurativa</dc:subject>
+<dc:subject xml:lang="es">Hidradenitis supurada</dc:subject>
+<dc:subject xml:lang="en">Hidradenitis Suppurativa</dc:subject>
+</metadata>
+</record>
+</MedlinePlus-document>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<MedlinePlus-document>
+<record>
+<header>
+<identifier>https://medlineplus.gov/disasterpreparationandrecovery.html</identifier>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:type>Text</dc:type>
+<dc:language>spa</dc:language>
+<dc:language>eng</dc:language>
+<dc:title xml:lang="es">Preparativos y recuperación ante un desastre</dc:title>
+<dc:title xml:lang="en">Disaster Preparation and Recovery</dc:title>
+<dc:publisher>National Library of Medicine</dc:publisher>
+<dc:relation type="IsPartOf">Disasters</dc:relation>
+<dc:date type="created">2002-07-21</dc:date>
+<dc:date type="modified">2017-12-14</dc:date>
+<dc:identifier type="URL" xml:lang="es">https://medlineplus.gov/spanish/disasterpreparationandrecovery.html</dc:identifier>
+<dc:identifier type="URL" xml:lang="en">https://medlineplus.gov/disasterpreparationandrecovery.html</dc:identifier>
+<dc:description xml:lang="es">La preparación para un desastre puede disminuir el miedo, la ansiedad y las pérdidas que puede causar el desastre. Puede tratarse de un desastre natural, como un huracán o un tornado. También puede ser causado por el hombre, como un ataque terrorista o un derrame de sustancias químicas. Debe conocer los signos de riesgo y peligro de los distintos tipos de desastres. También debe tener un plan ante un desastre. Asegúrese de evacuar su casa y saber cómo tratar problemas médicos básicos. Asegúrese también de tener el seguro que necesita, inclusive algunos tipos especiales, como el seguro contra inundaciones. Independientemente del tipo de desastre que ocurra, siempre provoca un disturbio emocional. La recuperación después de un desastre puede llevar cierto tiempo. Manténgase en contacto con sus familiares y amigos durante ese período.</dc:description>
+<dc:description xml:lang="en">Preparing for a disaster can reduce the fear, anxiety and losses that disasters cause. A disaster can be a natural disaster, like a hurricane, tornado, flood or earthquake. It might also be man-made, like a bioterrorist attack or chemical spill. You should know the risks and danger signs of different types of disasters. You should also have a disaster plan. Be ready to evacuate your home, and know how to treat basic medical problems. Make sure you have the insurance you need, including special types, like flood insurance. No matter what kind of disaster you experience, it causes emotional distress. After a disaster, recovery can take time. Stay connected to your family and friends during this period. Federal Emergency Management Agency</dc:description>
+<dc:subject dcterms="mesh">Relief Work</dc:subject>
+<dc:subject dcterms="mesh">Rescue Work</dc:subject>
+<dc:subject dcterms="mesh">Disaster Planning</dc:subject>
+<dc:subject dcterms="mesh">Disaster Victims</dc:subject>
+<dc:subject dcterms="mesh">Disasters</dc:subject>
+<dc:subject xml:lang="es">Preparativos y recuperación ante un desastre</dc:subject>
+<dc:subject xml:lang="en">Disaster Preparation and Recovery</dc:subject>
+<dc:subject xml:lang="en">Emergency Preparedness</dc:subject>
+</metadata>
+</record>
+</MedlinePlus-document>

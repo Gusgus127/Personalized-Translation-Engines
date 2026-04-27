@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<MedlinePlus-document>
+<record>
+<header>
+<identifier>https://medlineplus.gov/cardiomyopathy.html</identifier>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:type>Text</dc:type>
+<dc:language>spa</dc:language>
+<dc:language>eng</dc:language>
+<dc:title xml:lang="es">Cardiomiopatía</dc:title>
+<dc:title xml:lang="en">Cardiomyopathy</dc:title>
+<dc:publisher>National Library of Medicine</dc:publisher>
+<dc:relation type="IsPartOf">Blood, Heart and Circulation</dc:relation>
+<dc:date type="created">2004-02-11</dc:date>
+<dc:date type="modified">2018-02-07</dc:date>
+<dc:identifier type="URL" xml:lang="es">https://medlineplus.gov/spanish/cardiomyopathy.html</dc:identifier>
+<dc:identifier type="URL" xml:lang="en">https://medlineplus.gov/cardiomyopathy.html</dc:identifier>
+<dc:description xml:lang="es">Cardiomiopatía es el nombre que se usa para llamar a las enfermedades del músculo cardíaco. Estas enfermedades aumentan el tamaño del corazón o lo hacen más grueso y rígido que lo normal. En raros casos, el tejido cicatrizante reemplaza el tejido muscular. Algunas personas con cardiomiopatía tienen vidas largas y sanas. Muchas de ellas no se dan cuenta de que la tienen. Sin embargo, en otros casos puede hacer que el corazón sea menos capaz de bombear sangre a todo el cuerpo. Esto puede causar complicaciones serias, entre ellas: Insuficiencia cardiaca Ritmos cardíacos anormales Paro cardíaco Los infartos, la hipertensión arterial, algunas infecciones y otras enfermedades también pueden causar cardiomiopatía. Algunos tipos de cardiomiopatía son hereditarios. A pesar de eso, en muchas personas se desconoce la causa. El tratamiento puede incluir medicinas, cirugía, otros procedimientos médicos y cambios en el estilo de vida. NIH: Instituto Nacional del Corazón, los Pulmones y la Sangre</dc:description>
+<dc:description xml:lang="en">Cardiomyopathy is the name for diseases of the heart muscle. These diseases enlarge your heart muscle or make it thicker and more rigid than normal. In rare cases, scar tissue replaces the muscle tissue. Some people live long, healthy lives with cardiomyopathy. Some people don't even realize they have it. In others, however, it can make the heart less able to pump blood through the body. This can cause serious complications, including Heart failure Abnormal heart rhythms Heart valve problems Sudden cardiac arrest Heart attacks, high blood pressure, infections, and other diseases can all cause cardiomyopathy. Some types of cardiomyopathy run in families. In many people, however, the cause is unknown. Treatment might involve medicines, surgery, other medical procedures, and lifestyle changes. NIH: National Heart, Lung, and Blood Institute</dc:description>
+<dc:subject dcterms="mesh">Cardiomyopathies</dc:subject>
+<dc:subject xml:lang="es">Cardiomiopatía</dc:subject>
+<dc:subject xml:lang="en">Cardiomyopathy</dc:subject>
+</metadata>
+</record>
+</MedlinePlus-document>

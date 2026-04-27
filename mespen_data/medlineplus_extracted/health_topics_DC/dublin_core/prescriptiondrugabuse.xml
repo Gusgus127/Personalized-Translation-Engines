@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<MedlinePlus-document>
+<record>
+<header>
+<identifier>https://medlineplus.gov/prescriptiondrugabuse.html</identifier>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title type="alternate" xml:lang="es">Drogas de receta médica, Abuso de</dc:title>
+<dc:title type="alternate" xml:lang="en">Drug Abuse, Prescription</dc:title>
+<dc:type>Text</dc:type>
+<dc:language>spa</dc:language>
+<dc:language>eng</dc:language>
+<dc:title xml:lang="es">Abuso de drogas de receta médica</dc:title>
+<dc:title xml:lang="en">Prescription Drug Abuse</dc:title>
+<dc:publisher>National Library of Medicine</dc:publisher>
+<dc:relation type="IsPartOf">Substance Abuse Problems</dc:relation>
+<dc:date type="created">2002-07-21</dc:date>
+<dc:date type="modified">2017-11-08</dc:date>
+<dc:identifier type="URL" xml:lang="es">https://medlineplus.gov/spanish/prescriptiondrugabuse.html</dc:identifier>
+<dc:identifier type="URL" xml:lang="en">https://medlineplus.gov/prescriptiondrugabuse.html</dc:identifier>
+<dc:description xml:lang="es">Si usted toma un medicamento de una forma distinta a lo que el médico le recetó, se le llama abuso de drogas de receta. Esto puede significar: Tomar un medicamento que fue recetado para otra persona Tomar una dosis mayor a la recomendada Tomar el medicamento de una forma diferente a la recetada. Esto podría ser moliendo la medicina para luego inhalarla o inyectarla Usar la medicina para otro propósito, como drogarse El abuso de algunos medicamentos recetados puede conducir a la adicción. Estos incluyen opioides, sedantes, tranquilizantes y estimulantes. Cada medicamento tiene algún riesgo de provocar efectos secundarios. Los médicos tienen esto en cuenta al recetarlos. Las personas que abusan de estos medicamentos pueden no entender los riesgos. Los medicamentos pueden no ser seguros para ellos, especialmente en dosis más altas o cuando se toman con otras medicinas. NIH: Instituto Nacional sobre el Abuso de Drogas</dc:description>
+<dc:description xml:lang="en">If you take a medicine in a way that is different from what the doctor prescribed, it is called prescription drug abuse. It could be Taking a medicine that was prescribed for someone else Taking a larger dose than you are supposed to Taking the medicine in a different way than you are supposed to. This might be crushing tablets and then snorting or injecting them. Using the medicine for another purpose, such as getting high Abusing some prescription drugs can lead to addiction. These include opioids, sedatives, tranquilizers, and stimulants. Every medicine has some risk of side effects. Doctors take this into account when prescribing medicines. People who abuse these drugs may not understand the risks. The medicines may not be safe for them, especially at higher doses or when taken with other medicines. NIH: National Institute on Drug Abuse</dc:description>
+<dc:subject dcterms="mesh">Substance-Related Disorders</dc:subject>
+<dc:subject dcterms="mesh">Drug Prescriptions</dc:subject>
+<dc:subject dcterms="mesh">Prescription Drug Overuse</dc:subject>
+<dc:subject xml:lang="es">Abuso de drogas de receta médica</dc:subject>
+<dc:subject xml:lang="es">Drogas de receta médica</dc:subject>
+<dc:subject xml:lang="es">Abuso de</dc:subject>
+<dc:subject xml:lang="en">Prescription Drug Abuse</dc:subject>
+<dc:subject xml:lang="en">Drug Abuse</dc:subject>
+<dc:subject xml:lang="en">Prescription</dc:subject>
+</metadata>
+</record>
+</MedlinePlus-document>

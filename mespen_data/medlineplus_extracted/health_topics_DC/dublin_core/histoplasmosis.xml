@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<MedlinePlus-document>
+<record>
+<header>
+<identifier>https://medlineplus.gov/histoplasmosis.html</identifier>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:type>Text</dc:type>
+<dc:language>spa</dc:language>
+<dc:language>eng</dc:language>
+<dc:title xml:lang="es">Histoplasmosis</dc:title>
+<dc:title xml:lang="en">Histoplasmosis</dc:title>
+<dc:publisher>National Library of Medicine</dc:publisher>
+<dc:relation type="IsPartOf">Infections</dc:relation>
+<dc:date type="created">2010-10-05</dc:date>
+<dc:date type="modified">2015-07-28</dc:date>
+<dc:identifier type="URL" xml:lang="es">https://medlineplus.gov/spanish/histoplasmosis.html</dc:identifier>
+<dc:identifier type="URL" xml:lang="en">https://medlineplus.gov/histoplasmosis.html</dc:identifier>
+<dc:description xml:lang="es">La histoplasmosis es una enfermedad causada por un hongo (o moho) llamado histoplasma. Este hongo es común en el este y centro de Estados Unidos. Crece en la tierra y en material contaminado con excrementos de murciélagos o pájaros. Usted puede infectarse al respirar las esporas del hongo, pero no se contagia entre personas. La histoplasmosis es a menudo leve y sin síntomas. Si usted se enferma, por lo general afecta a sus pulmones. Los síntomas incluyen malestar, fiebre, dolor de pecho y tos seca. En casos severos, la histoplasmosis se propaga a otros órganos, lo que se llama diseminación de la enfermedad. Esto es más común en recién nacidos, niños pequeños, ancianos y personas con problemas inmunitarios. Su médico puede realizar una serie de pruebas para diagnosticarla, incluyendo radiografías de pecho, tomografías de los pulmones, análisis de sangre o de orina y de muestras de tejido. Los casos leves generalmente mejoran sin tratamiento. El tratamiento de casos graves o crónicos es con medicinas antimicóticas. Centros para el Control y la Prevención de Enfermedades</dc:description>
+<dc:description xml:lang="en">Histoplasmosis is a disease caused by a fungus (or mold) called Histoplasma. The fungus is common in the eastern and central United States. It grows in soil and material contaminated with bat or bird droppings. You get infected by breathing the fungal spores. You cannot get the infection from someone else. Histoplasmosis is often mild, with no symptoms. If you do get sick, it usually affects your lungs. Symptoms include feeling ill, fever, chest pains, and a dry cough. In severe cases, histoplasmosis spreads to other organs. This is called disseminated disease. It is more common in infants, young children, seniors, and people with immune system problems. Your doctor might do a variety of tests to make the diagnosis, including a chest x-ray, CT scan of the lungs, or examining blood, urine, or tissues for signs of the fungus. Mild cases usually get better without treatment. Treatment of severe or chronic cases is with antifungal drugs. Centers for Disease Control and Prevention</dc:description>
+<dc:subject dcterms="mesh">Histoplasmosis</dc:subject>
+<dc:subject xml:lang="es">Histoplasmosis</dc:subject>
+<dc:subject xml:lang="en">Histoplasmosis</dc:subject>
+</metadata>
+</record>
+</MedlinePlus-document>

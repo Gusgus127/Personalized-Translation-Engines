@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<MedlinePlus-document>
+<record>
+<header>
+<identifier>https://medlineplus.gov/postpartumdepression.html</identifier>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title type="alternate" xml:lang="es">Postparto, Depresión</dc:title>
+<dc:title type="alternate" xml:lang="en">Baby Blues</dc:title>
+<dc:type>Text</dc:type>
+<dc:language>spa</dc:language>
+<dc:language>eng</dc:language>
+<dc:title xml:lang="es">Depresión posparto</dc:title>
+<dc:title xml:lang="en">Postpartum Depression</dc:title>
+<dc:publisher>National Library of Medicine</dc:publisher>
+<dc:relation type="IsPartOf">Mental Health and Behavior</dc:relation>
+<dc:relation type="IsPartOf">Pregnancy and Reproduction</dc:relation>
+<dc:relation type="IsPartOf">Women</dc:relation>
+<dc:date type="created">2002-07-21</dc:date>
+<dc:date type="modified">2017-07-06</dc:date>
+<dc:identifier type="URL" xml:lang="es">https://medlineplus.gov/spanish/postpartumdepression.html</dc:identifier>
+<dc:identifier type="URL" xml:lang="en">https://medlineplus.gov/postpartumdepression.html</dc:identifier>
+<dc:description xml:lang="es">Muchas mujeres sienten melancolía o tristeza después de haber dado a luz. Pueden sentir cambios en el estado de ánimo, sentirse ansiosas o abrumadas, sufrir crisis de llanto, pérdida de apetito o dificultad para dormir. Pero esto, generalmente, desaparece en unos días o una semana y los síntomas no son graves ni necesitan tratamiento. Sin embargo, los síntomas de la depresión postparto duran más tiempo y son más graves. La nueva mamá puede sentirse desesperanzada e inútil y puede perder interés por el bebé. También, puede sentir deseos de lastimarse o lastimar a su hijo recién nacido. Muy pocas veces, estas nuevas mamás desarrollan algo más serio. Cuando es así, tienen alucinaciones o tratan de hacerse daño o hacer daño a su bebé. En este caso, necesitan tratamiento urgente, generalmente en un hospital. La depresión postparto puede comenzar en cualquier momento dentro del primer año de haber dado a luz. La causa se desconoce pero puede ser que los cambios hormonales y físicos después del parto y el estrés de cuidar a un bebé jueguen un papel importante. Las mujeres que ya sufrían de depresión, presentan un riesgo mayor. Si cree que sufre de depresión postparto, coméntele a su proveedor de cuidados de salud. El tratamiento con medicamentos, incluyendo antidepresivos y terapia puede ayudarle a sentirse mejor. Oficina para la Salud de la Mujer en el Departamento de Salud y Servicios Humanos de los EE.UU</dc:description>
+<dc:description xml:lang="en">Many women have the baby blues after childbirth. If you have the baby blues, you may have mood swings, feel sad, anxious or overwhelmed, have crying spells, lose your appetite, or have trouble sleeping. The baby blues most often go away within a few days or a week. The symptoms are not severe and do not need treatment. The symptoms of postpartum depression last longer and are more severe. You may also feel hopeless and worthless, and lose interest in the baby. You may have thoughts of hurting yourself or the baby. Very rarely, new mothers develop something even more serious. They may have hallucinations or try to hurt themselves or the baby. They need to get treatment right away, often in the hospital. Postpartum depression can begin anytime within the first year after childbirth. The cause is not known. Hormonal and physical changes after birth and the stress of caring for a new baby may play a role. Women who have had depression are at higher risk. If you think you have postpartum depression, tell your health care provider. Medicines, including antidepressants and talk therapy can help you get well. Dept. of Health and Human Services Office on Women's Health</dc:description>
+<dc:subject dcterms="mesh">Depression, Postpartum</dc:subject>
+<dc:subject xml:lang="es">Depresión posparto</dc:subject>
+<dc:subject xml:lang="es">Postparto</dc:subject>
+<dc:subject xml:lang="es">Depresión</dc:subject>
+<dc:subject xml:lang="en">Postpartum Depression</dc:subject>
+<dc:subject xml:lang="en">Baby Blues</dc:subject>
+</metadata>
+</record>
+</MedlinePlus-document>

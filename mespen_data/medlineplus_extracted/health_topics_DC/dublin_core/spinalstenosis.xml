@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<MedlinePlus-document>
+<record>
+<header>
+<identifier>https://medlineplus.gov/spinalstenosis.html</identifier>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:type>Text</dc:type>
+<dc:language>spa</dc:language>
+<dc:language>eng</dc:language>
+<dc:title xml:lang="es">Estenosis espinal</dc:title>
+<dc:title xml:lang="en">Spinal Stenosis</dc:title>
+<dc:publisher>National Library of Medicine</dc:publisher>
+<dc:relation type="IsPartOf">Bones, Joints and Muscles</dc:relation>
+<dc:date type="created">2005-03-09</dc:date>
+<dc:date type="modified">2017-11-29</dc:date>
+<dc:identifier type="URL" xml:lang="es">https://medlineplus.gov/spanish/spinalstenosis.html</dc:identifier>
+<dc:identifier type="URL" xml:lang="en">https://medlineplus.gov/spinalstenosis.html</dc:identifier>
+<dc:description xml:lang="es">La columna protege la médula espinal y le permite mantenerse de pie e inclinarse. La estenosis espinal causa un estrechamiento en la columna. Este estrechamiento puede ocurrir en el centro de la columna, en los canales que se derivan de ella y/o entre las vértebras o huesos de la columna. El estrechamiento ejerce presión sobre los nervios y la médula espinal y provoca dolor. La estenosis espinal ocurre principalmente en personas mayores de 50 años. Las personas más jóvenes con un traumatismo de columna o un canal vertebral estrecho también corren un mayor riesgo. Las enfermedades como la artritis y la escoliosis también pueden causar estenosis espinal. Los síntomas pueden aparecer gradualmente o no presentarse. Estos incluyen dolor en el cuello o la espalda, entumecimiento, debilidad o dolor en los brazos o las piernas y problemas en los pies. El tratamiento incluye medicamentos, fisioterapia, aparatos ortopédicos y cirugía. NIH: Instituto Nacional de Artritis y Enfermedades Musculoesqueléticas y de la Piel</dc:description>
+<dc:description xml:lang="en">Your spine, or backbone, protects your spinal cord and allows you to stand and bend. Spinal stenosis causes narrowing in your spine. The narrowing puts pressure on your nerves and spinal cord and can cause pain. Spinal stenosis occurs mostly in people older than 50. Younger people with a spine injury or a narrow spinal canal are also at risk. Diseases such as arthritis and scoliosis can cause spinal stenosis, too. Symptoms might appear gradually or not at all. They include Pain in your neck or back Numbness, weakness, cramping, or pain in your arms or legs Pain going down the leg Foot problems Doctors diagnose spinal stenosis with a physical exam and imaging tests. Treatments include medications, physical therapy, braces, and surgery. NIH: National Institute of Arthritis and Musculoskeletal and Skin Diseases</dc:description>
+<dc:subject dcterms="mesh">Spinal Stenosis</dc:subject>
+<dc:subject xml:lang="es">Estenosis espinal</dc:subject>
+<dc:subject xml:lang="en">Spinal Stenosis</dc:subject>
+</metadata>
+</record>
+</MedlinePlus-document>

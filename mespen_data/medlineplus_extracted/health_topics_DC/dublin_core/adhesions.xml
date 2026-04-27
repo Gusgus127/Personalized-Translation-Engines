@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<MedlinePlus-document>
+<record>
+<header>
+<identifier>https://medlineplus.gov/adhesions.html</identifier>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:type>Text</dc:type>
+<dc:language>spa</dc:language>
+<dc:language>eng</dc:language>
+<dc:title xml:lang="es">Adherencias</dc:title>
+<dc:title xml:lang="en">Adhesions</dc:title>
+<dc:publisher>National Library of Medicine</dc:publisher>
+<dc:relation type="IsPartOf">Digestive System</dc:relation>
+<dc:relation type="IsPartOf">Injuries and Wounds</dc:relation>
+<dc:date type="created">2007-08-22</dc:date>
+<dc:date type="modified">2017-12-28</dc:date>
+<dc:identifier type="URL" xml:lang="es">https://medlineplus.gov/spanish/adhesions.html</dc:identifier>
+<dc:identifier type="URL" xml:lang="en">https://medlineplus.gov/adhesions.html</dc:identifier>
+<dc:description xml:lang="es">Las adherencias son cintas de tejido parecidos a una cicatriz. Normalmente, tejidos internos y órganos tienen superficies resbaladizas para que se puedan acomodar al moverse el cuerpo. Las adherencias causan que los tejidos u órganos se queden pegados. Pueden pegar lazos intestinales entre sí o con órganos cercanos, o con la pared del abdomen. Pueden arrancar de su lugar secciones de los intestinos, lo que puede impedir el paso de alimentos a través de éste. Las adherencias pueden ocurrir en cualquier parte del cuerpo, pero usualmente se forman después de una cirugía abdominal. Casi todos quienes se someten a una cirugía abdominal muestran adherencias. Algunas adherencias no causan problemas. Pero cuando obstruyen el intestino parcial o totalmente, pueden causar ciertos síntomas como: Cólicos abdominales dolorosos o dolor abdominal Vómitos Distensión abdominal Imposibilidad para eliminar gases Estreñimiento A veces las adherencias pueden causar infertilidad en la mujer porque previenen que el óvulo fertilizado llegue al útero. No existen exámenes para detectar las adherencias. Los doctores generalmente las encuentran durante una cirugía para diagnosticar otros problemas. Algunas adherencias desaparecen por sí mismas. Si hay una obstrucción intestinal parcial, una dieta baja en fibra puede facilitar el paso de los alimentos a través del área afectada. Una obstrucción intestinal completa causa riesgo vital. Usted debe obtener atención medica urgente y puede necesitar de una cirugía. NIH: Instituto Nacional de la Diabetes y las Enfermedades Digestivas y Renales</dc:description>
+<dc:description xml:lang="en">Adhesions are bands of scar-like tissue. Normally, internal tissues and organs have slippery surfaces so they can shift easily as the body moves. Adhesions cause tissues and organs to stick together. They might connect the loops of the intestines to each other, to nearby organs, or to the wall of the abdomen. They can pull sections of the intestines out of place. This may block food from passing through the intestine. Adhesions can occur anywhere in the body. But they often form after surgery on the abdomen. Almost everyone who has surgery on the abdomen gets adhesions. Some adhesions don't cause any problems. But when they partly or completely block the intestines, they cause symptoms such as Severe abdominal pain or cramping Vomiting Bloating An inability to pass gas Constipation Adhesions can sometimes cause infertility in women by preventing fertilized eggs from reaching the uterus. No tests are available to detect adhesions. Doctors usually find them during surgery to diagnose other problems. Some adhesions go away by themselves. If they partly block your intestines, a diet low in fiber can allow food to move easily through the affected area. If you have a complete intestinal obstruction, it is life threatening. You should get immediate medical attention and may need surgery. NIH: National Institute of Diabetes and Digestive and Kidney Diseases</dc:description>
+<dc:subject dcterms="mesh">Tissue Adhesions</dc:subject>
+<dc:subject xml:lang="es">Adherencias</dc:subject>
+<dc:subject xml:lang="en">Adhesions</dc:subject>
+</metadata>
+</record>
+</MedlinePlus-document>

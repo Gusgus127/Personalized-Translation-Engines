@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<MedlinePlus-document>
+<record>
+<header>
+<identifier>https://medlineplus.gov/cochlearimplants.html</identifier>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:type>Text</dc:type>
+<dc:language>spa</dc:language>
+<dc:language>eng</dc:language>
+<dc:title xml:lang="es">Implantes cocleares</dc:title>
+<dc:title xml:lang="en">Cochlear Implants</dc:title>
+<dc:publisher>National Library of Medicine</dc:publisher>
+<dc:relation type="IsPartOf">Ear, Nose and Throat</dc:relation>
+<dc:date type="created">2011-04-07</dc:date>
+<dc:date type="modified">2017-03-14</dc:date>
+<dc:identifier type="URL" xml:lang="es">https://medlineplus.gov/spanish/cochlearimplants.html</dc:identifier>
+<dc:identifier type="URL" xml:lang="en">https://medlineplus.gov/cochlearimplants.html</dc:identifier>
+<dc:description xml:lang="es">Un implante coclear es un dispositivo electrónico pequeño y complejo que puede ayudar a proporcionar algún sentido de la audición. Personas que sean profundamente sordas o que tengan graves dificultades auditivas pueden beneficiarse con su uso. El implante consiste en dos partes. Una parte externa que se sitúa detrás de la oreja y una segunda parte que se coloca quirúrgicamente debajo de la piel. Este implante no restablece la audición normal. Puede proporcionar a una persona sorda una comprensión del habla. Tanto niños como adultos pueden beneficiarse de ellos. NIH: Instituto Nacional de la Sordera y otros Trastornos de la Comunicación</dc:description>
+<dc:description xml:lang="en">A cochlear implant is a small, complex electronic device that can help to provide a sense of sound. People who are profoundly deaf or severely hard-of-hearing can get help from them. The implant consists of two parts. One part sits on the outside of the body, behind the ear. A second part is surgically placed under the skin. An implant does not restore normal hearing. It can help a person understand speech. Children and adults can benefit from them. National Institute on Deafness and Other Communication Disorders</dc:description>
+<dc:subject dcterms="mesh">Cochlear Implants</dc:subject>
+<dc:subject xml:lang="es">Implantes cocleares</dc:subject>
+<dc:subject xml:lang="en">Cochlear Implants</dc:subject>
+</metadata>
+</record>
+</MedlinePlus-document>

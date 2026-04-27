@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<MedlinePlus-document>
+<record>
+<header>
+<identifier>https://medlineplus.gov/neuromusculardisorders.html</identifier>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title type="alternate" xml:lang="es">Espasticidad</dc:title>
+<dc:title type="alternate" xml:lang="es">Neuromuscular, Enfermedades</dc:title>
+<dc:title type="alternate" xml:lang="en">Spasticity</dc:title>
+<dc:type>Text</dc:type>
+<dc:language>spa</dc:language>
+<dc:language>eng</dc:language>
+<dc:title xml:lang="es">Enfermedades neuromusculares</dc:title>
+<dc:title xml:lang="en">Neuromuscular Disorders</dc:title>
+<dc:publisher>National Library of Medicine</dc:publisher>
+<dc:relation type="IsPartOf">Bones, Joints and Muscles</dc:relation>
+<dc:relation type="IsPartOf">Brain and Nerves</dc:relation>
+<dc:date type="created">2002-07-21</dc:date>
+<dc:date type="modified">2018-01-29</dc:date>
+<dc:identifier type="URL" xml:lang="es">https://medlineplus.gov/spanish/neuromusculardisorders.html</dc:identifier>
+<dc:identifier type="URL" xml:lang="en">https://medlineplus.gov/neuromusculardisorders.html</dc:identifier>
+<dc:description xml:lang="es">Las enfermedades neuromusculares afectan los nervios que controlan los músculos voluntarios. Los músculos voluntarios son los que se pueden controlar, como es el caso de los brazos y las piernas. Las células nerviosas, también llamadas neuronas, envían mensajes que controlan esos músculos. Cuando las neuronas se enferman o se mueren, la comunicación entre el sistema nervioso y los músculos se interrumpe. Como resultado, los músculos se debilitan y se consumen. La debilidad puede conducir a espasmos musculares, calambres, dolores y problemas articulares y del movimiento. Algunas veces, también afecta la función cardiaca y la capacidad para respirar. Algunos ejemplos de trastornos neuromusculares incluyen: Esclerosis lateral amiotrófica Esclerosis múltiple Miastenia grave Atrofia muscular espinal Muchas enfermedades neuromusculares son genéticas, lo que significa que hay una tendencia familiar o existe una mutación en los genes. Algunas veces, pueden ser provocadas por un trastorno del sistema inmunitario. La mayoría de ellas no tiene cura. El objetivo del tratamiento es mejorar los síntomas, aumentar la movilidad y el lapso de vida.</dc:description>
+<dc:description xml:lang="en">Neuromuscular disorders affect the nerves that control your voluntary muscles. Voluntary muscles are the ones you can control, like in your arms and legs. Your nerve cells, also called neurons, send the messages that control these muscles. When the neurons become unhealthy or die, communication between your nervous system and muscles breaks down. As a result, your muscles weaken and waste away. The weakness can lead to twitching, cramps, aches and pains, and joint and movement problems. Sometimes it also affects heart function and your ability to breathe. Examples of neuromuscular disorders include Amyotrophic lateral sclerosis Multiple sclerosis Myasthenia gravis Spinal muscular atrophy Many neuromuscular diseases are genetic, which means they run in families or there is a mutation in your genes. Sometimes, an immune system disorder can cause them. Most of them have no cure. The goal of treatment is to improve symptoms, increase mobility and lengthen life.</dc:description>
+<dc:subject dcterms="mesh">Neuromuscular Diseases</dc:subject>
+<dc:subject xml:lang="es">Enfermedades neuromusculares</dc:subject>
+<dc:subject xml:lang="es">Espasticidad</dc:subject>
+<dc:subject xml:lang="es">Neuromuscular</dc:subject>
+<dc:subject xml:lang="es">Enfermedades</dc:subject>
+<dc:subject xml:lang="en">Neuromuscular Disorders</dc:subject>
+<dc:subject xml:lang="en">Spasticity</dc:subject>
+</metadata>
+</record>
+</MedlinePlus-document>

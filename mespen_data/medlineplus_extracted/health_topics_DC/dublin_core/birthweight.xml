@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<MedlinePlus-document>
+<record>
+<header>
+<identifier>https://medlineplus.gov/birthweight.html</identifier>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title type="alternate" xml:lang="es">Nacer, Peso al</dc:title>
+<dc:title type="alternate" xml:lang="es">Recién nacido, Peso del</dc:title>
+<dc:title type="alternate" xml:lang="es">Edad gestacional</dc:title>
+<dc:title type="alternate" xml:lang="en">Low Birth Weight</dc:title>
+<dc:title type="alternate" xml:lang="en">Small for Gestational Age</dc:title>
+<dc:title type="alternate" xml:lang="en">Large for Gestational Age</dc:title>
+<dc:type>Text</dc:type>
+<dc:language>spa</dc:language>
+<dc:language>eng</dc:language>
+<dc:title xml:lang="es">Peso del bebé al nacer</dc:title>
+<dc:title xml:lang="en">Birth Weight</dc:title>
+<dc:publisher>National Library of Medicine</dc:publisher>
+<dc:relation type="IsPartOf">Pregnancy and Reproduction</dc:relation>
+<dc:relation type="IsPartOf">Children and Teenagers</dc:relation>
+<dc:date type="created">2013-01-29</dc:date>
+<dc:date type="modified">2017-12-20</dc:date>
+<dc:identifier type="URL" xml:lang="es">https://medlineplus.gov/spanish/birthweight.html</dc:identifier>
+<dc:identifier type="URL" xml:lang="en">https://medlineplus.gov/birthweight.html</dc:identifier>
+<dc:description xml:lang="es">El peso de su bebé al nacer es el peso que le toman inmediatamente después de haber nacido. Un bebé pequeño se considera al que pesa menos de 2.5 kg (5.5 libras) y un bebé grande al de más de 4 kg (8.8 libras). Un bebé de bajo peso puede indicar que es demasiado pequeño, que nació antes de tiempo (prematuro) o ambas cosas. Esto puede deberse a muchas causas; por ejemplo, problemas de salud de la mamá, factores genéticos, problemas con la placenta o que la madre haya abusado de sustancias durante el embarazo. Algunos bebés de bajo peso pueden estar a riesgo de algunos problemas de salud. Unos pueden enfermarse o desarrollar infecciones en los primeros días de vida. Otros pueden sufrir problemas a largo plazo como retraso en el desarrollo motriz o social o problemas de aprendizaje. A su vez, los bebés que nacieron con demasiado peso son grandes quizás porque sus padres lo son o porque la madre tuvo diabetes durante el embarazo. Estos bebés están a un mayor riesgo de lesiones al nacer y problemas con el azúcar en la sangre. Centros para el Control y la Prevención de Enfermedades</dc:description>
+<dc:description xml:lang="en">Birth weight is the first weight of your baby, taken just after he or she is born. A low birth weight is less than 5.5 pounds. A high birth weight is more than 8.8 pounds. A low birth weight baby can be born too small, too early (premature), or both. This can happen for many different reasons. They include health problems in the mother, genetic factors, problems with the placenta and substance abuse by the mother. Some low birth weight babies may be more at risk for certain health problems. Some may become sick in the first days of life or develop infections. Others may suffer from longer-term problems such as delayed motor and social development or learning disabilities. High birth weight babies are often big because the parents are big, or the mother has diabetes during pregnancy. These babies may be at a higher risk of birth injuries and problems with blood sugar. Centers for Disease Control and Prevention</dc:description>
+<dc:subject dcterms="mesh">Birth Weight</dc:subject>
+<dc:subject xml:lang="es">Peso del bebé al nacer</dc:subject>
+<dc:subject xml:lang="es">Nacer</dc:subject>
+<dc:subject xml:lang="es">Peso al</dc:subject>
+<dc:subject xml:lang="es">Recién nacido</dc:subject>
+<dc:subject xml:lang="es">Peso del</dc:subject>
+<dc:subject xml:lang="es">Edad gestacional</dc:subject>
+<dc:subject xml:lang="en">Birth Weight</dc:subject>
+<dc:subject xml:lang="en">Low Birth Weight</dc:subject>
+<dc:subject xml:lang="en">Small for Gestational Age</dc:subject>
+<dc:subject xml:lang="en">Large for Gestational Age</dc:subject>
+</metadata>
+</record>
+</MedlinePlus-document>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<MedlinePlus-document>
+<record>
+<header>
+<identifier>https://medlineplus.gov/maculardegeneration.html</identifier>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:type>Text</dc:type>
+<dc:language>spa</dc:language>
+<dc:language>eng</dc:language>
+<dc:title xml:lang="es">Degeneración macular</dc:title>
+<dc:title xml:lang="en">Macular Degeneration</dc:title>
+<dc:publisher>National Library of Medicine</dc:publisher>
+<dc:relation type="IsPartOf">Seniors</dc:relation>
+<dc:relation type="IsPartOf">Eyes and Vision</dc:relation>
+<dc:date type="created">2002-07-21</dc:date>
+<dc:date type="modified">2017-09-13</dc:date>
+<dc:identifier type="URL" xml:lang="es">https://medlineplus.gov/spanish/maculardegeneration.html</dc:identifier>
+<dc:identifier type="URL" xml:lang="en">https://medlineplus.gov/maculardegeneration.html</dc:identifier>
+<dc:description xml:lang="es">La degeneración macular o la degeneración macular relacionada con la edad (AMD, por sus siglas en inglés) es la principal causa de pérdida de visión en los estadounidenses mayores de 60 años. Es una enfermedad que destruye la agudeza de la visión central. La vista central es necesaria para ver los objetos con claridad y hacer actividades como leer o conducir vehículos. La enfermedad afecta la mácula, que es la parte del ojo que permite ver los detalles con claridad. No duele, pero provoca la muerte de las células de la mácula. Existen dos tipos: La húmeda y la seca. La húmeda ocurre cuando vasos sanguíneos anormales crecen bajo la mácula. Estos nuevos vasos frecuentemente gotean sangre y líquido. El daño a la mácula ocurre rápidamente. Uno de los primeros síntomas es una visión borrosa. La seca, ocurre cuando las células de la mácula sensibles a la luz se deterioran. Lentamente, se pierde la visión central. Uno de los primeros síntomas es ver torcidas las líneas rectas. Los exámenes oculares integrales regulares pueden detectar una degeneración macular antes de que la enfermedad cause una pérdida de la vista. El tratamiento puede hacer más lento el avance del deterioro de la vista, sin embargo no recupera la visión. NIH: Instituto Nacional del Ojo</dc:description>
+<dc:description xml:lang="en">Macular degeneration, or age-related macular degeneration (AMD), is a leading cause of vision loss in Americans 60 and older. It is a disease that destroys your sharp, central vision. You need central vision to see objects clearly and to do tasks such as reading and driving. AMD affects the macula, the part of the eye that allows you to see fine detail. It does not hurt, but it causes cells in the macula to die. There are two types: wet and dry. Wet AMD happens when abnormal blood vessels grow under the macula. These new blood vessels often leak blood and fluid. Wet AMD damages the macula quickly. Blurred vision is a common early symptom. Dry AMD happens when the light-sensitive cells in the macula slowly break down. Your gradually lose your central vision. A common early symptom is that straight lines appear crooked. Regular comprehensive eye exams can detect macular degeneration before the disease causes vision loss. Treatment can slow vision loss. It does not restore vision. NIH: National Eye Institute</dc:description>
+<dc:subject dcterms="mesh">Macular Degeneration</dc:subject>
+<dc:subject xml:lang="es">Degeneración macular</dc:subject>
+<dc:subject xml:lang="en">Macular Degeneration</dc:subject>
+<dc:subject xml:lang="en">AMD</dc:subject>
+<dc:subject xml:lang="en">Age-Related Macular Degeneration</dc:subject>
+</metadata>
+</record>
+</MedlinePlus-document>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<MedlinePlus-document>
+<record>
+<header>
+<identifier>https://medlineplus.gov/hypothyroidism.html</identifier>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title type="alternate" xml:lang="es">Hipotiroidismo congénito</dc:title>
+<dc:title type="alternate" xml:lang="es">Cretinismo</dc:title>
+<dc:title type="alternate" xml:lang="es">Tiroides, Insuficiencia</dc:title>
+<dc:title type="alternate" xml:lang="en">Hashimoto's Disease</dc:title>
+<dc:title type="alternate" xml:lang="en">Underactive Thyroid</dc:title>
+<dc:type>Text</dc:type>
+<dc:language>spa</dc:language>
+<dc:language>eng</dc:language>
+<dc:title xml:lang="es">Hipotiroidismo</dc:title>
+<dc:title xml:lang="en">Hypothyroidism</dc:title>
+<dc:publisher>National Library of Medicine</dc:publisher>
+<dc:relation type="IsPartOf">Endocrine System</dc:relation>
+<dc:date type="created">2014-01-02</dc:date>
+<dc:date type="modified">2017-11-13</dc:date>
+<dc:identifier type="URL" xml:lang="es">https://medlineplus.gov/spanish/hypothyroidism.html</dc:identifier>
+<dc:identifier type="URL" xml:lang="en">https://medlineplus.gov/hypothyroidism.html</dc:identifier>
+<dc:description xml:lang="es">La tiroides es una glándula con forma de mariposa que está en el cuello, ubicada encima de la clavícula. Es una de las glándulas endocrinas que producen hormonas. Las hormonas tiroideas controlan el ritmo de muchas actividades en su cuerpo. Estas incluyen la rapidez con que usted quema calorías y la rapidez con que su corazón late. Todas estas actividades son parte del metabolismo de su cuerpo. Si su glándula tiroides no es lo suficientemente activa, no produce la cantidad de hormona tiroidea para satisfacer las necesidades de su cuerpo. Esta condición es el hipotiroidismo. El hipotiroidismo es más común en las mujeres, en las personas con otros problemas de la tiroides y en las personas mayores de 60 años de edad. La enfermedad de Hashimoto, un trastorno autoinmune, es la causa más común. Otras causas son los nódulos tiroideos, tiroiditis, el hipotiroidismo congénito, la extirpación quirúrgica de una parte o la totalidad de la tiroides, el tratamiento de radiación de la tiroides y algunos medicamentos. Los síntomas pueden variar de persona a persona. Éstos pueden incluir Fatiga Aumento de peso Hinchazón de la cara Intolerancia al frío Dolor en las articulaciones y los músculos Estreñimiento Piel seca Cabello fino y seco Disminución de la sudoración Períodos menstruales abundantes o irregulares y problemas de fertilidad Depresión Disminución del ritmo cardiaco Para diagnosticar el hipotiroidismo, el médico le examinará, analizará sus síntomas y realizará pruebas para la tiroides. El tratamiento se realiza con una hormona tiroidea sintética que se toma todos los días. NIH: Instituto Nacional de la Diabetes y las Enfermedades Digestivas y Renales</dc:description>
+<dc:description xml:lang="en">Your thyroid is a butterfly-shaped gland in your neck, just above your collarbone. It is one of your endocrine glands, which make hormones. Thyroid hormones control the rate of many activities in your body. These include how fast you burn calories and how fast your heart beats. All of these activities are your body's metabolism. If your thyroid gland is not active enough, it does not make enough thyroid hormone to meet your body's needs. This condition is hypothyroidism. Hypothyroidism is more common in women, people with other thyroid problems, and those over 60 years old. Hashimoto's disease, an autoimmune disorder, is the most common cause. Other causes include thyroid nodules, thyroiditis, congenital hypothyroidism, surgical removal of part or all of the thyroid, radiation treatment of the thyroid, and some medicines. The symptoms can vary from person to person. They may include Fatigue Weight gain A puffy face Cold intolerance Joint and muscle pain Constipation Dry skin Dry, thinning hair Decreased sweating Heavy or irregular menstrual periods and fertility problems Depression Slowed heart rate To diagnose hypothyroidism, your doctor will do a physical exam, look at your symptoms, and do thyroid tests. Treatment is with synthetic thyroid hormone, taken every day. NIH: National Institute of Diabetes and Digestive and Kidney Diseases</dc:description>
+<dc:subject dcterms="mesh">Hypothyroidism</dc:subject>
+<dc:subject xml:lang="es">Hipotiroidismo</dc:subject>
+<dc:subject xml:lang="es">Hipotiroidismo congénito</dc:subject>
+<dc:subject xml:lang="es">Cretinismo</dc:subject>
+<dc:subject xml:lang="es">Tiroides</dc:subject>
+<dc:subject xml:lang="es">Insuficiencia</dc:subject>
+<dc:subject xml:lang="en">Hypothyroidism</dc:subject>
+<dc:subject xml:lang="en">Hashimoto's Disease</dc:subject>
+<dc:subject xml:lang="en">Underactive Thyroid</dc:subject>
+</metadata>
+</record>
+</MedlinePlus-document>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<MedlinePlus-document>
+<record>
+<header>
+<identifier>https://medlineplus.gov/mobilityaids.html</identifier>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:type>Text</dc:type>
+<dc:language>spa</dc:language>
+<dc:language>eng</dc:language>
+<dc:title xml:lang="es">Aparatos para movilidad asistida</dc:title>
+<dc:title xml:lang="en">Mobility Aids</dc:title>
+<dc:publisher>National Library of Medicine</dc:publisher>
+<dc:relation type="IsPartOf">Wellness and Lifestyle</dc:relation>
+<dc:date type="created">2012-03-27</dc:date>
+<dc:date type="modified">2016-03-10</dc:date>
+<dc:identifier type="URL" xml:lang="es">https://medlineplus.gov/spanish/mobilityaids.html</dc:identifier>
+<dc:identifier type="URL" xml:lang="en">https://medlineplus.gov/mobilityaids.html</dc:identifier>
+<dc:description xml:lang="es">Los aparatos para asistir la movilidad le ayudan a caminar o a moverse de un lugar a otro si es discapacitado o tiene una lesión. Estos incluyen: Muletas Bastones Andadores Sillas de ruedas Triciclos motorizados Es probable que necesite un andador o un bastón si corre el riesgo de caerse. Si necesita poner menos peso al apoyarse en su pie, tobillo o rodilla, tal vez necesite usar muletas. También puede requerir una silla de ruedas o un triciclo motorizado si no puede caminar debido a una lesión o una enfermedad. La selección de estos aparatos toma tiempo y requiere investigación. Las muletas, los bastones y los andadores deben adaptarse a usted. Si son adecuados, le brindarán apoyo, pero si no, pueden resultar incómodos e inseguros.</dc:description>
+<dc:description xml:lang="en">Mobility aids help you walk or move from place to place if you are disabled or have an injury. They include Crutches Canes Walkers Wheelchairs Motorized scooters You may need a walker or cane if you are at risk of falling. If you need to keep your body weight off your foot, ankle or knee, you may need crutches. You may need a wheelchair or a scooter if an injury or disease has left you unable to walk. Choosing these devices takes time and research. You should be fitted for crutches, canes and walkers. If they fit, these devices give you support, but if they don't fit, they can be uncomfortable and unsafe.</dc:description>
+<dc:subject dcterms="mesh">Self-Help Devices</dc:subject>
+<dc:subject xml:lang="es">Aparatos para movilidad asistida</dc:subject>
+<dc:subject xml:lang="en">Mobility Aids</dc:subject>
+<dc:subject xml:lang="en">Wheelchairs</dc:subject>
+<dc:subject xml:lang="en">Crutches</dc:subject>
+<dc:subject xml:lang="en">Canes</dc:subject>
+<dc:subject xml:lang="en">Walkers</dc:subject>
+</metadata>
+</record>
+</MedlinePlus-document>

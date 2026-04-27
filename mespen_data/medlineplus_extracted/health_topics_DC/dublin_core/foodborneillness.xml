@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<MedlinePlus-document>
+<record>
+<header>
+<identifier>https://medlineplus.gov/foodborneillness.html</identifier>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title type="alternate" xml:lang="es">Yersinia</dc:title>
+<dc:title type="alternate" xml:lang="es">Alimentos, Contaminación</dc:title>
+<dc:title type="alternate" xml:lang="es">Contaminación de los alimentos</dc:title>
+<dc:title type="alternate" xml:lang="en">Yersinia Enterocolitica</dc:title>
+<dc:title type="alternate" xml:lang="en">Food Poisoning</dc:title>
+<dc:type>Text</dc:type>
+<dc:language>spa</dc:language>
+<dc:language>eng</dc:language>
+<dc:title xml:lang="es">Enfermedades transmitidas por alimentos</dc:title>
+<dc:title xml:lang="en">Foodborne Illness</dc:title>
+<dc:publisher>National Library of Medicine</dc:publisher>
+<dc:relation type="IsPartOf">Digestive System</dc:relation>
+<dc:relation type="IsPartOf">Poisoning, Toxicology, Environmental Health</dc:relation>
+<dc:relation type="IsPartOf">Food and Nutrition</dc:relation>
+<dc:date type="created">2002-07-21</dc:date>
+<dc:date type="modified">2017-11-13</dc:date>
+<dc:identifier type="URL" xml:lang="es">https://medlineplus.gov/spanish/foodborneillness.html</dc:identifier>
+<dc:identifier type="URL" xml:lang="en">https://medlineplus.gov/foodborneillness.html</dc:identifier>
+<dc:description xml:lang="es">Cada año, unos, 48 millones de personas en los Estados Unidos se enferman por consumir alimentos contaminados. Las causas comunes incluyen bacterias y virus. Con menos frecuencia, la causa puede ser un parásito o un químico dañino, como una gran cantidad de pesticidas. Los síntomas de enfermedades transmitidas por los alimentos dependen de la causa. Pueden ser leves o severas. Por lo general incluyen: Malestar estomacal Cólicos abdominales Náusea y vómitos Diarrea Fiebre Deshidratación La mayoría de las enfermedades transmitidas por los alimentos son agudas. Esto significa que ocurren de repente y duran poco tiempo. Se requieren varios pasos para llevar la comida de la granja o pesquería a su mesa. La contaminación puede ocurrir durante cualquiera de estos pasos. Por ejemplo, puede sucederle a: Carne cruda mientras matan al animal Frutas y verduras mientras crecen o se procesan Alimentos refrigerados cuando se dejan en un muelle de carga cuando hace calor Pero también puede ocurrir en la cocina, si deja los alimentos a temperatura ambiente más de dos horas. Manipular los alimentos con cuidado puede prevenir estas enfermedades. La mayoría de las personas con enfermedades transmitidas por los alimentos mejoran por sí mismas. Es importante reemplazar los líquidos y electrolitos perdidos para prevenir la deshidratación. Si su proveedor de atención médica puede diagnosticar la causa específica, los medicamentos como antibióticos pueden tratarla. Para una enfermedad más grave, es posible que necesite tratamiento en un hospital. NIH: Instituto Nacional de la Diabetes y las Enfermedades Digestivas y Renales</dc:description>
+<dc:description xml:lang="en">Each year, around 48 million people in the United States get sick from contaminated food. Common causes include bacteria and viruses. Less often, the cause may be a parasite or a harmful chemical, such as a high amount of pesticides. Symptoms of foodborne illness depend on the cause. They can be mild or serious. They usually include Upset stomach Abdominal cramps Nausea and vomiting Diarrhea Fever Dehydration Most foodborne illnesses are acute. This means that they happen suddenly and last a short time. It takes several steps to get food from the farm or fishery to your dining table. Contamination can happen during any of these steps. For example, it can happen to Raw meat during slaughter Fruits and vegetables when they are growing or when they are processed Refrigerated foods when they are left on a loading dock in warm weather But it can also happen in your kitchen if you leave food out for more than 2 hours at room temperature. Handling food safely can help prevent foodborne illnesses. Most people with foodborne illness get better on their own. It is important to replace lost fluids and electrolytes to prevent dehydration. If your health care provider can diagnose the specific cause, you may get medicines such as antibiotics to treat it. For more serious illness, you may need treatment at a hospital. NIH: National Institute of Diabetes and Digestive and Kidney Diseases</dc:description>
+<dc:subject dcterms="mesh">Food Contamination</dc:subject>
+<dc:subject dcterms="mesh">Foodborne Diseases</dc:subject>
+<dc:subject xml:lang="es">Enfermedades transmitidas por alimentos</dc:subject>
+<dc:subject xml:lang="es">Yersinia</dc:subject>
+<dc:subject xml:lang="es">Alimentos</dc:subject>
+<dc:subject xml:lang="es">Contaminación</dc:subject>
+<dc:subject xml:lang="es">Contaminación de los alimentos</dc:subject>
+<dc:subject xml:lang="en">Foodborne Illness</dc:subject>
+<dc:subject xml:lang="en">Yersinia Enterocolitica</dc:subject>
+<dc:subject xml:lang="en">Food Poisoning</dc:subject>
+</metadata>
+</record>
+</MedlinePlus-document>

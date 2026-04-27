@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<MedlinePlus-document>
+<record>
+<header>
+<identifier>https://medlineplus.gov/poisoning.html</identifier>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title type="alternate" xml:lang="es">Intoxicación</dc:title>
+<dc:type>Text</dc:type>
+<dc:language>spa</dc:language>
+<dc:language>eng</dc:language>
+<dc:title xml:lang="es">Envenenamiento</dc:title>
+<dc:title xml:lang="en">Poisoning</dc:title>
+<dc:publisher>National Library of Medicine</dc:publisher>
+<dc:relation type="IsPartOf">Poisoning, Toxicology, Environmental Health</dc:relation>
+<dc:relation type="IsPartOf">Safety Issues</dc:relation>
+<dc:date type="created">2002-07-21</dc:date>
+<dc:date type="modified">2017-12-07</dc:date>
+<dc:identifier type="URL" xml:lang="es">https://medlineplus.gov/spanish/poisoning.html</dc:identifier>
+<dc:identifier type="URL" xml:lang="en">https://medlineplus.gov/poisoning.html</dc:identifier>
+<dc:description xml:lang="es">Un veneno o toxina es cualquier sustancia peligrosa para el cuerpo. Es posible tragarlo, inhalarlo, inyectarlo o absorberlo a través de la piel. Cualquier sustancia puede ser un veneno si se ingiere demasiado de ella. Entre los venenos se encuentran: Medicinas a la venta con y sin receta médica en dosis demasiado altas Sobredosis de drogas ilegales Monóxido de carbono de quemadores de gas en el hogar Productos de uso en el hogar, tales como el jabón en polvo para lavar la ropa o lustre para muebles Pesticidas Plantas para interiores y exteriores Metales como el plomo y el mercurio Los efectos del envenenamiento o la intoxicación varían de enfermedades de corta duración hasta lesión cerebral, coma y muerte. Para prevenir los envenenamientos es importante usar y guardar los productos exactamente como lo indican las etiquetas. Mantenga los productos alejados del alcance de los niños. El tratamiento de un envenenamiento depende del tipo de veneno. Si sospecha que alguien ha sido envenenado llame al centro de control de envenenamientos local al 1-800-222-1222 de inmediato.</dc:description>
+<dc:description xml:lang="en">A poison is any substance that is harmful to your body. You might swallow it, inhale it, inject it, or absorb it through your skin. Any substance can be poisonous if too much is taken. Poisons can include Prescription or over-the-counter medicines taken in doses that are too high Overdoses of illegal drugs Carbon monoxide from gas appliances Household products, such as laundry powder or furniture polish Pesticides Indoor or outdoor plants Metals such as lead and mercury The effects of poisoning range from short-term illness to brain damage, coma, and death. To prevent poisoning it is important to use and store products exactly as their labels say. Keep dangerous products where children can't get to them. Treatment for poisoning depends on the type of poison. If you suspect someone has been poisoned, call your local poison control center at 1-800-222-1222 right away.</dc:description>
+<dc:subject dcterms="mesh">Poisoning</dc:subject>
+<dc:subject xml:lang="es">Envenenamiento</dc:subject>
+<dc:subject xml:lang="es">Intoxicación</dc:subject>
+<dc:subject xml:lang="en">Poisoning</dc:subject>
+</metadata>
+</record>
+</MedlinePlus-document>

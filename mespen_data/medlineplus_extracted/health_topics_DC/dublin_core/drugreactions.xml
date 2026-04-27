@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<MedlinePlus-document>
+<record>
+<header>
+<identifier>https://medlineplus.gov/drugreactions.html</identifier>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title type="alternate" xml:lang="es">Medicinas, Efectos adversos</dc:title>
+<dc:title type="alternate" xml:lang="es">Medicinas, Interacciones</dc:title>
+<dc:title type="alternate" xml:lang="en">Drug Allergies</dc:title>
+<dc:title type="alternate" xml:lang="en">Drug Interactions</dc:title>
+<dc:type>Text</dc:type>
+<dc:language>spa</dc:language>
+<dc:language>eng</dc:language>
+<dc:title xml:lang="es">Interacciones y efectos secundarios de los medicamentos</dc:title>
+<dc:title xml:lang="en">Drug Reactions</dc:title>
+<dc:publisher>National Library of Medicine</dc:publisher>
+<dc:relation type="IsPartOf">Drug Therapy</dc:relation>
+<dc:date type="created">2010-08-25</dc:date>
+<dc:date type="modified">2018-01-09</dc:date>
+<dc:identifier type="URL" xml:lang="es">https://medlineplus.gov/spanish/drugreactions.html</dc:identifier>
+<dc:identifier type="URL" xml:lang="en">https://medlineplus.gov/drugreactions.html</dc:identifier>
+<dc:description xml:lang="es">La mayoría de las veces, los medicamentos hacen que nuestras vidas sean mejores. Reducen los dolores, ayudan a combatir infecciones y controlan condiciones, tales como la presión arterial alta o la diabetes. Pero los medicamentos también pueden causar reacciones no deseadas. Un problema es la interacción, lo que puede ocurrir entre Dos drogas, como la aspirina y anticoagulantes Medicamentos y alimentos, como las estatinas y el pomelo Los medicamentos y suplementos, como el gingko y diluyentes de la sangre Las drogas y las enfermedades, como la aspirina y las úlceras pépticas Las interacciones pueden cambiar el efecto de uno o ambos medicamentos. Los medicamentos podrían no funcionar o usted podría tener efectos secundarios. Los efectos secundarios son efectos no deseados causados por las medicinas. La mayoría son leves, tales como dolores de estómago o mareos y se van después de dejar de tomar el medicamento. Otros pueden ser más graves. Otro tipo de efecto secundario de los medicamentos son las alergias. Pueden ser leves o graves. Las reacciones en la piel, como urticaria y erupciones cutáneas, son el tipo más común. Cuando comience a tomar una nuevo medicamento, ya sea de receta o no, asegúrese de entender bien cómo tomarlo correctamente. Averigüe qué otros remedios o alimentos necesita evitar. Preguntéle a su proveedor de cuidados médicos o farmacéutico si tiene alguna inquietud.</dc:description>
+<dc:description xml:lang="en">Most of the time, medicines make our lives better. They reduce aches and pains, fight infections, and control problems such as high blood pressure or diabetes. But medicines can also cause unwanted reactions. One problem is interactions, which may occur between Two drugs, such as aspirin and blood thinners Drugs and food, such as statins and grapefruit Drugs and supplements, such as ginkgo and blood thinners Drugs and diseases, such as aspirin and peptic ulcers Interactions can change the actions of one or both drugs. The drugs might not work, or you could get side effects. Side effects are unwanted effects caused by the drugs. Most are mild, such as a stomach aches or drowsiness, and go away after you stop taking the drug. Others can be more serious. Drug allergies are another type of reaction. They can be mild or life-threatening. Skin reactions, such as hives and rashes, are the most common type. Anaphylaxis, a serious allergic reaction, is more rare. When you start a new prescription or over-the-counter medication, make sure you understand how to take it correctly. Know which other medications and foods you need to avoid. Ask your health care provider or pharmacist if you have questions.</dc:description>
+<dc:subject dcterms="mesh">Metabolic Side Effects of Drugs and Substances</dc:subject>
+<dc:subject dcterms="mesh">Drug Interactions</dc:subject>
+<dc:subject dcterms="mesh">Drug Hypersensitivity</dc:subject>
+<dc:subject dcterms="mesh">Drug-Related Side Effects and Adverse Reactions</dc:subject>
+<dc:subject dcterms="mesh">Chemical and Drug Induced Liver Injury</dc:subject>
+<dc:subject xml:lang="es">Interacciones y efectos secundarios de los medicamentos</dc:subject>
+<dc:subject xml:lang="es">Medicinas</dc:subject>
+<dc:subject xml:lang="es">Efectos adversos</dc:subject>
+<dc:subject xml:lang="es">Medicinas</dc:subject>
+<dc:subject xml:lang="es">Interacciones</dc:subject>
+<dc:subject xml:lang="en">Drug Reactions</dc:subject>
+<dc:subject xml:lang="en">Drug Allergies</dc:subject>
+<dc:subject xml:lang="en">Drug Interactions</dc:subject>
+</metadata>
+</record>
+</MedlinePlus-document>

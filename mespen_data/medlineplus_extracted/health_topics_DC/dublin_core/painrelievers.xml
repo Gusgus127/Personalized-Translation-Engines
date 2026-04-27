@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<MedlinePlus-document>
+<record>
+<header>
+<identifier>https://medlineplus.gov/painrelievers.html</identifier>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title type="alternate" xml:lang="es">Dolor, Remedios</dc:title>
+<dc:title type="alternate" xml:lang="es">Calmantes para el dolor</dc:title>
+<dc:title type="alternate" xml:lang="en">Narcotics</dc:title>
+<dc:title type="alternate" xml:lang="en">Painkillers</dc:title>
+<dc:title type="alternate" xml:lang="en">Methadone</dc:title>
+<dc:title type="alternate" xml:lang="en">Analgesics</dc:title>
+<dc:type>Text</dc:type>
+<dc:language>spa</dc:language>
+<dc:language>eng</dc:language>
+<dc:title xml:lang="es">Analgésicos</dc:title>
+<dc:title xml:lang="en">Pain Relievers</dc:title>
+<dc:publisher>National Library of Medicine</dc:publisher>
+<dc:relation type="IsPartOf">Drug Therapy</dc:relation>
+<dc:date type="created">2005-01-25</dc:date>
+<dc:date type="modified">2018-02-07</dc:date>
+<dc:identifier type="URL" xml:lang="es">https://medlineplus.gov/spanish/painrelievers.html</dc:identifier>
+<dc:identifier type="URL" xml:lang="en">https://medlineplus.gov/painrelievers.html</dc:identifier>
+<dc:description xml:lang="es">Los analgésicos son medicinas que reducen o alivian los dolores de cabeza, musculares, artríticos o muchos otros achaques y dolores. Existen muchos tipos diferentes de analgésicos y cada uno tiene sus ventajas y riesgos. Algunos tipos de dolor responden mejor a determinadas medicinas que a otras. Además, cada persona puede tener una respuesta ligeramente distinta a un analgésico. Los medicamentos de venta sin receta son buenos para combatir muchos tipos de dolor. Existen dos tipos principales de analgésicos sin receta: acetaminofén (Tylenol) y antiinflamatorios no esteroideos. La aspirina, el naproxeno (Aleve) y el ibuprofén (Advil, Motrin) son ejemplos de antiinflamatorios no esteroideos sin receta. Si los medicamentos sin receta no le alivian el dolor, el médico puede indicarle algo más fuerte. Muchos de estos antiinflamatorios se encuentran disponibles en mayores dosis con receta médica. Los analgésicos más potentes son los opioides. Estos son muy efectivos pero a veces pueden causar graves efectos secundarios. También está el riesgo de provocar adicción. Por ello, usted debe tomarlos solamente bajo supervisión médica. Existen muchas cosas que puede hacer para combatir el dolor. Los analgésicos son sólo una parte del plan de tratamiento.</dc:description>
+<dc:description xml:lang="en">Pain relievers are medicines that reduce or relieve headaches, sore muscles, arthritis, or other aches and pains. There are many different pain medicines, and each one has advantages and risks. Some types of pain respond better to certain medicines than others. Each person may also have a slightly different response to a pain reliever. Over-the-counter (OTC) medicines are good for many types of pain. There are two main types of OTC pain medicines: acetaminophen (Tylenol) and nonsteroidal anti-inflammatory drugs (NSAIDs). Aspirin, naproxen (Aleve), and ibuprofen (Advil, Motrin) are examples of OTC NSAIDs. If OTC medicines don't relieve your pain, your doctor may prescribe something stronger. Many NSAIDs are also available at higher prescription doses. The most powerful pain relievers are opioids. They are very effective, but they can sometimes have serious side effects. There is also a risk of addiction. Because of the risks, you must use them only under a doctor's supervision. There are many things you can do to help ease pain. Pain relievers are just one part of a pain treatment plan.</dc:description>
+<dc:subject dcterms="mesh">Analgesics, Non-Narcotic</dc:subject>
+<dc:subject xml:lang="es">Analgésicos</dc:subject>
+<dc:subject xml:lang="es">Dolor</dc:subject>
+<dc:subject xml:lang="es">Remedios</dc:subject>
+<dc:subject xml:lang="es">Calmantes para el dolor</dc:subject>
+<dc:subject xml:lang="en">Pain Relievers</dc:subject>
+<dc:subject xml:lang="en">Narcotics</dc:subject>
+<dc:subject xml:lang="en">Painkillers</dc:subject>
+<dc:subject xml:lang="en">Methadone</dc:subject>
+<dc:subject xml:lang="en">Analgesics</dc:subject>
+</metadata>
+</record>
+</MedlinePlus-document>

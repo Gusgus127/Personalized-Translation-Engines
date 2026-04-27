@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<MedlinePlus-document>
+<record>
+<header>
+<identifier>https://medlineplus.gov/drugabuse.html</identifier>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title type="alternate" xml:lang="es">Alucinógenos</dc:title>
+<dc:title type="alternate" xml:lang="es">Metadona</dc:title>
+<dc:title type="alternate" xml:lang="es">Narcóticos</dc:title>
+<dc:title type="alternate" xml:lang="es">Opioides</dc:title>
+<dc:title type="alternate" xml:lang="es">Drogas, Abuso de</dc:title>
+<dc:title type="alternate" xml:lang="en">Narcotics</dc:title>
+<dc:title type="alternate" xml:lang="en">Hallucinogens</dc:title>
+<dc:title type="alternate" xml:lang="en">Substance Abuse</dc:title>
+<dc:type>Text</dc:type>
+<dc:language>spa</dc:language>
+<dc:language>eng</dc:language>
+<dc:title xml:lang="es">Abuso de drogas</dc:title>
+<dc:title xml:lang="en">Drug Abuse</dc:title>
+<dc:publisher>National Library of Medicine</dc:publisher>
+<dc:relation type="IsPartOf">Substance Abuse Problems</dc:relation>
+<dc:date type="created">2002-07-21</dc:date>
+<dc:date type="modified">2017-11-08</dc:date>
+<dc:identifier type="URL" xml:lang="es">https://medlineplus.gov/spanish/drugabuse.html</dc:identifier>
+<dc:identifier type="URL" xml:lang="en">https://medlineplus.gov/drugabuse.html</dc:identifier>
+<dc:description xml:lang="es">El abuso de drogas es un serio problema de salud pública que afecta a casi todas las comunidades y familias de algún modo. Todos los años, el abuso de drogas produce millones de enfermedades o lesiones graves en Estados Unidos. Las drogas que forman parte del abuso incluyen: Metanfetaminas Esteroides anabólicos Drogas de diseño Cocaína Heroína Inhalantes Marihuana Medicinas recetadas, incluyendo opioides El abuso de drogas también juega un importante papel en muchos problemas sociales de envergadura, como conducir vehículos bajo los efectos de drogas, violencia, estrés y maltrato infantil. El abuso de drogas puede llevar a perder el hogar, al crimen, ausencia laboral y problemas para conservar un trabajo. Perjudica al feto y destruye familias. Existen diferentes tipos de tratamiento para el abuso de drogas. Pero el mejor es prevenir el abuso en primer lugar. NIH: Instituto Nacional sobre el Abuso de Drogas</dc:description>
+<dc:description xml:lang="en">Drug abuse is a serious public health problem that affects almost every community and family in some way. Each year drug abuse causes millions of serious illnesses or injuries among Americans. Abused drugs include Methamphetamine Anabolic steroids Club drugs Cocaine Heroin Inhalants Marijuana Prescription drugs, including opioids Drug abuse also plays a role in many major social problems, such as drugged driving, violence, stress, and child abuse. Drug abuse can lead to homelessness, crime, and missed work or problems with keeping a job. It harms unborn babies and destroys families. There are different types of treatment for drug abuse. But the best is to prevent drug abuse in the first place. NIH: National Institute on Drug Abuse</dc:description>
+<dc:subject dcterms="mesh">Drug Misuse</dc:subject>
+<dc:subject dcterms="mesh">Substance-Related Disorders</dc:subject>
+<dc:subject xml:lang="es">Abuso de drogas</dc:subject>
+<dc:subject xml:lang="es">Alucinógenos</dc:subject>
+<dc:subject xml:lang="es">Metadona</dc:subject>
+<dc:subject xml:lang="es">Narcóticos</dc:subject>
+<dc:subject xml:lang="es">Opioides</dc:subject>
+<dc:subject xml:lang="es">Drogas</dc:subject>
+<dc:subject xml:lang="es">Abuso de</dc:subject>
+<dc:subject xml:lang="en">Drug Abuse</dc:subject>
+<dc:subject xml:lang="en">Narcotics</dc:subject>
+<dc:subject xml:lang="en">Hallucinogens</dc:subject>
+<dc:subject xml:lang="en">Substance Abuse</dc:subject>
+</metadata>
+</record>
+</MedlinePlus-document>

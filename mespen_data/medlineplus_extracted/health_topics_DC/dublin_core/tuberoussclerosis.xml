@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<MedlinePlus-document>
+<record>
+<header>
+<identifier>https://medlineplus.gov/tuberoussclerosis.html</identifier>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:type>Text</dc:type>
+<dc:language>spa</dc:language>
+<dc:language>eng</dc:language>
+<dc:title xml:lang="es">Esclerosis tuberosa</dc:title>
+<dc:title xml:lang="en">Tuberous Sclerosis</dc:title>
+<dc:publisher>National Library of Medicine</dc:publisher>
+<dc:relation type="IsPartOf">Genetics/Birth Defects</dc:relation>
+<dc:relation type="IsPartOf">Brain and Nerves</dc:relation>
+<dc:date type="created">2002-07-21</dc:date>
+<dc:date type="modified">2018-01-19</dc:date>
+<dc:identifier type="URL" xml:lang="es">https://medlineplus.gov/spanish/tuberoussclerosis.html</dc:identifier>
+<dc:identifier type="URL" xml:lang="en">https://medlineplus.gov/tuberoussclerosis.html</dc:identifier>
+<dc:description xml:lang="es">La esclerosis tuberosa es un trastorno genético raro que causa el crecimiento de tumores no cancerosos en el cerebro y otros órganos. Los síntomas varían dependiendo de la ubicación de los tumores. Los síntomas pueden incluir: Problemas con la piel, como zonas de piel claras y gruesas Convulsiones Problemas de conducta Discapacidades del aprendizaje Problemas renales Algunas personas presentan signos de esclerosis tuberosa al momento de nacer. En otras el desarrollo de los síntomas puede tomarse más tiempo. La enfermedad puede ser leve en algunos casos o provocar severas limitaciones. En casos raros, los tumores en los órganos vitales u otros síntomas pueden amenazar la vida. La esclerosis tuberosa no tiene cura, pero los tratamientos pueden ayudar a disminuir los síntomas. Las opciones incluyen medicinas, terapia educacional y ocupacional, cirugía para la condición o para tratar complicaciones específicas. NIH: Instituto Nacional de Trastornos Neurológicos y Accidentes Cerebrovasculares</dc:description>
+<dc:description xml:lang="en">Tuberous sclerosis is a rare genetic disease that causes benign tumors to grow in the brain and other organs. Symptoms vary, depending on where the tumors grow. They could include Skin problems, such as light patches and thickened skin Seizures Behavior problems Intellectual disabilities Kidney problems Some people have signs of tuberous sclerosis at birth. In others it can take time for the symptoms to develop. The disease can be mild, or it can cause severe disabilities. In rare cases, tumors in vital organs or other symptoms can be life-threatening. Tuberous sclerosis has no cure, but treatments can help symptoms. Options include medicines, educational and occupational therapy, surgery, or surgery to treat specific complications. NIH: National Institute of Neurological Disorders and Stroke</dc:description>
+<dc:subject dcterms="mesh">Tuberous Sclerosis</dc:subject>
+<dc:subject xml:lang="es">Esclerosis tuberosa</dc:subject>
+<dc:subject xml:lang="en">Tuberous Sclerosis</dc:subject>
+<dc:subject xml:lang="en">TSC</dc:subject>
+</metadata>
+</record>
+</MedlinePlus-document>

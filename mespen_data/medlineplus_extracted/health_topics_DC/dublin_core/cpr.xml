@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<MedlinePlus-document>
+<record>
+<header>
+<identifier>https://medlineplus.gov/cpr.html</identifier>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:type>Text</dc:type>
+<dc:language>spa</dc:language>
+<dc:language>eng</dc:language>
+<dc:title xml:lang="es">Resucitación cardiopulmonar</dc:title>
+<dc:title xml:lang="en">CPR</dc:title>
+<dc:publisher>National Library of Medicine</dc:publisher>
+<dc:relation type="IsPartOf">Blood, Heart and Circulation</dc:relation>
+<dc:relation type="IsPartOf">Injuries and Wounds</dc:relation>
+<dc:date type="created">2004-02-02</dc:date>
+<dc:date type="modified">2017-05-10</dc:date>
+<dc:identifier type="URL" xml:lang="es">https://medlineplus.gov/spanish/cpr.html</dc:identifier>
+<dc:identifier type="URL" xml:lang="en">https://medlineplus.gov/cpr.html</dc:identifier>
+<dc:description xml:lang="es">Cuando la circulación de la sangre o la respiración de una persona se detienen, cada segundo cuenta. El daño cerebral permanente o la muerte pueden ocurrir rápidamente. Si usted sabe hacer resucitación cardiopulmonar (RCP), puede salvar una vida. La RCP es un procedimiento de emergencia que puede mantener la circulación y la respiración hasta la llegada de ayuda médica de emergencia. Aún sin haber sido entrenado, usted puede administrar "RCP solo con las manos" a un adolescente o adulto cuyo corazón se ha detenido (RCP con las manos no es recomendada en niños). La "RCP solo con las manos" utiliza compresiones torácicas (en el centro del pecho) para mantener la sangre circulando hasta la llegada de ayuda de emergencia. Si usted está entrenado, puede usar compresiones torácicas, abrir las vías respiratorias y realizar respiraciones de rescate (respiración boca a boca). Para mantenerse actualizado, debe repetir el entrenamiento cada dos años.</dc:description>
+<dc:description xml:lang="en">When someone's blood flow or breathing stops, seconds count. Permanent brain damage or death can happen quickly. If you know how to perform cardiopulmonary resuscitation (CPR), you could save a life. CPR is an emergency procedure for a person whose heart has stopped or is no longer breathing. CPR can maintain circulation and breathing until emergency medical help arrives. Even if you haven't had training, you can do "hands-only" CPR for a teen or adult whose heart has stopped beating ("hands-only" CPR isn't recommended for children). "Hands-only" CPR uses chest compressions to keep blood circulating until emergency help arrives. If you've had training, you can use chest compressions, clear the airway, and do rescue breathing. Rescue breathing helps get oxygen to the lungs for a person who has stopped breathing. To keep your skills up, you should repeat the training every two years.</dc:description>
+<dc:subject dcterms="mesh">Cardiopulmonary Resuscitation</dc:subject>
+<dc:subject xml:lang="es">Resucitación cardiopulmonar</dc:subject>
+<dc:subject xml:lang="en">CPR</dc:subject>
+<dc:subject xml:lang="en">Cardiopulmonary Resuscitation</dc:subject>
+</metadata>
+</record>
+</MedlinePlus-document>

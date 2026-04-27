@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<MedlinePlus-document>
+<record>
+<header>
+<identifier>https://medlineplus.gov/fibromyalgia.html</identifier>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:type>Text</dc:type>
+<dc:language>spa</dc:language>
+<dc:language>eng</dc:language>
+<dc:title xml:lang="es">Fibromialgia</dc:title>
+<dc:title xml:lang="en">Fibromyalgia</dc:title>
+<dc:publisher>National Library of Medicine</dc:publisher>
+<dc:relation type="IsPartOf">Bones, Joints and Muscles</dc:relation>
+<dc:date type="created">2002-07-21</dc:date>
+<dc:date type="modified">2017-10-23</dc:date>
+<dc:identifier type="URL" xml:lang="es">https://medlineplus.gov/spanish/fibromyalgia.html</dc:identifier>
+<dc:identifier type="URL" xml:lang="en">https://medlineplus.gov/fibromyalgia.html</dc:identifier>
+<dc:description xml:lang="es">La fibromialgia es una condición que causa dolor en los músculos y cansancio. Las personas que sufren esta condición sienten "puntos sensibles" en el cuerpo. Estos puntos se encuentran en el cuello, hombros, espalda, cadera, brazos y piernas. Estos puntos duelen cuando se los presiona. Dificultad para dormir Rigidez en los músculos por la mañana Dolores de cabeza Períodos menstruales dolorosos Adormecimiento de las manos y pies Problemas con el pensamiento y la memoria, algunas veces llamados "lagunas" Nadie conoce la causa de la fibromialgia. Cualquiera puede tenerla, pero es más común en las mujeres de mediana edad. Las personas con artritis reumatoide y otras enfermedades autoinmunes tienen mayores probabilidades de desarrollar fibromialgia. No existe una cura, pero las medicinas pueden ayudar a controlar los síntomas. Dormir suficiente, llevar una dieta saludable y hacer ejercicio también puede ayudar. NIH: Instituto Nacional de Artritis y Enfermedades Musculoesqueléticas y de la Piel</dc:description>
+<dc:description xml:lang="en">Fibromyalgia is a disorder that causes muscle pain and fatigue. People with fibromyalgia have "tender points" on the body. Tender points are specific places on the neck, shoulders, back, hips, arms, and legs. These points hurt when pressure is put on them. People with fibromyalgia may also have other symptoms, such as Trouble sleeping Morning stiffness Headaches Painful menstrual periods Tingling or numbness in hands and feet Problems with thinking and memory (sometimes called "fibro fog") No one knows what causes fibromyalgia. Anyone can get it, but it is most common in middle-aged women. People with rheumatoid arthritis and other autoimmune diseases are particularly likely to develop fibromyalgia. There is no cure for fibromyalgia, but medicine can help you manage your symptoms. Getting enough sleep, exercising, and eating well may also help. NIH: National Institute of Arthritis and Musculoskeletal and Skin Diseases</dc:description>
+<dc:subject dcterms="mesh">Fibromyalgia</dc:subject>
+<dc:subject xml:lang="es">Fibromialgia</dc:subject>
+<dc:subject xml:lang="en">Fibromyalgia</dc:subject>
+</metadata>
+</record>
+</MedlinePlus-document>

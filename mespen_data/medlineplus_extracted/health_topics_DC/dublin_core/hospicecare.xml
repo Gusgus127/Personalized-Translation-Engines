@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<MedlinePlus-document>
+<record>
+<header>
+<identifier>https://medlineplus.gov/hospicecare.html</identifier>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title type="alternate" xml:lang="es">Crónicos o terminales, Cuidado de enfermos</dc:title>
+<dc:title type="alternate" xml:lang="es">Residencia de enfermos crónicos o terminales, Cuidado en</dc:title>
+<dc:title type="alternate" xml:lang="en">End of Life Care</dc:title>
+<dc:type>Text</dc:type>
+<dc:language>spa</dc:language>
+<dc:language>eng</dc:language>
+<dc:title xml:lang="es">Cuidados de hospicio</dc:title>
+<dc:title xml:lang="en">Hospice Care</dc:title>
+<dc:publisher>National Library of Medicine</dc:publisher>
+<dc:relation type="IsPartOf">Health System</dc:relation>
+<dc:date type="created">2002-07-21</dc:date>
+<dc:date type="modified">2017-09-28</dc:date>
+<dc:identifier type="URL" xml:lang="es">https://medlineplus.gov/spanish/hospicecare.html</dc:identifier>
+<dc:identifier type="URL" xml:lang="en">https://medlineplus.gov/hospicecare.html</dc:identifier>
+<dc:description xml:lang="es">El cuidado de hospicio es el cuidado para el final de la vida. Un equipo de profesionales de la salud y voluntarios lo proveen. Ellos brindan apoyo médico, psicológico y espiritual. El objetivo de estos cuidados es ayudar a las personas que están cerca de la muerte a tener paz, comodidades y dignidad. Las personas que prestan estos cuidados tratan de controlar el dolor y otros síntomas para que el paciente permanezca lo más alerta y cómodo posible. Los programas de cuidados de hospicio también ofrecen apoyo a la familia del paciente. Generalmente, se espera que los pacientes en cuidados de hospicio vivan 6 meses o menos. Los cuidados de hospicio pueden prestarse en: El domicilio del paciente Un centro de cuidados de hospicio Un hospital Instalaciones de cuidados especializados NIH: Instituto Nacional del Cáncer</dc:description>
+<dc:description xml:lang="en">Hospice care is end-of-life care. A team of health care professionals and volunteers provides it. They give medical, psychological, and spiritual support. The goal of the care is to help people who are dying have peace, comfort, and dignity. The caregivers try to control pain and other symptoms so a person can remain as alert and comfortable as possible. Hospice programs also provide services to support a patient's family. Usually, a hospice patient is expected to live 6 months or less. Hospice care can take place At home At a hospice center In a hospital In a skilled nursing facility NIH: National Cancer Institute</dc:description>
+<dc:subject dcterms="mesh">Hospices</dc:subject>
+<dc:subject xml:lang="es">Cuidados de hospicio</dc:subject>
+<dc:subject xml:lang="es">Crónicos o terminales</dc:subject>
+<dc:subject xml:lang="es">Cuidado de enfermos</dc:subject>
+<dc:subject xml:lang="es">Residencia de enfermos crónicos o terminales</dc:subject>
+<dc:subject xml:lang="es">Cuidado en</dc:subject>
+<dc:subject xml:lang="en">Hospice Care</dc:subject>
+<dc:subject xml:lang="en">End of Life Care</dc:subject>
+</metadata>
+</record>
+</MedlinePlus-document>

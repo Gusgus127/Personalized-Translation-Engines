@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<MedlinePlus-document>
+<record>
+<header>
+<identifier>https://medlineplus.gov/posttraumaticstressdisorder.html</identifier>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title type="alternate" xml:lang="es">PTSD</dc:title>
+<dc:title type="alternate" xml:lang="es">Estrés postraumático, Trastorno de</dc:title>
+<dc:title type="alternate" xml:lang="es">TEPT</dc:title>
+<dc:title type="alternate" xml:lang="en">PTSD</dc:title>
+<dc:type>Text</dc:type>
+<dc:language>spa</dc:language>
+<dc:language>eng</dc:language>
+<dc:title xml:lang="es">Trastorno de estrés postraumático</dc:title>
+<dc:title xml:lang="en">Post-Traumatic Stress Disorder</dc:title>
+<dc:publisher>National Library of Medicine</dc:publisher>
+<dc:relation type="IsPartOf">Mental Health and Behavior</dc:relation>
+<dc:date type="created">2002-07-21</dc:date>
+<dc:date type="modified">2017-06-23</dc:date>
+<dc:identifier type="URL" xml:lang="es">https://medlineplus.gov/spanish/posttraumaticstressdisorder.html</dc:identifier>
+<dc:identifier type="URL" xml:lang="en">https://medlineplus.gov/posttraumaticstressdisorder.html</dc:identifier>
+<dc:description xml:lang="es">El trastorno de estrés postraumático (TEPT) es una enfermedad real. Puede sufrir de TEPT luego de vivir o ver eventos traumáticos como la guerra, huracanes, violaciones, abusos físicos o un accidente grave. El trastorno de estrés postraumático hace que se sienta estresado y con temor luego de pasado el peligro. Afecta su vida y la de la gente que le rodea. El trastorno de estrés postraumático puede causar problemas como: Flashbacks o el sentimiento de que el evento está sucediendo nuevamente Dificultad para dormir o pesadillas Sentimiento de soledad Explosiones de ira Sentimientos de preocupación, culpa o tristeza El TEPT comienza en momentos diferentes dependiendo de la persona. Los síntomas de trastorno pueden empezar inmediatamente después del evento traumático y permanecer. Otras personas desarrollan síntomas nuevos y más serios meses o hasta años más tarde. El trastorno de estrés postraumático le puede afectar a cualquiera, incluso niños. El tratamiento puede incluir terapia de conversación, medicinas o una combinación de ambas. El tratamiento puede tomar de seis a 12 semanas. Para algunas personas, puede ser más largo. NIH: Instituto Nacional de la Salud Mental</dc:description>
+<dc:description xml:lang="en">Post-traumatic stress disorder (PTSD) is a real illness. You can get PTSD after living through or seeing a traumatic event, such as war, a hurricane, sexual assault, physical abuse, or a bad accident. PTSD makes you feel stressed and afraid after the danger is over. It affects your life and the people around you. PTSD can cause problems like Flashbacks, or feeling like the event is happening again Trouble sleeping or nightmares Feeling alone Angry outbursts Feeling worried, guilty, or sad PTSD starts at different times for different people. Signs of PTSD may start soon after a frightening event and then continue. Other people develop new or more severe signs months or even years later. PTSD can happen to anyone, even children. Treatment may include talk therapy, medicines, or both. Treatment might take 6 to 12 weeks. For some people, it takes longer. NIH: National Institute of Mental Health</dc:description>
+<dc:subject dcterms="mesh">Stress Disorders, Post-Traumatic</dc:subject>
+<dc:subject xml:lang="es">Trastorno de estrés postraumático</dc:subject>
+<dc:subject xml:lang="es">PTSD</dc:subject>
+<dc:subject xml:lang="es">Estrés postraumático</dc:subject>
+<dc:subject xml:lang="es">Trastorno de</dc:subject>
+<dc:subject xml:lang="es">TEPT</dc:subject>
+<dc:subject xml:lang="en">Post-Traumatic Stress Disorder</dc:subject>
+<dc:subject xml:lang="en">PTSD</dc:subject>
+</metadata>
+</record>
+</MedlinePlus-document>

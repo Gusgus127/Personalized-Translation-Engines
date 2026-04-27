@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<MedlinePlus-document>
+<record>
+<header>
+<identifier>https://medlineplus.gov/giardiainfections.html</identifier>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title type="alternate" xml:lang="es">Giardia, Infecciones por</dc:title>
+<dc:title type="alternate" xml:lang="es">Giardiasis</dc:title>
+<dc:type>Text</dc:type>
+<dc:language>spa</dc:language>
+<dc:language>eng</dc:language>
+<dc:title xml:lang="es">Infecciones por Giardia</dc:title>
+<dc:title xml:lang="en">Giardia Infections</dc:title>
+<dc:publisher>National Library of Medicine</dc:publisher>
+<dc:relation type="IsPartOf">Infections</dc:relation>
+<dc:date type="created">2002-07-21</dc:date>
+<dc:date type="modified">2017-01-10</dc:date>
+<dc:identifier type="URL" xml:lang="es">https://medlineplus.gov/spanish/giardiainfections.html</dc:identifier>
+<dc:identifier type="URL" xml:lang="en">https://medlineplus.gov/giardiainfections.html</dc:identifier>
+<dc:description xml:lang="es">La giardiasis es una enfermedad causada por un parásito llamado Giardia intestinalis. Este parásito vive en el suelo, los alimentos y el agua. También puede estar en las superficies contaminadas con desperdicios. También se puede estar expuesto al parásito a través de la materia fecal durante el contacto sexual. La infección puede ocurrir si se traga el parásito. El riesgo de contraer guardia es más alto en personas que viajan a países donde el parásito es común, en guarderías infantiles y en personas que beben agua sin tratar. La diarrea es el principal síntoma de la infección por giardia. Otros pueden ser: Gas Evacuaciones grasosas Cólicos abdominales Malestar estomacal o nauseas Estos síntomas pueden conducir a pérdida de peso y de líquidos corporales. Algunas personas no tienen ningún síntoma. En quienes los presentan, suelen durar de dos a seis semanas. Una muestra de materia fecal puede diagnosticarla. Muchas veces se necesita recolectar varias muestras para examinar. Los médicos utilizan varios medicamentos para tratarla. La mejor manera de prevenir la giardiasis es practicar una buena higiene, incluyendo el lavado de manos frecuente. No debe consumir agua que pueda estar contaminada. También debe pelar o lavar la fruta fresca y verduras antes de comer. Centros para el Control y la Prevención de Enfermedades</dc:description>
+<dc:description xml:lang="en">Giardiasis is an illness caused by a parasite called Giardia intestinalis. It lives in soil, food, and water. It may also be on surfaces that have been contaminated with waste. You can become infected if you swallow the parasite. You can also get it if you're exposed to human feces (poop) through sexual contact. The risk of getting giardia is higher for travelers to countries where it is common, people in child care settings, and those who drink untreated water. Diarrhea is the main symptom of giardia infection. Others include Passing gas Greasy stools Stomach cramps Upset stomach or nausea These symptoms may lead to weight loss and loss of body fluids. Some people have no symptoms at all. Symptoms of infection often last two to six weeks. Stool sample tests can diagnose it. You often need to collect several samples to test. Doctors use several drugs to treat it. The best way to prevent giardia infection is to practice good hygiene, including frequent hand washing. You should not drink water that may be contaminated. You should also peel or wash fresh fruit and vegetables before eating. Centers for Disease Control and Prevention</dc:description>
+<dc:subject dcterms="mesh">Giardiasis</dc:subject>
+<dc:subject xml:lang="es">Infecciones por Giardia</dc:subject>
+<dc:subject xml:lang="es">Giardia</dc:subject>
+<dc:subject xml:lang="es">Infecciones por</dc:subject>
+<dc:subject xml:lang="es">Giardiasis</dc:subject>
+<dc:subject xml:lang="en">Giardia Infections</dc:subject>
+</metadata>
+</record>
+</MedlinePlus-document>

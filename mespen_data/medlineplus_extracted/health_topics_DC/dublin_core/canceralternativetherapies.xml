@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<MedlinePlus-document>
+<record>
+<header>
+<identifier>https://medlineplus.gov/canceralternativetherapies.html</identifier>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title type="alternate" xml:lang="es">Cáncer, Terapia alternativa</dc:title>
+<dc:title type="alternate" xml:lang="en">Alternative Therapy for Cancer</dc:title>
+<dc:type>Text</dc:type>
+<dc:language>spa</dc:language>
+<dc:language>eng</dc:language>
+<dc:title xml:lang="es">Terapia alternativa para el cáncer</dc:title>
+<dc:title xml:lang="en">Cancer Alternative Therapies</dc:title>
+<dc:publisher>National Library of Medicine</dc:publisher>
+<dc:relation type="IsPartOf">Complementary and Alternative Therapies</dc:relation>
+<dc:relation type="IsPartOf">Cancers</dc:relation>
+<dc:date type="created">2003-04-29</dc:date>
+<dc:date type="modified">2017-11-27</dc:date>
+<dc:identifier type="URL" xml:lang="es">https://medlineplus.gov/spanish/canceralternativetherapies.html</dc:identifier>
+<dc:identifier type="URL" xml:lang="en">https://medlineplus.gov/canceralternativetherapies.html</dc:identifier>
+<dc:description xml:lang="es">Usted tiene muchas opciones para su tratamiento del cáncer. Una de las opciones que puede considerar es la medicina complementaria y alternativa, que se refiere a los productos y las prácticas médicas que no forman parte de los cuidados estándar. Ejemplos de estas terapias son la acupuntura, la quiropráctica y la medicina herbaria. Los pacientes de cáncer pueden usar medicina complementaria y alternativa para: Ayudar a enfrentar los efectos secundarios del tratamiento de cáncer Disminuir las preocupaciones por el tratamiento de cáncer y el estrés que significa Sentir que están haciendo algo más para ayudar en su cuidado propio Los tratamientos complementarios y alternativos no funcionan para todos, pero algunos métodos como la acupuntura pueden ayudar a mejorar las náuseas, el dolor y otros efectos secundarios del tratamiento contra el cáncer. Hable con su médico para asegurarse que todos los aspectos del tratamiento funcionen en forma conjunta. NIH: Instituto Nacional del Cáncer</dc:description>
+<dc:description xml:lang="en">You have many choices to make about your cancer treatment. One choice you might be thinking about is complementary and alternative medicine (CAM). CAM is the term for medical products and practices that are not part of standard care. Examples of CAM therapies are acupuncture, chiropractic, and herbal medicines. People with cancer may use CAM to Help cope with the side effects of cancer treatments Ease worries of cancer treatment and related stress Feel that they are doing something more to help their own care CAM treatments do not work for everyone. Some methods, such as acupuncture, might help with nausea, pain and other side effects of cancer treatment. Talk to your doctor to make sure that all aspects of your cancer care work together. NIH: National Cancer Institute</dc:description>
+<dc:subject dcterms="mesh">Neoplasms</dc:subject>
+<dc:subject dcterms="mesh">Complementary Therapies</dc:subject>
+<dc:subject xml:lang="es">Terapia alternativa para el cáncer</dc:subject>
+<dc:subject xml:lang="es">Cáncer</dc:subject>
+<dc:subject xml:lang="es">Terapia alternativa</dc:subject>
+<dc:subject xml:lang="en">Cancer Alternative Therapies</dc:subject>
+<dc:subject xml:lang="en">Alternative Therapy for Cancer</dc:subject>
+</metadata>
+</record>
+</MedlinePlus-document>

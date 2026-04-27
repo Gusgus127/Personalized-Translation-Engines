@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<MedlinePlus-document>
+<record>
+<header>
+<identifier>https://medlineplus.gov/tremor.html</identifier>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:type>Text</dc:type>
+<dc:language>spa</dc:language>
+<dc:language>eng</dc:language>
+<dc:title xml:lang="es">Temblor</dc:title>
+<dc:title xml:lang="en">Tremor</dc:title>
+<dc:publisher>National Library of Medicine</dc:publisher>
+<dc:relation type="IsPartOf">Seniors</dc:relation>
+<dc:relation type="IsPartOf">Brain and Nerves</dc:relation>
+<dc:date type="created">2002-07-21</dc:date>
+<dc:date type="modified">2016-12-07</dc:date>
+<dc:identifier type="URL" xml:lang="es">https://medlineplus.gov/spanish/tremor.html</dc:identifier>
+<dc:identifier type="URL" xml:lang="en">https://medlineplus.gov/tremor.html</dc:identifier>
+<dc:description xml:lang="es">Los temblores son sacudidas no intencionales en una o más partes del cuerpo. La mayoría de los temblores ocurren en las manos. También pueden presentarse en el brazo, la cabeza, la cara, las cuerdas vocales, el tronco y las piernas. Son comunes entre las personas de mediana edad y en los ancianos, pero cualquiera puede tenerlos. La causa de los temblores es un problema en las partes del cerebro que controlan los músculos en el cuerpo o en partes específicas del cuerpo, como las manos. Ocurren por lo general en personas sanas. También pueden ser ocasionados por enfermedades como: Enfermedad de Parkinson Distonía Esclerosis múltiple Ataque cerebral Lesión traumática de cabeza Abuso del alcohol y abstinencia Algunas medicinas Algunas formas son hereditarias y son comunes entre familias. Otras son de causa desconocida. La mayoría de los temblores no tiene cura. El tratamiento para aliviarlos depende de su causa. En muchos casos, las medicinas y a veces las intervenciones quirúrgicas pueden disminuir o detener los temblores y mejorar el control muscular. Los temblores no son peligrosos para la vida. No obstante, pueden resultar incómodos y dificultar las labores cotidianas. NIH: Instituto Nacional de Trastornos Neurológicos y Accidentes Cerebrovasculares</dc:description>
+<dc:description xml:lang="en">Tremors are unintentional trembling or shaking movements in one or more parts of your body. Most tremors occur in the hands. You can also have arm, head, face, vocal cord, trunk, and leg tremors. Tremors are most common in middle-aged and older people, but anyone can have them. The cause of tremors is a problem in the parts of the brain that control muscles in the body or in specific parts of the body, such as the hands. They commonly occur in otherwise healthy people. They may also be caused by problems such as Parkinson's disease Dystonia Multiple sclerosis Stroke Traumatic brain injury Alcohol abuse and withdrawal Certain medicines Some forms are inherited and run in families. Others have no known cause. There is no cure for most tremors. Treatment to relieve them depends on their cause. In many cases, medicines and sometimes surgical procedures can reduce or stop tremors and improve muscle control. Tremors are not life threatening. However, they can be embarrassing and make it hard to perform daily tasks. NIH: National Institute of Neurological Disorders and Stroke</dc:description>
+<dc:subject dcterms="mesh">Tremor</dc:subject>
+<dc:subject xml:lang="es">Temblor</dc:subject>
+<dc:subject xml:lang="en">Tremor</dc:subject>
+<dc:subject xml:lang="en">Essential Tremor</dc:subject>
+</metadata>
+</record>
+</MedlinePlus-document>

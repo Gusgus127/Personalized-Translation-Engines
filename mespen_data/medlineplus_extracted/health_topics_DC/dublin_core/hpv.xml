@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<MedlinePlus-document>
+<record>
+<header>
+<identifier>https://medlineplus.gov/hpv.html</identifier>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title type="alternate" xml:lang="es">Papilomavirus humano (PVH)</dc:title>
+<dc:title type="alternate" xml:lang="es">VPH</dc:title>
+<dc:title type="alternate" xml:lang="en">Human Papillomavirus</dc:title>
+<dc:title type="alternate" xml:lang="en">HPV Vaccine</dc:title>
+<dc:type>Text</dc:type>
+<dc:language>spa</dc:language>
+<dc:language>eng</dc:language>
+<dc:title xml:lang="es">Virus del papiloma humano</dc:title>
+<dc:title xml:lang="en">HPV</dc:title>
+<dc:publisher>National Library of Medicine</dc:publisher>
+<dc:relation type="IsPartOf">Infections</dc:relation>
+<dc:relation type="IsPartOf">Female Reproductive System</dc:relation>
+<dc:relation type="IsPartOf">Sexual Health Issues</dc:relation>
+<dc:date type="created">2002-08-19</dc:date>
+<dc:date type="modified">2018-02-05</dc:date>
+<dc:identifier type="URL" xml:lang="es">https://medlineplus.gov/spanish/hpv.html</dc:identifier>
+<dc:identifier type="URL" xml:lang="en">https://medlineplus.gov/hpv.html</dc:identifier>
+<dc:description xml:lang="es">Los virus del papiloma humano (VPH) son un grupo de virus relacionados entre sí. Pueden causar verrugas en diferentes partes del cuerpo. Existen más de 200 tipos. Cerca de 40 de ellos afectan a los genitales. Estos se propagan a través del contacto sexual con una persona infectada. Algunos de ellos pueden ponerle en riesgo desarrollar un cáncer. Existen dos categorías de VPH transmitidos por vía sexual. El VPH de bajo riesgo causa verrugas genitales. El VPH de alto riesgo puede causar varios tipos de cáncer: Cáncer de cuello uterino Cáncer del ano Algunos tipos de cáncer oral y de garganta Cáncer de vulva Cáncer de vagina Cáncer del pene Las infecciones por VPH son las infecciones de transmisión sexual más comunes en los Estados Unidos. Cualquier persona que ha sido activo sexualmente puede contraer el VPH, pero usted está en mayor riesgo si ha tenido muchas parejas sexuales o si ha estado con alguien que ha tenido muchas parejas. Debido a que es muy común, la mayoría de las personas se contagian con VPH poco después de ser sexualmente activos por primera vez. Algunas personas desarrollan verrugas genitales por infección con VPH, pero otras no muestran síntomas. La mayoría elimina las infecciones de VPH en dos a tres años sin desarrollar cáncer. Sin embargo, algunas infecciones pueden persistir por muchos años. Estas infecciones pueden generar cambios en las células que, si no se tratan, pueden volverse cancerosas. En las mujeres, las pruebas de Papanicolaou pueden detectar cambios en el cuello uterino que pueden convertirse en cáncer. Las pruebas de Papanicolaou, junto a los exámenes de VPH, son pruebas de detección del cáncer cervical. El uso correcto de los preservativos de látex reduce en gran parte, aunque no elimina completamente, el riesgo de contraer y contagiar el VPH. La forma más confiable de evitar la infección es no tener sexo anal, vaginal u oral. Las vacunas pueden proteger contra varios tipos de VPH, incluyendo algunos de los que pueden causar cáncer. NIH: Instituto Nacional del Cáncer</dc:description>
+<dc:description xml:lang="en">Human papillomaviruses (HPV) are a group of related viruses. They can cause warts on different parts of your body. There are more than 200 types. About 40 of those types affect the genitals. They are spread through sexual contact with an infected partner. Some of those can put you at risk for cancer. There are two categories of sexually-transmitted HPV. Low-risk HPV can cause genital warts. High-risk HPV can cause various cancers: Cervical cancer Anal cancer Some types of oral and throat cancer Vulvar cancer Vaginal cancer Penile cancer HPV infections are the most common sexually transmitted infections in the United States. Anyone who has ever been sexually active can get HPV, but you are more likely to get it if you have had many sex partners or have had sex with someone who has had many partners. Because it is so common, most people get HPV infections shortly after becoming sexually active for the first time. Some people develop genital warts from HPV infection, but others have no symptoms. Most high-risk HPV infections go away within 1 to 2 years and do not cause cancer. Some HPV infections, however, can persist for many years. Those infections can lead to cell changes that, if not treated, may become cancerous. In women, Pap tests can detect changes in the cervix that might lead to cancer. Pap tests, along with HPV tests, are used in cervical cancer screening. Correct usage of latex condoms greatly reduces, but does not completely eliminate, the risk of catching or spreading HPV. The most reliable way to avoid infection is to not have anal, vaginal, or oral sex. Vaccines can protect against several types of HPV, including some that can cause cancer. NIH: National Cancer Institute</dc:description>
+<dc:subject dcterms="mesh">Alphapapillomavirus</dc:subject>
+<dc:subject dcterms="mesh">Papillomavirus Infections</dc:subject>
+<dc:subject xml:lang="es">Virus del papiloma humano</dc:subject>
+<dc:subject xml:lang="es">Papilomavirus humano (PVH)</dc:subject>
+<dc:subject xml:lang="es">VPH</dc:subject>
+<dc:subject xml:lang="en">HPV</dc:subject>
+<dc:subject xml:lang="en">Human Papillomavirus</dc:subject>
+<dc:subject xml:lang="en">HPV Vaccine</dc:subject>
+</metadata>
+</record>
+</MedlinePlus-document>

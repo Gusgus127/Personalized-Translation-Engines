@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<MedlinePlus-document>
+<record>
+<header>
+<identifier>https://medlineplus.gov/earthquakes.html</identifier>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title type="alternate" xml:lang="es">Desastres naturales</dc:title>
+<dc:title type="alternate" xml:lang="en">Natural Disasters</dc:title>
+<dc:type>Text</dc:type>
+<dc:language>spa</dc:language>
+<dc:language>eng</dc:language>
+<dc:title xml:lang="es">Terremotos</dc:title>
+<dc:title xml:lang="en">Earthquakes</dc:title>
+<dc:publisher>National Library of Medicine</dc:publisher>
+<dc:relation type="IsPartOf">Disasters</dc:relation>
+<dc:date type="created">2008-06-25</dc:date>
+<dc:date type="modified">2017-09-08</dc:date>
+<dc:identifier type="URL" xml:lang="es">https://medlineplus.gov/spanish/earthquakes.html</dc:identifier>
+<dc:identifier type="URL" xml:lang="en">https://medlineplus.gov/earthquakes.html</dc:identifier>
+<dc:description xml:lang="es">Se produce un terremoto cuando hay un desplazamiento súbito de un bloque de tierra sobre otro. Los terremotos ocurren repentinamente, en forma violenta y sin aviso previo en cualquier momento del día o de la noche. Si un terremoto ocurre en un área poblada, puede causar daños a las propiedades, lesiones e incluso muertes. Si vive en un área costera, existe la posibilidad de un tsunami. Los daños causados por los terremotos también pueden conducir a inundaciones o incendios. Aunque no hay garantías de seguridad durante un terremoto, usted puede tomar medidas para protegerse. Debe tener un plan de acción para casos de desastres. Estar preparado puede ayudar a reducir el miedo, la ansiedad y las pérdidas. Si usted experimenta un desastre, es normal sentirse estresado. Es posible que necesite ayuda para encontrar maneras de superarlo. Agencia Federal para el Manejo de Emergencias</dc:description>
+<dc:description xml:lang="en">An earthquake happens when two blocks of the earth suddenly slip past one another. Earthquakes strike suddenly, violently, and without warning at any time of the day or night. If an earthquake occurs in a populated area, it may cause property damage, injuries, and even deaths. If you live in a coastal area, there is the possibility of a tsunami. Damage from earthquakes can also lead to floods or fires. Although there are no guarantees of safety during an earthquake, you can take actions to protect yourself. You should have a disaster plan. Being prepared can help reduce fear, anxiety, and losses. If you do experience a disaster, it is normal to feel stressed. You may need help in finding ways to cope. Federal Emergency Management Agency</dc:description>
+<dc:subject dcterms="mesh">Earthquakes</dc:subject>
+<dc:subject xml:lang="es">Terremotos</dc:subject>
+<dc:subject xml:lang="es">Desastres naturales</dc:subject>
+<dc:subject xml:lang="en">Earthquakes</dc:subject>
+<dc:subject xml:lang="en">Natural Disasters</dc:subject>
+</metadata>
+</record>
+</MedlinePlus-document>

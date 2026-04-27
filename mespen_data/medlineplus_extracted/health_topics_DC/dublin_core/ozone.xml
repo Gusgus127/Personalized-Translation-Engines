@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<MedlinePlus-document>
+<record>
+<header>
+<identifier>https://medlineplus.gov/ozone.html</identifier>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title type="alternate" xml:lang="es">Agujero de ozono</dc:title>
+<dc:type>Text</dc:type>
+<dc:language>spa</dc:language>
+<dc:language>eng</dc:language>
+<dc:title xml:lang="es">Ozono</dc:title>
+<dc:title xml:lang="en">Ozone</dc:title>
+<dc:publisher>National Library of Medicine</dc:publisher>
+<dc:relation type="IsPartOf">Poisoning, Toxicology, Environmental Health</dc:relation>
+<dc:date type="created">2002-07-21</dc:date>
+<dc:date type="modified">2017-07-31</dc:date>
+<dc:identifier type="URL" xml:lang="es">https://medlineplus.gov/spanish/ozone.html</dc:identifier>
+<dc:identifier type="URL" xml:lang="en">https://medlineplus.gov/ozone.html</dc:identifier>
+<dc:description xml:lang="es">El ozono es un gas incoloro que se encuentra en el aire que respiramos. Puede ser bueno o malo, dependiendo de donde se encuentre. El ozono "bueno" se encuentra en la naturaleza a aproximadamente 10 a 30 millas sobre la superficie terrestre. Nos protege de los rayos ultravioleta del sol. Parte de la capa de ozono bueno desapareció por sustancias químicas fabricadas por el hombre. Sin suficiente ozono bueno, las personas pueden exponerse a demasiada radiación ultravioleta. Eso puede aumentar el riesgo de cáncer en la piel, cataratas y problemas en el sistema inmunitario. El ozono "malo" se encuentra al nivel del suelo. Se forma cuando los contaminantes de los automóviles, las fábricas y otras fuentes reaccionan químicamente con la luz del sol. Es el componente principal del smog. Suele ser peor en verano. Respirar el ozono malo puede ser dañino. Provoca tos, irritación en la garganta, empeoramiento de condiciones como asma, bronquitis y enfisema y hasta daños pulmonares permanentes, si la exposición a éste es habitual. Agencia de Protección Ambiental</dc:description>
+<dc:description xml:lang="en">Ozone is a gas. It can be good or bad, depending on where it is. "Good" ozone occurs naturally about 10 to 30 miles above the Earth's surface. It shields us from the sun's ultraviolet rays. Part of the good ozone layer is gone. Man-made chemicals have destroyed it. Without enough good ozone, people may get too much ultraviolet radiation. This may increase the risk of skin cancer, cataracts, and immune system problems. "Bad" ozone is at ground level. It forms when pollutants from cars, factories, and other sources react chemically with sunlight. It is the main ingredient in smog. It is usually worst in the summer. Breathing bad ozone can be harmful. It can cause coughing, throat irritation, worsening of asthma, bronchitis, and emphysema. It can lead to permanent lung damage, if you are regularly exposed to it. Environmental Protection Agency</dc:description>
+<dc:subject dcterms="mesh">Ozone</dc:subject>
+<dc:subject dcterms="mesh">Stratospheric Ozone</dc:subject>
+<dc:subject xml:lang="es">Ozono</dc:subject>
+<dc:subject xml:lang="es">Agujero de ozono</dc:subject>
+<dc:subject xml:lang="en">Ozone</dc:subject>
+</metadata>
+</record>
+</MedlinePlus-document>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<MedlinePlus-document>
+<record>
+<header>
+<identifier>https://medlineplus.gov/leishmaniasis.html</identifier>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title type="alternate" xml:lang="es">Kala-azar</dc:title>
+<dc:type>Text</dc:type>
+<dc:language>spa</dc:language>
+<dc:language>eng</dc:language>
+<dc:title xml:lang="es">Leishmaniasis</dc:title>
+<dc:title xml:lang="en">Leishmaniasis</dc:title>
+<dc:publisher>National Library of Medicine</dc:publisher>
+<dc:relation type="IsPartOf">Skin, Hair and Nails</dc:relation>
+<dc:relation type="IsPartOf">Infections</dc:relation>
+<dc:date type="created">2004-02-25</dc:date>
+<dc:date type="modified">2017-07-11</dc:date>
+<dc:identifier type="URL" xml:lang="es">https://medlineplus.gov/spanish/leishmaniasis.html</dc:identifier>
+<dc:identifier type="URL" xml:lang="en">https://medlineplus.gov/leishmaniasis.html</dc:identifier>
+<dc:description xml:lang="es">La leishmaniasis es una enfermedad parasitaria diseminada por la picadura de un mosquito infectado. Existen varias formas distintas de leishmaniasis. Las más comunes son la cutánea y la visceral. El tipo cutáneo causa llagas en la piel. El tipo visceral afecta los órganos internos, tales como el bazo, el hígado y la médula ósea. Las personas con esta enfermedad suelen tener fiebre, pérdida de peso y aumento de tamaño del bazo y el hígado. La leishmaniasis se encuentra en algunas áreas de 88 países aproximadamente. La mayoría de estos países se encuentra en zonas tropicales y subtropicales. Es posible, pero poco probable, que adquiera esta enfermedad en los Estados Unidos. Pero debe estar pendiente de ella si viaja al Medio Oriente o a regiones de América Central, América del Sur, Asia, África o el sur de Europa. El tratamiento consiste en medicinas que contienen antimonio, un tipo de metal o potentes antibióticos. La mejor forma de prevenirla es protegerse de las picaduras de mosquito: Evite estar al aire libre desde el anochecer hasta el amanecer Use pantalones largos y camisas de manga larga cuando este afuera Use repelente de insectos y mosquiteros cuando sea necesario Centros para el Control y la Prevención de Enfermedades</dc:description>
+<dc:description xml:lang="en">Leishmaniasis is a parasitic disease spread by the bite of infected sand flies. There are several different forms of leishmaniasis. The most common are cutaneous and visceral. The cutaneous type causes skin sores. The visceral type affects internal organs such as the spleen, liver, and bone marrow. People with this form usually have fever, weight loss, and an enlarged spleen and liver. Leishmaniasis is found in parts of about 88 countries. Most of these countries are in the tropics and subtropics. It is possible but very unlikely that you would get this disease in the United States. But you should be aware of it if you are traveling to the Middle East or parts of Central America, South America, Asia, Africa or southern Europe. Treatment is with medicines that contain antimony, a type of metal, or with strong antibiotics. The best way to prevent the disease is to protect yourself from sand fly bites: Stay indoors from dusk to dawn, when sand flies are the most active Wear long pants and long-sleeved shirts when outside Use insect repellent and bed nets as needed Centers for Disease Control and Prevention</dc:description>
+<dc:subject dcterms="mesh">Leishmaniasis</dc:subject>
+<dc:subject xml:lang="es">Leishmaniasis</dc:subject>
+<dc:subject xml:lang="es">Kala-azar</dc:subject>
+<dc:subject xml:lang="en">Leishmaniasis</dc:subject>
+</metadata>
+</record>
+</MedlinePlus-document>

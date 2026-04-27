@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<MedlinePlus-document>
+<record>
+<header>
+<identifier>https://medlineplus.gov/immunization.html</identifier>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title type="alternate" xml:lang="es">Vacunación</dc:title>
+<dc:title type="alternate" xml:lang="es">Vacunación de adultos</dc:title>
+<dc:title type="alternate" xml:lang="es">Adultos, Vacunación</dc:title>
+<dc:title type="alternate" xml:lang="en">Adult Immunization</dc:title>
+<dc:title type="alternate" xml:lang="en">Vaccines</dc:title>
+<dc:type>Text</dc:type>
+<dc:language>spa</dc:language>
+<dc:language>eng</dc:language>
+<dc:title xml:lang="es">Inmunización o vacunación</dc:title>
+<dc:title xml:lang="en">Immunization</dc:title>
+<dc:publisher>National Library of Medicine</dc:publisher>
+<dc:relation type="IsPartOf">Immune System</dc:relation>
+<dc:relation type="IsPartOf">Infections</dc:relation>
+<dc:date type="created">2002-07-21</dc:date>
+<dc:date type="modified">2018-02-14</dc:date>
+<dc:identifier type="URL" xml:lang="es">https://medlineplus.gov/spanish/immunization.html</dc:identifier>
+<dc:identifier type="URL" xml:lang="en">https://medlineplus.gov/immunization.html</dc:identifier>
+<dc:description xml:lang="es">Las inyecciones pueden doler un poco, pero las enfermedades que pueden evitar pueden doler mucho más. Las inmunizaciones o vacunas son esenciales. Protegen contra enfermedades como el sarampión, paperas, rubéola, hepatitis B, polio, tétanos, difteria y tos ferina. Las vacunas son importantes tanto para los adultos, como para los niños. El sistema inmunitario ayuda a que su cuerpo luche contra los gérmenes produciendo sustancias para combatirlos. Una vez que lo hace, el sistema inmunitario "recuerda" el germen y puede luchar contra él nuevamente. Las vacunas contienen gérmenes muertos o debilitados. Cuando se le administra a una persona sana, la vacuna desencadena una respuesta del sistema inmunitario para que responda, creando inmunidad. Antes de existir las vacunas, las personas solamente podían ser inmunes cuando verdaderamente contraían la enfermedad y sobrevivían a ella. Las inmunizaciones son una manera más fácil y menos riesgosa de hacerse inmune. NIH: Instituto Nacional de Alergias y Enfermedades Infecciosas</dc:description>
+<dc:description xml:lang="en">Shots may hurt a little, but the diseases they can prevent are a lot worse. Some are even life-threatening. Immunization shots, or vaccinations, are essential. They protect against things like measles, mumps, rubella, hepatitis B, polio, tetanus, diphtheria, and pertussis (whooping cough). Immunizations are important for adults as well as children. Your immune system helps your body fight germs by producing substances to combat them. Once it does, the immune system "remembers" the germ and can fight it again. Vaccines contain germs that have been killed or weakened. When given to a healthy person, the vaccine triggers the immune system to respond and thus build immunity. Before vaccines, people became immune only by actually getting a disease and surviving it. Immunizations are an easier and less risky way to become immune. NIH: National Institute of Allergy and Infectious Diseases</dc:description>
+<dc:subject dcterms="mesh">Vaccines</dc:subject>
+<dc:subject dcterms="mesh">Immunization</dc:subject>
+<dc:subject dcterms="mesh">Vaccination</dc:subject>
+<dc:subject xml:lang="es">Inmunización o vacunación</dc:subject>
+<dc:subject xml:lang="es">Vacunación</dc:subject>
+<dc:subject xml:lang="es">Vacunación de adultos</dc:subject>
+<dc:subject xml:lang="es">Adultos</dc:subject>
+<dc:subject xml:lang="es">Vacunación</dc:subject>
+<dc:subject xml:lang="en">Immunization</dc:subject>
+<dc:subject xml:lang="en">Adult Immunization</dc:subject>
+<dc:subject xml:lang="en">Vaccines</dc:subject>
+</metadata>
+</record>
+</MedlinePlus-document>

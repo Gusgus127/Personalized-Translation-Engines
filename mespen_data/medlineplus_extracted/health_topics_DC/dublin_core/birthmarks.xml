@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<MedlinePlus-document>
+<record>
+<header>
+<identifier>https://medlineplus.gov/birthmarks.html</identifier>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:type>Text</dc:type>
+<dc:language>spa</dc:language>
+<dc:language>eng</dc:language>
+<dc:title xml:lang="es">Manchas de nacimiento</dc:title>
+<dc:title xml:lang="en">Birthmarks</dc:title>
+<dc:publisher>National Library of Medicine</dc:publisher>
+<dc:relation type="IsPartOf">Skin, Hair and Nails</dc:relation>
+<dc:date type="created">2010-04-26</dc:date>
+<dc:date type="modified">2017-07-07</dc:date>
+<dc:identifier type="URL" xml:lang="es">https://medlineplus.gov/spanish/birthmarks.html</dc:identifier>
+<dc:identifier type="URL" xml:lang="en">https://medlineplus.gov/birthmarks.html</dc:identifier>
+<dc:description xml:lang="es">Las manchas de nacimiento son anomalías de la piel que se presentan en el recién nacido. Hay dos tipos de manchas de nacimiento: vasculares y pigmentadas. Las vasculares son formadas por vasos sanguíneos que no se han desarrollado correctamente y que comúnmente son rojas. Los hemangiomas y los hemangiomas planos son dos tipos de manchas vasculares. Las pigmentadas están compuestas por un racimo de células que contienen el pigmento que da el color a la piel. Pueden ser de varios colores, desde color marrón claro, gris a negro y, a veces, azul. Los lunares pueden ser manchas de nacimiento. No se sabe qué es lo que causa este tipo de manchas, pero algunas son de familia. El doctor de su bebé mirará las manchas para ver si necesitan tratamiento o seguimiento. Generalmente, las manchas pigmentadas no se tratan, excepto los lunares. El tratamiento para las manchas vasculares incluye láser. La mayoría no es un problema serio y otras desaparecen por sí solas. Algunas permanecen igual o empeoran a medida que se envejece. Por lo general, las marcas de nacimiento son sólo una preocupación por su apariencia. Pero ciertos tipos pueden aumentar el riesgo de cáncer de piel. Si su marca de nacimiento sangra, duele, pica o se infecta, llame a su proveedor de salud.</dc:description>
+<dc:description xml:lang="en">Birthmarks are abnormalities of the skin that are present when a baby is born. There are two types of birthmarks. Vascular birthmarks are made up of blood vessels that haven't formed correctly. They are usually red. Two types of vascular birthmarks are hemangiomas and port-wine stains. Pigmented birthmarks are made of a cluster of pigment cells which cause color in skin. They can be many different colors, from tan to brown, gray to black, or even blue. Moles can be birthmarks. No one knows what causes many types of birthmarks, but some run in families. Your baby's doctor will look at the birthmark to see if it needs any treatment or if it should be watched. Pigmented birthmarks aren't usually treated, except for moles. Treatment for vascular birthmarks includes laser surgery. Most birthmarks are not serious, and some go away on their own. Some stay the same or get worse as you get older. Usually birthmarks are only a concern for your appearance. But certain types can increase your risk of skin cancer. If your birthmark bleeds, hurts, itches, or becomes infected, call your health care provider.</dc:description>
+<dc:subject dcterms="mesh">Hemangioma</dc:subject>
+<dc:subject dcterms="mesh">Nevus</dc:subject>
+<dc:subject xml:lang="es">Manchas de nacimiento</dc:subject>
+<dc:subject xml:lang="en">Birthmarks</dc:subject>
+<dc:subject xml:lang="en">Nevus</dc:subject>
+<dc:subject xml:lang="en">Hemangioma</dc:subject>
+</metadata>
+</record>
+</MedlinePlus-document>

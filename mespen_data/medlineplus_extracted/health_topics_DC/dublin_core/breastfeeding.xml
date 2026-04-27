@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<MedlinePlus-document>
+<record>
+<header>
+<identifier>https://medlineplus.gov/breastfeeding.html</identifier>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title type="alternate" xml:lang="es">Amamantar</dc:title>
+<dc:type>Text</dc:type>
+<dc:language>spa</dc:language>
+<dc:language>eng</dc:language>
+<dc:title xml:lang="es">Lactancia</dc:title>
+<dc:title xml:lang="en">Breastfeeding</dc:title>
+<dc:publisher>National Library of Medicine</dc:publisher>
+<dc:relation type="IsPartOf">Food and Nutrition</dc:relation>
+<dc:relation type="IsPartOf">Female Reproductive System</dc:relation>
+<dc:relation type="IsPartOf">Women</dc:relation>
+<dc:date type="created">2002-07-21</dc:date>
+<dc:date type="modified">2018-01-24</dc:date>
+<dc:identifier type="URL" xml:lang="es">https://medlineplus.gov/spanish/breastfeeding.html</dc:identifier>
+<dc:identifier type="URL" xml:lang="en">https://medlineplus.gov/breastfeeding.html</dc:identifier>
+<dc:description xml:lang="es">La lactancia materna ofrece muchos beneficios para su bebé. La leche materna contiene el equilibrio adecuado de nutrientes para ayudar a que el bebé crezca y se convierta en un niño fuerte y sano. Algunos de los nutrientes de la leche materna también ayudan a proteger al niño de algunas enfermedades e infecciones comunes. También puede beneficiar a la salud de la madre. Algunos tipos de cáncer pueden ocurrir con menos frecuencia en las madres que amamantaron a sus bebés. Las mujeres que no tienen problemas de salud deben intentar amamantar a sus bebés por al menos los primeros seis meses de vida. La mayoría de las mujeres con problemas de salud pueden amamantar. Hay raras excepciones cuando se aconseja a las mujeres no amamantar porque tienen ciertas enfermedades. Algunos medicamentos, las drogas ilegales y el alcohol también pasan a través de la leche materna y pueden dañar al niño. Consulte con su médico si tiene preocupaciones sobre si debe amamantar. Si usted está teniendo problemas con la lactancia, contacte a un especialista en lactancia. NIH: Instituto Nacional de Salud Infantil y Desarrollo Humano</dc:description>
+<dc:description xml:lang="en">Breastfeeding offers many benefits to your baby. Breast milk contains the right balance of nutrients to help your infant grow into a strong and healthy toddler. Some of the nutrients in breast milk also help protect your infant against some common childhood illnesses and infections. It may also help your health. Certain types of cancer may occur less often in mothers who have breastfed their babies. Women who don't have health problems should try to give their babies breast milk for at least the first six months of life. Most women with health problems can breastfeed. There are rare exceptions when women are advised not to breastfeed because they have certain illnesses. Some medicines, illegal drugs, and alcohol can also pass through the breast milk and cause harm to your baby. Check with your health care provider if you have concerns about whether you should breastfeed. If you are having problems with breastfeeding, contact a lactation consultant. NIH: National Institute of Child Health and Human Development</dc:description>
+<dc:subject dcterms="mesh">Breast Feeding</dc:subject>
+<dc:subject xml:lang="es">Lactancia</dc:subject>
+<dc:subject xml:lang="es">Amamantar</dc:subject>
+<dc:subject xml:lang="en">Breastfeeding</dc:subject>
+</metadata>
+</record>
+</MedlinePlus-document>

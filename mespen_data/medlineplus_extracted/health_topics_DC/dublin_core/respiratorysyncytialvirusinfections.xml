@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<MedlinePlus-document>
+<record>
+<header>
+<identifier>https://medlineplus.gov/respiratorysyncytialvirusinfections.html</identifier>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title type="alternate" xml:lang="es">Infección por el virus VRS</dc:title>
+<dc:title type="alternate" xml:lang="es">VRS</dc:title>
+<dc:title type="alternate" xml:lang="es">Bronquiolitis</dc:title>
+<dc:title type="alternate" xml:lang="en">RSV Infections</dc:title>
+<dc:title type="alternate" xml:lang="en">Bronchiolitis</dc:title>
+<dc:type>Text</dc:type>
+<dc:language>spa</dc:language>
+<dc:language>eng</dc:language>
+<dc:title xml:lang="es">Virus respiratorio sincitial</dc:title>
+<dc:title xml:lang="en">Respiratory Syncytial Virus Infections</dc:title>
+<dc:publisher>National Library of Medicine</dc:publisher>
+<dc:relation type="IsPartOf">Infections</dc:relation>
+<dc:relation type="IsPartOf">Children and Teenagers</dc:relation>
+<dc:relation type="IsPartOf">Lungs and Breathing</dc:relation>
+<dc:date type="created">2003-03-14</dc:date>
+<dc:date type="modified">2017-03-02</dc:date>
+<dc:identifier type="URL" xml:lang="es">https://medlineplus.gov/spanish/respiratorysyncytialvirusinfections.html</dc:identifier>
+<dc:identifier type="URL" xml:lang="en">https://medlineplus.gov/respiratorysyncytialvirusinfections.html</dc:identifier>
+<dc:description xml:lang="es">El virus respiratorio sincitial causa síntomas leves, similares a los de un resfrío, en adultos y niños mayores. Puede causar problemas serios en bebés, incluyendo neumonía y problemas respiratorios severos. Los bebés prematuros y los que tienen otros problemas de salud corren el mayor riesgo. Un menor de edad con el virus puede presentar fiebre, obstrucción nasal, tos y dificultades para respirar. Análisis de laboratorio pueden confirmar si su hijo lo tiene. No hay tratamientos específicos. Usted debe dar a su hijo líquidos para prevenir la deshidratación. De ser necesario, también puede darle analgésicos (aunque no aspirina) para la fiebre y el dolor de cabeza. El virus respiratorio sincitial se transmite fácilmente de una persona a otra. Puede adquirirse por contacto directo con alguien que lo tiene o por tocar objetos infectados, como juguetes o superficies como mostradores. El lavado frecuente de manos y no compartir utensilios para comer o beber son formas simples de prevenir que se propague el virus. En la actualidad, no existe una vacuna contra el virus respiratorio sincitial. Centros para el Control y la Prevención de Enfermedades</dc:description>
+<dc:description xml:lang="en">Respiratory syncytial virus (RSV) causes mild, cold-like symptoms in adults and older healthy children. It can cause serious problems in young babies, including pneumonia and severe breathing problems. Premature babies and those with other health problems have the highest risk. A child with RSV may have a fever, stuffy nose, cough, and trouble breathing. Lab tests can tell if your child has the virus. There is no specific treatment. You should give your child fluids to prevent dehydration. If needed, you can also give a pain reliever (not aspirin) for fever and headache. RSV easily spreads from person to person. You can get it from direct contact with someone who has it or by touching infected objects such as toys or surfaces such as countertops. Washing your hands often and not sharing eating and drinking utensils are simple ways to help prevent the spread of RSV infection. There is currently no vaccine for RSV. Centers for Disease Control and Prevention</dc:description>
+<dc:subject dcterms="mesh">Respiratory Syncytial Virus Infections</dc:subject>
+<dc:subject xml:lang="es">Virus respiratorio sincitial</dc:subject>
+<dc:subject xml:lang="es">Infección por el virus VRS</dc:subject>
+<dc:subject xml:lang="es">VRS</dc:subject>
+<dc:subject xml:lang="es">Bronquiolitis</dc:subject>
+<dc:subject xml:lang="en">Respiratory Syncytial Virus Infections</dc:subject>
+<dc:subject xml:lang="en">RSV Infections</dc:subject>
+<dc:subject xml:lang="en">Bronchiolitis</dc:subject>
+</metadata>
+</record>
+</MedlinePlus-document>

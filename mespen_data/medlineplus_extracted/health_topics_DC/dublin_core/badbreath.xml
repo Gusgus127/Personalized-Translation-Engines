@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<MedlinePlus-document>
+<record>
+<header>
+<identifier>https://medlineplus.gov/badbreath.html</identifier>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title type="alternate" xml:lang="es">Halitosis</dc:title>
+<dc:title type="alternate" xml:lang="en">Halitosis</dc:title>
+<dc:title type="alternate" xml:lang="en">Breath Odor</dc:title>
+<dc:type>Text</dc:type>
+<dc:language>spa</dc:language>
+<dc:language>eng</dc:language>
+<dc:title xml:lang="es">Mal aliento</dc:title>
+<dc:title xml:lang="en">Bad Breath</dc:title>
+<dc:publisher>National Library of Medicine</dc:publisher>
+<dc:relation type="IsPartOf">Mouth and Teeth</dc:relation>
+<dc:relation type="IsPartOf">Symptoms</dc:relation>
+<dc:date type="created">2012-08-20</dc:date>
+<dc:date type="modified">2017-05-24</dc:date>
+<dc:identifier type="URL" xml:lang="es">https://medlineplus.gov/spanish/badbreath.html</dc:identifier>
+<dc:identifier type="URL" xml:lang="en">https://medlineplus.gov/badbreath.html</dc:identifier>
+<dc:description xml:lang="es">Hay muchas razones por las cuales usted puede tener mal aliento. Puede ser porque no se cepilla o no usa el hilo dental frecuentemente. La bacteria que se acumula en su boca y entre los dientes produce mal olor. Otras causas pueden ser enfermedades de las encías, boca seca o caries, sinusitis u otros problemas con su nariz. Algunos alimentos también pueden causar mal aliento (o halitosis) como cebollas crudas, ajo o repollo. Por supuesto, fumar produce su propio mal olor. Así mismo, algunos medicamentos y enfermedades pueden causar un mal aliento característico. Tener buenos hábitos dentales, como el cepillado y el uso del hilo dental, ayuda a combatir el mal aliento. Los enjuagues bucales, caramelos de menta o goma de mascar pueden refrescar su aliento. Si usted tiene una enfermedad que causa halitosis, tratarla puede mejorar su aliento.</dc:description>
+<dc:description xml:lang="en">There are many reasons why you might have bad breath. You can get it if you don't brush and floss regularly. Bacteria that build up in your mouth and between your teeth produce the bad odor. Other problems in your mouth, such as gum disease, dry mouth, or cavities, may also cause it. Sinusitis or problems with your nose may be to blame. You can also have bad breath if you eat some foods, like raw onions, garlic, or cabbage. And of course smoking causes its own bad smell. Some diseases and medicines can cause a specific breath odor. Having good dental habits, like brushing and flossing regularly, help fight bad breath. Mouthwashes, mints or chewing gum may make your breath fresher. If you have a disease that causes the bad breath, treating the disease may help give you fresher breath.</dc:description>
+<dc:subject dcterms="mesh">Halitosis</dc:subject>
+<dc:subject xml:lang="es">Mal aliento</dc:subject>
+<dc:subject xml:lang="es">Halitosis</dc:subject>
+<dc:subject xml:lang="en">Bad Breath</dc:subject>
+<dc:subject xml:lang="en">Halitosis</dc:subject>
+<dc:subject xml:lang="en">Breath Odor</dc:subject>
+</metadata>
+</record>
+</MedlinePlus-document>

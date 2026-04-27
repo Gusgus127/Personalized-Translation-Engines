@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<MedlinePlus-document>
+<record>
+<header>
+<identifier>https://medlineplus.gov/hemophilia.html</identifier>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:type>Text</dc:type>
+<dc:language>spa</dc:language>
+<dc:language>eng</dc:language>
+<dc:title xml:lang="es">Hemofilia</dc:title>
+<dc:title xml:lang="en">Hemophilia</dc:title>
+<dc:publisher>National Library of Medicine</dc:publisher>
+<dc:relation type="IsPartOf">Genetics/Birth Defects</dc:relation>
+<dc:relation type="IsPartOf">Blood, Heart and Circulation</dc:relation>
+<dc:date type="created">2003-02-07</dc:date>
+<dc:date type="modified">2017-12-13</dc:date>
+<dc:identifier type="URL" xml:lang="es">https://medlineplus.gov/spanish/hemophilia.html</dc:identifier>
+<dc:identifier type="URL" xml:lang="en">https://medlineplus.gov/hemophilia.html</dc:identifier>
+<dc:description xml:lang="es">La hemofilia es un trastorno poco común en el cual la sangre no coagula normalmente. La hemofilia suele ocurrir en hombres. Las personas con hemofilia carecen de un factor de coagulación o lo tienen en baja cantidad. Los factores de coagulación son proteínas necesarias para la coagulación normal de la sangre. Sin él, las personas pueden sangrar mucho tiempo después de una lesión o un accidente. También pueden sangrar internamente por las rodillas, tobillos y codos. La hemorragia en las articulaciones provoca dolor y, cuando no se trata, puede conducir a artritis. Las hemorragias cerebrales constituyen una complicación muy seria de la hemofilia y requieren tratamiento de emergencia. Los principales signos y síntomas de la hemofilia son el sangrado excesivo y la aparición fácil de moretones. Unos análisis de sangre pueden detectarla. El tratamiento principal es la inyección del factor de coagulación faltante en el torrente sanguíneo. Puede realizarse regularmente o sólo cuando la persona lo necesite. NIH: Instituto Nacional del Corazón, los Pulmones y la Sangre</dc:description>
+<dc:description xml:lang="en">Hemophilia is a rare disorder in which the blood does not clot normally. It is usually inherited. Hemophilia usually occurs in males. If you have hemophilia, you have little or no clotting factor. Clotting factor is a protein needed for normal blood clotting. Without it, you may bleed for a long time after an injury or accident. You also may bleed into your knees, ankles, and elbows. Bleeding in the joints causes pain and, if not treated, can lead to arthritis. Bleeding in the brain, a very serious complication of hemophilia, requires emergency treatment. The main symptoms of hemophilia are excessive bleeding and easy bruising. Blood tests can tell if you have it. The main treatment is injecting the missing clotting factor into the bloodstream. You may need it on a regular basis, or just when bleeding occurs. NIH: National Heart, Lung, and Blood Institute</dc:description>
+<dc:subject dcterms="mesh">Hemophilia A</dc:subject>
+<dc:subject xml:lang="es">Hemofilia</dc:subject>
+<dc:subject xml:lang="en">Hemophilia</dc:subject>
+<dc:subject xml:lang="en">Blood Coagulation Disorders</dc:subject>
+</metadata>
+</record>
+</MedlinePlus-document>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<MedlinePlus-document>
+<record>
+<header>
+<identifier>https://medlineplus.gov/psychoticdisorders.html</identifier>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:type>Text</dc:type>
+<dc:language>spa</dc:language>
+<dc:language>eng</dc:language>
+<dc:title xml:lang="es">Trastornos psicóticos</dc:title>
+<dc:title xml:lang="en">Psychotic Disorders</dc:title>
+<dc:publisher>National Library of Medicine</dc:publisher>
+<dc:relation type="IsPartOf">Mental Health and Behavior</dc:relation>
+<dc:date type="created">2006-02-03</dc:date>
+<dc:date type="modified">2017-08-28</dc:date>
+<dc:identifier type="URL" xml:lang="es">https://medlineplus.gov/spanish/psychoticdisorders.html</dc:identifier>
+<dc:identifier type="URL" xml:lang="en">https://medlineplus.gov/psychoticdisorders.html</dc:identifier>
+<dc:description xml:lang="es">Los trastornos psicóticos son trastornos mentales graves que causan ideas y percepciones anormales. Las personas con psicosis pierden el contacto con la realidad. Dos de los síntomas principales son delirios y alucinaciones. Los delirios son falsas creencias, tales como la idea de que alguien está en su contra o que la televisión les envía mensajes secretos. Las alucinaciones son percepciones falsas, como escuchar, ver o sentir algo que no existe. La esquizofrenia es un tipo de trastorno psicótico. Quienes sufren de trastorno bipolar también pueden tener síntomas psicóticos. Otros problemas que pueden causar psicosis son: el alcohol y ciertos medicamentos, tumores cerebrales, infecciones del cerebro y un ataque cerebrovascular (ACV). El tratamiento depende de la causa de la psicosis. Puede incluir fármacos para el control de los síntomas y psicoterapia. La hospitalización es una opción para los casos serios en los que una persona puede ser peligrosa para sí misma o para los demás.</dc:description>
+<dc:description xml:lang="en">Psychotic disorders are severe mental disorders that cause abnormal thinking and perceptions. People with psychoses lose touch with reality. Two of the main symptoms are delusions and hallucinations. Delusions are false beliefs, such as thinking that someone is plotting against you or that the TV is sending you secret messages. Hallucinations are false perceptions, such as hearing, seeing, or feeling something that is not there. Schizophrenia is one type of psychotic disorder. People with bipolar disorder may also have psychotic symptoms. Other problems that can cause psychosis include alcohol and some drugs, brain tumors, brain infections, and stroke. Treatment depends on the cause of the psychosis. It might involve drugs to control symptoms and talk therapy. Hospitalization is an option for serious cases where a person might be dangerous to himself or others.</dc:description>
+<dc:subject dcterms="mesh">Psychotic Disorders</dc:subject>
+<dc:subject xml:lang="es">Trastornos psicóticos</dc:subject>
+<dc:subject xml:lang="en">Psychotic Disorders</dc:subject>
+</metadata>
+</record>
+</MedlinePlus-document>

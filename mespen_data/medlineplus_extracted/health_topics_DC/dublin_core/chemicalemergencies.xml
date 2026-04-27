@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<MedlinePlus-document>
+<record>
+<header>
+<identifier>https://medlineplus.gov/chemicalemergencies.html</identifier>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title type="alternate" xml:lang="es">Armas químicas</dc:title>
+<dc:title type="alternate" xml:lang="es">Agentes químicos</dc:title>
+<dc:title type="alternate" xml:lang="es">Desastres causados por el hombre</dc:title>
+<dc:title type="alternate" xml:lang="en">Chemical Weapons</dc:title>
+<dc:title type="alternate" xml:lang="en">Chemical Warfare</dc:title>
+<dc:title type="alternate" xml:lang="en">Man-Made Disasters</dc:title>
+<dc:type>Text</dc:type>
+<dc:language>spa</dc:language>
+<dc:language>eng</dc:language>
+<dc:title xml:lang="es">Emergencias químicas</dc:title>
+<dc:title xml:lang="en">Chemical Emergencies</dc:title>
+<dc:publisher>National Library of Medicine</dc:publisher>
+<dc:relation type="IsPartOf">Disasters</dc:relation>
+<dc:date type="created">2003-04-11</dc:date>
+<dc:date type="modified">2018-01-17</dc:date>
+<dc:identifier type="URL" xml:lang="es">https://medlineplus.gov/spanish/chemicalemergencies.html</dc:identifier>
+<dc:identifier type="URL" xml:lang="en">https://medlineplus.gov/chemicalemergencies.html</dc:identifier>
+<dc:description xml:lang="es">Cuando un químico peligroso es liberado al ambiente, puede dañar la salud de las personas. La liberación de químicos puede ser un accidente. También puede ser planificado, como en el caso de un ataque terrorista con armas químicas. Algunos químicos peligrosos han sido desarrollados por organizaciones militares para su uso en la guerra. Algunos ejemplos son los agentes o gases nerviosos como el sarín y el VX. Muchos productos químicos peligrosos son usados en la industria, por ejemplo el cloro, amoníaco, y benceno. Algunos se pueden hacer de artículos de uso diario, tales como limpiadores para el hogar. Aunque no existen garantías de seguridad durante una emergencia química, puede tomar medidas para protegerse. Debe tener un plan de acción para casos de desastres. Estar preparado puede ayudar a reducir el miedo, la ansiedad y las pérdidas. Si usted experimenta un desastre, es normal que se sienta estresado. Es posible que necesite ayuda para encontrar maneras de enfrentarlo. Centros para el Control y Prevención de Enfermedades</dc:description>
+<dc:description xml:lang="en">When a hazardous chemical has been released, it may harm people's health. Chemical releases can be unintentional, as in the case of an industrial accident. They could also be planned, as in the case of a terrorist attack with a chemical weapon. Some hazardous chemicals have been developed by military organizations for use in warfare. Examples are nerve agents such as sarin and VX. Many hazardous chemicals are used in industry - for example, chlorine, ammonia, and benzene. Some can be made from everyday items such as household cleaners. Although there are no guarantees of safety during a chemical emergency, you can take actions to protect yourself. You should have a disaster plan. Being prepared can help reduce fear, anxiety, and losses. If you do experience a disaster, it is normal to feel stressed. You may need help in finding ways to cope. Centers for Disease Control and Prevention</dc:description>
+<dc:subject dcterms="mesh">Chemical Warfare Agents</dc:subject>
+<dc:subject dcterms="mesh">Chemical Terrorism</dc:subject>
+<dc:subject dcterms="mesh">Chemical Warfare</dc:subject>
+<dc:subject xml:lang="es">Emergencias químicas</dc:subject>
+<dc:subject xml:lang="es">Armas químicas</dc:subject>
+<dc:subject xml:lang="es">Agentes químicos</dc:subject>
+<dc:subject xml:lang="es">Desastres causados por el hombre</dc:subject>
+<dc:subject xml:lang="en">Chemical Emergencies</dc:subject>
+<dc:subject xml:lang="en">Chemical Weapons</dc:subject>
+<dc:subject xml:lang="en">Chemical Warfare</dc:subject>
+<dc:subject xml:lang="en">Man-Made Disasters</dc:subject>
+</metadata>
+</record>
+</MedlinePlus-document>

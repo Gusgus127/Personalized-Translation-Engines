@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<MedlinePlus-document>
+<record>
+<header>
+<identifier>https://medlineplus.gov/coldandcoughmedicines.html</identifier>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title type="alternate" xml:lang="es">Tos, Medicamentos</dc:title>
+<dc:title type="alternate" xml:lang="es">Resfrío, Medicamentos</dc:title>
+<dc:title type="alternate" xml:lang="es">Jarabe para la tos</dc:title>
+<dc:title type="alternate" xml:lang="en">Cough Medicines</dc:title>
+<dc:type>Text</dc:type>
+<dc:language>spa</dc:language>
+<dc:language>eng</dc:language>
+<dc:title xml:lang="es">Medicinas para la tos y el resfrío</dc:title>
+<dc:title xml:lang="en">Cold and Cough Medicines</dc:title>
+<dc:publisher>National Library of Medicine</dc:publisher>
+<dc:relation type="IsPartOf">Drug Therapy</dc:relation>
+<dc:date type="created">2009-09-15</dc:date>
+<dc:date type="modified">2017-11-08</dc:date>
+<dc:identifier type="URL" xml:lang="es">https://medlineplus.gov/spanish/coldandcoughmedicines.html</dc:identifier>
+<dc:identifier type="URL" xml:lang="en">https://medlineplus.gov/coldandcoughmedicines.html</dc:identifier>
+<dc:description xml:lang="es">Estornudos, dolor de garganta, congestión nasal, tos; todos conocen los síntomas del resfrío. Quizá sea la enfermedad más común. Los adultos sufren entre dos y tres resfríos cada año, y los niños aún más. ¿Qué puede hacer con su resfrío o su tos? Además de beber mucho líquido y de descansar bastante, tal vez quiera tomar medicinas. Hay muchos tipos de medicinas para la tos y el resfrío, y hacen distintas cosas: Descongestionantes nasales: Destapan la nariz congestionada Antitusígenos: Calman la tos Expectorantes: Aflojan el moco para que pueda eliminarlo cuando tose Antihistamínicos: Paran la congestión nasal y los estornudos Analgésicos: Alivian la fiebre, los dolores de cabeza y otros dolores menores Antes de tomar estas medicinas, lea las etiquetas con cuidado. Muchas de ellas contienen los mismos ingredientes activos. Por ejemplo, consumir muchos analgésicos puede provocar lesiones serias. No dé medicinas para el resfrío o la tos a niños menores de cuatro años, y no le dé aspirina a niños. Por último, los antibióticos no curan el resfrío. Centros para el Control y la Prevención de Enfermedades</dc:description>
+<dc:description xml:lang="en">Sneezing, sore throat, a stuffy nose, coughing -- everyone knows the symptoms of the common cold. It is probably the most common illness. Every year, adults get about 2-3 colds, and children get even more. What can you do for your cold or cough symptoms? Besides drinking lots of fluids and getting plenty of rest, you may decide to take medicines. There are lots of different cold and cough medicines, and they do different things. Nasal decongestants - unclog a stuffy nose Cough suppressants - quiet a cough Expectorants - loosen mucus so you can cough it up Antihistamines - stop runny noses and sneezing Pain relievers - ease fever, headaches, and minor aches and pains Before taking these medicines, read the labels carefully. Many cold and cough medicines contain the same active ingredients. For example, taking too much of certain pain relievers can lead to serious injury. Do not give cold or cough medicines to children under four, and don't give aspirin to children. Finally, antibiotics won't help a cold. Centers for Disease Control and Prevention</dc:description>
+<dc:subject dcterms="mesh">Nasal Decongestants</dc:subject>
+<dc:subject dcterms="mesh">Histamine Antagonists</dc:subject>
+<dc:subject dcterms="mesh">Antitussive Agents</dc:subject>
+<dc:subject dcterms="mesh">Multi-Ingredient Cold, Flu, and Allergy Medications</dc:subject>
+<dc:subject xml:lang="es">Medicinas para la tos y el resfrío</dc:subject>
+<dc:subject xml:lang="es">Tos</dc:subject>
+<dc:subject xml:lang="es">Medicamentos</dc:subject>
+<dc:subject xml:lang="es">Resfrío</dc:subject>
+<dc:subject xml:lang="es">Medicamentos</dc:subject>
+<dc:subject xml:lang="es">Jarabe para la tos</dc:subject>
+<dc:subject xml:lang="en">Cold and Cough Medicines</dc:subject>
+<dc:subject xml:lang="en">Cough Medicines</dc:subject>
+</metadata>
+</record>
+</MedlinePlus-document>

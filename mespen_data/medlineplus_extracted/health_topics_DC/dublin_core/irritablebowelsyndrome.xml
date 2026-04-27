@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<MedlinePlus-document>
+<record>
+<header>
+<identifier>https://medlineplus.gov/irritablebowelsyndrome.html</identifier>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title type="alternate" xml:lang="es">Intestino irritable, Síndrome del</dc:title>
+<dc:title type="alternate" xml:lang="es">Colon irritable, Síndrome de</dc:title>
+<dc:title type="alternate" xml:lang="en">IBS</dc:title>
+<dc:type>Text</dc:type>
+<dc:language>spa</dc:language>
+<dc:language>eng</dc:language>
+<dc:title xml:lang="es">Síndrome del intestino irritable</dc:title>
+<dc:title xml:lang="en">Irritable Bowel Syndrome</dc:title>
+<dc:publisher>National Library of Medicine</dc:publisher>
+<dc:relation type="IsPartOf">Digestive System</dc:relation>
+<dc:date type="created">2002-07-21</dc:date>
+<dc:date type="modified">2017-08-22</dc:date>
+<dc:identifier type="URL" xml:lang="es">https://medlineplus.gov/spanish/irritablebowelsyndrome.html</dc:identifier>
+<dc:identifier type="URL" xml:lang="en">https://medlineplus.gov/irritablebowelsyndrome.html</dc:identifier>
+<dc:description xml:lang="es">El síndrome del intestino irritable es un problema que afecta al intestino grueso. Puede causar cólicos abdominales, distensión y cambios en los hábitos intestinales. Algunas personas con este trastorno tienen estreñimiento, otras tienen diarrea. Algunas pasan de un cuadro de estreñimiento a uno de diarrea. Aun cuando el síndrome del intestino irritable puede causar muchas molestias, no daña el intestino. El síndrome del intestino irritable es un cuadro común. Las mujeres lo sufren el doble más que en los hombres, y es más común en personas menores de 45 años. No se conoce la causa exacta de este síndrome, ni tampoco existe una prueba específica para diagnosticarlo. Su médico puede realizar exámenes para estar seguros que no tiene otras enfermedades. Estas pruebas pueden incluir análisis de heces, de sangre y radiografías. El médico también puede practicarle un estudio llamado sigmoidoscopía o colonoscopía. La mayoría de las personas con diagnóstico de síndrome del intestino irritable puede controlar sus síntomas con dieta, manejo del estrés, probióticos y medicinas. NIH: Instituto Nacional de la Diabetes y las Enfermedades Digestivas y Renales</dc:description>
+<dc:description xml:lang="en">Irritable bowel syndrome (IBS) is a problem that affects the large intestine. It can cause abdominal cramping, bloating, and a change in bowel habits. Some people with the disorder have constipation. Some have diarrhea. Others go back and forth between the two. Although IBS can cause a great deal of discomfort, it does not harm the intestines. IBS is common. It affects about twice as many women as men and is most often found in people younger than 45 years. No one knows the exact cause of IBS. There is no specific test for it. Your doctor may run tests to be sure you don't have other diseases. These tests may include stool sampling tests, blood tests, and x-rays. Your doctor may also do a test called a sigmoidoscopy or colonoscopy. Most people diagnosed with IBS can control their symptoms with diet, stress management, probiotics, and medicine. NIH: National Institute of Diabetes and Digestive and Kidney Diseases</dc:description>
+<dc:subject dcterms="mesh">Colonic Diseases, Functional</dc:subject>
+<dc:subject xml:lang="es">Síndrome del intestino irritable</dc:subject>
+<dc:subject xml:lang="es">Intestino irritable</dc:subject>
+<dc:subject xml:lang="es">Síndrome del</dc:subject>
+<dc:subject xml:lang="es">Colon irritable</dc:subject>
+<dc:subject xml:lang="es">Síndrome de</dc:subject>
+<dc:subject xml:lang="en">Irritable Bowel Syndrome</dc:subject>
+<dc:subject xml:lang="en">IBS</dc:subject>
+</metadata>
+</record>
+</MedlinePlus-document>

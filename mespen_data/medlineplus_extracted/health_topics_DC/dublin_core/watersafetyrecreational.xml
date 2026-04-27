@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<MedlinePlus-document>
+<record>
+<header>
+<identifier>https://medlineplus.gov/watersafetyrecreational.html</identifier>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:type>Text</dc:type>
+<dc:language>spa</dc:language>
+<dc:language>eng</dc:language>
+<dc:title xml:lang="es">Seguridad en el agua (Recreación)</dc:title>
+<dc:title xml:lang="en">Water Safety (Recreational)</dc:title>
+<dc:publisher>National Library of Medicine</dc:publisher>
+<dc:relation type="IsPartOf">Safety Issues</dc:relation>
+<dc:date type="created">2003-06-26</dc:date>
+<dc:date type="modified">2018-01-09</dc:date>
+<dc:identifier type="URL" xml:lang="es">https://medlineplus.gov/spanish/watersafetyrecreational.html</dc:identifier>
+<dc:identifier type="URL" xml:lang="en">https://medlineplus.gov/watersafetyrecreational.html</dc:identifier>
+<dc:description xml:lang="es">Jugar en el agua, ya sea al nadar, navegar o bucear, puede ser divertido. También puede ser peligroso, especialmente para los niños. Tomar medidas de seguridad puede ayudar a prevenir lesiones y ahogos. Para mantenerse seguro en el agua: Evite el alcohol cuando nade o navegue Use un chaleco salvavidas cada vez que esté en un bote No nade solo o con mal tiempo Aprenda resucitación cardiopulmonar (RCP) Aprenda a nadar y enséñele a sus niños Supervise a sus niños cuando estén en el agua Prevenga las quemaduras por el sol y use suficiente bloqueador solar</dc:description>
+<dc:description xml:lang="en">Playing in the water - whether swimming, boating or diving - can be fun. It can also be dangerous, especially for children. Being safe can help prevent injuries and drowning. To stay safe in the water Avoid alcohol when swimming or boating Wear a life jacket whenever you're in a boat Don't swim alone, or in bad weather Learn CPR Learn to swim and teach your children to swim Supervise your children when they are in the water Prevent sunburns - use plenty of sunscreen</dc:description>
+<dc:subject dcterms="mesh">Recreation</dc:subject>
+<dc:subject dcterms="mesh">Safety</dc:subject>
+<dc:subject dcterms="mesh">Water Sports</dc:subject>
+<dc:subject xml:lang="es">Seguridad en el agua (Recreación)</dc:subject>
+<dc:subject xml:lang="en">Water Safety (Recreational)</dc:subject>
+<dc:subject xml:lang="en">Recreational Safety</dc:subject>
+</metadata>
+</record>
+</MedlinePlus-document>

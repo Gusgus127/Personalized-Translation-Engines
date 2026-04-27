@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<MedlinePlus-document>
+<record>
+<header>
+<identifier>https://medlineplus.gov/diabeticdiet.html</identifier>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title type="alternate" xml:lang="es">Diabetes, Dieta</dc:title>
+<dc:type>Text</dc:type>
+<dc:language>spa</dc:language>
+<dc:language>eng</dc:language>
+<dc:title xml:lang="es">Dieta para diabéticos</dc:title>
+<dc:title xml:lang="en">Diabetic Diet</dc:title>
+<dc:publisher>National Library of Medicine</dc:publisher>
+<dc:relation type="IsPartOf">Food and Nutrition</dc:relation>
+<dc:relation type="IsPartOf">Diabetes Mellitus</dc:relation>
+<dc:relation type="IsPartOf">Endocrine System</dc:relation>
+<dc:date type="created">2003-03-04</dc:date>
+<dc:date type="modified">2017-11-02</dc:date>
+<dc:identifier type="URL" xml:lang="es">https://medlineplus.gov/spanish/diabeticdiet.html</dc:identifier>
+<dc:identifier type="URL" xml:lang="en">https://medlineplus.gov/diabeticdiet.html</dc:identifier>
+<dc:description xml:lang="es">Si tiene diabetes, su cuerpo no puede producir o utilizar la insulina adecuadamente. Esto conduce a una elevación del nivel de glucosa (azúcar) en la sangre. Una alimentación sana ayuda a mantener el azúcar de la sangre en un nivel adecuado. Es una parte fundamental del manejo de la diabetes, ya que controlando el azúcar en la sangre (glucemia) se pueden prevenir las complicaciones de la diabetes. Un nutricionista puede ayudarlo a diseñar un plan de comidas específico para usted. Este plan debe tener en cuenta su peso, medicinas que esté tomando, estilo de vida y otros problemas de salud que usted pueda tener. Una alimentación saludable para un diabético incluye Limitar alimentos con altos contenidos de azúcar Comer porciones pequeñas a lo largo del día Prestar atención a cuándo y cuánta cantidad de carbohidratos consume Consumir una gran variedad de alimentos integrales, frutas y vegetales Comer menos grasas Limitar el consumo del alcohol Usar menos sal NIH: Instituto Nacional de la Diabetes y las Enfermedades Digestivas y Renales</dc:description>
+<dc:description xml:lang="en">If you have diabetes, your body cannot make or properly use insulin. This leads to high blood glucose, or blood sugar, levels. Healthy eating helps keep your blood sugar in your target range. It is a critical part of managing your diabetes, because controlling your blood sugar can prevent the complications of diabetes. A registered dietitian can help make an eating plan just for you. It should take into account your weight, medicines, lifestyle, and other health problems you have. Healthy diabetic eating includes Limiting foods that are high in sugar Eating smaller portions, spread out over the day Being careful about when and how many carbohydrates you eat Eating a variety of whole-grain foods, fruits and vegetables every day Eating less fat Limiting your use of alcohol Using less salt NIH: National Institute of Diabetes and Digestive and Kidney Diseases</dc:description>
+<dc:subject dcterms="mesh">Diet, Diabetic</dc:subject>
+<dc:subject xml:lang="es">Dieta para diabéticos</dc:subject>
+<dc:subject xml:lang="es">Diabetes</dc:subject>
+<dc:subject xml:lang="es">Dieta</dc:subject>
+<dc:subject xml:lang="en">Diabetic Diet</dc:subject>
+</metadata>
+</record>
+</MedlinePlus-document>

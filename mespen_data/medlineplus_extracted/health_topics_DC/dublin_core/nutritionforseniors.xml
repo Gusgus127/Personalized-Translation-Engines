@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<MedlinePlus-document>
+<record>
+<header>
+<identifier>https://medlineplus.gov/nutritionforseniors.html</identifier>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:type>Text</dc:type>
+<dc:language>spa</dc:language>
+<dc:language>eng</dc:language>
+<dc:title xml:lang="es">Nutrición para personas mayores</dc:title>
+<dc:title xml:lang="en">Nutrition for Seniors</dc:title>
+<dc:publisher>National Library of Medicine</dc:publisher>
+<dc:relation type="IsPartOf">Food and Nutrition</dc:relation>
+<dc:relation type="IsPartOf">Seniors</dc:relation>
+<dc:date type="created">2002-12-30</dc:date>
+<dc:date type="modified">2017-10-04</dc:date>
+<dc:identifier type="URL" xml:lang="es">https://medlineplus.gov/spanish/nutritionforseniors.html</dc:identifier>
+<dc:identifier type="URL" xml:lang="en">https://medlineplus.gov/nutritionforseniors.html</dc:identifier>
+<dc:description xml:lang="es">Los alimentos proporcionan la energía y los nutrientes que necesita para estar sano. Entre los nutrientes se incluyen proteínas, carbohidratos, grasas, vitaminas, minerales y el agua. Hay estudios que demuestran que una buena dieta en la edad avanzada reduce el riesgo de osteoporosis, hipertensión arterial, enfermedades cardíacas y algunos tipos de cáncer. A medida que envejece, usted puede necesitar menos energía. Pero aún así necesitará la misma cantidad de nutrientes en los alimentos. Para obtenerlos: Elija una variedad de alimentos saludables Evite las calorías vacías, que son alimentos con muchas calorías pero pocos nutrientes, tales como las papas fritas, las galletas dulces, las gaseosas y el alcohol Prefiera alimentos con bajo nivel de colesterol y grasas, especialmente las grasas saturadas y trans Las grasas saturadas suelen provenir de los animales. Lea las grasas trans en las etiquetas de los alimentos procesados, margarinas y mantecas. NIH: Instituto Nacional sobre el Envejecimiento</dc:description>
+<dc:description xml:lang="en">Food provides the energy and nutrients you need to be healthy. Nutrients include proteins, carbohydrates, fats, vitamins, minerals and water. Studies show that a good diet in your later years reduces your risk of osteoporosis, high blood pressure, heart diseases and certain cancers. As you age, you might need less energy. But you still need just as many of the nutrients in food. To get them Choose a variety of healthy foods Avoid empty calories, which are foods with lots of calories but few nutrients, such as chips, cookies, soda and alcohol Pick foods that are low in cholesterol and fat, especially saturated and trans fats Saturated fats are usually fats that come from animals. Look for trans fat on the labels of processed foods, margarines and shortenings. NIH: National Institute on Aging</dc:description>
+<dc:subject dcterms="mesh">Nutrition Disorders</dc:subject>
+<dc:subject dcterms="mesh">Nutritional Physiological Phenomena</dc:subject>
+<dc:subject xml:lang="es">Nutrición para personas mayores</dc:subject>
+<dc:subject xml:lang="en">Nutrition for Seniors</dc:subject>
+<dc:subject xml:lang="en">Seniors' Nutrition</dc:subject>
+</metadata>
+</record>
+</MedlinePlus-document>

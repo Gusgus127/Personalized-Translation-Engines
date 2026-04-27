@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<MedlinePlus-document>
+<record>
+<header>
+<identifier>https://medlineplus.gov/hivaidsinwomen.html</identifier>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title type="alternate" xml:lang="es">Mujeres, VIH/SIDA</dc:title>
+<dc:title type="alternate" xml:lang="es">SIDA en las mujeres</dc:title>
+<dc:title type="alternate" xml:lang="en">AIDS in Women</dc:title>
+<dc:type>Text</dc:type>
+<dc:language>spa</dc:language>
+<dc:language>eng</dc:language>
+<dc:title xml:lang="es">VIH/SIDA en mujeres</dc:title>
+<dc:title xml:lang="en">HIV/AIDS in Women</dc:title>
+<dc:publisher>National Library of Medicine</dc:publisher>
+<dc:relation type="IsPartOf">Immune System</dc:relation>
+<dc:relation type="IsPartOf">Women</dc:relation>
+<dc:date type="created">2011-01-05</dc:date>
+<dc:date type="modified">2017-11-28</dc:date>
+<dc:identifier type="URL" xml:lang="es">https://medlineplus.gov/spanish/hivaidsinwomen.html</dc:identifier>
+<dc:identifier type="URL" xml:lang="en">https://medlineplus.gov/hivaidsinwomen.html</dc:identifier>
+<dc:description xml:lang="es">El virus de inmunodeficiencia humana (VIH) mata o daña las células del sistema inmunitario al destruir los glóbulos blancos que luchan contra las infecciones. El síndrome de inmunodeficiencia adquirida (SIDA), es el estadio más avanzado de la infección con VIH. No todas las personas con VIH desarrollan SIDA. El VIH suele contagiarse a través de las relaciones sexuales sin protección con una persona infectada. Las mujeres pueden contagiarse más fácilmente de VIH que los hombres a través del sexo vaginal. El VIH también puede contagiarse por compartir agujas con drogas o mediante el contacto con la sangre de una persona infectada. Cerca de una de cada cuatro personas con VIH en los Estados Unidos es mujer. Las mujeres con VIH/SIDA tienen problemas de salud diferentes que los hombres, por ejemplo: Complicaciones como infecciones por cándida recurrente, enfermedad inflamatoria pélvica severa y mayor riesgo de cáncer cervical Efectos secundarios diferentes, a veces más severos, a los medicamentos para tratar el VIH/SIDA Interacciones entre los medicamentos para el VIH/SIDA y métodos de contracepción hormonales Riesgo de transmitir VIH a su bebé cuando está embarazada o durante el parto A menudo, las mujeres no son diagnosticadas hasta que se encuentran al final de las etapas de la infección por VIH. Esto significa que pueden estar en mayor riesgo de infecciones No existe una cura, pero hay muchas medicinas para combatir la infección por VIH y las infecciones y cánceres que la acompañan. Las personas que obtienen un tratamiento temprano pueden vivir con la enfermedad por muchos años.</dc:description>
+<dc:description xml:lang="en">HIV stands for human immunodeficiency virus. It harms your immune system by destroying the white blood cells that fight infection. AIDS stands for acquired immunodeficiency syndrome. It is the final stage of infection with HIV. Not everyone with HIV develops AIDS. HIV often spreads through unprotected sex with an infected person. Women can get it more easily during vaginal sex than men can. HIV may also spread by sharing drug needles or through contact with the blood of an infected person. About one in four people in the United States who have HIV are women. Women who have HIV/AIDS have some different problems from men, such as Complications such as repeated vaginal yeast infections, severe pelvic inflammatory disease (PID), and a higher risk of cervical cancer Different, sometimes more severe, side effects from the drugs that treat HIV/AIDS Drug interactions between some HIV/AIDS medicines and hormonal birth control The risk of giving HIV to their baby while pregnant or during childbirth Women often don't get diagnosed until they are in the later in the stages of HIV infection. This means that they may be more at risk of infections. There is no cure, but there are many medicines to fight both HIV infection and the infections and cancers that come with it. People who get early treatment can live with the disease for a long time.</dc:description>
+<dc:subject dcterms="mesh">HIV Infections</dc:subject>
+<dc:subject xml:lang="es">VIH/SIDA en mujeres</dc:subject>
+<dc:subject xml:lang="es">Mujeres</dc:subject>
+<dc:subject xml:lang="es">VIH/SIDA</dc:subject>
+<dc:subject xml:lang="es">SIDA en las mujeres</dc:subject>
+<dc:subject xml:lang="en">HIV/AIDS in Women</dc:subject>
+<dc:subject xml:lang="en">AIDS in Women</dc:subject>
+</metadata>
+</record>
+</MedlinePlus-document>

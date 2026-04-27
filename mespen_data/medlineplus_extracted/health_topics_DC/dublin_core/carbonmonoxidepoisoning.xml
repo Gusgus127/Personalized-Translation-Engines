@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<MedlinePlus-document>
+<record>
+<header>
+<identifier>https://medlineplus.gov/carbonmonoxidepoisoning.html</identifier>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title type="alternate" xml:lang="es">Monóxido de carbono, Envenenamiento</dc:title>
+<dc:title type="alternate" xml:lang="es">Intoxicación por monóxido de carbono</dc:title>
+<dc:title type="alternate" xml:lang="en">CO Poisoning</dc:title>
+<dc:type>Text</dc:type>
+<dc:language>spa</dc:language>
+<dc:language>eng</dc:language>
+<dc:title xml:lang="es">Envenenamiento con monóxido de carbono</dc:title>
+<dc:title xml:lang="en">Carbon Monoxide Poisoning</dc:title>
+<dc:publisher>National Library of Medicine</dc:publisher>
+<dc:relation type="IsPartOf">Poisoning, Toxicology, Environmental Health</dc:relation>
+<dc:date type="created">2002-07-21</dc:date>
+<dc:date type="modified">2017-06-21</dc:date>
+<dc:identifier type="URL" xml:lang="es">https://medlineplus.gov/spanish/carbonmonoxidepoisoning.html</dc:identifier>
+<dc:identifier type="URL" xml:lang="en">https://medlineplus.gov/carbonmonoxidepoisoning.html</dc:identifier>
+<dc:description xml:lang="es">El monóxido de carbono (CO) es un gas sin olor ni color pero muy peligroso. Puede causar súbitamente una enfermedad y la muerte. El CO se encuentra en el humo de la combustión, como lo es el expulsado por automóviles y camiones, candelabros, estufas, fogones de gas y sistemas de calefacción. El CO proveniente de estos humos puede acumularse en lugares que no tienen una buena circulación de aire fresco. Una persona puede envenenarse al respirarlos. Los síntomas más comunes de envenenamiento por CO son: Dolor de cabeza Mareos Debilidad Náusea Vómitos Dolor en el pecho Confusión Suele ser difícil decir si alguien está envenenado con CO, ya que los síntomas pueden parecerse a los de otras enfermedades. Las personas que están dormidas o intoxicadas pueden morir de envenenamiento por CO antes de presentar síntomas. Un detector de CO puede advertirle si tiene altos niveles de CO en su hogar. Centros para el Control y la Prevención de Enfermedades</dc:description>
+<dc:description xml:lang="en">Carbon monoxide (CO) is a gas that has no odor or color. But it is very dangerous. It can cause sudden illness and death. CO is found in combustion fumes, such as those made by cars and trucks, lanterns, stoves, gas ranges and heating systems. CO from these fumes can build up in places that don't have a good flow of fresh air. You can be poisoned by breathing them in. The most common symptoms of CO poisoning are Headache Dizziness Weakness Nausea Vomiting Chest pain Confusion It is often hard to tell if someone has CO poisoning, because the symptoms may be like those of other illnesses. People who are sleeping or intoxicated can die from CO poisoning before they have symptoms. A CO detector can warn you if you have high levels of CO in your home. Centers for Disease Control and Prevention</dc:description>
+<dc:subject dcterms="mesh">Carbon Monoxide Poisoning</dc:subject>
+<dc:subject xml:lang="es">Envenenamiento con monóxido de carbono</dc:subject>
+<dc:subject xml:lang="es">Monóxido de carbono</dc:subject>
+<dc:subject xml:lang="es">Envenenamiento</dc:subject>
+<dc:subject xml:lang="es">Intoxicación por monóxido de carbono</dc:subject>
+<dc:subject xml:lang="en">Carbon Monoxide Poisoning</dc:subject>
+<dc:subject xml:lang="en">CO Poisoning</dc:subject>
+</metadata>
+</record>
+</MedlinePlus-document>

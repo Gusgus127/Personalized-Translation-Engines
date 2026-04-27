@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<MedlinePlus-document>
+<record>
+<header>
+<identifier>https://medlineplus.gov/talkingwithyourdoctor.html</identifier>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title type="alternate" xml:lang="es">Doctor, Hablando con su</dc:title>
+<dc:title type="alternate" xml:lang="en">Communicating With Your Healthcare Provider</dc:title>
+<dc:title type="alternate" xml:lang="en">Second Opinion</dc:title>
+<dc:type>Text</dc:type>
+<dc:language>spa</dc:language>
+<dc:language>eng</dc:language>
+<dc:title xml:lang="es">Hablando con su doctor</dc:title>
+<dc:title xml:lang="en">Talking With Your Doctor</dc:title>
+<dc:publisher>National Library of Medicine</dc:publisher>
+<dc:relation type="IsPartOf">Social/Family Issues</dc:relation>
+<dc:relation type="IsPartOf">Health System</dc:relation>
+<dc:relation type="IsPartOf">Personal Health Issues</dc:relation>
+<dc:date type="created">2003-02-07</dc:date>
+<dc:date type="modified">2017-10-03</dc:date>
+<dc:identifier type="URL" xml:lang="es">https://medlineplus.gov/spanish/talkingwithyourdoctor.html</dc:identifier>
+<dc:identifier type="URL" xml:lang="en">https://medlineplus.gov/talkingwithyourdoctor.html</dc:identifier>
+<dc:description xml:lang="es">Qué tan bien usted y su médico se comuniquen es una de las partes más importantes de conseguir una buena atención médica. Estar preparado puede ayudar a sacar el máximo provecho a su visita. A continuación algunas cosas que puede llevar a la cita: Una lista con sus dudas, cualquier alergia y todas las medicinas, hierbas o vitaminas que toma Una descripción de los síntomas, cuándo comenzaron, qué los mejora Un amigo de confianza o un familiar que lo acompañe Algo para tomar notas durante su cita Asegúrese de entender su diagnóstico y cualquier tratamiento que se le indique. Si no entiende las respuestas del médico, pregunte hasta que las comprenda. Pídale al médico que le escriba sus instrucciones. Si aún necesita más explicaciones, pregúntele dónde puede consultar más información.</dc:description>
+<dc:description xml:lang="en">How well you and your doctor communicate with each other is one of the most important parts of getting good health care. Being prepared can help make the most of your visit. Here are some things you can bring: Lists of your concerns, any allergies and all the medicines, herbs, or vitamins you take A description of symptoms - when they started, what makes them better A trusted friend or family member A way to take notes during your appointment Make sure you understand your diagnosis and any treatments. Ask your health care provider to write down his or her instructions to you. If you still have trouble understanding, ask where you can go for more information.</dc:description>
+<dc:subject dcterms="mesh">Nurse-Patient Relations</dc:subject>
+<dc:subject dcterms="mesh">Dentist-Patient Relations</dc:subject>
+<dc:subject dcterms="mesh">Physician-Patient Relations</dc:subject>
+<dc:subject xml:lang="es">Hablando con su doctor</dc:subject>
+<dc:subject xml:lang="es">Doctor</dc:subject>
+<dc:subject xml:lang="es">Hablando con su</dc:subject>
+<dc:subject xml:lang="en">Talking With Your Doctor</dc:subject>
+<dc:subject xml:lang="en">Communicating With Your Healthcare Provider</dc:subject>
+<dc:subject xml:lang="en">Second Opinion</dc:subject>
+</metadata>
+</record>
+</MedlinePlus-document>

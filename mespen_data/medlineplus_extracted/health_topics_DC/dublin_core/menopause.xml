@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<MedlinePlus-document>
+<record>
+<header>
+<identifier>https://medlineplus.gov/menopause.html</identifier>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title type="alternate" xml:lang="es">Perimenopausia</dc:title>
+<dc:title type="alternate" xml:lang="es">Sofocos</dc:title>
+<dc:title type="alternate" xml:lang="en">Hot Flashes</dc:title>
+<dc:title type="alternate" xml:lang="en">Perimenopause</dc:title>
+<dc:title type="alternate" xml:lang="en">Premature Menopause</dc:title>
+<dc:title type="alternate" xml:lang="en">Change of Life</dc:title>
+<dc:type>Text</dc:type>
+<dc:language>spa</dc:language>
+<dc:language>eng</dc:language>
+<dc:title xml:lang="es">Menopausia</dc:title>
+<dc:title xml:lang="en">Menopause</dc:title>
+<dc:publisher>National Library of Medicine</dc:publisher>
+<dc:relation type="IsPartOf">Women</dc:relation>
+<dc:relation type="IsPartOf">Seniors</dc:relation>
+<dc:relation type="IsPartOf">Female Reproductive System</dc:relation>
+<dc:date type="created">2002-07-21</dc:date>
+<dc:date type="modified">2017-12-18</dc:date>
+<dc:identifier type="URL" xml:lang="es">https://medlineplus.gov/spanish/menopause.html</dc:identifier>
+<dc:identifier type="URL" xml:lang="en">https://medlineplus.gov/menopause.html</dc:identifier>
+<dc:description xml:lang="es">La menopausia es la época de la vida de una mujer en la cual deja de tener menstruaciones. Suele ocurrir naturalmente, con mayor frecuencia después de los 45 años. La menopausia se produce porque los ovarios de la mujer dejan de producir las hormonas estrógeno y progesterona. Una mujer llega a la menopausia cuando no tiene un período menstrual durante un año. Los cambios y los síntomas pueden empezar varios años antes. Éstos incluyen: Cambio en las menstruaciones: Más o menos duraderas, más o menos profusas, con más o menos tiempo entre los períodos Calores y/o sudoración nocturna Dificultad para dormir Sequedad vaginal Cambios de humor Dificultad para concentrarse Menos cabello y más vello facial Algunos síntomas requieren tratamiento. Hable con su médico sobre qué hacer durante la menopausia. Asegúrese de que su médico conozca la historia médica de su familia. Esto incluye su riesgo de padecer enfermedades del corazón, osteoporosis o cáncer de seno. Oficina para la Salud de la Mujer en el Depto. de Salud y Servicios Humanos de los EE.UU.</dc:description>
+<dc:description xml:lang="en">Menopause is the time in a woman's life when her period stops. It usually occurs naturally, most often after age 45. Menopause happens because the woman's ovaries stop producing the hormones estrogen and progesterone. A woman has reached menopause when she has not had a period for one year. Changes and symptoms can start several years earlier. They include A change in periods - shorter or longer, lighter or heavier, with more or less time in between Hot flashes and/or night sweats Trouble sleeping Vaginal dryness Mood swings Trouble focusing Less hair on head, more on face Some symptoms require treatment. Talk to your doctor about how to best manage menopause. Make sure the doctor knows your medical history and your family medical history. This includes whether you are at risk for heart disease, osteoporosis, or breast cancer. Dept. of Health and Human Services Office on Women's Health</dc:description>
+<dc:subject dcterms="mesh">Menopause</dc:subject>
+<dc:subject xml:lang="es">Menopausia</dc:subject>
+<dc:subject xml:lang="es">Perimenopausia</dc:subject>
+<dc:subject xml:lang="es">Sofocos</dc:subject>
+<dc:subject xml:lang="en">Menopause</dc:subject>
+<dc:subject xml:lang="en">Hot Flashes</dc:subject>
+<dc:subject xml:lang="en">Perimenopause</dc:subject>
+<dc:subject xml:lang="en">Premature Menopause</dc:subject>
+<dc:subject xml:lang="en">Change of Life</dc:subject>
+</metadata>
+</record>
+</MedlinePlus-document>

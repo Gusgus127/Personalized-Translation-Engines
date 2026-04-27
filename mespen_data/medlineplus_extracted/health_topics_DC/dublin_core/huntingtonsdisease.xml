@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<MedlinePlus-document>
+<record>
+<header>
+<identifier>https://medlineplus.gov/huntingtonsdisease.html</identifier>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title type="alternate" xml:lang="es">Huntington, Enfermedad de</dc:title>
+<dc:type>Text</dc:type>
+<dc:language>spa</dc:language>
+<dc:language>eng</dc:language>
+<dc:title xml:lang="es">Enfermedad de Huntington</dc:title>
+<dc:title xml:lang="en">Huntington's Disease</dc:title>
+<dc:publisher>National Library of Medicine</dc:publisher>
+<dc:relation type="IsPartOf">Genetics/Birth Defects</dc:relation>
+<dc:relation type="IsPartOf">Brain and Nerves</dc:relation>
+<dc:date type="created">2002-07-21</dc:date>
+<dc:date type="modified">2017-10-02</dc:date>
+<dc:identifier type="URL" xml:lang="es">https://medlineplus.gov/spanish/huntingtonsdisease.html</dc:identifier>
+<dc:identifier type="URL" xml:lang="en">https://medlineplus.gov/huntingtonsdisease.html</dc:identifier>
+<dc:description xml:lang="es">La enfermedad de Huntington es una enfermedad hereditaria que provoca el desgaste de algunas células nerviosas del cerebro. Las personas nacen con el gen defectuoso pero los síntomas no aparecen hasta después de los 30 o 40 años. Los síntomas iniciales de esta enfermedad pueden incluir movimientos descontrolados, torpeza y problemas de equilibrio. Más adelante, puede impedir caminar, hablar y tragar. Algunas personas dejan de reconocer a sus familiares. Otros están concientes de lo que los rodea y pueden expresar sus emociones. Si uno de sus padres tiene la enfermedad de Huntington, usted tiene un 50 por ciento de posibilidades de tenerla. Un análisis de sangre puede indicar si tiene el gen de la enfermedad y si la desarrollará. La consejería genética puede ayudarlo a evaluar los riesgos y los beneficios de someterse al análisis. No existe una cura. Hay medicinas que pueden ayudarlo a controlar algunos síntomas, pero no pueden retrasar ni detener la enfermedad. NIH: Instituto Nacional de Trastornos Neurológicos y Accidentes Cerebrovasculares</dc:description>
+<dc:description xml:lang="en">Huntington's disease (HD) is an inherited disease that causes certain nerve cells in the brain to waste away. People are born with the defective gene, but symptoms usually don't appear until middle age. Early symptoms of HD may include uncontrolled movements, clumsiness, and balance problems. Later, HD can take away the ability to walk, talk, and swallow. Some people stop recognizing family members. Others are aware of their environment and are able to express emotions. If one of your parents has Huntington's disease, you have a 50 percent chance of getting it. A blood test can tell you if have the HD gene and will develop the disease. Genetic counseling can help you weigh the risks and benefits of taking the test. There is no cure. Medicines can help manage some of the symptoms, but cannot slow down or stop the disease. NIH: National Institute of Neurological Disorders and Stroke</dc:description>
+<dc:subject dcterms="mesh">Huntington Disease</dc:subject>
+<dc:subject xml:lang="es">Enfermedad de Huntington</dc:subject>
+<dc:subject xml:lang="es">Huntington</dc:subject>
+<dc:subject xml:lang="es">Enfermedad de</dc:subject>
+<dc:subject xml:lang="en">Huntington's Disease</dc:subject>
+</metadata>
+</record>
+</MedlinePlus-document>

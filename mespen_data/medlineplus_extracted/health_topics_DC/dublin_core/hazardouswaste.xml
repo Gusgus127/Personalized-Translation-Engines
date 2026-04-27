@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<MedlinePlus-document>
+<record>
+<header>
+<identifier>https://medlineplus.gov/hazardouswaste.html</identifier>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:type>Text</dc:type>
+<dc:language>spa</dc:language>
+<dc:language>eng</dc:language>
+<dc:title xml:lang="es">Desperdicios tóxicos</dc:title>
+<dc:title xml:lang="en">Hazardous Waste</dc:title>
+<dc:publisher>National Library of Medicine</dc:publisher>
+<dc:relation type="IsPartOf">Poisoning, Toxicology, Environmental Health</dc:relation>
+<dc:date type="created">2005-12-22</dc:date>
+<dc:date type="modified">2017-06-05</dc:date>
+<dc:identifier type="URL" xml:lang="es">https://medlineplus.gov/spanish/hazardouswaste.html</dc:identifier>
+<dc:identifier type="URL" xml:lang="en">https://medlineplus.gov/hazardouswaste.html</dc:identifier>
+<dc:description xml:lang="es">Aún si se utilizan correctamente, muchas sustancias químicas pueden dañar la salud humana y el medio ambiente. Cuando estas sustancias se desechan, se convierten en desechos tóxicos. Algunos de ellos provienen de productos de nuestros hogares. La basura puede incluir desperdicios tóxicos como pilas viejas, insecticidas en aerosol y diluyente de pintura. Los habitantes de los Estados Unidos generan 1,6 millones de toneladas de desechos tóxicos domésticos por año. Los desperdicios tóxicos también son un producto secundario de la fabricación. Usted puede tener desperdicios tóxicos en el sótano o la cochera. ¿Cómo puede desecharlos? No los vierta en las cañerías, en el desagüe ni los bote a la basura. Vea si puede donarlos o reciclarlos. Muchas comunidades tienen programas de recolección de desperdicios tóxicos domésticos. Averigüe si existe alguno en su zona. Agencia de Protección Ambiental</dc:description>
+<dc:description xml:lang="en">Even if you use them properly, many chemicals can still harm human health and the environment. When you throw these substances away, they become hazardous waste. Some hazardous wastes come from products in our homes. Our garbage can include such hazardous wastes as old batteries, bug spray cans and paint thinner. U.S. residents generate 1.6 million tons of household hazardous waste per year. Hazardous waste is also a by-product of manufacturing. You may have hazardous wastes in your basement or garage. How do you get rid of them? Don't pour them down the drain, flush them, or put them in the garbage. See if you can donate or recycle. Many communities have household hazardous waste collection programs. Check to see if there is one in your area. Environmental Protection Agency</dc:description>
+<dc:subject dcterms="mesh">Hazardous Waste</dc:subject>
+<dc:subject xml:lang="es">Desperdicios tóxicos</dc:subject>
+<dc:subject xml:lang="en">Hazardous Waste</dc:subject>
+</metadata>
+</record>
+</MedlinePlus-document>

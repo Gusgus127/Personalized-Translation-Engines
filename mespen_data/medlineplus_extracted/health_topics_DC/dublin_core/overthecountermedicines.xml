@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<MedlinePlus-document>
+<record>
+<header>
+<identifier>https://medlineplus.gov/overthecountermedicines.html</identifier>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title type="alternate" xml:lang="es">Acerca de sus medicinas</dc:title>
+<dc:title type="alternate" xml:lang="en">Drug Information</dc:title>
+<dc:title type="alternate" xml:lang="en">About Your Medicines</dc:title>
+<dc:title type="alternate" xml:lang="en">Medicines, Over-the-Counter</dc:title>
+<dc:title type="alternate" xml:lang="en">Non-Prescription Drugs</dc:title>
+<dc:title type="alternate" xml:lang="en">OTC Medicines</dc:title>
+<dc:type>Text</dc:type>
+<dc:language>spa</dc:language>
+<dc:language>eng</dc:language>
+<dc:title xml:lang="es">Medicamentos sin receta médica</dc:title>
+<dc:title xml:lang="en">Over-the-Counter Medicines</dc:title>
+<dc:publisher>National Library of Medicine</dc:publisher>
+<dc:relation type="IsPartOf">Drug Therapy</dc:relation>
+<dc:date type="created">2004-08-04</dc:date>
+<dc:date type="modified">2017-09-20</dc:date>
+<dc:identifier type="URL" xml:lang="es">https://medlineplus.gov/spanish/overthecountermedicines.html</dc:identifier>
+<dc:identifier type="URL" xml:lang="en">https://medlineplus.gov/overthecountermedicines.html</dc:identifier>
+<dc:description xml:lang="es">Los medicamentos sin receta médica (OTC, por sus siglas en inglés) son medicamentos de venta libre o que se pueden comprar sin una receta médica. Algunas medicinas OTC alivian el dolor y la picazón. Algunos previenen o curan enfermedades, como las caries dentales o el pie de atleta. Otros, ayudan a controlar problemas recurrentes, como las migrañas. En los Estados Unidos, la Administración de Alimentos y Medicamentos (FDA) decide si un medicamento es lo suficientemente seguro para ser vendido sin una receta médica. Tomar medicamentos OTC también tiene riesgos. Algunos, interactúan con otras medicinas, suplementos, alimentos o bebidas. Otros, causan problemas en personas con determinadas afecciones médicas. Si está embarazada, hable con su médico antes de tomar cualquier medicina. Es importante tomar las medicinas correctamente y tener cuidado al dárselas a los niños. Tomar más no necesariamente es mejor. Nunca debe tomar medicinas OTC durante más tiempo o en dosis más altas que las indicadas en la etiqueta. Si los síntomas no desaparecen, es una señal clara que es hora de ver a un profesional de la salud. Administración de Alimentos y Medicamentos</dc:description>
+<dc:description xml:lang="en">Over-the-counter (OTC) medicines are drugs you can buy without a prescription. Some OTC medicines relieve aches, pains and itches. Some prevent or cure diseases, like tooth decay and athlete's foot. Others help manage recurring problems, like migraines. In the United States, the Food and Drug Administration decides whether a medicine is safe enough to sell over-the-counter. Taking OTC medicines still has risks. Some interact with other medicines, supplements, foods or drinks. Others cause problems for people with certain medical conditions. If you're pregnant, talk to your health care provider before taking any medicines. It is important to take medicines correctly, and be careful when giving them to children. More medicine does not necessarily mean better. You should never take OTC medicines longer or in higher doses than the label recommends. If your symptoms don't go away, it's a clear signal that it's time to see your health care provider. Food and Drug Administration</dc:description>
+<dc:subject dcterms="mesh">Nonprescription Drugs</dc:subject>
+<dc:subject xml:lang="es">Medicamentos sin receta médica</dc:subject>
+<dc:subject xml:lang="es">Acerca de sus medicinas</dc:subject>
+<dc:subject xml:lang="en">Over-the-Counter Medicines</dc:subject>
+<dc:subject xml:lang="en">Drug Information</dc:subject>
+<dc:subject xml:lang="en">About Your Medicines</dc:subject>
+<dc:subject xml:lang="en">Medicines</dc:subject>
+<dc:subject xml:lang="en">Over-the-Counter</dc:subject>
+<dc:subject xml:lang="en">Non-Prescription Drugs</dc:subject>
+<dc:subject xml:lang="en">OTC Medicines</dc:subject>
+</metadata>
+</record>
+</MedlinePlus-document>

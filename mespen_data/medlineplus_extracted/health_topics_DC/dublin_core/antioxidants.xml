@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<MedlinePlus-document>
+<record>
+<header>
+<identifier>https://medlineplus.gov/antioxidants.html</identifier>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:type>Text</dc:type>
+<dc:language>spa</dc:language>
+<dc:language>eng</dc:language>
+<dc:title xml:lang="es">Antioxidantes</dc:title>
+<dc:title xml:lang="en">Antioxidants</dc:title>
+<dc:publisher>National Library of Medicine</dc:publisher>
+<dc:relation type="IsPartOf">Food and Nutrition</dc:relation>
+<dc:date type="created">2003-11-04</dc:date>
+<dc:date type="modified">2016-10-17</dc:date>
+<dc:identifier type="URL" xml:lang="es">https://medlineplus.gov/spanish/antioxidants.html</dc:identifier>
+<dc:identifier type="URL" xml:lang="en">https://medlineplus.gov/antioxidants.html</dc:identifier>
+<dc:description xml:lang="es">Los antioxidantes son sustancias naturales o fabricadas por el hombre que pueden prevenir o retrasar algunos tipos de daños a las células. Los antioxidantes se encuentran en muchos alimentos, incluyendo frutas y verduras. También se encuentran disponibles como suplementos dietéticos. Ejemplos de antioxidantes incluyen: Beta carotenos Luteína Licopeno Selenio Vitamina A Vitamina C Vitamina E Las verduras y frutas son ricas fuentes de antioxidantes. Existe amplia evidencia que el consumo de una dieta con muchas verduras y frutas es saludable y reduce riesgos de sufrir ciertas enfermedades. Pero no está claro si esto es debido a los antioxidantes, a algo más presente en los alimentos u otros factores. Suplementos con altas dosis de antioxidantes en algunos casos pueden estar relacionados con riesgos para la salud. Por ejemplo, altas dosis de beta-caroteno pueden aumentar el riesgo de cáncer de pulmón en fumadores. Dosis elevadas de vitamina E podrían aumentar el riesgo de cáncer de próstata y un tipo de ataque cerebral. Los suplementos antioxidantes también podrían interactuar con algunas medicinas. Para reducir el riesgo, cuéntele a su proveedor de atención médica sobre cualquier antioxidante que toma. Centro Nacional para la Medicina Complementaria y Alternativa</dc:description>
+<dc:description xml:lang="en">Antioxidants are man-made or natural substances that may prevent or delay some types of cell damage. Antioxidants are found in many foods, including fruits and vegetables. They are also available as dietary supplements. Examples of antioxidants include Beta-carotene Lutein Lycopene Selenium Vitamin A Vitamin C Vitamin E Vegetables and fruits are rich sources of antioxidants. There is good evidence that eating a diet with lots of vegetables and fruits is healthy and lowers risks of certain diseases. But it isn't clear whether this is because of the antioxidants, something else in the foods, or other factors. High-dose supplements of antioxidants may be linked to health risks in some cases. For example, high doses of beta-carotene may increase the risk of lung cancer in smokers. High doses of vitamin E may increase risks of prostate cancer and one type of stroke. Antioxidant supplements may also interact with some medicines. To minimize risk, tell you of your health care providers about any antioxidants you use. NIH: National Center for Complementary and Integrative Health</dc:description>
+<dc:subject dcterms="mesh">Antioxidants</dc:subject>
+<dc:subject xml:lang="es">Antioxidantes</dc:subject>
+<dc:subject xml:lang="en">Antioxidants</dc:subject>
+</metadata>
+</record>
+</MedlinePlus-document>

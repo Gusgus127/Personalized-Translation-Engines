@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<MedlinePlus-document>
+<record>
+<header>
+<identifier>https://medlineplus.gov/hairproblems.html</identifier>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title type="alternate" xml:lang="es">Problemas del cabello</dc:title>
+<dc:title type="alternate" xml:lang="es">Foliculitis</dc:title>
+<dc:title type="alternate" xml:lang="es">Cabello grasoso</dc:title>
+<dc:title type="alternate" xml:lang="es">Vello</dc:title>
+<dc:title type="alternate" xml:lang="es">Cabello, Problemas</dc:title>
+<dc:title type="alternate" xml:lang="en">Folliculitis</dc:title>
+<dc:type>Text</dc:type>
+<dc:language>spa</dc:language>
+<dc:language>eng</dc:language>
+<dc:title xml:lang="es">Problemas del cabello</dc:title>
+<dc:title xml:lang="en">Hair Problems</dc:title>
+<dc:publisher>National Library of Medicine</dc:publisher>
+<dc:relation type="IsPartOf">Skin, Hair and Nails</dc:relation>
+<dc:date type="created">2002-11-08</dc:date>
+<dc:date type="modified">2018-01-03</dc:date>
+<dc:identifier type="URL" xml:lang="es">https://medlineplus.gov/spanish/hairproblems.html</dc:identifier>
+<dc:identifier type="URL" xml:lang="en">https://medlineplus.gov/hairproblems.html</dc:identifier>
+<dc:description xml:lang="es">Una persona en promedio tiene cinco millones de pelos. El cabello crece en toda la superficie del cuerpo menos en los labios, las palmas de las manos y las plantas de los pies. Un cabello necesita cerca de un mes para crecer media pulgada. La mayoría crece por hasta seis años y después se cae. En su lugar nace cabello nuevo. El cabello nos ayuda a mantener la temperatura corporal. También protege nuestros ojos, orejas y nariz de pequeñas partículas que hay en el aire. Los problemas más comunes con el pelo y el cuero cabelludo incluyen pérdida del cabello, infecciones y descamación.</dc:description>
+<dc:description xml:lang="en">The average person has 5 million hairs. Hair grows all over your body except on your lips, palms, and the soles of your feet. It takes about a month for healthy hair to grow half an inch. Most hairs grow for up to six years and then fall out. New hairs grow in their place. Hair helps keep you warm. It also protects your eyes, ears and nose from small particles in the air. Common problem with the hair and scalp include hair loss, infections, and flaking.</dc:description>
+<dc:subject dcterms="mesh">Hair Diseases</dc:subject>
+<dc:subject dcterms="mesh">Dandruff</dc:subject>
+<dc:subject xml:lang="es">Problemas del cabello</dc:subject>
+<dc:subject xml:lang="es">Problemas del cabello</dc:subject>
+<dc:subject xml:lang="es">Foliculitis</dc:subject>
+<dc:subject xml:lang="es">Cabello grasoso</dc:subject>
+<dc:subject xml:lang="es">Vello</dc:subject>
+<dc:subject xml:lang="es">Cabello</dc:subject>
+<dc:subject xml:lang="es">Problemas</dc:subject>
+<dc:subject xml:lang="en">Hair Problems</dc:subject>
+<dc:subject xml:lang="en">Folliculitis</dc:subject>
+</metadata>
+</record>
+</MedlinePlus-document>

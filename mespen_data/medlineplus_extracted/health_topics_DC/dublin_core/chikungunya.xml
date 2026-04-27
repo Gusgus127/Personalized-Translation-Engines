@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<MedlinePlus-document>
+<record>
+<header>
+<identifier>https://medlineplus.gov/chikungunya.html</identifier>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:type>Text</dc:type>
+<dc:language>spa</dc:language>
+<dc:language>eng</dc:language>
+<dc:title xml:lang="es">Chikungunya</dc:title>
+<dc:title xml:lang="en">Chikungunya</dc:title>
+<dc:publisher>National Library of Medicine</dc:publisher>
+<dc:relation type="IsPartOf">Infections</dc:relation>
+<dc:date type="created">2016-03-22</dc:date>
+<dc:date type="modified">2017-12-06</dc:date>
+<dc:identifier type="URL" xml:lang="es">https://medlineplus.gov/spanish/chikungunya.html</dc:identifier>
+<dc:identifier type="URL" xml:lang="en">https://medlineplus.gov/chikungunya.html</dc:identifier>
+<dc:description xml:lang="es">Chikungunya es un virus que es transmitido por los mismos mosquitos que transmiten el Dengue y el Zika. En raras ocasiones, la madre puede contagiar al recién nacido al momento del nacimiento. También es posible la propagación a través de sangre infectada. Se han producido brotes del chikungunya en África, Asia, Europa, los océanos Índico y Pacífico, el Caribe y América Central y del Sur. La mayoría de las personas que están infectadas tienen síntomas, los cuales pueden ser graves. Suelen comenzar de tres a siete días después de la picadura de un mosquito infectado. Los síntomas más comunes son fiebre y dolor en las articulaciones. Otros síntomas pueden incluir dolor de cabeza, dolor muscular, hinchazón de las articulaciones y erupción cutánea. La mayoría de las personas se sienten mejor dentro de una semana. Sin embargo, en algunos casos el dolor en las articulaciones puede durar meses. Las personas en riesgo de contraer enfermedades más graves incluyen los recién nacidos, adultos mayores y las personas con enfermedades como presión arterial alta, diabetes o enfermedades del corazón. Un análisis de sangre puede mostrar si usted tiene el virus chikungunya. No existen vacunas o medicamentos para tratarla. Beber mucho líquido, descansar y tomar analgésicos sin aspirina puede ayudar. La mejor manera de prevenir la infección por chikungunya es evitar las picaduras de mosquitos: Use repelente de insectos Use ropa que le cubra los brazos, las piernas y los pies Quédese en lugares donde haya aire acondicionado o use mosquiteros en las ventanas y puertas Centros para el Control y la Prevención de Enfermedades</dc:description>
+<dc:description xml:lang="en">Chikungunya is a virus that spread by the same kinds of mosquitoes that spread dengue and Zika virus. Rarely, it can spread from mother to newborn around the time of birth. It may also possibly spread through infected blood. There have been outbreaks of chikungunya virus in Africa, Asia, Europe, the Indian and Pacific Oceans, the Caribbean, and Central and South America. Most people who are infected will have symptoms, which can be severe. They usually start 3-7 days after being bitten by an infected mosquito. The most common symptoms are fever and joint pain. Other symptoms may include headache, muscle pain, joint swelling, and rash. Most people feel better within a week. In some cases, however, the joint pain may last for months. People at risk for more severe disease include newborns, older adults, and people with diseases such as high blood pressure, diabetes, or heart disease. A blood test can show whether you have chikungunya virus. There are no vaccines or medicines to treat it. Drinking lots of fluids, resting, and taking non-aspirin pain relievers might help. The best way to prevent chikungunya infection is to avoid mosquito bites: Use insect repellent Wear clothes that cover your arms, legs, and feet Stay in places that have air conditioning or that use window and door screens Centers for Disease Control and Prevention</dc:description>
+<dc:subject dcterms="mesh">Chikungunya virus</dc:subject>
+<dc:subject dcterms="mesh">Chikungunya Fever</dc:subject>
+<dc:subject xml:lang="es">Chikungunya</dc:subject>
+<dc:subject xml:lang="en">Chikungunya</dc:subject>
+</metadata>
+</record>
+</MedlinePlus-document>

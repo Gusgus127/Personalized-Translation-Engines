@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<MedlinePlus-document>
+<record>
+<header>
+<identifier>https://medlineplus.gov/genitalherpes.html</identifier>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:type>Text</dc:type>
+<dc:language>spa</dc:language>
+<dc:language>eng</dc:language>
+<dc:title xml:lang="es">Herpes genital</dc:title>
+<dc:title xml:lang="en">Genital Herpes</dc:title>
+<dc:publisher>National Library of Medicine</dc:publisher>
+<dc:relation type="IsPartOf">Male Reproductive System</dc:relation>
+<dc:relation type="IsPartOf">Sexual Health Issues</dc:relation>
+<dc:relation type="IsPartOf">Infections</dc:relation>
+<dc:relation type="IsPartOf">Female Reproductive System</dc:relation>
+<dc:date type="created">2011-08-18</dc:date>
+<dc:date type="modified">2018-01-10</dc:date>
+<dc:identifier type="URL" xml:lang="es">https://medlineplus.gov/spanish/genitalherpes.html</dc:identifier>
+<dc:identifier type="URL" xml:lang="en">https://medlineplus.gov/genitalherpes.html</dc:identifier>
+<dc:description xml:lang="es">El herpes genital es una enfermedad de transmisión sexual causada por el virus del herpes simple. Puede causar llagas en el área genital o rectal, nalgas y muslos. Puede contagiarse al tener relaciones sexuales vaginales, anales u orales con alguien que lo tenga. El virus puede contagiarse aún cuando las llagas no están presentes. Las madres pueden infectar a sus bebés durante el parto. A los síntomas se los llaman comúnmente brotes. Las llagas aparecen usualmente cerca del área donde el virus ingresó al cuerpo. Las llagas son ampollas que se rompen y se vuelven dolorosas, para luego sanar. A veces, las personas no saben que tienen herpes porque no presentan síntomas o éstos son muy leves. El virus puede ser más grave en recién nacidos o en personas con un sistema inmunitario debilitado. La repetición de los brotes es común, en especial durante el primer año. Con el tiempo los síntomas aparecen con menor frecuencia y son más leves. El virus permanece en su cuerpo para siempre. Existen exámenes que pueden diagnosticar el herpes genital. No existe cura. Sin embargo, las medicinas pueden ayudar a disminuir los síntomas, reducir los brotes y bajar el riesgo de contagio a otras personas. El uso correcto de condones de látex puede reducir, pero no eliminar, el riesgo de contraer o contagiar el herpes. La forma más confiable de evitar la infección es no tener sexo anal, vaginal u oral.</dc:description>
+<dc:description xml:lang="en">Genital herpes is a sexually transmitted disease (STD) caused by a herpes simplex virus (HSV). It can cause sores on your genital or rectal area, buttocks, and thighs. You can get it from having vaginal, anal, or oral sex with someone who has it. The virus can spread even when sores are not present. Mothers can also infect their babies during childbirth. Symptoms of herpes are called outbreaks. You usually get sores near the area where the virus has entered the body. The sores are blisters which break and become painful, and then heal. Sometimes people do not know they have herpes because they have no symptoms or very mild symptoms. The virus can be more serious in newborn babies or in people with weak immune systems. Repeat outbreaks are common, especially during the first year. Over time, you get them less often and the symptoms become milder. The virus stays in your body for life. There are tests that can diagnose genital herpes. There is no cure. However, medicines can help lessen symptoms, decrease outbreaks, and lower the risk of passing the virus to others. Correct usage of latex condoms can reduce, but not eliminate, the risk of catching or spreading herpes. The most reliable way to avoid infection is to not have anal, vaginal, or oral sex.</dc:description>
+<dc:subject dcterms="mesh">Herpes Genitalis</dc:subject>
+<dc:subject xml:lang="es">Herpes genital</dc:subject>
+<dc:subject xml:lang="en">Genital Herpes</dc:subject>
+<dc:subject xml:lang="en">Herpes Genitalis</dc:subject>
+</metadata>
+</record>
+</MedlinePlus-document>

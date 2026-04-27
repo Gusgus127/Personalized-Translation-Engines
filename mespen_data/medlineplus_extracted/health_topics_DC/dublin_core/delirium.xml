@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<MedlinePlus-document>
+<record>
+<header>
+<identifier>https://medlineplus.gov/delirium.html</identifier>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:type>Text</dc:type>
+<dc:language>spa</dc:language>
+<dc:language>eng</dc:language>
+<dc:title xml:lang="es">Delirio</dc:title>
+<dc:title xml:lang="en">Delirium</dc:title>
+<dc:publisher>National Library of Medicine</dc:publisher>
+<dc:relation type="IsPartOf">Brain and Nerves</dc:relation>
+<dc:relation type="IsPartOf">Mental Health and Behavior</dc:relation>
+<dc:date type="created">2010-07-06</dc:date>
+<dc:date type="modified">2017-08-28</dc:date>
+<dc:identifier type="URL" xml:lang="es">https://medlineplus.gov/spanish/delirium.html</dc:identifier>
+<dc:identifier type="URL" xml:lang="en">https://medlineplus.gov/delirium.html</dc:identifier>
+<dc:description xml:lang="es">El delirio es una condición que presenta rápidos cambios en el estado mental. Esto causa confusión y cambios en el comportamiento. Además de pasar de un estado de lucidez a inconsciencia y de perder contacto con la realidad, puede haber problemas con: Atención y conciencia Pensamiento y memoria Emoción Control de los músculos Dormir y despertar Las causas del delirio incluyen medicamentos, intoxicaciones, enfermedades o infecciones graves y dolor intenso. También puede ser parte de algunas enfermedades mentales o demencia. El delirio y la demencia tienen síntomas similares, por lo que puede ser difícil distinguirlos. También pueden ocurrir juntos. El delirio comienza repentinamente y causa alucinaciones. Los síntomas pueden mejorar o empeorar y pueden durar horas o semanas. Por el contrario, la demencia se desarrolla lentamente y no causa alucinaciones. Los síntomas son estables y duran meses o años. El delirium tremens es un tipo grave de síndrome de abstinencia alcohólica. Por lo general, sucede cuando las personas dejan de beber después de años de abuso de alcohol. Las personas con delirio a menudo, aunque no siempre, se recuperan por completo después de que su enfermedad subyacente sea tratada.</dc:description>
+<dc:description xml:lang="en">Delirium is a condition that features rapidly changing mental states. It causes confusion and changes in behavior. Besides falling in and out of consciousness, there may be problems with Attention and awareness Thinking and memory Emotion Muscle control Sleeping and waking Causes of delirium include medications, poisoning, serious illnesses or infections, and severe pain. It can also be part of some mental illnesses or dementia. Delirium and dementia have similar symptoms, so it can be hard to tell them apart. They can also occur together. Delirium starts suddenly and can cause hallucinations. The symptoms may get better or worse, and can last for hours or weeks. On the other hand, dementia develops slowly and does not cause hallucinations. The symptoms are stable, and may last for months or years. Delirium tremens is a serious type of alcohol withdrawal syndrome. It usually happens to people who stop drinking after years of alcohol abuse. People with delirium often, though not always, make a full recovery after their underlying illness is treated.</dc:description>
+<dc:subject dcterms="mesh">Delirium</dc:subject>
+<dc:subject xml:lang="es">Delirio</dc:subject>
+<dc:subject xml:lang="en">Delirium</dc:subject>
+</metadata>
+</record>
+</MedlinePlus-document>

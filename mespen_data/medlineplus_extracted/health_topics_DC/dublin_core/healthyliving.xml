@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<MedlinePlus-document>
+<record>
+<header>
+<identifier>https://medlineplus.gov/healthyliving.html</identifier>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title type="alternate" xml:lang="es">Estilo de vida saludable</dc:title>
+<dc:title type="alternate" xml:lang="es">Mantenimiento de la salud</dc:title>
+<dc:title type="alternate" xml:lang="es">Salud, Mantenimiento de la</dc:title>
+<dc:title type="alternate" xml:lang="es">Mantenerse saludable</dc:title>
+<dc:title type="alternate" xml:lang="es">Prevenir enfermedades y mantenerse saludable</dc:title>
+<dc:title type="alternate" xml:lang="en">Staying Healthy</dc:title>
+<dc:title type="alternate" xml:lang="en">Prevention</dc:title>
+<dc:type>Text</dc:type>
+<dc:language>spa</dc:language>
+<dc:language>eng</dc:language>
+<dc:title xml:lang="es">Vivir saludablemente</dc:title>
+<dc:title xml:lang="en">Healthy Living</dc:title>
+<dc:publisher>National Library of Medicine</dc:publisher>
+<dc:relation type="IsPartOf">Wellness and Lifestyle</dc:relation>
+<dc:date type="created">2002-07-21</dc:date>
+<dc:date type="modified">2018-01-09</dc:date>
+<dc:identifier type="URL" xml:lang="es">https://medlineplus.gov/spanish/healthyliving.html</dc:identifier>
+<dc:identifier type="URL" xml:lang="en">https://medlineplus.gov/healthyliving.html</dc:identifier>
+<dc:description xml:lang="es">Muchos factores afectan su salud. Algunos no se pueden controlar, como la constitución genética o la edad. Pero usted puede modificar su estilo de vida. Al tomar la iniciativa hacia una vida saludable, usted ayuda a reducir su riesgo de enfermedad cardiaca, cáncer, derrame cerebral y otras enfermedades serias: Consulte a un médico para realizarse chequeos periódicos Mantenga un peso saludable Consuma una variedad de alimentos sanos y limite las calorías y las grasas saturadas Haga ejercicio Controle su presión arterial y el colesterol No fume Protéjase del exceso de sol Tome alcohol en forma moderada o no tome Duerma lo suficiente cada día Agencia Para la Calidad e Investigación y Cuidado de la Salud</dc:description>
+<dc:description xml:lang="en">Many factors affect your health. Some you cannot control, such as your genetic makeup or your age. But you can make changes to your lifestyle. By taking steps toward healthy living, you can help reduce your risk of heart disease, cancer, stroke and other serious diseases: Get the screening tests you need Maintain a healthy weight Eat a variety of healthy foods, and limit calories and saturated fat Be physically active Control your blood pressure and cholesterol Don't smoke Protect yourself from too much sun Drink alcohol in moderation, or don't drink at all Get enough sleep every day Agency for Healthcare Research and Quality</dc:description>
+<dc:subject dcterms="mesh">Healthy Lifestyle</dc:subject>
+<dc:subject xml:lang="es">Vivir saludablemente</dc:subject>
+<dc:subject xml:lang="es">Estilo de vida saludable</dc:subject>
+<dc:subject xml:lang="es">Mantenimiento de la salud</dc:subject>
+<dc:subject xml:lang="es">Salud</dc:subject>
+<dc:subject xml:lang="es">Mantenimiento de la</dc:subject>
+<dc:subject xml:lang="es">Mantenerse saludable</dc:subject>
+<dc:subject xml:lang="es">Prevenir enfermedades y mantenerse saludable</dc:subject>
+<dc:subject xml:lang="en">Healthy Living</dc:subject>
+<dc:subject xml:lang="en">Staying Healthy</dc:subject>
+<dc:subject xml:lang="en">Prevention</dc:subject>
+</metadata>
+</record>
+</MedlinePlus-document>

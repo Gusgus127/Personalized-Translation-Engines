@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<MedlinePlus-document>
+<record>
+<header>
+<identifier>https://medlineplus.gov/breathingproblems.html</identifier>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title type="alternate" xml:lang="es">Disnea</dc:title>
+<dc:title type="alternate" xml:lang="es">Dificultad respiratoria</dc:title>
+<dc:title type="alternate" xml:lang="es">Taquipnea</dc:title>
+<dc:title type="alternate" xml:lang="es">Respiración, Problemas de</dc:title>
+<dc:title type="alternate" xml:lang="en">Dyspnea</dc:title>
+<dc:title type="alternate" xml:lang="en">Tachypnea</dc:title>
+<dc:title type="alternate" xml:lang="en">Shortness of Breath</dc:title>
+<dc:type>Text</dc:type>
+<dc:language>spa</dc:language>
+<dc:language>eng</dc:language>
+<dc:title xml:lang="es">Problemas respiratorios</dc:title>
+<dc:title xml:lang="en">Breathing Problems</dc:title>
+<dc:publisher>National Library of Medicine</dc:publisher>
+<dc:relation type="IsPartOf">Symptoms</dc:relation>
+<dc:relation type="IsPartOf">Lungs and Breathing</dc:relation>
+<dc:date type="created">2003-02-07</dc:date>
+<dc:date type="modified">2018-02-14</dc:date>
+<dc:identifier type="URL" xml:lang="es">https://medlineplus.gov/spanish/breathingproblems.html</dc:identifier>
+<dc:identifier type="URL" xml:lang="en">https://medlineplus.gov/breathingproblems.html</dc:identifier>
+<dc:description xml:lang="es">Cuando usted tiene problemas para respirar, le cuesta o es incómodo obtener el oxígeno que necesita. Puede sentir que no está obteniendo el suficiente aire. A veces puede tener problemas respiratorios leves por una congestión nasal o hacer ejercicio muy intensamente. Pero la falta de aire también puede ser señal de una enfermedad seria. Muchas condiciones pueden hacer sentir que le falta el aire: Problemas de los pulmones como asma, enfisema o neumonía Problemas de su tráquea o en los bronquios, que son parte de su sistema respiratorio Las enfermedades cardíacas pueden provocar falta de aire si su corazón no puede bombear suficiente sangre para suministrarle oxígeno al cuerpo Ansiedad o ataque de pánico Alergias Si usted tiene problemas para respirar en forma frecuente, es importante encontrar la causa.</dc:description>
+<dc:description xml:lang="en">When you're short of breath, it's hard or uncomfortable for you to take in the oxygen your body needs. You may feel as if you're not getting enough air. Sometimes you can have mild breathing problems because of a stuffy nose or intense exercise. But shortness of breath can also be a sign of a serious disease. Many conditions can make you feel short of breath: Lung conditions such as asthma, emphysema, or pneumonia Problems with your trachea or bronchi, which are part of your airway system Heart disease can make you feel breathless if your heart cannot pump enough blood to supply oxygen to your body Anxiety and panic attacks Allergies If you often have trouble breathing, it is important to find out the cause.</dc:description>
+<dc:subject dcterms="mesh">Tachypnea</dc:subject>
+<dc:subject dcterms="mesh">Dyspnea</dc:subject>
+<dc:subject xml:lang="es">Problemas respiratorios</dc:subject>
+<dc:subject xml:lang="es">Disnea</dc:subject>
+<dc:subject xml:lang="es">Dificultad respiratoria</dc:subject>
+<dc:subject xml:lang="es">Taquipnea</dc:subject>
+<dc:subject xml:lang="es">Respiración</dc:subject>
+<dc:subject xml:lang="es">Problemas de</dc:subject>
+<dc:subject xml:lang="en">Breathing Problems</dc:subject>
+<dc:subject xml:lang="en">Dyspnea</dc:subject>
+<dc:subject xml:lang="en">Tachypnea</dc:subject>
+<dc:subject xml:lang="en">Shortness of Breath</dc:subject>
+</metadata>
+</record>
+</MedlinePlus-document>

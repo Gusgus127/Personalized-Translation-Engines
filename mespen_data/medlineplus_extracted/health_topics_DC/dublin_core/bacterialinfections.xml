@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<MedlinePlus-document>
+<record>
+<header>
+<identifier>https://medlineplus.gov/bacterialinfections.html</identifier>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title type="alternate" xml:lang="es">Bacterias, Infecciones por</dc:title>
+<dc:title type="alternate" xml:lang="es">Shigelosis</dc:title>
+<dc:title type="alternate" xml:lang="en">Q Fever</dc:title>
+<dc:title type="alternate" xml:lang="en">Infections, Bacterial</dc:title>
+<dc:title type="alternate" xml:lang="en">Flesh-Eating Bacteria</dc:title>
+<dc:title type="alternate" xml:lang="en">Necrotizing Fasciitis</dc:title>
+<dc:type>Text</dc:type>
+<dc:language>spa</dc:language>
+<dc:language>eng</dc:language>
+<dc:title xml:lang="es">Infecciones bacterianas</dc:title>
+<dc:title xml:lang="en">Bacterial Infections</dc:title>
+<dc:publisher>National Library of Medicine</dc:publisher>
+<dc:relation type="IsPartOf">Infections</dc:relation>
+<dc:date type="created">2002-07-21</dc:date>
+<dc:date type="modified">2018-01-19</dc:date>
+<dc:identifier type="URL" xml:lang="es">https://medlineplus.gov/spanish/bacterialinfections.html</dc:identifier>
+<dc:identifier type="URL" xml:lang="en">https://medlineplus.gov/bacterialinfections.html</dc:identifier>
+<dc:description xml:lang="es">Las bacterias son seres vivos que contienen sólo una célula. Bajo un microscopio, se ven como pelotas, varas o espirales. Son tan pequeñas que una fila de 1.000 podría cruzar la goma de borrar de un lápiz. La mayoría de las bacterias no hacen daño: menos del uno por ciento de ellas causa enfermedades. Además, muchas son útiles. Algunas bacterias ayudan a digerir la comida, destruir células causantes de enfermedades y suministrar vitaminas al cuerpo. Las bacterias también se utilizan para hacer alimentos saludables como el yogurt y el queso. Las bacterias infecciosas se reproducen rápidamente dentro del cuerpo y pueden provocar enfermedades. Muchas despiden sustancias químicas llamadas toxinas, que pueden dañar los tejidos y así causan enfermedades. Entre los ejemplos de bacterias que causan infecciones se incluyen el estreptococo, el estafilococo y la E. coli. El tratamiento habitual es con antibióticos. Cuando tome antibióticos, siga cuidadosamente las instrucciones. Cada vez que toma antibióticos, aumentan las posibilidades de que las bacterias presentes en su cuerpo se adapten a ser más resistentes a éstos. En el futuro, usted podría contagiarse o diseminar una infección que esos antibióticos no pueden curar. NIH: Instituto Nacional de Alergias y Enfermedades Infecciosas</dc:description>
+<dc:description xml:lang="en">Bacteria are living things that have only one cell. Under a microscope, they look like balls, rods, or spirals. They are so small that a line of 1,000 could fit across a pencil eraser. Most bacteria won't hurt you - less than 1 percent of the different types make people sick. Many are helpful. Some bacteria help to digest food, destroy disease-causing cells, and give the body needed vitamins. Bacteria are also used in making healthy foods like yogurt and cheese. But infectious bacteria can make you ill. They reproduce quickly in your body. Many give off chemicals called toxins, which can damage tissue and make you sick. Examples of bacteria that cause infections include Streptococcus, Staphylococcus, and E. coli. Antibiotics are the usual treatment. When you take antibiotics, follow the directions carefully. Each time you take antibiotics, you increase the chances that bacteria in your body will learn to resist them causing antibiotic resistance. Later, you could get or spread an infection that those antibiotics cannot cure. NIH: National Institute of Allergy and Infectious Diseases</dc:description>
+<dc:subject dcterms="mesh">Bacterial Infections</dc:subject>
+<dc:subject xml:lang="es">Infecciones bacterianas</dc:subject>
+<dc:subject xml:lang="es">Bacterias</dc:subject>
+<dc:subject xml:lang="es">Infecciones por</dc:subject>
+<dc:subject xml:lang="es">Shigelosis</dc:subject>
+<dc:subject xml:lang="en">Bacterial Infections</dc:subject>
+<dc:subject xml:lang="en">Q Fever</dc:subject>
+<dc:subject xml:lang="en">Infections</dc:subject>
+<dc:subject xml:lang="en">Bacterial</dc:subject>
+<dc:subject xml:lang="en">Flesh-Eating Bacteria</dc:subject>
+<dc:subject xml:lang="en">Necrotizing Fasciitis</dc:subject>
+</metadata>
+</record>
+</MedlinePlus-document>

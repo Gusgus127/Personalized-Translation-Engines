@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<MedlinePlus-document>
+<record>
+<header>
+<identifier>https://medlineplus.gov/abscess.html</identifier>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:type>Text</dc:type>
+<dc:language>spa</dc:language>
+<dc:language>eng</dc:language>
+<dc:title xml:lang="es">Abscesos</dc:title>
+<dc:title xml:lang="en">Abscess</dc:title>
+<dc:publisher>National Library of Medicine</dc:publisher>
+<dc:relation type="IsPartOf">Infections</dc:relation>
+<dc:date type="created">2010-09-15</dc:date>
+<dc:date type="modified">2017-12-04</dc:date>
+<dc:identifier type="URL" xml:lang="es">https://medlineplus.gov/spanish/abscess.html</dc:identifier>
+<dc:identifier type="URL" xml:lang="en">https://medlineplus.gov/abscess.html</dc:identifier>
+<dc:description xml:lang="es">Un absceso es una cavidad donde se acumula pus. Se puede tener abscesos en casi cualquier parte del cuerpo. Cuando un área se infecta, el sistema inmunitario intenta combatir la infección. Los glóbulos blancos se dirigen hacia el área infectada, se acumulan dentro del tejido lesionado y causan inflamación. Durante este proceso se forma el pus. El pus es una mezcla de células sanguíneas blancas, gérmenes y tejido muerto. Las bacterias, los virus, los parásitos y objetos ingeridos pueden causar la formación de abscesos. Los abscesos en la piel son fáciles de detectar porque son zonas enrojecidas, hinchadas y dolorosas. Los que se encuentran dentro del cuerpo pueden quizá no ser obvios y pueden lesionar órganos, incluso el cerebro, los pulmones y otros. Los tratamientos incluyen drenarlos y tomar antibióticos.</dc:description>
+<dc:description xml:lang="en">An abscess is a pocket of pus. You can get an abscess almost anywhere in your body. When an area of your body becomes infected, your body's immune system tries to fight the infection. White blood cells go to the infected area, collect within the damaged tissue, and cause inflammation. During this process, pus forms. Pus is a mixture of living and dead white blood cells, germs, and dead tissue. Bacteria, viruses, parasites and swallowed objects can all lead to abscesses. Skin abscesses are easy to detect. They are red, raised and painful. Abscesses inside your body may not be obvious and can damage organs, including the brain, lungs and others. Treatments include drainage and antibiotics.</dc:description>
+<dc:subject dcterms="mesh">Abscess</dc:subject>
+<dc:subject xml:lang="es">Abscesos</dc:subject>
+<dc:subject xml:lang="en">Abscess</dc:subject>
+</metadata>
+</record>
+</MedlinePlus-document>

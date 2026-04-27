@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<MedlinePlus-document>
+<record>
+<header>
+<identifier>https://medlineplus.gov/impetigo.html</identifier>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:type>Text</dc:type>
+<dc:language>spa</dc:language>
+<dc:language>eng</dc:language>
+<dc:title xml:lang="es">Impétigo</dc:title>
+<dc:title xml:lang="en">Impetigo</dc:title>
+<dc:publisher>National Library of Medicine</dc:publisher>
+<dc:relation type="IsPartOf">Skin, Hair and Nails</dc:relation>
+<dc:relation type="IsPartOf">Infections</dc:relation>
+<dc:date type="created">2003-02-07</dc:date>
+<dc:date type="modified">2016-11-03</dc:date>
+<dc:identifier type="URL" xml:lang="es">https://medlineplus.gov/spanish/impetigo.html</dc:identifier>
+<dc:identifier type="URL" xml:lang="en">https://medlineplus.gov/impetigo.html</dc:identifier>
+<dc:description xml:lang="es">El impétigo es una infección de la piel. Generalmente, es causada por la bacteria estafilococo pero algunas veces el estreptococo también puede causarla. Es más común en los niños entre dos y seis años. Suele comenzar cuando las bacterias entran por una grieta de la piel, como una cortadura, rasguño o picadura de un insecto. Los primeros síntomas son pequeñas llagas rojizas o similares a una espinilla rodeadas por piel enrojecida. Estas llagas suelen presentarse en la cara, los brazos y las piernas, aunque pueden encontrarse en otros lugares. Las llagas se llenan de pus, al cabo de algunos días se abren y forman una costra gruesa. Con frecuencia pican, pero rascarse puede diseminar las llagas. El impétigo puede contagiarse por contacto con las lesiones o la secreción nasal de una persona infectada. Puede tratarse con antibióticos. NIH: Instituto Nacional de Alergias y Enfermedades Infecciosas</dc:description>
+<dc:description xml:lang="en">Impetigo is a skin infection caused by bacteria. It is usually caused by staphylococcal (staph) bacteria, but it can also be caused by streptococcal (strep) bacteria. It is most common in children between the ages of two and six. It usually starts when bacteria get into a break in the skin, such as a cut, scratch, or insect bite. Symptoms start with red or pimple-like sores surrounded by red skin. These sores can be anywhere, but usually they occur on your face, arms and legs. The sores fill with pus, then break open after a few days and form a thick crust. They are often itchy, but scratching them can spread the sores. Impetigo can spread by contact with sores or nasal discharge from an infected person. You can treat impetigo with antibiotics. NIH: National Institute of Allergy and Infectious Diseases</dc:description>
+<dc:subject dcterms="mesh">Impetigo</dc:subject>
+<dc:subject xml:lang="es">Impétigo</dc:subject>
+<dc:subject xml:lang="en">Impetigo</dc:subject>
+</metadata>
+</record>
+</MedlinePlus-document>

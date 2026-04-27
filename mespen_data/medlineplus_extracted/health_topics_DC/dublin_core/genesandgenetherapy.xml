@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<MedlinePlus-document>
+<record>
+<header>
+<identifier>https://medlineplus.gov/genesandgenetherapy.html</identifier>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title type="alternate" xml:lang="es">Terapia genética</dc:title>
+<dc:title type="alternate" xml:lang="es">Herencia</dc:title>
+<dc:title type="alternate" xml:lang="en">Human Genome Project</dc:title>
+<dc:type>Text</dc:type>
+<dc:language>spa</dc:language>
+<dc:language>eng</dc:language>
+<dc:title xml:lang="es">Genes y terapia genética</dc:title>
+<dc:title xml:lang="en">Genes and Gene Therapy</dc:title>
+<dc:publisher>National Library of Medicine</dc:publisher>
+<dc:relation type="IsPartOf">Genetics/Birth Defects</dc:relation>
+<dc:date type="created">2002-07-21</dc:date>
+<dc:date type="modified">2018-01-31</dc:date>
+<dc:identifier type="URL" xml:lang="es">https://medlineplus.gov/spanish/genesandgenetherapy.html</dc:identifier>
+<dc:identifier type="URL" xml:lang="en">https://medlineplus.gov/genesandgenetherapy.html</dc:identifier>
+<dc:description xml:lang="es">Los genes son los ladrillos de la herencia. Pasan de padres a hijos y contienen las instrucciones para producir proteínas. Si los genes no producen las proteínas correctas o no lo hacen correctamente, un niño puede tener un trastorno genético. La terapia genética es una técnica experimental que utiliza los genes para tratar o prevenir enfermedades. La forma más común de terapia genética incluye la inserción de un gen normal para sustituir a uno anormal. Otros tipos incluyen: Intercambio de un gen anormal por uno normal Reparación de un gen anormal Alteración del grado en el que se active o se desactive un gen Aunque hay una gran esperanza para la terapia genética, aún es experimental. Oficina de Referencia Genética</dc:description>
+<dc:description xml:lang="en">Genes are the building blocks of inheritance. Passed from parent to child, they contain instructions for making proteins. If genes don't produce the right proteins or don't produce them correctly, a child can have a genetic disorder. Gene therapy is an experimental technique that uses genes to treat or prevent disease. The most common form of gene therapy involves inserting a normal gene to replace an abnormal gene. Other approaches include Swapping an abnormal gene for a normal one Repairing an abnormal gene Altering the degree to which a gene is turned on or off Although there is much hope for gene therapy, it is still experimental. Genetics Home Reference</dc:description>
+<dc:subject dcterms="mesh">Genes</dc:subject>
+<dc:subject dcterms="mesh">Genetic Therapy</dc:subject>
+<dc:subject xml:lang="es">Genes y terapia genética</dc:subject>
+<dc:subject xml:lang="es">Terapia genética</dc:subject>
+<dc:subject xml:lang="es">Herencia</dc:subject>
+<dc:subject xml:lang="en">Genes and Gene Therapy</dc:subject>
+<dc:subject xml:lang="en">Human Genome Project</dc:subject>
+</metadata>
+</record>
+</MedlinePlus-document>

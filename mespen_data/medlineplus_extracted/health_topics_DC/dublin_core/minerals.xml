@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<MedlinePlus-document>
+<record>
+<header>
+<identifier>https://medlineplus.gov/minerals.html</identifier>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title type="alternate" xml:lang="es">Oligoelementos</dc:title>
+<dc:title type="alternate" xml:lang="en">Chromium</dc:title>
+<dc:title type="alternate" xml:lang="en">Copper</dc:title>
+<dc:title type="alternate" xml:lang="en">Magnesium</dc:title>
+<dc:title type="alternate" xml:lang="en">Phosphorus</dc:title>
+<dc:title type="alternate" xml:lang="en">Selenium</dc:title>
+<dc:title type="alternate" xml:lang="en">Zinc</dc:title>
+<dc:type>Text</dc:type>
+<dc:language>spa</dc:language>
+<dc:language>eng</dc:language>
+<dc:title xml:lang="es">Minerales en la dieta</dc:title>
+<dc:title xml:lang="en">Minerals</dc:title>
+<dc:publisher>National Library of Medicine</dc:publisher>
+<dc:relation type="IsPartOf">Food and Nutrition</dc:relation>
+<dc:date type="created">2006-04-24</dc:date>
+<dc:date type="modified">2018-02-07</dc:date>
+<dc:identifier type="URL" xml:lang="es">https://medlineplus.gov/spanish/minerals.html</dc:identifier>
+<dc:identifier type="URL" xml:lang="en">https://medlineplus.gov/minerals.html</dc:identifier>
+<dc:description xml:lang="es">Los minerales son importantes para su cuerpo y para mantenerse sano. El organismo usa los minerales para muchas funciones distintas, incluyendo el mantener los huesos, corazón y cerebro funcionando bien. Los minerales también son importantes para las enzimas y las hormonas. Existen dos tipos de minerales, los macrominerales y los oligoelementos. Usted necesita mayores cantidades de macrominerales. Estos incluyen calcio, fósforo, magnesio, sodio, potasio, cloro y azufre. Usted necesita menores cantidades de oligoelementos. Estos incluyen hierro, manganeso, cobre, yodo, cinc, cobalto, flúor y selenio. La mayoría de las personas obtienen los minerales que necesitan al comer una amplia variedad de alimentos. En algunos casos, su médico puede recomendarle un suplemento mineral. Personas con algunos problemas de salud o que están tomando algunas medicinas pueden necesitar consumir menos de un mineral. Por ejemplo, personas con enfermedad renal crónica tienen que limitar su consumo de potasio.</dc:description>
+<dc:description xml:lang="en">Minerals are important for your body to stay healthy. Your body uses minerals for many different jobs, including keeping your bones, muscles, heart, and brain working properly. Minerals are also important for making enzymes and hormones. There are two kinds of minerals: macrominerals and trace minerals. You need larger amounts of macrominerals. They include calcium, phosphorus, magnesium, sodium, potassium, chloride and sulfur. You only need small amounts of trace minerals. They include iron, manganese, copper, iodine, zinc, cobalt, fluoride and selenium. Most people get the amount of minerals they need by eating a wide variety of foods. In some cases, your doctor may recommend a mineral supplement. People who have certain health problems or take some medicines may need to get less of one of the minerals. For example, people with chronic kidney disease need to limit foods that are high in potassium.</dc:description>
+<dc:subject dcterms="mesh">Minerals</dc:subject>
+<dc:subject xml:lang="es">Minerales en la dieta</dc:subject>
+<dc:subject xml:lang="es">Oligoelementos</dc:subject>
+<dc:subject xml:lang="en">Minerals</dc:subject>
+<dc:subject xml:lang="en">Chromium</dc:subject>
+<dc:subject xml:lang="en">Copper</dc:subject>
+<dc:subject xml:lang="en">Magnesium</dc:subject>
+<dc:subject xml:lang="en">Phosphorus</dc:subject>
+<dc:subject xml:lang="en">Selenium</dc:subject>
+<dc:subject xml:lang="en">Zinc</dc:subject>
+</metadata>
+</record>
+</MedlinePlus-document>

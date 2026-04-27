@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<MedlinePlus-document>
+<record>
+<header>
+<identifier>https://medlineplus.gov/ruralhealthconcerns.html</identifier>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title type="alternate" xml:lang="es">Rural, Salud</dc:title>
+<dc:type>Text</dc:type>
+<dc:language>spa</dc:language>
+<dc:language>eng</dc:language>
+<dc:title xml:lang="es">Salud rural</dc:title>
+<dc:title xml:lang="en">Rural Health Concerns</dc:title>
+<dc:publisher>National Library of Medicine</dc:publisher>
+<dc:relation type="IsPartOf">Health System</dc:relation>
+<dc:date type="created">2017-02-14</dc:date>
+<dc:date type="modified">2017-06-05</dc:date>
+<dc:identifier type="URL" xml:lang="es">https://medlineplus.gov/spanish/ruralhealthconcerns.html</dc:identifier>
+<dc:identifier type="URL" xml:lang="en">https://medlineplus.gov/ruralhealthconcerns.html</dc:identifier>
+<dc:description xml:lang="es">Las personas que viven en zonas rurales se enfrentan con algunos problemas de salud diferentes a aquellos de las personas que viven en ciudades. Recibir atención para la salud puede ser un problema cuando se vive en un lugar alejado. Es posible que no pueda llegar a un hospital rápidamente en caso de una urgencia. También es posible que quizá no quiera viajar grandes distancias para hacerse exámenes y evaluaciones de rutina. Las zonas rurales suelen tener menos médicos y dentistas, además de no contar con algunos especialistas. Debido a la dificultad para recibir cuidados, los problemas de salud de los habitantes en las zonas rurales pueden ser más serios al momento de su diagnóstico. Las personas en las zonas rurales de los Estados Unidos tienen un mayor índice de enfermedades crónicas que las personas que viven en los centros urbanos. También tienen mayor incidencia de algunos tipos de cáncer debido a la exposición a las sustancias químicas utilizadas en el campo.</dc:description>
+<dc:description xml:lang="en">People in rural areas face some different health issues than people who live in towns and cities. Getting health care can be a problem when you live in a remote area. You might not be able to get to a hospital quickly in an emergency. You also might not want to travel long distances to get routine checkups and screenings. Rural areas often have fewer doctors and dentists, and certain specialists might not be available at all. Because it can be hard to get care, health problems in rural residents may be more serious by the time they are diagnosed. People in rural areas of the United States have higher rates of chronic disease than people in urban areas. They also have higher rates of certain types of cancer, from exposure to chemicals used in farming.</dc:description>
+<dc:subject dcterms="mesh">Rural Health</dc:subject>
+<dc:subject dcterms="mesh">Rural Health Services</dc:subject>
+<dc:subject dcterms="mesh">Rural Population</dc:subject>
+<dc:subject xml:lang="es">Salud rural</dc:subject>
+<dc:subject xml:lang="es">Rural</dc:subject>
+<dc:subject xml:lang="es">Salud</dc:subject>
+<dc:subject xml:lang="en">Rural Health Concerns</dc:subject>
+</metadata>
+</record>
+</MedlinePlus-document>

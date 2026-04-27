@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<MedlinePlus-document>
+<record>
+<header>
+<identifier>https://medlineplus.gov/financialassistance.html</identifier>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:type>Text</dc:type>
+<dc:language>spa</dc:language>
+<dc:language>eng</dc:language>
+<dc:title xml:lang="es">Asistencia económica</dc:title>
+<dc:title xml:lang="en">Financial Assistance</dc:title>
+<dc:publisher>National Library of Medicine</dc:publisher>
+<dc:relation type="IsPartOf">Social/Family Issues</dc:relation>
+<dc:relation type="IsPartOf">Health System</dc:relation>
+<dc:date type="created">2003-07-29</dc:date>
+<dc:date type="modified">2017-12-11</dc:date>
+<dc:identifier type="URL" xml:lang="es">https://medlineplus.gov/spanish/financialassistance.html</dc:identifier>
+<dc:identifier type="URL" xml:lang="en">https://medlineplus.gov/financialassistance.html</dc:identifier>
+<dc:description xml:lang="es">El cuidado de la salud puede ser costoso. Los seguros médicos suelen cubrir por lo menos parte de los gastos médicos. Si no tiene un seguro médico o necesita ayuda con los gastos que no están cubiertos, podría contar con ayuda económica. Algunos programas del gobierno y organizaciones sin fines de lucro pueden ayudar. También puede hablar acerca de sus dudas sobre el pago de las facturas médicas con el profesional de la salud, un trabajador social o la oficina administrativa del hospital o la clínica.</dc:description>
+<dc:description xml:lang="en">Health care can be costly. If you have health insurance, it usually pays at least part of your medical costs. If you don't have insurance or need help with costs that aren't covered, financial assistance might be available. Certain government programs and nonprofit organizations can help. You can also discuss concerns about paying your medical bills with your health care provider, social worker or the business office of your clinic or hospital.</dc:description>
+<dc:subject dcterms="mesh">Medical Assistance</dc:subject>
+<dc:subject xml:lang="es">Asistencia económica</dc:subject>
+<dc:subject xml:lang="en">Financial Assistance</dc:subject>
+</metadata>
+</record>
+</MedlinePlus-document>

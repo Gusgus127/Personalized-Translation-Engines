@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<MedlinePlus-document>
+<record>
+<header>
+<identifier>https://medlineplus.gov/womenshealth.html</identifier>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title type="alternate" xml:lang="es">Mujer, Salud de la</dc:title>
+<dc:type>Text</dc:type>
+<dc:language>spa</dc:language>
+<dc:language>eng</dc:language>
+<dc:title xml:lang="es">Salud de las mujeres</dc:title>
+<dc:title xml:lang="en">Women's Health</dc:title>
+<dc:publisher>National Library of Medicine</dc:publisher>
+<dc:relation type="IsPartOf">Population Groups</dc:relation>
+<dc:relation type="IsPartOf">Women</dc:relation>
+<dc:date type="created">2002-07-21</dc:date>
+<dc:date type="modified">2017-12-20</dc:date>
+<dc:identifier type="URL" xml:lang="es">https://medlineplus.gov/spanish/womenshealth.html</dc:identifier>
+<dc:identifier type="URL" xml:lang="en">https://medlineplus.gov/womenshealth.html</dc:identifier>
+<dc:description xml:lang="es">Las mujeres tienen problemas de salud únicos. Y algunos de los problemas de salud que afectan a hombres y mujeres pueden afectar a estas últimas de manera diferente. Temas únicos incluyen el embarazo, la menopausia y las condiciones de los órganos femeninos. Las mujeres pueden tener un embarazo saludable si reciben cuidado prenatal temprano y regular. También deben hacerse las pruebas recomendadas para el cáncer de mama, cáncer cervical y de densidad ósea. Mujeres y hombres también tienen muchos problemas de salud similares. Sin embargo, estos problemas pueden afectar a las mujeres de manera diferente. Por ejemplo: Las mujeres tienen más probabilidades de morir a causa de un ataque al corazón que los hombres Las mujeres tienen más probabilidades de mostrar signos de depresión y ansiedad que los hombres Los efectos de las enfermedades de transmisión sexual pueden ser más graves en las mujeres. La osteoartritis afecta más a las mujeres que a los hombres Las mujeres tienen más probabilidades de tener infecciones del tracto urinario NIH: Instituto Nacional de Salud Infantil y Desarrollo Humano</dc:description>
+<dc:description xml:lang="en">Women have unique health issues. And some of the health issues that affect both men and women can affect women differently. Unique issues include pregnancy, menopause, and conditions of the female organs. Women can have a healthy pregnancy by getting early and regular prenatal care. They should also get recommended breast cancer, cervical cancer, and bone density screenings. Women and men also have many of the same health problems. But these problems can affect women differently. For example, Women are more likely to die following a heart attack than men Women are more likely to show signs of depression and anxiety than men The effects of sexually transmitted diseases can be more serious in women Osteoarthritis affects more women than men Women are more likely to have urinary tract problems NIH: National Institute of Child Health and Human Development</dc:description>
+<dc:subject dcterms="mesh">Women's Health</dc:subject>
+<dc:subject xml:lang="es">Salud de las mujeres</dc:subject>
+<dc:subject xml:lang="es">Mujer</dc:subject>
+<dc:subject xml:lang="es">Salud de la</dc:subject>
+<dc:subject xml:lang="en">Women's Health</dc:subject>
+</metadata>
+</record>
+</MedlinePlus-document>

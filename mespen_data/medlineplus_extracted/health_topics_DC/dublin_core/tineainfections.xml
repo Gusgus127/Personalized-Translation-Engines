@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<MedlinePlus-document>
+<record>
+<header>
+<identifier>https://medlineplus.gov/tineainfections.html</identifier>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:type>Text</dc:type>
+<dc:language>spa</dc:language>
+<dc:language>eng</dc:language>
+<dc:title xml:lang="es">Infecciones por tiña</dc:title>
+<dc:title xml:lang="en">Tinea Infections</dc:title>
+<dc:publisher>National Library of Medicine</dc:publisher>
+<dc:relation type="IsPartOf">Infections</dc:relation>
+<dc:relation type="IsPartOf">Skin, Hair and Nails</dc:relation>
+<dc:date type="created">2003-07-29</dc:date>
+<dc:date type="modified">2017-06-20</dc:date>
+<dc:identifier type="URL" xml:lang="es">https://medlineplus.gov/spanish/tineainfections.html</dc:identifier>
+<dc:identifier type="URL" xml:lang="en">https://medlineplus.gov/tineainfections.html</dc:identifier>
+<dc:description xml:lang="es">La tiña es el nombre de un grupo de enfermedades causada por un hongo. Los tipos de tiña incluyen la tiña en el cuerpo, pie de atleta y la tiña con picazón. Estas infecciones no suelen ser serias, pero pueden ser incómodas. Se pueden adquirir por tocar a una persona infectada, superficies húmedas como pisos de duchas o incluso de una mascota. Los síntomas dependen del área del cuerpo que esté afectada: La tiña en el cuerpo es un anillo rojo que se forma alrededor de un área de piel normal La tiña en el cuero cabelludo causa parches rojos y picazón en la cabeza. Puede dejar áreas sin cabello. Suele afectar a los niños El pie de atleta provoca picazón, ardor y piel agrietada entre los dedos del pie La tiña con picazón causa una lesión cutánea con picazón y ardor en el área de la ingle Las cremas y los polvos que se venden sin receta médica resolverán muchas infecciones por tiña, especialmente el pie de atleta y la tiña con picazón. Otros casos necesitan medicamentos con receta médica.</dc:description>
+<dc:description xml:lang="en">Tinea is the name of a group of diseases caused by a fungus. Types of tinea include ringworm, athlete's foot and jock itch. These infections are usually not serious, but they can be uncomfortable. You can get them by touching an infected person, from damp surfaces such as shower floors, or even from a pet. Symptoms depend on the affected area of the body: Ringworm is a red skin rash that forms a ring around normal-looking skin. A worm doesn't cause it. Scalp ringworm causes itchy, red patches on your head. It can leave bald spots. It usually affects children. Athlete's foot causes itching, burning and cracked skin between your toes. Jock itch causes an itchy, burning rash in your groin area. Over-the-counter creams and powders will get rid of many tinea infections, particularly athlete's foot and jock itch. Other cases require prescription medicine.</dc:description>
+<dc:subject dcterms="mesh">Tinea</dc:subject>
+<dc:subject xml:lang="es">Infecciones por tiña</dc:subject>
+<dc:subject xml:lang="en">Tinea Infections</dc:subject>
+<dc:subject xml:lang="en">Ringworm</dc:subject>
+<dc:subject xml:lang="en">Jock Itch</dc:subject>
+</metadata>
+</record>
+</MedlinePlus-document>

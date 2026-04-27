@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<MedlinePlus-document>
+<record>
+<header>
+<identifier>https://medlineplus.gov/eyeinfections.html</identifier>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title type="alternate" xml:lang="es">Ojo seco</dc:title>
+<dc:title type="alternate" xml:lang="es">Ojos, Infecciones</dc:title>
+<dc:title type="alternate" xml:lang="es">Blefaritis</dc:title>
+<dc:title type="alternate" xml:lang="es">Córnea, Infecciones</dc:title>
+<dc:title type="alternate" xml:lang="es">Ojos, Herpes zóster oftálmico (HZO)</dc:title>
+<dc:type>Text</dc:type>
+<dc:language>spa</dc:language>
+<dc:language>eng</dc:language>
+<dc:title xml:lang="es">Infecciones de los ojos</dc:title>
+<dc:title xml:lang="en">Eye Infections</dc:title>
+<dc:publisher>National Library of Medicine</dc:publisher>
+<dc:relation type="IsPartOf">Eyes and Vision</dc:relation>
+<dc:date type="created">2007-05-10</dc:date>
+<dc:date type="modified">2018-02-06</dc:date>
+<dc:identifier type="URL" xml:lang="es">https://medlineplus.gov/spanish/eyeinfections.html</dc:identifier>
+<dc:identifier type="URL" xml:lang="en">https://medlineplus.gov/eyeinfections.html</dc:identifier>
+<dc:description xml:lang="es">Los ojos pueden infectarse con bacterias, hongos o virus. Las infecciones de los ojos pueden ocurrir en distintas partes del ojo y afectar sólo un ojo o ambos. Dos infecciones comunes del ojo son: Conjuntivitis: también conocida como "ojo rojo". La conjuntivitis suele ser debida a una infección. Los niños presentan conjuntivitis con frecuencia y es muy contagiosa. Orzuelo: un abultamiento en el párpado que ocurre cuando las bacterias de la piel entran en el folículo piloso de una pestaña. Los síntomas de las infecciones oculares pueden incluir enrojecimiento, picazón, hinchazón, secreciones, dolor o problemas con la vista. El tratamiento depende de la causa de la infección y puede incluir compresas, gotas para los ojos, pomadas o antibióticos.</dc:description>
+<dc:description xml:lang="en">Your eyes can get infections from bacteria, fungi, or viruses. Eye infections can occur in different parts of the eye and can affect just one eye or both. Two common eye infections are Conjunctivitis - also known as pinkeye. Conjunctivitis is often due to an infection. Children frequently get it, and it is very contagious. Stye - a bump on the eyelid that happens when bacteria from your skin get into the hair follicle of an eyelash. Symptoms of eye infections may include redness, itching, swelling, discharge, pain, or problems with vision. Treatment depends on the cause of the infection and may include compresses, eye drops, creams, or antibiotics.</dc:description>
+<dc:subject dcterms="mesh">Eye Infections</dc:subject>
+<dc:subject xml:lang="es">Infecciones de los ojos</dc:subject>
+<dc:subject xml:lang="es">Ojo seco</dc:subject>
+<dc:subject xml:lang="es">Ojos</dc:subject>
+<dc:subject xml:lang="es">Infecciones</dc:subject>
+<dc:subject xml:lang="es">Blefaritis</dc:subject>
+<dc:subject xml:lang="es">Córnea</dc:subject>
+<dc:subject xml:lang="es">Infecciones</dc:subject>
+<dc:subject xml:lang="es">Ojos</dc:subject>
+<dc:subject xml:lang="es">Herpes zóster oftálmico (HZO)</dc:subject>
+<dc:subject xml:lang="en">Eye Infections</dc:subject>
+</metadata>
+</record>
+</MedlinePlus-document>

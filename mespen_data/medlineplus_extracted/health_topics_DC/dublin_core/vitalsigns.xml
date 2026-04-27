@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<MedlinePlus-document>
+<record>
+<header>
+<identifier>https://medlineplus.gov/vitalsigns.html</identifier>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:type>Text</dc:type>
+<dc:language>spa</dc:language>
+<dc:language>eng</dc:language>
+<dc:title xml:lang="es">Signos vitales</dc:title>
+<dc:title xml:lang="en">Vital Signs</dc:title>
+<dc:publisher>National Library of Medicine</dc:publisher>
+<dc:relation type="IsPartOf">Wellness and Lifestyle</dc:relation>
+<dc:relation type="IsPartOf">Diagnostic Tests</dc:relation>
+<dc:date type="created">2016-02-04</dc:date>
+<dc:date type="modified">2017-12-11</dc:date>
+<dc:identifier type="URL" xml:lang="es">https://medlineplus.gov/spanish/vitalsigns.html</dc:identifier>
+<dc:identifier type="URL" xml:lang="en">https://medlineplus.gov/vitalsigns.html</dc:identifier>
+<dc:description xml:lang="es">Sus signos vitales muestran qué tan bien está funcionando su cuerpo. Por lo general, se miden en la consulta del médico, a menudo como parte de un chequeo médico, o durante una visita de emergencia médica. Estos incluyen: La presión arterial, que mide la fuerza de la sangre contra las paredes de las arterias. La presión arterial que es muy alta o muy baja puede causar problemas. Su presión arterial tiene dos números. El primer número es la presión cuando el corazón late y bombea la sangre. El segundo es cuando el corazón está en reposo entre latidos. Una lectura de la presión arterial normal para adultos es inferior a 120/80 y superior a 90/60 La frecuencia cardiaca o pulso, que mide la velocidad con la que su corazón late. Un problema con el ritmo cardíaco puede ser una arritmia. Su ritmo cardíaco normal depende de factores tales como su edad, cantidad de ejercicio, si usted está sentado o de pie, los medicamentos que toma y su peso La frecuencia respiratoria, que mide su respiración. Cambios respiratorios leves pueden ser por causas tales como tener la nariz tapada o hacer ejercicio intenso. Pero una respiración lenta o rápida también puede ser un signo de un problemas respiratorios graves La temperatura, que mide qué tan caliente está su cuerpo. Una temperatura corporal que es más alta de lo normal (más de 98,6 grados F o 37 grados C) se llama fiebre</dc:description>
+<dc:description xml:lang="en">Your vital signs show how well your body is functioning. They are usually measured at doctor's offices, often as part of a health checkup, or during an emergency room visit. They include Blood pressure, which measures the force of your blood pushing against the walls of your arteries. Blood pressure that is too high or too low can cause problems. Your blood pressure has two numbers. The first number is the pressure when your heart beats and is pumping the blood. The second is from when your heart is at rest, between beats. A normal blood pressure reading for adults is lower than 120/80 and higher than 90/60. Heart rate, or pulse, which measures how fast your heart is beating. A problem with your heart rate may be an arrhythmia. Your normal heart rate depends on factors such as your age, how much you exercise, whether you are sitting or standing, which medicines you take, and your weight. Respiratory rate, which measures your breathing. Mild breathing changes can be from causes such as a stuffy nose or hard exercise. But slow or fast breathing can also be a sign of a serious breathing problem. Temperature, which measures how hot your body is. A body temperature that is higher than normal (over 98.6 degrees F) is called a fever.</dc:description>
+<dc:subject dcterms="mesh">Vital Signs</dc:subject>
+<dc:subject xml:lang="es">Signos vitales</dc:subject>
+<dc:subject xml:lang="en">Vital Signs</dc:subject>
+<dc:subject xml:lang="en">Blood Pressure</dc:subject>
+<dc:subject xml:lang="en">Temperature</dc:subject>
+<dc:subject xml:lang="en">Pulse</dc:subject>
+<dc:subject xml:lang="en">Breathing Rate</dc:subject>
+<dc:subject xml:lang="en">Heart Rate</dc:subject>
+</metadata>
+</record>
+</MedlinePlus-document>

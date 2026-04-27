@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<MedlinePlus-document>
+<record>
+<header>
+<identifier>https://medlineplus.gov/urineandurination.html</identifier>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title type="alternate" xml:lang="es">Micción</dc:title>
+<dc:title type="alternate" xml:lang="en">Dysuria</dc:title>
+<dc:title type="alternate" xml:lang="en">Pee</dc:title>
+<dc:title type="alternate" xml:lang="en">Micturition</dc:title>
+<dc:title type="alternate" xml:lang="en">Urination</dc:title>
+<dc:type>Text</dc:type>
+<dc:language>spa</dc:language>
+<dc:language>eng</dc:language>
+<dc:title xml:lang="es">Orina y micción</dc:title>
+<dc:title xml:lang="en">Urine and Urination</dc:title>
+<dc:publisher>National Library of Medicine</dc:publisher>
+<dc:relation type="IsPartOf">Kidneys and Urinary System</dc:relation>
+<dc:date type="created">2009-07-08</dc:date>
+<dc:date type="modified">2017-11-01</dc:date>
+<dc:identifier type="URL" xml:lang="es">https://medlineplus.gov/spanish/urineandurination.html</dc:identifier>
+<dc:identifier type="URL" xml:lang="en">https://medlineplus.gov/urineandurination.html</dc:identifier>
+<dc:description xml:lang="es">Sus riñones producen orina al filtrar desechos y exceso de agua de la sangre. Al desecho se le llama urea. La sangre la transporta hasta los riñones. Desde los riñones, la orina llega a la vejiga por dos tubos delgados llamados uréteres. La vejiga almacena la orina hasta que usted siente ganas de ir al baño. La vejiga se expande cuando está llena y se hace más pequeña cuando está vacía. Si su sistema urinario funciona normalmente, su vejiga puede almacenar hasta 16 onzas (177cc o dos tazas) de orina cómodamente por entre dos a cinco horas. Usted puede tener problemas para orinar si sufre de: Insuficiencia renal Infecciones del tracto urinario Agrandamiento de la próstata Problemas del control de la vejiga como incontinencia, vejiga hiperactiva o cistitis intersticial Una obstrucción que no le permite vaciar su vejiga Algunas condiciones pueden causar que su orina contenga sangre o proteína. Si usted tiene un problema urinario, acuda a su proveedor de cuidados de salud. El análisis de orina y otras pruebas pueden ayudar a diagnosticar el problema. El tratamiento depende de la causa. NIH: Instituto Nacional de la Diabetes y las Enfermedades Digestivas y Renales</dc:description>
+<dc:description xml:lang="en">Your kidneys make urine by filtering wastes and extra water from your blood. The waste is called urea. Your blood carries it to the kidneys. From the kidneys, urine travels down two thin tubes called ureters to the bladder. The bladder stores urine until you are ready to urinate. It swells into a round shape when it is full and gets smaller when empty. If your urinary system is healthy, your bladder can hold up to 16 ounces (2 cups) of urine comfortably for 2 to 5 hours. You may have problems with urination if you have Kidney failure Urinary tract infections An enlarged prostate Bladder control problems like incontinence, overactive bladder, or interstitial cystitis A blockage that prevents you from emptying your bladder Some conditions may also cause you to have blood or protein in your urine. If you have a urinary problem, see your health care provider. Urinalysis and other urine tests can help to diagnose the problem. Treatment depends on the cause. NIH: National Institute of Diabetes and Digestive and Kidney Diseases</dc:description>
+<dc:subject dcterms="mesh">Urine</dc:subject>
+<dc:subject dcterms="mesh">Lower Urinary Tract Symptoms</dc:subject>
+<dc:subject dcterms="mesh">Urination</dc:subject>
+<dc:subject dcterms="mesh">Urination Disorders</dc:subject>
+<dc:subject xml:lang="es">Orina y micción</dc:subject>
+<dc:subject xml:lang="es">Micción</dc:subject>
+<dc:subject xml:lang="en">Urine and Urination</dc:subject>
+<dc:subject xml:lang="en">Dysuria</dc:subject>
+<dc:subject xml:lang="en">Pee</dc:subject>
+<dc:subject xml:lang="en">Micturition</dc:subject>
+<dc:subject xml:lang="en">Urination</dc:subject>
+</metadata>
+</record>
+</MedlinePlus-document>

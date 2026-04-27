@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<MedlinePlus-document>
+<record>
+<header>
+<identifier>https://medlineplus.gov/bowelmovement.html</identifier>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title type="alternate" xml:lang="es">Mover los intestinos</dc:title>
+<dc:title type="alternate" xml:lang="es">Heces, Evacuación</dc:title>
+<dc:title type="alternate" xml:lang="es">Caca, Hacer</dc:title>
+<dc:title type="alternate" xml:lang="es">Deposiciones</dc:title>
+<dc:title type="alternate" xml:lang="en">Poop</dc:title>
+<dc:title type="alternate" xml:lang="en">Stool</dc:title>
+<dc:type>Text</dc:type>
+<dc:language>spa</dc:language>
+<dc:language>eng</dc:language>
+<dc:title xml:lang="es">Evacuación de las heces</dc:title>
+<dc:title xml:lang="en">Bowel Movement</dc:title>
+<dc:publisher>National Library of Medicine</dc:publisher>
+<dc:relation type="IsPartOf">Digestive System</dc:relation>
+<dc:date type="created">2009-10-06</dc:date>
+<dc:date type="modified">2017-11-08</dc:date>
+<dc:identifier type="URL" xml:lang="es">https://medlineplus.gov/spanish/bowelmovement.html</dc:identifier>
+<dc:identifier type="URL" xml:lang="en">https://medlineplus.gov/bowelmovement.html</dc:identifier>
+<dc:description xml:lang="es">La evacuación de las heces es el último paso de la comida en el camino por el tracto digestivo. Las heces salen del cuerpo a través del recto y del ano. Otro nombre para las heces es materia fecal o excremento. Las heces están hechas de lo que queda después de que el aparato digestivo (estómago, intestino delgado y colon) absorbe los nutrientes y líquidos de lo que usted comió y tomó. A veces, pueden surgir problemas en este proceso. La diarrea ocurre cuando las heces pasan por el intestino largo muy rápidamente. También se puede sufrir de estreñimiento, que es cuando la materia fecal pasa a través del intestino muy lentamente. La incontinencia fecal es un problema para controlar la evacuación de la materia fecal. Otras anormalidades con la evacuación de las heces pueden ser un signo de un problema digestivo. NIH: Instituto Nacional de la Diabetes y las Enfermedades Digestivas y Renales</dc:description>
+<dc:description xml:lang="en">A bowel movement is the last stop in the movement of food through your digestive tract. Your stool passes out of your body through the rectum and anus. Another name for stool is feces. It is made of what is left after your digestive system (stomach, small intestine, and colon) absorbs nutrients and fluids from what you eat and drink. Sometimes a bowel movement isn't normal. Diarrhea happens when stool passes through the large intestine too quickly. Constipation occurs when stool passes through the large intestine too slowly. Bowel incontinence is a problem controlling your bowel movements. Other abnormalities with bowel movements may be a sign of a digestive problem. NIH: National Institute of Diabetes and Digestive and Kidney Diseases</dc:description>
+<dc:subject dcterms="mesh">Defecation</dc:subject>
+<dc:subject dcterms="mesh">Feces</dc:subject>
+<dc:subject xml:lang="es">Evacuación de las heces</dc:subject>
+<dc:subject xml:lang="es">Mover los intestinos</dc:subject>
+<dc:subject xml:lang="es">Heces</dc:subject>
+<dc:subject xml:lang="es">Evacuación</dc:subject>
+<dc:subject xml:lang="es">Caca</dc:subject>
+<dc:subject xml:lang="es">Hacer</dc:subject>
+<dc:subject xml:lang="es">Deposiciones</dc:subject>
+<dc:subject xml:lang="en">Bowel Movement</dc:subject>
+<dc:subject xml:lang="en">Poop</dc:subject>
+<dc:subject xml:lang="en">Stool</dc:subject>
+</metadata>
+</record>
+</MedlinePlus-document>

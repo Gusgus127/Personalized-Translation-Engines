@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<MedlinePlus-document>
+<record>
+<header>
+<identifier>https://medlineplus.gov/snoring.html</identifier>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:type>Text</dc:type>
+<dc:language>spa</dc:language>
+<dc:language>eng</dc:language>
+<dc:title xml:lang="es">Roncar</dc:title>
+<dc:title xml:lang="en">Snoring</dc:title>
+<dc:publisher>National Library of Medicine</dc:publisher>
+<dc:relation type="IsPartOf">Lungs and Breathing</dc:relation>
+<dc:relation type="IsPartOf">Ear, Nose and Throat</dc:relation>
+<dc:relation type="IsPartOf">Mouth and Teeth</dc:relation>
+<dc:date type="created">2002-07-21</dc:date>
+<dc:date type="modified">2018-01-03</dc:date>
+<dc:identifier type="URL" xml:lang="es">https://medlineplus.gov/spanish/snoring.html</dc:identifier>
+<dc:identifier type="URL" xml:lang="en">https://medlineplus.gov/snoring.html</dc:identifier>
+<dc:description xml:lang="es">Independientemente del nombre que se le dé, o su nombre clínico, "estertores," roncar es común. El ronquido se produce cuando algo obstruye el flujo de aire a través de la boca y la nariz. El sonido es producido por los tejidos de la parte superior de las vías respiratorias que chocan entre ellas y vibran. Muchos adultos roncan, especialmente los hombres. El ronquido puede aumentar con la edad. Sin embargo, roncar puede ser un signo de un trastorno del sueño serio llamado apnea del sueño. Eso significa que usted deja de respirar por períodos de más de 10 segundos mientras duerme. La apnea del sueño es seria, pero hay tratamientos que pueden ayudar. Los niños también pueden tener apnea del sueño. Si su hijo ronca con frecuencia, pídale a su médico que lo examine para descartar la apnea del sueño. Estos son algunos consejos para disminuir los ronquidos: Perder peso si está excedido Disminuir o eliminar el consumo de alcohol y otros sedantes a la hora de acostarse Evitar dormir de espalda</dc:description>
+<dc:description xml:lang="en">Snoring is the sound you make when your breathing is blocked while you are asleep. The sound is caused by tissues at the top of your airway that strike each other and vibrate. Snoring is common, especially among older people and people who are overweight. When severe, snoring can cause frequent awakenings at night and daytime sleepiness. It can disrupt your bed partner's sleep. Snoring can also be a sign of a serious sleep disorder called sleep apnea. You should see your health care provider if you are often tired during the day, don't feel that you sleep well, or wake up gasping. To reduce snoring Lose weight if you are overweight. It may help, but thin people can snore, too. Cut down or avoid alcohol and other sedatives at bedtime Don't sleep flat on your back NIH: National Institute on Aging</dc:description>
+<dc:subject dcterms="mesh">Snoring</dc:subject>
+<dc:subject xml:lang="es">Roncar</dc:subject>
+<dc:subject xml:lang="en">Snoring</dc:subject>
+</metadata>
+</record>
+</MedlinePlus-document>

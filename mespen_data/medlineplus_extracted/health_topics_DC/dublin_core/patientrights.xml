@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<MedlinePlus-document>
+<record>
+<header>
+<identifier>https://medlineplus.gov/patientrights.html</identifier>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title type="alternate" xml:lang="es">Paciente, Derechos del</dc:title>
+<dc:title type="alternate" xml:lang="en">Privacy</dc:title>
+<dc:title type="alternate" xml:lang="en">Ombudsman Programs</dc:title>
+<dc:title type="alternate" xml:lang="en">Informed Consent</dc:title>
+<dc:title type="alternate" xml:lang="en">Second Opinion</dc:title>
+<dc:type>Text</dc:type>
+<dc:language>spa</dc:language>
+<dc:language>eng</dc:language>
+<dc:title xml:lang="es">Derechos del paciente</dc:title>
+<dc:title xml:lang="en">Patient Rights</dc:title>
+<dc:publisher>National Library of Medicine</dc:publisher>
+<dc:relation type="IsPartOf">Health System</dc:relation>
+<dc:relation type="IsPartOf">Personal Health Issues</dc:relation>
+<dc:date type="created">2005-11-03</dc:date>
+<dc:date type="modified">2017-12-14</dc:date>
+<dc:identifier type="URL" xml:lang="es">https://medlineplus.gov/spanish/patientrights.html</dc:identifier>
+<dc:identifier type="URL" xml:lang="en">https://medlineplus.gov/patientrights.html</dc:identifier>
+<dc:description xml:lang="es">Como paciente, usted tiene ciertos derechos. Algunos están garantizados por las leyes federales, como el derecho a recibir una copia de su historia clínica y el derecho a mantenerlo privado. Muchos estados tienen leyes adicionales que protegen a los pacientes y los centros de salud suelen tener una declaración de los derechos de sus pacientes. Un derecho importante del paciente es el consentimiento informado. Eso significa que si usted debe someterse a un tratamiento, el médico debe proveerle la información necesaria para que tome una decisión. Muchos hospitales cuentan con personas que abogan por los pacientes que necesitan de ayuda, si llegaran a tener algún problema. Muchos estados tienen una oficina de defensoría del pueblo para problemas con el cuidado de la salud a largo plazo. El departamento de salud de su estado también puede ayudarlo.</dc:description>
+<dc:description xml:lang="en">As a patient, you have certain rights. Some are guaranteed by federal law, such as the right to get a copy of your medical records, and the right to keep them private. Many states have additional laws protecting patients, and health care facilities often have a patient bill of rights. An important patient right is informed consent. This means that if you need a treatment, your health care provider must give you the information you need to make a decision. Many hospitals have patient advocates who can help you if you have problems. Many states have an ombudsman office for problems with long term care. Your state's department of health may also be able to help.</dc:description>
+<dc:subject dcterms="mesh">Patient Rights</dc:subject>
+<dc:subject xml:lang="es">Derechos del paciente</dc:subject>
+<dc:subject xml:lang="es">Paciente</dc:subject>
+<dc:subject xml:lang="es">Derechos del</dc:subject>
+<dc:subject xml:lang="en">Patient Rights</dc:subject>
+<dc:subject xml:lang="en">Privacy</dc:subject>
+<dc:subject xml:lang="en">Ombudsman Programs</dc:subject>
+<dc:subject xml:lang="en">Informed Consent</dc:subject>
+<dc:subject xml:lang="en">Second Opinion</dc:subject>
+</metadata>
+</record>
+</MedlinePlus-document>

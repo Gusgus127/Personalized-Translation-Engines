@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<MedlinePlus-document>
+<record>
+<header>
+<identifier>https://medlineplus.gov/vegetariandiet.html</identifier>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title type="alternate" xml:lang="es">Vegetarianismo</dc:title>
+<dc:title type="alternate" xml:lang="en">Vegan Diet</dc:title>
+<dc:title type="alternate" xml:lang="en">Vegans</dc:title>
+<dc:type>Text</dc:type>
+<dc:language>spa</dc:language>
+<dc:language>eng</dc:language>
+<dc:title xml:lang="es">Dieta vegetariana</dc:title>
+<dc:title xml:lang="en">Vegetarian Diet</dc:title>
+<dc:publisher>National Library of Medicine</dc:publisher>
+<dc:relation type="IsPartOf">Food and Nutrition</dc:relation>
+<dc:date type="created">2003-02-07</dc:date>
+<dc:date type="modified">2017-09-14</dc:date>
+<dc:identifier type="URL" xml:lang="es">https://medlineplus.gov/spanish/vegetariandiet.html</dc:identifier>
+<dc:identifier type="URL" xml:lang="en">https://medlineplus.gov/vegetariandiet.html</dc:identifier>
+<dc:description xml:lang="es">Una dieta vegetariana se enfoca a la alimentación con verduras. Esto incluye frutas, verduras, guisantes y alubias secas, granos, semillas y nueces. No existe un único tipo de dieta vegetariana. Los modelos de alimentación vegetariana suelen entrar en uno de los siguientes grupos: La dieta vegetariana estricta, que excluye todas las carnes y productos animales La dieta lacto vegetariana, que incluye alimentos derivados de las plantas y productos lácteos La dieta lacto-ovo vegetariana, que incluye productos lácteos y huevos Las personas que siguen dietas vegetarianas pueden obtener todos los nutrientes que necesitan. Sin embargo, deben tener cuidado de comer una amplia variedad de alimentos para cubrir sus necesidades nutricionales. Los nutrientes vegetarianos deben enfocarse en incluir proteínas, hierro, calcio, zinc y vitamina B12. Departamento de Agricultura de Estados Unidos</dc:description>
+<dc:description xml:lang="en">A vegetarian diet focuses on plants for food. These include fruits, vegetables, dried beans and peas, grains, seeds and nuts. There is no single type of vegetarian diet. Instead, vegetarian eating patterns usually fall into the following groups: The vegan diet, which excludes all meat and animal products The lacto vegetarian diet, which includes plant foods plus dairy products The lacto-ovo vegetarian diet, which includes both dairy products and eggs People who follow vegetarian diets can get all the nutrients they need. However, they must be careful to eat a wide variety of foods to meet their nutritional needs. Nutrients vegetarians may need to focus on include protein, iron, calcium, zinc and vitamin B12. United States Department of Agriculture</dc:description>
+<dc:subject dcterms="mesh">Vegetarians</dc:subject>
+<dc:subject dcterms="mesh">Diet, Vegetarian</dc:subject>
+<dc:subject xml:lang="es">Dieta vegetariana</dc:subject>
+<dc:subject xml:lang="es">Vegetarianismo</dc:subject>
+<dc:subject xml:lang="en">Vegetarian Diet</dc:subject>
+<dc:subject xml:lang="en">Vegan Diet</dc:subject>
+<dc:subject xml:lang="en">Vegans</dc:subject>
+</metadata>
+</record>
+</MedlinePlus-document>

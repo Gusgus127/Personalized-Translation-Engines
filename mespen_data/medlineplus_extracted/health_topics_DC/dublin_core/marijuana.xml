@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<MedlinePlus-document>
+<record>
+<header>
+<identifier>https://medlineplus.gov/marijuana.html</identifier>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title type="alternate" xml:lang="es">Cannabis</dc:title>
+<dc:title type="alternate" xml:lang="es">Abuso de marihuana</dc:title>
+<dc:title type="alternate" xml:lang="en">Cannabis</dc:title>
+<dc:type>Text</dc:type>
+<dc:language>spa</dc:language>
+<dc:language>eng</dc:language>
+<dc:title xml:lang="es">Marihuana</dc:title>
+<dc:title xml:lang="en">Marijuana</dc:title>
+<dc:publisher>National Library of Medicine</dc:publisher>
+<dc:relation type="IsPartOf">Substance Abuse Problems</dc:relation>
+<dc:date type="created">2002-07-21</dc:date>
+<dc:date type="modified">2017-11-08</dc:date>
+<dc:identifier type="URL" xml:lang="es">https://medlineplus.gov/spanish/marijuana.html</dc:identifier>
+<dc:identifier type="URL" xml:lang="en">https://medlineplus.gov/marijuana.html</dc:identifier>
+<dc:description xml:lang="es">La marihuana es una mezcla verde, marrón o gris de partes desmenuzadas y secas de la planta de marihuana. Se puede enrollar y fumar como un cigarrillo o fumar en una pipa. A veces las personas la mezclan en alimentos o inhalan utilizando un vaporizador. La marihuana puede causar problemas con la memoria, el aprendizaje y el comportamiento. Fumarla puede causar algunos de los mismos problemas de tos y respiración que los que provocan los cigarrillos. Algunas personas se vuelven adictas a la marihuana después de usarla por un tiempo. Es más probable que ocurra si usan marihuana todos los días, o comenzaron a consumirla cuando eran adolescentes. Algunos estados en Estados Unidos han aprobado la "marihuana medicinal" para aliviar los síntomas de varios problemas de salud. La Administración de Alimentos y Medicamentos (FDA, por su sigla en inglés) no ha aprobado la planta de la marihuana como medicina. Sin embargo, se han realizado estudios científicos sobre los canabinoides, los productos químicos en la marihuana, lo que ha conducido a la aprobación de dos medicamentos por la FDA. Estos contienen THC, el ingrediente activo de la marihuana. Tratan a las náuseas causadas por la quimioterapia y aumentan el apetito en pacientes con severa pérdida de peso por VIH/SIDA. Los científicos están haciendo más investigaciones con la marihuana y sus ingredientes para el tratamiento de muchas otras enfermedades y condiciones. NIH: Instituto Nacional sobre el Abuso de Drogas</dc:description>
+<dc:description xml:lang="en">Marijuana is a green, brown, or gray mix of dried, crumbled parts from the marijuana plant. It can be rolled up and smoked like a cigarette or cigar or smoked in a pipe. Sometimes people mix it in food or inhale it using a vaporizer. Marijuana can cause problems with memory, learning, and behavior. Smoking it can cause some of the same coughing and breathing problems as smoking cigarettes. Some people get addicted to marijuana after using it for a while. It is more likely to happen if they use marijuana every day, or started using it when they were teenagers. Some states have approved "medical marijuana" to ease symptoms of various health problems. The U.S. Food and Drug Administration (FDA) has not approved the marijuana plant as a medicine. However, there have been scientific studies of cannabinoids, the chemicals in marijuana. This has led to two FDA-approved medicines. They contain THC, the active ingredient in marijuana. They treat nausea caused by chemotherapy and increase appetite in patients who have severe weight loss from HIV/AIDS. Scientists are doing more research with marijuana and its ingredients to treat many diseases and conditions. NIH: National Institute on Drug Abuse</dc:description>
+<dc:subject dcterms="mesh">Marijuana Use</dc:subject>
+<dc:subject dcterms="mesh">Medical Marijuana</dc:subject>
+<dc:subject dcterms="mesh">Marijuana Abuse</dc:subject>
+<dc:subject xml:lang="es">Marihuana</dc:subject>
+<dc:subject xml:lang="es">Cannabis</dc:subject>
+<dc:subject xml:lang="es">Abuso de marihuana</dc:subject>
+<dc:subject xml:lang="en">Marijuana</dc:subject>
+<dc:subject xml:lang="en">Cannabis</dc:subject>
+</metadata>
+</record>
+</MedlinePlus-document>

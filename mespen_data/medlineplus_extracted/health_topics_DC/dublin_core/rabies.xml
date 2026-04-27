@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<MedlinePlus-document>
+<record>
+<header>
+<identifier>https://medlineplus.gov/rabies.html</identifier>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:type>Text</dc:type>
+<dc:language>spa</dc:language>
+<dc:language>eng</dc:language>
+<dc:title xml:lang="es">Rabia</dc:title>
+<dc:title xml:lang="en">Rabies</dc:title>
+<dc:publisher>National Library of Medicine</dc:publisher>
+<dc:relation type="IsPartOf">Infections</dc:relation>
+<dc:date type="created">2002-07-21</dc:date>
+<dc:date type="modified">2017-10-16</dc:date>
+<dc:identifier type="URL" xml:lang="es">https://medlineplus.gov/spanish/rabies.html</dc:identifier>
+<dc:identifier type="URL" xml:lang="en">https://medlineplus.gov/rabies.html</dc:identifier>
+<dc:description xml:lang="es">La rabia es una enfermedad animal mortal causada por un virus. Puede ocurrir entre los animales salvajes, incluyendo mapaches, zorrinos, murciélagos y zorros o en perros, gatos o animales de granja. Las personas la adquieren por la mordedura de un animal infectado. En las personas, los síntomas de la rabia incluyen fiebre, dolor de cabeza y fatiga, después confusión, alucinaciones y parálisis. Una vez que los síntomas comienzan, la enfermedad suele ser mortal. Una serie de vacunas puede prevenir la rabia en las personas expuestas al virus. Debe recibirlas de inmediato. Si un animal lo muerde, lávese bien la herida y luego busque atención médica. Para ayudar a prevenir la rabia: Vacune a sus mascotas. Las vacunas contra la rabia se encuentran disponibles para perros, gatos y animales de granja No permita que merodeen las mascotas sin su vigilancia No se acerque a animales desconocidos. Los animales con rabia pueden ser agresivos y feroces o estar cansados y débiles Centros para el Control y la Prevención de Enfermedades</dc:description>
+<dc:description xml:lang="en">Rabies is a deadly animal disease caused by a virus. It can happen in wild animals, including raccoons, skunks, bats and foxes, or in dogs, cats or farm animals. People get it from the bite of an infected animal. In people, symptoms of rabies include fever, headache and fatigue, then confusion, hallucinations and paralysis. Once the symptoms begin, the disease is usually fatal. A series of shots can prevent rabies in people exposed to the virus. You need to get them right away. If an animal bites you, wash the wound well; then get medical care. To help prevent rabies Vaccinate your pet. Rabies vaccines are available for dogs, cats and farm animals Don't let pets roam Don't approach stray animals. Animals with rabies might be aggressive and vicious, or tired and weak Centers for Disease Control and Prevention</dc:description>
+<dc:subject dcterms="mesh">Rabies</dc:subject>
+<dc:subject xml:lang="es">Rabia</dc:subject>
+<dc:subject xml:lang="en">Rabies</dc:subject>
+<dc:subject xml:lang="en">Hydrophobia</dc:subject>
+</metadata>
+</record>
+</MedlinePlus-document>

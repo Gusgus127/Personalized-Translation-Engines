@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<MedlinePlus-document>
+<record>
+<header>
+<identifier>https://medlineplus.gov/testiculardisorders.html</identifier>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title type="alternate" xml:lang="es">Hernia inguinal</dc:title>
+<dc:title type="alternate" xml:lang="es">Genitales masculinos, Enfermedades de los</dc:title>
+<dc:title type="alternate" xml:lang="es">Hidrocele</dc:title>
+<dc:title type="alternate" xml:lang="es">Traumatismo testicular</dc:title>
+<dc:title type="alternate" xml:lang="es">Testículos, Enfermedades de los</dc:title>
+<dc:title type="alternate" xml:lang="en">Semen</dc:title>
+<dc:title type="alternate" xml:lang="en">Male Genital Disorders</dc:title>
+<dc:title type="alternate" xml:lang="en">Undescended Testicle</dc:title>
+<dc:type>Text</dc:type>
+<dc:language>spa</dc:language>
+<dc:language>eng</dc:language>
+<dc:title xml:lang="es">Enfermedades de los testículos</dc:title>
+<dc:title xml:lang="en">Testicular Disorders</dc:title>
+<dc:publisher>National Library of Medicine</dc:publisher>
+<dc:relation type="IsPartOf">Sexual Health Issues</dc:relation>
+<dc:relation type="IsPartOf">Male Reproductive System</dc:relation>
+<dc:relation type="IsPartOf">Men</dc:relation>
+<dc:relation type="IsPartOf">Endocrine System</dc:relation>
+<dc:date type="created">2006-07-25</dc:date>
+<dc:date type="modified">2018-02-05</dc:date>
+<dc:identifier type="URL" xml:lang="es">https://medlineplus.gov/spanish/testiculardisorders.html</dc:identifier>
+<dc:identifier type="URL" xml:lang="en">https://medlineplus.gov/testiculardisorders.html</dc:identifier>
+<dc:description xml:lang="es">Los testículos producen las hormonas masculinas y el esperma. Son dos órganos ovalados ubicados dentro del escroto, que es una bolsa de piel que se encuentra detrás del pene. Es fácil lesionar los testículos porque no están protegidos por huesos o músculos. Los hombres y los niños deben usar suspensorios al practicar cualquier deporte. Debe examinarse los testículos mensualmente y buscar atención médica si detecta nódulos, enrojecimiento, dolor y otros cambios. Los testículos pueden inflamarse o infectarse. También pueden desarrollar cáncer. El cáncer de testículos es poco frecuente y muy tratable. Suele ocurrir entre los 15 y los 40 años.</dc:description>
+<dc:description xml:lang="en">Testicles, or testes, make male hormones and sperm. They are two egg-shaped organs inside the scrotum, the loose sac of skin behind the penis. It's easy to injure your testicles because they are not protected by bones or muscles. Men and boys should wear athletic supporters when they play sports. You should examine your testicles monthly and seek medical attention for lumps, redness, pain or other changes. Testicles can get inflamed or infected. They can also develop cancer. Testicular cancer is rare and highly treatable. It usually happens between the ages of 15 and 40.</dc:description>
+<dc:subject dcterms="mesh">Testicular Diseases</dc:subject>
+<dc:subject xml:lang="es">Enfermedades de los testículos</dc:subject>
+<dc:subject xml:lang="es">Hernia inguinal</dc:subject>
+<dc:subject xml:lang="es">Genitales masculinos</dc:subject>
+<dc:subject xml:lang="es">Enfermedades de los</dc:subject>
+<dc:subject xml:lang="es">Hidrocele</dc:subject>
+<dc:subject xml:lang="es">Traumatismo testicular</dc:subject>
+<dc:subject xml:lang="es">Testículos</dc:subject>
+<dc:subject xml:lang="es">Enfermedades de los</dc:subject>
+<dc:subject xml:lang="en">Testicular Disorders</dc:subject>
+<dc:subject xml:lang="en">Semen</dc:subject>
+<dc:subject xml:lang="en">Male Genital Disorders</dc:subject>
+<dc:subject xml:lang="en">Undescended Testicle</dc:subject>
+</metadata>
+</record>
+</MedlinePlus-document>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<MedlinePlus-document>
+<record>
+<header>
+<identifier>https://medlineplus.gov/wristinjuriesanddisorders.html</identifier>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title type="alternate" xml:lang="es">Muñeca, Lesiones de</dc:title>
+<dc:title type="alternate" xml:lang="en">Ganglion Cyst</dc:title>
+<dc:type>Text</dc:type>
+<dc:language>spa</dc:language>
+<dc:language>eng</dc:language>
+<dc:title xml:lang="es">Lesiones y enfermedades de la muñeca</dc:title>
+<dc:title xml:lang="en">Wrist Injuries and Disorders</dc:title>
+<dc:publisher>National Library of Medicine</dc:publisher>
+<dc:relation type="IsPartOf">Injuries and Wounds</dc:relation>
+<dc:relation type="IsPartOf">Bones, Joints and Muscles</dc:relation>
+<dc:date type="created">2002-07-21</dc:date>
+<dc:date type="modified">2017-11-20</dc:date>
+<dc:identifier type="URL" xml:lang="es">https://medlineplus.gov/spanish/wristinjuriesanddisorders.html</dc:identifier>
+<dc:identifier type="URL" xml:lang="en">https://medlineplus.gov/wristinjuriesanddisorders.html</dc:identifier>
+<dc:description xml:lang="es">La muñeca está formada por ocho huesos pequeños conocidos como carpianos. Éstos forman un conducto que corre a través de su muñeca. Ese conducto, llamado túnel del carpo, contiene tendones y un nervio en el interior. Está cubierto por un ligamento, que lo sostiene en su lugar. El dolor en la muñeca es común. Los movimientos repetidos pueden lesionar la muñeca. Las actividades cotidianas como trabajar con una computadora, deportes con raqueta o coser, pueden causar dolor e inclusive el síndrome del túnel del carpo. El dolor en la muñeca con hematomas e inflamación puede ser signo de un traumatismo. Los signos de una posible fractura incluyen tanto la deformación de la articulación, como la incapacidad para mover la muñeca. Algunas fracturas de la muñeca son a consecuencia de la osteoporosis. Otras causas comunes de dolor son: Torceduras y distensiones Tendinitis Artritis Gota y pseudogota</dc:description>
+<dc:description xml:lang="en">Your wrist is made up of eight small bones known as carpals. They support a tube that runs through your wrist. That tube, called the carpal tunnel, has tendons and a nerve inside. It is covered by a ligament, which holds it in place. Wrist pain is common. Repetitive motion can damage your wrist. Everyday activities like typing, racquet sports or sewing can cause pain, or even carpal tunnel syndrome. Wrist pain with bruising and swelling can be a sign of injury. The signs of a possible fracture include misshapen joints and inability to move your wrist. Some wrist fractures are a result of osteoporosis. Other common causes of pain are Sprains and strains Tendinitis Arthritis Gout and pseudogout</dc:description>
+<dc:subject dcterms="mesh">Wrist Injuries</dc:subject>
+<dc:subject xml:lang="es">Lesiones y enfermedades de la muñeca</dc:subject>
+<dc:subject xml:lang="es">Muñeca</dc:subject>
+<dc:subject xml:lang="es">Lesiones de</dc:subject>
+<dc:subject xml:lang="en">Wrist Injuries and Disorders</dc:subject>
+<dc:subject xml:lang="en">Ganglion Cyst</dc:subject>
+</metadata>
+</record>
+</MedlinePlus-document>

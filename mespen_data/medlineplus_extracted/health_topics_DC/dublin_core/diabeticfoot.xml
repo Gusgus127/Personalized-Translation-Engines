@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<MedlinePlus-document>
+<record>
+<header>
+<identifier>https://medlineplus.gov/diabeticfoot.html</identifier>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:type>Text</dc:type>
+<dc:language>spa</dc:language>
+<dc:language>eng</dc:language>
+<dc:title xml:lang="es">Pie diabético</dc:title>
+<dc:title xml:lang="en">Diabetic Foot</dc:title>
+<dc:publisher>National Library of Medicine</dc:publisher>
+<dc:relation type="IsPartOf">Brain and Nerves</dc:relation>
+<dc:relation type="IsPartOf">Blood, Heart and Circulation</dc:relation>
+<dc:relation type="IsPartOf">Bones, Joints and Muscles</dc:relation>
+<dc:relation type="IsPartOf">Endocrine System</dc:relation>
+<dc:relation type="IsPartOf">Diabetes Mellitus</dc:relation>
+<dc:date type="created">2002-07-21</dc:date>
+<dc:date type="modified">2017-11-20</dc:date>
+<dc:identifier type="URL" xml:lang="es">https://medlineplus.gov/spanish/diabeticfoot.html</dc:identifier>
+<dc:identifier type="URL" xml:lang="en">https://medlineplus.gov/diabeticfoot.html</dc:identifier>
+<dc:description xml:lang="es">Si tiene diabetes, sus niveles de azúcar en la sangre son demasiado altos. Con el tiempo, esto puede dañar los nervios o los vasos sanguíneos. El daño a los nervios que produce la diabetes puede hacer que pierda la sensación en los pies. Es posible que no sienta una cortadura, una ampolla o una llaga. Las lesiones como éstas en el pie pueden causar úlceras e infecciones. Los casos graves pueden inclusive causar una amputación. El daño en los vasos sanguíneos también puede significar que los pies no reciben suficiente sangre y oxígeno. Es más difícil que su pie pueda curarse si tiene una llaga o una infección. Usted puede ayudar a evitar los problemas en los pies. Primero, controle los niveles de azúcar en la sangre. También es esencial una buena higiene de los pies. Revise sus pies todos los días Lave sus pies todos los días Mantenga su piel humectada y suave Lime los callos y callosidades suavemente Si puede, mire y sienta sus pies con sus manos. Córtese las uñas regularmente. Si no puede hacerlo, pídale a un doctor especialista en pies (podiatra) que lo haga por usted Vista medias y zapatos en todo momento Proteja sus pies del frío y del calor Mantenga la circulación sanguínea en sus pies NIH: Instituto Nacional de la Diabetes y las Enfermedades Digestivas y Renales</dc:description>
+<dc:description xml:lang="en">If you have diabetes, your blood glucose, or blood sugar, levels are too high. Over time, this can damage your nerves or blood vessels. Nerve damage from diabetes can cause you to lose feeling in your feet. You may not feel a cut, a blister or a sore. Foot injuries such as these can cause ulcers and infections. Serious cases may even lead to amputation. Damage to the blood vessels can also mean that your feet do not get enough blood and oxygen. It is harder for your foot to heal, if you do get a sore or infection. You can help avoid foot problems. First, control your blood sugar levels. Good foot hygiene is also crucial: Check your feet every day Wash your feet every day Keep the skin soft and smooth Smooth corns and calluses gently If you can see, reach, and feel your feet, trim your toenails regularly. If you cannot, ask a foot doctor (podiatrist) to trim them for you. Wear shoes and socks at all times Protect your feet from hot and cold Keep the blood flowing to your feet NIH: National Institute of Diabetes and Digestive and Kidney Diseases</dc:description>
+<dc:subject dcterms="mesh">Diabetic Foot</dc:subject>
+<dc:subject xml:lang="es">Pie diabético</dc:subject>
+<dc:subject xml:lang="en">Diabetic Foot</dc:subject>
+</metadata>
+</record>
+</MedlinePlus-document>

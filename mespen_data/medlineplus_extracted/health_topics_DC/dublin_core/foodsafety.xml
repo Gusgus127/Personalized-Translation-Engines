@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<MedlinePlus-document>
+<record>
+<header>
+<identifier>https://medlineplus.gov/foodsafety.html</identifier>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title type="alternate" xml:lang="es">Alimentos, Seguridad</dc:title>
+<dc:title type="alternate" xml:lang="es">Inocuidad de los alimentos</dc:title>
+<dc:type>Text</dc:type>
+<dc:language>spa</dc:language>
+<dc:language>eng</dc:language>
+<dc:title xml:lang="es">Seguridad con los alimentos</dc:title>
+<dc:title xml:lang="en">Food Safety</dc:title>
+<dc:publisher>National Library of Medicine</dc:publisher>
+<dc:relation type="IsPartOf">Food and Nutrition</dc:relation>
+<dc:relation type="IsPartOf">Poisoning, Toxicology, Environmental Health</dc:relation>
+<dc:relation type="IsPartOf">Safety Issues</dc:relation>
+<dc:date type="created">2002-07-21</dc:date>
+<dc:date type="modified">2017-12-15</dc:date>
+<dc:identifier type="URL" xml:lang="es">https://medlineplus.gov/spanish/foodsafety.html</dc:identifier>
+<dc:identifier type="URL" xml:lang="en">https://medlineplus.gov/foodsafety.html</dc:identifier>
+<dc:description xml:lang="es">Medidas adecuadas de seguridad en la manipulación, cocción y almacenamiento de alimentos pueden prevenir enfermedades transmitidas por alimentos. Hay cuatro pasos básicos para la seguridad alimentaria en el hogar: Limpiar: Siempre lave los alimentos, las manos, mostradores y utensilios de cocina Separe: Mantenga los alimentos crudos separados de los cocidos. Los gérmenes pueden propagarse de un alimento a otro Cocine: Los alimentos necesitan calentarse y mantenerse calientes. El calor mata a los gérmenes Enfríe: Ponga la comida fresca en el refrigerador inmediatamente En la tienda, evite latas que estén abolladas o frascos que tengan grietas o tapas sueltas. Revise las etiquetas para verificar que no ha alcanzado su fecha de vencimiento. Departamento de Agricultura de Estados Unidos</dc:description>
+<dc:description xml:lang="en">Safe steps in food handling, cooking, and storage can prevent foodborne illness. There are four basic steps to food safety at home: Clean - always wash your fruits and vegetables, hands, counters, and cooking utensils. Separate - keep raw foods to themselves. Germs can spread from one food to another. Cook - foods need to get hot and stay hot. Heat kills germs. Chill - put fresh food in the refrigerator right away. In the grocery store, avoid cans that are bulging or jars that have cracks or loose lids. Check packages to be sure food hasn't reached its expiration date. United States Department of Agriculture</dc:description>
+<dc:subject dcterms="mesh">Food Safety</dc:subject>
+<dc:subject xml:lang="es">Seguridad con los alimentos</dc:subject>
+<dc:subject xml:lang="es">Alimentos</dc:subject>
+<dc:subject xml:lang="es">Seguridad</dc:subject>
+<dc:subject xml:lang="es">Inocuidad de los alimentos</dc:subject>
+<dc:subject xml:lang="en">Food Safety</dc:subject>
+</metadata>
+</record>
+</MedlinePlus-document>

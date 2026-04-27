@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<MedlinePlus-document>
+<record>
+<header>
+<identifier>https://medlineplus.gov/turnersyndrome.html</identifier>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:type>Text</dc:type>
+<dc:language>spa</dc:language>
+<dc:language>eng</dc:language>
+<dc:title xml:lang="es">Síndrome de Turner</dc:title>
+<dc:title xml:lang="en">Turner Syndrome</dc:title>
+<dc:publisher>National Library of Medicine</dc:publisher>
+<dc:relation type="IsPartOf">Endocrine System</dc:relation>
+<dc:relation type="IsPartOf">Genetics/Birth Defects</dc:relation>
+<dc:date type="created">2003-11-04</dc:date>
+<dc:date type="modified">2017-07-17</dc:date>
+<dc:identifier type="URL" xml:lang="es">https://medlineplus.gov/spanish/turnersyndrome.html</dc:identifier>
+<dc:identifier type="URL" xml:lang="en">https://medlineplus.gov/turnersyndrome.html</dc:identifier>
+<dc:description xml:lang="es">El síndrome de Turner es un trastorno genético que afecta el desarrollo de las niñas. La causa es un cromosoma X ausente o incompleto. Las niñas que lo presentan son de baja estatura y sus ovarios no funcionan en forma adecuada. Otras características físicas típicas del síndrome de Turner son: Baja estatura, "pliegues" en el cuello que van desde la parte superior de los hombros hasta los lados del cuello Línea del cabello bajo en la espalda Baja ubicación de las orejas Manos y pies inflamados La mayoría de de las mujeres con síndrome de Turner son infértiles. Corren el riesgo de tener problemas de salud como hipertensión arterial, problemas renales, diabetes, cataratas, osteoporosis y problemas tiroideos. Los médicos diagnostican el síndrome de Turner sobre la base de los síntomas y una prueba genética. A veces se encuentra en pruebas prenatales. No existe una cura para el síndrome de Turner, pero hay algunos tratamientos para los síntomas. La hormona del crecimiento suele ayudar a que las niñas alcancen estaturas cercanas al promedio. La terapia de sustitución hormonal puede estimular el desarrollo sexual. Las técnicas de reproducción asistida pueden ayudar a algunas mujeres con el síndrome de Turner a lograr embarazarse. NIH: Instituto Nacional de Salud Infantil y Desarrollo Humano</dc:description>
+<dc:description xml:lang="en">Turner syndrome is a genetic disorder that affects a girl's development. The cause is a missing or incomplete X chromosome. Girls who have it are short, and their ovaries don't work properly. Other physical features typical of Turner syndrome are Short, "webbed" neck with folds of skin from tops of shoulders to sides of neck Low hairline in the back Low-set ears Swollen hands and feet Most women with Turner syndrome are infertile. They are at risk for health difficulties such as high blood pressure, kidney problems, diabetes, cataracts, osteoporosis, and thyroid problems. Doctors diagnose Turner syndrome based on symptoms and a genetic test. Sometimes it is found in prenatal testing. There is no cure for Turner syndrome, but there are some treatments for the symptoms. Growth hormone often helps girls reach heights that are close to average. Hormone replacement can help start sexual development. Assisted reproduction techniques can help some women with Turner syndrome get pregnant. NIH: National Institute of Child Health and Human Development</dc:description>
+<dc:subject dcterms="mesh">Turner Syndrome</dc:subject>
+<dc:subject xml:lang="es">Síndrome de Turner</dc:subject>
+<dc:subject xml:lang="en">Turner Syndrome</dc:subject>
+</metadata>
+</record>
+</MedlinePlus-document>

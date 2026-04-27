@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<MedlinePlus-document>
+<record>
+<header>
+<identifier>https://medlineplus.gov/parenting.html</identifier>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title type="alternate" xml:lang="es">Chicos, Crianza de</dc:title>
+<dc:title type="alternate" xml:lang="es">Niños, Crianza de</dc:title>
+<dc:type>Text</dc:type>
+<dc:language>spa</dc:language>
+<dc:language>eng</dc:language>
+<dc:title xml:lang="es">Crianza de los hijos</dc:title>
+<dc:title xml:lang="en">Parenting</dc:title>
+<dc:publisher>National Library of Medicine</dc:publisher>
+<dc:relation type="IsPartOf">Children and Teenagers</dc:relation>
+<dc:relation type="IsPartOf">Social/Family Issues</dc:relation>
+<dc:date type="created">2002-12-30</dc:date>
+<dc:date type="modified">2018-02-12</dc:date>
+<dc:identifier type="URL" xml:lang="es">https://medlineplus.gov/spanish/parenting.html</dc:identifier>
+<dc:identifier type="URL" xml:lang="en">https://medlineplus.gov/parenting.html</dc:identifier>
+<dc:description xml:lang="es">Si usted tiene hijos, recibe muchas sugerencias sobre cómo debe criarlos. Desde expertos hasta otros padres, las personas están siempre dispuestas a darle consejos. Consejos sobre la crianza de los hijos, guías de supervivencia para padres, lo que debe y no debe hacer, cosas nuevas aparecen todos los días. La verdad es que hay más de una manera "correcta" de ser buenos padres. Ser buenos padres incluye: Mantener a sus hijo sanos y seguros Demostrarles afecto y escucharlos Proveer orden y su consistencia Determinar y hacer cumplir los límites Pasar tiempo con sus hijos Supervisar las amistades y las actividades de sus hijos Darles el ejemplo NIH: Instituto Nacional de la Salud del Niño y Desarrollo Humano</dc:description>
+<dc:description xml:lang="en">If you're a parent, you get plenty of suggestions on how to raise your child. From experts to other parents, people are always ready to offer advice. Parenting tips, parents' survival guides, dos, don'ts, shoulds and shouldn'ts - new ones come out daily. The truth is there is more than one "right" way to be a good parent. Good parenting includes Keeping your child safe Showing affection and listening to your child Providing order and consistency Setting and enforcing limits Spending time with your child Monitoring your child's friendships and activities Leading by example NIH: National Institute of Child Health and Human Development</dc:description>
+<dc:subject dcterms="mesh">Parenting</dc:subject>
+<dc:subject xml:lang="es">Crianza de los hijos</dc:subject>
+<dc:subject xml:lang="es">Chicos</dc:subject>
+<dc:subject xml:lang="es">Crianza de</dc:subject>
+<dc:subject xml:lang="es">Niños</dc:subject>
+<dc:subject xml:lang="es">Crianza de</dc:subject>
+<dc:subject xml:lang="en">Parenting</dc:subject>
+</metadata>
+</record>
+</MedlinePlus-document>

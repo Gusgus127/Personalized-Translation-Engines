@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<MedlinePlus-document>
+<record>
+<header>
+<identifier>https://medlineplus.gov/tetanus.html</identifier>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:type>Text</dc:type>
+<dc:language>spa</dc:language>
+<dc:language>eng</dc:language>
+<dc:title xml:lang="es">Tétanos</dc:title>
+<dc:title xml:lang="en">Tetanus</dc:title>
+<dc:publisher>National Library of Medicine</dc:publisher>
+<dc:relation type="IsPartOf">Infections</dc:relation>
+<dc:date type="created">2002-07-21</dc:date>
+<dc:date type="modified">2017-05-31</dc:date>
+<dc:identifier type="URL" xml:lang="es">https://medlineplus.gov/spanish/tetanus.html</dc:identifier>
+<dc:identifier type="URL" xml:lang="en">https://medlineplus.gov/tetanus.html</dc:identifier>
+<dc:description xml:lang="es">El tétanos es una enfermedad seria causada por la bacteria clostridium. La bacteria vive en el suelo, la saliva, el polvo y en el estiércol. Las bacterias suelen ingresar al cuerpo a través de un corte profundo, como los que ocurren cuando uno pisa un clavo, o a través de una quemadura. La infección causa un espasmo doloroso de los músculos, por lo general en todo el cuerpo. Puede conducir a un "bloqueo" de la mandíbula, lo que hace imposible abrir la boca o tragar. El tétanos es una emergencia médica, por lo que debe tratarse en un hospital. La vacuna contra el tétanos puede prevenir la enfermedad. Se provee como parte del programa de inmunización durante la infancia. Los adultos deben aplicarse una nueva dosis o refuerzo cada 10 años. Si sufre una cortadura o quemadura severa, busque ayuda médica; es posible que necesite un refuerzo. El cuidado inmediato y adecuado de la herida puede prevenir la infección por tétanos. Centros para el Control y Prevención de las Enfermedades</dc:description>
+<dc:description xml:lang="en">Tetanus is a serious illness caused by Clostridium bacteria. The bacteria live in soil, saliva, dust, and manure. The bacteria can enter the body through a deep cut, like those you might get from stepping on a nail, or through a burn. The infection causes painful tightening of the muscles, usually all over the body. It can lead to "locking" of the jaw. This makes it impossible to open your mouth or swallow. Tetanus is a medical emergency. You need to get treatment in a hospital. A vaccine can prevent tetanus. It is given as a part of routine childhood immunization. Adults should get a tetanus shot, or booster, every 10 years. If you get a bad cut or burn, see your doctor - you may need a booster. Immediate and proper wound care can prevent tetanus infection.</dc:description>
+<dc:subject dcterms="mesh">Tetanus</dc:subject>
+<dc:subject xml:lang="es">Tétanos</dc:subject>
+<dc:subject xml:lang="en">Tetanus</dc:subject>
+<dc:subject xml:lang="en">Lockjaw</dc:subject>
+</metadata>
+</record>
+</MedlinePlus-document>

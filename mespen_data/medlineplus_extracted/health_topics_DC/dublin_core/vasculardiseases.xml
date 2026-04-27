@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<MedlinePlus-document>
+<record>
+<header>
+<identifier>https://medlineplus.gov/vasculardiseases.html</identifier>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title type="alternate" xml:lang="es">Circulación, Problemas</dc:title>
+<dc:title type="alternate" xml:lang="es">Klippel-Trenaunay, Síndrome de</dc:title>
+<dc:title type="alternate" xml:lang="es">Venas</dc:title>
+<dc:title type="alternate" xml:lang="es">Vasculares, Enfermedades</dc:title>
+<dc:title type="alternate" xml:lang="en">Cardiovascular Diseases</dc:title>
+<dc:title type="alternate" xml:lang="en">Circulatory Disorders</dc:title>
+<dc:title type="alternate" xml:lang="en">Veins</dc:title>
+<dc:title type="alternate" xml:lang="en">Hemangioma</dc:title>
+<dc:type>Text</dc:type>
+<dc:language>spa</dc:language>
+<dc:language>eng</dc:language>
+<dc:title xml:lang="es">Problemas circulatorios</dc:title>
+<dc:title xml:lang="en">Vascular Diseases</dc:title>
+<dc:publisher>National Library of Medicine</dc:publisher>
+<dc:relation type="IsPartOf">Blood, Heart and Circulation</dc:relation>
+<dc:date type="created">2002-07-21</dc:date>
+<dc:date type="modified">2018-02-07</dc:date>
+<dc:identifier type="URL" xml:lang="es">https://medlineplus.gov/spanish/vasculardiseases.html</dc:identifier>
+<dc:identifier type="URL" xml:lang="en">https://medlineplus.gov/vasculardiseases.html</dc:identifier>
+<dc:description xml:lang="es">El sistema vascular es la red de vasos sanguíneos del cuerpo. Incluye las arterias, las venas y los capilares y traslada la sangre desde y hasta el corazón. Los problemas del sistema vascular son comunes y pueden ser serios. Las arterias pueden engrosarse y ponerse rígidas, un problema llamado arterioesclerosis. Los coágulos sanguíneos pueden obstruir los vasos y bloquear el flujo al corazón o al cerebro. Los vasos sanguíneos debilitados pueden romperse, causando una hemorragia interna. A medida que se envejece aumentan las probabilidades de tener una enfermedad vascular. Otros factores que aumentan los riesgos de una enfermedad vascular incluyen: Antecedentes familiares de enfermedades vasculares o cardíacas Embarazo Enfermedades o traumatismos Largos períodos de estar de pie o sentado Cualquier cuadro que afecte el corazón y los vasos sanguíneos, como la diabetes o el aumento de colesterol Fumar Obesidad Bajar de peso, ingerir alimentos saludables, mantenerse activo y no fumar pueden ayudar a mejorar la enfermedad vascular. Otros tratamientos incluyen medicinas y cirugía.</dc:description>
+<dc:description xml:lang="en">The vascular system is the body's network of blood vessels. It includes the arteries, veins and capillaries that carry blood to and from the heart. Problems of the vascular system are common and can be serious. Arteries can become thick and stiff, a problem called atherosclerosis. Blood clots can clog vessels and block blood flow to the heart or brain. Weakened blood vessels can burst, causing bleeding inside the body. You are more likely to have vascular disease as you get older. Other factors that make vascular disease more likely include Family history of vascular or heart diseases Pregnancy Illness or injury Long periods of sitting or standing still Any condition that affects the heart and blood vessels, such as diabetes or high cholesterol Smoking Obesity Losing weight, eating healthy foods, being active and not smoking can help vascular disease. Other treatments include medicines and surgery.</dc:description>
+<dc:subject dcterms="mesh">Vascular Diseases</dc:subject>
+<dc:subject xml:lang="es">Problemas circulatorios</dc:subject>
+<dc:subject xml:lang="es">Circulación</dc:subject>
+<dc:subject xml:lang="es">Problemas</dc:subject>
+<dc:subject xml:lang="es">Klippel-Trenaunay</dc:subject>
+<dc:subject xml:lang="es">Síndrome de</dc:subject>
+<dc:subject xml:lang="es">Venas</dc:subject>
+<dc:subject xml:lang="es">Vasculares</dc:subject>
+<dc:subject xml:lang="es">Enfermedades</dc:subject>
+<dc:subject xml:lang="en">Vascular Diseases</dc:subject>
+<dc:subject xml:lang="en">Cardiovascular Diseases</dc:subject>
+<dc:subject xml:lang="en">Circulatory Disorders</dc:subject>
+<dc:subject xml:lang="en">Veins</dc:subject>
+<dc:subject xml:lang="en">Hemangioma</dc:subject>
+</metadata>
+</record>
+</MedlinePlus-document>

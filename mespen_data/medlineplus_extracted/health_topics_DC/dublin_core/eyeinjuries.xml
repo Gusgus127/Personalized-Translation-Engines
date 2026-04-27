@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<MedlinePlus-document>
+<record>
+<header>
+<identifier>https://medlineplus.gov/eyeinjuries.html</identifier>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title type="alternate" xml:lang="es">Ojo, Lesiones del</dc:title>
+<dc:title type="alternate" xml:lang="en">Protective Eye Wear</dc:title>
+<dc:type>Text</dc:type>
+<dc:language>spa</dc:language>
+<dc:language>eng</dc:language>
+<dc:title xml:lang="es">Lesiones del ojo</dc:title>
+<dc:title xml:lang="en">Eye Injuries</dc:title>
+<dc:publisher>National Library of Medicine</dc:publisher>
+<dc:relation type="IsPartOf">Eyes and Vision</dc:relation>
+<dc:relation type="IsPartOf">Injuries and Wounds</dc:relation>
+<dc:date type="created">2002-07-21</dc:date>
+<dc:date type="modified">2017-11-21</dc:date>
+<dc:identifier type="URL" xml:lang="es">https://medlineplus.gov/spanish/eyeinjuries.html</dc:identifier>
+<dc:identifier type="URL" xml:lang="en">https://medlineplus.gov/eyeinjuries.html</dc:identifier>
+<dc:description xml:lang="es">La estructura de su cara ayuda a proteger sus ojos contra las lesiones. Aún así, las lesiones pueden dañar su ojo y algunas veces son suficientemente severas como para provocar la pérdida de la vista. La mayoría de las lesiones oculares puede prevenirse. Si practica algún deporte o se dedica a determinados trabajos, es posible que necesite protegérselos. El tipo más común de lesión ocurre cuando algo irrita la superficie externa del ojo. Ciertos trabajos como los empleos en la industria o algunos pasatiempos como la carpintería, aumentan las posibilidades de presentar estas lesiones. También son más probables si utiliza lentes de contacto. Las sustancias químicas o el calor pueden quemarle los ojos. En el caso de las sustancias químicas, el dolor puede hacerle cerrar los ojos. Eso mantiene el irritante en contacto con su ojo y puede causarle más daños. Es necesario lavarse el ojo de inmediato mientras espera ayuda médica.</dc:description>
+<dc:description xml:lang="en">The structure of your face helps protect your eyes from injury. Still, injuries can damage your eye, sometimes severely enough that you could lose your vision. Most eye injuries are preventable. If you play sports or work in certain jobs, you may need protection. The most common type of injury happens when something irritates the outer surface of your eye. Certain jobs such as industrial jobs or hobbies such as carpentry make this type of injury more likely. It's also more likely if you wear contact lenses. Chemicals or heat can burn your eyes. With chemicals, the pain may cause you to close your eyes. This traps the irritant next to the eye and may cause more damage. You should wash out your eye right away while you wait for medical help.</dc:description>
+<dc:subject dcterms="mesh">Eye Injuries</dc:subject>
+<dc:subject xml:lang="es">Lesiones del ojo</dc:subject>
+<dc:subject xml:lang="es">Ojo</dc:subject>
+<dc:subject xml:lang="es">Lesiones del</dc:subject>
+<dc:subject xml:lang="en">Eye Injuries</dc:subject>
+<dc:subject xml:lang="en">Protective Eye Wear</dc:subject>
+</metadata>
+</record>
+</MedlinePlus-document>

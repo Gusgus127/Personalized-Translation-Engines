@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<MedlinePlus-document>
+<record>
+<header>
+<identifier>https://medlineplus.gov/collegehealth.html</identifier>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title type="alternate" xml:lang="es">Universidad, Salud</dc:title>
+<dc:type>Text</dc:type>
+<dc:language>spa</dc:language>
+<dc:language>eng</dc:language>
+<dc:title xml:lang="es">Salud en la universidad</dc:title>
+<dc:title xml:lang="en">College Health</dc:title>
+<dc:publisher>National Library of Medicine</dc:publisher>
+<dc:relation type="IsPartOf">Wellness and Lifestyle</dc:relation>
+<dc:relation type="IsPartOf">Children and Teenagers</dc:relation>
+<dc:date type="created">2010-04-15</dc:date>
+<dc:date type="modified">2017-11-06</dc:date>
+<dc:identifier type="URL" xml:lang="es">https://medlineplus.gov/spanish/collegehealth.html</dc:identifier>
+<dc:identifier type="URL" xml:lang="en">https://medlineplus.gov/collegehealth.html</dc:identifier>
+<dc:description xml:lang="es">La vida en la universidad implica emoción como así también nuevos retos, riesgos y responsabilidades. Conoces gente nueva, aprendes cosas nuevas y tomas tus propias decisiones. Puede, a veces, ser estresante. Tendrás que lidiar con cosas relacionadas a la comida, bebidas, aspecto físico, drogas y actividad sexual. Hay medidas que puedes tomar para mantenerte saludable y seguro cuando estés en la universidad: Come una dieta equilibrada Duerme lo suficiente Realiza actividad física regular Mantén tu salud con chequeos y vacunaciones Si decides tener relaciones sexuales, tenlas con precaución practicando sexo seguro Toma decisiones inteligentes sobre el alcohol y las drogas Pide ayuda si te sientes estresado o deprimido Centros para el Control y la Prevención de Enfermedades</dc:description>
+<dc:description xml:lang="en">College life involves excitement, along with new challenges, risks, and responsibilities. You are meeting new people, learning new things, and making your own decisions. It can sometimes be stressful. You have to deal with pressures related to food, drink, appearance, drugs, and sexual activity. There are steps you can take to stay healthy and safe while you're in college: Eat a balanced diet Get enough sleep Get regular physical activity Maintain your health with checkups and vaccinations If you decide to have sex, practice safe sex Make smart choices about alcohol and drugs Get help if you are stressed or depressed Centers for Disease Control and Prevention</dc:description>
+<dc:subject dcterms="mesh">Universities</dc:subject>
+<dc:subject dcterms="mesh">Students</dc:subject>
+<dc:subject xml:lang="es">Salud en la universidad</dc:subject>
+<dc:subject xml:lang="es">Universidad</dc:subject>
+<dc:subject xml:lang="es">Salud</dc:subject>
+<dc:subject xml:lang="en">College Health</dc:subject>
+</metadata>
+</record>
+</MedlinePlus-document>

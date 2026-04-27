@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<MedlinePlus-document>
+<record>
+<header>
+<identifier>https://medlineplus.gov/sportsinjuries.html</identifier>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title type="alternate" xml:lang="es">Deportes, Lesiones</dc:title>
+<dc:title type="alternate" xml:lang="es">Deportes, Problemas</dc:title>
+<dc:type>Text</dc:type>
+<dc:language>spa</dc:language>
+<dc:language>eng</dc:language>
+<dc:title xml:lang="es">Problemas y lesiones causados por los deportes</dc:title>
+<dc:title xml:lang="en">Sports Injuries</dc:title>
+<dc:publisher>National Library of Medicine</dc:publisher>
+<dc:relation type="IsPartOf">Wellness and Lifestyle</dc:relation>
+<dc:relation type="IsPartOf">Fitness and Exercise</dc:relation>
+<dc:relation type="IsPartOf">Injuries and Wounds</dc:relation>
+<dc:date type="created">2002-07-21</dc:date>
+<dc:date type="modified">2018-02-12</dc:date>
+<dc:identifier type="URL" xml:lang="es">https://medlineplus.gov/spanish/sportsinjuries.html</dc:identifier>
+<dc:identifier type="URL" xml:lang="en">https://medlineplus.gov/sportsinjuries.html</dc:identifier>
+<dc:description xml:lang="es">El ejercicio es bueno para usted, pero algunas veces puede lastimarse cuando practica deportes o se ejercita. Los accidentes, mala forma al ejercitarse o el uso de ropa y equipo inadecuado pueden ser algunas de las causas. Algunas personas se lastiman porque no están en forma. La falta de calentamiento o estirar los músculos también puede causar lesiones. Las lesiones deportivas más comunes son: Torceduras y distensiones Lesiones de rodilla Inflamación muscular Traumatismos en el tendón de Aquiles Dolor en el hueso de la tibia Lesiones del manguito rotatorio del hombro Fracturas Dislocaciones Si se lastima, deje de practicar deportes o ejercitarse. Continuar jugando o seguir ejercitándose puede causarle más daño. El tratamiento suele comenzar con el método RICE, por sus siglas en inglés (reposo, hielo, compresión y elevación) para aliviar el dolor, reducir la inflamación y acelerar la curación. Otros tratamientos posibles incluyen analgésicos, inmovilizar el área lesionada, rehabilitación y, algunas veces, cirugía. NIH: Instituto Nacional de Artritis y Enfermedades Musculoesqueléticas y de la Piel</dc:description>
+<dc:description xml:lang="en">Exercising is good for you, but sometimes you can injure yourself when you play sports or exercise. Accidents, poor training practices, or improper gear can cause them. Some people get hurt because they are not in shape. Not warming up or stretching enough can also lead to injuries. The most common sports injuries are Sprains and strains Knee injuries Swollen muscles Achilles tendon injuries Pain along the shin bone Rotator cuff injuries Fractures Dislocations If you get hurt, stop playing. Continuing to play or exercise can cause more harm. Treatment often begins with the RICE (Rest, Ice, Compression, and Elevation) method to relieve pain, reduce swelling, and speed healing. Other possible treatments include pain relievers, keeping the injured area from moving, rehabilitation, and sometimes surgery. NIH: National Institute of Arthritis and Musculoskeletal and Skin Diseases</dc:description>
+<dc:subject dcterms="mesh">Athletic Injuries</dc:subject>
+<dc:subject xml:lang="es">Problemas y lesiones causados por los deportes</dc:subject>
+<dc:subject xml:lang="es">Deportes</dc:subject>
+<dc:subject xml:lang="es">Lesiones</dc:subject>
+<dc:subject xml:lang="es">Deportes</dc:subject>
+<dc:subject xml:lang="es">Problemas</dc:subject>
+<dc:subject xml:lang="en">Sports Injuries</dc:subject>
+</metadata>
+</record>
+</MedlinePlus-document>

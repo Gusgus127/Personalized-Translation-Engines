@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<MedlinePlus-document>
+<record>
+<header>
+<identifier>https://medlineplus.gov/melanoma.html</identifier>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title type="alternate" xml:lang="es">Melanoma intraocular</dc:title>
+<dc:title type="alternate" xml:lang="en">Intraocular Melanoma</dc:title>
+<dc:type>Text</dc:type>
+<dc:language>spa</dc:language>
+<dc:language>eng</dc:language>
+<dc:title xml:lang="es">Melanoma</dc:title>
+<dc:title xml:lang="en">Melanoma</dc:title>
+<dc:publisher>National Library of Medicine</dc:publisher>
+<dc:relation type="IsPartOf">Cancers</dc:relation>
+<dc:relation type="IsPartOf">Skin, Hair and Nails</dc:relation>
+<dc:date type="created">2002-07-21</dc:date>
+<dc:date type="modified">2017-11-14</dc:date>
+<dc:identifier type="URL" xml:lang="es">https://medlineplus.gov/spanish/melanoma.html</dc:identifier>
+<dc:identifier type="URL" xml:lang="en">https://medlineplus.gov/melanoma.html</dc:identifier>
+<dc:description xml:lang="es">El melanoma es el tipo más serio de cáncer de piel. Con frecuencia el primer signo de un melanoma es un cambio de tamaño, forma, color o textura de un lunar. La mayoría de los melanomas tienen un área negra o negra azulada. El melanoma también puede aparecer como un lunar nuevo. Puede ser negro, anormal o "de aspecto desagradable." Pensar en el "ABCDE" puede ayudarlo a recordar lo que debe vigilar: Asimetría: el contorno de una mitad no es igual al otro Bordes: los bordes son desiguales, borrosos o irregulares Color: el color es disparejo y puede incluir tonalidades negras, cafés y canela Diámetro: hay cambios en el tamaño, generalmente se vuelven más grandes. Evolución: cualquier cambio en el lunar en las últimas semanas o meses La cirugía es el primer tratamiento para todos los diferentes estadios del melanoma. Otros tratamientos incluyen quimioterapia y radiación, terapia biológica y localizada. La terapia biológica aumenta la propia capacidad del cuerpo para combatir el cáncer. La terapia localizada usa sustancias que atacan células cancerígenas sin dañar células sanas. NIH: Instituto Nacional del Cáncer</dc:description>
+<dc:description xml:lang="en">Melanoma is the most serious type of skin cancer. Often the first sign of melanoma is a change in the size, shape, color, or feel of a mole. Most melanomas have a black or black-blue area. Melanoma may also appear as a new mole. It may be black, abnormal, or "ugly looking." Thinking of "ABCDE" can help you remember what to watch for: Asymmetry - the shape of one half does not match the other Border - the edges are ragged, blurred or irregular Color - the color is uneven and may include shades of black, brown and tan Diameter - there is a change in size, usually an increase Evolving - the mole has changed over the past few weeks or months Surgery is the first treatment of all stages of melanoma. Other treatments include chemotherapy and radiation, biologic, and targeted therapies. Biologic therapy boosts your body's own ability to fight cancer. Targeted therapy uses substances that attack cancer cells without harming normal cells. NIH: National Cancer Institute</dc:description>
+<dc:subject dcterms="mesh">Melanoma</dc:subject>
+<dc:subject xml:lang="es">Melanoma</dc:subject>
+<dc:subject xml:lang="es">Melanoma intraocular</dc:subject>
+<dc:subject xml:lang="en">Melanoma</dc:subject>
+<dc:subject xml:lang="en">Intraocular Melanoma</dc:subject>
+</metadata>
+</record>
+</MedlinePlus-document>

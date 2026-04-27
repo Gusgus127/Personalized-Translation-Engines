@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<MedlinePlus-document>
+<record>
+<header>
+<identifier>https://medlineplus.gov/rhincompatibility.html</identifier>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title type="alternate" xml:lang="es">RH, incompatibilidad</dc:title>
+<dc:title type="alternate" xml:lang="en">Hemolytic Disease of Newborn</dc:title>
+<dc:title type="alternate" xml:lang="en">Erythroblastosis Fetalis</dc:title>
+<dc:type>Text</dc:type>
+<dc:language>spa</dc:language>
+<dc:language>eng</dc:language>
+<dc:title xml:lang="es">Incompatibilidad Rh</dc:title>
+<dc:title xml:lang="en">Rh Incompatibility</dc:title>
+<dc:publisher>National Library of Medicine</dc:publisher>
+<dc:relation type="IsPartOf">Pregnancy and Reproduction</dc:relation>
+<dc:relation type="IsPartOf">Blood, Heart and Circulation</dc:relation>
+<dc:date type="created">2011-11-03</dc:date>
+<dc:date type="modified">2017-04-12</dc:date>
+<dc:identifier type="URL" xml:lang="es">https://medlineplus.gov/spanish/rhincompatibility.html</dc:identifier>
+<dc:identifier type="URL" xml:lang="en">https://medlineplus.gov/rhincompatibility.html</dc:identifier>
+<dc:description xml:lang="es">Hay cuatro tipos de sangre principales: A, B, O y AB. Los grupos se definen si tiene ciertas proteínas en sus glóbulos rojos. Otro tipo de sangre se basa en una proteína diferente llamada factor Rh. La mayoría de las personas son Rh positivas, tienen un factor Rh. Las personas Rh negativo no lo tienen. El factor RH se hereda a través de los genes. Cuando usted está embarazada, la sangre de su bebé puede pasar a su torrente sanguíneo, sobre todo durante el parto. Se llama incompatibilidad Rh cuando usted es Rh negativo y su bebé es Rh positivo. Su cuerpo reacciona a la sangre de su bebé como si fuera una sustancia extraña, creando anticuerpos contra la sangre del bebé. Estos anticuerpos, en general, no causan problemas durante el primer embarazo. Sin embargo, los anticuerpos permanecerán en su cuerpo una vez se hayan formado. Esto puede causar problemas en un embarazo posterior si el bebé es Rh positivo. Los anticuerpos pueden pasar a la placenta y atacar los glóbulos rojos de su bebé. El bebé puede tener la enfermedad hemolítica del recién nacido por Rh, una condición que puede causar un tipo de anemia serio. Los análisis de sangre pueden determinar si usted o su bebé tienen factor Rh positivo y si su cuerpo ha creado anticuerpos. Si su bebé necesita tratamiento, las opciones incluyen transfusiones de sangre y suplementos para ayudar a su cuerpo a producir glóbulos rojos. NIH: Instituto Nacional del Corazón, los Pulmones y la Sangre</dc:description>
+<dc:description xml:lang="en">There are four major blood types: A, B, O, and AB. The types are based on substances on the surface of the blood cells. Another blood type is called Rh. Rh factor is a protein on red blood cells. Most people are Rh-positive; they have Rh factor. Rh-negative people don't have it. Rh factor is inherited though genes. When you're pregnant, blood from your baby can cross into your bloodstream, especially during delivery. If you're Rh-negative and your baby is Rh-positive, your body will react to the baby's blood as a foreign substance. It will create antibodies (proteins) against the baby's blood. These antibodies usually don't cause problems during a first pregnancy. But Rh incompatibility may cause problems in later pregnancies, if the baby is Rh-positive. This is because the antibodies stay in your body once they have formed. The antibodies can cross the placenta and attack the baby's red blood cells. The baby could get Rh disease, a serious condition that can cause a serious type of anemia. Blood tests can tell whether you have Rh factor and whether your body has made antibodies. Injections of a medicine called Rh immune globulin can keep your body from making Rh antibodies. It helps prevent the problems of Rh incompatibility. If treatment is needed for the baby, it can include supplements to help the body to make red blood cells and blood transfusions. NIH: National Heart, Lung, and Blood Institute</dc:description>
+<dc:subject dcterms="mesh">Erythroblastosis, Fetal</dc:subject>
+<dc:subject dcterms="mesh">Rh Isoimmunization</dc:subject>
+<dc:subject xml:lang="es">Incompatibilidad Rh</dc:subject>
+<dc:subject xml:lang="es">RH</dc:subject>
+<dc:subject xml:lang="es">incompatibilidad</dc:subject>
+<dc:subject xml:lang="en">Rh Incompatibility</dc:subject>
+<dc:subject xml:lang="en">Hemolytic Disease of Newborn</dc:subject>
+<dc:subject xml:lang="en">Erythroblastosis Fetalis</dc:subject>
+</metadata>
+</record>
+</MedlinePlus-document>

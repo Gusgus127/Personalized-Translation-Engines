@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<MedlinePlus-document>
+<record>
+<header>
+<identifier>https://medlineplus.gov/aminoacidmetabolismdisorders.html</identifier>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title type="alternate" xml:lang="es">Aminoácidos, Trastornos metabólicos de los</dc:title>
+<dc:type>Text</dc:type>
+<dc:language>spa</dc:language>
+<dc:language>eng</dc:language>
+<dc:title xml:lang="es">Trastornos del metabolismo de los aminoácidos</dc:title>
+<dc:title xml:lang="en">Amino Acid Metabolism Disorders</dc:title>
+<dc:publisher>National Library of Medicine</dc:publisher>
+<dc:relation type="IsPartOf">Metabolic Problems</dc:relation>
+<dc:date type="created">2016-10-04</dc:date>
+<dc:date type="modified">2017-08-24</dc:date>
+<dc:identifier type="URL" xml:lang="es">https://medlineplus.gov/spanish/aminoacidmetabolismdisorders.html</dc:identifier>
+<dc:identifier type="URL" xml:lang="en">https://medlineplus.gov/aminoacidmetabolismdisorders.html</dc:identifier>
+<dc:description xml:lang="es">El metabolismo es el proceso que su cuerpo utiliza para producir energía a partir de los alimentos que consume. Los alimentos se componen de proteínas, carbohidratos y grasas. Su sistema digestivo descompone la comida en azúcares y ácidos, el combustible para su cuerpo. Usted puede utilizar este combustible en forma inmediata, o puede almacenarlo en su cuerpo. Si usted tiene un trastorno metabólico, tiene un problema en este proceso. Un grupo de estos problemas son los trastornos del metabolismo de los aminoácidos. Estos incluyen la fenilcetonuria y la enfermedad de la orina con olor a jarabe de arce. Los aminoácidos son los "bloques de construcción" que se unen para formar proteínas. Si usted tiene alguno de estos trastornos, su cuerpo puede tener problemas para descomponer ciertos aminoácidos, o puede haber un problema para que los aminoácidos ingresen a las células. Estos problemas causan una acumulación de sustancias nocivas en su cuerpo. Eso puede conducir a problemas de salud graves e incluso mortales. Usualmente, estos trastornos se heredan. Un bebé que nace con uno de estos trastornos puede no mostrar ningún síntoma. Debido a que los trastornos pueden ser muy graves, el diagnóstico y tratamiento temprano es crítico. Muchos de los bebés recién nacidos se someten a pruebas mediante análisis de sangre. Los tratamientos pueden incluir dietas especiales, medicamentos y suplementos. Algunos bebés también pueden necesitar tratamientos adicionales si hay complicaciones.</dc:description>
+<dc:description xml:lang="en">Metabolism is the process your body uses to make energy from the food you eat. Food is made up of proteins, carbohydrates, and fats. Your digestive system breaks the food parts down into sugars and acids, your body's fuel. Your body can use this fuel right away, or it can store the energy in your body. If you have a metabolic disorder, something goes wrong with this process. One group of these disorders is amino acid metabolism disorders. They include phenylketonuria (PKU) and maple syrup urine disease. Amino acids are "building blocks" that join together to form proteins. If you have one of these disorders, your body may have trouble breaking down certain amino acids. Or there may be a problem getting the amino acids into your cells. These problems cause a buildup of harmful substances in your body. That can lead to serious, sometimes life-threatening, health problems. These disorders are usually inherited. A baby who is born with one may not have any symptoms right away. Because the disorders can be so serious, early diagnosis and treatment are critical. Newborn babies get screened for many of them, using blood tests. Treatments may include special diets, medicines, and supplements. Some babies may also need additional treatments if there are complications.</dc:description>
+<dc:subject dcterms="mesh">Amino Acid Metabolism, Inborn Errors</dc:subject>
+<dc:subject xml:lang="es">Trastornos del metabolismo de los aminoácidos</dc:subject>
+<dc:subject xml:lang="es">Aminoácidos</dc:subject>
+<dc:subject xml:lang="es">Trastornos metabólicos de los</dc:subject>
+<dc:subject xml:lang="en">Amino Acid Metabolism Disorders</dc:subject>
+</metadata>
+</record>
+</MedlinePlus-document>

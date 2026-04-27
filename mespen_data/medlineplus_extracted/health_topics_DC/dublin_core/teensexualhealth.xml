@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<MedlinePlus-document>
+<record>
+<header>
+<identifier>https://medlineplus.gov/teensexualhealth.html</identifier>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title type="alternate" xml:lang="es">Adolescente, Salud sexual de los</dc:title>
+<dc:title type="alternate" xml:lang="en">Sexual Health, Teen</dc:title>
+<dc:type>Text</dc:type>
+<dc:language>spa</dc:language>
+<dc:language>eng</dc:language>
+<dc:title xml:lang="es">Salud sexual del adolescente</dc:title>
+<dc:title xml:lang="en">Teen Sexual Health</dc:title>
+<dc:publisher>National Library of Medicine</dc:publisher>
+<dc:relation type="IsPartOf">Children and Teenagers</dc:relation>
+<dc:relation type="IsPartOf">Sexual Health Issues</dc:relation>
+<dc:date type="created">2002-07-21</dc:date>
+<dc:date type="modified">2018-01-25</dc:date>
+<dc:identifier type="URL" xml:lang="es">https://medlineplus.gov/spanish/teensexualhealth.html</dc:identifier>
+<dc:identifier type="URL" xml:lang="en">https://medlineplus.gov/teensexualhealth.html</dc:identifier>
+<dc:description xml:lang="es">Durante la adolescencia pasas por la pubertad para llegar a la madurez sexual. Si eres una niña, se desarrollarán los senos y se iniciará la menstruación. Si eres un niño, aumentará el tamaño del pene y los testículos. Si tienes relaciones sexuales, puedes quedar embarazada o embarazar a alguien. Decidas o no tener relaciones sexuales, es una buena idea que te enteres acerca del sexo seguro y el impacto del sexo en la salud. Además del embarazo, las relaciones sexuales conllevan el riesgo de contagiarte enfermedades de transmisión sexual, como clamidia, VPH, o VIH/SIDA. La única forma de estar completamente seguro es no tener relaciones sexuales. Si decides tener cualquier forma de contacto sexual, los preservativos de látex son la mejor protección contra las enfermedades de transmisión sexual. Los condones también son una manera de control de la natalidad para ayudar a prevenir los embarazos.</dc:description>
+<dc:description xml:lang="en">During your teens you go through puberty and become sexually mature. If you're a girl, you develop breasts and begin to get your period. If you're a boy, your penis and testicles become larger. If you have sex, you could get pregnant or get someone pregnant. Whether you choose to have sex or not, it is a good idea to know about safe sex and how sex affects your health. Besides pregnancy, having sex puts you at risk of getting a sexually transmitted disease (STD), such as chlamydia, HPV, or HIV/AIDS The only way to be completely safe is not to have sex. If you do choose to have any kind of sexual contact, latex condoms are the best protection against STDs. Condoms are also a form of birth control to help prevent pregnancy.</dc:description>
+<dc:subject dcterms="mesh">Adolescent</dc:subject>
+<dc:subject dcterms="mesh">Sexual Behavior</dc:subject>
+<dc:subject xml:lang="es">Salud sexual del adolescente</dc:subject>
+<dc:subject xml:lang="es">Adolescente</dc:subject>
+<dc:subject xml:lang="es">Salud sexual de los</dc:subject>
+<dc:subject xml:lang="en">Teen Sexual Health</dc:subject>
+<dc:subject xml:lang="en">Sexual Health</dc:subject>
+<dc:subject xml:lang="en">Teen</dc:subject>
+</metadata>
+</record>
+</MedlinePlus-document>

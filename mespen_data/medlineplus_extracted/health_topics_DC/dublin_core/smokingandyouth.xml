@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<MedlinePlus-document>
+<record>
+<header>
+<identifier>https://medlineplus.gov/smokingandyouth.html</identifier>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title type="alternate" xml:lang="es">Chicos, Fumar</dc:title>
+<dc:title type="alternate" xml:lang="es">Niños, Fumar</dc:title>
+<dc:title type="alternate" xml:lang="es">Adolescentes, Fumar</dc:title>
+<dc:title type="alternate" xml:lang="en">Teen Smoking</dc:title>
+<dc:type>Text</dc:type>
+<dc:language>spa</dc:language>
+<dc:language>eng</dc:language>
+<dc:title xml:lang="es">Fumar y los jóvenes</dc:title>
+<dc:title xml:lang="en">Smoking and Youth</dc:title>
+<dc:publisher>National Library of Medicine</dc:publisher>
+<dc:relation type="IsPartOf">Children and Teenagers</dc:relation>
+<dc:relation type="IsPartOf">Substance Abuse Problems</dc:relation>
+<dc:date type="created">2002-07-21</dc:date>
+<dc:date type="modified">2017-04-11</dc:date>
+<dc:identifier type="URL" xml:lang="es">https://medlineplus.gov/spanish/smokingandyouth.html</dc:identifier>
+<dc:identifier type="URL" xml:lang="en">https://medlineplus.gov/smokingandyouth.html</dc:identifier>
+<dc:description xml:lang="es">Fumar cigarrillos tiene muchos riesgos de salud para todos. Sin embargo, cuanto más joven sea al empezar a fumar, más problemas puede causarle. Las personas que empiezan a fumar antes de los 21 años tienen más dificultades para dejar de fumar. Los adolescentes que fuman tienen más posibilidades de consumir alcohol y drogas ilegales. El problema no es sólo los cigarrillos. El tabaco que no se fuma, los cigarrillos electrónicos y los habanos no son alternativas seguras a los cigarrillos. Los de bajo contenido de alquitrán y productos de tabaco sin aditivos no son seguros tampoco. Los jóvenes que no han empezado a usar tabaco a los 18 años es probable que nunca lo hagan. Centros para el Control y la Prevención de Enfermedades</dc:description>
+<dc:description xml:lang="en">Smoking cigarettes has many health risks for everyone. However, the younger you are when you start smoking, the more problems it can cause. People who start smoking before the age of 21 have the hardest time quitting. Teens who smoke are also more likely to use alcohol and illegal drugs. The problem is not just cigarettes. Spit tobacco, e-cigarettes, and cigars are not safe alternatives to cigarettes. Low-tar and additive-free tobacco products are not safe either. Young people who do not start using tobacco by age 18 will most likely never start. Centers for Disease Control and Prevention</dc:description>
+<dc:subject dcterms="mesh">Smoking</dc:subject>
+<dc:subject xml:lang="es">Fumar y los jóvenes</dc:subject>
+<dc:subject xml:lang="es">Chicos</dc:subject>
+<dc:subject xml:lang="es">Fumar</dc:subject>
+<dc:subject xml:lang="es">Niños</dc:subject>
+<dc:subject xml:lang="es">Fumar</dc:subject>
+<dc:subject xml:lang="es">Adolescentes</dc:subject>
+<dc:subject xml:lang="es">Fumar</dc:subject>
+<dc:subject xml:lang="en">Smoking and Youth</dc:subject>
+<dc:subject xml:lang="en">Teen Smoking</dc:subject>
+</metadata>
+</record>
+</MedlinePlus-document>

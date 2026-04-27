@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<MedlinePlus-document>
+<record>
+<header>
+<identifier>https://medlineplus.gov/advancedirectives.html</identifier>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title type="alternate" xml:lang="es">Órdenes de no resucitar</dc:title>
+<dc:title type="alternate" xml:lang="es">Órdenes de resucitar</dc:title>
+<dc:title type="alternate" xml:lang="en">Living Wills</dc:title>
+<dc:title type="alternate" xml:lang="en">Do-Not-Resuscitate Orders</dc:title>
+<dc:title type="alternate" xml:lang="en">Resuscitation Orders</dc:title>
+<dc:type>Text</dc:type>
+<dc:language>spa</dc:language>
+<dc:language>eng</dc:language>
+<dc:title xml:lang="es">Directivas médicas por adelantado</dc:title>
+<dc:title xml:lang="en">Advance Directives</dc:title>
+<dc:publisher>National Library of Medicine</dc:publisher>
+<dc:relation type="IsPartOf">Personal Health Issues</dc:relation>
+<dc:relation type="IsPartOf">Social/Family Issues</dc:relation>
+<dc:date type="created">2005-03-28</dc:date>
+<dc:date type="modified">2017-12-07</dc:date>
+<dc:identifier type="URL" xml:lang="es">https://medlineplus.gov/spanish/advancedirectives.html</dc:identifier>
+<dc:identifier type="URL" xml:lang="en">https://medlineplus.gov/advancedirectives.html</dc:identifier>
+<dc:description xml:lang="es">¿Qué tipo de atención médica quisiera recibir si estuviera demasiado enfermo o lesionado para expresar su voluntad? Las instrucciones médicas por adelantado son documentos legales que le permiten transmitir antes de tiempo sus decisiones acerca de los cuidados en el final de la vida. Son una forma de comunicar sus deseos a su familia, amigos y profesionales de la salud y evitar confusiones más tarde. Un testamento en vida indica qué tratamientos usted quisiera recibir si tuviera una enfermedad mortal y estuviera en estado de inconsciencia permanente. Usted puede aceptar o rechazar atención médica. Estos son algunos tipos de directivas: Uso de aparatos de diálisis y respiradores Si desea que lo resuciten en caso de tener un paro cardíaco o respiratorio Alimentación por sonda Donación de sus órganos o tejidos Un poder legal duradero para el cuidado de la salud es un documento que nombra a su apoderado para su atención médica. El apoderado es una persona en la que usted confía para tomar las decisiones de su atención médica en caso de que usted no pueda hacerlo. NIH: Instituto Nacional del Cáncer</dc:description>
+<dc:description xml:lang="en">What kind of medical care would you want if you were too ill or hurt to express your wishes? Advance directives are legal documents that allow you to spell out your decisions about end-of-life care ahead of time. They give you a way to tell your wishes to family, friends, and health care professionals and to avoid confusion later on. A living will tells which treatments you want if you are dying or permanently unconscious. You can accept or refuse medical care. You might want to include instructions on The use of dialysis and breathing machines If you want to be resuscitated if your breathing or heartbeat stops Tube feeding Organ or tissue donation A durable power of attorney for health care is a document that names your health care proxy. Your proxy is someone you trust to make health decisions for you if you are unable to do so. NIH: National Cancer Institute</dc:description>
+<dc:subject dcterms="mesh">Advance Directives</dc:subject>
+<dc:subject xml:lang="es">Directivas médicas por adelantado</dc:subject>
+<dc:subject xml:lang="es">Órdenes de no resucitar</dc:subject>
+<dc:subject xml:lang="es">Órdenes de resucitar</dc:subject>
+<dc:subject xml:lang="en">Advance Directives</dc:subject>
+<dc:subject xml:lang="en">Living Wills</dc:subject>
+<dc:subject xml:lang="en">Do-Not-Resuscitate Orders</dc:subject>
+<dc:subject xml:lang="en">Resuscitation Orders</dc:subject>
+</metadata>
+</record>
+</MedlinePlus-document>

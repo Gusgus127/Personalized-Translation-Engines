@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<MedlinePlus-document>
+<record>
+<header>
+<identifier>https://medlineplus.gov/triglycerides.html</identifier>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:type>Text</dc:type>
+<dc:language>spa</dc:language>
+<dc:language>eng</dc:language>
+<dc:title xml:lang="es">Triglicéridos</dc:title>
+<dc:title xml:lang="en">Triglycerides</dc:title>
+<dc:publisher>National Library of Medicine</dc:publisher>
+<dc:relation type="IsPartOf">Food and Nutrition</dc:relation>
+<dc:relation type="IsPartOf">Blood, Heart and Circulation</dc:relation>
+<dc:date type="created">2007-04-05</dc:date>
+<dc:date type="modified">2017-12-06</dc:date>
+<dc:identifier type="URL" xml:lang="es">https://medlineplus.gov/spanish/triglycerides.html</dc:identifier>
+<dc:identifier type="URL" xml:lang="en">https://medlineplus.gov/triglycerides.html</dc:identifier>
+<dc:description xml:lang="es">Los triglicéridos son un tipo de grasa que se encuentra en la sangre. El exceso de este tipo de grasa puede aumentar el riesgo de enfermedad de las arterias coronarias, especialmente en mujeres. Un análisis de sangre mide su nivel de triglicéridos, junto con el colesterol. Los niveles de triglicéridos normales están por debajo de 150. Los niveles superiores a 200 se consideran altos. Los factores que pueden elevar su nivel de triglicéridos incluyen: Tener sobrepeso Falta de actividad física Fumar Consumo excesivo de alcohol Dieta muy alta en carbohidratos Ciertas enfermedades y medicamentos Algunos trastornos genéticos Usted puede reducir sus niveles de triglicéridos con una combinación de pérdida de peso, dieta y ejercicio. También es posible que tenga que tomar medicamentos para bajar sus niveles de triglicéridos. NIH: Instituto Nacional del Corazón, los Pulmones y la Sangre</dc:description>
+<dc:description xml:lang="en">Triglycerides are a type of fat found in your blood. Too much of this type of fat may raise the risk of coronary artery disease, especially in women. A blood test measures your triglycerides along with your cholesterol. Normal triglyceride levels are below 150. Levels above 200 are high. Factors that can raise your triglyceride level include Being overweight Lack of physical activity Smoking Excessive alcohol use A very high carbohydrate diet Certain diseases and medicines Some genetic disorders You may be able to lower your triglycerides with a combination of losing weight, diet, and exercise. You also may need to take medicine to lower your triglycerides. NIH: National Heart, Lung, and Blood Institute</dc:description>
+<dc:subject dcterms="mesh">Hyperlipoproteinemia Type IV</dc:subject>
+<dc:subject dcterms="mesh">Hypertriglyceridemia</dc:subject>
+<dc:subject xml:lang="es">Triglicéridos</dc:subject>
+<dc:subject xml:lang="en">Triglycerides</dc:subject>
+<dc:subject xml:lang="en">Hypertriglyceridemia</dc:subject>
+<dc:subject xml:lang="en">Hyperlipidemia</dc:subject>
+<dc:subject xml:lang="en">Familial Hypertriglyceridemia</dc:subject>
+<dc:subject xml:lang="en">Familial Combined Hyperlipidemia</dc:subject>
+</metadata>
+</record>
+</MedlinePlus-document>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<MedlinePlus-document>
+<record>
+<header>
+<identifier>https://medlineplus.gov/menstruation.html</identifier>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title type="alternate" xml:lang="es">Amenorrea</dc:title>
+<dc:title type="alternate" xml:lang="es">Dismenorrea</dc:title>
+<dc:title type="alternate" xml:lang="es">Síndrome del Shock Tóxico</dc:title>
+<dc:title type="alternate" xml:lang="es">Dilatación y curetaje</dc:title>
+<dc:title type="alternate" xml:lang="en">Amenorrhea</dc:title>
+<dc:type>Text</dc:type>
+<dc:language>spa</dc:language>
+<dc:language>eng</dc:language>
+<dc:title xml:lang="es">Menstruación</dc:title>
+<dc:title xml:lang="en">Menstruation</dc:title>
+<dc:publisher>National Library of Medicine</dc:publisher>
+<dc:relation type="IsPartOf">Women</dc:relation>
+<dc:relation type="IsPartOf">Female Reproductive System</dc:relation>
+<dc:relation type="IsPartOf">Endocrine System</dc:relation>
+<dc:date type="created">2002-07-21</dc:date>
+<dc:date type="modified">2018-01-03</dc:date>
+<dc:identifier type="URL" xml:lang="es">https://medlineplus.gov/spanish/menstruation.html</dc:identifier>
+<dc:identifier type="URL" xml:lang="en">https://medlineplus.gov/menstruation.html</dc:identifier>
+<dc:description xml:lang="es">La menstruación o período, es el sangrado vaginal normal que ocurre como parte del ciclo mensual de la mujer. Todos los meses, su cuerpo se prepara para un posible embarazo. Si esto no ocurre, el útero, se desprende de su recubrimiento. Esta es la sangre menstrual, que sale del cuerpo a través de la vagina. Esta sangre es parte sangre y parte tejido del interior del útero. Los períodos suelen comenzar alrededor de los 12 años y continúan hasta la menopausia, cerca de los 51 años. La mayoría de las menstruaciones dura entre tres y cinco días. Además del sangrado, usted puede sentir: Dolores o calambres abdominales o pélvicos Dolor de espalda baja Hinchazón y dolor en los senos Antojo de algún alimento en particular Irritabilidad y cambios de humor Dolor de cabeza y cansancio El síndrome premenstrual es un grupo de síntomas que comienza antes de la menstruación. Puede incluir síntomas emocionales como físicos. Consulte a su proveedor de cuidados de salud si usted experimenta grandes cambios en su ciclo. Esto puede ser un signo de otros problemas que quizás deban ser tratados. Instituto Nacional de Salud Infantil y Desarrollo Humano</dc:description>
+<dc:description xml:lang="en">Menstruation, or period, is normal vaginal bleeding that occurs as part of a woman's monthly cycle. Every month, your body prepares for pregnancy. If no pregnancy occurs, the uterus, or womb, sheds its lining. The menstrual blood is partly blood and partly tissue from inside the uterus. It passes out of the body through the vagina. Periods usually start between age 11 and 14 and continue until menopause at about age 51. They usually last from three to five days. Besides bleeding from the vagina, you may have Abdominal or pelvic cramping pain Lower back pain Bloating and sore breasts Food cravings Mood swings and irritability Headache and fatigue Premenstrual syndrome, or PMS, is a group of symptoms that start before the period. It can include emotional and physical symptoms. Consult your health care provider if you have big changes in your cycle. They may be signs of other problems that should be treated. NIH: National Institute of Child Health and Human Development</dc:description>
+<dc:subject dcterms="mesh">Menstruation</dc:subject>
+<dc:subject dcterms="mesh">Menstruation Disturbances</dc:subject>
+<dc:subject xml:lang="es">Menstruación</dc:subject>
+<dc:subject xml:lang="es">Amenorrea</dc:subject>
+<dc:subject xml:lang="es">Dismenorrea</dc:subject>
+<dc:subject xml:lang="es">Síndrome del Shock Tóxico</dc:subject>
+<dc:subject xml:lang="es">Dilatación y curetaje</dc:subject>
+<dc:subject xml:lang="en">Menstruation</dc:subject>
+<dc:subject xml:lang="en">Amenorrhea</dc:subject>
+</metadata>
+</record>
+</MedlinePlus-document>

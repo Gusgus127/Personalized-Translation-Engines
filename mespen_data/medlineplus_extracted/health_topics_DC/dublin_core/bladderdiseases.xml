@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<MedlinePlus-document>
+<record>
+<header>
+<identifier>https://medlineplus.gov/bladderdiseases.html</identifier>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title type="alternate" xml:lang="es">Vejiga neurogénica</dc:title>
+<dc:title type="alternate" xml:lang="es">Vejiga, Enfermedades de la</dc:title>
+<dc:title type="alternate" xml:lang="es">Cálculos en la vejiga</dc:title>
+<dc:title type="alternate" xml:lang="en">Neurogenic Bladder</dc:title>
+<dc:type>Text</dc:type>
+<dc:language>spa</dc:language>
+<dc:language>eng</dc:language>
+<dc:title xml:lang="es">Enfermedades de la vejiga</dc:title>
+<dc:title xml:lang="en">Bladder Diseases</dc:title>
+<dc:publisher>National Library of Medicine</dc:publisher>
+<dc:relation type="IsPartOf">Kidneys and Urinary System</dc:relation>
+<dc:date type="created">2002-07-21</dc:date>
+<dc:date type="modified">2017-09-27</dc:date>
+<dc:identifier type="URL" xml:lang="es">https://medlineplus.gov/spanish/bladderdiseases.html</dc:identifier>
+<dc:identifier type="URL" xml:lang="en">https://medlineplus.gov/bladderdiseases.html</dc:identifier>
+<dc:description xml:lang="es">La vejiga es un órgano hueco en la parte inferior del abdomen donde se almacena la orina. Hay muchas condiciones que pueden afectar la función de la vejiga. Entre los más comunes se encuentran: Cistitis: una inflamación de la vejiga, en general, causada por una infección Incontinencia urinaria: pérdida del control de la vejiga Vejiga hiperactiva: una afección que causa que la vejiga expulse orina cuando no tiene que hacerlo Cistitis intersticial: un problema crónico que causa dolor en la vejiga y urgencia de orinar Cáncer de vejiga Los médicos diagnostican las enfermedades de la vejiga mediante distintas pruebas. Estas incluyen análisis de orina, radiografías y exámenes de la pared de la vejiga con un instrumento llamado cistoscopio. El tratamiento depende de la causa del problema. Puede incluir medicinas y, en casos severos, cirugía. NIH: Instituto Nacional de la Diabetes y las Enfermedades Digestivas y Renales</dc:description>
+<dc:description xml:lang="en">The bladder is a hollow organ in your lower abdomen that stores urine. Many conditions can affect your bladder. Some common ones are Cystitis - inflammation of the bladder, often from an infection Urinary incontinence - loss of bladder control Overactive bladder - a condition in which the bladder squeezes urine out at the wrong time Interstitial cystitis - a chronic problem that causes bladder pain and frequent, urgent urination Bladder cancer Doctors diagnose bladder diseases using different tests. These include urine tests, x-rays, and an examination of the bladder wall with a scope called a cystoscope. Treatment depends on the cause of the problem. It may include medicines and, in severe cases, surgery. NIH: National Institute of Diabetes and Digestive and Kidney Diseases</dc:description>
+<dc:subject dcterms="mesh">Urinary Bladder Diseases</dc:subject>
+<dc:subject xml:lang="es">Enfermedades de la vejiga</dc:subject>
+<dc:subject xml:lang="es">Vejiga neurogénica</dc:subject>
+<dc:subject xml:lang="es">Vejiga</dc:subject>
+<dc:subject xml:lang="es">Enfermedades de la</dc:subject>
+<dc:subject xml:lang="es">Cálculos en la vejiga</dc:subject>
+<dc:subject xml:lang="en">Bladder Diseases</dc:subject>
+<dc:subject xml:lang="en">Neurogenic Bladder</dc:subject>
+</metadata>
+</record>
+</MedlinePlus-document>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<MedlinePlus-document>
+<record>
+<header>
+<identifier>https://medlineplus.gov/selfharm.html</identifier>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title type="alternate" xml:lang="es">Cortarse</dc:title>
+<dc:title type="alternate" xml:lang="es">Tricotilomanía</dc:title>
+<dc:title type="alternate" xml:lang="es">Autolesión</dc:title>
+<dc:title type="alternate" xml:lang="en">Hair Pulling</dc:title>
+<dc:title type="alternate" xml:lang="en">Cutting</dc:title>
+<dc:type>Text</dc:type>
+<dc:language>spa</dc:language>
+<dc:language>eng</dc:language>
+<dc:title xml:lang="es">Automutilación</dc:title>
+<dc:title xml:lang="en">Self-harm</dc:title>
+<dc:publisher>National Library of Medicine</dc:publisher>
+<dc:relation type="IsPartOf">Mental Health and Behavior</dc:relation>
+<dc:date type="created">2013-01-09</dc:date>
+<dc:date type="modified">2017-10-04</dc:date>
+<dc:identifier type="URL" xml:lang="es">https://medlineplus.gov/spanish/selfharm.html</dc:identifier>
+<dc:identifier type="URL" xml:lang="en">https://medlineplus.gov/selfharm.html</dc:identifier>
+<dc:description xml:lang="es">La automutilación es una conducta por la cual una persona se hace daño a sí misma a propósito. Alrededor de una en cien millones de personas se autolesiona y sucede más en las mujeres que en los varones. Una persona que se autoflagela no tiene la intención de suicidarse pero está a mayor riesgo de intentar suicidarse si no consigue ayuda. La automutilación tiende a comenzar en la adolescencia y primeros años de adultez. Algunas personas pueden autoflagelarse algunas veces y no hacerlo más. Otras, se hacen cada vez más daño y tienen problemas para detenerse. Los ejemplos de automutilación incluyen: Cortase (con una navaja, un cuchillo o cualquier objeto lo suficientemente filoso para cortar la piel) Dar puñetazos a sí mismo o a una cosa (como a una pared) Quemarse con cigarrillos, fósforos o velas Tirarse y arrancarse el pelo Introducir cosas a través de los orificios del cuerpo Quebrarse los huesos o golpearse hasta tener moretones Mucha gente se autolesiona porque les da una sensación de alivio. Algunas personas se cortan como una manera de lidiar con un problema. Algunos adolescentes dicen que cuando se autoflagelan están tratando de detener sentimientos de soledad, enojo o desesperanza. Es posible sobreponerse a la necesidad de autoflagelación. Existen otras maneras de encontrar alivio y lidiar con las emociones. La asesoría psicológica puede ayudar. Oficina para la Salud de la Mujer en el Dept. de Salud y Servicios Humanos de los EE.UU</dc:description>
+<dc:description xml:lang="en">Self-harm refers to a person's harming their own body on purpose. About 1 in 100 people hurts himself or herself in this way. More females hurt themselves than males. A person who self-harms usually does not mean to kill himself or herself. But they are at higher risk of attempting suicide if they do not get help. Self-harm tends to begin in teen or early adult years. Some people may engage in self-harm a few times and then stop. Others engage in it more often and have trouble stopping. Examples of self-harm include Cutting yourself (such as using a razor blade, knife, or other sharp object to cut the skin) Punching yourself or punching things (like a wall) Burning yourself with cigarettes, matches, or candles Pulling out your hair Poking objects through body openings Breaking your bones or bruising yourself Many people cut themselves because it gives them a sense of relief. Some people use cutting as a means to cope with a problem. Some teens say that when they hurt themselves, they are trying to stop feeling lonely, angry, or hopeless. It is possible to overcome the urge to hurt yourself. There are other ways to find relief and cope with your emotions. Counseling may help. Dept. of Health and Human Services, Office on Women's Health</dc:description>
+<dc:subject dcterms="mesh">Self-Injurious Behavior</dc:subject>
+<dc:subject xml:lang="es">Automutilación</dc:subject>
+<dc:subject xml:lang="es">Cortarse</dc:subject>
+<dc:subject xml:lang="es">Tricotilomanía</dc:subject>
+<dc:subject xml:lang="es">Autolesión</dc:subject>
+<dc:subject xml:lang="en">Self-harm</dc:subject>
+<dc:subject xml:lang="en">Hair Pulling</dc:subject>
+<dc:subject xml:lang="en">Cutting</dc:subject>
+</metadata>
+</record>
+</MedlinePlus-document>

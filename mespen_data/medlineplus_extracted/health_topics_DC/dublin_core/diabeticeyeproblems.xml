@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<MedlinePlus-document>
+<record>
+<header>
+<identifier>https://medlineplus.gov/diabeticeyeproblems.html</identifier>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title type="alternate" xml:lang="es">Ojos y diabetes, Problemas</dc:title>
+<dc:title type="alternate" xml:lang="es">Diabetes y ojos, Problemas</dc:title>
+<dc:title type="alternate" xml:lang="es">Visión y diabetes</dc:title>
+<dc:title type="alternate" xml:lang="en">Diabetic Retinopathy</dc:title>
+<dc:type>Text</dc:type>
+<dc:language>spa</dc:language>
+<dc:language>eng</dc:language>
+<dc:title xml:lang="es">Problemas de los ojos asociados con la diabetes</dc:title>
+<dc:title xml:lang="en">Diabetic Eye Problems</dc:title>
+<dc:publisher>National Library of Medicine</dc:publisher>
+<dc:relation type="IsPartOf">Eyes and Vision</dc:relation>
+<dc:relation type="IsPartOf">Endocrine System</dc:relation>
+<dc:relation type="IsPartOf">Diabetes Mellitus</dc:relation>
+<dc:date type="created">2002-07-21</dc:date>
+<dc:date type="modified">2017-08-24</dc:date>
+<dc:identifier type="URL" xml:lang="es">https://medlineplus.gov/spanish/diabeticeyeproblems.html</dc:identifier>
+<dc:identifier type="URL" xml:lang="en">https://medlineplus.gov/diabeticeyeproblems.html</dc:identifier>
+<dc:description xml:lang="es">Si usted tiene diabetes, sus niveles de azúcar (o glucosa) en la sangre son demasiado altos. Con el tiempo, esto puede dañar sus ojos. El problema más común es la retinopatía diabética. Es la causa más común de ceguera entre los adultos en los Estados Unidos. La retina es un tejido sensible a la luz que se encuentra en la parte posterior del ojo. Es necesaria para ver con claridad. La retinopatía diabética daña los pequeños vasos sanguíneos dentro de la retina. Si esto sucede, usted puede notar: Visión doble o borrosa Anillos, luces titilantes o manchas vacías en la vista Manchas oscuras o flotantes Dolor o presión en uno o en ambos ojos Dificultad para ver objetos ubicados a sus costados El tratamiento, muchas veces, incluye láser o cirugía con tratamiento continuo. Otros problemas oculares que pueden afectar a personas con diabetes son las cataratas, que ocurren cuando el cristalino (el "lente" del ojo) se nubla. Una cirugía puede ayudarlo a ver con claridad nuevamente. El glaucoma es otro problema, que ocurre cuando hay demasiada presión ocular y esto daña el nervio principal. Unas gotas para los ojos o cirugía pueden ayudar. Si usted tiene diabetes, debe hacerse un examen de sus ojos una vez al año. Encontrar y tratar los problemas a tiempo puede salvarle la vista. NIH: Instituto Nacional de la Diabetes y las Enfermedades Digestivas y Renales</dc:description>
+<dc:description xml:lang="en">If you have diabetes, your blood glucose, or blood sugar, levels are too high. Over time, this can damage your eyes. The most common problem is diabetic retinopathy. It is a leading cause of blindness in American adults. Your retina is the light-sensitive tissue at the back of your eye. You need a healthy retina to see clearly. Diabetic retinopathy damages the tiny blood vessels inside your retina. You may not notice it at first. Symptoms can include Blurry or double vision Rings, flashing lights, or blank spots Dark or floating spots Pain or pressure in one or both of your eyes Trouble seeing things out of the corners of your eyes Treatment often includes laser treatment or surgery, with follow-up care. Two other eye problems can happen to people with diabetes. A cataract is a cloud over the lens of your eye. Surgery helps you see clearly again. Glaucoma happens when pressure builds up in the eye, damaging the main nerve. Eye drops or surgery can help. If you have diabetes, you should have a complete eye exam every year. Finding and treating problems early may save your vision. NIH: National Institute of Diabetes and Digestive and Kidney Diseases</dc:description>
+<dc:subject dcterms="mesh">Diabetic Retinopathy</dc:subject>
+<dc:subject xml:lang="es">Problemas de los ojos asociados con la diabetes</dc:subject>
+<dc:subject xml:lang="es">Ojos y diabetes</dc:subject>
+<dc:subject xml:lang="es">Problemas</dc:subject>
+<dc:subject xml:lang="es">Diabetes y ojos</dc:subject>
+<dc:subject xml:lang="es">Problemas</dc:subject>
+<dc:subject xml:lang="es">Visión y diabetes</dc:subject>
+<dc:subject xml:lang="en">Diabetic Eye Problems</dc:subject>
+<dc:subject xml:lang="en">Diabetic Retinopathy</dc:subject>
+</metadata>
+</record>
+</MedlinePlus-document>

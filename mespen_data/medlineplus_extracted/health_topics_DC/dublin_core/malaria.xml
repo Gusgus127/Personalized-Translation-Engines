@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<MedlinePlus-document>
+<record>
+<header>
+<identifier>https://medlineplus.gov/malaria.html</identifier>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title type="alternate" xml:lang="es">Paludismo</dc:title>
+<dc:type>Text</dc:type>
+<dc:language>spa</dc:language>
+<dc:language>eng</dc:language>
+<dc:title xml:lang="es">Malaria</dc:title>
+<dc:title xml:lang="en">Malaria</dc:title>
+<dc:publisher>National Library of Medicine</dc:publisher>
+<dc:relation type="IsPartOf">Infections</dc:relation>
+<dc:relation type="IsPartOf">Blood, Heart and Circulation</dc:relation>
+<dc:date type="created">2002-07-21</dc:date>
+<dc:date type="modified">2017-07-07</dc:date>
+<dc:identifier type="URL" xml:lang="es">https://medlineplus.gov/spanish/malaria.html</dc:identifier>
+<dc:identifier type="URL" xml:lang="en">https://medlineplus.gov/malaria.html</dc:identifier>
+<dc:description xml:lang="es">La malaria es una enfermedad grave causada por un parásito. Puede adquirirla cuando un mosquito infectado lo pica. La malaria es una importante causa de muerte en todo el mundo, pero está prácticamente erradicada en los Estados Unidos. La enfermedad es principalmente un problema en los países en vías de desarrollo con climas cálidos. Si usted viaja a esos países, está en riesgo de contagiarse. Existen cuatro tipos distintos de malaria causada por cuatro parásitos relacionados. El tipo más mortal se presenta en el África, al sur del desierto del Sahara. Los síntomas de la malaria incluyen escalofríos, síntomas parecidos a los de la gripe, fiebre, vómitos, diarrea e ictericia. Se diagnostica mediante una prueba de sangre. La enfermedad puede poner en peligro la vida. Sin embargo, es posible tratar la enfermedad con medicinas. El tipo de medicamento depende del tipo de malaria que tenga y del lugar donde se infectó. La malaria puede prevenirse. Cuando viaje a áreas con casos de malaria: Consulte a su médico acerca de los medicamentos que lo protegerán Utilice repelentes para insectos con DEET Cúbrase Duerma bajo un mosquitero para protegerse de las picaduras Centros para el Control y la Prevención de Enfermedades</dc:description>
+<dc:description xml:lang="en">Malaria is a serious disease caused by a parasite. You get it when an infected mosquito bites you. Malaria is a major cause of death worldwide, but it is almost wiped out in the United States. The disease is mostly a problem in developing countries with warm climates. If you travel to these countries, you are at risk. There are four different types of malaria caused by four related parasites. The most deadly type occurs in Africa south of the Sahara Desert. Malaria symptoms include chills, flu-like symptoms, fever, vomiting, diarrhea, and jaundice. A blood test can diagnose it. It can be life-threatening. However, you can treat malaria with drugs. The type of drug depends on which kind of malaria you have and where you were infected. Malaria can be prevented. When traveling to areas where malaria is found See your doctor for medicines that protect you Wear insect repellent with DEET Cover up Sleep under mosquito netting Centers for Disease Control and Prevention</dc:description>
+<dc:subject dcterms="mesh">Malaria</dc:subject>
+<dc:subject xml:lang="es">Malaria</dc:subject>
+<dc:subject xml:lang="es">Paludismo</dc:subject>
+<dc:subject xml:lang="en">Malaria</dc:subject>
+</metadata>
+</record>
+</MedlinePlus-document>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<MedlinePlus-document>
+<record>
+<header>
+<identifier>https://medlineplus.gov/livercancer.html</identifier>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title type="alternate" xml:lang="es">Hígado, Cáncer de</dc:title>
+<dc:title type="alternate" xml:lang="es">Carcinoma hepatocelular</dc:title>
+<dc:title type="alternate" xml:lang="en">Hepatocellular Carcinoma</dc:title>
+<dc:title type="alternate" xml:lang="en">Hepatoblastoma</dc:title>
+<dc:type>Text</dc:type>
+<dc:language>spa</dc:language>
+<dc:language>eng</dc:language>
+<dc:title xml:lang="es">Cáncer de hígado</dc:title>
+<dc:title xml:lang="en">Liver Cancer</dc:title>
+<dc:publisher>National Library of Medicine</dc:publisher>
+<dc:relation type="IsPartOf">Cancers</dc:relation>
+<dc:relation type="IsPartOf">Digestive System</dc:relation>
+<dc:date type="created">2002-07-21</dc:date>
+<dc:date type="modified">2017-11-14</dc:date>
+<dc:identifier type="URL" xml:lang="es">https://medlineplus.gov/spanish/livercancer.html</dc:identifier>
+<dc:identifier type="URL" xml:lang="en">https://medlineplus.gov/livercancer.html</dc:identifier>
+<dc:description xml:lang="es">El hígado es el órgano de mayor tamaño dentro del cuerpo. Ayuda al organismo a digerir los alimentos, almacena energía y elimina toxinas. El cáncer hepático primario comienza en el hígado. El cáncer de hígado metastático comienza en otro lugar y se disemina al hígado. Los factores de riesgo de cáncer de hígado primario incluyen: Hepatitis B o C Consumir grandes cantidades de alcohol Tener cirrosis, o cicatrización hepática Tener hemocromatosis, una afección que causa problemas con el almacenamiento de hierro en el cuerpo Obesidad y diabetes Los síntomas pueden incluir una masa o dolor en el lado derecho del abdomen y coloración amarillenta de la piel. Sin embargo, usted puede no presentar síntomas hasta que el cáncer ya esté avanzado. Esto dificulta el tratamiento. Los doctores usan pruebas que examinan el hígado y la sangre para diagnosticar cáncer de hígado. Las opciones de tratamiento incluyen cirugía, radiación, quimioterapia o trasplante de hígado. NIH: Instituto Nacional del Cáncer</dc:description>
+<dc:description xml:lang="en">Your liver is the largest organ inside your body. It helps your body digest food, store energy, and remove poisons. Primary liver cancer starts in the liver. Metastatic liver cancer starts somewhere else and spreads to your liver. Risk factors for primary liver cancer include Having hepatitis B or C Heavy alcohol use Having cirrhosis, or scarring of the liver Having hemochromatosis, an iron storage disease Obesity and diabetes Symptoms can include a lump or pain on the right side of your abdomen and yellowing of the skin. However, you may not have symptoms until the cancer is advanced. This makes it harder to treat. Doctors use tests that examine the liver and the blood to diagnose liver cancer. Treatment options include surgery, radiation, chemotherapy, or liver transplantation. NIH: National Cancer Institute</dc:description>
+<dc:subject dcterms="mesh">Liver Neoplasms</dc:subject>
+<dc:subject xml:lang="es">Cáncer de hígado</dc:subject>
+<dc:subject xml:lang="es">Hígado</dc:subject>
+<dc:subject xml:lang="es">Cáncer de</dc:subject>
+<dc:subject xml:lang="es">Carcinoma hepatocelular</dc:subject>
+<dc:subject xml:lang="en">Liver Cancer</dc:subject>
+<dc:subject xml:lang="en">Hepatocellular Carcinoma</dc:subject>
+<dc:subject xml:lang="en">Hepatoblastoma</dc:subject>
+</metadata>
+</record>
+</MedlinePlus-document>

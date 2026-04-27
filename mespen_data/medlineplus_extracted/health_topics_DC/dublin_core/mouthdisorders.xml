@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<MedlinePlus-document>
+<record>
+<header>
+<identifier>https://medlineplus.gov/mouthdisorders.html</identifier>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title type="alternate" xml:lang="es">Boca, Enfermedades de</dc:title>
+<dc:type>Text</dc:type>
+<dc:language>spa</dc:language>
+<dc:language>eng</dc:language>
+<dc:title xml:lang="es">Enfermedades de la boca</dc:title>
+<dc:title xml:lang="en">Mouth Disorders</dc:title>
+<dc:publisher>National Library of Medicine</dc:publisher>
+<dc:relation type="IsPartOf">Mouth and Teeth</dc:relation>
+<dc:relation type="IsPartOf">Ear, Nose and Throat</dc:relation>
+<dc:date type="created">2002-07-21</dc:date>
+<dc:date type="modified">2018-01-03</dc:date>
+<dc:identifier type="URL" xml:lang="es">https://medlineplus.gov/spanish/mouthdisorders.html</dc:identifier>
+<dc:identifier type="URL" xml:lang="en">https://medlineplus.gov/mouthdisorders.html</dc:identifier>
+<dc:description xml:lang="es">La boca es una de las partes más importantes del cuerpo. Cualquier problema que afecte la boca puede dificultarle comer, beber o hasta sonreír. Entre los problemas comunes de la boca se encuentran: Herpes labial: llagas dolorosas en los labios y alrededor de la boca causadas por un virus Úlceras bucales: úlceras dolorosas en la boca, causadas por bacterias o virus Muguet o candidiasis oral: una infección por cándida que causa manchas blancuzcas en la boca Leucoplaquia: parches blancos formados por exceso de crecimiento celular en la mucosa de las mejillas, las encías o la lengua, común en los fumadores Boca seca: falta de suficiente saliva, causada por algunas medicinas y enfermedades Problemas en las encías o los dientes Mal aliento El tratamiento de los trastornos de la boca varía dependiendo del problema. Es importante mantener la boca limpia mediante el cepillado frecuente y el uso del hilo dental.</dc:description>
+<dc:description xml:lang="en">Your mouth is one of the most important parts of your body. Any problem that affects your mouth can make it hard to eat, drink or even smile. Some common mouth problems include Cold sores - painful sores on the lips and around the mouth, caused by a virus Canker sores - painful sores in the mouth, caused by bacteria or viruses Thrush - a yeast infection that causes white patches in your mouth Leukoplakia - white patches of excess cell growth on the cheeks, gums or tongue, common in smokers Dry mouth - a lack of enough saliva, caused by some medicines and certain diseases Gum or tooth problems Bad breath Treatment for mouth disorders varies, depending on the problem. Keeping a clean mouth by brushing and flossing often is important.</dc:description>
+<dc:subject dcterms="mesh">Mouth Diseases</dc:subject>
+<dc:subject xml:lang="es">Enfermedades de la boca</dc:subject>
+<dc:subject xml:lang="es">Boca</dc:subject>
+<dc:subject xml:lang="es">Enfermedades de</dc:subject>
+<dc:subject xml:lang="en">Mouth Disorders</dc:subject>
+</metadata>
+</record>
+</MedlinePlus-document>

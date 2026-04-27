@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<MedlinePlus-document>
+<record>
+<header>
+<identifier>https://medlineplus.gov/ovariandisorders.html</identifier>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title type="alternate" xml:lang="es">Ovarios, Enfermedades de los</dc:title>
+<dc:title type="alternate" xml:lang="en">Ovarian Insufficiency</dc:title>
+<dc:type>Text</dc:type>
+<dc:language>spa</dc:language>
+<dc:language>eng</dc:language>
+<dc:title xml:lang="es">Enfermedades de los ovarios</dc:title>
+<dc:title xml:lang="en">Ovarian Disorders</dc:title>
+<dc:publisher>National Library of Medicine</dc:publisher>
+<dc:relation type="IsPartOf">Women</dc:relation>
+<dc:relation type="IsPartOf">Female Reproductive System</dc:relation>
+<dc:date type="created">2011-06-08</dc:date>
+<dc:date type="modified">2017-01-31</dc:date>
+<dc:identifier type="URL" xml:lang="es">https://medlineplus.gov/spanish/ovariandisorders.html</dc:identifier>
+<dc:identifier type="URL" xml:lang="en">https://medlineplus.gov/ovariandisorders.html</dc:identifier>
+<dc:description xml:lang="es">Los ovarios son parte del sistema reproductivo de la mujer. Las mujeres tienen dos ovarios, uno a cada lado del útero. Cada ovario es del tamaño y forma de una almendra. Los ovarios producen y almacenan los óvulos. Durante la ovulación, un ovario libera un óvulo. Si el óvulo es fecundando por un espermatozoide, puede producir un embarazo. Los ovarios también producen las hormonas femeninas estrógeno y progesterona. Cuando una mujer pasa por la menopausia, sus ovarios dejan de producir estas hormonas y de liberar óvulos. Los problemas con los ovarios pueden incluir: Cáncer de ovario Quistes ováricos y síndrome de ovario poliquístico Falla ovárica prematura Torsión ovárica, un torcimiento del ovario</dc:description>
+<dc:description xml:lang="en">The ovaries are part of the female reproductive system. Women have two ovaries, one on each side of the uterus. Each ovary is about the size and shape of an almond. The ovaries produce and store a woman's eggs. During ovulation, an ovary releases an egg. If that egg is fertilized by a sperm, a pregnancy can occur. Ovaries also make the female hormones estrogen and progesterone. When a woman goes through menopause, her ovaries stop making those hormones and releasing eggs. Problems with the ovaries include Ovarian cancer Ovarian cysts and polycystic ovary syndrome Premature ovarian failure Ovarian torsion, a twisting of the ovary</dc:description>
+<dc:subject dcterms="mesh">Ovarian Diseases</dc:subject>
+<dc:subject xml:lang="es">Enfermedades de los ovarios</dc:subject>
+<dc:subject xml:lang="es">Ovarios</dc:subject>
+<dc:subject xml:lang="es">Enfermedades de los</dc:subject>
+<dc:subject xml:lang="en">Ovarian Disorders</dc:subject>
+<dc:subject xml:lang="en">Ovarian Insufficiency</dc:subject>
+</metadata>
+</record>
+</MedlinePlus-document>

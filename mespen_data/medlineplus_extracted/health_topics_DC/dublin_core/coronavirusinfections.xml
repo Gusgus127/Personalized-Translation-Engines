@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<MedlinePlus-document>
+<record>
+<header>
+<identifier>https://medlineplus.gov/coronavirusinfections.html</identifier>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title type="alternate" xml:lang="es">Síndrome respiratorio agudo y grave</dc:title>
+<dc:title type="alternate" xml:lang="es">SRAG</dc:title>
+<dc:title type="alternate" xml:lang="es">SARS</dc:title>
+<dc:title type="alternate" xml:lang="es">Respiratorio agudo severo, Síndrome</dc:title>
+<dc:title type="alternate" xml:lang="en">SARS</dc:title>
+<dc:title type="alternate" xml:lang="en">MERS</dc:title>
+<dc:title type="alternate" xml:lang="en">Middle Eastern Respiratory Syndrome</dc:title>
+<dc:title type="alternate" xml:lang="en">Severe Acute Respiratory Syndrome</dc:title>
+<dc:type>Text</dc:type>
+<dc:language>spa</dc:language>
+<dc:language>eng</dc:language>
+<dc:title xml:lang="es">Infecciones por coronavirus</dc:title>
+<dc:title xml:lang="en">Coronavirus Infections</dc:title>
+<dc:publisher>National Library of Medicine</dc:publisher>
+<dc:relation type="IsPartOf">Infections</dc:relation>
+<dc:relation type="IsPartOf">Lungs and Breathing</dc:relation>
+<dc:date type="created">2009-11-25</dc:date>
+<dc:date type="modified">2016-12-05</dc:date>
+<dc:identifier type="URL" xml:lang="es">https://medlineplus.gov/spanish/coronavirusinfections.html</dc:identifier>
+<dc:identifier type="URL" xml:lang="en">https://medlineplus.gov/coronavirusinfections.html</dc:identifier>
+<dc:description xml:lang="es">Las infecciones causadas por los virus coronavirus afectan a la mayoría de las personas alguna vez en su vida. Son comunes alrededor del mundo y pueden infectar a personas y a animales. Existen varios tipos de coronavirus que pueden enfermarlo. Por lo general, causan enfermedades leves a moderadas del tracto respiratorio superior. Sin embargo, algunos coronavirus pueden causar enfermedades graves. Es probable que los coronavirus se propaguen por el aire al toser o estornudar o por contacto personal. Si usted se infecta, los síntomas pueden incluir: Secreción o goteo nasal Tos Dolor de garganta Fiebre Usted puede disminuir el riesgo de contagiarse lavándose las manos frecuentemente con agua y jabón, evitando tocarse los ojos, nariz o boca y evitando el contacto con personas enfermas. No existe una vacuna para la prevención de estas infecciones. Tampoco hay tratamientos específicos. Usted puede aliviar los síntomas con medicamentos para el dolor (analgésicos) y la fiebre y con descanso. Centros para el Control y la Prevención de Enfermedades</dc:description>
+<dc:description xml:lang="en">Coronaviruses are common viruses that most people get some time in their life. They are common throughout the world, and they can infect people and animals. Several different coronaviruses can infect people and make them sick. They usually cause mild to moderate upper-respiratory illness. But, some coronaviruses can cause severe illness. Coronaviruses probably spread through the air by coughing or sneezing, or by close personal contact. If you get infected, symptoms may include Runny nose Cough Sore throat Fever You may be able to reduce your risk of infection by washing your hands often with soap and water, not touching your eyes, nose, or mouth, and avoiding close contact with people who are sick. There is no vaccine to prevent coronavirus infection. There are no specific treatments. You can relieve symptoms with pain and fever medicines and rest. Centers for Disease Control and Prevention</dc:description>
+<dc:subject dcterms="mesh">Coronavirus Infections</dc:subject>
+<dc:subject xml:lang="es">Infecciones por coronavirus</dc:subject>
+<dc:subject xml:lang="es">Síndrome respiratorio agudo y grave</dc:subject>
+<dc:subject xml:lang="es">SRAG</dc:subject>
+<dc:subject xml:lang="es">SARS</dc:subject>
+<dc:subject xml:lang="es">Respiratorio agudo severo</dc:subject>
+<dc:subject xml:lang="es">Síndrome</dc:subject>
+<dc:subject xml:lang="en">Coronavirus Infections</dc:subject>
+<dc:subject xml:lang="en">SARS</dc:subject>
+<dc:subject xml:lang="en">MERS</dc:subject>
+<dc:subject xml:lang="en">Middle Eastern Respiratory Syndrome</dc:subject>
+<dc:subject xml:lang="en">Severe Acute Respiratory Syndrome</dc:subject>
+</metadata>
+</record>
+</MedlinePlus-document>

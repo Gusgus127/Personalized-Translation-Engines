@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<MedlinePlus-document>
+<record>
+<header>
+<identifier>https://medlineplus.gov/fetalhealthanddevelopment.html</identifier>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title type="alternate" xml:lang="es">Feto, Salud y Desarrollo</dc:title>
+<dc:type>Text</dc:type>
+<dc:language>spa</dc:language>
+<dc:language>eng</dc:language>
+<dc:title xml:lang="es">Salud y desarrollo fetal</dc:title>
+<dc:title xml:lang="en">Fetal Health and Development</dc:title>
+<dc:publisher>National Library of Medicine</dc:publisher>
+<dc:relation type="IsPartOf">Pregnancy and Reproduction</dc:relation>
+<dc:date type="created">2013-01-03</dc:date>
+<dc:date type="modified">2018-02-07</dc:date>
+<dc:identifier type="URL" xml:lang="es">https://medlineplus.gov/spanish/fetalhealthanddevelopment.html</dc:identifier>
+<dc:identifier type="URL" xml:lang="en">https://medlineplus.gov/fetalhealthanddevelopment.html</dc:identifier>
+<dc:description xml:lang="es">Un embarazo normal dura nueve meses. Cada período de tres meses del embarazo es llamado trimestre. Durante cada trimestre, el feto crece y se desarrolla. Los chequeos médicos y exámenes prenatales son muy importantes. Estos pueden: Ayudar a mantener saludables a usted y a su bebé Detectar problemas con su bebé, si hay alguno. En algunos casos, los profesionales de la salud pueden tratar el problema antes de que nazca su bebé. Pero incluso cuando no pueden, aún puede ser útil conocer el problema desde el principio. Eso le da tiempo para aprender sobre la condición de su bebé y prepararse para cualquier desafío que pueda enfrentar después de su nacimiento Prevenir problemas durante el parto. Por ejemplo, si su bebé tiene presentación de nalgas (la parte inferior o los pies primero, en lugar de la cabeza), es posible que necesite una cesárea para evitar complicaciones Además de obtener atención médica, hay otras cosas que puede hacer para mantener a su bebé lo más saludable posible. Es importante no beber ni fumar. Intente seguir una dieta saludable y asegúrese de ocuparse de cualquier problema de salud que tenga durante el embarazo.</dc:description>
+<dc:description xml:lang="en">A normal pregnancy lasts nine months. Each three-month period of pregnancy is called a trimester. During each trimester, the fetus grows and develops. Regular medical checkups and prenatal tests are very important. They can Help keep you and your baby healthy Spot problems with your baby (if there are any). In some cases, health care professionals can treat the problem before your baby is born. But even when they cannot, it can still be helpful to know about the problem early on. That gives you time to learn about your baby's condition and prepare for any challenges you may face after the baby is born. Prevent problems during delivery. For example, if your baby is breech (bottom first or feet first, instead of head first), you may need to have a Cesarean section to avoid complications. Besides getting medical care, there are other things you can do to keep your baby as healthy as possible. It's important not to drink or smoke. Try to eat a healthy diet and make sure to take care of any health problems you have during pregnancy.</dc:description>
+<dc:subject dcterms="mesh">Fetal Diseases</dc:subject>
+<dc:subject dcterms="mesh">Fetal Development</dc:subject>
+<dc:subject xml:lang="es">Salud y desarrollo fetal</dc:subject>
+<dc:subject xml:lang="es">Feto</dc:subject>
+<dc:subject xml:lang="es">Salud y Desarrollo</dc:subject>
+<dc:subject xml:lang="en">Fetal Health and Development</dc:subject>
+</metadata>
+</record>
+</MedlinePlus-document>

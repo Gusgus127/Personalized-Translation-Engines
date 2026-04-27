@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<MedlinePlus-document>
+<record>
+<header>
+<identifier>https://medlineplus.gov/hipreplacement.html</identifier>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title type="alternate" xml:lang="es">Cadera, Reemplazo</dc:title>
+<dc:title type="alternate" xml:lang="en">Arthroplasty</dc:title>
+<dc:type>Text</dc:type>
+<dc:language>spa</dc:language>
+<dc:language>eng</dc:language>
+<dc:title xml:lang="es">Reemplazo de cadera</dc:title>
+<dc:title xml:lang="en">Hip Replacement</dc:title>
+<dc:publisher>National Library of Medicine</dc:publisher>
+<dc:relation type="IsPartOf">Bones, Joints and Muscles</dc:relation>
+<dc:relation type="IsPartOf">Surgery and Rehabilitation</dc:relation>
+<dc:date type="created">2004-10-06</dc:date>
+<dc:date type="modified">2017-11-20</dc:date>
+<dc:identifier type="URL" xml:lang="es">https://medlineplus.gov/spanish/hipreplacement.html</dc:identifier>
+<dc:identifier type="URL" xml:lang="en">https://medlineplus.gov/hipreplacement.html</dc:identifier>
+<dc:description xml:lang="es">El reemplazo de cadera es una cirugía para personas con daños severos en la cadera. La razón más común para esta operación es la osteoartritis. La osteoartritis causa dolor, hinchazón y reduce la movilidad de las articulaciones. Esto puede interferir con sus actividades cotidianas. Si otros tratamientos como la fisioterapia, analgésicos o ejercicio no ayudaron, una cirugía de reemplazo de cadera puede ser una opción. En un reemplazo de la cadera, el cirujano retira el cartílago y el hueso de la articulación de la cadera que están lesionados y los reemplaza con piezas nuevas artificiales. Este procedimiento puede: Aliviar el dolor Ayudar a que su cadera funcione mejor Mejorar el caminar y otros movimientos El problema más común después de una cirugía es la dislocación de la cadera. Debido a que la cadera artificial es más pequeña que la articulación original, puede salirse de la cavidad. La cirugía también puede causar coágulos sanguíneos e infecciones. Después de un reemplazo de la cadera, es necesario evitar algunas actividades, como correr y los deportes de alto impacto. NIH: Instituto Nacional de Artritis y Enfermedades Musculoesqueléticas y de la Piel</dc:description>
+<dc:description xml:lang="en">Hip replacement is surgery for people with severe hip damage. The most common cause of damage is osteoarthritis. Osteoarthritis causes pain, swelling, and reduced motion in your joints. It can interfere with your daily activities. If other treatments such as physical therapy, pain medicines, and exercise haven't helped, hip replacement surgery might be an option for you. During a hip replacement operation, the surgeon removes damaged cartilage and bone from your hip joint and replaces them with new, man-made parts. A hip replacement can Relieve pain Help your hip joint work better Improve walking and other movements The most common problem after surgery is hip dislocation. Because a man-made hip is smaller than the original joint, the ball can come out of its socket. The surgery can also cause blood clots and infections. With a hip replacement, you might need to avoid certain activities, such as jogging and high-impact sports. NIH: National Institute of Arthritis and Musculoskeletal and Skin Diseases</dc:description>
+<dc:subject dcterms="mesh">Arthroplasty, Replacement, Hip</dc:subject>
+<dc:subject xml:lang="es">Reemplazo de cadera</dc:subject>
+<dc:subject xml:lang="es">Cadera</dc:subject>
+<dc:subject xml:lang="es">Reemplazo</dc:subject>
+<dc:subject xml:lang="en">Hip Replacement</dc:subject>
+<dc:subject xml:lang="en">Arthroplasty</dc:subject>
+</metadata>
+</record>
+</MedlinePlus-document>

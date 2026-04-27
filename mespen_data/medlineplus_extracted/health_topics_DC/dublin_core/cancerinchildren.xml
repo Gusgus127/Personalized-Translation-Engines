@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<MedlinePlus-document>
+<record>
+<header>
+<identifier>https://medlineplus.gov/cancerinchildren.html</identifier>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title type="alternate" xml:lang="es">Chicos, Cáncer en</dc:title>
+<dc:title type="alternate" xml:lang="en">Childhood Cancer</dc:title>
+<dc:type>Text</dc:type>
+<dc:language>spa</dc:language>
+<dc:language>eng</dc:language>
+<dc:title xml:lang="es">Cáncer en niños</dc:title>
+<dc:title xml:lang="en">Cancer in Children</dc:title>
+<dc:publisher>National Library of Medicine</dc:publisher>
+<dc:relation type="IsPartOf">Children and Teenagers</dc:relation>
+<dc:relation type="IsPartOf">Cancers</dc:relation>
+<dc:date type="created">2006-11-06</dc:date>
+<dc:date type="modified">2017-12-05</dc:date>
+<dc:identifier type="URL" xml:lang="es">https://medlineplus.gov/spanish/cancerinchildren.html</dc:identifier>
+<dc:identifier type="URL" xml:lang="en">https://medlineplus.gov/cancerinchildren.html</dc:identifier>
+<dc:description xml:lang="es">El cáncer comienza en las células, que forman los tejidos del cuerpo. Normalmente, se forman células nuevas a medida que se necesitan para reemplazar a las células viejas que mueren. Algunas veces, este proceso sale mal. Se forman células nuevas que no son necesarias y las células viejas no mueren cuando deberían. El exceso de células puede formar un tumor. Los tumores benignos no constituyen un cáncer, pero los malignos sí. Las células de los tumores malignos pueden invadir los tejidos cercanos o separarse y diseminarse a otras partes del organismo. Los niños pueden tener cáncer en las mismas partes del cuerpo que los adultos, pero existen diferencias. Los cánceres de la niñez pueden ocurrir repentinamente, sin síntomas precoces, y tienen un índice de curación elevado. El cáncer más común en los niños es la leucemia. Otros cánceres que afectan a los niños son: tumores cerebrales, linfoma y sarcoma del tejido blando. Los síntomas y el tratamiento dependen del tipo de cáncer y de lo avanzada que esté la enfermedad. El tratamiento puede incluir cirugía, radiación y/o quimioterapia. NIH: Instituto Nacional del Cáncer</dc:description>
+<dc:description xml:lang="en">Cancer is a group related diseases. In all types of cancer, some of the body's cells begin to divide without stopping and spread into surrounding tissues. Normally, new cells form as you need them, replacing old cells that die. Sometimes, this process goes wrong. New cells form when you don't need them, and old cells don't die when they should. The extra cells can form a tumor. Tumors can be benign or malignant. Benign tumorsaren't cancer while malignant ones are. Cells from malignant tumors can invade nearby tissues. They can also break away and spread to other parts of the body. Children can get cancer in the same parts of the body as adults, but there are differences. Childhood cancers can occur suddenly, without early symptoms, and have a high rate of cure. The most common children's cancer is leukemia. Other cancers that affect children include brain tumors, lymphoma, and soft tissue sarcoma. Symptoms and treatment depend on the cancer type and how advanced it is. Treatments include surgery, radiation therapy, chemotherapy, stem cell transplants, and/or targeted therapy. Targeted therapy uses substances that attack cancer cells without harming normal cells. NIH: National Cancer Institute</dc:description>
+<dc:subject dcterms="mesh">Neoplasms</dc:subject>
+<dc:subject xml:lang="es">Cáncer en niños</dc:subject>
+<dc:subject xml:lang="es">Chicos</dc:subject>
+<dc:subject xml:lang="es">Cáncer en</dc:subject>
+<dc:subject xml:lang="en">Cancer in Children</dc:subject>
+<dc:subject xml:lang="en">Childhood Cancer</dc:subject>
+</metadata>
+</record>
+</MedlinePlus-document>

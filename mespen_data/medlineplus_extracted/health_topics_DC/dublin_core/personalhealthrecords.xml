@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<MedlinePlus-document>
+<record>
+<header>
+<identifier>https://medlineplus.gov/personalhealthrecords.html</identifier>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title type="alternate" xml:lang="es">Confidencialidad</dc:title>
+<dc:title type="alternate" xml:lang="es">Registros del paciente</dc:title>
+<dc:title type="alternate" xml:lang="es">Paciente, Información privada del</dc:title>
+<dc:title type="alternate" xml:lang="es">Historia médica</dc:title>
+<dc:title type="alternate" xml:lang="en">Confidentiality</dc:title>
+<dc:title type="alternate" xml:lang="en">Privacy</dc:title>
+<dc:title type="alternate" xml:lang="en">Patient Records</dc:title>
+<dc:title type="alternate" xml:lang="en">HIPAA</dc:title>
+<dc:title type="alternate" xml:lang="en">Electronic Health Records</dc:title>
+<dc:title type="alternate" xml:lang="en">Patient Portals</dc:title>
+<dc:type>Text</dc:type>
+<dc:language>spa</dc:language>
+<dc:language>eng</dc:language>
+<dc:title xml:lang="es">Historia clínica</dc:title>
+<dc:title xml:lang="en">Personal Health Records</dc:title>
+<dc:publisher>National Library of Medicine</dc:publisher>
+<dc:relation type="IsPartOf">Social/Family Issues</dc:relation>
+<dc:relation type="IsPartOf">Personal Health Issues</dc:relation>
+<dc:relation type="IsPartOf">Health System</dc:relation>
+<dc:date type="created">2006-01-11</dc:date>
+<dc:date type="modified">2017-08-04</dc:date>
+<dc:identifier type="URL" xml:lang="es">https://medlineplus.gov/spanish/personalhealthrecords.html</dc:identifier>
+<dc:identifier type="URL" xml:lang="en">https://medlineplus.gov/personalhealthrecords.html</dc:identifier>
+<dc:description xml:lang="es">Probablemente ha visto su historia clínica en el consultorio de su médico. De hecho, es posible que tenga varias historias clínicas en varios consultorios médicos. Si ha estado hospitalizado, también tiene una historia allí. Puede ser en papel o electrónico. Para poder seguirle el rastro a toda esta información, es una buena idea llevar sus propios registros de salud. ¿Qué tipo de información podría poner en una historia clínica personal? Podría comenzar con: Su nombre, fecha de nacimiento, tipo de sangre y contacto de emergencia Fecha de su último examen físico Fechas y resultados de las pruebas y estudios Enfermedades más importantes y cirugías, con fechas Una lista de las medicinas que toma, sus dosis y durante cuánto tiempo las ha tomado Cualquier tipo de alergia Cualquier enfermedad crónica Cualquier antecedente de enfermedades en su familia</dc:description>
+<dc:description xml:lang="en">You've probably seen your chart at your doctor's office. In fact, you may have charts at several doctors' offices. If you've been in the hospital, you have a chart there, too. These charts are your medical records. They may be on paper or electronic. To keep track of all this information, it's a good idea to keep your own personal health record. What kind of information would you put in a personal health record? You could start with Your name, birth date, blood type, and emergency contact information Date of last physical Dates and results of tests and screenings Major illnesses and surgeries, with dates A list of your medicines and supplements, the dosages, and how long you've taken them Any allergies Any chronic diseases Any history of illnesses in your family</dc:description>
+<dc:subject dcterms="mesh">Health Records, Personal</dc:subject>
+<dc:subject dcterms="mesh">Meaningful Use</dc:subject>
+<dc:subject xml:lang="es">Historia clínica</dc:subject>
+<dc:subject xml:lang="es">Confidencialidad</dc:subject>
+<dc:subject xml:lang="es">Registros del paciente</dc:subject>
+<dc:subject xml:lang="es">Paciente</dc:subject>
+<dc:subject xml:lang="es">Información privada del</dc:subject>
+<dc:subject xml:lang="es">Historia médica</dc:subject>
+<dc:subject xml:lang="en">Personal Health Records</dc:subject>
+<dc:subject xml:lang="en">Confidentiality</dc:subject>
+<dc:subject xml:lang="en">Privacy</dc:subject>
+<dc:subject xml:lang="en">Patient Records</dc:subject>
+<dc:subject xml:lang="en">HIPAA</dc:subject>
+<dc:subject xml:lang="en">Electronic Health Records</dc:subject>
+<dc:subject xml:lang="en">Patient Portals</dc:subject>
+</metadata>
+</record>
+</MedlinePlus-document>

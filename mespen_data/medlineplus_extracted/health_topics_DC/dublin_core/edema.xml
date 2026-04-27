@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<MedlinePlus-document>
+<record>
+<header>
+<identifier>https://medlineplus.gov/edema.html</identifier>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title type="alternate" xml:lang="es">Hinchazón</dc:title>
+<dc:title type="alternate" xml:lang="en">Dropsy</dc:title>
+<dc:title type="alternate" xml:lang="en">Swelling</dc:title>
+<dc:type>Text</dc:type>
+<dc:language>spa</dc:language>
+<dc:language>eng</dc:language>
+<dc:title xml:lang="es">Edema</dc:title>
+<dc:title xml:lang="en">Edema</dc:title>
+<dc:publisher>National Library of Medicine</dc:publisher>
+<dc:relation type="IsPartOf">Blood, Heart and Circulation</dc:relation>
+<dc:relation type="IsPartOf">Symptoms</dc:relation>
+<dc:date type="created">2003-10-26</dc:date>
+<dc:date type="modified">2018-02-07</dc:date>
+<dc:identifier type="URL" xml:lang="es">https://medlineplus.gov/spanish/edema.html</dc:identifier>
+<dc:identifier type="URL" xml:lang="en">https://medlineplus.gov/edema.html</dc:identifier>
+<dc:description xml:lang="es">Edema significa hinchazón causada por la acumulación de líquido en los tejidos del cuerpo. Suele ocurrir en los pies, los tobillos y las piernas, pero puede afectar todo el cuerpo. Las causas de edema incluyen: Consumir demasiada sal Quemaduras de sol Insuficiencia cardíaca Enfermedades de los riñones Problemas hepáticos por cirrosis Embarazo Problemas con los ganglios linfáticos, especialmente después de una mastectomía Algunas medicinas Permanecer mucho tiempo de pie o sentado cuando hace calor Para disminuir el edema, el médico puede recomendarle mantener sus piernas elevadas cuando se siente, usar medias elásticas, limitar el consumo de sal o tomar medicamentos llamados diuréticos.</dc:description>
+<dc:description xml:lang="en">Edema means swelling caused by fluid in your body's tissues. It usually occurs in the feet, ankles and legs, but it can involve your entire body. Causes of edema include Eating too much salt Sunburn Heart failure Kidney disease Liver problems from cirrhosis Pregnancy Problems with lymph nodes, especially after mastectomy Some medicines Standing or walking a lot when the weather is warm To keep swelling down, your health care provider may recommend keeping your legs raised when sitting, wearing support stockings, limiting how much salt you eat, or taking a medicine called a diuretic - also called a water pill.</dc:description>
+<dc:subject dcterms="mesh">Edema</dc:subject>
+<dc:subject xml:lang="es">Edema</dc:subject>
+<dc:subject xml:lang="es">Hinchazón</dc:subject>
+<dc:subject xml:lang="en">Edema</dc:subject>
+<dc:subject xml:lang="en">Dropsy</dc:subject>
+<dc:subject xml:lang="en">Swelling</dc:subject>
+</metadata>
+</record>
+</MedlinePlus-document>

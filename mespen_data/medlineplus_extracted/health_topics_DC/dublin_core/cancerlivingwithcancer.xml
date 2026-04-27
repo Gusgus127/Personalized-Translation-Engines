@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<MedlinePlus-document>
+<record>
+<header>
+<identifier>https://medlineplus.gov/cancerlivingwithcancer.html</identifier>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title type="alternate" xml:lang="es">Cáncer, Sobrellevando el</dc:title>
+<dc:title type="alternate" xml:lang="en">Living with Cancer</dc:title>
+<dc:type>Text</dc:type>
+<dc:language>spa</dc:language>
+<dc:language>eng</dc:language>
+<dc:title xml:lang="es">Cáncer: Viviendo con cáncer</dc:title>
+<dc:title xml:lang="en">Cancer--Living with Cancer</dc:title>
+<dc:publisher>National Library of Medicine</dc:publisher>
+<dc:relation type="IsPartOf">Cancers</dc:relation>
+<dc:relation type="IsPartOf">Mental Health and Behavior</dc:relation>
+<dc:date type="created">2002-07-21</dc:date>
+<dc:date type="modified">2018-01-19</dc:date>
+<dc:identifier type="URL" xml:lang="es">https://medlineplus.gov/spanish/cancerlivingwithcancer.html</dc:identifier>
+<dc:identifier type="URL" xml:lang="en">https://medlineplus.gov/cancerlivingwithcancer.html</dc:identifier>
+<dc:description xml:lang="es">El cáncer es común. La mitad de todos los hombres y un tercio de las mujeres tendrán un diagnóstico de cáncer en su vida. Muchas personas con cáncer sobreviven. Millones de estadounidenses vivos hoy en día tienen historial de cáncer. Para la mayoría de las personas con cáncer, vivir con la enfermedad es el desafío más grande que jamás han enfrentado. Puede cambiar sus rutinas, roles y relaciones. Puede causar problemas de dinero y de trabajo. El tratamiento puede cambiar la forma en que se siente o su apariencia. Aprender más sobre las maneras en que puede ayudarse puede aliviar algunas de sus preocupaciones. El apoyo de los demás es importante. Todos los sobrevivientes de cáncer deben someterse a seguimiento. Saber qué esperar después del tratamiento del cáncer puede ayudarle a usted y a su familia a hacer planes, cambios de estilo de vida y tomar las decisiones importantes. NIH: Instituto Nacional del Cáncer</dc:description>
+<dc:description xml:lang="en">Cancer is common. Half of all men and a third of women will get a diagnosis of cancer in their lifetime. Many people with cancer do survive. Millions of Americans alive today have a history of cancer. For most people with cancer, living with the disease is the biggest challenge they have ever faced. It can change your routines, roles and relationships. It can cause money and work problems. The treatment can change the way you feel and look. Learning more about ways you can help yourself may ease some of your concerns. Support from others is important. All cancer survivors should have follow-up care. Knowing what to expect after cancer treatment can help you and your family make plans, lifestyle changes, and important decisions. NIH: National Cancer Institute</dc:description>
+<dc:subject dcterms="mesh">Cancer Survivors</dc:subject>
+<dc:subject dcterms="mesh">Neoplasms</dc:subject>
+<dc:subject xml:lang="es">Cáncer: Viviendo con cáncer</dc:subject>
+<dc:subject xml:lang="es">Cáncer</dc:subject>
+<dc:subject xml:lang="es">Sobrellevando el</dc:subject>
+<dc:subject xml:lang="en">Cancer--Living with Cancer</dc:subject>
+<dc:subject xml:lang="en">Living with Cancer</dc:subject>
+</metadata>
+</record>
+</MedlinePlus-document>

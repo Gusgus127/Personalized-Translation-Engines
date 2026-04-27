@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<MedlinePlus-document>
+<record>
+<header>
+<identifier>https://medlineplus.gov/foreignbodies.html</identifier>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:type>Text</dc:type>
+<dc:language>spa</dc:language>
+<dc:language>eng</dc:language>
+<dc:title xml:lang="es">Objetos extraños en el cuerpo</dc:title>
+<dc:title xml:lang="en">Foreign Bodies</dc:title>
+<dc:publisher>National Library of Medicine</dc:publisher>
+<dc:relation type="IsPartOf">Injuries and Wounds</dc:relation>
+<dc:date type="created">2010-08-26</dc:date>
+<dc:date type="modified">2017-12-11</dc:date>
+<dc:identifier type="URL" xml:lang="es">https://medlineplus.gov/spanish/foreignbodies.html</dc:identifier>
+<dc:identifier type="URL" xml:lang="en">https://medlineplus.gov/foreignbodies.html</dc:identifier>
+<dc:description xml:lang="es">Si alguna vez se le ha incrustado una astilla o tuvo arena en el ojo, usted sabe qué es tener un objeto extraño en alguna parte de su cuerpo. Un objeto extraño es algo que se ha quedado atascado dentro suyo pero no debería estar allí. Usted puede inhalar o tragar un objeto extraño o puede tener uno por una lesión en cualquier parte de su cuerpo. Los objetos extraños son más comunes en los niños, quienes a veces se ponen cosas en la boca, las orejas y nariz. Algunos objetos extraños, como una pequeña astilla, no causan daños graves. Respirar o tragar objetos extraños puede causar asfixia u obstrucción intestinal y pueden requerir atención médica.</dc:description>
+<dc:description xml:lang="en">If you've ever gotten a splinter or had sand in your eye, you've had experience with a foreign body. A foreign body is something that is stuck inside you but isn't supposed to be there. You may inhale or swallow a foreign body, or you may get one from an injury to almost any part of your body. Foreign bodies are more common in small children, who sometimes stick things in their mouths, ears, and noses. Some foreign bodies, like a small splinter, do not cause serious harm. Inhaled or swallowed foreign bodies may cause choking or bowel obstruction and may require medical care.</dc:description>
+<dc:subject dcterms="mesh">Foreign Bodies</dc:subject>
+<dc:subject xml:lang="es">Objetos extraños en el cuerpo</dc:subject>
+<dc:subject xml:lang="en">Foreign Bodies</dc:subject>
+<dc:subject xml:lang="en">Splinters</dc:subject>
+</metadata>
+</record>
+</MedlinePlus-document>

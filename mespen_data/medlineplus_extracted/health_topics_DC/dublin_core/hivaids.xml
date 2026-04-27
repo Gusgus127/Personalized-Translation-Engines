@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<MedlinePlus-document>
+<record>
+<header>
+<identifier>https://medlineplus.gov/hivaids.html</identifier>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title type="alternate" xml:lang="es">VIH</dc:title>
+<dc:title type="alternate" xml:lang="es">Síndrome de inmunodeficiencia adquirida</dc:title>
+<dc:title type="alternate" xml:lang="es">Virus de la inmunodeficiencia humana</dc:title>
+<dc:title type="alternate" xml:lang="es">Inmunodeficiencia adquirida, Síndrome de</dc:title>
+<dc:title type="alternate" xml:lang="es">SIDA</dc:title>
+<dc:title type="alternate" xml:lang="en">Human Immunodeficiency Virus</dc:title>
+<dc:title type="alternate" xml:lang="en">Acquired Immunodeficiency Syndrome</dc:title>
+<dc:title type="alternate" xml:lang="en">AIDS</dc:title>
+<dc:type>Text</dc:type>
+<dc:language>spa</dc:language>
+<dc:language>eng</dc:language>
+<dc:title xml:lang="es">VIH/SIDA</dc:title>
+<dc:title xml:lang="en">HIV/AIDS</dc:title>
+<dc:publisher>National Library of Medicine</dc:publisher>
+<dc:relation type="IsPartOf">Immune System</dc:relation>
+<dc:relation type="IsPartOf">Infections</dc:relation>
+<dc:date type="created">2002-07-21</dc:date>
+<dc:date type="modified">2017-11-22</dc:date>
+<dc:identifier type="URL" xml:lang="es">https://medlineplus.gov/spanish/hivaids.html</dc:identifier>
+<dc:identifier type="URL" xml:lang="en">https://medlineplus.gov/hivaids.html</dc:identifier>
+<dc:description xml:lang="es">VIH significa virus de la inmunodeficiencia humana. Éste daña el sistema inmunitario mediante la destrucción de los glóbulos blancos que combaten las infecciones. Esto lo pone en riesgo de contraer infecciones graves y ciertos tipos de cáncer. SIDA significa síndrome de inmunodeficiencia adquirida. Es la etapa final de la infección con el VIH. No todas las personas con VIH desarrollan SIDA. El VIH suele contagiarse a través de relaciones sexuales sin protección con una persona infectada. También puede propagarse por intercambio de agujas para inyectarse drogas o por contacto con la sangre de una persona infectada. Las mujeres pueden infectar a sus bebés durante el embarazo o el parto. Los primeros síntomas de la infección por VIH pueden ser inflamación de los ganglios y síntomas parecidos a la gripe. Estos pueden aparecer y desaparecer dentro de dos a cuatro semanas. Los síntomas graves pueden no aparecer hasta meses o años después. Con un análisis de sangre se puede saber si una persona tiene una infección por VIH. El profesional de la salud puede realizar la prueba o llamar para una derivación a la línea nacional 1-800-CDC-INFO (en español y en inglés, las 24 horas del día, 1-800-232-4636; 1-888-232-6348 - TTY). Una prueba de sangre puede determinar si usted tiene la infección por VIH. Su médico puede hacerle la prueba, o se puede utilizar un kit en casa. Para encontrar sitios de prueba gratuitas, llame a la línea de referencia nacional al 1-800-CDC-INFO (1-800-232-4636 en inglés y en español; 1-888-232-6348 TTY). No tiene cura, pero hay muchos medicamentos que combaten la infección por VIH y reducen el riesgo de infectar a otros. Las personas que reciben tratamiento temprano pueden vivir con la enfermedad durante un largo tiempo. Las estrategias para reducir el riesgo de infección por VIH incluyen no tener relaciones sexuales, limitar el número de parejas sexuales, nunca compartir agujas y usar condones de la manera correcta cada vez que tenga relaciones sexuales. Las personas que están en alto riesgo pueden tomar medicamentos para la prevención del VIH. NIH: Institutos Nacionales de la Salud</dc:description>
+<dc:description xml:lang="en">HIV stands for human immunodeficiency virus. It harms your immune system by destroying the white blood cells that fight infection. This puts you at risk for serious infections and certain cancers. AIDS stands for acquired immunodeficiency syndrome. It is the final stage of infection with HIV. Not everyone with HIV develops AIDS. HIV most often spreads through unprotected sex with an infected person. It may also spread by sharing drug needles or through contact with the blood of an infected person. Women can give it to their babies during pregnancy or childbirth. The first signs of HIV infection may be swollen glands and flu-like symptoms. These may come and go within two to four weeks. Severe symptoms may not appear until months or years later. A blood test can tell if you have HIV infection. Your health care provider can do the test, or you can use a home testing kit. Or to find free testing sites, call the national referral hotline at 1-800-CDC-INFO (1-800-232-4636 in English and en español; 1-888-232-6348 - TTY). There is no cure, but there are many medicines that fight HIV infection and lower the risk of infecting others. People who get early treatment can live with the disease for a long time. Strategies to reduce the risk of HIV infection include not having sex, limiting your number of sexual partners, never sharing needles, and using condoms the right way every time you have sex. People who are at high risk may take HIV prevention medicines.</dc:description>
+<dc:subject dcterms="mesh">Acquired Immunodeficiency Syndrome</dc:subject>
+<dc:subject dcterms="mesh">HIV Infections</dc:subject>
+<dc:subject xml:lang="es">VIH/SIDA</dc:subject>
+<dc:subject xml:lang="es">VIH</dc:subject>
+<dc:subject xml:lang="es">Síndrome de inmunodeficiencia adquirida</dc:subject>
+<dc:subject xml:lang="es">Virus de la inmunodeficiencia humana</dc:subject>
+<dc:subject xml:lang="es">Inmunodeficiencia adquirida</dc:subject>
+<dc:subject xml:lang="es">Síndrome de</dc:subject>
+<dc:subject xml:lang="es">SIDA</dc:subject>
+<dc:subject xml:lang="en">HIV/AIDS</dc:subject>
+<dc:subject xml:lang="en">Human Immunodeficiency Virus</dc:subject>
+<dc:subject xml:lang="en">Acquired Immunodeficiency Syndrome</dc:subject>
+<dc:subject xml:lang="en">AIDS</dc:subject>
+</metadata>
+</record>
+</MedlinePlus-document>

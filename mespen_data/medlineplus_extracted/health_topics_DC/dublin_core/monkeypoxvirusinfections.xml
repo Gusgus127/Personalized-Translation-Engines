@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<MedlinePlus-document>
+<record>
+<header>
+<identifier>https://medlineplus.gov/monkeypoxvirusinfections.html</identifier>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:type>Text</dc:type>
+<dc:language>spa</dc:language>
+<dc:language>eng</dc:language>
+<dc:title xml:lang="es">Viruela del simio</dc:title>
+<dc:title xml:lang="en">Monkeypox Virus Infections</dc:title>
+<dc:publisher>National Library of Medicine</dc:publisher>
+<dc:relation type="IsPartOf">Infections</dc:relation>
+<dc:date type="created">2003-06-20</dc:date>
+<dc:date type="modified">2016-01-21</dc:date>
+<dc:identifier type="URL" xml:lang="es">https://medlineplus.gov/spanish/monkeypoxvirusinfections.html</dc:identifier>
+<dc:identifier type="URL" xml:lang="en">https://medlineplus.gov/monkeypoxvirusinfections.html</dc:identifier>
+<dc:description xml:lang="es">La viruela del simio es una enfermedad viral poco común. Ocurre principalmente en las regiones del centro y occidentales de África. Los roedores y las ardillas salvajes la transmiten pero se llama viruela del simio porque los científicos la descubrieron por primera vez en monos de laboratorio. En 2003, se observó en perros de la pradera y seres humanos en los Estados Unidos. Centros para el Control y la Prevención de Enfermedades</dc:description>
+<dc:description xml:lang="en">Monkeypox is a rare viral disease. It occurs mostly in central and western Africa. Wild rodents and squirrels carry it, but it is called monkeypox because scientists saw it first in lab monkeys. In 2003, it was reported in prairie dogs and humans in the U.S. Centers for Disease Control and Prevention</dc:description>
+<dc:subject dcterms="mesh">Monkeypox virus</dc:subject>
+<dc:subject xml:lang="es">Viruela del simio</dc:subject>
+<dc:subject xml:lang="en">Monkeypox Virus Infections</dc:subject>
+</metadata>
+</record>
+</MedlinePlus-document>

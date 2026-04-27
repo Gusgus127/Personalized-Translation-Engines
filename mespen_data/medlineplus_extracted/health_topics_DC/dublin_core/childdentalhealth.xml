@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<MedlinePlus-document>
+<record>
+<header>
+<identifier>https://medlineplus.gov/childdentalhealth.html</identifier>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title type="alternate" xml:lang="es">Dientes del niño, Salud</dc:title>
+<dc:title type="alternate" xml:lang="es">Chicos, Salud dental</dc:title>
+<dc:title type="alternate" xml:lang="es">Dientes, Salud en los niños</dc:title>
+<dc:title type="alternate" xml:lang="en">Dental Health, Child</dc:title>
+<dc:title type="alternate" xml:lang="en">Dental Sealants</dc:title>
+<dc:title type="alternate" xml:lang="en">Oral Health, Child</dc:title>
+<dc:type>Text</dc:type>
+<dc:language>spa</dc:language>
+<dc:language>eng</dc:language>
+<dc:title xml:lang="es">Salud dental del niño</dc:title>
+<dc:title xml:lang="en">Child Dental Health</dc:title>
+<dc:publisher>National Library of Medicine</dc:publisher>
+<dc:relation type="IsPartOf">Children and Teenagers</dc:relation>
+<dc:relation type="IsPartOf">Mouth and Teeth</dc:relation>
+<dc:date type="created">2002-07-21</dc:date>
+<dc:date type="modified">2018-02-12</dc:date>
+<dc:identifier type="URL" xml:lang="es">https://medlineplus.gov/spanish/childdentalhealth.html</dc:identifier>
+<dc:identifier type="URL" xml:lang="en">https://medlineplus.gov/childdentalhealth.html</dc:identifier>
+<dc:description xml:lang="es">Los dientes sanos son importantes para la salud general de un niño. Desde el momento del nacimiento, hay cosas que se pueden hacer para promover los dientes sanos y prevenir caries. En los bebés, se deben limpiar los dientes con un paño suave y limpio o con un cepillo de dientes para bebés. Evite acostar al niño con un biberón y revísele los dientes regularmente para detectar manchas. En todos los niños se debe: Comenzar a usar una pequeña cantidad de pasta dental con flúor a los dos años de edad. El doctor puede recomendar empezar antes Ofrecer alimentos sanos y limitar los refrigerios y las bebidas dulces Programar visitas periódicas al odontólogo Formar buenos hábitos alimenticios a una edad temprana puede ayudar al niño a tener dientes sanos para toda la vida. NIH: Instituto Nacional de Investigación Dental y Craneofacial</dc:description>
+<dc:description xml:lang="en">Healthy teeth are important to your child's overall health. From the time your child is born, there are things you can do to promote healthy teeth and prevent cavities. For babies, you should clean teeth with a soft, clean cloth or baby's toothbrush. Avoid putting the baby to bed with a bottle and check teeth regularly for spots or stains. For all children, you should Start using a pea-sized amount of fluoride toothpaste when they are two years old. You might start sooner, if a dentist or doctor suggests it. Provide healthy foods and limit sweet snacks and drinks Schedule regular dental check-ups Forming good habits at a young age can help your child have healthy teeth for life. NIH: National Institute of Dental and Craniofacial Research</dc:description>
+<dc:subject dcterms="mesh">Dental Care for Children</dc:subject>
+<dc:subject xml:lang="es">Salud dental del niño</dc:subject>
+<dc:subject xml:lang="es">Dientes del niño</dc:subject>
+<dc:subject xml:lang="es">Salud</dc:subject>
+<dc:subject xml:lang="es">Chicos</dc:subject>
+<dc:subject xml:lang="es">Salud dental</dc:subject>
+<dc:subject xml:lang="es">Dientes</dc:subject>
+<dc:subject xml:lang="es">Salud en los niños</dc:subject>
+<dc:subject xml:lang="en">Child Dental Health</dc:subject>
+<dc:subject xml:lang="en">Dental Health</dc:subject>
+<dc:subject xml:lang="en">Child</dc:subject>
+<dc:subject xml:lang="en">Dental Sealants</dc:subject>
+<dc:subject xml:lang="en">Oral Health</dc:subject>
+<dc:subject xml:lang="en">Child</dc:subject>
+</metadata>
+</record>
+</MedlinePlus-document>

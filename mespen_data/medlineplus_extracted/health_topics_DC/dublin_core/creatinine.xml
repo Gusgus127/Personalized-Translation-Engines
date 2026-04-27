@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<MedlinePlus-document>
+<record>
+<header>
+<identifier>https://medlineplus.gov/creatinine.html</identifier>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:type>Text</dc:type>
+<dc:language>spa</dc:language>
+<dc:language>eng</dc:language>
+<dc:title xml:lang="es">Creatinina</dc:title>
+<dc:title xml:lang="en">Creatinine</dc:title>
+<dc:publisher>National Library of Medicine</dc:publisher>
+<dc:relation type="IsPartOf">Kidneys and Urinary System</dc:relation>
+<dc:date type="created">2015-08-03</dc:date>
+<dc:date type="modified">2017-11-09</dc:date>
+<dc:identifier type="URL" xml:lang="es">https://medlineplus.gov/spanish/creatinine.html</dc:identifier>
+<dc:identifier type="URL" xml:lang="en">https://medlineplus.gov/creatinine.html</dc:identifier>
+<dc:description xml:lang="es">La creatinina es un producto de desecho en la sangre. Viene de proteína en su dieta y la descomposición normal de los músculos de su cuerpo. La creatinina se elimina de la sangre por los riñones y luego sale del cuerpo en la orina. Si tiene enfermedad de los riñones, el nivel de creatinina en la sangre aumenta. Los análisis de suero y de orina pueden determinar sus niveles de creatinina. Las pruebas se realizan para comprobar qué tan bien están funcionando sus riñones. NIH: Instituto Nacional de la Diabetes y Enfermedades Digestivas y Renales</dc:description>
+<dc:description xml:lang="en">Creatinine is a waste product in your blood. It comes from protein in your diet and the normal breakdown of muscles of your body. Creatinine is removed from blood by the kidneys and then passes out of the body in your urine. If you have kidney disease, the level of creatinine in your blood increases. Blood (serum) and urine tests can check your creatinine levels. The tests are done to check how well your kidneys are working. NIH: National Institute of Diabetes and Digestive and Kidney Diseases</dc:description>
+<dc:subject dcterms="mesh">Creatinine</dc:subject>
+<dc:subject xml:lang="es">Creatinina</dc:subject>
+<dc:subject xml:lang="en">Creatinine</dc:subject>
+</metadata>
+</record>
+</MedlinePlus-document>

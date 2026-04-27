@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<MedlinePlus-document>
+<record>
+<header>
+<identifier>https://medlineplus.gov/collapsedlung.html</identifier>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title type="alternate" xml:lang="es">Pulmón, Colapso</dc:title>
+<dc:title type="alternate" xml:lang="en">Pneumothorax</dc:title>
+<dc:title type="alternate" xml:lang="en">Atelectasis</dc:title>
+<dc:type>Text</dc:type>
+<dc:language>spa</dc:language>
+<dc:language>eng</dc:language>
+<dc:title xml:lang="es">Colapso pulmonar</dc:title>
+<dc:title xml:lang="en">Collapsed Lung</dc:title>
+<dc:publisher>National Library of Medicine</dc:publisher>
+<dc:relation type="IsPartOf">Lungs and Breathing</dc:relation>
+<dc:date type="created">2013-07-01</dc:date>
+<dc:date type="modified">2017-07-24</dc:date>
+<dc:identifier type="URL" xml:lang="es">https://medlineplus.gov/spanish/collapsedlung.html</dc:identifier>
+<dc:identifier type="URL" xml:lang="en">https://medlineplus.gov/collapsedlung.html</dc:identifier>
+<dc:description xml:lang="es">Un colapso pulmonar ocurre cuando entra aire al espacio pleural (el área entre el pulmón y la pared del pecho). Si el colapso es total, se lo llama neumotórax. Si solo una parte del pulmón colapsa, se denomina atelectasia. Las causas del colapso pulmonar incluyen: Enfermedades de los pulmones, como neumonía o cáncer de pulmón Estar conectado a un ventilador mecánico Cirugía del tórax o abdomen Vía respiratoria obstruida Pueden no presentarse síntomas si solo un área pequeña colapsa. Pero si el área es más grande, puede sentir falta de aliento y su corazón latiendo más rápidamente. El colapso pulmonar se diagnostica por medio de rayos X. El tratamiento depende de la causa subyacente. NIH: Instituto Nacional del Corazón, los Pulmones y la Sangre</dc:description>
+<dc:description xml:lang="en">A collapsed lung happens when air enters the pleural space, the area between the lung and the chest wall. If it is a total collapse, it is called pneumothorax. If only part of the lung is affected, it is called atelectasis. Causes of a collapsed lung include Lung diseases such as pneumonia or lung cancer Being on a breathing machine Surgery on the chest or abdomen A blocked airway If only a small area of the lung is affected, you may not have symptoms. If a large area is affected, you may feel short of breath and have a rapid heart rate. A chest x-ray can tell if you have it. Treatment depends on the underlying cause. NIH: National Heart, Lung, and Blood Institute</dc:description>
+<dc:subject dcterms="mesh">Pulmonary Atelectasis</dc:subject>
+<dc:subject dcterms="mesh">Pneumothorax</dc:subject>
+<dc:subject xml:lang="es">Colapso pulmonar</dc:subject>
+<dc:subject xml:lang="es">Pulmón</dc:subject>
+<dc:subject xml:lang="es">Colapso</dc:subject>
+<dc:subject xml:lang="en">Collapsed Lung</dc:subject>
+<dc:subject xml:lang="en">Pneumothorax</dc:subject>
+<dc:subject xml:lang="en">Atelectasis</dc:subject>
+</metadata>
+</record>
+</MedlinePlus-document>

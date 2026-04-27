@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<MedlinePlus-document>
+<record>
+<header>
+<identifier>https://medlineplus.gov/cancer.html</identifier>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title type="alternate" xml:lang="es">Carcinoma</dc:title>
+<dc:title type="alternate" xml:lang="es">Malignidad</dc:title>
+<dc:title type="alternate" xml:lang="es">Neoplasmas</dc:title>
+<dc:title type="alternate" xml:lang="es">Oncología</dc:title>
+<dc:title type="alternate" xml:lang="es">Tumor</dc:title>
+<dc:title type="alternate" xml:lang="en">Malignancy</dc:title>
+<dc:title type="alternate" xml:lang="en">Carcinoma</dc:title>
+<dc:title type="alternate" xml:lang="en">Neoplasms</dc:title>
+<dc:title type="alternate" xml:lang="en">Tumor</dc:title>
+<dc:title type="alternate" xml:lang="en">Oncology</dc:title>
+<dc:type>Text</dc:type>
+<dc:language>spa</dc:language>
+<dc:language>eng</dc:language>
+<dc:title xml:lang="es">Cáncer</dc:title>
+<dc:title xml:lang="en">Cancer</dc:title>
+<dc:publisher>National Library of Medicine</dc:publisher>
+<dc:relation type="IsPartOf">Cancers</dc:relation>
+<dc:date type="created">2002-07-21</dc:date>
+<dc:date type="modified">2018-02-08</dc:date>
+<dc:identifier type="URL" xml:lang="es">https://medlineplus.gov/spanish/cancer.html</dc:identifier>
+<dc:identifier type="URL" xml:lang="en">https://medlineplus.gov/cancer.html</dc:identifier>
+<dc:description xml:lang="es">El cáncer comienza en las células, que constituyen los ladrillos del cuerpo. Normalmente, el cuerpo forma células nuevas a medida que se necesitan para reemplazar a las células envejecidas que mueren. Algunas veces, este proceso no resulta ser el esperado. Crecen células nuevas que no son necesarias y las células envejecidas no mueren cuando deberían. Estas células adicionales pueden formar una masa llamada tumor. Los tumores pueden ser benignos o malignos. Los tumores benignos no son cáncer, mientras que los malignos sí lo son. Las células de los tumores malignos pueden invadir los tejidos cercanos. También pueden desprenderse y diseminarse a otras partes del cuerpo. El cáncer no es solo una enfermedad, sino varias. Existen más de 100 tipos de cáncer. La mayoría de éstos se nombran por su lugar de origen. Por ejemplo, el cáncer de pulmón comienza en el pulmón y el cáncer de seno comienza en el seno. La diseminación de un cáncer desde una parte del cuerpo a otra se denomina metástasis. Los síntomas y el tratamiento dependen del tipo de cáncer y de lo avanzada que esté la enfermedad. La mayoría de los tratamientos incluye cirugía, radiación y/o quimioterapia. Algunos pueden también incluir terapia hormonal, inmunoterapia u otros tipos de terapia biológica, o trasplante de células madre. NIH: Instituto Nacional del Cáncer</dc:description>
+<dc:description xml:lang="en">Cancer begins in your cells, which are the building blocks of your body. Normally, your body forms new cells as you need them, replacing old cells that die. Sometimes this process goes wrong. New cells grow even when you don't need them, and old cells don't die when they should. These extra cells can form a mass called a tumor. Tumors can be benign or malignant. Benign tumors aren't cancer while malignant ones are. Cells from malignant tumors can invade nearby tissues. They can also break away and spread to other parts of the body. Cancer is not just one disease but many diseases. There are more than 100 different types of cancer. Most cancers are named for where they start. For example, lung cancer starts in the lung, and breast cancer starts in the breast. The spread of cancer from one part of the body to another is called metastasis. Symptoms and treatment depend on the cancer type and how advanced it is. Most treatment plans may include surgery, radiation and/or chemotherapy. Some may involve hormone therapy, immunotherapy or other types of biologic therapy, or stem cell transplantation. NIH: National Cancer Institute</dc:description>
+<dc:subject dcterms="mesh">Neoplasms</dc:subject>
+<dc:subject xml:lang="es">Cáncer</dc:subject>
+<dc:subject xml:lang="es">Carcinoma</dc:subject>
+<dc:subject xml:lang="es">Malignidad</dc:subject>
+<dc:subject xml:lang="es">Neoplasmas</dc:subject>
+<dc:subject xml:lang="es">Oncología</dc:subject>
+<dc:subject xml:lang="es">Tumor</dc:subject>
+<dc:subject xml:lang="en">Cancer</dc:subject>
+<dc:subject xml:lang="en">Malignancy</dc:subject>
+<dc:subject xml:lang="en">Carcinoma</dc:subject>
+<dc:subject xml:lang="en">Neoplasms</dc:subject>
+<dc:subject xml:lang="en">Tumor</dc:subject>
+<dc:subject xml:lang="en">Oncology</dc:subject>
+</metadata>
+</record>
+</MedlinePlus-document>

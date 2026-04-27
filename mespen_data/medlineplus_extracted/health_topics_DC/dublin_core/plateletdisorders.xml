@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<MedlinePlus-document>
+<record>
+<header>
+<identifier>https://medlineplus.gov/plateletdisorders.html</identifier>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title type="alternate" xml:lang="es">Plaquetas, Problemas</dc:title>
+<dc:title type="alternate" xml:lang="en">Blood Platelet Disorders</dc:title>
+<dc:title type="alternate" xml:lang="en">von Willebrand's Disease</dc:title>
+<dc:title type="alternate" xml:lang="en">Thrombocytopenia</dc:title>
+<dc:type>Text</dc:type>
+<dc:language>spa</dc:language>
+<dc:language>eng</dc:language>
+<dc:title xml:lang="es">Problemas plaquetarios</dc:title>
+<dc:title xml:lang="en">Platelet Disorders</dc:title>
+<dc:publisher>National Library of Medicine</dc:publisher>
+<dc:relation type="IsPartOf">Blood, Heart and Circulation</dc:relation>
+<dc:date type="created">2010-04-09</dc:date>
+<dc:date type="modified">2018-01-05</dc:date>
+<dc:identifier type="URL" xml:lang="es">https://medlineplus.gov/spanish/plateletdisorders.html</dc:identifier>
+<dc:identifier type="URL" xml:lang="en">https://medlineplus.gov/plateletdisorders.html</dc:identifier>
+<dc:description xml:lang="es">Las plaquetas son pequeños fragmentos de células sanguíneas. Su función es formar coágulos de sangre que ayuden a sanar las heridas y a prevenir el sangrado. La médula ósea produce las plaquetas. Los problemas pueden surgir cuando se tienen pocas o demasiadas plaquetas o éstas no cumplen su función correctamente. Si su sangre tiene pocas plaquetas, se le llama trombocitopenia. Usted puede correr el riesgo de sangrado moderado a severo. Si su sangre contiene demasiadas plaquetas, usted corre el riesgo de coágulos sanguíneos. Otros problemas surgen cuando las plaquetas no funcionan bien. Por ejemplo, en la enfermedad de von Willebrand, las plaquetas no pueden pegarse unas a otras o no pueden adherirse a las paredes de los vasos sanguíneos. Esto puede causar sangrado excesivo. El tratamiento de los problemas plaquetarios depende de su causa. NIH: Instituto Nacional del Corazón, los Pulmones y la Sangre</dc:description>
+<dc:description xml:lang="en">Platelets are little pieces of blood cells. Platelets help wounds heal and prevent bleeding by forming blood clots. Your bone marrow makes platelets. Problems can result from having too few or too many platelets, or from platelets that do not work properly. If your blood has a low number of platelets, it is called thrombocytopenia. This can put you at risk for mild to serious bleeding. If your blood has too many platelets, you may have a higher risk of blood clots. With other platelet disorders, the platelets do not work as they should. For example, in von Willebrand Disease, the platelets cannot stick together or cannot attach to blood vessel walls. This can cause excessive bleeding. Treatment of platelet disorders depends on the cause. NIH: National Heart, Lung, and Blood Institute</dc:description>
+<dc:subject dcterms="mesh">Blood Platelet Disorders</dc:subject>
+<dc:subject xml:lang="es">Problemas plaquetarios</dc:subject>
+<dc:subject xml:lang="es">Plaquetas</dc:subject>
+<dc:subject xml:lang="es">Problemas</dc:subject>
+<dc:subject xml:lang="en">Platelet Disorders</dc:subject>
+<dc:subject xml:lang="en">Blood Platelet Disorders</dc:subject>
+<dc:subject xml:lang="en">von Willebrand's Disease</dc:subject>
+<dc:subject xml:lang="en">Thrombocytopenia</dc:subject>
+</metadata>
+</record>
+</MedlinePlus-document>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<MedlinePlus-document>
+<record>
+<header>
+<identifier>https://medlineplus.gov/emergencymedicalservices.html</identifier>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:type>Text</dc:type>
+<dc:language>spa</dc:language>
+<dc:language>eng</dc:language>
+<dc:title xml:lang="es">Servicios de emergencias médicas</dc:title>
+<dc:title xml:lang="en">Emergency Medical Services</dc:title>
+<dc:publisher>National Library of Medicine</dc:publisher>
+<dc:relation type="IsPartOf">Health System</dc:relation>
+<dc:date type="created">2005-01-06</dc:date>
+<dc:date type="modified">2016-03-23</dc:date>
+<dc:identifier type="URL" xml:lang="es">https://medlineplus.gov/spanish/emergencymedicalservices.html</dc:identifier>
+<dc:identifier type="URL" xml:lang="en">https://medlineplus.gov/emergencymedicalservices.html</dc:identifier>
+<dc:description xml:lang="es">Si está muy enfermo o gravemente herido y necesita ayuda inmediata, debe utilizar los servicios médicos de urgencia. Estos servicios emplean a personas especialmente capacitadas y centros especialmente equipados. Tal vez se requiera atenderlo en la sala de urgencias del hospital. Los médicos y las enfermeras que se encuentran ahí tratan las urgencias médicas, como los infartos y lesiones. En algunas urgencias, la ayuda es necesaria en el lugar donde se encuentra el paciente. Los técnicos médicos de urgencias, o EMT, por sus siglas en inglés, realizan trabajos de rescate específicos. Responden a llamadas de emergencia, conducen ambulancias y brindan atención médica básica. Algunos EMT son paramédicos - están capacitados para realizar procedimientos médicos en el lugar de los hechos. Por lo general, llevan a los pacientes hasta la sala de urgencias para que reciban más atención. Si usted o alguien que conoce necesitan atención de urgencia, diríjase a la sala de urgencias de su hospital. Si cree que el problema pone en peligro la vida de la persona, llame al 9-1-1.</dc:description>
+<dc:description xml:lang="en">If you get very sick or badly hurt and need help right away, you should use emergency medical services. These services use specially trained people and specially equipped facilities. You may need care in the hospital emergency room (ER). Doctors and nurses there treat emergencies, such as heart attacks and injuries. For some emergencies, you need help where you are. Emergency medical technicians, or EMTs, do specific rescue jobs. They answer emergency calls and give basic medical care. Some EMTs are paramedics - they have training to do medical procedures on site. They usually take you to the ER for more care. If you or someone you know needs emergency care, go to your hospital's emergency room. If you think the problem is life threatening, call 9-1-1.</dc:description>
+<dc:subject dcterms="mesh">Emergency Medical Services</dc:subject>
+<dc:subject xml:lang="es">Servicios de emergencias médicas</dc:subject>
+<dc:subject xml:lang="en">Emergency Medical Services</dc:subject>
+</metadata>
+</record>
+</MedlinePlus-document>

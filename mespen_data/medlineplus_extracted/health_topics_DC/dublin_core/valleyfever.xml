@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<MedlinePlus-document>
+<record>
+<header>
+<identifier>https://medlineplus.gov/valleyfever.html</identifier>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:type>Text</dc:type>
+<dc:language>spa</dc:language>
+<dc:language>eng</dc:language>
+<dc:title xml:lang="es">Fiebre del valle</dc:title>
+<dc:title xml:lang="en">Valley Fever</dc:title>
+<dc:publisher>National Library of Medicine</dc:publisher>
+<dc:relation type="IsPartOf">Infections</dc:relation>
+<dc:date type="created">2010-10-13</dc:date>
+<dc:date type="modified">2018-01-03</dc:date>
+<dc:identifier type="URL" xml:lang="es">https://medlineplus.gov/spanish/valleyfever.html</dc:identifier>
+<dc:identifier type="URL" xml:lang="en">https://medlineplus.gov/valleyfever.html</dc:identifier>
+<dc:description xml:lang="es">La Fiebre del Valle es una enfermedad causada por un hongo (o moho) llamado Coccidioides. Estos hongos viven en el suelo de las zonas áridas como el suroeste de los EE.UU. Se puede contraer al inhalar (aspirar) las esporas del hongo. La infección no se contagia de persona a persona. Cualquier persona puede contraer la infección pero las personas mayores, en especial aquellas de más de 60 años corren mayor riesgo. También están a mayor riesgo las personas que se hayan mudado recientemente a un área donde se encuentre el hongo. Otras personas con alto riesgo son: Personas cuyos trabajos los exponen al polvo del suelo. Estos incluyen a los trabajadores de la construcción, trabajadores agrícolas y las fuerzas militares que realizan entrenamiento de campo Afroamericanos y asiáticos Mujeres en su tercer trimestre de embarazo Personas con un sistema inmunitario debilitado La Fiebre del Valle suele ser leve, sin síntomas. Si usted tiene síntomas, éstos pueden parecerse a los de la gripe, con fiebre, tos, dolor de cabeza, erupción cutánea y dolor muscular. La mayoría de las personas se recuperan en varias semanas o meses. Unas pocas personas quizás desarrollen una enfermedad pulmonar crónica o una infección generalizada. La Fiebre del Valle se diagnostica mediante pruebas de sangre o de otros líquidos corporales o de tejidos. Muchas personas con la infección aguda se recuperan sin tratamiento. En algunos casos, los médicos pueden recetar medicamentos antimicóticos (antifúngicos) para las infecciones agudas. Las infecciones graves requieren fármacos antifúngicos. Centros para el Control y la Prevención de Enfermedades</dc:description>
+<dc:description xml:lang="en">Valley Fever is a disease caused by a fungus (or mold) called Coccidioides. The fungi live in the soil of dry areas like the southwestern U.S. You get it from inhaling the spores of the fungus. The infection cannot spread from person to person. Anyone can get Valley Fever. But it's most common among older adults, especially those 60 and older. People who have recently moved to an area where it occurs are at highest risk for infection. Other people at higher risk include Workers in jobs that expose them to soil dust. These include construction workers, agricultural workers, and military forces doing field training. African Americans and Asians Women in their third trimester of pregnancy People with weak immune systems Valley Fever is often mild, with no symptoms. If you have symptoms, they may include a flu-like illness, with fever, cough, headache, rash, and muscle aches. Most people get better within several weeks or months. A small number of people may develop a chronic lung or widespread infection. Valley Fever is diagnosed by testing your blood, other body fluids, or tissues. Many people with the acute infection get better without treatment. In some cases, doctors may prescribe antifungal drugs for acute infections. Severe infections require antifungal drugs. Centers for Disease Control and Prevention</dc:description>
+<dc:subject dcterms="mesh">Coccidioidomycosis</dc:subject>
+<dc:subject xml:lang="es">Fiebre del valle</dc:subject>
+<dc:subject xml:lang="en">Valley Fever</dc:subject>
+<dc:subject xml:lang="en">Coccidioidomycosis</dc:subject>
+</metadata>
+</record>
+</MedlinePlus-document>

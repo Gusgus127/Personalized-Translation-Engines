@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<MedlinePlus-document>
+<record>
+<header>
+<identifier>https://medlineplus.gov/sicklecellanemia.html</identifier>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title type="alternate" xml:lang="es">Anemia drepanocítica</dc:title>
+<dc:title type="alternate" xml:lang="en">Hemoglobin SS Disease</dc:title>
+<dc:title type="alternate" xml:lang="en">Sickle Cell Disease</dc:title>
+<dc:type>Text</dc:type>
+<dc:language>spa</dc:language>
+<dc:language>eng</dc:language>
+<dc:title xml:lang="es">Anemia falciforme</dc:title>
+<dc:title xml:lang="en">Sickle Cell Anemia</dc:title>
+<dc:publisher>National Library of Medicine</dc:publisher>
+<dc:relation type="IsPartOf">Blood, Heart and Circulation</dc:relation>
+<dc:relation type="IsPartOf">Genetics/Birth Defects</dc:relation>
+<dc:date type="created">2002-07-21</dc:date>
+<dc:date type="modified">2018-01-08</dc:date>
+<dc:identifier type="URL" xml:lang="es">https://medlineplus.gov/spanish/sicklecellanemia.html</dc:identifier>
+<dc:identifier type="URL" xml:lang="en">https://medlineplus.gov/sicklecellanemia.html</dc:identifier>
+<dc:description xml:lang="es">La anemia falciforme es una enfermedad en la que su cuerpo produce glóbulos rojos con forma anormal. Las células tienen forma semilunar o de una hoz. Estas células no duran tanto como las normales, los glóbulos rojos redondos. Esto causa la aparición de anemia. Las células falciformes también se atascan en los vasos sanguíneos y bloquean el flujo. Eso puede provocar dolor y lesionar los órganos. La anemia falciforme es producto de un problema genético. Las personas con la enfermedad nacen con dos genes de células falciformes, uno de cada padre. La presencia del gen de células falciformes y otro normal se denomina rasgo drepanocítico. Aproximadamente una de cada 12 personas de raza negra es portadora del rasgo drepanocítico. Los síntomas más comunes son dolor y problemas por anemia. La anemia puede hacer que se sienta cansado o débil. Además, es posible que tenga dificultad para respirar, mareos, dolores de cabeza o frío en manos y pies. Un análisis de sangre puede demostrar si usted presenta el rasgo o la anemia. La mayoría de los estados en Estados Unidos le hacen pruebas a los bebés recién nacidos como parte de los programas de evaluación del recién nacido. Para la anemia falciforme no hay una cura que se consiga con facilidad. Los tratamientos pueden ayudar a aliviar los síntomas y reducir las complicaciones. Los investigadores están estudiando nuevos tratamientos como trasplantes de sangre y de células madre, terapia génica y nuevos medicamentos. NIH: Instituto Nacional del Corazón, los Pulmones y la Sangre</dc:description>
+<dc:description xml:lang="en">Sickle cell anemia is a disease in which your body produces abnormally shaped red blood cells. The cells are shaped like a crescent or sickle. They don't last as long as normal, round red blood cells. This leads to anemia. The sickle cells also get stuck in blood vessels, blocking blood flow. This can cause pain and organ damage. A genetic problem causes sickle cell anemia. People with the disease are born with two sickle cell genes, one from each parent. If you only have one sickle cell gene, it's called sickle cell trait. About 1 in 12 African Americans has sickle cell trait. The most common symptoms are pain and problems from anemia. Anemia can make you feel tired or weak. In addition, you might have shortness of breath, dizziness, headaches, or coldness in the hands and feet. A blood test can show if you have the trait or anemia. Most states test newborn babies as part of their newborn screening programs. Sickle cell anemia has no widely available cure. Treatments can help relieve symptoms and lessen complications. Researchers are investigating new treatments such as blood and marrow stem cell transplants, gene therapy, and new medicines. NIH: National Heart, Lung, and Blood Institute</dc:description>
+<dc:subject dcterms="mesh">Anemia, Sickle Cell</dc:subject>
+<dc:subject xml:lang="es">Anemia falciforme</dc:subject>
+<dc:subject xml:lang="es">Anemia drepanocítica</dc:subject>
+<dc:subject xml:lang="en">Sickle Cell Anemia</dc:subject>
+<dc:subject xml:lang="en">Hemoglobin SS Disease</dc:subject>
+<dc:subject xml:lang="en">Sickle Cell Disease</dc:subject>
+</metadata>
+</record>
+</MedlinePlus-document>

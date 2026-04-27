@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<MedlinePlus-document>
+<record>
+<header>
+<identifier>https://medlineplus.gov/nutrition.html</identifier>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title type="alternate" xml:lang="es">Alimentación</dc:title>
+<dc:title type="alternate" xml:lang="es">Alimentación saludable</dc:title>
+<dc:title type="alternate" xml:lang="en">Food Additives</dc:title>
+<dc:title type="alternate" xml:lang="en">Healthy Eating</dc:title>
+<dc:type>Text</dc:type>
+<dc:language>spa</dc:language>
+<dc:language>eng</dc:language>
+<dc:title xml:lang="es">Nutrición</dc:title>
+<dc:title xml:lang="en">Nutrition</dc:title>
+<dc:publisher>National Library of Medicine</dc:publisher>
+<dc:relation type="IsPartOf">Wellness and Lifestyle</dc:relation>
+<dc:relation type="IsPartOf">Food and Nutrition</dc:relation>
+<dc:date type="created">2002-07-21</dc:date>
+<dc:date type="modified">2017-10-26</dc:date>
+<dc:identifier type="URL" xml:lang="es">https://medlineplus.gov/spanish/nutrition.html</dc:identifier>
+<dc:identifier type="URL" xml:lang="en">https://medlineplus.gov/nutrition.html</dc:identifier>
+<dc:description xml:lang="es">Los alimentos entregan la energía y los nutrientes necesarios para estar sanos. Entre los nutrientes se incluyen las proteínas, carbohidratos, grasas, vitaminas, minerales y agua. Comer de manera nutritiva no es difícil. Las claves son: Consumir una variedad de alimentos, incluyendo vegetales, frutas y productos con granos integrales Consumir carnes magras, aves, pescado, guisantes y productos lácteos descremados Beber mucha agua Limitar la sal, azúcar, alcohol, grasas saturadas y grasas trans Las grasas saturadas suelen provenir de los animales. Busque las grasas trans en las etiquetas de los alimentos procesados, margarinas y mantecas. Centros para el Control y la Prevención de Enfermedades</dc:description>
+<dc:description xml:lang="en">Food provides the energy and nutrients you need to be healthy. Nutrients include proteins, carbohydrates, fats, vitamins, minerals, and water. Healthy eating is not hard. The key is to Eat a variety of foods, including vegetables, fruits, and whole-grain products Eat lean meats, poultry, fish, beans, and low-fat dairy products Drink lots of water Limit salt, sugar, alcohol, saturated fat, and trans fat in your diet Saturated fats are usually fats that come from animals. Look for trans fat on the labels of processed foods, margarines, and shortenings. Centers for Disease Control and Prevention</dc:description>
+<dc:subject dcterms="mesh">Nutrition Disorders</dc:subject>
+<dc:subject dcterms="mesh">Nutritional Physiological Phenomena</dc:subject>
+<dc:subject xml:lang="es">Nutrición</dc:subject>
+<dc:subject xml:lang="es">Alimentación</dc:subject>
+<dc:subject xml:lang="es">Alimentación saludable</dc:subject>
+<dc:subject xml:lang="en">Nutrition</dc:subject>
+<dc:subject xml:lang="en">Food Additives</dc:subject>
+<dc:subject xml:lang="en">Healthy Eating</dc:subject>
+</metadata>
+</record>
+</MedlinePlus-document>

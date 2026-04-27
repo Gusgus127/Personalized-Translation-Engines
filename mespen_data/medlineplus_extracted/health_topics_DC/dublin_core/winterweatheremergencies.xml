@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<MedlinePlus-document>
+<record>
+<header>
+<identifier>https://medlineplus.gov/winterweatheremergencies.html</identifier>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title type="alternate" xml:lang="es">Desastres naturales</dc:title>
+<dc:title type="alternate" xml:lang="en">Natural Disasters</dc:title>
+<dc:title type="alternate" xml:lang="en">Cold (Temperature)</dc:title>
+<dc:type>Text</dc:type>
+<dc:language>spa</dc:language>
+<dc:language>eng</dc:language>
+<dc:title xml:lang="es">Emergencias causadas por el invierno</dc:title>
+<dc:title xml:lang="en">Winter Weather Emergencies</dc:title>
+<dc:publisher>National Library of Medicine</dc:publisher>
+<dc:relation type="IsPartOf">Disasters</dc:relation>
+<dc:date type="created">2008-06-25</dc:date>
+<dc:date type="modified">2018-01-23</dc:date>
+<dc:identifier type="URL" xml:lang="es">https://medlineplus.gov/spanish/winterweatheremergencies.html</dc:identifier>
+<dc:identifier type="URL" xml:lang="en">https://medlineplus.gov/winterweatheremergencies.html</dc:identifier>
+<dc:description xml:lang="es">Las inclemencias del clima invernal pueden conducir a desafíos para la salud y la seguridad. Es posible que tenga que lidiar con: Problemas de salud relacionados con el frío, incluyendo quemaduras por frío e hipotermia Incendios domiciliarios e intoxicación con monóxido de carbono por los calefactores y las chimeneas Condiciones inseguras para conducir por las rutas heladas Fallas eléctricas Inundaciones después de que se derritan la nieve y el hielo Aunque no hay garantías de seguridad durante una inclemencia invernal, usted puede tomar medidas para protegerse. Debe tener un plan de acción para casos de desastres. Estar preparado puede ayudar a reducir el miedo, la ansiedad y las pérdidas. Si usted experimenta un desastre, es normal que se sienta estresado. Es posible que necesite ayuda para encontrar maneras de enfrentarlo. Centros para el Control y la Prevención de Enfermedades</dc:description>
+<dc:description xml:lang="en">Severe winter weather can lead to health and safety challenges. You may have to cope with Cold related health problems, including frostbite and hypothermia Household fires and carbon monoxide poisoning from space heaters and fireplaces Unsafe driving conditions from icy roads Power failures Floods after snow and ice melt Although there are no guarantees of safety during winter weather emergencies, you can take actions to protect yourself. You should have a disaster plan. Being prepared can help reduce fear, anxiety and losses. If you do experience a disaster, it is normal to feel stressed. You may need help in finding ways to cope. Centers for Disease Control and Prevention</dc:description>
+<dc:subject dcterms="mesh">Cold Climate</dc:subject>
+<dc:subject dcterms="mesh">Emergencies</dc:subject>
+<dc:subject xml:lang="es">Emergencias causadas por el invierno</dc:subject>
+<dc:subject xml:lang="es">Desastres naturales</dc:subject>
+<dc:subject xml:lang="en">Winter Weather Emergencies</dc:subject>
+<dc:subject xml:lang="en">Natural Disasters</dc:subject>
+<dc:subject xml:lang="en">Cold (Temperature)</dc:subject>
+</metadata>
+</record>
+</MedlinePlus-document>

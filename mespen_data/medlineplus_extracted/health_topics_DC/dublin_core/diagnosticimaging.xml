@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<MedlinePlus-document>
+<record>
+<header>
+<identifier>https://medlineplus.gov/diagnosticimaging.html</identifier>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title type="alternate" xml:lang="es">Examen de TAC (Tomografía axial computadorizada)</dc:title>
+<dc:title type="alternate" xml:lang="es">RM</dc:title>
+<dc:title type="alternate" xml:lang="es">Radiología</dc:title>
+<dc:title type="alternate" xml:lang="es">Ultrasonido</dc:title>
+<dc:title type="alternate" xml:lang="es">Pruebas radionúclidas</dc:title>
+<dc:title type="alternate" xml:lang="es">Pruebas de medicina nuclear</dc:title>
+<dc:type>Text</dc:type>
+<dc:language>spa</dc:language>
+<dc:language>eng</dc:language>
+<dc:title xml:lang="es">Diagnóstico por imágenes</dc:title>
+<dc:title xml:lang="en">Diagnostic Imaging</dc:title>
+<dc:publisher>National Library of Medicine</dc:publisher>
+<dc:relation type="IsPartOf">Diagnostic Tests</dc:relation>
+<dc:date type="created">2002-07-21</dc:date>
+<dc:date type="modified">2017-09-11</dc:date>
+<dc:identifier type="URL" xml:lang="es">https://medlineplus.gov/spanish/diagnosticimaging.html</dc:identifier>
+<dc:identifier type="URL" xml:lang="en">https://medlineplus.gov/diagnosticimaging.html</dc:identifier>
+<dc:description xml:lang="es">El diagnóstico por imágenes permite a los médicos observar el interior del cuerpo para buscar indicios sobre una condición médica. Una variedad de aparatos y técnicas pueden crear imágenes de las estructuras y actividades dentro de su cuerpo. El tipo de imagen que use el médico dependerá de sus síntomas y de la parte del cuerpo que debe examinarse. Estas incluyen: Rayos X Tomografías computarizadas Estudios de medicina nuclear Imágenes por resonancia magnética Ecografías Muchas pruebas por imágenes no duelen y son fáciles de realizar. Algunas requieren que permanezca inmóvil por un largo período de tiempo dentro de un aparato. Esto puede resultar incómodo. Algunas pruebas pueden incluir dosis bajas de radiación. En algunos estudios por imágenes, se introduce en el cuerpo una cámara diminuta unida a un tubo largo y delgado. Esta herramienta se llama tubo visor. El médico lo mueve a través de un conducto del cuerpo o una apertura para observar el interior de un órgano en particular, como el corazón, los pulmones o el colon. Estos procedimientos suelen requerir anestesia.</dc:description>
+<dc:description xml:lang="en">Diagnostic imaging lets doctors look inside your body for clues about a medical condition. A variety of machines and techniques can create pictures of the structures and activities inside your body. The type of imaging your doctor uses depends on your symptoms and the part of your body being examined. They include X-rays CT scans Nuclear medicine scans MRI scans Ultrasound Many imaging tests are painless and easy. Some require you to stay still for a long time inside a machine. This can be uncomfortable. Certain tests involve exposure to a small amount of radiation. For some imaging tests, doctors insert a tiny camera attached to a long, thin tube into your body. This tool is called a scope. The doctor moves it through a body passageway or opening to see inside a particular organ, such as your heart, lungs, or colon. These procedures often require anesthesia.</dc:description>
+<dc:subject dcterms="mesh">Diagnostic Imaging</dc:subject>
+<dc:subject xml:lang="es">Diagnóstico por imágenes</dc:subject>
+<dc:subject xml:lang="es">Examen de TAC (Tomografía axial computadorizada)</dc:subject>
+<dc:subject xml:lang="es">RM</dc:subject>
+<dc:subject xml:lang="es">Radiología</dc:subject>
+<dc:subject xml:lang="es">Ultrasonido</dc:subject>
+<dc:subject xml:lang="es">Pruebas radionúclidas</dc:subject>
+<dc:subject xml:lang="es">Pruebas de medicina nuclear</dc:subject>
+<dc:subject xml:lang="en">Diagnostic Imaging</dc:subject>
+</metadata>
+</record>
+</MedlinePlus-document>

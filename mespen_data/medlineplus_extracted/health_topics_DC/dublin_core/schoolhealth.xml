@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<MedlinePlus-document>
+<record>
+<header>
+<identifier>https://medlineplus.gov/schoolhealth.html</identifier>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title type="alternate" xml:lang="es">Escuela, Salud de los niños en la</dc:title>
+<dc:type>Text</dc:type>
+<dc:language>spa</dc:language>
+<dc:language>eng</dc:language>
+<dc:title xml:lang="es">Salud escolar</dc:title>
+<dc:title xml:lang="en">School Health</dc:title>
+<dc:publisher>National Library of Medicine</dc:publisher>
+<dc:relation type="IsPartOf">Children and Teenagers</dc:relation>
+<dc:date type="created">2004-02-02</dc:date>
+<dc:date type="modified">2017-08-08</dc:date>
+<dc:identifier type="URL" xml:lang="es">https://medlineplus.gov/spanish/schoolhealth.html</dc:identifier>
+<dc:identifier type="URL" xml:lang="en">https://medlineplus.gov/schoolhealth.html</dc:identifier>
+<dc:description xml:lang="es">Su hijo pasa más tiempo en la escuela que en cualquier otro lugar, excepto en casa. Las escuelas pueden tener un efecto importante en la salud de los niños. La escuela puede enseñarles sobre salud y promover hábitos saludables. Las clases de educación física proveen a los menores oportunidades para hacer ejercicio. Las escuelas trabajan para: Prevenir comportamientos riesgosos como el consumo del alcohol y el tabaco o la intimidación Promover hábitos saludables como el ejercicio y el comer sano Lidiar con problemas de salud específicos de los estudiantes, tales como el asma, la obesidad y las enfermedades infecciosas. El edificio y el ambiente escolar deben ser seguros y sanos para el niño.</dc:description>
+<dc:description xml:lang="en">Your child spends more time at school than anywhere else except home. Schools can have a major effect on children's health. Schools can teach children about health, and promote healthy behaviors. Physical education classes give children a chance to get exercise. Schools work to Prevent risky behaviors such as alcohol and tobacco use, or bullying Encourage healthy habits like exercise and healthy eating Deal with specific health problems in students, such as asthma, obesity and infectious diseases The school building and environment should be a safe and healthy place for your child.</dc:description>
+<dc:subject dcterms="mesh">School Health Services</dc:subject>
+<dc:subject xml:lang="es">Salud escolar</dc:subject>
+<dc:subject xml:lang="es">Escuela</dc:subject>
+<dc:subject xml:lang="es">Salud de los niños en la</dc:subject>
+<dc:subject xml:lang="en">School Health</dc:subject>
+</metadata>
+</record>
+</MedlinePlus-document>

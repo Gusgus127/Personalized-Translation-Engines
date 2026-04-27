@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<MedlinePlus-document>
+<record>
+<header>
+<identifier>https://medlineplus.gov/g6pddeficiency.html</identifier>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title type="alternate" xml:lang="es">Deficiencia de glucosa -6- fosfato-deshidrogenasa</dc:title>
+<dc:title type="alternate" xml:lang="es">Deficiencia de G6PD</dc:title>
+<dc:title type="alternate" xml:lang="es">G6PD, Deficiencia</dc:title>
+<dc:title type="alternate" xml:lang="en">Glucose-6-phosphate Dehydrogenase Deficiency</dc:title>
+<dc:type>Text</dc:type>
+<dc:language>spa</dc:language>
+<dc:language>eng</dc:language>
+<dc:title xml:lang="es">G6PD</dc:title>
+<dc:title xml:lang="en">G6PD Deficiency</dc:title>
+<dc:publisher>National Library of Medicine</dc:publisher>
+<dc:relation type="IsPartOf">Genetics/Birth Defects</dc:relation>
+<dc:date type="created">2013-08-12</dc:date>
+<dc:date type="modified">2017-11-14</dc:date>
+<dc:identifier type="URL" xml:lang="es">https://medlineplus.gov/spanish/g6pddeficiency.html</dc:identifier>
+<dc:identifier type="URL" xml:lang="en">https://medlineplus.gov/g6pddeficiency.html</dc:identifier>
+<dc:description xml:lang="es">La deficiencia de glucosa -6- fosfato-deshidrogenasa (también llamada deficiencia de G-6-PD) es una enfermedad hereditaria que se da generalmente en los varones. Aproximadamente uno de cada 10 afroamericanos en los EE. UU. la padece. La deficiencia de G-6-PD afecta principalmente los glóbulos rojos, que son los que llevan el oxígeno desde los pulmones a los tejidos del cuerpo. El problema médico que puede causar es la anemia hemolítica. Esto sucede cuando los glóbulos rojos son destruidos antes que el cuerpo pueda reponerlos. Si usted sufre esta deficiencia, es posible que no tenga ningún síntoma. Estos comienzan cuando sus glóbulos rojos se combinan con ciertos químicos presentes en algunos alimentos o medicamentos o por ciertas infecciones bacterianas o virales o también por estrés. Estos síntomas incluyen: Palidez Ictericia Orina de color oscuro Cansancio Dificultad para respirar Agrandamiento del bazo Corazón que late rápidamente Un examen de sangre puede diagnosticar la enfermedad. Los tratamientos incluyen medicamentos para controlar la infección, la suspensión de cualquier sustancia que cause problemas con los glóbulos rojos y, a veces, transfusiones de sangre. NIH: Biblioteca Nacional de Medicina</dc:description>
+<dc:description xml:lang="en">Glucose-6-phosphate dehydrogenase (G6PD) deficiency is a genetic disorder that is most common in males. About 1 in 10 African American males in the United States has it. G6PD deficiency mainly affects red blood cells, which carry oxygen from the lungs to tissues throughout the body. The most common medical problem it can cause is hemolytic anemia. That happens when red blood cells are destroyed faster than the body can replace them. If you have G6PD deficiency, you may not have symptoms. Symptoms happen if your red blood cells are exposed to certain chemicals in food or medicine, certain bacterial or viral infections, or stress. They may include Paleness Jaundice Dark urine Fatigue Shortness of breath Enlarged spleen Rapid heart rate A blood test can tell if you have it. Treatments include medicines to treat infection, avoiding substances that cause the problem with red blood cells, and sometimes transfusions. NIH: National Library of Medicine</dc:description>
+<dc:subject dcterms="mesh">Glucosephosphate Dehydrogenase Deficiency</dc:subject>
+<dc:subject xml:lang="es">G6PD</dc:subject>
+<dc:subject xml:lang="es">Deficiencia de glucosa -6- fosfato-deshidrogenasa</dc:subject>
+<dc:subject xml:lang="es">Deficiencia de G6PD</dc:subject>
+<dc:subject xml:lang="es">G6PD</dc:subject>
+<dc:subject xml:lang="es">Deficiencia</dc:subject>
+<dc:subject xml:lang="en">G6PD Deficiency</dc:subject>
+<dc:subject xml:lang="en">Glucose-6-phosphate Dehydrogenase Deficiency</dc:subject>
+</metadata>
+</record>
+</MedlinePlus-document>

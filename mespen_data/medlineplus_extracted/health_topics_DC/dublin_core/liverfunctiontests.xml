@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<MedlinePlus-document>
+<record>
+<header>
+<identifier>https://medlineplus.gov/liverfunctiontests.html</identifier>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title type="alternate" xml:lang="es">Hígado, Exámenes</dc:title>
+<dc:title type="alternate" xml:lang="en">Hepatic Function Panel</dc:title>
+<dc:type>Text</dc:type>
+<dc:language>spa</dc:language>
+<dc:language>eng</dc:language>
+<dc:title xml:lang="es">Pruebas y exámenes de función hepática</dc:title>
+<dc:title xml:lang="en">Liver Function Tests</dc:title>
+<dc:publisher>National Library of Medicine</dc:publisher>
+<dc:relation type="IsPartOf">Diagnostic Tests</dc:relation>
+<dc:relation type="IsPartOf">Digestive System</dc:relation>
+<dc:date type="created">2016-05-11</dc:date>
+<dc:date type="modified">2018-01-26</dc:date>
+<dc:identifier type="URL" xml:lang="es">https://medlineplus.gov/spanish/liverfunctiontests.html</dc:identifier>
+<dc:identifier type="URL" xml:lang="en">https://medlineplus.gov/liverfunctiontests.html</dc:identifier>
+<dc:description xml:lang="es">El hígado ayuda al cuerpo a digerir los alimentos, almacenar energía y eliminar toxinas. Las pruebas de función hepática son análisis de sangre que chequean cómo está funcionando su hígado. Buscan por daños en el hígado y pueden ayudar a diagnosticar enfermedades como la hepatitis y la cirrosis. Usted puede someterse a pruebas de función hepática como parte de un chequeo regular o si tiene síntomas de enfermedades del hígado. Los médicos también las usan para controlar algunas enfermedades del hígado, tratamientos y posibles efectos secundarios de los medicamentos. Las pruebas de función hepática miden ciertas proteínas, enzimas, y sustancias, incluyendo: La albúmina: Una proteína que produce el hígado La proteína total Las enzimas que se encuentran en el hígado: Incluyendo la alanina aminotransferasa, aspartato aminotransferasa, fosfatasa alcalina y gamma-glutamil transpeptidasa La bilirrubina: Una sustancia de color amarillo que es parte de la bilis. Se forma cuando los glóbulos rojos se descomponen. El exceso de bilirrubina en la sangre puede causar ictericia. También hay una prueba de orina para la bilirrubina El tiempo de protrombina: Mide el tiempo que tarda en coagular la sangre. El hígado produce la protrombina</dc:description>
+<dc:description xml:lang="en">Your liver helps your body digest food, store energy, and remove poisons. Liver function tests are blood tests that check to see how well your liver is working. They check for liver damage, and can help diagnose liver diseases such as hepatitis and cirrhosis. You may have liver function tests as part of a regular checkup. Or you may have them if you have symptoms of liver disease. Doctors also use the tests to monitor some liver diseases, treatments, and possible side effects of medicines. Liver function tests measure certain proteins, enzymes, and substances, including: Albumin, a protein that the liver makes Total protein (TP) Enzymes that are found in the liver, including alanine transaminase (ALT), aspartate transaminase (AST), alkaline phosphatase (ALP), and gamma-glutamyl transpeptidase (GGT) Bilirubin, a yellow substance that is part of bile. It is formed when your red blood cells break down. Too much bilirubin in the blood can cause jaundice. There is also a urine test for bilirubin. Prothrombin time, which measures how long it takes for your blood to clot. Prothrombin is made by the liver.</dc:description>
+<dc:subject dcterms="mesh">Liver Function Tests</dc:subject>
+<dc:subject xml:lang="es">Pruebas y exámenes de función hepática</dc:subject>
+<dc:subject xml:lang="es">Hígado</dc:subject>
+<dc:subject xml:lang="es">Exámenes</dc:subject>
+<dc:subject xml:lang="en">Liver Function Tests</dc:subject>
+<dc:subject xml:lang="en">Hepatic Function Panel</dc:subject>
+</metadata>
+</record>
+</MedlinePlus-document>

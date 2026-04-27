@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<MedlinePlus-document>
+<record>
+<header>
+<identifier>https://medlineplus.gov/tumorsandpregnancy.html</identifier>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title type="alternate" xml:lang="es">Embarazo y cáncer</dc:title>
+<dc:title type="alternate" xml:lang="es">Embarazo, Tumor</dc:title>
+<dc:title type="alternate" xml:lang="es">Cáncer en el embarazo</dc:title>
+<dc:title type="alternate" xml:lang="en">Molar Pregnancy</dc:title>
+<dc:title type="alternate" xml:lang="en">Gestational Trophoblastic Disease</dc:title>
+<dc:title type="alternate" xml:lang="en">Cancer and Pregnancy</dc:title>
+<dc:type>Text</dc:type>
+<dc:language>spa</dc:language>
+<dc:language>eng</dc:language>
+<dc:title xml:lang="es">Tumores durante el embarazo</dc:title>
+<dc:title xml:lang="en">Tumors and Pregnancy</dc:title>
+<dc:publisher>National Library of Medicine</dc:publisher>
+<dc:relation type="IsPartOf">Pregnancy and Reproduction</dc:relation>
+<dc:relation type="IsPartOf">Cancers</dc:relation>
+<dc:date type="created">2010-06-21</dc:date>
+<dc:date type="modified">2017-05-31</dc:date>
+<dc:identifier type="URL" xml:lang="es">https://medlineplus.gov/spanish/tumorsandpregnancy.html</dc:identifier>
+<dc:identifier type="URL" xml:lang="en">https://medlineplus.gov/tumorsandpregnancy.html</dc:identifier>
+<dc:description xml:lang="es">Los tumores durante el embarazo son raros, pero suceden. Los tumores pueden ser benignos o malignos. Los tumores benignos no son cáncer. Los malignos sí. Los cánceres más comunes en el embarazo son el de mama, de cuello uterino, linfoma y melanoma. El cáncer raras veces afecta al feto y algunos tratamientos son seguros durante el embarazo. Usted y su médico buscarán el mejor tratamiento. Sus opciones dependerán de cuán avanzado esté su embarazo, así como también el tipo, tamaño y estadio del cáncer. Otro tipo de tumor es la enfermedad trofoblástica de la gestación. Esto sucede cuando el feto no se desarrolla luego de la unión del óvulo y del esperma. Esta enfermedad no siempre es fácil de detectar. Generalmente es benigno pero algunos tipos pueden ser malignos. El tipo más común de la enfermedad trofoblástica de la gestación es el embarazo molar. En sus estadios más tempranos, puede parecer como un embarazo normal. Deber ver a su proveedor de cuidados de salud si tiene sangrado vaginal (no menstruación). El tratamiento depende el tipo de tumor, si se diseminó a otros lugares y su estado de salud general.</dc:description>
+<dc:description xml:lang="en">Tumors during pregnancy are rare, but they can happen. Tumors can be either benign or malignant. Benign tumors aren't cancer. Malignant ones are. The most common cancers in pregnancy are breast cancer, cervical cancer, lymphoma, and melanoma. Cancer itself rarely harms the baby, and some cancer treatments are safe during pregnancy. You and your health care provider will work together to find the best treatment. Your options will depend on how far along the pregnancy is, as well as the type, size, and stage of your cancer. Another type of tumor that women can get is called a gestational trophoblastic disease (GTD). It happens when a fertilized egg doesn't become a fetus. GTD is not always easy to find. It is usually benign, but some types can be malignant. The most common type of GTD is a molar pregnancy. In its early stages, it may look like a normal pregnancy. You should see your health care provider if you have vaginal bleeding (not menstrual bleeding). Treatment depends on the type of tumor, whether it has spread to other places, and your overall health.</dc:description>
+<dc:subject dcterms="mesh">Pregnancy</dc:subject>
+<dc:subject dcterms="mesh">Pregnancy Complications</dc:subject>
+<dc:subject dcterms="mesh">Neoplasms</dc:subject>
+<dc:subject dcterms="mesh">Pregnancy Complications, Neoplastic</dc:subject>
+<dc:subject xml:lang="es">Tumores durante el embarazo</dc:subject>
+<dc:subject xml:lang="es">Embarazo y cáncer</dc:subject>
+<dc:subject xml:lang="es">Embarazo</dc:subject>
+<dc:subject xml:lang="es">Tumor</dc:subject>
+<dc:subject xml:lang="es">Cáncer en el embarazo</dc:subject>
+<dc:subject xml:lang="en">Tumors and Pregnancy</dc:subject>
+<dc:subject xml:lang="en">Molar Pregnancy</dc:subject>
+<dc:subject xml:lang="en">Gestational Trophoblastic Disease</dc:subject>
+<dc:subject xml:lang="en">Cancer and Pregnancy</dc:subject>
+</metadata>
+</record>
+</MedlinePlus-document>

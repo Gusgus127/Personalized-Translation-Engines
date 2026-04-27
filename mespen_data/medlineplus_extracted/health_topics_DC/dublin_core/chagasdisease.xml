@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<MedlinePlus-document>
+<record>
+<header>
+<identifier>https://medlineplus.gov/chagasdisease.html</identifier>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title type="alternate" xml:lang="es">Chagas, Enfermedad de</dc:title>
+<dc:title type="alternate" xml:lang="es">Mal de Chagas</dc:title>
+<dc:title type="alternate" xml:lang="es">Chagas, Mal de</dc:title>
+<dc:title type="alternate" xml:lang="en">South American Trypanosomiasis</dc:title>
+<dc:type>Text</dc:type>
+<dc:language>spa</dc:language>
+<dc:language>eng</dc:language>
+<dc:title xml:lang="es">Enfermedad de Chagas</dc:title>
+<dc:title xml:lang="en">Chagas Disease</dc:title>
+<dc:publisher>National Library of Medicine</dc:publisher>
+<dc:relation type="IsPartOf">Infections</dc:relation>
+<dc:date type="created">2003-12-09</dc:date>
+<dc:date type="modified">2017-05-31</dc:date>
+<dc:identifier type="URL" xml:lang="es">https://medlineplus.gov/spanish/chagasdisease.html</dc:identifier>
+<dc:identifier type="URL" xml:lang="en">https://medlineplus.gov/chagasdisease.html</dc:identifier>
+<dc:description xml:lang="es">La enfermedad de Chagas es causada por un parásito. Es común en América Latina pero no en los Estados Unidos. Es diseminada por insectos hematófagos (que se alimentan de sangre) infectados, conocidos como vinchucas (o "chinche gaucha", "chinche besucona", "chupadora", "voladora", "barbeiros", "chipos"). Cuando un insecto lo pica, generalmente en el rostro, deja excrementos infectados. La infección puede producirse al frotarse los ojos o la nariz, en la herida de la picadura o una cortadura. La enfermedad también puede diseminarse a través de los alimentos contaminados, una transfusión de sangre, un órgano donado o de madre a hijo durante el embarazo. Lo que usted puede sentir incluye: Fiebre Síntomas gripales Erupción cutánea Párpado inflamado Estos síntomas tempranos suelen desaparecer espontáneamente. Sin embargo, si no se trata, la infección queda en su cuerpo. Más adelante puede causar problemas intestinales y cardíacos serios. Un examen físico y de sangre puede diagnosticar la enfermedad. También pueden ser necesarios otros exámenes para determinar si la enfermedad ha afectado sus intestinos o corazón. Las medicinas pueden matar el parásito, especialmente en etapas iniciales. También pueden tratarse los problemas relacionados. Por ejemplo, un marcapasos puede ayudar en algunas complicaciones cardíacas. No existen vacunas o medicamentos para prevenir la enfermedad de Chagas. Si viaja a zonas afectadas, usted está en mayor riesgo si duerme al aire libre o en viviendas en mala condición. Es importante usar insecticidas para prevenir las picaduras, y la práctica de la seguridad con los alimentos. Centros para el Control y la Prevención de Enfermedades</dc:description>
+<dc:description xml:lang="en">Chagas disease is caused by a parasite. It is common in Latin America but not in the United States. Infected blood-sucking bugs, sometimes called kissing bugs, spread it. When the bug bites you, usually on your face, it leaves behind infected waste. You can get the infection if you rub it in your eyes or nose, the bite wound or a cut. The disease can also spread through contaminated food, a blood transfusion, a donated organ or from mother to baby during pregnancy. If you notice symptoms, they might include Fever Flu-like symptoms A rash A swollen eyelid These early symptoms usually go away. However, if you don't treat the infection, it stays in your body. Later, it can cause serious intestinal and heart problems. A physical exam and blood tests can diagnose it. You may also need tests to see whether the disease has affected your intestines and heart. Medicines can kill the parasite, especially early on. You can also treat related problems. For example, a pacemaker helps with certain heart complications. There are no vaccines or medicines to prevent Chagas disease. If you travel to areas where it occurs, you are at higher risk if you sleep outdoors or in poor housing conditions. It is important to use insecticides to prevent bites, and practice food safety. Centers for Disease Control and Prevention</dc:description>
+<dc:subject dcterms="mesh">Chagas Disease</dc:subject>
+<dc:subject xml:lang="es">Enfermedad de Chagas</dc:subject>
+<dc:subject xml:lang="es">Chagas</dc:subject>
+<dc:subject xml:lang="es">Enfermedad de</dc:subject>
+<dc:subject xml:lang="es">Mal de Chagas</dc:subject>
+<dc:subject xml:lang="es">Chagas</dc:subject>
+<dc:subject xml:lang="es">Mal de</dc:subject>
+<dc:subject xml:lang="en">Chagas Disease</dc:subject>
+<dc:subject xml:lang="en">South American Trypanosomiasis</dc:subject>
+</metadata>
+</record>
+</MedlinePlus-document>

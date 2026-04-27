@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<MedlinePlus-document>
+<record>
+<header>
+<identifier>https://medlineplus.gov/phenylketonuria.html</identifier>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title type="alternate" xml:lang="es">FCU</dc:title>
+<dc:title type="alternate" xml:lang="en">PKU</dc:title>
+<dc:type>Text</dc:type>
+<dc:language>spa</dc:language>
+<dc:language>eng</dc:language>
+<dc:title xml:lang="es">Fenilcetonuria</dc:title>
+<dc:title xml:lang="en">Phenylketonuria</dc:title>
+<dc:publisher>National Library of Medicine</dc:publisher>
+<dc:relation type="IsPartOf">Metabolic Problems</dc:relation>
+<dc:relation type="IsPartOf">Genetics/Birth Defects</dc:relation>
+<dc:relation type="IsPartOf">Brain and Nerves</dc:relation>
+<dc:date type="created">2002-07-21</dc:date>
+<dc:date type="modified">2017-05-25</dc:date>
+<dc:identifier type="URL" xml:lang="es">https://medlineplus.gov/spanish/phenylketonuria.html</dc:identifier>
+<dc:identifier type="URL" xml:lang="en">https://medlineplus.gov/phenylketonuria.html</dc:identifier>
+<dc:description xml:lang="es">La fenilcetonuria (PKU, por sus siglas en inglés y FCU por sus siglas en español) es un trastorno genético en el cual el organismo no puede procesar parte de una proteína llamada fenilalanina (Phe, por sus siglas en inglés y PAH por sus siglas en español). La fenilalanina se encuentra en casi todos los alimentos. Cuando los niveles de fenilalanina suben demasiado, esta proteína puede dañar el cerebro y causar una discapacidad intelectual grave. En la actualidad, todos los bebés que nacen en hospitales de los Estados Unidos deben someterse a una evaluación para detectar la fenilcetonuria. Esto facilita el diagnóstico y el tratamiento temprano. El mejor tratamiento para la FCU es una dieta con alimentos con baja cantidad de proteínas. Existen leches con fórmulas especiales para los recién nacidos. En el caso de los niños mayores y los adultos la dieta incluye muchas frutas y vegetales. También incluye algunos panes, pastas y cereales con bajo nivel de proteínas. Unos preparados especiales que se usan como complemento nutricional suministran las vitaminas y los minerales que no pueden obtenerse por medio de la comida. Los bebés que reciben esta dieta especial poco tiempo después de su nacimiento se desarrollan normalmente. Muchos no tienen síntomas de FCU. Es importante que continúen con esta dieta por el resto de sus vidas. NIH: Instituto Nacional de Salud Infantil y Desarrollo Humano</dc:description>
+<dc:description xml:lang="en">Phenylketonuria (PKU) is a type of amino acid metabolism disorder. It is inherited. If you have it, your body can't process part of a protein called phenylalanine (Phe). Phe is in almost all foods. If your Phe level gets too high, it can damage your brain and cause severe intellectual disability. All babies born in U.S. hospitals must now have a screening test for PKU. This makes it easier to diagnose and treat the problem early. The best treatment for PKU is a diet of low-protein foods. There are special formulas for newborns. For older children and adults, the diet includes many fruits and vegetables. It also includes some low-protein breads, pastas and cereals. Nutritional formulas provide the vitamins and minerals you can't get from their food. Babies who get on this special diet soon after they are born develop normally. Many have no symptoms of PKU. It is important to stay on the diet for the rest of your life. NIH: National Institute of Child Health and Human Development</dc:description>
+<dc:subject dcterms="mesh">Phenylketonurias</dc:subject>
+<dc:subject xml:lang="es">Fenilcetonuria</dc:subject>
+<dc:subject xml:lang="es">FCU</dc:subject>
+<dc:subject xml:lang="en">Phenylketonuria</dc:subject>
+<dc:subject xml:lang="en">PKU</dc:subject>
+</metadata>
+</record>
+</MedlinePlus-document>

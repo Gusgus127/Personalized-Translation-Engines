@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<MedlinePlus-document>
+<record>
+<header>
+<identifier>https://medlineplus.gov/movementdisorders.html</identifier>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title type="alternate" xml:lang="es">Movimiento, Trastorno de</dc:title>
+<dc:title type="alternate" xml:lang="es">Machado-Joseph, Enfermedad de</dc:title>
+<dc:title type="alternate" xml:lang="es">Mioclonos</dc:title>
+<dc:title type="alternate" xml:lang="es">Tics nerviosos</dc:title>
+<dc:title type="alternate" xml:lang="en">Ataxia</dc:title>
+<dc:title type="alternate" xml:lang="en">Chorea</dc:title>
+<dc:title type="alternate" xml:lang="en">Dyskinesia</dc:title>
+<dc:title type="alternate" xml:lang="en">Tardive Dyskinesia</dc:title>
+<dc:type>Text</dc:type>
+<dc:language>spa</dc:language>
+<dc:language>eng</dc:language>
+<dc:title xml:lang="es">Trastornos del movimiento</dc:title>
+<dc:title xml:lang="en">Movement Disorders</dc:title>
+<dc:publisher>National Library of Medicine</dc:publisher>
+<dc:relation type="IsPartOf">Bones, Joints and Muscles</dc:relation>
+<dc:relation type="IsPartOf">Brain and Nerves</dc:relation>
+<dc:date type="created">2002-07-21</dc:date>
+<dc:date type="modified">2018-01-29</dc:date>
+<dc:identifier type="URL" xml:lang="es">https://medlineplus.gov/spanish/movementdisorders.html</dc:identifier>
+<dc:identifier type="URL" xml:lang="en">https://medlineplus.gov/movementdisorders.html</dc:identifier>
+<dc:description xml:lang="es">Imagínese que partes de su cuerpo se muevan cuando usted no desea que lo hagan. Si tiene un trastorno del movimiento, usted experimenta estos tipos de alteraciones. La discinesia es el movimiento anormal e incontrolado y es un síntoma común de muchos trastornos del movimiento. Los temblores son un tipo de discinesia. Las enfermedades neurológicas causan muchos trastornos del movimiento, como en el caso de la enfermedad de Parkinson. Otras causas incluyen lesiones, enfermedades autoinmunes, infecciones y algunas medicinas. Muchos trastornos del movimiento son hereditarios, lo que significa que tienen una tendencia familiar. El tratamiento varía según el trastorno. La medicina puede curar algunos de ellos. Otros, mejoran cuando se trata la enfermedad subyacente. Sin embargo, con frecuencia no hay una cura. En ese caso, el objetivo del tratamiento es mejorar los síntomas y aliviar el dolor.</dc:description>
+<dc:description xml:lang="en">Imagine if parts of your body moved when you didn't want them to. If you have a movement disorder, you experience these kinds of impaired movement. Dyskinesia is abnormal uncontrolled movement and is a common symptom of many movement disorders. Tremors are a type of dyskinesia. Nerve diseases cause many movement disorders, such as Parkinson's disease. Other causes include injuries, autoimmune diseases, infections and certain medicines. Many movement disorders are inherited, which means they run in families. Treatment varies by disorder. Medicine can cure some disorders. Others get better when an underlying disease is treated. Often, however, there is no cure. In that case, the goal of treatment is to improve symptoms and relieve pain.</dc:description>
+<dc:subject dcterms="mesh">Movement Disorders</dc:subject>
+<dc:subject xml:lang="es">Trastornos del movimiento</dc:subject>
+<dc:subject xml:lang="es">Movimiento</dc:subject>
+<dc:subject xml:lang="es">Trastorno de</dc:subject>
+<dc:subject xml:lang="es">Machado-Joseph</dc:subject>
+<dc:subject xml:lang="es">Enfermedad de</dc:subject>
+<dc:subject xml:lang="es">Mioclonos</dc:subject>
+<dc:subject xml:lang="es">Tics nerviosos</dc:subject>
+<dc:subject xml:lang="en">Movement Disorders</dc:subject>
+<dc:subject xml:lang="en">Ataxia</dc:subject>
+<dc:subject xml:lang="en">Chorea</dc:subject>
+<dc:subject xml:lang="en">Dyskinesia</dc:subject>
+<dc:subject xml:lang="en">Tardive Dyskinesia</dc:subject>
+</metadata>
+</record>
+</MedlinePlus-document>

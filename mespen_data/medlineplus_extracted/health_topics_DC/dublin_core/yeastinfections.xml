@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<MedlinePlus-document>
+<record>
+<header>
+<identifier>https://medlineplus.gov/yeastinfections.html</identifier>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title type="alternate" xml:lang="es">Aftas</dc:title>
+<dc:title type="alternate" xml:lang="es">Candidiasis</dc:title>
+<dc:title type="alternate" xml:lang="es">Vagina, Infección por hongo</dc:title>
+<dc:title type="alternate" xml:lang="en">Thrush</dc:title>
+<dc:title type="alternate" xml:lang="en">Candidiasis</dc:title>
+<dc:title type="alternate" xml:lang="en">Moniliasis</dc:title>
+<dc:title type="alternate" xml:lang="en">Vaginal Yeast Infection</dc:title>
+<dc:type>Text</dc:type>
+<dc:language>spa</dc:language>
+<dc:language>eng</dc:language>
+<dc:title xml:lang="es">Infecciones por cándida</dc:title>
+<dc:title xml:lang="en">Yeast Infections</dc:title>
+<dc:publisher>National Library of Medicine</dc:publisher>
+<dc:relation type="IsPartOf">Mouth and Teeth</dc:relation>
+<dc:relation type="IsPartOf">Infections</dc:relation>
+<dc:relation type="IsPartOf">Female Reproductive System</dc:relation>
+<dc:date type="created">2002-07-21</dc:date>
+<dc:date type="modified">2018-02-05</dc:date>
+<dc:identifier type="URL" xml:lang="es">https://medlineplus.gov/spanish/yeastinfections.html</dc:identifier>
+<dc:identifier type="URL" xml:lang="en">https://medlineplus.gov/yeastinfections.html</dc:identifier>
+<dc:description xml:lang="es">Cándida es el nombre científico de una levadura. Es un hongo que vive en casi todas partes, incluso dentro de su cuerpo. Por lo general, el sistema inmunitario mantiene los hongos bajo control. Si está enfermo o toma antibióticos, pueden multiplicarse y causar una infección. Las infecciones por cándida afectan distintas partes del cuerpo de distintas maneras: El muguet o candidiasis oral es una infección por hongos que causa manchas blancas en la boca La esofagitis por cándida es muguet que se disemina hacia el esófago, el tubo que lleva la comida desde la boca hacia el estómago. Provoca dolor o dificultades para tragar Las mujeres pueden tener infecciones vaginales por cándida, lo que causa vaginitis Las infecciones en la piel por cándida causan picazón y erupciones cutáneas La candidiasis en la sangre puede poner la vida en peligro Los antimicóticos pueden eliminar las infecciones por cándida en la mayoría de las personas. Si tiene un sistema inmunitario debilitado, el tratamiento puede ser más difícil.</dc:description>
+<dc:description xml:lang="en">Candida is the scientific name for yeast. It is a fungus that lives almost everywhere, including in your body. Usually, your immune system keeps yeast under control. If you are sick or taking antibiotics, it can multiply and cause an infection. Yeast infections affect different parts of the body in different ways: Thrush is a yeast infection that causes white patches in your mouth Candida esophagitis is thrush that spreads to your esophagus, the tube that takes food from your mouth to your stomach. It can make it hard or painful to swallow. Women can get vaginal yeast infections, causing vaginitis Yeast infections of the skin cause itching and rashes Yeast infections in your bloodstream can be life-threatening Antifungal medicines get rid of yeast infections in most people. If you have a weak immune system, treatment might be more difficult.</dc:description>
+<dc:subject dcterms="mesh">Candidiasis</dc:subject>
+<dc:subject xml:lang="es">Infecciones por cándida</dc:subject>
+<dc:subject xml:lang="es">Aftas</dc:subject>
+<dc:subject xml:lang="es">Candidiasis</dc:subject>
+<dc:subject xml:lang="es">Vagina</dc:subject>
+<dc:subject xml:lang="es">Infección por hongo</dc:subject>
+<dc:subject xml:lang="en">Yeast Infections</dc:subject>
+<dc:subject xml:lang="en">Thrush</dc:subject>
+<dc:subject xml:lang="en">Candidiasis</dc:subject>
+<dc:subject xml:lang="en">Moniliasis</dc:subject>
+<dc:subject xml:lang="en">Vaginal Yeast Infection</dc:subject>
+</metadata>
+</record>
+</MedlinePlus-document>

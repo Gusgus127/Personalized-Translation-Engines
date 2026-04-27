@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<MedlinePlus-document>
+<record>
+<header>
+<identifier>https://medlineplus.gov/tinnitus.html</identifier>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title type="alternate" xml:lang="es">Ruido en los oídos</dc:title>
+<dc:title type="alternate" xml:lang="es">Oídos, Ruido en los</dc:title>
+<dc:type>Text</dc:type>
+<dc:language>spa</dc:language>
+<dc:language>eng</dc:language>
+<dc:title xml:lang="es">Tinnitus</dc:title>
+<dc:title xml:lang="en">Tinnitus</dc:title>
+<dc:publisher>National Library of Medicine</dc:publisher>
+<dc:relation type="IsPartOf">Ear, Nose and Throat</dc:relation>
+<dc:date type="created">2002-07-21</dc:date>
+<dc:date type="modified">2017-09-22</dc:date>
+<dc:identifier type="URL" xml:lang="es">https://medlineplus.gov/spanish/tinnitus.html</dc:identifier>
+<dc:identifier type="URL" xml:lang="en">https://medlineplus.gov/tinnitus.html</dc:identifier>
+<dc:description xml:lang="es">El tinnitus se describe a menudo como un zumbido en los oídos. También puede sonar como rumor, un cliqueo, silbido o zumbido. Puede ser suave o fuerte, agudo o bajo. Usted puede escucharlo en uno o ambos oídos. Millones de estadounidenses tienen tinnitus. Las personas con tinnitus severo pueden tener dificultad para oír, trabajar o incluso dormir. Las causas de tinnitus incluyen: Pérdida de la audición en las personas mayores Exposición a ruidos fuertes Infecciones del oído y los senos paranasales Problemas cardiacos o vasculares Enfermedad de Ménière Tumores cerebrales Cambios hormonales en las mujeres Problemas de tiroides Ciertos medicamentos El tratamiento depende de la causa. Puede incluir el uso de audífonos, dispositivos que enmascaran los ruidos, medicinas y aprender maneras para lidiar con el ruido. NIH: Instituto Nacional de la Sordera y otros Trastornos de la Comunicación</dc:description>
+<dc:description xml:lang="en">Tinnitus is often described as a ringing in the ears. It also can sound like roaring, clicking, hissing, or buzzing. It may be soft or loud, high pitched or low pitched. You might hear it in either one or both ears. Millions of Americans have tinnitus. People with severe tinnitus may have trouble hearing, working or even sleeping. Causes of tinnitus include Hearing loss in older people Exposure to loud noises Ear and sinus infections Heart or blood vessel problems Meniere's disease Brain tumors Hormonal changes in women Thyroid problems Certain medicines Treatment depends on the cause. Treatments may include hearing aids, sound-masking devices, medicines, and ways to learn how to cope with the noise. NIH: National Institute on Deafness and Other Communication Disorders</dc:description>
+<dc:subject dcterms="mesh">Tinnitus</dc:subject>
+<dc:subject xml:lang="es">Tinnitus</dc:subject>
+<dc:subject xml:lang="es">Ruido en los oídos</dc:subject>
+<dc:subject xml:lang="es">Oídos</dc:subject>
+<dc:subject xml:lang="es">Ruido en los</dc:subject>
+<dc:subject xml:lang="en">Tinnitus</dc:subject>
+</metadata>
+</record>
+</MedlinePlus-document>

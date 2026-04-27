@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<MedlinePlus-document>
+<record>
+<header>
+<identifier>https://medlineplus.gov/volcanoes.html</identifier>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:type>Text</dc:type>
+<dc:language>spa</dc:language>
+<dc:language>eng</dc:language>
+<dc:title xml:lang="es">Volcanes</dc:title>
+<dc:title xml:lang="en">Volcanoes</dc:title>
+<dc:publisher>National Library of Medicine</dc:publisher>
+<dc:relation type="IsPartOf">Disasters</dc:relation>
+<dc:date type="created">2008-06-25</dc:date>
+<dc:date type="modified">2017-09-08</dc:date>
+<dc:identifier type="URL" xml:lang="es">https://medlineplus.gov/spanish/volcanoes.html</dc:identifier>
+<dc:identifier type="URL" xml:lang="en">https://medlineplus.gov/volcanoes.html</dc:identifier>
+<dc:description xml:lang="es">Un volcán es una abertura en la corteza terrestre. Cuando un volcán hace erupción, salen a la superficie terrestre rocas calientes, vapor, gases tóxicos y cenizas. Una erupción también puede causar terremotos, flujos de lodo e inundaciones repentinas, caídas de rocas y deslizamientos de tierra, lluvia ácida, incendios, y hasta tsunamis. El gas y las cenizas provenientes del volcán pueden lesionar los pulmones de los niños pequeños, los ancianos y las personas con enfermedades respiratorias graves. Las cenizas volcánicas pueden afectar a personas que se encuentren a cientos de millas del lugar de la erupción. Aunque no hay garantías de seguridad durante una erupción volcánica, usted puede tomar medidas para protegerse. Debe tener un plan de acción para casos de desastres. El estar preparado puede ayudar a reducir el miedo, la ansiedad y las pérdidas. Si usted experimenta un desastre, es normal sentirse estresado. Es probable que necesite ayuda para superarlo. Agencia Federal para el Manejo de Emergencias</dc:description>
+<dc:description xml:lang="en">A volcano is a vent in the Earth's crust. Hot rock, steam, poisonous gases, and ash reach the Earth's surface when a volcano erupts. An eruption can also cause earthquakes, mudflows and flash floods, rock falls and landslides, acid rain, fires, and even tsunamis. Volcanic gas and ash can damage the lungs of small infants, older adults, and people with severe respiratory illnesses. Volcanic ash can affect people hundreds of miles away from the eruption. Although there are no guarantees of safety during a volcanic eruption, you can take actions to protect yourself. You should have a disaster plan. Being prepared can help reduce fear, anxiety, and losses. If you do experience a disaster, it is normal to feel stressed. You may need help in finding ways to cope. Federal Emergency Management Agency</dc:description>
+<dc:subject dcterms="mesh">Volcanic Eruptions</dc:subject>
+<dc:subject xml:lang="es">Volcanes</dc:subject>
+<dc:subject xml:lang="en">Volcanoes</dc:subject>
+<dc:subject xml:lang="en">Natural Disasters</dc:subject>
+</metadata>
+</record>
+</MedlinePlus-document>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<MedlinePlus-document>
+<record>
+<header>
+<identifier>https://medlineplus.gov/thyroiddiseases.html</identifier>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title type="alternate" xml:lang="es">Tiroides, Enfermedades de la</dc:title>
+<dc:title type="alternate" xml:lang="es">Tiroiditis</dc:title>
+<dc:title type="alternate" xml:lang="es">Nódulos en la tiroides</dc:title>
+<dc:title type="alternate" xml:lang="es">Bocio</dc:title>
+<dc:title type="alternate" xml:lang="en">Goiter</dc:title>
+<dc:type>Text</dc:type>
+<dc:language>spa</dc:language>
+<dc:language>eng</dc:language>
+<dc:title xml:lang="es">Enfermedades de la tiroides</dc:title>
+<dc:title xml:lang="en">Thyroid Diseases</dc:title>
+<dc:publisher>National Library of Medicine</dc:publisher>
+<dc:relation type="IsPartOf">Endocrine System</dc:relation>
+<dc:date type="created">2002-07-21</dc:date>
+<dc:date type="modified">2017-11-13</dc:date>
+<dc:identifier type="URL" xml:lang="es">https://medlineplus.gov/spanish/thyroiddiseases.html</dc:identifier>
+<dc:identifier type="URL" xml:lang="en">https://medlineplus.gov/thyroiddiseases.html</dc:identifier>
+<dc:description xml:lang="es">La tiroides es una glándula en forma de mariposa ubicada en el cuello, justo arriba de la clavícula. Es una de las glándulas endocrinas que producen hormonas. Las hormonas tiroideas controlan el ritmo de muchas actividades del cuerpo. Estas incluyen la velocidad con la que se queman calorías y cuán rápido late el corazón. Todas estas actividades componen el metabolismo del cuerpo. Los problemas tiroideos incluyen: Bocio: Agrandamiento de la tiroides Hipertiroidismo: Cuando la glándula tiroides produce más hormona tiroidea de lo que su cuerpo necesita Hipotiroidismo: Cuando la glándula tiroides no produce suficiente hormona tiroidea Cáncer de tiroides Nódulos: Bultos en la tiroides Tiroiditis: Hinchazón de la tiroides Para el diagnóstico de enfermedades de la tiroides, los médicos usan su historia clínica, un examen físico y pruebas para la tiroides. A veces también utilizan una biopsia. El tratamiento depende del problema, pero puede incluir medicamentos, terapia con yodo radiactivo o cirugía de tiroides. Oficina para la Salud de la Mujer en el Departamento de Salud y Servicios Humanos de los EE. UU.</dc:description>
+<dc:description xml:lang="en">Your thyroid is a butterfly-shaped gland in your neck, just above your collarbone. It is one of your endocrine glands, which make hormones. Thyroid hormones control the rate of many activities in your body. These include how fast you burn calories and how fast your heart beats. All of these activities are your body's metabolism. Thyroid problems include Goiter - enlargement of the thyroid gland Hyperthyroidism - when your thyroid gland makes more thyroid hormones than your body needs Hypothyroidism - when your thyroid gland does not make enough thyroid hormones Thyroid cancer Thyroid nodules - lumps in the thyroid gland Thyroiditis - swelling of the thyroid To diagnose thyroid diseases, doctors use a medical history, physical exam, and thyroid tests. They sometimes also use a biopsy. Treatment depends on the problem, but may include medicines, radioiodine therapy, or thyroid surgery. Dept. of Health and Human Services Office on Women's Health</dc:description>
+<dc:subject dcterms="mesh">Thyroid Diseases</dc:subject>
+<dc:subject xml:lang="es">Enfermedades de la tiroides</dc:subject>
+<dc:subject xml:lang="es">Tiroides</dc:subject>
+<dc:subject xml:lang="es">Enfermedades de la</dc:subject>
+<dc:subject xml:lang="es">Tiroiditis</dc:subject>
+<dc:subject xml:lang="es">Nódulos en la tiroides</dc:subject>
+<dc:subject xml:lang="es">Bocio</dc:subject>
+<dc:subject xml:lang="en">Thyroid Diseases</dc:subject>
+<dc:subject xml:lang="en">Goiter</dc:subject>
+</metadata>
+</record>
+</MedlinePlus-document>

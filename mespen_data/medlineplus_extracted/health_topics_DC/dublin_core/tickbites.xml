@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<MedlinePlus-document>
+<record>
+<header>
+<identifier>https://medlineplus.gov/tickbites.html</identifier>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title type="alternate" xml:lang="es">Garrapatas, Picaduras de</dc:title>
+<dc:title type="alternate" xml:lang="en">Ehrlichiosis</dc:title>
+<dc:title type="alternate" xml:lang="en">Tularemia</dc:title>
+<dc:title type="alternate" xml:lang="en">Rocky Mountain Spotted Fever</dc:title>
+<dc:title type="alternate" xml:lang="en">Colorado Tick Fever</dc:title>
+<dc:title type="alternate" xml:lang="en">Tickborne Diseases</dc:title>
+<dc:title type="alternate" xml:lang="en">Babesiosis</dc:title>
+<dc:type>Text</dc:type>
+<dc:language>spa</dc:language>
+<dc:language>eng</dc:language>
+<dc:title xml:lang="es">Picaduras de garrapatas</dc:title>
+<dc:title xml:lang="en">Tick Bites</dc:title>
+<dc:publisher>National Library of Medicine</dc:publisher>
+<dc:relation type="IsPartOf">Injuries and Wounds</dc:relation>
+<dc:relation type="IsPartOf">Infections</dc:relation>
+<dc:relation type="IsPartOf">Skin, Hair and Nails</dc:relation>
+<dc:date type="created">2002-07-21</dc:date>
+<dc:date type="modified">2017-09-29</dc:date>
+<dc:identifier type="URL" xml:lang="es">https://medlineplus.gov/spanish/tickbites.html</dc:identifier>
+<dc:identifier type="URL" xml:lang="en">https://medlineplus.gov/tickbites.html</dc:identifier>
+<dc:description xml:lang="es">Si pasa el tiempo en espacios abiertos o tiene mascotas que salen, tiene que mantenerse alerta contra las garrapatas. Son pequeños parásitos hematófagos (que chupan sangre). Muchas especies transmiten enfermedades a los animales y las personas. Algunas de las enfermedades transmitidas por picaduras de garrapata son la enfermedad de Lyme, ehrlichiosis, fiebre de las montañas rocallosas y tularemia. Algunas garrapatas son tan pequeñas que pueden ser difíciles de ver. Suelen aparecer si camina en las áreas donde viven, como pasturas altas, restos de hojas acumuladas o arbustos. Las enfermedades transmitidas por las garrapatas ocurren en todo el mundo, inclusive en nuestros propios jardines. Para protegerse y proteger a su familia, debe: Usar un repelente químico con DEET, permetrina o picaridina Usar ropa protectora de colores claros Colocarse los extremos de los pantalones dentro de los calcetines Evitar zonas infestadas con garrapatas Revisarse y revisar a sus hijos y mascotas diariamente buscando las garrapatas y quitarse cuidadosamente todas las que encuentre</dc:description>
+<dc:description xml:lang="en">If you spend time outdoors or have pets that go outdoors, you need to beware of ticks. Ticks are small bloodsucking parasites. Many species transmit diseases to animals and people. Some of the diseases you can get from a tick bite are Lyme disease, ehrlichiosis, Rocky Mountain spotted fever and tularemia. Some ticks are so small that they can be difficult to see. Ticks may get on you if you walk through areas where they live, such as tall grass, leaf litter or shrubs. Tick-borne diseases occur worldwide, including in your own backyard. To help protect yourself and your family, you should Use a chemical repellent with DEET, permethrin or picaridin Wear light-colored protective clothing Tuck pant legs into socks Avoid tick-infested areas Check yourself, your children and your pets daily for ticks and carefully remove any ticks you find</dc:description>
+<dc:subject dcterms="mesh">Tick Bites</dc:subject>
+<dc:subject dcterms="mesh">Tick-Borne Diseases</dc:subject>
+<dc:subject xml:lang="es">Picaduras de garrapatas</dc:subject>
+<dc:subject xml:lang="es">Garrapatas</dc:subject>
+<dc:subject xml:lang="es">Picaduras de</dc:subject>
+<dc:subject xml:lang="en">Tick Bites</dc:subject>
+<dc:subject xml:lang="en">Ehrlichiosis</dc:subject>
+<dc:subject xml:lang="en">Tularemia</dc:subject>
+<dc:subject xml:lang="en">Rocky Mountain Spotted Fever</dc:subject>
+<dc:subject xml:lang="en">Colorado Tick Fever</dc:subject>
+<dc:subject xml:lang="en">Tickborne Diseases</dc:subject>
+<dc:subject xml:lang="en">Babesiosis</dc:subject>
+</metadata>
+</record>
+</MedlinePlus-document>

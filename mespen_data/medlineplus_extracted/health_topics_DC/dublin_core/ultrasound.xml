@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<MedlinePlus-document>
+<record>
+<header>
+<identifier>https://medlineplus.gov/ultrasound.html</identifier>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title type="alternate" xml:lang="es">Ultrasonido</dc:title>
+<dc:title type="alternate" xml:lang="en">Echocardiography</dc:title>
+<dc:title type="alternate" xml:lang="en">Sonogram</dc:title>
+<dc:type>Text</dc:type>
+<dc:language>spa</dc:language>
+<dc:language>eng</dc:language>
+<dc:title xml:lang="es">Ecografía</dc:title>
+<dc:title xml:lang="en">Ultrasound</dc:title>
+<dc:publisher>National Library of Medicine</dc:publisher>
+<dc:relation type="IsPartOf">Diagnostic Tests</dc:relation>
+<dc:date type="created">2005-01-06</dc:date>
+<dc:date type="modified">2018-02-07</dc:date>
+<dc:identifier type="URL" xml:lang="es">https://medlineplus.gov/spanish/ultrasound.html</dc:identifier>
+<dc:identifier type="URL" xml:lang="en">https://medlineplus.gov/ultrasound.html</dc:identifier>
+<dc:description xml:lang="es">La ecografía o ultrasonido es un tipo de imagen. Utiliza ondas sonoras de alta frecuencia para observar órganos y estructuras al interior del cuerpo. Los profesionales de la salud los usan para ver el corazón, los vasos sanguíneos, los riñones, el hígado y otros órganos. Durante el embarazo, los médicos usan las pruebas con ultrasonido para observar al feto. A diferencia de las radiografías, la ecografía no expone a la radiación. Durante la prueba, usted se acuesta en una mesa. Un técnico especial o un médico mueve un dispositivo llamado transductor sobre una parte del cuerpo. El transductor envía ondas sonoras que rebotan en los tejidos dentro del cuerpo. El transductor también captura las ondas que rebotan. La máquina ecográfica crea las imágenes de estas ondas sonoras.</dc:description>
+<dc:description xml:lang="en">Ultrasound is a type of imaging. It uses high-frequency sound waves to look at organs and structures inside the body. Health care professionals use it to view the heart, blood vessels, kidneys, liver, and other organs. During pregnancy, doctors use ultrasound to view the fetus. Unlike x-rays, ultrasound does not expose you to radiation. During an ultrasound test, you lie on a table. A special technician or doctor moves a device called a transducer over part of your body. The transducer sends out sound waves, which bounce off the tissues inside your body. The transducer also captures the waves that bounce back. The ultrasound machine creates images from the sound waves.</dc:description>
+<dc:subject dcterms="mesh">Ultrasonography</dc:subject>
+<dc:subject xml:lang="es">Ecografía</dc:subject>
+<dc:subject xml:lang="es">Ultrasonido</dc:subject>
+<dc:subject xml:lang="en">Ultrasound</dc:subject>
+<dc:subject xml:lang="en">Echocardiography</dc:subject>
+<dc:subject xml:lang="en">Sonogram</dc:subject>
+</metadata>
+</record>
+</MedlinePlus-document>

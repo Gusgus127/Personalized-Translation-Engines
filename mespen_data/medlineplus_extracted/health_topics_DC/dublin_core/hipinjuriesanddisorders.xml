@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<MedlinePlus-document>
+<record>
+<header>
+<identifier>https://medlineplus.gov/hipinjuriesanddisorders.html</identifier>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title type="alternate" xml:lang="es">Pelvis</dc:title>
+<dc:title type="alternate" xml:lang="es">Cadera, Lesiones de la</dc:title>
+<dc:title type="alternate" xml:lang="en">Pelvis</dc:title>
+<dc:type>Text</dc:type>
+<dc:language>spa</dc:language>
+<dc:language>eng</dc:language>
+<dc:title xml:lang="es">Lesiones y enfermedades de la cadera</dc:title>
+<dc:title xml:lang="en">Hip Injuries and Disorders</dc:title>
+<dc:publisher>National Library of Medicine</dc:publisher>
+<dc:relation type="IsPartOf">Bones, Joints and Muscles</dc:relation>
+<dc:relation type="IsPartOf">Injuries and Wounds</dc:relation>
+<dc:date type="created">2002-07-21</dc:date>
+<dc:date type="modified">2018-01-03</dc:date>
+<dc:identifier type="URL" xml:lang="es">https://medlineplus.gov/spanish/hipinjuriesanddisorders.html</dc:identifier>
+<dc:identifier type="URL" xml:lang="en">https://medlineplus.gov/hipinjuriesanddisorders.html</dc:identifier>
+<dc:description xml:lang="es">La cadera es la articulación donde se une el hueso del muslo con el de la pelvis. Las caderas son articulaciones en rótula y se conocen como articulaciones de bola y cavidad porque la extremidad superior en forma de bola del hueso del muslo (fémur) se mueve dentro de una cavidad situada en la pelvis. Las caderas son muy estables. Cuando están sanas, hace falta mucha fuerza para lastimarlas. Sin embargo, algunas veces los deportes, correr, el uso excesivo o las caídas pueden conducir a lesiones en las caderas. Estas lesiones incluyen: Distensiones Bursitis Dislocaciones Fracturas Algunas enfermedades también pueden conducir a lesiones o problemas con las caderas. La osteoartritis puede causar dolor y limitar los movimientos. La osteoporosis en la cadera causa que se debiliten los huesos y se rompan fácilmente. Ambos cuadros son comunes en personas de edad avanzada. El tratamiento de los problemas de las caderas puede incluir reposo, medicinas, fisioterapia o cirugía, incluyendo reemplazo de cadera.</dc:description>
+<dc:description xml:lang="en">Your hip is the joint where your thigh bone meets your pelvis bone. Hips are called ball-and-socket joints because the ball-like top of your thigh bone moves within a cup-like space in your pelvis. Your hips are very stable. When they are healthy, it takes great force to hurt them. However, playing sports, running, overuse or falling can all sometimes lead to hip injuries. These include Strains Bursitis Dislocations Fractures Certain diseases also lead to hip injuries or problems. Osteoarthritis can cause pain and limited motion. Osteoporosis of the hip causes weak bones that break easily. Both of these are common in older people. Treatment for hip disorders may include rest, medicines, physical therapy, or surgery, including hip replacement.</dc:description>
+<dc:subject dcterms="mesh">Hip Dislocation</dc:subject>
+<dc:subject dcterms="mesh">Hip Injuries</dc:subject>
+<dc:subject dcterms="mesh">Pelvic Bones</dc:subject>
+<dc:subject dcterms="mesh">Hip Fractures</dc:subject>
+<dc:subject dcterms="mesh">Femoral Neck Fractures</dc:subject>
+<dc:subject xml:lang="es">Lesiones y enfermedades de la cadera</dc:subject>
+<dc:subject xml:lang="es">Pelvis</dc:subject>
+<dc:subject xml:lang="es">Cadera</dc:subject>
+<dc:subject xml:lang="es">Lesiones de la</dc:subject>
+<dc:subject xml:lang="en">Hip Injuries and Disorders</dc:subject>
+<dc:subject xml:lang="en">Pelvis</dc:subject>
+</metadata>
+</record>
+</MedlinePlus-document>

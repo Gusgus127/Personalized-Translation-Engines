@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<MedlinePlus-document>
+<record>
+<header>
+<identifier>https://medlineplus.gov/vasectomy.html</identifier>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:type>Text</dc:type>
+<dc:language>spa</dc:language>
+<dc:language>eng</dc:language>
+<dc:title xml:lang="es">Vasectomía</dc:title>
+<dc:title xml:lang="en">Vasectomy</dc:title>
+<dc:publisher>National Library of Medicine</dc:publisher>
+<dc:relation type="IsPartOf">Pregnancy and Reproduction</dc:relation>
+<dc:relation type="IsPartOf">Male Reproductive System</dc:relation>
+<dc:relation type="IsPartOf">Men</dc:relation>
+<dc:date type="created">2011-07-28</dc:date>
+<dc:date type="modified">2017-03-30</dc:date>
+<dc:identifier type="URL" xml:lang="es">https://medlineplus.gov/spanish/vasectomy.html</dc:identifier>
+<dc:identifier type="URL" xml:lang="en">https://medlineplus.gov/vasectomy.html</dc:identifier>
+<dc:description xml:lang="es">La vasectomía es un tipo de cirugía que previene que el hombre sea capaz de embarazar a una mujer. Es una forma permanente de control de la natalidad. La vasectomía funciona al cortar los tubos que llevan el esperma desde los testículos. La cirugía no toma más de 30 minutos. La mayoría de los hombres regresan a su hogar el mismo día. En gran parte de los casos, la recuperación lleva menos de una semana. Tener una vasectomía no afecta su vida sexual. Toma cerca de tres meses para que tenga efecto. Su doctor va a realizar pruebas a su semen para asegurarse que no haya esperma en él. La vasectomía puede revertirse a veces, pero no siempre. Una vasectomía no lo protege contra las enfermedades de transmisión sexual, como el VIH/SIDA. Los hombres que han tenido una vasectomía deberían practicar sexo seguro para evitar enfermedades de transmisión sexual. NIH: Instituto Nacional de Salud Infantil y Desarrollo Humano</dc:description>
+<dc:description xml:lang="en">Vasectomy is a type of surgery that prevents a man from being able to get a woman pregnant. It is a permanent form of birth control. A vasectomy works by cutting the tubes that carry the sperm out of the testicles. The surgery usually takes no more than 30 minutes. Most men go home the same day. In most cases, recovery takes less than a week. Having a vasectomy does not affect your sex life. It takes about three months before it is effective. Your doctor will test your semen to make sure that there are no sperm in it. Vasectomies can sometimes be reversed, but not always. Having a vasectomy does not protect against sexually transmitted diseases, such as HIV/AIDS. Men who have had a vasectomy should still practice safe sex to avoid STDs. NIH: National Institute of Child Health and Human Development</dc:description>
+<dc:subject dcterms="mesh">Vasectomy</dc:subject>
+<dc:subject xml:lang="es">Vasectomía</dc:subject>
+<dc:subject xml:lang="en">Vasectomy</dc:subject>
+<dc:subject xml:lang="en">Sterilization</dc:subject>
+<dc:subject xml:lang="en">Male Sterilization</dc:subject>
+</metadata>
+</record>
+</MedlinePlus-document>

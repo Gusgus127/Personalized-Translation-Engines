@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<MedlinePlus-document>
+<record>
+<header>
+<identifier>https://medlineplus.gov/evaluatinghealthinformation.html</identifier>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title type="alternate" xml:lang="es">Información sobre la salud, Evaluación</dc:title>
+<dc:type>Text</dc:type>
+<dc:language>spa</dc:language>
+<dc:language>eng</dc:language>
+<dc:title xml:lang="es">Evaluación de información sobre la salud</dc:title>
+<dc:title xml:lang="en">Evaluating Health Information</dc:title>
+<dc:publisher>National Library of Medicine</dc:publisher>
+<dc:relation type="IsPartOf">Wellness and Lifestyle</dc:relation>
+<dc:relation type="IsPartOf">Personal Health Issues</dc:relation>
+<dc:date type="created">2003-03-26</dc:date>
+<dc:date type="modified">2017-10-10</dc:date>
+<dc:identifier type="URL" xml:lang="es">https://medlineplus.gov/spanish/evaluatinghealthinformation.html</dc:identifier>
+<dc:identifier type="URL" xml:lang="en">https://medlineplus.gov/evaluatinghealthinformation.html</dc:identifier>
+<dc:description xml:lang="es">Millones de consumidores obtienen información sobre la salud en las revistas, la televisión o en internet. Parte de la información es confiable y actualizada; otra no lo es. ¿Cómo diferenciar la buena información de la mala? Primero, considere la fuente. Si utiliza internet, busque en la página la opción "acerca de nosotros". Verifique quién está a cargo del sitio: ¿Es una dependencia del gobierno, una universidad, una organización para la salud, un hospital o una empresa? Enfóquese en la calidad. ¿El sitio tiene un comité editorial? ¿La información se revisa antes de publicarse? Sea escéptico. Piense que lo que suena demasiado bueno para ser verdad, suele serlo. Usted quiere información actual, imparcial, neutral y basada en investigaciones. NIH: Biblioteca Nacional de Medicina</dc:description>
+<dc:description xml:lang="en">Millions of consumers get health information from magazines, TV or the Internet. Some of the information is reliable and up to date; some is not. How can you tell the good from the bad? First, consider the source. If you use the Web, look for an "about us" page. Check to see who runs the site: Is it a branch of the government, a university, a health organization, a hospital or a business? Focus on quality. Does the site have an editorial board? Is the information reviewed before it is posted? Be skeptical. Things that sound too good to be true often are. You want current, unbiased information based on research. NIH: National Library of Medicine</dc:description>
+<dc:subject dcterms="mesh">Internet</dc:subject>
+<dc:subject xml:lang="es">Evaluación de información sobre la salud</dc:subject>
+<dc:subject xml:lang="es">Información sobre la salud</dc:subject>
+<dc:subject xml:lang="es">Evaluación</dc:subject>
+<dc:subject xml:lang="en">Evaluating Health Information</dc:subject>
+</metadata>
+</record>
+</MedlinePlus-document>

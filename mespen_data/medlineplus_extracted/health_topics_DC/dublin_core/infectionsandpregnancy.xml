@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<MedlinePlus-document>
+<record>
+<header>
+<identifier>https://medlineplus.gov/infectionsandpregnancy.html</identifier>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title type="alternate" xml:lang="es">Embarazo, Infecciones durante el</dc:title>
+<dc:title type="alternate" xml:lang="en">Pregnancy, Infections in</dc:title>
+<dc:type>Text</dc:type>
+<dc:language>spa</dc:language>
+<dc:language>eng</dc:language>
+<dc:title xml:lang="es">Infecciones durante el embarazo</dc:title>
+<dc:title xml:lang="en">Infections and Pregnancy</dc:title>
+<dc:publisher>National Library of Medicine</dc:publisher>
+<dc:relation type="IsPartOf">Pregnancy and Reproduction</dc:relation>
+<dc:relation type="IsPartOf">Female Reproductive System</dc:relation>
+<dc:relation type="IsPartOf">Infections</dc:relation>
+<dc:date type="created">2003-02-20</dc:date>
+<dc:date type="modified">2018-01-24</dc:date>
+<dc:identifier type="URL" xml:lang="es">https://medlineplus.gov/spanish/infectionsandpregnancy.html</dc:identifier>
+<dc:identifier type="URL" xml:lang="en">https://medlineplus.gov/infectionsandpregnancy.html</dc:identifier>
+<dc:description xml:lang="es">Si está embarazada, una infección puede ser más que apenas un problema para usted. Algunas infecciones pueden ser peligrosas para su bebé. Usted puede ayudarse evitando las infecciones: No consuma carnes crudas o cocidas insuficientemente No comparta alimentos o bebidas con otras personas Lávese las manos con frecuencia No limpie los excrementos de su gato. Los gatos pueden contagiarla con toxoplasmosis. Es posible que necesite tomar medicamentos o vacunarse para prevenir una infección en el bebé. Por ejemplo, tal vez necesite tomar antibióticos si desarrolla una infección por estreptococos del grupo B u otros medicamentos si tiene un herpes genital. Solamente ciertos medicamentos y vacunas son inofensivos durante el embarazo. Consulte a su médico acerca de la mejor forma de protegerse y proteger a su bebé.</dc:description>
+<dc:description xml:lang="en">During pregnancy, some common infections like the common cold or a skin infection do not usually cause serious problems. But other infections can be dangerous to you, your baby, or both. Some infections may lead to preterm birth and low birth weight babies. Others can cause serious illness, birth defects, and lifelong disabilities, such as hearing loss or learning problems. Some of the infections that can be dangerous during pregnancy include Bacterial vaginosis (BV) Group B strep (GBS) Hepatitis Sexually transmitted diseases Toxoplasmosis Urinary tract infections Yeast infections Zika virus To try to prevent infections, Don't eat raw or undercooked meat Don't share food or drinks with other people Wash your hands frequently Don't empty cat litter. Cats can transmit toxoplasmosis. If you do get an infection during pregnancy, contact your health care provider about how best to protect you and your baby. Only some medicines are safe during pregnancy.</dc:description>
+<dc:subject dcterms="mesh">Pregnancy Complications, Infectious</dc:subject>
+<dc:subject xml:lang="es">Infecciones durante el embarazo</dc:subject>
+<dc:subject xml:lang="es">Embarazo</dc:subject>
+<dc:subject xml:lang="es">Infecciones durante el</dc:subject>
+<dc:subject xml:lang="en">Infections and Pregnancy</dc:subject>
+<dc:subject xml:lang="en">Pregnancy</dc:subject>
+<dc:subject xml:lang="en">Infections in</dc:subject>
+</metadata>
+</record>
+</MedlinePlus-document>

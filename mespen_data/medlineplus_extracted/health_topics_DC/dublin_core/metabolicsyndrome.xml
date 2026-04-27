@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<MedlinePlus-document>
+<record>
+<header>
+<identifier>https://medlineplus.gov/metabolicsyndrome.html</identifier>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title type="alternate" xml:lang="es">X Metabólico, Síndrome</dc:title>
+<dc:title type="alternate" xml:lang="es">Metabólico X, Síndrome</dc:title>
+<dc:title type="alternate" xml:lang="es">Resistencia a la insulina, Síndrome</dc:title>
+<dc:title type="alternate" xml:lang="es">Insulina, Síndrome de resistencia a la</dc:title>
+<dc:title type="alternate" xml:lang="en">Insulin Resistance</dc:title>
+<dc:title type="alternate" xml:lang="en">Syndrome X (Metabolic)</dc:title>
+<dc:type>Text</dc:type>
+<dc:language>spa</dc:language>
+<dc:language>eng</dc:language>
+<dc:title xml:lang="es">Síndrome metabólico</dc:title>
+<dc:title xml:lang="en">Metabolic Syndrome</dc:title>
+<dc:publisher>National Library of Medicine</dc:publisher>
+<dc:relation type="IsPartOf">Blood, Heart and Circulation</dc:relation>
+<dc:relation type="IsPartOf">Diabetes Mellitus</dc:relation>
+<dc:relation type="IsPartOf">Metabolic Problems</dc:relation>
+<dc:relation type="IsPartOf">Endocrine System</dc:relation>
+<dc:date type="created">2006-01-11</dc:date>
+<dc:date type="modified">2018-02-07</dc:date>
+<dc:identifier type="URL" xml:lang="es">https://medlineplus.gov/spanish/metabolicsyndrome.html</dc:identifier>
+<dc:identifier type="URL" xml:lang="en">https://medlineplus.gov/metabolicsyndrome.html</dc:identifier>
+<dc:description xml:lang="es">El síndrome metabólico es un grupo de condiciones que lo ponen en riesgo de desarrollar una enfermedad cardiaca y diabetes tipo 2. Estas condiciones son: Hipertensión arterial Glucosa (un tipo de azúcar) alta en la sangre Niveles sanguíneos elevados de triglicéridos, un tipo de grasas Bajos niveles sanguíneos de HDL, el colesterol bueno Exceso de grasa alrededor de la cintura No todos los médicos están de acuerdo con la definición o la causa del síndrome metabólico. La causa puede ser resistencia a la insulina. La insulina es una hormona que produce su cuerpo para ayudar a convertir el azúcar proveniente de los alimentos en energía para el organismo. Si usted tiene resistencia a la insulina, se acumula un exceso de azúcar en la sangre, preparando el escenario para la aparición de la enfermedad. NIH: Instituto Nacional de la Diabetes y las Enfermedades Digestivas y Renales</dc:description>
+<dc:description xml:lang="en">Metabolic syndrome is a group of conditions that put you at risk for heart disease and diabetes. These conditions are High blood pressure High blood glucose, or blood sugar, levels High levels of triglycerides, a type of fat, in your blood Low levels of HDL, the good cholesterol, in your blood Too much fat around your waist Not all doctors agree on the definition or cause of metabolic syndrome. The cause might be insulin resistance. Insulin is a hormone your body produces to help you turn sugar from food into energy for your body. If you are insulin resistant, too much sugar builds up in your blood, setting the stage for disease. NIH: National Institute of Diabetes and Digestive and Kidney Diseases</dc:description>
+<dc:subject dcterms="mesh">Metabolic Syndrome</dc:subject>
+<dc:subject xml:lang="es">Síndrome metabólico</dc:subject>
+<dc:subject xml:lang="es">X Metabólico</dc:subject>
+<dc:subject xml:lang="es">Síndrome</dc:subject>
+<dc:subject xml:lang="es">Metabólico X</dc:subject>
+<dc:subject xml:lang="es">Síndrome</dc:subject>
+<dc:subject xml:lang="es">Resistencia a la insulina</dc:subject>
+<dc:subject xml:lang="es">Síndrome</dc:subject>
+<dc:subject xml:lang="es">Insulina</dc:subject>
+<dc:subject xml:lang="es">Síndrome de resistencia a la</dc:subject>
+<dc:subject xml:lang="en">Metabolic Syndrome</dc:subject>
+<dc:subject xml:lang="en">Insulin Resistance</dc:subject>
+<dc:subject xml:lang="en">Syndrome X (Metabolic)</dc:subject>
+</metadata>
+</record>
+</MedlinePlus-document>

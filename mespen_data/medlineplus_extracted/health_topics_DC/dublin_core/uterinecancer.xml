@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<MedlinePlus-document>
+<record>
+<header>
+<identifier>https://medlineplus.gov/uterinecancer.html</identifier>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title type="alternate" xml:lang="es">Cáncer de endometrio</dc:title>
+<dc:title type="alternate" xml:lang="es">Útero, Cáncer de</dc:title>
+<dc:title type="alternate" xml:lang="es">Endometrio, Cáncer</dc:title>
+<dc:title type="alternate" xml:lang="es">Dilatación y curetaje</dc:title>
+<dc:title type="alternate" xml:lang="es">Raspaje</dc:title>
+<dc:title type="alternate" xml:lang="en">Endometrial Cancer</dc:title>
+<dc:type>Text</dc:type>
+<dc:language>spa</dc:language>
+<dc:language>eng</dc:language>
+<dc:title xml:lang="es">Cáncer de útero</dc:title>
+<dc:title xml:lang="en">Uterine Cancer</dc:title>
+<dc:publisher>National Library of Medicine</dc:publisher>
+<dc:relation type="IsPartOf">Women</dc:relation>
+<dc:relation type="IsPartOf">Female Reproductive System</dc:relation>
+<dc:relation type="IsPartOf">Cancers</dc:relation>
+<dc:date type="created">2002-07-21</dc:date>
+<dc:date type="modified">2018-01-04</dc:date>
+<dc:identifier type="URL" xml:lang="es">https://medlineplus.gov/spanish/uterinecancer.html</dc:identifier>
+<dc:identifier type="URL" xml:lang="en">https://medlineplus.gov/uterinecancer.html</dc:identifier>
+<dc:description xml:lang="es">El útero o matriz es el lugar donde se desarrolla el bebé cuando una mujer está embarazada. Existen diferentes tipos de cáncer de útero. El más común comienza en el endometrio, la membrana que recubre el útero. A este cáncer también se le llama cáncer de endometrio. Los síntomas del cáncer uterino incluyen: Hemorragia o secreción vaginal anormal Dificultades para orinar Dolor pélvico Dolor durante las relaciones sexuales El cáncer uterino suele ocurrir después de la menopausia. Es más común en mujeres que tienen obesidad. Usted también puede estar en mayor riesgo si recibió Terapia de reemplazo hormonal solo con estrógeno (terapia hormonal para la menopausia) por muchos años. Las pruebas para encontrar cáncer de útero incluyen un examen pélvico, pruebas de imagen y una biopsia. El tratamiento más común es una histerectomía, que es una cirugía para extirpar el útero. A veces la cirugía también extrae los ovarios y las trompas de Falopio. Otros tratamientos incluyen la terapia hormonal, radioterapia y quimioterapia. Algunas mujeres reciben más de un tratamiento. NIH: Instituto Nacional del Cáncer</dc:description>
+<dc:description xml:lang="en">The uterus, or womb, is the place where a baby grows when a women is pregnant. There are different types of uterine cancer. The most common type starts in the endometrium, the lining of the uterus. This type is also called endometrial cancer. The symptoms of uterine cancer include Abnormal vaginal bleeding or discharge Trouble urinating Pelvic pain Pain during intercourse Uterine cancer usually happens after menopause. It is more common in women who have obesity. You also have a higher risk if you took estrogen-only hormone replacement therapy (menopausal hormone therapy) for many years. Tests to find uterine cancer include a pelvic exam, imaging tests, and a biopsy. The most common treatment is a hysterectomy, which is surgery to remove the uterus. Sometimes the surgery also removes the ovaries and fallopian tubes. Other treatments include hormone therapy, radiation therapy, and chemotherapy. Some women get more than one type of treatment. NIH: National Cancer Institute</dc:description>
+<dc:subject dcterms="mesh">Uterine Neoplasms</dc:subject>
+<dc:subject xml:lang="es">Cáncer de útero</dc:subject>
+<dc:subject xml:lang="es">Cáncer de endometrio</dc:subject>
+<dc:subject xml:lang="es">Útero</dc:subject>
+<dc:subject xml:lang="es">Cáncer de</dc:subject>
+<dc:subject xml:lang="es">Endometrio</dc:subject>
+<dc:subject xml:lang="es">Cáncer</dc:subject>
+<dc:subject xml:lang="es">Dilatación y curetaje</dc:subject>
+<dc:subject xml:lang="es">Raspaje</dc:subject>
+<dc:subject xml:lang="en">Uterine Cancer</dc:subject>
+<dc:subject xml:lang="en">Endometrial Cancer</dc:subject>
+</metadata>
+</record>
+</MedlinePlus-document>

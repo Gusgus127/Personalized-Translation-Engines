@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<MedlinePlus-document>
+<record>
+<header>
+<identifier>https://medlineplus.gov/copingwithdisasters.html</identifier>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title type="alternate" xml:lang="es">Desastres, Enfrentarse a</dc:title>
+<dc:type>Text</dc:type>
+<dc:language>spa</dc:language>
+<dc:language>eng</dc:language>
+<dc:title xml:lang="es">Enfrentarse con desastres</dc:title>
+<dc:title xml:lang="en">Coping with Disasters</dc:title>
+<dc:publisher>National Library of Medicine</dc:publisher>
+<dc:relation type="IsPartOf">Mental Health and Behavior</dc:relation>
+<dc:relation type="IsPartOf">Disasters</dc:relation>
+<dc:date type="created">2004-03-19</dc:date>
+<dc:date type="modified">2017-10-02</dc:date>
+<dc:identifier type="URL" xml:lang="es">https://medlineplus.gov/spanish/copingwithdisasters.html</dc:identifier>
+<dc:identifier type="URL" xml:lang="en">https://medlineplus.gov/copingwithdisasters.html</dc:identifier>
+<dc:description xml:lang="es">Sin importar qué tan bien se prepare, usted puede sentirse aturdido o sin sensibilidad después de sobrevivir a un desastre. También puede sentirse triste, impotente o ansioso. A pesar de la tragedia, usted simplemente puede sentirse feliz de estar vivo. No es inusual tener malos recuerdos o pesadillas. Usted puede querer evitar lugares o personas que le recuerden el desastre. Es posible que tenga problemas para dormir, comer o prestar atención. Muchas personas tienen mal genio y se enojan en forma fácil. Estas son todas reacciones normales al estrés. A veces el estrés puede ser muy difícil de controlar. Algunas personas tienen problemas a largo plazo después de un desastre, incluyendo: Trastorno de estrés postraumático Depresión Sentimientos de culpa Pensamientos suicidas Abuso de drogas o alcohol Si sus reacciones emocionales están dificultando sus relaciones, el trabajo u otras actividades importantes, hable con un consejero o con su médico. Existen tratamientos disponibles. Centros para el Control y Prevención de Enfermedades</dc:description>
+<dc:description xml:lang="en">No matter how well you have prepared, you might feel dazed or numb after going through a disaster. You may also feel sad, helpless, or anxious. In spite of the tragedy, you might just feel happy to be alive. It is not unusual to have bad memories or dreams. You may avoid places or people that remind you of the disaster. You might have trouble sleeping, eating, or paying attention. Many people have short tempers and get angry easily. These are all normal reactions to stress. Sometimes the stress can be too much to handle alone. Some people have long-term problems after a disaster, including Post-traumatic stress disorder Depression Self-blame Suicidal thoughts Alcohol or drug abuse If your emotional reactions are getting in the way of your relationships, work, or other important activities, talk to a counselor or your doctor. Treatments are available. Centers for Disease Control and Prevention</dc:description>
+<dc:subject dcterms="mesh">Adaptation, Psychological</dc:subject>
+<dc:subject dcterms="mesh">Disasters</dc:subject>
+<dc:subject xml:lang="es">Enfrentarse con desastres</dc:subject>
+<dc:subject xml:lang="es">Desastres</dc:subject>
+<dc:subject xml:lang="es">Enfrentarse a</dc:subject>
+<dc:subject xml:lang="en">Coping with Disasters</dc:subject>
+</metadata>
+</record>
+</MedlinePlus-document>

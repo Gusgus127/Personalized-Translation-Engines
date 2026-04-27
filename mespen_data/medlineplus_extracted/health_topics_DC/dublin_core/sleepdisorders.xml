@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<MedlinePlus-document>
+<record>
+<header>
+<identifier>https://medlineplus.gov/sleepdisorders.html</identifier>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title type="alternate" xml:lang="es">Narcolepsia</dc:title>
+<dc:title type="alternate" xml:lang="es">Sueño, Problemas del</dc:title>
+<dc:title type="alternate" xml:lang="es">Sonambulismo</dc:title>
+<dc:title type="alternate" xml:lang="en">Narcolepsy</dc:title>
+<dc:title type="alternate" xml:lang="en">Night Terrors</dc:title>
+<dc:type>Text</dc:type>
+<dc:language>spa</dc:language>
+<dc:language>eng</dc:language>
+<dc:title xml:lang="es">Problemas del sueño</dc:title>
+<dc:title xml:lang="en">Sleep Disorders</dc:title>
+<dc:publisher>National Library of Medicine</dc:publisher>
+<dc:relation type="IsPartOf">Brain and Nerves</dc:relation>
+<dc:date type="created">2002-07-21</dc:date>
+<dc:date type="modified">2018-01-09</dc:date>
+<dc:identifier type="URL" xml:lang="es">https://medlineplus.gov/spanish/sleepdisorders.html</dc:identifier>
+<dc:identifier type="URL" xml:lang="en">https://medlineplus.gov/sleepdisorders.html</dc:identifier>
+<dc:description xml:lang="es">¿Le cuesta trabajo quedarse dormido o permanecer dormido durante toda la noche? ¿Se despierta sintiéndose cansado o somnoliento durante el día, aún si durmió lo suficiente? Usted puede tener problemas del sueño. Los tipos más comunes son: Insomnio: dificultad para dormirse o mantenerse dormido Apnea del sueño: interrupciones de la respiración durante el sueño Síndrome de las piernas inquietas: una sensación de hormigueo o picazón en las piernas Narcolepsia: "crisis de sueño" durante el día Las pesadillas, los terrores nocturnos, el sonambulismo, hablar mientras duerme, los golpes en la cabeza, orinarse en la cama y rechinar los dientes son formas de problemas del sueño llamados parasomnias. Existen tratamientos para la mayoría de los problemas del sueño. A veces, sólo tener buenos hábitos para dormir puede ayudar.</dc:description>
+<dc:description xml:lang="en">Is it hard for you to fall asleep or stay asleep through the night? Do you wake up feeling tired or feel very sleepy during the day, even if you have had enough sleep? You might have a sleep disorder. The most common kinds are Insomnia - a hard time falling or staying asleep Sleep apnea - breathing interruptions during sleep Restless legs syndrome - a tingling or prickly sensation in the legs Narcolepsy - daytime "sleep attacks" Nightmares, night terrors, sleepwalking, sleep talking, head banging, wetting the bed and grinding your teeth are kinds of sleep problems called parasomnias. There are treatments for most sleep disorders. Sometimes just having good sleep habits can help.</dc:description>
+<dc:subject dcterms="mesh">Sleep Aids, Pharmaceutical</dc:subject>
+<dc:subject dcterms="mesh">Sleep Wake Disorders</dc:subject>
+<dc:subject xml:lang="es">Problemas del sueño</dc:subject>
+<dc:subject xml:lang="es">Narcolepsia</dc:subject>
+<dc:subject xml:lang="es">Sueño</dc:subject>
+<dc:subject xml:lang="es">Problemas del</dc:subject>
+<dc:subject xml:lang="es">Sonambulismo</dc:subject>
+<dc:subject xml:lang="en">Sleep Disorders</dc:subject>
+<dc:subject xml:lang="en">Narcolepsy</dc:subject>
+<dc:subject xml:lang="en">Night Terrors</dc:subject>
+</metadata>
+</record>
+</MedlinePlus-document>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<MedlinePlus-document>
+<record>
+<header>
+<identifier>https://medlineplus.gov/coldsores.html</identifier>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title type="alternate" xml:lang="es">Labios, Herpes</dc:title>
+<dc:title type="alternate" xml:lang="en">Fever Blister</dc:title>
+<dc:title type="alternate" xml:lang="en">Oral Herpes</dc:title>
+<dc:title type="alternate" xml:lang="en">Herpes, Oral</dc:title>
+<dc:type>Text</dc:type>
+<dc:language>spa</dc:language>
+<dc:language>eng</dc:language>
+<dc:title xml:lang="es">Herpes labial</dc:title>
+<dc:title xml:lang="en">Cold Sores</dc:title>
+<dc:publisher>National Library of Medicine</dc:publisher>
+<dc:relation type="IsPartOf">Mouth and Teeth</dc:relation>
+<dc:relation type="IsPartOf">Infections</dc:relation>
+<dc:date type="created">2009-10-13</dc:date>
+<dc:date type="modified">2017-09-19</dc:date>
+<dc:identifier type="URL" xml:lang="es">https://medlineplus.gov/spanish/coldsores.html</dc:identifier>
+<dc:identifier type="URL" xml:lang="en">https://medlineplus.gov/coldsores.html</dc:identifier>
+<dc:description xml:lang="es">El herpes labial es causado por un virus muy contagioso llamado herpes simple (VHS). Existen dos tipos de VHS. El tipo 1 en general causa herpes oral o labial. Este infecta a más de la mitad de la población de los EE. UU. para cuando llega a los 20 años. El tipo 2 en general afecta el área genital. Algunas personas no tienen síntomas de la infección. Sin embargo, otras desarrollan llagas dolorosas y desagradables. El herpes labial suele aparecer fuera de la boca o en los labios o alrededor. Cuando están dentro de la boca, en general es en las encías o en el paladar. No son lo mismo que las aftas bucales, que no son contagiosas. No existe una cura para el herpes labial. Por lo general desaparece por sí solo en un par de semanas. Los medicamentos antivirales pueden ayudar a que sane más rápido. También pueden ayudar a prevenir su aparición en personas con brotes frecuentes. Otras medicinas pueden ayudar con el dolor y la molestia que causan. Estos incluyen ungüentos que adormecen las llagas, ablandan las costras o que las secan. Proteger tus labios con bloqueador solar también puede ayudar.</dc:description>
+<dc:description xml:lang="en">Cold sores are caused by a contagious virus called herpes simplex virus (HSV). There are two types of HSV. Type 1 usually causes oral herpes, or cold sores. Type 1 herpes virus infects more than half of the U.S. population by the time they reach their 20s. Type 2 usually affects the genital area. Some people have no symptoms from the infection. But others develop painful and unsightly cold sores. Cold sores usually occur outside the mouth, on or around the lips. When they are inside the mouth, they are usually on the gums or the roof of the mouth. They are not the same as canker sores, which are not contagious. There is no cure for cold sores. They normally go away on their own in a few weeks. Antiviral medicines can help them heal faster. They can also help to prevent cold sores in people who often get them. Other medicines can help with the pain and discomfort of the sores. These include ointments that numb the blisters, soften the crusts of the sores, or dry them out. Protecting your lips from the sun with sunblock lip balm can also help.</dc:description>
+<dc:subject dcterms="mesh">Herpes Labialis</dc:subject>
+<dc:subject xml:lang="es">Herpes labial</dc:subject>
+<dc:subject xml:lang="es">Labios</dc:subject>
+<dc:subject xml:lang="es">Herpes</dc:subject>
+<dc:subject xml:lang="en">Cold Sores</dc:subject>
+<dc:subject xml:lang="en">Fever Blister</dc:subject>
+<dc:subject xml:lang="en">Oral Herpes</dc:subject>
+<dc:subject xml:lang="en">Herpes</dc:subject>
+<dc:subject xml:lang="en">Oral</dc:subject>
+</metadata>
+</record>
+</MedlinePlus-document>

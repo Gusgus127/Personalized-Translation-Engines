@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<MedlinePlus-document>
+<record>
+<header>
+<identifier>https://medlineplus.gov/spineinjuriesanddisorders.html</identifier>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title type="alternate" xml:lang="es">Columna vertebral, Enfermedades de la</dc:title>
+<dc:title type="alternate" xml:lang="es">Columna vertebral, Lesiones</dc:title>
+<dc:title type="alternate" xml:lang="es">Enfermedades de la columna vertebral</dc:title>
+<dc:title type="alternate" xml:lang="en">Kyphosis</dc:title>
+<dc:title type="alternate" xml:lang="en">Spondylolisthesis</dc:title>
+<dc:title type="alternate" xml:lang="en">Compression Fracture</dc:title>
+<dc:type>Text</dc:type>
+<dc:language>spa</dc:language>
+<dc:language>eng</dc:language>
+<dc:title xml:lang="es">Lesiones y enfermedades de la columna vertebral</dc:title>
+<dc:title xml:lang="en">Spine Injuries and Disorders</dc:title>
+<dc:publisher>National Library of Medicine</dc:publisher>
+<dc:relation type="IsPartOf">Bones, Joints and Muscles</dc:relation>
+<dc:date type="created">2002-07-21</dc:date>
+<dc:date type="modified">2018-01-29</dc:date>
+<dc:identifier type="URL" xml:lang="es">https://medlineplus.gov/spanish/spineinjuriesanddisorders.html</dc:identifier>
+<dc:identifier type="URL" xml:lang="en">https://medlineplus.gov/spineinjuriesanddisorders.html</dc:identifier>
+<dc:description xml:lang="es">La columna vertebral está formada por 26 huesos llamados vértebras. Las vértebras protegen la médula espinal y le permiten mantenerse de pie e inclinarse. Hay varios problemas que pueden alterar la estructura de la columna o lesionarle las vértebras y el tejido que las rodea. Entre ellos: Infecciones Traumatismos Tumores Enfermedades, tales como la espondilitis anquilosante y la escoliosis Cambios óseos que ocurren con la edad, tales como estenosis espinal y hernias de disco Con frecuencia, las enfermedades de la columna provocan dolor cuando los cambios óseos presionan la médula o los nervios. También pueden limitar el movimiento. El tratamiento varía según la enfermedad, pero algunas veces incluyen aparatos ortopédicos para la espalda y cirugía.</dc:description>
+<dc:description xml:lang="en">Your backbone, or spine, is made up of 26 bone discs called vertebrae. The vertebrae protect your spinal cord and allow you to stand and bend. A number of problems can change the structure of the spine or damage the vertebrae and surrounding tissue. They include Infections Injuries Tumors Conditions, such as ankylosing spondylitis and scoliosis Bone changes that come with age, such as spinal stenosis and herniated disks Spinal diseases often cause pain when bone changes put pressure on the spinal cord or nerves. They can also limit movement. Treatments differ by disease, but sometimes they include back braces and surgery.</dc:description>
+<dc:subject dcterms="mesh">Spinal Fractures</dc:subject>
+<dc:subject dcterms="mesh">Spinal Diseases</dc:subject>
+<dc:subject dcterms="mesh">Spinal Injuries</dc:subject>
+<dc:subject xml:lang="es">Lesiones y enfermedades de la columna vertebral</dc:subject>
+<dc:subject xml:lang="es">Columna vertebral</dc:subject>
+<dc:subject xml:lang="es">Enfermedades de la</dc:subject>
+<dc:subject xml:lang="es">Columna vertebral</dc:subject>
+<dc:subject xml:lang="es">Lesiones</dc:subject>
+<dc:subject xml:lang="es">Enfermedades de la columna vertebral</dc:subject>
+<dc:subject xml:lang="en">Spine Injuries and Disorders</dc:subject>
+<dc:subject xml:lang="en">Kyphosis</dc:subject>
+<dc:subject xml:lang="en">Spondylolisthesis</dc:subject>
+<dc:subject xml:lang="en">Compression Fracture</dc:subject>
+</metadata>
+</record>
+</MedlinePlus-document>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<MedlinePlus-document>
+<record>
+<header>
+<identifier>https://medlineplus.gov/fluidandelectrolytebalance.html</identifier>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:type>Text</dc:type>
+<dc:language>spa</dc:language>
+<dc:language>eng</dc:language>
+<dc:title xml:lang="es">Equilibrio hidroelectrolítico</dc:title>
+<dc:title xml:lang="en">Fluid and Electrolyte Balance</dc:title>
+<dc:publisher>National Library of Medicine</dc:publisher>
+<dc:relation type="IsPartOf">Food and Nutrition</dc:relation>
+<dc:date type="created">2012-03-15</dc:date>
+<dc:date type="modified">2017-12-07</dc:date>
+<dc:identifier type="URL" xml:lang="es">https://medlineplus.gov/spanish/fluidandelectrolytebalance.html</dc:identifier>
+<dc:identifier type="URL" xml:lang="en">https://medlineplus.gov/fluidandelectrolytebalance.html</dc:identifier>
+<dc:description xml:lang="es">Los electrolitos son minerales en el cuerpo que tienen una carga eléctrica. Se encuentran en la sangre, la orina, tejidos y otros líquidos del cuerpo. Los electrolitos son importantes porque ayudan a: Equilibrar la cantidad de agua en su cuerpo Equilibrar el nivel de ácido/base (pH) de su cuerpo Transportar nutrientes a sus células Eliminar los desechos de sus células Funcionar a sus nervios, músculos, corazón y cerebro de la manera adecuada El sodio, calcio, potasio, cloro, fosfato y magnesio son electrolitos. Los obtiene de los alimentos que ingiere y de los líquidos que bebe. Los niveles de electrolitos pueden estar demasiado elevados o demasiado bajos. Esto puede ocurrir cuando se altera la cantidad de agua del cuerpo. La cantidad de agua que ingiere debe ser igual a la cantidad que pierde. Si algo altera este equilibrio, es posible que tenga muy poca agua (deshidratación) o demasiada (hiperhidratación). Algunas medicinas, vómitos, diarrea, sudoración o problemas renales o del hígado pueden alterar su equilibrio hidroelectrolítico.</dc:description>
+<dc:description xml:lang="en">Electrolytes are minerals in your body that have an electric charge. They are in your blood, urine, tissues, and other body fluids. Electrolytes are important because they help Balance the amount of water in your body Balance your body's acid/base (pH) level Move nutrients into your cells Move wastes out of your cells Make sure that your nerves, muscles, the heart, and the brain work the way they should Sodium, calcium, potassium, chlorine, phosphate, and magnesium are all electrolytes. You get them from the foods you eat and the fluids you drink. The levels of electrolytes in your body can become too low or too high. This can happen when the amount of water in your body changes. The amount of water that you take in should equal the amount you lose. If something upsets this balance, you may have too little water (dehydration) or too much water (overhydration). Some medicines, vomiting, diarrhea, sweating, and liver or kidney problems can all upset your water balance. Treatment helps you to manage the imbalance. It also involves identifying and treating what caused the imbalance.</dc:description>
+<dc:subject dcterms="mesh">Water-Electrolyte Imbalance</dc:subject>
+<dc:subject dcterms="mesh">Water-Electrolyte Balance</dc:subject>
+<dc:subject xml:lang="es">Equilibrio hidroelectrolítico</dc:subject>
+<dc:subject xml:lang="en">Fluid and Electrolyte Balance</dc:subject>
+<dc:subject xml:lang="en">Electrolytes</dc:subject>
+</metadata>
+</record>
+</MedlinePlus-document>

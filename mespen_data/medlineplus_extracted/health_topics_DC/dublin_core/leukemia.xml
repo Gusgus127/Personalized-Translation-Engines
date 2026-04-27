@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<MedlinePlus-document>
+<record>
+<header>
+<identifier>https://medlineplus.gov/leukemia.html</identifier>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:type>Text</dc:type>
+<dc:language>spa</dc:language>
+<dc:language>eng</dc:language>
+<dc:title xml:lang="es">Leucemia</dc:title>
+<dc:title xml:lang="en">Leukemia</dc:title>
+<dc:publisher>National Library of Medicine</dc:publisher>
+<dc:relation type="IsPartOf">Blood, Heart and Circulation</dc:relation>
+<dc:relation type="IsPartOf">Cancers</dc:relation>
+<dc:date type="created">2010-10-18</dc:date>
+<dc:date type="modified">2017-12-27</dc:date>
+<dc:identifier type="URL" xml:lang="es">https://medlineplus.gov/spanish/leukemia.html</dc:identifier>
+<dc:identifier type="URL" xml:lang="en">https://medlineplus.gov/leukemia.html</dc:identifier>
+<dc:description xml:lang="es">La leucemia es un cáncer de los glóbulos blancos. Los glóbulos blancos ayudan a su organismo a combatir las infecciones. Las células sanguíneas se forman en la médula ósea. Sin embargo, en la leucemia la médula ósea produce glóbulos blancos anormales. Estas células reemplazan a las células sanguíneas sanas y dificultan que la sangre cumpla su función. Hay diversos tipos de leucemia, incluyendo: Leucemia linfocítica aguda Leucemia mielógena aguda Leucemia linfocítica crónica Leucemia mielógena crónica La leucemia puede desarrollarse rápida o lentamente. La leucemia crónica crece lentamente. En la leucemia aguda las células son muy anormales y su número aumenta rápidamente. Los adultos pueden tener cualquiera de estos tipos; los niños con leucemia, generalmente, sufren del tipo agudo. Algunas leucemias, con frecuencia, puede curarse. Otras, son difíciles de tratar pero pueden controlarse. Los tratamientos pueden incluir quimioterapia, radioterapia y trasplante de células madre. Aún si los síntomas desaparecen, usted podría necesitar tratamiento para prevenir una recaída. NIH: Instituto Nacional del Cáncer</dc:description>
+<dc:description xml:lang="en">Leukemia is cancer of the white blood cells. White blood cells help your body fight infection. Your blood cells form in your bone marrow. In leukemia, the bone marrow produces abnormal white blood cells. These cells crowd out the healthy blood cells, making it hard for blood to do its work. There are different types of leukemia, including Acute lymphocytic leukemia Acute myeloid leukemia Chronic lymphocytic leukemia Chronic myeloid leukemia Leukemia can develop quickly or slowly. Chronic leukemia grows slowly. In acute leukemia, the cells are very abnormal and their number increases rapidly. Adults can get either type; children with leukemia most often have an acute type. Some leukemias can often be cured. Other types are hard to cure, but you can often control them. Treatments may include chemotherapy, radiation and stem cell transplantation. Even if symptoms disappear, you might need therapy to prevent a relapse. NIH: National Cancer Institute</dc:description>
+<dc:subject dcterms="mesh">Leukemia</dc:subject>
+<dc:subject xml:lang="es">Leucemia</dc:subject>
+<dc:subject xml:lang="en">Leukemia</dc:subject>
+<dc:subject xml:lang="en">Hairy Cell Leukemia</dc:subject>
+</metadata>
+</record>
+</MedlinePlus-document>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<MedlinePlus-document>
+<record>
+<header>
+<identifier>https://medlineplus.gov/pancreastransplantation.html</identifier>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:type>Text</dc:type>
+<dc:language>spa</dc:language>
+<dc:language>eng</dc:language>
+<dc:title xml:lang="es">Trasplante de páncreas</dc:title>
+<dc:title xml:lang="en">Pancreas Transplantation</dc:title>
+<dc:publisher>National Library of Medicine</dc:publisher>
+<dc:relation type="IsPartOf">Digestive System</dc:relation>
+<dc:relation type="IsPartOf">Endocrine System</dc:relation>
+<dc:relation type="IsPartOf">Transplantation and Donation</dc:relation>
+<dc:date type="created">2006-02-08</dc:date>
+<dc:date type="modified">2016-05-03</dc:date>
+<dc:identifier type="URL" xml:lang="es">https://medlineplus.gov/spanish/pancreastransplantation.html</dc:identifier>
+<dc:identifier type="URL" xml:lang="en">https://medlineplus.gov/pancreastransplantation.html</dc:identifier>
+<dc:description xml:lang="es">El páncreas es una glándula localizada detrás del estómago y por delante de la columna. Produce jugos que ayudan a descomponer los alimentos y hormonas que ayudan a controlar los niveles de azúcar en la sangre. El trasplante de páncreas es una cirugía para colocar un páncreas sano de un donante en una persona con un páncreas enfermo. Este trasplante es más común en personas con diabetes tipo 1 grave y permite que las personas con esta enfermedad no dependan de las inyecciones de insulina. Un procedimiento experimental llamado trasplante de células de los islotes trasplanta sólo las partes del páncreas que producen la insulina. Las personas a quienes se les hace un trasplante deben tomar medicamentos el resto de sus vidas para impedir que sus cuerpos rechacen el páncreas nuevo. También deben visitar al médico regularmente para su cuidado. Debido a los riesgos, no es un tratamiento común para la diabetes 1.</dc:description>
+<dc:description xml:lang="en">The pancreas is a gland behind your stomach and in front of your spine. It produces the juices that help break down food and the hormones that help control blood sugar levels. A pancreas transplant is surgery to place a healthy pancreas from a donor into a person with a diseased pancreas. It is mostly done for people with severe type 1 diabetes. It can allow them to give up insulin shots. An experimental procedure called islet cell transplantation transplants only the parts of the pancreas that make insulin. People who have transplants must take drugs to keep their body from rejecting the new pancreas for the rest of their lives. They must also have regular follow-up care. Because of the risks, it is not a common treatment for type 1 diabetes.</dc:description>
+<dc:subject dcterms="mesh">Pancreas Transplantation</dc:subject>
+<dc:subject xml:lang="es">Trasplante de páncreas</dc:subject>
+<dc:subject xml:lang="en">Pancreas Transplantation</dc:subject>
+</metadata>
+</record>
+</MedlinePlus-document>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<MedlinePlus-document>
+<record>
+<header>
+<identifier>https://medlineplus.gov/meningococcalinfections.html</identifier>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title type="alternate" xml:lang="es">Meningococos, Infecciones por</dc:title>
+<dc:title type="alternate" xml:lang="en">Meningococcemia</dc:title>
+<dc:type>Text</dc:type>
+<dc:language>spa</dc:language>
+<dc:language>eng</dc:language>
+<dc:title xml:lang="es">Infecciones meningocócicas</dc:title>
+<dc:title xml:lang="en">Meningococcal Infections</dc:title>
+<dc:publisher>National Library of Medicine</dc:publisher>
+<dc:relation type="IsPartOf">Infections</dc:relation>
+<dc:date type="created">2010-10-13</dc:date>
+<dc:date type="modified">2017-11-08</dc:date>
+<dc:identifier type="URL" xml:lang="es">https://medlineplus.gov/spanish/meningococcalinfections.html</dc:identifier>
+<dc:identifier type="URL" xml:lang="en">https://medlineplus.gov/meningococcalinfections.html</dc:identifier>
+<dc:description xml:lang="es">Los meningococos son un tipo de bacterias que causan infecciones graves. La más frecuente es la meningitis, que es una inflamación del tejido fino que rodea el cerebro y la médula espinal. Los meningococos pueden causar otros problemas, incluyendo una infección del torrente sanguíneo grave llamada sepsis. Las infecciones meningocócicas son contagiosas. Son comunes en las personas que viven en lugares cerrados, tales como estudiantes universitarios o reclutas militares. En sus primeras etapas, es posible que tenga síntomas de gripe y rigidez en el cuello. Pero la enfermedad puede progresar rápidamente y puede ser fatal. El diagnóstico temprano y el tratamiento son muy importantes. El tratamiento es con antibióticos. Dado que la infección se propaga de persona a persona, los miembros de la familia también pueden necesitar tratamiento. Una vacuna puede prevenir las infecciones meningocócicas.</dc:description>
+<dc:description xml:lang="en">Meningococci are a type of bacteria that cause serious infections. The most common infection is meningitis, which is an inflammation of the thin tissue that surrounds the brain and spinal cord. Meningococci can also cause other problems, including a serious bloodstream infection called sepsis. Meningococcal infections can spread from person to person. Risk factors include Age - it is more common in infants, teens, and young adults Living in close quarters, such as in college dorms or military settings Certain medical conditions, such as not having a spleen Travel to areas where meningococcal disease is common In its early stages, you may have flu-like symptoms and a stiff neck. But the disease can progress quickly and can be fatal. Early diagnosis and treatment are extremely important. Lab tests on your blood and cerebrospinal fluid can tell if you have it. Treatment is with antibiotics. Since the infection spreads from person to person, family members may also need to be treated. A vaccine can prevent meningococcal infections.</dc:description>
+<dc:subject dcterms="mesh">Meningococcal Infections</dc:subject>
+<dc:subject xml:lang="es">Infecciones meningocócicas</dc:subject>
+<dc:subject xml:lang="es">Meningococos</dc:subject>
+<dc:subject xml:lang="es">Infecciones por</dc:subject>
+<dc:subject xml:lang="en">Meningococcal Infections</dc:subject>
+<dc:subject xml:lang="en">Meningococcemia</dc:subject>
+</metadata>
+</record>
+</MedlinePlus-document>

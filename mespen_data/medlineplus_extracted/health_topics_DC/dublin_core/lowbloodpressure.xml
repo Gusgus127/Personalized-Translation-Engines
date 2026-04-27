@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<MedlinePlus-document>
+<record>
+<header>
+<identifier>https://medlineplus.gov/lowbloodpressure.html</identifier>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title type="alternate" xml:lang="es">Hipotensión</dc:title>
+<dc:title type="alternate" xml:lang="es">Síndrome de Shy-Drager</dc:title>
+<dc:title type="alternate" xml:lang="es">Presión sanguínea baja</dc:title>
+<dc:title type="alternate" xml:lang="es">Presión baja</dc:title>
+<dc:title type="alternate" xml:lang="es">Shy-Drager, Síndrome</dc:title>
+<dc:title type="alternate" xml:lang="es">Atrofia multisistémica</dc:title>
+<dc:title type="alternate" xml:lang="en">Hypotension</dc:title>
+<dc:title type="alternate" xml:lang="en">Shy-Drager Syndrome</dc:title>
+<dc:title type="alternate" xml:lang="en">Blood Pressure</dc:title>
+<dc:title type="alternate" xml:lang="en">Orthostatic Hypotension</dc:title>
+<dc:type>Text</dc:type>
+<dc:language>spa</dc:language>
+<dc:language>eng</dc:language>
+<dc:title xml:lang="es">Presión arterial baja</dc:title>
+<dc:title xml:lang="en">Low Blood Pressure</dc:title>
+<dc:publisher>National Library of Medicine</dc:publisher>
+<dc:relation type="IsPartOf">Blood, Heart and Circulation</dc:relation>
+<dc:date type="created">2003-06-20</dc:date>
+<dc:date type="modified">2017-04-27</dc:date>
+<dc:identifier type="URL" xml:lang="es">https://medlineplus.gov/spanish/lowbloodpressure.html</dc:identifier>
+<dc:identifier type="URL" xml:lang="en">https://medlineplus.gov/lowbloodpressure.html</dc:identifier>
+<dc:description xml:lang="es">Probablemente ha escuchado que la presión arterial alta es un problema. ¿Pero qué pasa con la presión arterial baja? La presión arterial es la fuerza que ejerce la sangre contra las paredes de las arterias. Cada vez que el corazón late, bombea sangre hacia las arterias. Su presión arterial estará al nivel más elevado cuando el corazón late para bombear la sangre. A ésto se le llama presión sistólica. Cuando el corazón está en reposo, entre un latido y otro, la presión sanguínea disminuye. A ésto se le llama presión diastólica. La medición de su presión arterial utiliza estos dos valores. Ambos son importantes. Por lo general, se escriben uno arriba o antes del otro, como 120/80. Si su presión arterial es de 90/60 o menos, usted tiene presión arterial baja o hipotensión arterial. Algunas personas tienen la presión arterial baja en todo momento. No tienen síntomas y sus lecturas de presión bajas son normales para ellas. En otras, la presión cae por debajo de los valores normales por algún evento o cuadro clínico. Algunas personas pueden experimentar síntomas de baja presión cuando se ponen de pie demasiado rápidamente. La presión arterial baja es un problema sólo cuando causa mareos, desmayos o, en casos extremos, shock. NIH: Instituto Nacional del Corazón, los Pulmones y la Sangre</dc:description>
+<dc:description xml:lang="en">You've probably heard that high blood pressure is a problem. Sometimes blood pressure that is too low can also cause problems. Blood pressure is the force of your blood pushing against the walls of your arteries. Each time your heart beats, it pumps out blood into the arteries. Your blood pressure is highest when your heart beats, pumping the blood. This is called systolic pressure. When your heart is at rest, between beats, your blood pressure falls. This is the diastolic pressure. Your blood pressure reading uses these two numbers. Usually they're written one above or before the other, such as 120/80. If your blood pressure reading is 90/60 or lower, you have low blood pressure. Some people have low blood pressure all the time. They have no symptoms and their low readings are normal for them. In other people, blood pressure drops below normal because of a medical condition or certain medicines. Some people may have symptoms of low blood pressure when standing up too quickly. Low blood pressure is a problem only if it causes dizziness, fainting or in extreme cases, shock. NIH: National Heart, Lung, and Blood Institute</dc:description>
+<dc:subject dcterms="mesh">Hypotension</dc:subject>
+<dc:subject xml:lang="es">Presión arterial baja</dc:subject>
+<dc:subject xml:lang="es">Hipotensión</dc:subject>
+<dc:subject xml:lang="es">Síndrome de Shy-Drager</dc:subject>
+<dc:subject xml:lang="es">Presión sanguínea baja</dc:subject>
+<dc:subject xml:lang="es">Presión baja</dc:subject>
+<dc:subject xml:lang="es">Shy-Drager</dc:subject>
+<dc:subject xml:lang="es">Síndrome</dc:subject>
+<dc:subject xml:lang="es">Atrofia multisistémica</dc:subject>
+<dc:subject xml:lang="en">Low Blood Pressure</dc:subject>
+<dc:subject xml:lang="en">Hypotension</dc:subject>
+<dc:subject xml:lang="en">Shy-Drager Syndrome</dc:subject>
+<dc:subject xml:lang="en">Blood Pressure</dc:subject>
+<dc:subject xml:lang="en">Orthostatic Hypotension</dc:subject>
+</metadata>
+</record>
+</MedlinePlus-document>

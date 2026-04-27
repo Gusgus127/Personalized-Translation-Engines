@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<MedlinePlus-document>
+<record>
+<header>
+<identifier>https://medlineplus.gov/heartfailure.html</identifier>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title type="alternate" xml:lang="es">Cardíaco, Fallo</dc:title>
+<dc:title type="alternate" xml:lang="es">Cardíaco, Insuficiencia</dc:title>
+<dc:title type="alternate" xml:lang="en">Congestive Heart Failure</dc:title>
+<dc:title type="alternate" xml:lang="en">CHF</dc:title>
+<dc:title type="alternate" xml:lang="en">Cardiac Failure</dc:title>
+<dc:type>Text</dc:type>
+<dc:language>spa</dc:language>
+<dc:language>eng</dc:language>
+<dc:title xml:lang="es">Fallo cardíaco</dc:title>
+<dc:title xml:lang="en">Heart Failure</dc:title>
+<dc:publisher>National Library of Medicine</dc:publisher>
+<dc:relation type="IsPartOf">Seniors</dc:relation>
+<dc:relation type="IsPartOf">Blood, Heart and Circulation</dc:relation>
+<dc:date type="created">2002-07-21</dc:date>
+<dc:date type="modified">2018-02-07</dc:date>
+<dc:identifier type="URL" xml:lang="es">https://medlineplus.gov/spanish/heartfailure.html</dc:identifier>
+<dc:identifier type="URL" xml:lang="en">https://medlineplus.gov/heartfailure.html</dc:identifier>
+<dc:description xml:lang="es">La insuficiencia cardiaca es una condición en la cual el corazón no puede bombear la cantidad de sangre que el cuerpo necesita. La insuficiencia cardiaca no significa que el corazón se ha detenido o está por dejar de funcionar. Indica que el corazón no puede bombear la sangre de la manera que debería hacerlo. Puede afectar uno o ambos lados del corazón El debilitamiento de la capacidad de bombeo del corazón provoca: Acumulación de sangre y líquidos en los pulmones Acumulación de líquido en los pies, los tobillos y las piernas llamada edema Cansancio y falta de aire Las causas más comunes de insuficiencia cardiaca son la enfermedad arterial coronaria, presión arterial alta y diabetes. Es más común en personas mayores de 65 años, afroamericanos, personas con sobrepeso y personas que ya sufrieron un ataque cardíaco. Los hombres corren mayor riesgo que las mujeres. Los doctores diagnostican un fallo cardíaco haciendo un examen físico y del corazón. El tratamiento incluye tratar la causa subyacente de la insuficiencia cardiaca, medicinas y trasplante del corazón si los demás tratamientos fallan. NIH: Instituto Nacional del Corazón, los Pulmones y la Sangre</dc:description>
+<dc:description xml:lang="en">Heart failure is a condition in which the heart can't pump enough blood to meet the body's needs. Heart failure does not mean that your heart has stopped or is about to stop working. It means that your heart is not able to pump blood the way it should. It can affect one or both sides of the heart. The weakening of the heart's pumping ability causes Blood and fluid to back up into the lungs The buildup of fluid in the feet, ankles and legs - called edema Tiredness and shortness of breath Common causes of heart failure are coronary artery disease, high blood pressure and diabetes. It is more common in people who are 65 years old or older, African Americans, people who are overweight, and people who have had a heart attack. Men have a higher rate of heart failure than women. Your doctor will diagnose heart failure by doing a physical exam and heart tests. Treatment includes treating the underlying cause of your heart failure, medicines, and heart transplantation if other treatments fail. NIH: National Heart, Lung, and Blood Institute</dc:description>
+<dc:subject dcterms="mesh">Cardiac Output, Low</dc:subject>
+<dc:subject dcterms="mesh">Heart Failure</dc:subject>
+<dc:subject xml:lang="es">Fallo cardíaco</dc:subject>
+<dc:subject xml:lang="es">Cardíaco</dc:subject>
+<dc:subject xml:lang="es">Fallo</dc:subject>
+<dc:subject xml:lang="es">Cardíaco</dc:subject>
+<dc:subject xml:lang="es">Insuficiencia</dc:subject>
+<dc:subject xml:lang="en">Heart Failure</dc:subject>
+<dc:subject xml:lang="en">Congestive Heart Failure</dc:subject>
+<dc:subject xml:lang="en">CHF</dc:subject>
+<dc:subject xml:lang="en">Cardiac Failure</dc:subject>
+</metadata>
+</record>
+</MedlinePlus-document>

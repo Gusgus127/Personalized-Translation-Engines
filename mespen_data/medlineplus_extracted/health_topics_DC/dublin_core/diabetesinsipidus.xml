@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<MedlinePlus-document>
+<record>
+<header>
+<identifier>https://medlineplus.gov/diabetesinsipidus.html</identifier>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:type>Text</dc:type>
+<dc:language>spa</dc:language>
+<dc:language>eng</dc:language>
+<dc:title xml:lang="es">Diabetes insípida</dc:title>
+<dc:title xml:lang="en">Diabetes Insipidus</dc:title>
+<dc:publisher>National Library of Medicine</dc:publisher>
+<dc:relation type="IsPartOf">Kidneys and Urinary System</dc:relation>
+<dc:relation type="IsPartOf">Metabolic Problems</dc:relation>
+<dc:relation type="IsPartOf">Endocrine System</dc:relation>
+<dc:date type="created">2003-03-04</dc:date>
+<dc:date type="modified">2017-11-08</dc:date>
+<dc:identifier type="URL" xml:lang="es">https://medlineplus.gov/spanish/diabetesinsipidus.html</dc:identifier>
+<dc:identifier type="URL" xml:lang="en">https://medlineplus.gov/diabetesinsipidus.html</dc:identifier>
+<dc:description xml:lang="es">La diabetes insípida causa deseos de orinar muy seguido. Las personas con diabetes insípida tienen mucha sed. Entonces toman muchos líquidos. Esto es lo que causa que estas personas sientan deseos de ir al baño tan seguido. El ciclo puede impedirles dormir o inclusive hasta orinarse en la cama. El cuerpo produce una gran cantidad de orina que es casi pura agua. La diabetes insípida es distinta de la diabetes mellitus (DM), que implica problemas con la insulina y altos niveles de azúcar en la sangre. Los síntomas pueden ser similares. Sin embargo, la diabetes insípida se relaciona con la forma en la cual los riñones manejan los líquidos. Es mucho menos común que la mellitus. Los exámenes de orina y de sangre pueden revelar cuál es su caso. Por lo general, la diabetes insípida es causada por un problema con la glándula pituitaria o los riñones. El tratamiento varía dependiendo de la causa del problema. Las medicinas suelen ser de ayuda. NIH: Instituto Nacional de la Diabetes y las Enfermedades Digestivas y Renales</dc:description>
+<dc:description xml:lang="en">Diabetes insipidus (DI) causes frequent urination. You become extremely thirsty, so you drink. Then you urinate. This cycle can keep you from sleeping or even make you wet the bed. Your body produces lots of urine that is almost all water. DI is different from diabetes mellitus (DM), which involves insulin problems and high blood sugar. The symptoms can be similar. However, DI is related to how your kidneys handle fluids. It's much less common than DM. Urine and blood tests can show which one you have. Usually, DI is caused by a problem with your pituitary gland or your kidneys. Treatment depends on the cause of the problem. Medicines can often help. NIH: National Institute of Diabetes and Digestive and Kidney Diseases</dc:description>
+<dc:subject dcterms="mesh">Diabetes Insipidus</dc:subject>
+<dc:subject xml:lang="es">Diabetes insípida</dc:subject>
+<dc:subject xml:lang="en">Diabetes Insipidus</dc:subject>
+</metadata>
+</record>
+</MedlinePlus-document>

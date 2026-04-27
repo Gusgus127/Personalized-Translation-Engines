@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<MedlinePlus-document>
+<record>
+<header>
+<identifier>https://medlineplus.gov/lungtransplantation.html</identifier>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title type="alternate" xml:lang="es">Pulmón, Trasplante</dc:title>
+<dc:type>Text</dc:type>
+<dc:language>spa</dc:language>
+<dc:language>eng</dc:language>
+<dc:title xml:lang="es">Trasplante de pulmón</dc:title>
+<dc:title xml:lang="en">Lung Transplantation</dc:title>
+<dc:publisher>National Library of Medicine</dc:publisher>
+<dc:relation type="IsPartOf">Lungs and Breathing</dc:relation>
+<dc:relation type="IsPartOf">Transplantation and Donation</dc:relation>
+<dc:date type="created">2002-07-21</dc:date>
+<dc:date type="modified">2017-10-25</dc:date>
+<dc:identifier type="URL" xml:lang="es">https://medlineplus.gov/spanish/lungtransplantation.html</dc:identifier>
+<dc:identifier type="URL" xml:lang="en">https://medlineplus.gov/lungtransplantation.html</dc:identifier>
+<dc:description xml:lang="es">El trasplante de pulmón es una cirugía para reemplazar uno o ambos pulmones enfermos por pulmones sanos de un donante. Durante la operación, el cirujano hace un corte en el pecho y extirpa el pulmón enfermo. Después, el cirujano cose el pulmón nuevo a los vasos sanguíneos principales y las vías respiratorias. El médico puede recomendarle un trasplante de pulmón si tiene una enfermedad que no puede controlarse de otro modo. Estas enfermedades incluyen: EPOC (enfermedad pulmonar obstructiva crónica) Fibrosis quística Fibrosis pulmonar idiopática Enfermedad pulmonar intersticial Hipertensión pulmonar primaria Las complicaciones del trasplante de pulmón incluyen rechazo del pulmón trasplantado e infecciones.</dc:description>
+<dc:description xml:lang="en">A lung transplant removes a person's diseased lung and replaces it with a healthy one. The healthy lung comes from a donor who has died. Some people get one lung during a transplant. Other people get two. Lung transplants are used for people who are likely to die from lung disease within 1 to 2 years. Their conditions are so severe that other treatments, such as medicines or breathing devices, no longer work. Lung transplants most often are used to treat people who have severe COPD Cystic fibrosis Idiopathic pulmonary fibrosis Alpha-1 antitrypsin deficiency Pulmonary hypertension Complications of lung transplantation include rejection of the transplanted lung and infection. NIH: National Heart, Lung, and Blood Institute</dc:description>
+<dc:subject dcterms="mesh">Lung Transplantation</dc:subject>
+<dc:subject xml:lang="es">Trasplante de pulmón</dc:subject>
+<dc:subject xml:lang="es">Pulmón</dc:subject>
+<dc:subject xml:lang="es">Trasplante</dc:subject>
+<dc:subject xml:lang="en">Lung Transplantation</dc:subject>
+</metadata>
+</record>
+</MedlinePlus-document>

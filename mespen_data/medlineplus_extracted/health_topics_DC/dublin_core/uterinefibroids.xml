@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<MedlinePlus-document>
+<record>
+<header>
+<identifier>https://medlineplus.gov/uterinefibroids.html</identifier>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title type="alternate" xml:lang="es">Útero, Fibroides</dc:title>
+<dc:title type="alternate" xml:lang="es">Dilatación y curetaje</dc:title>
+<dc:title type="alternate" xml:lang="es">Raspaje</dc:title>
+<dc:title type="alternate" xml:lang="en">Fibroids</dc:title>
+<dc:title type="alternate" xml:lang="en">Uterine Leiomyomata</dc:title>
+<dc:type>Text</dc:type>
+<dc:language>spa</dc:language>
+<dc:language>eng</dc:language>
+<dc:title xml:lang="es">Fibroides uterinos</dc:title>
+<dc:title xml:lang="en">Uterine Fibroids</dc:title>
+<dc:publisher>National Library of Medicine</dc:publisher>
+<dc:relation type="IsPartOf">Women</dc:relation>
+<dc:relation type="IsPartOf">Female Reproductive System</dc:relation>
+<dc:date type="created">2002-07-21</dc:date>
+<dc:date type="modified">2018-01-08</dc:date>
+<dc:identifier type="URL" xml:lang="es">https://medlineplus.gov/spanish/uterinefibroids.html</dc:identifier>
+<dc:identifier type="URL" xml:lang="en">https://medlineplus.gov/uterinefibroids.html</dc:identifier>
+<dc:description xml:lang="es">Los fibromas uterinos son los tumores no cancerosos más comunes entre las mujeres en edad fértil. Los fibromas son formados por células musculares y otros tejidos que crecen en y alrededor de la pared del útero. Se desconoce su causa. Entre los factores de riesgo están ser de raza afroamericana o el exceso de peso. Muchas mujeres con fibromas uterinos no presentan síntomas. Cuando hay síntomas pueden incluir: Menstruaciones abundantes o dolorosas o hemorragia entre los períodos Sensación de "plenitud" en la región baja del abdomen Orinar frecuentemente Dolor durante las relaciones sexuales Dolor en la parte baja de la espalda Problemas reproductivos, como infertilidad, abortos múltiples o parto prematuro Su médico puede encontrar fibromas durante un examen ginecológico o utilizando pruebas de imagen. El tratamiento incluye medicinas que pueden hacer más lento o detener su crecimiento, o cirugía. Muchas mujeres con fibromas pueden quedar embarazadas en forma natural. Para aquellas que no lo logren, tratamientos para la infertilidad pueden ayudar. NIH: Instituto Nacional de Salud Infantil y Desarrollo Humano</dc:description>
+<dc:description xml:lang="en">Uterine fibroids are the most common benign tumors in women of childbearing age. Fibroids are made of muscle cells and other tissues that grow in and around the wall of the uterus, or womb. The cause of fibroids is unknown. Risk factors include being African American or being overweight. Many women with fibroids have no symptoms. If you do have symptoms, they may include Heavy or painful periods or bleeding between periods Feeling "full" in the lower abdomen Urinating often Pain during sex Lower back pain Reproductive problems, such as infertility, multiple miscarriages or early labor Your health care provider may find fibroids during a gynecological exam or by using imaging tests. Treatment includes drugs that can slow or stop their growth, or surgery. If you have no symptoms, you may not even need treatment. Many women with fibroids can get pregnant naturally. For those who cannot, infertility treatments may help. NIH: National Institute of Child Health and Human Development</dc:description>
+<dc:subject dcterms="mesh">Uterine Myomectomy</dc:subject>
+<dc:subject dcterms="mesh">Uterine Neoplasms</dc:subject>
+<dc:subject dcterms="mesh">Leiomyoma</dc:subject>
+<dc:subject xml:lang="es">Fibroides uterinos</dc:subject>
+<dc:subject xml:lang="es">Útero</dc:subject>
+<dc:subject xml:lang="es">Fibroides</dc:subject>
+<dc:subject xml:lang="es">Dilatación y curetaje</dc:subject>
+<dc:subject xml:lang="es">Raspaje</dc:subject>
+<dc:subject xml:lang="en">Uterine Fibroids</dc:subject>
+<dc:subject xml:lang="en">Fibroids</dc:subject>
+<dc:subject xml:lang="en">Uterine Leiomyomata</dc:subject>
+</metadata>
+</record>
+</MedlinePlus-document>

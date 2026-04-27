@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<MedlinePlus-document>
+<record>
+<header>
+<identifier>https://medlineplus.gov/inhalants.html</identifier>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title type="alternate" xml:lang="es">Cemento</dc:title>
+<dc:title type="alternate" xml:lang="es">Gomas</dc:title>
+<dc:title type="alternate" xml:lang="es">Aerosoles, Abuso</dc:title>
+<dc:title type="alternate" xml:lang="es">Pegamentos, Abuso</dc:title>
+<dc:title type="alternate" xml:lang="es">Spray, Abuso</dc:title>
+<dc:title type="alternate" xml:lang="en">Huffing</dc:title>
+<dc:type>Text</dc:type>
+<dc:language>spa</dc:language>
+<dc:language>eng</dc:language>
+<dc:title xml:lang="es">Inhalantes</dc:title>
+<dc:title xml:lang="en">Inhalants</dc:title>
+<dc:publisher>National Library of Medicine</dc:publisher>
+<dc:relation type="IsPartOf">Substance Abuse Problems</dc:relation>
+<dc:date type="created">2005-06-23</dc:date>
+<dc:date type="modified">2017-08-07</dc:date>
+<dc:identifier type="URL" xml:lang="es">https://medlineplus.gov/spanish/inhalants.html</dc:identifier>
+<dc:identifier type="URL" xml:lang="en">https://medlineplus.gov/inhalants.html</dc:identifier>
+<dc:description xml:lang="es">Si tiene hijos, puede temer que sus hijos consuman drogas como la marihuana o el LSD. Pero tal vez no conozca el peligro que algunas sustancias químicas en su propia casa representan. Los productos de uso doméstico como los adhesivos, aerosoles para el pelo, las pinturas y líquidos para encendedores pueden ser drogas para los niños que buscan un estímulo rápido. Muchos jóvenes inhalan los vapores de estos productos sin saber que pueden resultar en problemas de salud graves. Los padres y los niños deben conocer estos peligros. Incluso inhalar una sola vez puede alterar el ritmo cardíaco y disminuir los niveles de oxígeno. Cualquiera de ellos puede causar la muerte. El abuso habitual puede resultar en lesiones graves en el cerebro, el corazón, los riñones y el hígado. NIH: Instituto Nacional sobre el Abuso de Drogas</dc:description>
+<dc:description xml:lang="en">If you're a parent, you may fear that your kids will use drugs such as marijuana or LSD. But you may not realize the dangers of substances in your own home. Household products such as glues, hair sprays, paints and lighter fluid can be drugs for kids in search of a quick high. Many young people inhale vapors from these, not knowing that it can cause serious health problems. Both parents and kids need to know the dangers. Even inhaling once can disrupt heart rhythms and lower oxygen levels. Either of these can cause death. Regular abuse can result in serious harm to the brain, heart, kidneys, and liver. NIH: National Institute on Drug Abuse</dc:description>
+<dc:subject dcterms="mesh">Inhalant Abuse</dc:subject>
+<dc:subject xml:lang="es">Inhalantes</dc:subject>
+<dc:subject xml:lang="es">Cemento</dc:subject>
+<dc:subject xml:lang="es">Gomas</dc:subject>
+<dc:subject xml:lang="es">Aerosoles</dc:subject>
+<dc:subject xml:lang="es">Abuso</dc:subject>
+<dc:subject xml:lang="es">Pegamentos</dc:subject>
+<dc:subject xml:lang="es">Abuso</dc:subject>
+<dc:subject xml:lang="es">Spray</dc:subject>
+<dc:subject xml:lang="es">Abuso</dc:subject>
+<dc:subject xml:lang="en">Inhalants</dc:subject>
+<dc:subject xml:lang="en">Huffing</dc:subject>
+</metadata>
+</record>
+</MedlinePlus-document>

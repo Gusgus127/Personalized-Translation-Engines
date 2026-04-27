@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<MedlinePlus-document>
+<record>
+<header>
+<identifier>https://medlineplus.gov/copingwithchronicillness.html</identifier>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title type="alternate" xml:lang="es">Crónica, Sobrellevando una enfermedad</dc:title>
+<dc:title type="alternate" xml:lang="en">Chronic Illness, Coping</dc:title>
+<dc:type>Text</dc:type>
+<dc:language>spa</dc:language>
+<dc:language>eng</dc:language>
+<dc:title xml:lang="es">Sobrellevando una enfermedad crónica</dc:title>
+<dc:title xml:lang="en">Coping with Chronic Illness</dc:title>
+<dc:publisher>National Library of Medicine</dc:publisher>
+<dc:relation type="IsPartOf">Mental Health and Behavior</dc:relation>
+<dc:date type="created">2005-10-21</dc:date>
+<dc:date type="modified">2017-07-10</dc:date>
+<dc:identifier type="URL" xml:lang="es">https://medlineplus.gov/spanish/copingwithchronicillness.html</dc:identifier>
+<dc:identifier type="URL" xml:lang="en">https://medlineplus.gov/copingwithchronicillness.html</dc:identifier>
+<dc:description xml:lang="es">Tener una enfermedad a largo plazo, o crónica, puede afectar su vida de muchas maneras. Puede sentirse frecuentemente cansado y con dolor. La enfermedad puede alterar su apariencia o sus capacidades físicas, así como su independencia. Es posible que no pueda trabajar, lo que puede ocasionarle problemas financieros. Para los niños, las enfermedades crónicas pueden ser atemorizantes, ya que a veces no entienden por qué les ocurre a ellos. Estos cambios pueden causar estrés, ansiedad y enojo. Si así le sucede, es importante buscar ayuda. Un consejero capacitado puede ayudarlo a desarrollar estrategias para recuperar la sensación de control. Los grupos de apoyo también pueden serle de ayuda. Descubrirá que no está solo y podrá enterarse de nuevos consejos para aprender a lidiar con la enfermedad. Es posible que pueda manejar mejor su enfermedad si aprende más al respecto. Es importante evaluar la información que encuentre para asegurarse de que es confiable. También es importante encontrar un proveedor de atención médica que pueda confiar.</dc:description>
+<dc:description xml:lang="en">Having a long-term, or chronic, illness can disrupt your life in many ways. You may often be tired and in pain. Your illness might affect your appearance or your physical abilities and independence. You may not be able to work, causing financial problems. For children, chronic illnesses can be frightening, because they may not understand why this is happening to them. These changes can cause stress, anxiety, and anger. If they do, it is important to seek help. A trained counselor can help you develop strategies to regain a feeling of control. Support groups might help, too. You will find that you are not alone, and you may learn some new tips on how to cope. You may be able to manage your illness better if learn more about it. It is important to evaluate the information that you find, to make sure that it is reliable. It is also important to find a health care provider that you can trust.</dc:description>
+<dc:subject dcterms="mesh">Chronic Disease</dc:subject>
+<dc:subject xml:lang="es">Sobrellevando una enfermedad crónica</dc:subject>
+<dc:subject xml:lang="es">Crónica</dc:subject>
+<dc:subject xml:lang="es">Sobrellevando una enfermedad</dc:subject>
+<dc:subject xml:lang="en">Coping with Chronic Illness</dc:subject>
+<dc:subject xml:lang="en">Chronic Illness</dc:subject>
+<dc:subject xml:lang="en">Coping</dc:subject>
+</metadata>
+</record>
+</MedlinePlus-document>

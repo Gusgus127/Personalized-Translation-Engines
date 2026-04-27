@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<MedlinePlus-document>
+<record>
+<header>
+<identifier>https://medlineplus.gov/eczema.html</identifier>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:type>Text</dc:type>
+<dc:language>spa</dc:language>
+<dc:language>eng</dc:language>
+<dc:title xml:lang="es">Eccema</dc:title>
+<dc:title xml:lang="en">Eczema</dc:title>
+<dc:publisher>National Library of Medicine</dc:publisher>
+<dc:relation type="IsPartOf">Skin, Hair and Nails</dc:relation>
+<dc:date type="created">2002-07-21</dc:date>
+<dc:date type="modified">2017-11-20</dc:date>
+<dc:identifier type="URL" xml:lang="es">https://medlineplus.gov/spanish/eczema.html</dc:identifier>
+<dc:identifier type="URL" xml:lang="en">https://medlineplus.gov/eczema.html</dc:identifier>
+<dc:description xml:lang="es">Eccema es un término que designa varios tipos distintos de hinchazón de la piel. También se llama dermatitis. La mayoría de los tipos causa sequedad y comezón en la piel, además de sarpullido en la cara, al interior de los codos y detrás de las rodillas; y en las manos y los pies. Rascarse la piel puede enrojecerla, aumentando la hinchazón y picazón. El eccema no es contagioso. La causa es desconocida. Es probable que sea causada por factores genéticos y ambientales. El eccema puede mejorar o empeorar con el tiempo, pero a menudo es una enfermedad de larga duración. Las personas que la padecen también pueden desarrollar fiebre del heno y asma. El tipo más común de eccema es la dermatitis atópica. Es más común en los bebés y los niños, pero también puede afectar a los adultos. A medida que los niños con dermatitis atópica crecen, el problema puede mejorar o desaparecer. Pero a veces la piel puede permanecer seca e irritarse fácilmente. Los tratamientos pueden incluir medicamentos, cremas para la piel, terapia de luz y un buen cuidado de la piel. Usted puede prevenir algunos tipos de eccema, evitando: Las cosas que irritan la piel, como ciertos jabones, telas y lociones El estrés Las cosas que le causan alergia, como ciertos alimentos, el polen y los animales NIH: Instituto Nacional de Artritis y Enfermedades Musculoesqueléticas y de la Piel</dc:description>
+<dc:description xml:lang="en">Eczema is a term for several different types of skin swelling. Eczema is also called dermatitis. Most types cause dry, itchy skin and rashes on the face, inside the elbows and behind the knees, and on the hands and feet. Scratching the skin can cause it to turn red, and to swell and itch even more. Eczema is not contagious. The cause is not known. It is likely caused by both genetic and environmental factors. Eczema may get better or worse over time, but it is often a long-lasting disease. People who have it may also develop hay fever and asthma. The most common type of eczema is atopic dermatitis. It is most common in babies and children but adults can have it too. As children who have atopic dermatitis grow older, this problem may get better or go away. But sometimes the skin may stay dry and get irritated easily. Treatments may include medicines, skin creams, light therapy, and good skin care. You can prevent some types of eczema by avoiding Things that irritate your skin, such as certain soaps, fabrics, and lotions Stress Things you are allergic to, such as food, pollen, and animals NIH: National Institute of Arthritis and Musculoskeletal and Skin Diseases</dc:description>
+<dc:subject dcterms="mesh">Eczema</dc:subject>
+<dc:subject xml:lang="es">Eccema</dc:subject>
+<dc:subject xml:lang="en">Eczema</dc:subject>
+<dc:subject xml:lang="en">Dermatitis</dc:subject>
+<dc:subject xml:lang="en">Atopic Dermatitis</dc:subject>
+</metadata>
+</record>
+</MedlinePlus-document>

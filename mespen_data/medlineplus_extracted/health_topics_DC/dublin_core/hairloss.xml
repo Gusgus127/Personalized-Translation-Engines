@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<MedlinePlus-document>
+<record>
+<header>
+<identifier>https://medlineplus.gov/hairloss.html</identifier>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title type="alternate" xml:lang="es">Cabello, Pérdida</dc:title>
+<dc:title type="alternate" xml:lang="es">Pelo, Caída</dc:title>
+<dc:title type="alternate" xml:lang="es">Caída de cabello</dc:title>
+<dc:title type="alternate" xml:lang="es">Alopecia</dc:title>
+<dc:title type="alternate" xml:lang="en">Alopecia</dc:title>
+<dc:type>Text</dc:type>
+<dc:language>spa</dc:language>
+<dc:language>eng</dc:language>
+<dc:title xml:lang="es">Pérdida de cabello</dc:title>
+<dc:title xml:lang="en">Hair Loss</dc:title>
+<dc:publisher>National Library of Medicine</dc:publisher>
+<dc:relation type="IsPartOf">Skin, Hair and Nails</dc:relation>
+<dc:date type="created">2009-09-02</dc:date>
+<dc:date type="modified">2017-12-21</dc:date>
+<dc:identifier type="URL" xml:lang="es">https://medlineplus.gov/spanish/hairloss.html</dc:identifier>
+<dc:identifier type="URL" xml:lang="en">https://medlineplus.gov/hairloss.html</dc:identifier>
+<dc:description xml:lang="es">Usted pierde cerca de 100 pelos de su cabeza por día. Eso es normal y en la mayoría de las personas esos cabellos vuelven a crecer. Pero muchos hombres, y algunas mujeres, pierden pelo a medida que envejecen. También puede perderlo si sufre ciertas enfermedades, como problemas de la tiroides, diabetes o lupus. Si toma ciertas medicinas o está en tratamiento de quimioterapia por cáncer también puede perder pelo. Otras causas son el estrés, una dieta baja en proteínas, historia familiar o mala nutrición. El tratamiento para la pérdida del cabello depende de las causas. En algunos casos, tratar la causa puede solucionar el problema. Otros tratamientos incluyen medicinas o trasplante capilar.</dc:description>
+<dc:description xml:lang="en">You lose up to 100 hairs from your scalp every day. That's normal, and in most people, those hairs grow back. But many men -- and some women -- lose hair as they grow older. You can also lose your hair if you have certain diseases, such as thyroid problems, diabetes, or lupus. If you take certain medicines or have chemotherapy for cancer, you may also lose your hair. Other causes are stress, a low protein diet, a family history, or poor nutrition. Treatment for hair loss depends on the cause. In some cases, treating the underlying cause will correct the problem. Other treatments include medicines and hair restoration.</dc:description>
+<dc:subject dcterms="mesh">Hypotrichosis</dc:subject>
+<dc:subject xml:lang="es">Pérdida de cabello</dc:subject>
+<dc:subject xml:lang="es">Cabello</dc:subject>
+<dc:subject xml:lang="es">Pérdida</dc:subject>
+<dc:subject xml:lang="es">Pelo</dc:subject>
+<dc:subject xml:lang="es">Caída</dc:subject>
+<dc:subject xml:lang="es">Caída de cabello</dc:subject>
+<dc:subject xml:lang="es">Alopecia</dc:subject>
+<dc:subject xml:lang="en">Hair Loss</dc:subject>
+<dc:subject xml:lang="en">Alopecia</dc:subject>
+</metadata>
+</record>
+</MedlinePlus-document>

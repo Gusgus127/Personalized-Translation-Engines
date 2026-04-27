@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<MedlinePlus-document>
+<record>
+<header>
+<identifier>https://medlineplus.gov/arteriovenousmalformations.html</identifier>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:type>Text</dc:type>
+<dc:language>spa</dc:language>
+<dc:language>eng</dc:language>
+<dc:title xml:lang="es">Malformaciones arteriovenosas</dc:title>
+<dc:title xml:lang="en">Arteriovenous Malformations</dc:title>
+<dc:publisher>National Library of Medicine</dc:publisher>
+<dc:relation type="IsPartOf">Blood, Heart and Circulation</dc:relation>
+<dc:relation type="IsPartOf">Brain and Nerves</dc:relation>
+<dc:date type="created">2007-11-30</dc:date>
+<dc:date type="modified">2018-02-01</dc:date>
+<dc:identifier type="URL" xml:lang="es">https://medlineplus.gov/spanish/arteriovenousmalformations.html</dc:identifier>
+<dc:identifier type="URL" xml:lang="en">https://medlineplus.gov/arteriovenousmalformations.html</dc:identifier>
+<dc:description xml:lang="es">Las malformaciones arteriovenosas son defectos en el sistema vascular. El sistema vascular incluye las arterias, las venas y los capilares. Las arterias llevan sangre desde el corazón hasta otros órganos y las venas llevan la sangre otra vez al corazón. Los capilares conectan las arterias y las venas. Una malformación arteriovenosa es una maraña de arterias y venas enredadas que están conectadas entre sí pero sin capilares. La presencia de una de estas interrumpe el proceso de circulación de la sangre. Las malformaciones arteriovenosas pueden ocurrir en cualquier parte del cuerpo pero son más comunes en el cerebro o en la médula espinal. La mayoría de las personas con este tipo de malformación puede tener algún o ningún síntoma grave aunque a veces pueden causar convulsiones o dolores de cabeza. Esta condición no es común. Las causas se desconocen aunque se sabe que pueden desarrollarse durante el crecimiento del feto o poco después del nacimiento del bebé. Los doctores usan diagnósticos por imágenes para su detección. Existen medicamentos que pueden ayudar con los síntomas de las malformaciones arteriovenosas. El mayor riesgo de esta condición es una hemorragia. El tratamiento puede incluir cirugía o terapia de radiación. Debido a que la cirugía puede ser riesgosa, la persona y el doctor deben analizar la decisión cuidadosamente. NIH: Instituto Nacional de Trastornos Neurológicos y Accidentes Cerebrovasculares</dc:description>
+<dc:description xml:lang="en">Arteriovenous malformations (AVMs) are defects in your vascular system. The vascular system includes arteries, veins, and capillaries. Arteries carry blood away from the heart to other organs; veins carry blood back to the heart. Capillaries connect the arteries and veins. An AVM is a snarled tangle of arteries and veins. They are connected to each other, with no capillaries. That interferes with the blood circulation in an organ. AVMs can happen anywhere, but they are more common in the brain or spinal cord. Most people with brain or spinal cord AVMs have few, if any, major symptoms. Sometimes they can cause seizures or headaches. AVMs are rare. The cause is not known, but they seem to develop during pregnancy or soon after birth. Doctors use imaging tests to detect them. Medicines can help with the symptoms from AVMs. The greatest danger is hemorrhage. Treatment for AVMs can include surgery or focused radiation therapy. Because surgery can be risky, you and your doctor need to make a decision carefully. NIH: National Institute of Neurological Disorders and Stroke</dc:description>
+<dc:subject dcterms="mesh">Arteriovenous Malformations</dc:subject>
+<dc:subject xml:lang="es">Malformaciones arteriovenosas</dc:subject>
+<dc:subject xml:lang="en">Arteriovenous Malformations</dc:subject>
+<dc:subject xml:lang="en">AVM</dc:subject>
+</metadata>
+</record>
+</MedlinePlus-document>

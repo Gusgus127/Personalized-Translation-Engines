@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<MedlinePlus-document>
+<record>
+<header>
+<identifier>https://medlineplus.gov/diabeticnerveproblems.html</identifier>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title type="alternate" xml:lang="es">Neurología y diabetes, Problemas</dc:title>
+<dc:title type="alternate" xml:lang="es">Diabetes y neurología</dc:title>
+<dc:title type="alternate" xml:lang="en">Neuropathy</dc:title>
+<dc:type>Text</dc:type>
+<dc:language>spa</dc:language>
+<dc:language>eng</dc:language>
+<dc:title xml:lang="es">Problemas neurológicos asociados con la diabetes</dc:title>
+<dc:title xml:lang="en">Diabetic Nerve Problems</dc:title>
+<dc:publisher>National Library of Medicine</dc:publisher>
+<dc:relation type="IsPartOf">Endocrine System</dc:relation>
+<dc:relation type="IsPartOf">Diabetes Mellitus</dc:relation>
+<dc:relation type="IsPartOf">Brain and Nerves</dc:relation>
+<dc:date type="created">2002-07-21</dc:date>
+<dc:date type="modified">2018-01-03</dc:date>
+<dc:identifier type="URL" xml:lang="es">https://medlineplus.gov/spanish/diabeticnerveproblems.html</dc:identifier>
+<dc:identifier type="URL" xml:lang="en">https://medlineplus.gov/diabeticnerveproblems.html</dc:identifier>
+<dc:description xml:lang="es">Si tiene diabetes, el nivel de azúcar en su sangre es muy elevado. Con el tiempo, esto puede dañar la capa que cubre los nervios o los vasos sanguíneos que transportan el oxígeno a los nervios. Los nervios dañados pueden dejar de enviar mensajes o enviar las señales nerviosas más lentamente o en momentos equivocados. Este daño se denomina neuropatía diabética. Más de la mitad de las personas con diabetes la tienen. Los síntomas pueden incluir: Entumecimiento en las manos, las piernas o los pies Dolores punzantes, ardor u hormigueo Náusea, vómitos, estreñimiento o diarrea Disfunción sexual Problemas urinarios Mareos al cambiar de posición rápidamente Su doctor diagnosticará la neuropatía diabética con un examen físico y estudios de conducción nerviosa (que verifican la transmisión de señales eléctricas a través de un nervio). El control de la azúcar en la sangre puede ayudar a prevenir los problemas en los nervios o evitar que los que ya existen empeoren. El tratamiento puede incluir analgésicos y otras medicinas. NIH: Instituto Nacional de la Diabetes y las Enfermedades Digestivas y Renales</dc:description>
+<dc:description xml:lang="en">If you have diabetes, your blood glucose, or blood sugar, levels are too high. Over time, this can damage the covering on your nerves or the blood vessels that bring oxygen to your nerves. Damaged nerves may stop sending messages, or may send messages slowly or at the wrong times. This damage is called diabetic neuropathy. Over half of people with diabetes get it. Symptoms may include Numbness in your hands, legs, or feet Shooting pains, burning, or tingling Nausea, vomiting, constipation, or diarrhea Problems with sexual function Urinary problems Dizziness when you change positions quickly Your doctor will diagnose diabetic neuropathy with a physical exam and nerve tests. Controlling your blood sugar can help prevent nerve problems, or keep them from getting worse. Treatment may include pain relief and other medicines. NIH: National Institute of Diabetes and Digestive and Kidney Diseases</dc:description>
+<dc:subject dcterms="mesh">Diabetic Neuropathies</dc:subject>
+<dc:subject xml:lang="es">Problemas neurológicos asociados con la diabetes</dc:subject>
+<dc:subject xml:lang="es">Neurología y diabetes</dc:subject>
+<dc:subject xml:lang="es">Problemas</dc:subject>
+<dc:subject xml:lang="es">Diabetes y neurología</dc:subject>
+<dc:subject xml:lang="en">Diabetic Nerve Problems</dc:subject>
+<dc:subject xml:lang="en">Neuropathy</dc:subject>
+</metadata>
+</record>
+</MedlinePlus-document>

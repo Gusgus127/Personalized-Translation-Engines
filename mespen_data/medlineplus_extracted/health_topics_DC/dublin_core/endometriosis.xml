@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<MedlinePlus-document>
+<record>
+<header>
+<identifier>https://medlineplus.gov/endometriosis.html</identifier>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:type>Text</dc:type>
+<dc:language>spa</dc:language>
+<dc:language>eng</dc:language>
+<dc:title xml:lang="es">Endometriosis</dc:title>
+<dc:title xml:lang="en">Endometriosis</dc:title>
+<dc:publisher>National Library of Medicine</dc:publisher>
+<dc:relation type="IsPartOf">Female Reproductive System</dc:relation>
+<dc:relation type="IsPartOf">Women</dc:relation>
+<dc:date type="created">2002-07-21</dc:date>
+<dc:date type="modified">2017-09-27</dc:date>
+<dc:identifier type="URL" xml:lang="es">https://medlineplus.gov/spanish/endometriosis.html</dc:identifier>
+<dc:identifier type="URL" xml:lang="en">https://medlineplus.gov/endometriosis.html</dc:identifier>
+<dc:description xml:lang="es">El útero, o matriz, es el lugar donde se desarrolla el bebé cuando una mujer está embarazada. La endometriosis es una enfermedad en la que el tipo de tejido que normalmente crece dentro del útero crece fuera del útero. Puede aparecer en los ovarios, las trompas de Falopio, los intestinos o la vejiga. En raras ocasiones, crece en otras partes del cuerpo. Los síntomas incluyen: Dolor, por lo general en el abdomen, la espalda bajao áreas de la pelvis Infertilidad Menstruaciones fuertes y sangrado entre períodos Calambres menstruales dolorosos Algunas mujeres no tienen ningún síntoma. Tener problemas para quedar embarazada puede ser la primera señal. No se conoce la causa de la endometriosis. La cirugía, por lo general una laparoscopia, es hoy la única forma de estar seguro que usted tiene endometriosis. Su médico primero tomará su historia médica, un examen pélvico y tal vez pedirá pruebas de imágenes. No hay cura, pero los tratamientos ayudan con el dolor y la infertilidad. Estos incluyen medicamentos para el dolor, tratamientos hormonales y cirugía. NIH: Instituto Nacional de la Salud Infantil y Desarrollo Humano</dc:description>
+<dc:description xml:lang="en">The uterus, or womb, is the place where a baby grows when a woman is pregnant. Endometriosis is a disease in which the kind of tissue that normally grows inside the uterus grows outside the uterus. It can grow on the ovaries, fallopian tubes, bowels, or bladder. Rarely, it grows in other parts of the body. Symptoms include Pain, usually in the abdomen, lower back, or pelvic areas Infertility Heavy periods and bleeding between periods Painful menstrual cramps Some women have no symptoms at all. Having trouble getting pregnant may be the first sign. The cause of endometriosis is not known. Surgery, usually a laparoscopy, is currently the only way to be sure that you have endometriosis. Your health care provider will first take your medical history, do a pelvic exam, and maybe do imaging tests. There is no cure, but treatments help with pain and infertility. They include pain medicines, hormone treatments, and surgery. NIH: National Institute of Child Health and Human Development</dc:description>
+<dc:subject dcterms="mesh">Endometriosis</dc:subject>
+<dc:subject xml:lang="es">Endometriosis</dc:subject>
+<dc:subject xml:lang="en">Endometriosis</dc:subject>
+<dc:subject xml:lang="en">Adenomyosis</dc:subject>
+</metadata>
+</record>
+</MedlinePlus-document>

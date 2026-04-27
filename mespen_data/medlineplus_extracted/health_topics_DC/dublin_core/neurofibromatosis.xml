@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<MedlinePlus-document>
+<record>
+<header>
+<identifier>https://medlineplus.gov/neurofibromatosis.html</identifier>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title type="alternate" xml:lang="es">Enfermedad de von Recklinghausen</dc:title>
+<dc:title type="alternate" xml:lang="es">Von Recklinghausen, Enfermedad de</dc:title>
+<dc:title type="alternate" xml:lang="en">von Recklinghausen's Disease</dc:title>
+<dc:type>Text</dc:type>
+<dc:language>spa</dc:language>
+<dc:language>eng</dc:language>
+<dc:title xml:lang="es">Neurofibromatosis</dc:title>
+<dc:title xml:lang="en">Neurofibromatosis</dc:title>
+<dc:publisher>National Library of Medicine</dc:publisher>
+<dc:relation type="IsPartOf">Brain and Nerves</dc:relation>
+<dc:relation type="IsPartOf">Cancers</dc:relation>
+<dc:relation type="IsPartOf">Genetics/Birth Defects</dc:relation>
+<dc:date type="created">2002-07-21</dc:date>
+<dc:date type="modified">2018-01-19</dc:date>
+<dc:identifier type="URL" xml:lang="es">https://medlineplus.gov/spanish/neurofibromatosis.html</dc:identifier>
+<dc:identifier type="URL" xml:lang="en">https://medlineplus.gov/neurofibromatosis.html</dc:identifier>
+<dc:description xml:lang="es">La neurofibromatosis es un trastorno genético del sistema nervioso. Afecta la manera en que las células crecen y se forman y provoca el crecimiento de tumores en los nervios. En general, los tumores son benignos, pero a veces pueden convertirse en cáncer. La neurofibromatosis se puede heredar de los padres o puede ocurrir por una mutación (cambio) en los genes. Si usted tiene esta condición, puede transmitirla a sus hijos. Existen tres tipos: Tipo 1 (NF1), que provoca cambios en la piel y deformidades en los huesos. Suele comenzar en la infancia. A veces, los síntomas están presentes al nacer. Tipo 2 (NF2), que causa pérdida del oído, zumbidos en los oídos y problemas de equilibrio. Los síntomas suelen comenzar en la adolescencia. La schwanomatosis provoca un dolor intenso. Es el tipo más raro. Los doctores pueden diagnosticar los diferentes tipos de esta condición basándose en los síntomas. Para diagnosticar NF1 y NF2 también se usan pruebas genéticas. No existe una cura. El tratamiento puede ayudar a controlar los síntomas. Dependiendo del tipo de enfermedad y de su gravedad, el tratamiento puede incluir cirugía para extirpar tumores, radioterapia y medicinas. NIH: Instituto Nacional de Trastornos Neurológicos y Accidentes Cerebrovasculares</dc:description>
+<dc:description xml:lang="en">Neurofibromatosis is a genetic disorder of the nervous system. It mainly affects how nerve cells form and grow. It causes tumors to grow on nerves. You can get neurofibromatosis from your parents, or it can happen because of a mutation (change) in your genes. Once you have it, you can pass it along to your children. Usually the tumors are benign, but sometimes they can become cancerous. There are three types of neurofibromatosis: Type 1 (NF1) causes skin changes and deformed bones. It usually starts in childhood. Sometimes the symptoms are present at birth. Type 2 (NF2) causes hearing loss, ringing in the ears, and poor balance. Symptoms often start in the teen years. Schwannomatosis causes intense pain. It is the rarest type. Doctors diagnose the different types based on the symptoms. Genetic testing is also used to diagnose NF1 and NF2. There is no cure. Treatment can help control symptoms. Depending on the type of disease and how serious it is, treatment may include surgery to remove tumors, radiation therapy, and medicines. NIH: National Institute of Neurological Disorders and Stroke</dc:description>
+<dc:subject dcterms="mesh">Neurofibromatoses</dc:subject>
+<dc:subject xml:lang="es">Neurofibromatosis</dc:subject>
+<dc:subject xml:lang="es">Enfermedad de von Recklinghausen</dc:subject>
+<dc:subject xml:lang="es">Von Recklinghausen</dc:subject>
+<dc:subject xml:lang="es">Enfermedad de</dc:subject>
+<dc:subject xml:lang="en">Neurofibromatosis</dc:subject>
+<dc:subject xml:lang="en">von Recklinghausen's Disease</dc:subject>
+</metadata>
+</record>
+</MedlinePlus-document>

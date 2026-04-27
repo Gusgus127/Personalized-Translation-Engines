@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<MedlinePlus-document>
+<record>
+<header>
+<identifier>https://medlineplus.gov/limbloss.html</identifier>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title type="alternate" xml:lang="es">Amputaciones</dc:title>
+<dc:title type="alternate" xml:lang="es">Pierna, Pérdida de</dc:title>
+<dc:title type="alternate" xml:lang="es">Brazo, Pérdida de</dc:title>
+<dc:title type="alternate" xml:lang="es">Lisiados</dc:title>
+<dc:title type="alternate" xml:lang="en">Phantom Limb</dc:title>
+<dc:title type="alternate" xml:lang="en">Amputation</dc:title>
+<dc:type>Text</dc:type>
+<dc:language>spa</dc:language>
+<dc:language>eng</dc:language>
+<dc:title xml:lang="es">Pérdida de extremidades</dc:title>
+<dc:title xml:lang="en">Limb Loss</dc:title>
+<dc:publisher>National Library of Medicine</dc:publisher>
+<dc:relation type="IsPartOf">Bones, Joints and Muscles</dc:relation>
+<dc:date type="created">2002-07-21</dc:date>
+<dc:date type="modified">2017-11-08</dc:date>
+<dc:identifier type="URL" xml:lang="es">https://medlineplus.gov/spanish/limbloss.html</dc:identifier>
+<dc:identifier type="URL" xml:lang="en">https://medlineplus.gov/limbloss.html</dc:identifier>
+<dc:description xml:lang="es">Las personas pueden perder todo o parte de un brazo o una pierna por varias razones. Las más comunes incluyen: Problemas de circulación. Estos pueden ser resultado de la ateroesclerosis o la diabetes. Los casos severos pueden requerir una amputación Lesiones, incluyendo las por accidentes de tráfico y por combate militar Cáncer Defectos congénitos Algunos amputados sufren de dolores fantasmas, que es la sensación de dolor en la extremidad ausente. Otros problemas físicos incluyen complicaciones por la cirugía y problemas de la piel, en el caso de que use una extremidad artificial. Muchos amputados utilizan las extremidades artificiales. Aprender a usarlas requiere tiempo. La fisioterapia puede ayudarlo a adaptarse. La recuperación tras perder una extremidad puede ser difícil. Sentir tristeza, rabia y frustración es común. Si usted tiene dificultades, hable con su médico. El tratamiento con medicina o con terapia puede ayudar.</dc:description>
+<dc:description xml:lang="en">People can lose all or part of an arm or leg for a number of reasons. Common ones include Problems with blood circulation. These may be the result of atherosclerosis or diabetes. Severe cases may result in amputation. Injuries, including from traffic accidents and military combat Cancer Birth defects Some amputees have phantom pain, which is the feeling of pain in the missing limb. Other physical problems include surgical complications and skin problems, if you wear an artificial limb. Many amputees use an artificial limb. Learning how to use it takes time. Physical therapy can help you adapt. Recovery from the loss of a limb can be hard. Sadness, anger, and frustration are common. If you are having a tough time, talk to your doctor. Treatment with medicine or counseling can help.</dc:description>
+<dc:subject dcterms="mesh">Amputees</dc:subject>
+<dc:subject xml:lang="es">Pérdida de extremidades</dc:subject>
+<dc:subject xml:lang="es">Amputaciones</dc:subject>
+<dc:subject xml:lang="es">Pierna</dc:subject>
+<dc:subject xml:lang="es">Pérdida de</dc:subject>
+<dc:subject xml:lang="es">Brazo</dc:subject>
+<dc:subject xml:lang="es">Pérdida de</dc:subject>
+<dc:subject xml:lang="es">Lisiados</dc:subject>
+<dc:subject xml:lang="en">Limb Loss</dc:subject>
+<dc:subject xml:lang="en">Phantom Limb</dc:subject>
+<dc:subject xml:lang="en">Amputation</dc:subject>
+</metadata>
+</record>
+</MedlinePlus-document>

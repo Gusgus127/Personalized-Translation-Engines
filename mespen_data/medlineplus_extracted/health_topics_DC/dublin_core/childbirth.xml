@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<MedlinePlus-document>
+<record>
+<header>
+<identifier>https://medlineplus.gov/childbirth.html</identifier>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:type>Text</dc:type>
+<dc:language>spa</dc:language>
+<dc:language>eng</dc:language>
+<dc:title xml:lang="es">Parto</dc:title>
+<dc:title xml:lang="en">Childbirth</dc:title>
+<dc:publisher>National Library of Medicine</dc:publisher>
+<dc:relation type="IsPartOf">Female Reproductive System</dc:relation>
+<dc:relation type="IsPartOf">Women</dc:relation>
+<dc:relation type="IsPartOf">Pregnancy and Reproduction</dc:relation>
+<dc:date type="created">2002-07-21</dc:date>
+<dc:date type="modified">2017-11-14</dc:date>
+<dc:identifier type="URL" xml:lang="es">https://medlineplus.gov/spanish/childbirth.html</dc:identifier>
+<dc:identifier type="URL" xml:lang="en">https://medlineplus.gov/childbirth.html</dc:identifier>
+<dc:description xml:lang="es">Cuando esté lista para tener a su bebé, usted comenzará el trabajo de parto. Las señales de que vaya a dar a luz incluyen: Las contracciones regulares comienzan a repetirse en forma más seguida Pérdida de líquido o sangrado de la vagina Dolor de espalda baja sordo Calambres abdominales Llame a su médico si presenta algunas de estas señales, incluso si se trata antes de la fecha de dar a luz. El trabajo de parto prematuro puede comenzar antes de completar las 37 semanas de embarazo. El parto ocurre en tres etapas. La primera etapa comienza con contracciones. Continúa hasta que el cuello uterino se vuelve más delgado y dilatado (estirado) hasta tener unas cuatro pulgadas (10 centímetros) de ancho. La segunda es la etapa activa, en la que se empieza a empujar hacia abajo. La coronación es cuando la cabeza de su bebé se hace visible. Poco después su bebé nace. En la tercera etapa, usted expulsa la placenta. La placenta es el órgano que suministra alimento y oxígeno a su bebé durante el embarazo. Las madres y los bebés son monitoreados de cerca durante el parto. La mayoría de las mujeres son capaces de tener un bebé a través de un parto vaginal normal. Si se presentan complicaciones, puede ser necesario dar a luz con una cirugía mediante una cesárea. NIH: Instituto Nacional de Salud Infantil y Desarrollo Humano</dc:description>
+<dc:description xml:lang="en">When you are ready to have your baby, you'll go through labor. Labor is the process of giving birth. Signs that you might be going into labor include Contractions that are regular then start to come closer together Leaking fluid or bleeding from the vagina Low, dull backache Abdominal cramps Call your health care provider if you have any of these signs, even if it is before your due date. Preterm labor can start before 37 completed weeks of pregnancy. Labor happens in three stages. The first stage begins with contractions. It continues until your cervix has become thinner and dilated (stretched) to about 4 inches wide. The second stage is the active stage, in which you begin to push downward. Crowning is when your baby's scalp comes into view. Shortly afterward, your baby is born. In the third stage, you deliver the placenta. The placenta is the organ that supplied food and oxygen to your baby during pregnancy. Mothers and babies are monitored closely during labor. Most women are able to have a baby through normal vaginal delivery. If there are complications, the baby may need to be delivered surgically by a Cesarean section. NIH: National Institute of Child Health and Human Development</dc:description>
+<dc:subject dcterms="mesh">Labor, Obstetric</dc:subject>
+<dc:subject dcterms="mesh">Delivery, Obstetric</dc:subject>
+<dc:subject xml:lang="es">Parto</dc:subject>
+<dc:subject xml:lang="en">Childbirth</dc:subject>
+<dc:subject xml:lang="en">Labor</dc:subject>
+<dc:subject xml:lang="en">Delivery</dc:subject>
+</metadata>
+</record>
+</MedlinePlus-document>

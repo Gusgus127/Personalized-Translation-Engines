@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<MedlinePlus-document>
+<record>
+<header>
+<identifier>https://medlineplus.gov/tonguedisorders.html</identifier>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title type="alternate" xml:lang="es">Lengua, Trastornos de la</dc:title>
+<dc:title type="alternate" xml:lang="en">Geographic Tongue</dc:title>
+<dc:title type="alternate" xml:lang="en">Glossitis</dc:title>
+<dc:type>Text</dc:type>
+<dc:language>spa</dc:language>
+<dc:language>eng</dc:language>
+<dc:title xml:lang="es">Trastornos de la lengua</dc:title>
+<dc:title xml:lang="en">Tongue Disorders</dc:title>
+<dc:publisher>National Library of Medicine</dc:publisher>
+<dc:relation type="IsPartOf">Mouth and Teeth</dc:relation>
+<dc:date type="created">2009-11-24</dc:date>
+<dc:date type="modified">2017-09-14</dc:date>
+<dc:identifier type="URL" xml:lang="es">https://medlineplus.gov/spanish/tonguedisorders.html</dc:identifier>
+<dc:identifier type="URL" xml:lang="en">https://medlineplus.gov/tonguedisorders.html</dc:identifier>
+<dc:description xml:lang="es">La lengua ayuda a saborear la comida, a tragar y a masticar. También se usa para hablar. Está compuesta de varios músculos. La superficie contiene las papilas gustativas. Los problemas de la lengua incluyen: Dolor Hinchazón Cambios de color o de textura Movimientos anormales o dificultad para moverla Trastornos del gusto Estos problemas pueden ser causados por varias razones. El tratamiento dependerá de éstas razones.</dc:description>
+<dc:description xml:lang="en">Your tongue helps you taste, swallow, and chew. You also use it to speak. Your tongue is made up of many muscles. The upper surface contains your taste buds. Problems with the tongue include Pain Swelling Changes in color or texture Abnormal movement or difficulty moving the tongue Taste problems These problems can have many different causes. Treatment depends on the underlying problem.</dc:description>
+<dc:subject dcterms="mesh">Tongue Diseases</dc:subject>
+<dc:subject xml:lang="es">Trastornos de la lengua</dc:subject>
+<dc:subject xml:lang="es">Lengua</dc:subject>
+<dc:subject xml:lang="es">Trastornos de la</dc:subject>
+<dc:subject xml:lang="en">Tongue Disorders</dc:subject>
+<dc:subject xml:lang="en">Geographic Tongue</dc:subject>
+<dc:subject xml:lang="en">Glossitis</dc:subject>
+</metadata>
+</record>
+</MedlinePlus-document>

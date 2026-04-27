@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<MedlinePlus-document>
+<record>
+<header>
+<identifier>https://medlineplus.gov/bereavement.html</identifier>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title type="alternate" xml:lang="es">Luto</dc:title>
+<dc:title type="alternate" xml:lang="es">Duelo</dc:title>
+<dc:title type="alternate" xml:lang="es">Muerte</dc:title>
+<dc:title type="alternate" xml:lang="es">Pena</dc:title>
+<dc:title type="alternate" xml:lang="en">Grief</dc:title>
+<dc:type>Text</dc:type>
+<dc:language>spa</dc:language>
+<dc:language>eng</dc:language>
+<dc:title xml:lang="es">Pérdida de un ser querido</dc:title>
+<dc:title xml:lang="en">Bereavement</dc:title>
+<dc:publisher>National Library of Medicine</dc:publisher>
+<dc:relation type="IsPartOf">Social/Family Issues</dc:relation>
+<dc:relation type="IsPartOf">Mental Health and Behavior</dc:relation>
+<dc:date type="created">2002-07-21</dc:date>
+<dc:date type="modified">2017-11-07</dc:date>
+<dc:identifier type="URL" xml:lang="es">https://medlineplus.gov/spanish/bereavement.html</dc:identifier>
+<dc:identifier type="URL" xml:lang="en">https://medlineplus.gov/bereavement.html</dc:identifier>
+<dc:description xml:lang="es">El dolor por la pérdida de un ser querido es el período de sufrimiento y duelo después de una muerte. El llorar a alguien es una parte del proceso normal de reacción ante una pérdida. Usted puede experimentar el sufrimiento como una reacción mental, física, social o emocional. Las reacciones mentales pueden incluir el enojo, la culpabilidad, ansiedad, tristeza y desesperación. Las reacciones físicas pueden incluir problemas para dormir, cambios en el apetito, problemas físicos o enfermedades. La duración del dolor por la pérdida de un ser querido puede depender de la cercanía de la relación con la persona fallecida, si era de esperarse la muerte, y otros factores. Los amigos, los familiares y la fe pueden ser fuentes de apoyo. La orientación o la terapia para el sufrimiento también es útil para algunas personas. NIH: Instituto Nacional del Cáncer</dc:description>
+<dc:description xml:lang="en">Bereavement is the period of grief and mourning after a death. When you grieve, it's part of the normal process of reacting to a loss. You may experience grief as a mental, physical, social or emotional reaction. Mental reactions can include anger, guilt, anxiety, sadness and despair. Physical reactions can include sleeping problems, changes in appetite, physical problems or illness. How long bereavement lasts can depend on how close you were to the person who died, if the person's death was expected and other factors. Friends, family and faith may be sources of support. Grief counseling or grief therapy is also helpful to some people. NIH: National Cancer Institute</dc:description>
+<dc:subject dcterms="mesh">Bereavement</dc:subject>
+<dc:subject xml:lang="es">Pérdida de un ser querido</dc:subject>
+<dc:subject xml:lang="es">Luto</dc:subject>
+<dc:subject xml:lang="es">Duelo</dc:subject>
+<dc:subject xml:lang="es">Muerte</dc:subject>
+<dc:subject xml:lang="es">Pena</dc:subject>
+<dc:subject xml:lang="en">Bereavement</dc:subject>
+<dc:subject xml:lang="en">Grief</dc:subject>
+</metadata>
+</record>
+</MedlinePlus-document>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<MedlinePlus-document>
+<record>
+<header>
+<identifier>https://medlineplus.gov/ergonomics.html</identifier>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:type>Text</dc:type>
+<dc:language>spa</dc:language>
+<dc:language>eng</dc:language>
+<dc:title xml:lang="es">Ergonomía</dc:title>
+<dc:title xml:lang="en">Ergonomics</dc:title>
+<dc:publisher>National Library of Medicine</dc:publisher>
+<dc:relation type="IsPartOf">Wellness and Lifestyle</dc:relation>
+<dc:relation type="IsPartOf">Bones, Joints and Muscles</dc:relation>
+<dc:relation type="IsPartOf">Safety Issues</dc:relation>
+<dc:date type="created">2003-07-29</dc:date>
+<dc:date type="modified">2017-11-29</dc:date>
+<dc:identifier type="URL" xml:lang="es">https://medlineplus.gov/spanish/ergonomics.html</dc:identifier>
+<dc:identifier type="URL" xml:lang="en">https://medlineplus.gov/ergonomics.html</dc:identifier>
+<dc:description xml:lang="es">La ergonomía ve el tipo de trabajo que usted hace, las herramientas que utiliza y su ambiente de trabajo como un todo. El objetivo es encontrar la mejor adaptación entre usted y sus condiciones laborales. Algunos ejemplos de cambios ergonómicos en su trabajo pueden incluir: Ajustar la posición del teclado de su computadora para prevenir el síndrome del túnel carpiano Asegurarse que la altura de la silla de su escritorio permite que sus pies descansen horizontalmente en el piso Aprender la forma adecuada de levantar objetos pesados para prevenir lesiones en la espalda Usar cubiertas para las manijas o guantes especiales para disminuir las vibraciones de las herramientas eléctricas Asegurarse de mantener una buena postura en todo lo que haga, ya sea estando sentado frente a una computadora, de pie en el mostrador o caminando por un almacén Independientemente del trabajo, el objetivo es garantizar que esté seguro, cómodo y menos propenso a lesiones relacionadas con el trabajo.</dc:description>
+<dc:description xml:lang="en">Ergonomics looks at what kind of work you do, what tools you use and your whole job environment. The aim is to find the best fit between you and your job conditions. Examples of ergonomic changes to your work might include Adjusting the position of your computer keyboard to prevent carpal tunnel syndrome Being sure that the height of your desk chair allows your feet to rest flat on floor Learning the right way to lift heavy objects to prevent back injuries Using handle coatings or special gloves to suppress vibrations from power tools Making sure that you have good posture in whatever you do, whether it is sitting in front of a computer, standing at a checkout, or walking around a warehouse No matter what the job is, the goal is to make sure that you are safe, comfortable, and less prone to work-related injuries.</dc:description>
+<dc:subject dcterms="mesh">Ergonomics</dc:subject>
+<dc:subject xml:lang="es">Ergonomía</dc:subject>
+<dc:subject xml:lang="en">Ergonomics</dc:subject>
+<dc:subject xml:lang="en">Repetitive Motion Injuries</dc:subject>
+</metadata>
+</record>
+</MedlinePlus-document>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<MedlinePlus-document>
+<record>
+<header>
+<identifier>https://medlineplus.gov/aftersurgery.html</identifier>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title type="alternate" xml:lang="es">Cirugía, Después</dc:title>
+<dc:title type="alternate" xml:lang="en">Postoperative Care</dc:title>
+<dc:type>Text</dc:type>
+<dc:language>spa</dc:language>
+<dc:language>eng</dc:language>
+<dc:title xml:lang="es">Después de una cirugía</dc:title>
+<dc:title xml:lang="en">After Surgery</dc:title>
+<dc:publisher>National Library of Medicine</dc:publisher>
+<dc:relation type="IsPartOf">Surgery and Rehabilitation</dc:relation>
+<dc:date type="created">2010-04-26</dc:date>
+<dc:date type="modified">2017-12-07</dc:date>
+<dc:identifier type="URL" xml:lang="es">https://medlineplus.gov/spanish/aftersurgery.html</dc:identifier>
+<dc:identifier type="URL" xml:lang="en">https://medlineplus.gov/aftersurgery.html</dc:identifier>
+<dc:description xml:lang="es">Después de una operación, usted sentirá algunos efectos secundarios. A veces hay dolor. También puede haber hinchazón e inflamación en el área de la incisión. Su cirujano puede avisarle qué efectos secundarios esperar. También puede haber complicaciones. Hay cosas que no se pueden prever. Algunas complicaciones pueden ser infecciones, sangrado excesivo, reacción a la anestesia o una lesión accidental. Ciertas personas corren más riesgo de complicaciones porque tienen otras condiciones médicas. Su cirujano puede decirle cómo se va a sentir y qué puede - o no puede - hacer los primeros días, semanas o meses después de la cirugía. Algunas preguntas que usted puede hacer: Cuánto tiempo deberá permanecer en el hospital Qué tipo de cosas, equipos y ayuda podría necesitar cuando vuelva a casa Cuándo puede volver a trabajar Cuándo puede volver a hacer ejercicio Existen algunas otras cosas que no debe hacer Seguir las recomendaciones de su cirujano puede ayudarle a recuperarse más rápidamente. Agencia para la Investigación y Calidad de la Atención Médica</dc:description>
+<dc:description xml:lang="en">After any operation, you'll have some side effects. There is usually some pain with surgery. There may also be swelling and soreness around the area that the surgeon cut. Your surgeon can tell you which side effects to expect. There can also be complications. These are unplanned events linked to the operation. Some complications are infection, too much bleeding, reaction to anesthesia, or accidental injury. Some people have a greater risk of complications because of other medical conditions. Your surgeon can tell you how you might feel and what you will be able to do - or not do - the first few days, weeks, or months after surgery. Some other questions to ask are How long you will be in the hospital What kind of supplies, equipment, and help you might need when you go home When you can go back to work When it is ok to start exercising again Are they any other restrictions in your activities Following your surgeon's advice can help you recover as soon as possible. Agency for Healthcare Quality and Research</dc:description>
+<dc:subject dcterms="mesh">Postoperative Complications</dc:subject>
+<dc:subject dcterms="mesh">Postoperative Care</dc:subject>
+<dc:subject xml:lang="es">Después de una cirugía</dc:subject>
+<dc:subject xml:lang="es">Cirugía</dc:subject>
+<dc:subject xml:lang="es">Después</dc:subject>
+<dc:subject xml:lang="en">After Surgery</dc:subject>
+<dc:subject xml:lang="en">Postoperative Care</dc:subject>
+</metadata>
+</record>
+</MedlinePlus-document>

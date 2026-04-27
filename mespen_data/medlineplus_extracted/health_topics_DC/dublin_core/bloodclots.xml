@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<MedlinePlus-document>
+<record>
+<header>
+<identifier>https://medlineplus.gov/bloodclots.html</identifier>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:type>Text</dc:type>
+<dc:language>spa</dc:language>
+<dc:language>eng</dc:language>
+<dc:title xml:lang="es">Coágulos sanguíneos</dc:title>
+<dc:title xml:lang="en">Blood Clots</dc:title>
+<dc:publisher>National Library of Medicine</dc:publisher>
+<dc:relation type="IsPartOf">Blood, Heart and Circulation</dc:relation>
+<dc:date type="created">2012-12-11</dc:date>
+<dc:date type="modified">2018-01-05</dc:date>
+<dc:identifier type="URL" xml:lang="es">https://medlineplus.gov/spanish/bloodclots.html</dc:identifier>
+<dc:identifier type="URL" xml:lang="en">https://medlineplus.gov/bloodclots.html</dc:identifier>
+<dc:description xml:lang="es">En general, si usted sangra, su cuerpo forma un coágulo de sangre para detener la hemorragia. Después de que el sangrado se detiene y se produce la curación, su cuerpo usualmente disuelve y elimina el coágulo. Sin embargo, algunas personas producen demasiados coágulos o su sangre no coagula normalmente. Muchas condiciones pueden hacer que la sangre se coagule demasiado o evitar que los coágulos se disuelvan correctamente. Los factores de riesgo para desarrollar coágulos sanguíneos incluyen: Ciertas enfermedades genéticas Arterioesclerosis Diabetes Fibrilación auricular Exceso de peso, obesidad o síndrome metabólico Algunos medicamentos Fumar Permanecer en una posición durante mucho tiempo, como estar en el hospital o un largo viaje en automóvil o avión Cáncer o tratamientos para el cáncer Los coágulos pueden formarse o viajar a los vasos sanguíneos en el cerebro, corazón, riñones, pulmones y extremidades. Un coágulo que se desarrolla en las venas más profundas de los brazos y piernas se llama trombosis venosa profunda. En general, afecta a las venas profundas de las piernas. Si un coágulo que se desprende de una de estas venas viaja a través del torrente sanguíneo a los pulmones, deteniendo la circulación, se le llama embolia pulmonar. Otras complicaciones de los coágulos sanguíneos incluyen ataque cerebral, ataque cardíaco, problemas en los riñones, falla renal y problemas durante el embarazo. El tratamiento incluye anticoagulantes y otros medicamentos.</dc:description>
+<dc:description xml:lang="en">Normally, if you get hurt, your body forms a blood clot to stop the bleeding. After the bleeding stops and healing takes place, your body usually breaks down and removes the clot. But some people get too many clots or their blood clots abnormally. Many conditions can cause the blood to clot too much or prevent blood clots from dissolving properly. Risk factors for excessive blood clotting include Certain genetic disorders Atherosclerosis Diabetes Atrial fibrillation Overweight, obesity, and metabolic syndrome Some medicines Smoking Staying in one position for a long time, such as being in the hospital or taking a long car or plane ride Cancer and cancer treatments Blood clots can form in, or travel to, the blood vessels in the brain, heart, kidneys, lungs, and limbs. A clot in the veins deep in the limbs is called deep vein thrombosis (DVT). DVT usually affects the deep veins of the legs. If a blood clot in a deep vein breaks off and travels through the bloodstream to the lungs and blocks blood flow, it is called a pulmonary embolism. Other complications of blood clots include stroke, heart attack, kidney problems, kidney failure, and pregnancy-related problems. Treatments for blood clots include blood thinners and other medicines.</dc:description>
+<dc:subject dcterms="mesh">Thrombosis</dc:subject>
+<dc:subject xml:lang="es">Coágulos sanguíneos</dc:subject>
+<dc:subject xml:lang="en">Blood Clots</dc:subject>
+<dc:subject xml:lang="en">Venous Thrombosis</dc:subject>
+<dc:subject xml:lang="en">Thrombophlebitis</dc:subject>
+</metadata>
+</record>
+</MedlinePlus-document>

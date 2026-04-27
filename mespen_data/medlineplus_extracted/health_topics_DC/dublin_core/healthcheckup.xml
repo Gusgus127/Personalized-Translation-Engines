@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<MedlinePlus-document>
+<record>
+<header>
+<identifier>https://medlineplus.gov/healthcheckup.html</identifier>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title type="alternate" xml:lang="es">Chequeo anual</dc:title>
+<dc:title type="alternate" xml:lang="en">Annual Physical Examination</dc:title>
+<dc:type>Text</dc:type>
+<dc:language>spa</dc:language>
+<dc:language>eng</dc:language>
+<dc:title xml:lang="es">Chequeo médico</dc:title>
+<dc:title xml:lang="en">Health Checkup</dc:title>
+<dc:publisher>National Library of Medicine</dc:publisher>
+<dc:relation type="IsPartOf">Wellness and Lifestyle</dc:relation>
+<dc:date type="created">2009-01-05</dc:date>
+<dc:date type="modified">2018-01-09</dc:date>
+<dc:identifier type="URL" xml:lang="es">https://medlineplus.gov/spanish/healthcheckup.html</dc:identifier>
+<dc:identifier type="URL" xml:lang="en">https://medlineplus.gov/healthcheckup.html</dc:identifier>
+<dc:description xml:lang="es">Los chequeos médicos y exámenes pueden detectar problemas antes de que ocurran. También pueden encontrar problemas a tiempo, cuando las posibilidades de cura son mayores. Los chequeos y exámenes que usted necesita, dependerán de su edad, salud, historia familiar y estilo de vida, como por ejemplo, qué come, cuán activo se mantiene y si fuma. Para sacar provecho de su próximo chequeo médico, esto es lo que usted puede hacer antes de ir: Revise su historia médica familiar Averigüe si es tiempo de administrarse vacunas o hacerse ciertos exámenes Haga una lista de temas y preguntas para llevar con usted Centros para el Control y la Prevención de Enfermedades</dc:description>
+<dc:description xml:lang="en">Regular health exams and tests can help find problems before they start. They also can help find problems early, when your chances for treatment and cure are better. Which exams and screenings you need depends on your age, health and family history, and lifestyle choices such as what you eat, how active you are, and whether you smoke. To make the most of your next check-up, here are some things to do before you go: Review your family health history Find out if you are due for any general screenings or vaccinations Write down a list of issues and questions to take with you Centers for Disease Control and Prevention</dc:description>
+<dc:subject dcterms="mesh">Physical Examination</dc:subject>
+<dc:subject xml:lang="es">Chequeo médico</dc:subject>
+<dc:subject xml:lang="es">Chequeo anual</dc:subject>
+<dc:subject xml:lang="en">Health Checkup</dc:subject>
+<dc:subject xml:lang="en">Annual Physical Examination</dc:subject>
+</metadata>
+</record>
+</MedlinePlus-document>

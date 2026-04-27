@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<MedlinePlus-document>
+<record>
+<header>
+<identifier>https://medlineplus.gov/arminjuriesanddisorders.html</identifier>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title type="alternate" xml:lang="es">Brazo, Lesiones y enfermedades</dc:title>
+<dc:type>Text</dc:type>
+<dc:language>spa</dc:language>
+<dc:language>eng</dc:language>
+<dc:title xml:lang="es">Lesiones y enfermedades del brazo</dc:title>
+<dc:title xml:lang="en">Arm Injuries and Disorders</dc:title>
+<dc:publisher>National Library of Medicine</dc:publisher>
+<dc:relation type="IsPartOf">Bones, Joints and Muscles</dc:relation>
+<dc:relation type="IsPartOf">Injuries and Wounds</dc:relation>
+<dc:date type="created">2006-08-30</dc:date>
+<dc:date type="modified">2017-11-20</dc:date>
+<dc:identifier type="URL" xml:lang="es">https://medlineplus.gov/spanish/arminjuriesanddisorders.html</dc:identifier>
+<dc:identifier type="URL" xml:lang="en">https://medlineplus.gov/arminjuriesanddisorders.html</dc:identifier>
+<dc:description xml:lang="es">De los 206 huesos en el cuerpo, tres de ellos se encuentran en el brazo: el húmero, el cúbito y el radio. Los brazos también están formados por músculos, articulaciones, tendones y otros tejidos conectivos. Pueden ocurrir lesiones en cualquiera de estas partes del brazo al practicar algún deporte, en caso de una caída o un accidente. Los tipos de lesiones en el brazo incluyen: Tendinitis y bursitis Torceduras Dislocaciones Fracturas óseas Problemas de los nervios Osteoartritis También puede haber problemas o lesiones en partes específicas del brazo, tales como la mano, la muñeca, el codo o el hombro.</dc:description>
+<dc:description xml:lang="en">Of the 206 bones in your body, three of them are in your arm: the humerus, radius, and ulna. Your arms are also made up of muscles, joints, tendons, and other connective tissue. Injuries to any of these parts of the arm can occur during sports, a fall, or an accident. Types of arm injuries include Tendinitis and bursitis Sprains Dislocations Broken bones Nerve problems Osteoarthritis You may also have problems or injure specific parts of your arm, such as your hand, wrist, elbow, or shoulder.</dc:description>
+<dc:subject dcterms="mesh">Humeral Fractures</dc:subject>
+<dc:subject dcterms="mesh">Radius Fractures</dc:subject>
+<dc:subject dcterms="mesh">Ulna Fractures</dc:subject>
+<dc:subject dcterms="mesh">Arm</dc:subject>
+<dc:subject dcterms="mesh">Arm Injuries</dc:subject>
+<dc:subject xml:lang="es">Lesiones y enfermedades del brazo</dc:subject>
+<dc:subject xml:lang="es">Brazo</dc:subject>
+<dc:subject xml:lang="es">Lesiones y enfermedades</dc:subject>
+<dc:subject xml:lang="en">Arm Injuries and Disorders</dc:subject>
+</metadata>
+</record>
+</MedlinePlus-document>

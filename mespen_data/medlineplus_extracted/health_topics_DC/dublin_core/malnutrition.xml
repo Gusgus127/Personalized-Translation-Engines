@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<MedlinePlus-document>
+<record>
+<header>
+<identifier>https://medlineplus.gov/malnutrition.html</identifier>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:type>Text</dc:type>
+<dc:language>spa</dc:language>
+<dc:language>eng</dc:language>
+<dc:title xml:lang="es">Desnutrición</dc:title>
+<dc:title xml:lang="en">Malnutrition</dc:title>
+<dc:publisher>National Library of Medicine</dc:publisher>
+<dc:relation type="IsPartOf">Food and Nutrition</dc:relation>
+<dc:date type="created">2010-06-01</dc:date>
+<dc:date type="modified">2017-11-08</dc:date>
+<dc:identifier type="URL" xml:lang="es">https://medlineplus.gov/spanish/malnutrition.html</dc:identifier>
+<dc:identifier type="URL" xml:lang="en">https://medlineplus.gov/malnutrition.html</dc:identifier>
+<dc:description xml:lang="es">Los alimentos proveen la energía y nutrientes que usted necesita para mantenerse saludable. Si usted no obtiene suficientes nutrientes - incluyendo proteínas, carbohidratos, grasas, vitaminas y minerales - usted puede sufrir desnutrición. Las causas de desnutrición incluyen: Falta de nutrientes específicos en su dieta. Aún la falta de una vitamina puede conducir a desnutrición Una dieta poco balanceada Algunos problemas médicos como síndromes de malabsorción y cánceres. Los síntomas incluyen cansancio, mareo y pérdida de peso o puede no tener ninguno. Su doctor realizará los exámenes dependiendo de la causa de su problema. El tratamiento puede ser reemplazar los nutrientes que le faltan en la dieta y tratar el problema que causó la desnutrición.</dc:description>
+<dc:description xml:lang="en">Food provides the energy and nutrients you need to be healthy. If you don't get enough nutrients -- including proteins, carbohydrates, fats, vitamins, and minerals - you may suffer from malnutrition. Causes of malnutrition include: Lack of specific nutrients in your diet. Even the lack of one vitamin can lead to malnutrition. An unbalanced diet Certain medical problems, such as malabsorption syndromes and cancers Symptoms may include fatigue, dizziness, and weight loss. Or, you may have no symptoms. To diagnose the cause of the problem, your doctor may do blood tests and a nutritional assessment. Treatment may include replacing the missing nutrients and treating the underlying cause.</dc:description>
+<dc:subject dcterms="mesh">Malnutrition</dc:subject>
+<dc:subject xml:lang="es">Desnutrición</dc:subject>
+<dc:subject xml:lang="en">Malnutrition</dc:subject>
+</metadata>
+</record>
+</MedlinePlus-document>

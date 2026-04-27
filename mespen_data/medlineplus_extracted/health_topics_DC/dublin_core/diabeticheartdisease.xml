@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<MedlinePlus-document>
+<record>
+<header>
+<identifier>https://medlineplus.gov/diabeticheartdisease.html</identifier>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title type="alternate" xml:lang="es">Corazón y diabetes</dc:title>
+<dc:title type="alternate" xml:lang="es">Diabetes y enfermedades del corazón</dc:title>
+<dc:type>Text</dc:type>
+<dc:language>spa</dc:language>
+<dc:language>eng</dc:language>
+<dc:title xml:lang="es">Problemas del corazón asociados con la diabetes</dc:title>
+<dc:title xml:lang="en">Diabetic Heart Disease</dc:title>
+<dc:publisher>National Library of Medicine</dc:publisher>
+<dc:relation type="IsPartOf">Blood, Heart and Circulation</dc:relation>
+<dc:relation type="IsPartOf">Diabetes Mellitus</dc:relation>
+<dc:relation type="IsPartOf">Endocrine System</dc:relation>
+<dc:date type="created">2012-06-11</dc:date>
+<dc:date type="modified">2017-09-01</dc:date>
+<dc:identifier type="URL" xml:lang="es">https://medlineplus.gov/spanish/diabeticheartdisease.html</dc:identifier>
+<dc:identifier type="URL" xml:lang="en">https://medlineplus.gov/diabeticheartdisease.html</dc:identifier>
+<dc:description xml:lang="es">Si usted tiene diabetes o prediabetes, presenta un mayor riesgo de enfermedad cardíaca relacionada con esta. Las enfermedades cardíacas relacionadas con la diabetes pueden ser: enfermedad coronaria, insuficiencia cardíaca y cardiomiopatía diabética. La diabetes por sí misma lo pone en riesgo de enfermedad cardíaca. Otros factores de riesgo incluyen: Historia familiar de enfermedades del corazón Peso extra alrededor de la cintura Niveles anormales de colesterol Presión arterial alta Fumar Algunas personas diabéticas no tienen síntomas de enfermedad cardíaca. Otras, presentan algunos o todos ellos. El tratamiento incluye medicamentos para tratar el daño al corazón o para disminuir el nivel de glucosa (azúcar), presión arterial y colesterol. Y si usted todavía no está tomando una baja dosis de aspirina, su doctor puede sugerírselo. Usted también puede necesitar cirugía o algún otro procedimiento quirúrgico. Un cambio en el estilo de vida puede ayudar. Estos pueden ser: una dieta balanceada, mantener un peso saludable, hacer ejercicio y dejar de fumar. NIH: Instituto Nacional de la Diabetes y las Enfermedades Digestivas y Renales</dc:description>
+<dc:description xml:lang="en">If you have diabetes or pre-diabetes you have an increased risk for heart disease. Diabetic heart disease can be coronary heart disease (CHD), heart failure, and diabetic cardiomyopathy. Diabetes by itself puts you at risk for heart disease. Other risk factors include Family history of heart disease Carrying extra weight around the waist Abnormal cholesterol levels High blood pressure Smoking Some people who have diabetic heart disease have no signs or symptoms of heart disease. Others have some or all of the symptoms of heart disease. Treatments include medications to treat heart damage or to lower your blood glucose (blood sugar), blood pressure, and cholesterol. If you are not already taking a low dose of aspirin every day, your doctor may suggest it. You also may need surgery or some other medical procedure. Lifestyle changes also help. These include a healthy diet, maintaining a healthy weight, being physically active, and quitting smoking. NIH: National Institute of Diabetes and Digestive and Kidney Diseases</dc:description>
+<dc:subject dcterms="mesh">Diabetes Mellitus</dc:subject>
+<dc:subject dcterms="mesh">Heart Diseases</dc:subject>
+<dc:subject dcterms="mesh">Diabetic Cardiomyopathies</dc:subject>
+<dc:subject xml:lang="es">Problemas del corazón asociados con la diabetes</dc:subject>
+<dc:subject xml:lang="es">Corazón y diabetes</dc:subject>
+<dc:subject xml:lang="es">Diabetes y enfermedades del corazón</dc:subject>
+<dc:subject xml:lang="en">Diabetic Heart Disease</dc:subject>
+</metadata>
+</record>
+</MedlinePlus-document>

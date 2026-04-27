@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<MedlinePlus-document>
+<record>
+<header>
+<identifier>https://medlineplus.gov/heartsurgery.html</identifier>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title type="alternate" xml:lang="es">Corazón, Cirugías</dc:title>
+<dc:title type="alternate" xml:lang="en">Cardiac Surgery</dc:title>
+<dc:title type="alternate" xml:lang="en">Open Heart Surgery</dc:title>
+<dc:type>Text</dc:type>
+<dc:language>spa</dc:language>
+<dc:language>eng</dc:language>
+<dc:title xml:lang="es">Cirugías de corazón</dc:title>
+<dc:title xml:lang="en">Heart Surgery</dc:title>
+<dc:publisher>National Library of Medicine</dc:publisher>
+<dc:relation type="IsPartOf">Surgery and Rehabilitation</dc:relation>
+<dc:relation type="IsPartOf">Blood, Heart and Circulation</dc:relation>
+<dc:date type="created">2006-05-02</dc:date>
+<dc:date type="modified">2018-02-07</dc:date>
+<dc:identifier type="URL" xml:lang="es">https://medlineplus.gov/spanish/heartsurgery.html</dc:identifier>
+<dc:identifier type="URL" xml:lang="en">https://medlineplus.gov/heartsurgery.html</dc:identifier>
+<dc:description xml:lang="es">Las cirugías cardíacas pueden corregir problemas en el corazón que otros tratamientos no pudieron solucionar o no se pudieron usar. La cirugía de adultos más común es el bypass de la arteria coronaria, también llamada cirugía de revascularización coronaria. Este procedimiento consiste en tomar una arteria o vena sana que se conecta (bypass) a la arteria coronaria (del corazón) bloqueada. Las cirugías de corazón también se usan para: Reparar o reemplazar las válvulas que controlan el flujo de sangre a través de las cámaras del corazón Reparar estructuras anormales o dañadas Implantar dispositivos para regular el ritmo cardíaco o mantener la función del corazón y el flujo sanguíneo Reemplazar el corazón lesionado por el corazón de un donante Tratar la insuficiencia cardíaca y la enfermedad coronaria Controlar los ritmos cardíacos anormales Las cirugías de corazón tienen riesgos, aunque los resultados, generalmente, son excelentes. Los riesgos incluyen sangrado (hemorragia), infecciones, latidos irregulares y derrame cerebral (ACV). El riesgo aumenta con la edad y si es mujer. También existe mayor riesgo si usted sufre otras enfermedades o condiciones, como diabetes, enfermedad renal, enfermedad pulmonar o enfermedad arterial periférica. NIH: Instituto Nacional del Corazón, los Pulmones y la Sangre</dc:description>
+<dc:description xml:lang="en">Heart surgery can correct problems with the heart if other treatments haven't worked or can't be used. The most common type of heart surgery for adults is coronary artery bypass grafting (CABG). During CABG, a healthy artery or vein from the body is connected, or grafted, to a blocked coronary (heart) artery. Doctors also use heart surgery to Repair or replace heart valves, which control blood flow through the heart Repair abnormal or damaged structures in the heart Implant medical devices that help control the heartbeat or support heart function and blood flow Replace a damaged heart with a healthy heart from a donor Treat heart failure and coronary heart disease Control abnormal heart rhythms Heart surgery has risks, even though its results often are excellent. Risks include bleeding, infection, irregular heartbeats, and stroke. The risk is higher if you are older or a woman. The risk is also higher if you have other diseases or conditions, such as diabetes, kidney disease, lung disease, or peripheral arterial disease. NIH: National Heart, Lung, and Blood Institute</dc:description>
+<dc:subject dcterms="mesh">Cardiac Surgical Procedures</dc:subject>
+<dc:subject xml:lang="es">Cirugías de corazón</dc:subject>
+<dc:subject xml:lang="es">Corazón</dc:subject>
+<dc:subject xml:lang="es">Cirugías</dc:subject>
+<dc:subject xml:lang="en">Heart Surgery</dc:subject>
+<dc:subject xml:lang="en">Cardiac Surgery</dc:subject>
+<dc:subject xml:lang="en">Open Heart Surgery</dc:subject>
+</metadata>
+</record>
+</MedlinePlus-document>

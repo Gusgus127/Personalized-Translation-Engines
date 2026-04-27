@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<MedlinePlus-document>
+<record>
+<header>
+<identifier>https://medlineplus.gov/metabolicdisorders.html</identifier>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title type="alternate" xml:lang="es">Metabolismo</dc:title>
+<dc:title type="alternate" xml:lang="es">Metabolopatía congénita</dc:title>
+<dc:title type="alternate" xml:lang="en">Mucolipidoses</dc:title>
+<dc:type>Text</dc:type>
+<dc:language>spa</dc:language>
+<dc:language>eng</dc:language>
+<dc:title xml:lang="es">Trastornos metabólicos</dc:title>
+<dc:title xml:lang="en">Metabolic Disorders</dc:title>
+<dc:publisher>National Library of Medicine</dc:publisher>
+<dc:relation type="IsPartOf">Metabolic Problems</dc:relation>
+<dc:relation type="IsPartOf">Genetics/Birth Defects</dc:relation>
+<dc:date type="created">2002-08-19</dc:date>
+<dc:date type="modified">2018-01-19</dc:date>
+<dc:identifier type="URL" xml:lang="es">https://medlineplus.gov/spanish/metabolicdisorders.html</dc:identifier>
+<dc:identifier type="URL" xml:lang="en">https://medlineplus.gov/metabolicdisorders.html</dc:identifier>
+<dc:description xml:lang="es">El metabolismo es el proceso que usa el organismo para obtener o producir energía por medio de los alimentos que ingiere. La comida está formada por proteínas, carbohidratos y grasas. Las sustancias químicas del sistema digestivo descomponen las partes de los alimentos en azúcares y ácidos, el combustible de su cuerpo. El organismo puede utilizar esta energía de inmediato o almacenarla en tejidos corporales, como el hígado, los músculos y la grasa corporal. Un trastorno metabólico ocurre cuando hay reacciones químicas anormales en el cuerpo que interrumpen este proceso. Cuando esto pasa, es posible que tenga demasiadas o muy pocas sustancias que su cuerpo necesita para mantenerse saludable. Existen diferentes grupos de trastornos. Algunos afectan la descomposición de los aminoácidos, los carbohidratos o los lípidos. Otro grupo, las enfermedades mitocondriales, afectan la parte de las células que producen la energía. Usted puede desarrollar un trastorno metabólico si algunos órganos, como el hígado o el páncreas, se enferman o no funcionan normalmente. La diabetes es un ejemplo.</dc:description>
+<dc:description xml:lang="en">Metabolism is the process your body uses to get or make energy from the food you eat. Food is made up of proteins, carbohydrates, and fats. Chemicals in your digestive system break the food parts down into sugars and acids, your body's fuel. Your body can use this fuel right away, or it can store the energy in your body tissues, such as your liver, muscles, and body fat. A metabolic disorder occurs when abnormal chemical reactions in your body disrupt this process. When this happens, you might have too much of some substances or too little of other ones that you need to stay healthy. There are different groups of disorders. Some affect the breakdown of amino acids, carbohydrates, or lipids. Another group, mitochondrial diseases, affects the parts of the cells that produce the energy. You can develop a metabolic disorder when some organs, such as your liver or pancreas, become diseased or do not function normally. Diabetes is an example.</dc:description>
+<dc:subject dcterms="mesh">Metabolic Diseases</dc:subject>
+<dc:subject xml:lang="es">Trastornos metabólicos</dc:subject>
+<dc:subject xml:lang="es">Metabolismo</dc:subject>
+<dc:subject xml:lang="es">Metabolopatía congénita</dc:subject>
+<dc:subject xml:lang="en">Metabolic Disorders</dc:subject>
+<dc:subject xml:lang="en">Mucolipidoses</dc:subject>
+</metadata>
+</record>
+</MedlinePlus-document>

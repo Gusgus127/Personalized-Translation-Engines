@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<MedlinePlus-document>
+<record>
+<header>
+<identifier>https://medlineplus.gov/eardisorders.html</identifier>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title type="alternate" xml:lang="es">Oído, Enfermedades del</dc:title>
+<dc:type>Text</dc:type>
+<dc:language>spa</dc:language>
+<dc:language>eng</dc:language>
+<dc:title xml:lang="es">Enfermedades del oído</dc:title>
+<dc:title xml:lang="en">Ear Disorders</dc:title>
+<dc:publisher>National Library of Medicine</dc:publisher>
+<dc:relation type="IsPartOf">Ear, Nose and Throat</dc:relation>
+<dc:date type="created">2002-07-21</dc:date>
+<dc:date type="modified">2018-02-06</dc:date>
+<dc:identifier type="URL" xml:lang="es">https://medlineplus.gov/spanish/eardisorders.html</dc:identifier>
+<dc:identifier type="URL" xml:lang="en">https://medlineplus.gov/eardisorders.html</dc:identifier>
+<dc:description xml:lang="es">El oído tiene tres partes principales: externo, medio e interno. Para oír se utilizan todas ellas. Las ondas sonoras entran por el oído externo. Llegan al oído medio, donde hacen vibrar el tímpano. Las vibraciones se transmiten a través de tres huesos diminutos llamados osículos que se encuentran en el oído medio. Las vibraciones viajan hacia el oído interno, un órgano curvilíneo con forma de serpiente. El oído interno transmite los impulsos nerviosos hasta el cerebro. El cerebro los identifica como sonidos. El oído interno también controla el equilibrio. Muchas enfermedades pueden afectar el oído o el equilibrio: Infecciones de oído son las más comunes en bebés y niños pequeños. Tinnitus, un rumor que se escucha en el oído y que puede ser a consecuencia de ruidos fuertes, medicinas o algunas otras causas. Enfermedad de Ménière puede resultar debido a problemas con líquidos en el oído medio; sus síntomas incluyen tinnitus y vértigo. Barotrauma del oído, que es una lesión al oído a causa de cambios en la presión barométrica (aire) o del agua. Algunas enfermedades del oído pueden terminar en problemas de la audición y sordera.</dc:description>
+<dc:description xml:lang="en">Your ear has three main parts: outer, middle and inner. You use all of them in hearing. Sound waves come in through your outer ear. They reach your middle ear, where they make your eardrum vibrate. The vibrations are transmitted through three tiny bones, called ossicles, in your middle ear. The vibrations travel to your inner ear, a snail-shaped organ. The inner ear makes the nerve impulses that are sent to the brain. Your brain recognizes them as sounds. The inner ear also controls balance. A variety of conditions may affect your hearing or balance: Ear infections are the most common illness in infants and young children. Tinnitus, a roaring in your ears, can be the result of loud noises, medicines or a variety of other causes. Meniere's disease may be the result of fluid problems in your inner ear; its symptoms include tinnitus and dizziness. Ear barotrauma is an injury to your ear because of changes in barometric (air) or water pressure. Some ear disorders can result in hearing disorders and deafness.</dc:description>
+<dc:subject dcterms="mesh">Ear Diseases</dc:subject>
+<dc:subject xml:lang="es">Enfermedades del oído</dc:subject>
+<dc:subject xml:lang="es">Oído</dc:subject>
+<dc:subject xml:lang="es">Enfermedades del</dc:subject>
+<dc:subject xml:lang="en">Ear Disorders</dc:subject>
+</metadata>
+</record>
+</MedlinePlus-document>

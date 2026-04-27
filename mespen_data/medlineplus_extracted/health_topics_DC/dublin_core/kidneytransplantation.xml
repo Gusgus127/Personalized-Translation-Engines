@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<MedlinePlus-document>
+<record>
+<header>
+<identifier>https://medlineplus.gov/kidneytransplantation.html</identifier>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title type="alternate" xml:lang="es">Trasplante renal</dc:title>
+<dc:title type="alternate" xml:lang="es">Riñón, Trasplante de</dc:title>
+<dc:title type="alternate" xml:lang="es">Renal, Trasplante</dc:title>
+<dc:title type="alternate" xml:lang="en">Renal Transplantation</dc:title>
+<dc:type>Text</dc:type>
+<dc:language>spa</dc:language>
+<dc:language>eng</dc:language>
+<dc:title xml:lang="es">Trasplante de riñón</dc:title>
+<dc:title xml:lang="en">Kidney Transplantation</dc:title>
+<dc:publisher>National Library of Medicine</dc:publisher>
+<dc:relation type="IsPartOf">Transplantation and Donation</dc:relation>
+<dc:relation type="IsPartOf">Kidneys and Urinary System</dc:relation>
+<dc:date type="created">2002-07-21</dc:date>
+<dc:date type="modified">2017-06-14</dc:date>
+<dc:identifier type="URL" xml:lang="es">https://medlineplus.gov/spanish/kidneytransplantation.html</dc:identifier>
+<dc:identifier type="URL" xml:lang="en">https://medlineplus.gov/kidneytransplantation.html</dc:identifier>
+<dc:description xml:lang="es">Un trasplante renal es una operación para colocarle un riñón sano en su cuerpo. El riñón trasplantado asume la función de los riñones deficientes y usted no necesitará más tratamiento con diálisis. Durante un trasplante, el cirujano coloca el riñón nuevo en la parte inferior del abdomen y conecta la arteria y la vena renales del mismo a las de su riñón. Con frecuencia, el riñón nuevo comenzará a producir orina en cuanto la sangre comience a fluir a través de él. Pero algunas veces necesita algunas semanas para empezar a funcionar. Muchos riñones trasplantados vienen de donantes que fallecen. Algunos provienen de familiares en vida. La espera de un riñón nuevo puede ser larga. Las personas a quienes se les haya hecho un trasplante deben tomar medicamentos el resto de sus vidas para impedir que su organismo rechace el riñón trasplantado. NIH: Instituto Nacional de la Diabetes y las Enfermedades Digestivas y Renales</dc:description>
+<dc:description xml:lang="en">A kidney transplant is an operation that places a healthy kidney in your body. The transplanted kidney takes over the work of the two kidneys that failed, so you no longer need dialysis. During a transplant, the surgeon places the new kidney in your lower abdomen and connects the artery and vein of the new kidney to your artery and vein. Often, the new kidney will start making urine as soon as your blood starts flowing through it. But sometimes it takes a few weeks to start working. Many transplanted kidneys come from donors who have died. Some come from a living family member. The wait for a new kidney can be long. If you have a transplant, you must take drugs for the rest of your life, to keep your body from rejecting the new kidney. NIH: National Institute of Diabetes and Digestive and Kidney Diseases</dc:description>
+<dc:subject dcterms="mesh">Kidney Transplantation</dc:subject>
+<dc:subject xml:lang="es">Trasplante de riñón</dc:subject>
+<dc:subject xml:lang="es">Trasplante renal</dc:subject>
+<dc:subject xml:lang="es">Riñón</dc:subject>
+<dc:subject xml:lang="es">Trasplante de</dc:subject>
+<dc:subject xml:lang="es">Renal</dc:subject>
+<dc:subject xml:lang="es">Trasplante</dc:subject>
+<dc:subject xml:lang="en">Kidney Transplantation</dc:subject>
+<dc:subject xml:lang="en">Renal Transplantation</dc:subject>
+</metadata>
+</record>
+</MedlinePlus-document>

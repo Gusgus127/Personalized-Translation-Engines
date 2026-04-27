@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<MedlinePlus-document>
+<record>
+<header>
+<identifier>https://medlineplus.gov/preconceptioncare.html</identifier>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:type>Text</dc:type>
+<dc:language>spa</dc:language>
+<dc:language>eng</dc:language>
+<dc:title xml:lang="es">Preconcepción</dc:title>
+<dc:title xml:lang="en">Preconception Care</dc:title>
+<dc:publisher>National Library of Medicine</dc:publisher>
+<dc:relation type="IsPartOf">Pregnancy and Reproduction</dc:relation>
+<dc:relation type="IsPartOf">Men</dc:relation>
+<dc:relation type="IsPartOf">Women</dc:relation>
+<dc:date type="created">2007-05-08</dc:date>
+<dc:date type="modified">2018-01-31</dc:date>
+<dc:identifier type="URL" xml:lang="es">https://medlineplus.gov/spanish/preconceptioncare.html</dc:identifier>
+<dc:identifier type="URL" xml:lang="en">https://medlineplus.gov/preconceptioncare.html</dc:identifier>
+<dc:description xml:lang="es">Si usted está tratando de tener un bebé o está pensando en ello, no es demasiado temprano para prepararse para un embarazo seguro y un bebé sano. Usted debe ver a su proveedor de salud acerca de los cuidados previos a la concepción. El cuidado de preconcepción es la atención que usted recibe antes de quedar embarazada. Su médico puede ayudarle a determinar cuáles son los pasos que debe tomar ahora, como por ejemplo: Encontrar y solucionar cualquier problema que pudiera afectarle a usted y a su bebé más tarde, como la diabetes o la hipertensión arterial Aumentar la cantidad de ácido fólico para prevenir defectos del tubo neural Aplicar todas las vacunas Evitar fumar, beber alcohol o tomar drogas Tratar de llegar a un peso saludable Al tomar acción sobre los problemas de salud antes del embarazo, puede evitarlos usted y su bebé en el futuro. Una vez que está embarazada, se le proporcionará atención prenatal hasta que nazca su bebé. NIH: Instituto Nacional de Salud Infantil y Desarrollo Humano</dc:description>
+<dc:description xml:lang="en">If you are trying to have a baby or are just thinking about it, it is not too early to prepare for a safe pregnancy and a healthy baby. You should see your health care provider for preconception care. Preconception care is care you receive before you get pregnant. Your health care provider can help you figure out which steps you need to take now, such as Finding and taking care of any problems that might affect you and your baby later, like diabetes or high blood pressure Increasing the amount of folic acid you get to prevent neural tube defects Getting up to date on vaccines Avoiding smoking, drinking alcohol, or taking drugs Trying to reach a healthy weight By taking action on health issues before pregnancy, you can prevent many future problems for yourself and your baby. Once you're pregnant, you'll get prenatal care until your baby is born. NIH: National Institute of Child Health and Human Development</dc:description>
+<dc:subject dcterms="mesh">Preconception Care</dc:subject>
+<dc:subject xml:lang="es">Preconcepción</dc:subject>
+<dc:subject xml:lang="en">Preconception Care</dc:subject>
+<dc:subject xml:lang="en">Fertility</dc:subject>
+</metadata>
+</record>
+</MedlinePlus-document>

@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<MedlinePlus-document>
+<record>
+<header>
+<identifier>https://medlineplus.gov/esophagusdisorders.html</identifier>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title type="alternate" xml:lang="es">Esófago, Enfermedades del</dc:title>
+<dc:title type="alternate" xml:lang="es">Esofágicas, Enfermedades</dc:title>
+<dc:title type="alternate" xml:lang="es">Acalasia</dc:title>
+<dc:title type="alternate" xml:lang="es">Espasmos esofágicos</dc:title>
+<dc:title type="alternate" xml:lang="es">Esófago, Espasmos</dc:title>
+<dc:title type="alternate" xml:lang="es">Barret, Síndrome</dc:title>
+<dc:title type="alternate" xml:lang="es">Várices esofágicas sangrantes</dc:title>
+<dc:title type="alternate" xml:lang="es">Esfófago, Várices sangrantes</dc:title>
+<dc:title type="alternate" xml:lang="es">Esofagitis eosinofílica</dc:title>
+<dc:title type="alternate" xml:lang="en">Barrett's Esophagus</dc:title>
+<dc:title type="alternate" xml:lang="en">Achalasia</dc:title>
+<dc:title type="alternate" xml:lang="en">Cardiospasm</dc:title>
+<dc:type>Text</dc:type>
+<dc:language>spa</dc:language>
+<dc:language>eng</dc:language>
+<dc:title xml:lang="es">Enfermedades del esófago</dc:title>
+<dc:title xml:lang="en">Esophagus Disorders</dc:title>
+<dc:publisher>National Library of Medicine</dc:publisher>
+<dc:relation type="IsPartOf">Ear, Nose and Throat</dc:relation>
+<dc:relation type="IsPartOf">Digestive System</dc:relation>
+<dc:date type="created">2002-07-21</dc:date>
+<dc:date type="modified">2018-01-03</dc:date>
+<dc:identifier type="URL" xml:lang="es">https://medlineplus.gov/spanish/esophagusdisorders.html</dc:identifier>
+<dc:identifier type="URL" xml:lang="en">https://medlineplus.gov/esophagusdisorders.html</dc:identifier>
+<dc:description xml:lang="es">El esófago es el tubo muscular que transporta alimentos y líquidos desde la boca al estómago. Es posible que no esté consciente de su esófago hasta que trague algo demasiado grande, demasiado caliente o demasiado frío. También puede notarlo cuando algo anda mal. Puede sentir dolor o tener problemas para tragar. El problema más común con el esófago es la enfermedad por reflujo gastroesofágico (ERGE). La ERGE ocurre cuando un músculo que se encuentra al final del esófago no se cierra adecuadamente. Esto permite al contenido del estómago volver hacia el esófago y lo irrite, conocido como reflujo. Con el tiempo, la ERGE puede causar lesiones en el esófago. Otros problemas incluyen acidez, cáncer y esofagitis. Los médicos pueden usar varios exámenes para diagnosticarla. Estos incluyen pruebas de imagen, una endoscopia superior y una biopsia. El tratamiento depende del problema. Algunas personas mejoran con medicinas sin receta médica o con cambios en la dieta. Otras, pueden necesitar medicinas con receta o cirugía. NIH: Instituto Nacional de la Diabetes y las Enfermedades Digestivas y Renales</dc:description>
+<dc:description xml:lang="en">The esophagus is the muscular tube that carries food, and liquids from your mouth to the stomach. You may not be aware of your esophagus until you swallow something too large, too hot, or too cold. You may also notice it when something is wrong. You may feel pain or have trouble swallowing. The most common problem with the esophagus is GERD (gastroesophageal reflux disease). With GERD, a muscle at the end of your esophagus does not close properly. This allows stomach contents to leak back, or reflux, into the esophagus and irritate it. Over time, GERD can cause damage to the esophagus. Other problems include heartburn, cancer, and esophagitis. Doctors may use various tests to make a diagnosis. These include imaging tests, an upper endoscopy, and a biopsy. Treatment depends on the problem. Some problems get better with over-the-counter medicines or changes in diet. Others may need prescription medicines or surgery. NIH: National Institute of Diabetes and Digestive and Kidney Diseases</dc:description>
+<dc:subject dcterms="mesh">Esophageal Diseases</dc:subject>
+<dc:subject xml:lang="es">Enfermedades del esófago</dc:subject>
+<dc:subject xml:lang="es">Esófago</dc:subject>
+<dc:subject xml:lang="es">Enfermedades del</dc:subject>
+<dc:subject xml:lang="es">Esofágicas</dc:subject>
+<dc:subject xml:lang="es">Enfermedades</dc:subject>
+<dc:subject xml:lang="es">Acalasia</dc:subject>
+<dc:subject xml:lang="es">Espasmos esofágicos</dc:subject>
+<dc:subject xml:lang="es">Esófago</dc:subject>
+<dc:subject xml:lang="es">Espasmos</dc:subject>
+<dc:subject xml:lang="es">Barret</dc:subject>
+<dc:subject xml:lang="es">Síndrome</dc:subject>
+<dc:subject xml:lang="es">Várices esofágicas sangrantes</dc:subject>
+<dc:subject xml:lang="es">Esfófago</dc:subject>
+<dc:subject xml:lang="es">Várices sangrantes</dc:subject>
+<dc:subject xml:lang="es">Esofagitis eosinofílica</dc:subject>
+<dc:subject xml:lang="en">Esophagus Disorders</dc:subject>
+<dc:subject xml:lang="en">Barrett's Esophagus</dc:subject>
+<dc:subject xml:lang="en">Achalasia</dc:subject>
+<dc:subject xml:lang="en">Cardiospasm</dc:subject>
+</metadata>
+</record>
+</MedlinePlus-document>

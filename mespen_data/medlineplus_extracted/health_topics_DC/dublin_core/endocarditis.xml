@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<MedlinePlus-document>
+<record>
+<header>
+<identifier>https://medlineplus.gov/endocarditis.html</identifier>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:type>Text</dc:type>
+<dc:language>spa</dc:language>
+<dc:language>eng</dc:language>
+<dc:title xml:lang="es">Endocarditis</dc:title>
+<dc:title xml:lang="en">Endocarditis</dc:title>
+<dc:publisher>National Library of Medicine</dc:publisher>
+<dc:relation type="IsPartOf">Blood, Heart and Circulation</dc:relation>
+<dc:date type="created">2006-02-27</dc:date>
+<dc:date type="modified">2018-02-07</dc:date>
+<dc:identifier type="URL" xml:lang="es">https://medlineplus.gov/spanish/endocarditis.html</dc:identifier>
+<dc:identifier type="URL" xml:lang="en">https://medlineplus.gov/endocarditis.html</dc:identifier>
+<dc:description xml:lang="es">La endocarditis es una inflamación de la membrana interna del corazón. El tipo más común, la endocarditis bacteriana, ocurre cuando los gérmenes entran al corazón. Estos gérmenes viajan por la sangre desde otra parte del cuerpo, con frecuencia, desde la boca. La endocarditis bacteriana puede dañar las válvulas del corazón. En caso de no tratarse puede amenazar la vida del paciente. Es rara en corazones sanos. Entre los factores de riesgo se incluyen: Una válvula cardiaca anormal o lesionada Una válvula cardiaca artificial Algunos defectos cardíacos presentes al nacer Los signos y síntomas de la endocarditis varían de persona a persona y también pueden cambiar con el tiempo. Estos pueden ser: fiebre, falta de aire, acumulación de líquido en los brazos o piernas, pequeñas manchas rojas en la piel y pérdida de peso. El doctor diagnosticará la endocarditis basándose en sus factores de riesgo, historia clínica, síntomas y exámenes del corazón y de laboratorio. Un tratamiento temprano puede ayudar a evitar las complicaciones. El tratamiento suele incluir altas dosis de antibióticos. Si la válvula al corazón se daña es posible que necesite cirugía. Si usted tiene un alto riesgo de tener endocarditis bacteriana, cepíllese los dientes, use hilo dental y visite al dentista con regularidad. Esto es porque los gérmenes de una infección en las encías pueden entrar al torrente sanguíneo. Si usted tiene un alto riesgo de tener endocarditis, su doctor puede recetarle antibióticos antes de algún procedimiento dental y de ciertos tipos de cirugías. NIH: Instituto Nacional del Corazón, los Pulmones y la Sangre</dc:description>
+<dc:description xml:lang="en">Endocarditis, also called infective endocarditis (IE), is an inflammation of the inner lining of the heart. The most common type, bacterial endocarditis, occurs when germs enter your heart. These germs come through your bloodstream from another part of your body, often your mouth. Bacterial endocarditis can damage your heart valves. If untreated, it can be life-threatening. It is rare in healthy hearts. Risk factors include having An abnormal or damaged heart valve An artificial heart valve Congenital heart defects The signs and symptoms of IE can vary from person to person. They also can vary over time in the same person. Symptoms you might notice include fever, shortness of breath, fluid buildup in your arms or legs, tiny red spots on your skin, and weight loss. Your doctor will diagnose IE based on your risk factors, medical history, signs and symptoms, and lab and heart tests. Early treatment can help you avoid complications. Treatment usually involves high-dose antibiotics. If your heart valve is damaged, you may need surgery. If you're at risk for IE, brush and floss your teeth regularly, and have regular dental checkups. Germs from a gum infection can enter your bloodstream. If you are at high risk, your doctor might prescribe antibiotics before dental work and certain types of surgery. NIH: National Heart, Lung, and Blood Institute</dc:description>
+<dc:subject dcterms="mesh">Endocarditis</dc:subject>
+<dc:subject xml:lang="es">Endocarditis</dc:subject>
+<dc:subject xml:lang="en">Endocarditis</dc:subject>
+</metadata>
+</record>
+</MedlinePlus-document>

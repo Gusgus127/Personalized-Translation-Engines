@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<MedlinePlus-document>
+<record>
+<header>
+<identifier>https://medlineplus.gov/reyesyndrome.html</identifier>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title type="alternate" xml:lang="es">Reye, Síndrome de</dc:title>
+<dc:type>Text</dc:type>
+<dc:language>spa</dc:language>
+<dc:language>eng</dc:language>
+<dc:title xml:lang="es">Síndrome de Reye</dc:title>
+<dc:title xml:lang="en">Reye Syndrome</dc:title>
+<dc:publisher>National Library of Medicine</dc:publisher>
+<dc:relation type="IsPartOf">Brain and Nerves</dc:relation>
+<dc:date type="created">2016-03-10</dc:date>
+<dc:date type="modified">2016-03-10</dc:date>
+<dc:identifier type="URL" xml:lang="es">https://medlineplus.gov/spanish/reyesyndrome.html</dc:identifier>
+<dc:identifier type="URL" xml:lang="en">https://medlineplus.gov/reyesyndrome.html</dc:identifier>
+<dc:description xml:lang="es">El síndrome de Reye es una enfermedad rara que puede afectar la sangre, el hígado y el cerebro de una persona que tuvo una infección viral recientemente. Siempre sigue a otra enfermedad. Cualquier persona puede tenerlo, aunque afecta principalmente a los niños y adolescentes. Puede aparecer rápidamente y sin signos de advertencia. Es más común en la época de gripe. Los síntomas incluyen: Nausea y vómitos Desgano Cambio de personalidad: como la irritabilidad, agresividad o confusión Delirio Convulsiones Pérdida del conocimiento Si estos síntomas ocurren poco tiempo después de una enfermedad viral, busque atención médica inmediatamente. El síndrome de Reye puede causarle coma y muerte cerebral, de modo que el diagnóstico y tratamiento rápido es importante. El tratamiento se enfoca en la prevención del daño cerebral. No existe una cura. La causa del síndrome de Reye no se conoce. Sin embargo, los estudios demostraron que tomar aspirina aumenta el riesgo de adquirirlo. Por ese motivo, los profesionales de la salud recomiendan otros analgésicos para los pacientes jóvenes. NIH: Instituto Nacional de Trastornos Neurológicos y Accidentes Cerebrovasculares</dc:description>
+<dc:description xml:lang="en">Reye syndrome is a rare illness that can affect the blood, liver, and brain of someone who has recently had a viral infection. It always follows another illness. Although it mostly affects children and teens, anyone can get it. It can develop quickly and without warning. It is most common during flu season. Symptoms include Nausea and vomiting Listlessness Personality change - such as irritability, combativeness or confusion Delirium Convulsions Loss of consciousness If these symptoms occur soon after a viral illness, seek medical attention immediately. Reye syndrome can lead to a coma and brain death, so quick diagnosis and treatment are critical. Treatment focuses on preventing brain damage. There is no cure. The cause of Reye syndrome is unknown. Studies have shown that taking aspirin increases the risk of getting it. Because of that, health care professionals now recommend other pain relievers for young patients. NIH: National Institute of Neurological Disorders and Stroke</dc:description>
+<dc:subject dcterms="mesh">Reye Syndrome</dc:subject>
+<dc:subject xml:lang="es">Síndrome de Reye</dc:subject>
+<dc:subject xml:lang="es">Reye</dc:subject>
+<dc:subject xml:lang="es">Síndrome de</dc:subject>
+<dc:subject xml:lang="en">Reye Syndrome</dc:subject>
+</metadata>
+</record>
+</MedlinePlus-document>

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<MedlinePlus-document>
+<record>
+<header>
+<identifier>https://medlineplus.gov/bruises.html</identifier>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title type="alternate" xml:lang="es">Golpes</dc:title>
+<dc:title type="alternate" xml:lang="es">Hematomas</dc:title>
+<dc:title type="alternate" xml:lang="es">Contusiones</dc:title>
+<dc:title type="alternate" xml:lang="es">Magulladuras</dc:title>
+<dc:title type="alternate" xml:lang="es">Equimosis</dc:title>
+<dc:title type="alternate" xml:lang="es">Moretes</dc:title>
+<dc:title type="alternate" xml:lang="en">Contusions</dc:title>
+<dc:type>Text</dc:type>
+<dc:language>spa</dc:language>
+<dc:language>eng</dc:language>
+<dc:title xml:lang="es">Moretones</dc:title>
+<dc:title xml:lang="en">Bruises</dc:title>
+<dc:publisher>National Library of Medicine</dc:publisher>
+<dc:relation type="IsPartOf">Symptoms</dc:relation>
+<dc:relation type="IsPartOf">Skin, Hair and Nails</dc:relation>
+<dc:relation type="IsPartOf">Injuries and Wounds</dc:relation>
+<dc:date type="created">2002-07-21</dc:date>
+<dc:date type="modified">2017-12-29</dc:date>
+<dc:identifier type="URL" xml:lang="es">https://medlineplus.gov/spanish/bruises.html</dc:identifier>
+<dc:identifier type="URL" xml:lang="en">https://medlineplus.gov/bruises.html</dc:identifier>
+<dc:description xml:lang="es">Un moretón o hematoma es una marca en la piel causada por la presencia de sangre atrapada debajo de la superficie de la piel. Ocurre cuando una lesión rompe los vasos sanguíneos pequeños, pero no rompe la piel. Estos vasos se abren y dejan salir la sangre por debajo de la piel. Los moretones o hematomas suelen ser dolorosos e hinchados. Los hematomas pueden ser en la piel, un músculo o un hueso. Los hematomas óseos son los más serios. La desaparición de un hematoma puede llevar meses, pero la mayoría dura aproximadamente dos semanas. Comienzan de un color rojizo, luego se tornan azul violáceo y amarillo verdoso; antes de volver a la coloración normal. Para reducir los hematomas, coloque hielo sobre el área lesionada y elévela por arriba del nivel del corazón. Consulte a su médico si considera que tiene hematomas sin motivo o si parece haber una infección.</dc:description>
+<dc:description xml:lang="en">A bruise is a mark on your skin caused by blood trapped under the surface. It happens when an injury crushes small blood vessels but does not break the skin. Those vessels break open and leak blood under the skin. Bruises are often painful and swollen. You can get skin, muscle and bone bruises. Bone bruises are the most serious. It can take months for a bruise to fade, but most last about two weeks. They start off a reddish color, and then turn bluish-purple and greenish-yellow before returning to normal. To reduce bruising, ice the injured area and elevate it above your heart. See your health care provider if you seem to bruise for no reason, or if the bruise appears to be infected.</dc:description>
+<dc:subject dcterms="mesh">Contusions</dc:subject>
+<dc:subject xml:lang="es">Moretones</dc:subject>
+<dc:subject xml:lang="es">Golpes</dc:subject>
+<dc:subject xml:lang="es">Hematomas</dc:subject>
+<dc:subject xml:lang="es">Contusiones</dc:subject>
+<dc:subject xml:lang="es">Magulladuras</dc:subject>
+<dc:subject xml:lang="es">Equimosis</dc:subject>
+<dc:subject xml:lang="es">Moretes</dc:subject>
+<dc:subject xml:lang="en">Bruises</dc:subject>
+<dc:subject xml:lang="en">Contusions</dc:subject>
+</metadata>
+</record>
+</MedlinePlus-document>

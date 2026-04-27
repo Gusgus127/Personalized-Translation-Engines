@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<MedlinePlus-document>
+<record>
+<header>
+<identifier>https://medlineplus.gov/homecareservices.html</identifier>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title type="alternate" xml:lang="es">Atención médica a domicilio, Servicio de</dc:title>
+<dc:title type="alternate" xml:lang="en">Day Care</dc:title>
+<dc:title type="alternate" xml:lang="en">In-home Care</dc:title>
+<dc:type>Text</dc:type>
+<dc:language>spa</dc:language>
+<dc:language>eng</dc:language>
+<dc:title xml:lang="es">Servicios de atención médica a domicilio</dc:title>
+<dc:title xml:lang="en">Home Care Services</dc:title>
+<dc:publisher>National Library of Medicine</dc:publisher>
+<dc:relation type="IsPartOf">Seniors</dc:relation>
+<dc:relation type="IsPartOf">Health System</dc:relation>
+<dc:date type="created">2002-07-21</dc:date>
+<dc:date type="modified">2017-11-20</dc:date>
+<dc:identifier type="URL" xml:lang="es">https://medlineplus.gov/spanish/homecareservices.html</dc:identifier>
+<dc:identifier type="URL" xml:lang="en">https://medlineplus.gov/homecareservices.html</dc:identifier>
+<dc:description xml:lang="es">La atención médica a domicilio es el cuidado que le permite que una persona con necesidades especiales permanezca en su casa. Puede ser para quienes están envejeciendo, enfermos crónicos, pacientes que se recuperan de cirugías o personas discapacitadas. Los servicios de atención médica a domicilio incluyen: Cuidados personales, como ayuda al bañarse, el lavado del cabello o vestirse Tareas del hogar, como la limpieza, labores en el jardín y lavado de la ropa Cocinar o entregar comidas Cuidado de la salud, como tener una persona que cuide de su salud en su casa Es posible recibir casi cualquier tipo de ayuda en su casa. Algunos tipos de atención y de servicios comunitarios son gratuitos o son donaciones. Usted deberá pagar muchos otros. Algunas veces, los programas gubernamentales o del seguro de salud lo ayudarán a cubrir el costo de algunos servicios de atención médica a domicilio.</dc:description>
+<dc:description xml:lang="en">Home care is care that allows a person with special needs stay in their home. It might be for people who are getting older, are chronically ill, recovering from surgery, or disabled. Home care services include Personal care, such as help with bathing, washing your hair, or getting dressed Homemaking, such as cleaning, yard work, and laundry Cooking or delivering meals Health care, such as having a home health aide come to your home You can get almost any type of help you want in your home. Some types of care and community services are free or donated. Many other types you have to pay for. Sometimes government programs or your health insurance will help cover the cost of certain home care services.</dc:description>
+<dc:subject dcterms="mesh">Home Care Services</dc:subject>
+<dc:subject xml:lang="es">Servicios de atención médica a domicilio</dc:subject>
+<dc:subject xml:lang="es">Atención médica a domicilio</dc:subject>
+<dc:subject xml:lang="es">Servicio de</dc:subject>
+<dc:subject xml:lang="en">Home Care Services</dc:subject>
+<dc:subject xml:lang="en">Day Care</dc:subject>
+<dc:subject xml:lang="en">In-home Care</dc:subject>
+</metadata>
+</record>
+</MedlinePlus-document>

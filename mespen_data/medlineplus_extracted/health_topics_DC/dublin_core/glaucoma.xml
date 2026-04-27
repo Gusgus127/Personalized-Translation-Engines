@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<MedlinePlus-document>
+<record>
+<header>
+<identifier>https://medlineplus.gov/glaucoma.html</identifier>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:type>Text</dc:type>
+<dc:language>spa</dc:language>
+<dc:language>eng</dc:language>
+<dc:title xml:lang="es">Glaucoma</dc:title>
+<dc:title xml:lang="en">Glaucoma</dc:title>
+<dc:publisher>National Library of Medicine</dc:publisher>
+<dc:relation type="IsPartOf">Eyes and Vision</dc:relation>
+<dc:relation type="IsPartOf">Seniors</dc:relation>
+<dc:date type="created">2002-07-21</dc:date>
+<dc:date type="modified">2018-02-06</dc:date>
+<dc:identifier type="URL" xml:lang="es">https://medlineplus.gov/spanish/glaucoma.html</dc:identifier>
+<dc:identifier type="URL" xml:lang="en">https://medlineplus.gov/glaucoma.html</dc:identifier>
+<dc:description xml:lang="es">Glaucoma es un grupo de enfermedades que pueden dañar el nervio óptico. Es la principal causa de ceguera en los Estados Unidos. Suele ocurrir cuando la presión del líquido que se encuentra dentro de los ojos aumenta lentamente y lesiona el nervio óptico. Es posible que al comienzo no haya síntomas. Sin tratamiento, las personas con glaucoma perderán la visión periférica (de lado). Sienten como que están mirando a través de un túnel. Con el tiempo, esta visión de túnel (el campo visual) puede disminuir hasta llevar a la ceguera. Un examen integral del ojo puede determinar si usted padece de glaucoma. Algunas personas corren más riesgo que otras. Estas tendrían que realizarse un examen completo de los ojos por lo menos una vez cada dos años. Quienes están a riesgo son: Afroamericanos mayores de 40 años Personas mayores de 60 años, especialmente personas de ascendencia mexicana Personas con antecedentes familiares de glaucoma No hay cura para el glaucoma, pero puede ser controlado. El tratamiento inmediato en la primera etapa puede ayudar a proteger la pérdida de la visión. Los tratamientos suelen incluir gotas para los ojos y/o cirugía. NIH: Instituto Nacional del Ojo</dc:description>
+<dc:description xml:lang="en">Glaucoma is a group of diseases that can damage the eye's optic nerve. It is a leading cause of blindness in the United States. It usually happens when the fluid pressure inside the eyes slowly rises, damaging the optic nerve. Often there are no symptoms at first. Without treatment, people with glaucoma will slowly lose their peripheral, or side vision. They seem to be looking through a tunnel. Over time, straight-ahead vision may decrease until no vision remains. A comprehensive eye exam can tell if you have glaucoma. People at risk should get eye exams at least every two years. They include African Americans over age 40 People over age 60, especially Mexican Americans People with a family history of glaucoma There is no cure, but glaucoma can usually be controlled. Early treatment can help protect your eyes against vision loss. Treatments usually include prescription eyedrops and/or surgery. NIH: National Eye Institute</dc:description>
+<dc:subject dcterms="mesh">Glaucoma</dc:subject>
+<dc:subject xml:lang="es">Glaucoma</dc:subject>
+<dc:subject xml:lang="en">Glaucoma</dc:subject>
+</metadata>
+</record>
+</MedlinePlus-document>

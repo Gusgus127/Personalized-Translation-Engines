@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<MedlinePlus-document>
+<record>
+<header>
+<identifier>https://medlineplus.gov/fainting.html</identifier>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title type="alternate" xml:lang="es">Síncope</dc:title>
+<dc:title type="alternate" xml:lang="es">Desvanecimiento</dc:title>
+<dc:title type="alternate" xml:lang="en">Syncope</dc:title>
+<dc:title type="alternate" xml:lang="en">Vasovagal Syncope</dc:title>
+<dc:type>Text</dc:type>
+<dc:language>spa</dc:language>
+<dc:language>eng</dc:language>
+<dc:title xml:lang="es">Desmayo</dc:title>
+<dc:title xml:lang="en">Fainting</dc:title>
+<dc:publisher>National Library of Medicine</dc:publisher>
+<dc:relation type="IsPartOf">Brain and Nerves</dc:relation>
+<dc:relation type="IsPartOf">Symptoms</dc:relation>
+<dc:date type="created">2008-02-06</dc:date>
+<dc:date type="modified">2017-08-16</dc:date>
+<dc:identifier type="URL" xml:lang="es">https://medlineplus.gov/spanish/fainting.html</dc:identifier>
+<dc:identifier type="URL" xml:lang="en">https://medlineplus.gov/fainting.html</dc:identifier>
+<dc:description xml:lang="es">El desmayo (o síncope) es una pérdida temporal de la conciencia. Si se esta por desmayar, usted se sentirá mareado, con vértigo o con nauseas. Puede que vea "todo blanco" o "todo negro". Su piel puede sentirse fría y húmeda. Puede perder el control de sus músculos y caerse. El desmayo suele ocurrir cuando la presión sanguínea baja de repente y causa que el flujo de la sangre al cerebro disminuya. Esto es más común en las personas mayores. Entre las causas del desmayo se incluyen: Calor o deshidratación Angustia Ponerse de pie demasiado rápido Algunas medicinas Descenso del nivel de azúcar en la sangre Problemas del corazón Si alguien se desmaya, asegúrese que las vías respiratorias estén despejadas para que pueda respirar sin problemas. La persona debe quedarse acostada unos 10 a 15 minutos. La mayoría de la gente se recupera por completo. Por lo general, los desmayos no son nada de qué preocuparse, pero a veces, pueden ser una señal de algún problema serio. Si se desmayó, es importante que vea a un médico y descubra por qué ocurrió. NIH: Instituto Nacional de Trastornos Neurológicos y Accidentes Cerebrovasculares</dc:description>
+<dc:description xml:lang="en">Fainting is a temporary loss of consciousness. If you're about to faint, you'll feel dizzy, lightheaded, or nauseous. Your field of vision may "white out" or "black out." Your skin may be cold and clammy. You lose muscle control at the same time, and may fall down. Fainting usually happens when your blood pressure drops suddenly, causing a decrease in blood flow to your brain. It is more common in older people. Some causes of fainting include Heat or dehydration Emotional distress Standing up too quickly Certain medicines Drop in blood sugar Heart problems When someone faints, make sure that the airway is clear and check for breathing. The person should stay lying down for 10-15 minutes. Most people recover completely. Fainting is usually nothing to worry about, but it can sometimes be a sign of a serious problem. If you faint, it's important to see your health care provider and find out why it happened.</dc:description>
+<dc:subject dcterms="mesh">Syncope</dc:subject>
+<dc:subject xml:lang="es">Desmayo</dc:subject>
+<dc:subject xml:lang="es">Síncope</dc:subject>
+<dc:subject xml:lang="es">Desvanecimiento</dc:subject>
+<dc:subject xml:lang="en">Fainting</dc:subject>
+<dc:subject xml:lang="en">Syncope</dc:subject>
+<dc:subject xml:lang="en">Vasovagal Syncope</dc:subject>
+</metadata>
+</record>
+</MedlinePlus-document>

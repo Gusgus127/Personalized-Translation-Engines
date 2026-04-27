@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<MedlinePlus-document>
+<record>
+<header>
+<identifier>https://medlineplus.gov/braintumors.html</identifier>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title type="alternate" xml:lang="es">Cerebro, Cáncer de</dc:title>
+<dc:title type="alternate" xml:lang="es">Tumor de la fosa posterior</dc:title>
+<dc:title type="alternate" xml:lang="es">Tumor hipotalámico</dc:title>
+<dc:title type="alternate" xml:lang="es">Cerebral, Tumor</dc:title>
+<dc:title type="alternate" xml:lang="es">Cerebro, Tumor</dc:title>
+<dc:title type="alternate" xml:lang="en">Meningioma</dc:title>
+<dc:title type="alternate" xml:lang="en">Glioma</dc:title>
+<dc:title type="alternate" xml:lang="en">Brain Cancer</dc:title>
+<dc:type>Text</dc:type>
+<dc:language>spa</dc:language>
+<dc:language>eng</dc:language>
+<dc:title xml:lang="es">Tumores cerebrales</dc:title>
+<dc:title xml:lang="en">Brain Tumors</dc:title>
+<dc:publisher>National Library of Medicine</dc:publisher>
+<dc:relation type="IsPartOf">Cancers</dc:relation>
+<dc:relation type="IsPartOf">Brain and Nerves</dc:relation>
+<dc:date type="created">2002-07-21</dc:date>
+<dc:date type="modified">2018-01-23</dc:date>
+<dc:identifier type="URL" xml:lang="es">https://medlineplus.gov/spanish/braintumors.html</dc:identifier>
+<dc:identifier type="URL" xml:lang="en">https://medlineplus.gov/braintumors.html</dc:identifier>
+<dc:description xml:lang="es">Un tumor cerebral es un crecimiento de células anormales en el tejido del cerebro. Los tumores pueden ser benignos (sin células de cáncer) o malignos (con células cancerígenas que crecen muy rápido). Algunos son primarios, o sea, que comienzan en el cerebro. Otros son metastásicos, o sea, que comenzaron en alguna otra parte del cuerpo y llegan al cerebro. Los tumores en el cerebro pueden mostrar varios síntomas. Estos son algunos de los más comunes: Dolores de cabeza, generalmente por la mañana Náusea y vómitos Cambios en la capacidad para hablar, escuchar o ver Problemas de equilibrio o al caminar Problemas con el pensamiento o la memoria Debilidad o sentir muchas ganas de dormir Cambios en el estado de ánimo o conducta Convulsiones Los doctores diagnostican estos tumores por medio de un examen neurológico y otras pruebas como imágenes por resonancia magnética, tomografía computarizada o una biopsia. El tratamiento incluye la espera cautelosa (vigilancia sin administrar ningún tratamiento hasta que los síntomas se presenten o cambien), cirugía, radiación, quimioterapia y terapia dirigida (tratamiento en el que se usan medicamentos u otras sustancias para identificar y atacar células cancerosas específicas sin dañar las células normales). La mayoría de las personas, recibe una combinación de estos. NIH: Instituto Nacional del Cáncer</dc:description>
+<dc:description xml:lang="en">A brain tumor is a growth of abnormal cells in the tissues of the brain. Brain tumors can be benign, with no cancer cells, or malignant, with cancer cells that grow quickly. Some are primary brain tumors, which start in the brain. Others are metastatic, and they start somewhere else in the body and move to the brain. Brain tumors can cause many symptoms. Some of the most common are Headaches, often in the morning Nausea and vomiting Changes in your ability to talk, hear, or see Problems with balance or walking Problems with thinking or memory Feeling weak or sleepy Changes in your mood or behavior Seizures Doctors diagnose brain tumors by doing a neurologic exam and tests including an MRI, CT scan, and biopsy. Treatment options include watchful waiting, surgery, radiation therapy, chemotherapy, and targeted therapy. Targeted therapy uses substances that attack cancer cells without harming normal cells. Many people get a combination of treatments. NIH: National Cancer Institute</dc:description>
+<dc:subject dcterms="mesh">Brain Neoplasms</dc:subject>
+<dc:subject xml:lang="es">Tumores cerebrales</dc:subject>
+<dc:subject xml:lang="es">Cerebro</dc:subject>
+<dc:subject xml:lang="es">Cáncer de</dc:subject>
+<dc:subject xml:lang="es">Tumor de la fosa posterior</dc:subject>
+<dc:subject xml:lang="es">Tumor hipotalámico</dc:subject>
+<dc:subject xml:lang="es">Cerebral</dc:subject>
+<dc:subject xml:lang="es">Tumor</dc:subject>
+<dc:subject xml:lang="es">Cerebro</dc:subject>
+<dc:subject xml:lang="es">Tumor</dc:subject>
+<dc:subject xml:lang="en">Brain Tumors</dc:subject>
+<dc:subject xml:lang="en">Meningioma</dc:subject>
+<dc:subject xml:lang="en">Glioma</dc:subject>
+<dc:subject xml:lang="en">Brain Cancer</dc:subject>
+</metadata>
+</record>
+</MedlinePlus-document>

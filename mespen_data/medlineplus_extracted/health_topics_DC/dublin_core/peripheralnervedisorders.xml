@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<MedlinePlus-document>
+<record>
+<header>
+<identifier>https://medlineplus.gov/peripheralnervedisorders.html</identifier>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title type="alternate" xml:lang="es">Neuropatía</dc:title>
+<dc:title type="alternate" xml:lang="es">Sistema nervioso periférico, Enfermedades del</dc:title>
+<dc:title type="alternate" xml:lang="en">Neuropathy</dc:title>
+<dc:type>Text</dc:type>
+<dc:language>spa</dc:language>
+<dc:language>eng</dc:language>
+<dc:title xml:lang="es">Enfermedades del sistema nervioso periférico</dc:title>
+<dc:title xml:lang="en">Peripheral Nerve Disorders</dc:title>
+<dc:publisher>National Library of Medicine</dc:publisher>
+<dc:relation type="IsPartOf">Brain and Nerves</dc:relation>
+<dc:date type="created">2003-02-07</dc:date>
+<dc:date type="modified">2018-01-19</dc:date>
+<dc:identifier type="URL" xml:lang="es">https://medlineplus.gov/spanish/peripheralnervedisorders.html</dc:identifier>
+<dc:identifier type="URL" xml:lang="en">https://medlineplus.gov/peripheralnervedisorders.html</dc:identifier>
+<dc:description xml:lang="es">Los nervios periféricos son aquellos que se encuentran fuera del cerebro y de la médula espinal. Como la estática en una línea telefónica, los trastornos de los nervios periféricos distorsionan o interrumpen los mensajes entre el cerebro y el resto del cuerpo. Existen más de 100 tipos de trastornos de los nervios periféricos. Estos pueden afectar a uno o a muchos nervios. Algunos surgen como resultado de otras enfermedades, como los problemas neurológicos de los diabéticos. Otros, como el síndrome de Guillain-Barre, ocurren después de una infección viral. Otros más, a consecuencia de la compresión de un nervio, como el síndrome del túnel del carpo o el síndrome de la salida torácica. En algunos casos, como el síndrome de dolor regional complejo y las lesiones del plexo braquial, el problema se inicia a partir de una lesión. Algunas personas nacen con trastornos en los nervios periféricos. Los síntomas suelen comenzar gradualmente y después empeorar. Entre ellos se encuentran: Entumecimiento Dolor Ardor u hormigueo Debilidad muscular Sensibilidad al tacto El tratamiento busca tratar cualquier problema subyacente, mitigar el dolor y controlar los síntomas. NIH: Instituto Nacional de Trastornos Neurológicos y Accidentes Cerebrovasculares</dc:description>
+<dc:description xml:lang="en">Your peripheral nerves are the ones outside your brain and spinal cord. Like static on a telephone line, peripheral nerve disorders distort or interrupt the messages between the brain and the rest of the body. There are more than 100 kinds of peripheral nerve disorders. They can affect one nerve or many nerves. Some are the result of other diseases, like diabetic nerve problems. Others, like Guillain-Barre syndrome, happen after a virus infection. Still others are from nerve compression, like carpal tunnel syndrome or thoracic outlet syndrome. In some cases, like complex regional pain syndrome and brachial plexus injuries, the problem begins after an injury. Some people are born with peripheral nerve disorders. Symptoms often start gradually, and then get worse. They include Numbness Pain Burning or tingling Muscle weakness Sensitivity to touch Treatment aims to treat any underlying problem, reduce pain and control symptoms. NIH: National Institute of Neurological Disorders and Stroke</dc:description>
+<dc:subject dcterms="mesh">Peripheral Nervous System Diseases</dc:subject>
+<dc:subject dcterms="mesh">Peripheral Nerve Injuries</dc:subject>
+<dc:subject xml:lang="es">Enfermedades del sistema nervioso periférico</dc:subject>
+<dc:subject xml:lang="es">Neuropatía</dc:subject>
+<dc:subject xml:lang="es">Sistema nervioso periférico</dc:subject>
+<dc:subject xml:lang="es">Enfermedades del</dc:subject>
+<dc:subject xml:lang="en">Peripheral Nerve Disorders</dc:subject>
+<dc:subject xml:lang="en">Neuropathy</dc:subject>
+</metadata>
+</record>
+</MedlinePlus-document>

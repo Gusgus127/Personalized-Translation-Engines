@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<MedlinePlus-document>
+<record>
+<header>
+<identifier>https://medlineplus.gov/depression.html</identifier>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:type>Text</dc:type>
+<dc:language>spa</dc:language>
+<dc:language>eng</dc:language>
+<dc:title xml:lang="es">Depresión</dc:title>
+<dc:title xml:lang="en">Depression</dc:title>
+<dc:publisher>National Library of Medicine</dc:publisher>
+<dc:relation type="IsPartOf">Mental Health and Behavior</dc:relation>
+<dc:date type="created">2002-07-21</dc:date>
+<dc:date type="modified">2018-01-17</dc:date>
+<dc:identifier type="URL" xml:lang="es">https://medlineplus.gov/spanish/depression.html</dc:identifier>
+<dc:identifier type="URL" xml:lang="en">https://medlineplus.gov/depression.html</dc:identifier>
+<dc:description xml:lang="es">La depresión es una enfermedad clínica severa. Es más que sentirse "triste" por algunos días. Si usted es uno de los más de 19 millones de jóvenes y adultos en los EE. UU. que tiene depresión, esos sentimientos no desaparecen. Persisten e interfieren con su vida cotidiana. Los síntomas pueden incluir: Sentirse triste o "vacío" Pérdida de interés en sus actividades favoritas Aumento o pérdida del apetito No poder dormir o dormir demasiado Sentirse muy cansado Sentirse sin esperanzas, irritable, ansioso o culpable Dolores de cabeza, calambres o problemas digestivos Ideas de muerte o de suicidio La depresión es un trastorno del cerebro. Existen muchas causas, incluyendo factores genéticos, biológicos, ambientales y psicológicos. La depresión puede comenzar a cualquier edad, pero suele empezar en la juventud o en adultos jóvenes. Es mucho más común en las mujeres. Las mujeres también pueden tener depresión posparto después de dar a luz. Algunas personas tienen un trastorno afectivo estacional en el invierno. La depresión es una parte del trastorno bipolar. Existen tratamientos eficaces para la depresión, incluyendo antidepresivos y terapia de conversación, o ambos a la vez. NIH: Instituto Nacional de la Salud Mental</dc:description>
+<dc:description xml:lang="en">Depression is a serious medical illness. It's more than just a feeling of being sad or "blue" for a few days. If you are one of the more than 19 million teens and adults in the United States who have depression, the feelings do not go away. They persist and interfere with your everyday life. Symptoms can include Feeling sad or "empty" Loss of interest in favorite activities Overeating, or not wanting to eat at all Not being able to sleep, or sleeping too much Feeling very tired Feeling hopeless, irritable, anxious, or guilty Aches or pains, headaches, cramps, or digestive problems Thoughts of death or suicide Depression is a disorder of the brain. There are a variety of causes, including genetic, biological, environmental, and psychological factors. Depression can happen at any age, but it often begins in teens and young adults. It is much more common in women. Women can also get postpartum depression after the birth of a baby. Some people get seasonal affective disorder in the winter. Depression is one part of bipolar disorder. There are effective treatments for depression, including antidepressants, talk therapy, or both. NIH: National Institute of Mental Health</dc:description>
+<dc:subject dcterms="mesh">Depression</dc:subject>
+<dc:subject xml:lang="es">Depresión</dc:subject>
+<dc:subject xml:lang="en">Depression</dc:subject>
+<dc:subject xml:lang="en">Dysthymic Disorder</dc:subject>
+</metadata>
+</record>
+</MedlinePlus-document>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<MedlinePlus-document>
+<record>
+<header>
+<identifier>https://medlineplus.gov/nursinghomes.html</identifier>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title type="alternate" xml:lang="es">Atención médica prolongada</dc:title>
+<dc:title type="alternate" xml:lang="es">Geriátricos</dc:title>
+<dc:title type="alternate" xml:lang="en">Long-Term Care</dc:title>
+<dc:type>Text</dc:type>
+<dc:language>spa</dc:language>
+<dc:language>eng</dc:language>
+<dc:title xml:lang="es">Asilo de ancianos y convalecientes</dc:title>
+<dc:title xml:lang="en">Nursing Homes</dc:title>
+<dc:publisher>National Library of Medicine</dc:publisher>
+<dc:relation type="IsPartOf">Seniors</dc:relation>
+<dc:relation type="IsPartOf">Health System</dc:relation>
+<dc:date type="created">2002-07-21</dc:date>
+<dc:date type="modified">2017-11-20</dc:date>
+<dc:identifier type="URL" xml:lang="es">https://medlineplus.gov/spanish/nursinghomes.html</dc:identifier>
+<dc:identifier type="URL" xml:lang="en">https://medlineplus.gov/nursinghomes.html</dc:identifier>
+<dc:description xml:lang="es">Un asilo para ancianos y convalecientes es un lugar para personas que no necesitan permanecer en un hospital, pero que necesitan cuidados especiales. La mayoría de estos centros cuentan con personal de enfermería capacitada disponible las 24 horas del día. Algunos asilos están equipados como un hospital. El personal presta cuidados médicos, así como fisioterapia y terapia del habla y ocupacional. Puede haber un puesto de enfermería en cada piso. Otros centros procuran aparentar ser más un hogar. Tratan de brindar una sensación de vecindario. Con frecuencia, no tienen un cronograma diario fijo y pueden contar con cocinas abiertas para los residentes. Se les fomenta a los integrantes del personal a establecer relaciones con los ocupantes. Algunos asilos de ancianos cuentan con unidades de cuidados especiales para personas con problemas serios de memoria, tales como la enfermedad de Alzheimer. Algunos permiten la convivencia en pareja. Los asilos no son sólo para ancianos, sino para cualquier persona que necesite de cuidados las 24 horas del día. NIH: Instituto Nacional sobre el Envejecimiento</dc:description>
+<dc:description xml:lang="en">A nursing home is a place for people who don't need to be in a hospital but can't be cared for at home. Most nursing homes have nursing aides and skilled nurses on hand 24 hours a day. Some nursing homes are set up like a hospital. The staff provides medical care, as well as physical, speech and occupational therapy. There might be a nurses' station on each floor. Other nursing homes try to be more like home. They try to have a neighborhood feel. Often, they don't have a fixed day-to-day schedule, and kitchens might be open to residents. Staff members are encouraged to develop relationships with residents. Some nursing homes have special care units for people with serious memory problems such as Alzheimer's disease. Some will let couples live together. Nursing homes are not only for the elderly, but for anyone who requires 24-hour care. NIH: National Institute on Aging</dc:description>
+<dc:subject dcterms="mesh">Nursing Homes</dc:subject>
+<dc:subject xml:lang="es">Asilo de ancianos y convalecientes</dc:subject>
+<dc:subject xml:lang="es">Atención médica prolongada</dc:subject>
+<dc:subject xml:lang="es">Geriátricos</dc:subject>
+<dc:subject xml:lang="en">Nursing Homes</dc:subject>
+<dc:subject xml:lang="en">Long-Term Care</dc:subject>
+</metadata>
+</record>
+</MedlinePlus-document>

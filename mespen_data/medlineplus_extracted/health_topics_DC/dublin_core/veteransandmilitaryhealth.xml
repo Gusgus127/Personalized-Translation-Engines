@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<MedlinePlus-document>
+<record>
+<header>
+<identifier>https://medlineplus.gov/veteransandmilitaryhealth.html</identifier>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title type="alternate" xml:lang="es">Agente naranja</dc:title>
+<dc:title type="alternate" xml:lang="es">Guerra del Golfo Pérsico</dc:title>
+<dc:title type="alternate" xml:lang="es">Síndrome de la guerra del Golfo</dc:title>
+<dc:title type="alternate" xml:lang="es">Veterano, Salud del</dc:title>
+<dc:title type="alternate" xml:lang="en">Agent Orange</dc:title>
+<dc:title type="alternate" xml:lang="en">Gulf War Syndrome</dc:title>
+<dc:title type="alternate" xml:lang="en">Persian Gulf War</dc:title>
+<dc:title type="alternate" xml:lang="en">Military Health</dc:title>
+<dc:title type="alternate" xml:lang="en">Veterans Health</dc:title>
+<dc:type>Text</dc:type>
+<dc:language>spa</dc:language>
+<dc:language>eng</dc:language>
+<dc:title xml:lang="es">Salud del veterano y personal militar</dc:title>
+<dc:title xml:lang="en">Veterans and Military Health</dc:title>
+<dc:publisher>National Library of Medicine</dc:publisher>
+<dc:relation type="IsPartOf">Health System</dc:relation>
+<dc:relation type="IsPartOf">Population Groups</dc:relation>
+<dc:date type="created">2002-07-21</dc:date>
+<dc:date type="modified">2017-06-23</dc:date>
+<dc:identifier type="URL" xml:lang="es">https://medlineplus.gov/spanish/veteransandmilitaryhealth.html</dc:identifier>
+<dc:identifier type="URL" xml:lang="en">https://medlineplus.gov/veteransandmilitaryhealth.html</dc:identifier>
+<dc:description xml:lang="es">Los miembros de las fuerzas armadas y los veteranos de guerra han hecho sacrificios por nuestro país, y enfrentan problemas de salud distintos a los de la población civil. Durante su servicio, están en riesgo de sufrir lesiones. Estas pueden ocurrir durante el combate, mientras otras involucran estrés físico sobre el cuerpo. Algunas veces estas lesiones ponen en riesgo la vida o son lo suficientemente graves para causar discapacidades. Otras pueden no ser tan serias, pero pueden causar dolor y dificultar la vida diaria. Los tipos específicos de lesiones incluyen: Heridas por metralla y armas de fuego Pérdida de extremidades Traumatismos en la cabeza y el cerebro Tinnitus y pérdida de la audición, a menudo por la exposición al ruido Torceduras y distensiones Trastornos del movimiento, especialmente en tobillos y rodillas También pueden tener problemas de salud por la exposición a peligros ambientales, como agua contaminada, sustancias químicas, infecciones y quemar fosas. Estar en combate y separado de su familia puede ser estresante. Este estrés puede poner a los militares y veteranos en riesgo de problemas de salud mental. Estos incluyen ansiedad, trastorno de estrés postraumático, depresión y abuso de drogas. El suicidio también es una preocupación.</dc:description>
+<dc:description xml:lang="en">Military service members and veterans have made sacrifices to our country, and they face different health issues than civilians. During their service, they are at risk for various injuries. These injuries can happen during combat, while others involve physical stress to the body. Sometimes the injuries are life-threatening or serious enough to cause disability. Others may not be as serious, but can be painful and affect daily life. Specific types of injuries include Shrapnel and gunshot wounds Lost limbs Head and brain injuries Tinnitus and hearing loss, typically from exposure to noise Sprains and strains Limited range of motion, especially in ankles and knees There may also be a risk of health problems from exposure to environmental hazards, such as contaminated water, chemicals, infections, and burn pits. Being in combat and being separated from your family can be stressful. The stress can put service members and veterans at risk for mental health problems. These include anxiety, post-traumatic stress disorder, depression and substance abuse. Suicide can also be a concern.</dc:description>
+<dc:subject dcterms="mesh">Veterans Health</dc:subject>
+<dc:subject dcterms="mesh">Prisoners of War</dc:subject>
+<dc:subject dcterms="mesh">War-Related Injuries</dc:subject>
+<dc:subject dcterms="mesh">Military Personnel</dc:subject>
+<dc:subject dcterms="mesh">War Exposure</dc:subject>
+<dc:subject xml:lang="es">Salud del veterano y personal militar</dc:subject>
+<dc:subject xml:lang="es">Agente naranja</dc:subject>
+<dc:subject xml:lang="es">Guerra del Golfo Pérsico</dc:subject>
+<dc:subject xml:lang="es">Síndrome de la guerra del Golfo</dc:subject>
+<dc:subject xml:lang="es">Veterano</dc:subject>
+<dc:subject xml:lang="es">Salud del</dc:subject>
+<dc:subject xml:lang="en">Veterans and Military Health</dc:subject>
+<dc:subject xml:lang="en">Agent Orange</dc:subject>
+<dc:subject xml:lang="en">Gulf War Syndrome</dc:subject>
+<dc:subject xml:lang="en">Persian Gulf War</dc:subject>
+<dc:subject xml:lang="en">Military Health</dc:subject>
+<dc:subject xml:lang="en">Veterans Health</dc:subject>
+</metadata>
+</record>
+</MedlinePlus-document>

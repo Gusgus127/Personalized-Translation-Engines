@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<MedlinePlus-document>
+<record>
+<header>
+<identifier>https://medlineplus.gov/pelvicinflammatorydisease.html</identifier>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title type="alternate" xml:lang="es">EIP</dc:title>
+<dc:title type="alternate" xml:lang="es">Inflamación pélvica, Enfermedad</dc:title>
+<dc:title type="alternate" xml:lang="en">PID</dc:title>
+<dc:type>Text</dc:type>
+<dc:language>spa</dc:language>
+<dc:language>eng</dc:language>
+<dc:title xml:lang="es">Enfermedad inflamatoria pélvica</dc:title>
+<dc:title xml:lang="en">Pelvic Inflammatory Disease</dc:title>
+<dc:publisher>National Library of Medicine</dc:publisher>
+<dc:relation type="IsPartOf">Female Reproductive System</dc:relation>
+<dc:relation type="IsPartOf">Infections</dc:relation>
+<dc:relation type="IsPartOf">Women</dc:relation>
+<dc:date type="created">2003-02-07</dc:date>
+<dc:date type="modified">2017-09-27</dc:date>
+<dc:identifier type="URL" xml:lang="es">https://medlineplus.gov/spanish/pelvicinflammatorydisease.html</dc:identifier>
+<dc:identifier type="URL" xml:lang="en">https://medlineplus.gov/pelvicinflammatorydisease.html</dc:identifier>
+<dc:description xml:lang="es">La enfermedad inflamatoria pélvica (EIP) es una infección e inflamación del útero, ovarios y otros órganos reproductivos femeninos. Esta causa cicatrices en estos órganos y puede conducir a infertilidad, embarazos ectópicos, dolor pélvico, abscesos y otros problemas graves. La enfermedad inflamatoria pélvica es una de las causas de infertilidad más prevenibles en Estados Unidos. La gonorrea y la clamidia, dos enfermedades de transmisión sexual son las causas más comunes, pero existen otras bacterias que también pueden causarla. Usted está en riesgo si: Tiene una vida sexual activa y es menor de 25 años Tiene más de una pareja sexual Utiliza duchas vaginales Algunas mujeres no tienen síntomas. Otras tienen dolor en la parte baja del abdomen, fiebre, secreción vaginal con mal olor, hemorragia irregular o dolor durante las relaciones sexuales o al orinar. Los antibióticos pueden curar esta enfermedad. Es importante iniciar el tratamiento temprano ya que esperar demasiado aumenta el riesgo de infertilidad. Oficina para la Salud de la Mujer en el Dept. de Salud y Servicios Humanos de los EE.UU</dc:description>
+<dc:description xml:lang="en">Pelvic inflammatory disease (PID) is an infection and inflammation of the uterus, ovaries, and other female reproductive organs. It causes scarring in these organs. This can lead to infertility, ectopic pregnancy, pelvic pain, abscesses, and other serious problems. PID is the most common preventable cause of infertility in the United States. Gonorrhea and chlamydia, two sexually transmitted diseases, are the most common causes of PID. Other bacteria can also cause it. You are at greater risk if you Are sexually active and younger than 25 Have more than one sex partner Douche Some women have no symptoms. Others have pain in the lower abdomen, fever, smelly vaginal discharge, irregular bleeding, and pain during intercourse or urination. Doctors diagnose PID with a physical exam, lab tests, and imaging tests. Antibiotics can cure PID. Early treatment is important. Waiting too long increases the risk of infertility. NIH: National Institute of Allergy and Infectious Diseases</dc:description>
+<dc:subject dcterms="mesh">Pelvic Inflammatory Disease</dc:subject>
+<dc:subject xml:lang="es">Enfermedad inflamatoria pélvica</dc:subject>
+<dc:subject xml:lang="es">EIP</dc:subject>
+<dc:subject xml:lang="es">Inflamación pélvica</dc:subject>
+<dc:subject xml:lang="es">Enfermedad</dc:subject>
+<dc:subject xml:lang="en">Pelvic Inflammatory Disease</dc:subject>
+<dc:subject xml:lang="en">PID</dc:subject>
+</metadata>
+</record>
+</MedlinePlus-document>

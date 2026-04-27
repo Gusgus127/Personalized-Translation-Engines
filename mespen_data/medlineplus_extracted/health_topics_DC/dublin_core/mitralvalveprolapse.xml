@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<MedlinePlus-document>
+<record>
+<header>
+<identifier>https://medlineplus.gov/mitralvalveprolapse.html</identifier>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title type="alternate" xml:lang="es">Válvula mitral, Prolapso</dc:title>
+<dc:title type="alternate" xml:lang="es">Barlow</dc:title>
+<dc:type>Text</dc:type>
+<dc:language>spa</dc:language>
+<dc:language>eng</dc:language>
+<dc:title xml:lang="es">Prolapso de la válvula mitral</dc:title>
+<dc:title xml:lang="en">Mitral Valve Prolapse</dc:title>
+<dc:publisher>National Library of Medicine</dc:publisher>
+<dc:relation type="IsPartOf">Blood, Heart and Circulation</dc:relation>
+<dc:date type="created">2005-06-29</dc:date>
+<dc:date type="modified">2018-02-07</dc:date>
+<dc:identifier type="URL" xml:lang="es">https://medlineplus.gov/spanish/mitralvalveprolapse.html</dc:identifier>
+<dc:identifier type="URL" xml:lang="en">https://medlineplus.gov/mitralvalveprolapse.html</dc:identifier>
+<dc:description xml:lang="es">El prolapso de la válvula mitral ocurre cuando una de las válvulas del corazón no funciona adecuadamente. Las aletas que cierran la válvula están flojas y no cierran bien. En la mayoría de las personas se presenta desde el nacimiento. También tiene una tendencia familiar. Con frecuencia, este prolapso no causa problemas. Otras pocas veces, la sangre puede filtrarse en sentido contrario a través de la aleta floja. Esto puede causar: Palpitaciones (sensación de que su corazón se está saltando un latido, de aleteo o que está latiendo demasiado rápido o demasiado lento) Falta de aliento Tos Cansancio, mareo o ansiedad Migrañas Molestia en el pecho La mayoría de la gente no necesita tratamiento porque no tiene síntomas o complicaciones. Si usted necesita tratamiento, las medicinas pueden ayudarlo a aliviar los síntomas o prevenir complicaciones. Muy pocas personas necesitarán una cirugía para reparar o reemplazar la válvula mitral. No obstante, el prolapso de la válvula mitral, aumenta el riesgo de endocarditis, un tipo de infección del corazón. Para prevenirla, los doctores solían recetar antibióticos antes de algún procedimiento dental o ciertas cirugías. Hoy en día, solo se les receta antibióticos a las personas con alto riesgo de endocarditis. NIH: Instituto Nacional del Corazón, los Pulmones y la Sangre</dc:description>
+<dc:description xml:lang="en">Mitral valve prolapse (MVP) occurs when one of your heart's valves doesn't work properly. The flaps of the valve are "floppy" and don't close tightly. Most people who have the condition are born with it. It also tends to run in families. Most of the time, MVP doesn't cause any problems. Rarely, blood can leak the wrong way through the floppy valve. This can cause Palpitations (feelings that your heart is skipping a beat, fluttering, or beating too hard or too fast) Shortness of breath Cough Fatigue, dizziness, or anxiety Migraine headaches Chest discomfort Most people who have mitral valve prolapse (MVP) don't need treatment because they don't have symptoms and complications. If you need treatment for MVP, medicines can help relieve symptoms or prevent complications. Very few people will need surgery to repair or replace the mitral valve. MVP puts you at risk for infective endocarditis, a kind of heart infection. To prevent it, doctors used to prescribe antibiotics before dental work or certain surgeries. Now, only people at high risk of endocarditis need the antibiotics. NIH: National Heart, Lung, and Blood Institute</dc:description>
+<dc:subject dcterms="mesh">Mitral Valve Prolapse</dc:subject>
+<dc:subject xml:lang="es">Prolapso de la válvula mitral</dc:subject>
+<dc:subject xml:lang="es">Válvula mitral</dc:subject>
+<dc:subject xml:lang="es">Prolapso</dc:subject>
+<dc:subject xml:lang="es">Barlow</dc:subject>
+<dc:subject xml:lang="en">Mitral Valve Prolapse</dc:subject>
+</metadata>
+</record>
+</MedlinePlus-document>

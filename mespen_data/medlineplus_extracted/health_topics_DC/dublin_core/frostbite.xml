@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<MedlinePlus-document>
+<record>
+<header>
+<identifier>https://medlineplus.gov/frostbite.html</identifier>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title type="alternate" xml:lang="es">Congelamiento</dc:title>
+<dc:title type="alternate" xml:lang="en">Chilblains</dc:title>
+<dc:title type="alternate" xml:lang="en">Frostnip</dc:title>
+<dc:title type="alternate" xml:lang="en">Cold (Temperature)</dc:title>
+<dc:type>Text</dc:type>
+<dc:language>spa</dc:language>
+<dc:language>eng</dc:language>
+<dc:title xml:lang="es">Congelación</dc:title>
+<dc:title xml:lang="en">Frostbite</dc:title>
+<dc:publisher>National Library of Medicine</dc:publisher>
+<dc:relation type="IsPartOf">Injuries and Wounds</dc:relation>
+<dc:relation type="IsPartOf">Symptoms</dc:relation>
+<dc:date type="created">2011-08-01</dc:date>
+<dc:date type="modified">2018-01-23</dc:date>
+<dc:identifier type="URL" xml:lang="es">https://medlineplus.gov/spanish/frostbite.html</dc:identifier>
+<dc:identifier type="URL" xml:lang="en">https://medlineplus.gov/frostbite.html</dc:identifier>
+<dc:description xml:lang="es">La congelación es una herida en el cuerpo causada por el frío extremo. En general, afecta a la nariz, orejas, mejillas, mentón, dedos de la mano o del pie. La congelación puede causar daño permanente al cuerpo y, en los casos más graves, puede llegar a necesitarse una amputación. Si sufre de congelación, la piel en esa área se puede volver blanca o gris amarillenta. Puede que se sienta demasiado firme o de apariencia de cera. El área también se sentirá entumecida. Si usted tiene síntomas de congelamiento, busque atención médica. Pero si no existe atención médica, estos son los pasos a seguir: Diríjase a una habitación templada lo más pronto posible No camine con los pies congelados a menos que sea absolutamente necesario. El caminar aumenta el daño Coloque el área afectada en agua tibia, no caliente También puede calentar la piel usando el calor del cuerpo. Por ejemplo, use su axila para calentar dedos congelados No frote el área congelada con nieve o la masajee. Esto puede causar más daño No use una almohadilla eléctrica, una lámpara de calor o el calor de una estufa, hogar o radiador para calentar el área. Debido a que el congelamiento insensibiliza la piel, puede quemarla sin darse cuenta Centros para el Control y la Prevención de Enfermedades</dc:description>
+<dc:description xml:lang="en">Frostbite is an injury to the body that is caused by freezing. It most often affects the nose, ears, cheeks, chin, fingers, or toes. Frostbite can permanently damage the body, and severe cases can lead to amputation. If you have frostbite, the skin in that area may turn white or grayish-yellow. It may feel firm or waxy when you touch it. The area will also feel numb. If you have symptoms of frostbite, seek medical care. But if immediate medical care isn't available, here are steps to take: Get into a warm room as soon as possible. If possible, do not walk on frostbitten feet or toes. Walking increases the damage. Put the affected area in warm - not hot - water. You can also warm the affected area using body heat. For example, use your armpit to warm frostbitten fingers. Don't rub the frostbitten area with snow or massage it at all. This can cause more damage. Don't use a heating pad, heat lamp, or the heat of a stove, fireplace, or radiator for warming. Since frostbite makes an area numb, you could burn it. Centers for Disease Control and Prevention</dc:description>
+<dc:subject dcterms="mesh">Frostbite</dc:subject>
+<dc:subject xml:lang="es">Congelación</dc:subject>
+<dc:subject xml:lang="es">Congelamiento</dc:subject>
+<dc:subject xml:lang="en">Frostbite</dc:subject>
+<dc:subject xml:lang="en">Chilblains</dc:subject>
+<dc:subject xml:lang="en">Frostnip</dc:subject>
+<dc:subject xml:lang="en">Cold (Temperature)</dc:subject>
+</metadata>
+</record>
+</MedlinePlus-document>

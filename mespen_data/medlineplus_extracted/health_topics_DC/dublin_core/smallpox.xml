@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<MedlinePlus-document>
+<record>
+<header>
+<identifier>https://medlineplus.gov/smallpox.html</identifier>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:type>Text</dc:type>
+<dc:language>spa</dc:language>
+<dc:language>eng</dc:language>
+<dc:title xml:lang="es">Viruela</dc:title>
+<dc:title xml:lang="en">Smallpox</dc:title>
+<dc:publisher>National Library of Medicine</dc:publisher>
+<dc:relation type="IsPartOf">Poisoning, Toxicology, Environmental Health</dc:relation>
+<dc:relation type="IsPartOf">Infections</dc:relation>
+<dc:date type="created">2002-07-21</dc:date>
+<dc:date type="modified">2017-07-27</dc:date>
+<dc:identifier type="URL" xml:lang="es">https://medlineplus.gov/spanish/smallpox.html</dc:identifier>
+<dc:identifier type="URL" xml:lang="en">https://medlineplus.gov/smallpox.html</dc:identifier>
+<dc:description xml:lang="es">La viruela es una enfermedad causada por el virus Variola mayor. Algunos especialistas dicen que a lo largo de los siglos mató a más personas que todas las otras enfermedades infecciosas juntas. La vacunación en todo el mundo detuvo la diseminación de la viruela hace tres décadas. El último caso se reportó en 1977. Dos laboratorios de investigación aún guardan pequeñas cantidades del virus. Los especialistas temen que los bioterroristas puedan utilizar el virus para diseminar la enfermedad. La viruela se disemina fácilmente de una persona a otra. Los síntomas se parecen a los de la gripe e incluyen: Fiebre alta Fatiga Dolores de cabeza Dolor de espalda Una erupción en la piel con llagas rojas y planas No existe tratamiento. Líquidos y medicinas para el dolor o la fiebre pueden ayudar a controlar los síntomas. La mayoría de las personas se recupera, pero algunas pueden morir. Aquellos que se recuperan pueden terminar con cicatrices severas. Estados Unidos interrumpió la vacunación de rutina contra la viruela en 1972. Los militares y otros grupos de alto riesgo continúan vacunándose. Estados Unidos ha aumentado el suministro de la vacuna en años recientes. La vacuna hace que algunas personas se sientan enfermas, por ello los médicos las reservan para aquellos con mayor riesgo de contagio. NIH: Instituto Nacional de Alergias y Enfermedades Infecciosas</dc:description>
+<dc:description xml:lang="en">Smallpox is a disease caused by the Variola major virus. Some experts say that over the centuries it has killed more people than all other infectious diseases combined. Worldwide immunization stopped the spread of smallpox three decades ago. The last case was reported in 1977. Two research labs still keep small amounts of the virus. Experts fear bioterrorists could use the virus to spread disease. Smallpox spreads very easily from person to person. Symptoms are flu-like. They include High fever Fatigue Headache Backache A rash with flat red sores There is no treatment. Fluids and medicines for pain or fever can help control symptoms. Most people recover, but some can die. Those who do recover may have severe scars. The U.S. stopped routine smallpox vaccinations in 1972. Military and other high-risk groups continue to get the vaccine. The U.S. has increased its supply of the vaccine in recent years. The vaccine makes some people sick, so doctors save it for those at highest risk of disease. NIH: National Institute of Allergy and Infectious Diseases</dc:description>
+<dc:subject dcterms="mesh">Smallpox</dc:subject>
+<dc:subject dcterms="mesh">Smallpox Vaccine</dc:subject>
+<dc:subject xml:lang="es">Viruela</dc:subject>
+<dc:subject xml:lang="en">Smallpox</dc:subject>
+</metadata>
+</record>
+</MedlinePlus-document>

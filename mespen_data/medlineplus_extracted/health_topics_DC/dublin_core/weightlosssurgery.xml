@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<MedlinePlus-document>
+<record>
+<header>
+<identifier>https://medlineplus.gov/weightlosssurgery.html</identifier>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title type="alternate" xml:lang="es">Bajar peso, Cirugía</dc:title>
+<dc:title type="alternate" xml:lang="en">Bariatric Surgery</dc:title>
+<dc:title type="alternate" xml:lang="en">Gastric Bypass</dc:title>
+<dc:title type="alternate" xml:lang="en">Gastroplasty</dc:title>
+<dc:title type="alternate" xml:lang="en">Stomach Stapling</dc:title>
+<dc:title type="alternate" xml:lang="en">Obesity Surgery</dc:title>
+<dc:type>Text</dc:type>
+<dc:language>spa</dc:language>
+<dc:language>eng</dc:language>
+<dc:title xml:lang="es">Cirugías para la obesidad</dc:title>
+<dc:title xml:lang="en">Weight Loss Surgery</dc:title>
+<dc:publisher>National Library of Medicine</dc:publisher>
+<dc:relation type="IsPartOf">Surgery and Rehabilitation</dc:relation>
+<dc:relation type="IsPartOf">Digestive System</dc:relation>
+<dc:relation type="IsPartOf">Metabolic Problems</dc:relation>
+<dc:date type="created">2006-12-15</dc:date>
+<dc:date type="modified">2018-01-03</dc:date>
+<dc:identifier type="URL" xml:lang="es">https://medlineplus.gov/spanish/weightlosssurgery.html</dc:identifier>
+<dc:identifier type="URL" xml:lang="en">https://medlineplus.gov/weightlosssurgery.html</dc:identifier>
+<dc:description xml:lang="es">La cirugía para adelgazar ayuda a las personas con obesidad extrema para bajar de peso. Puede ser una opción si usted no puede perder peso a través de la dieta y el ejercicio o tiene graves problemas de salud causados por la obesidad. Hay diferentes tipos de cirugía de pérdida de peso. Ellas suelen limitar la cantidad de alimentos que usted puede ingerir. Algunos tipos de cirugía también afectan cómo se digieren los alimentos y se absorben nutrientes. Todos los tipos tienen riesgos y complicaciones, tales como infecciones, hernias y coágulos de sangre. Muchas personas que se someten a la cirugía pierden peso rápidamente, pero recuperan algo del peso más adelante. Si usted sigue las recomendaciones de dieta y ejercicio, puede mantener la mayor parte de la pérdida del peso. Usted también necesitará un seguimiento médico durante el resto de su vida. NIH: Instituto Nacional de la Diabetes y las Enfermedades Digestivas y Renales</dc:description>
+<dc:description xml:lang="en">Weight loss surgery helps people with extreme obesity to lose weight. It may be an option if you cannot lose weight through diet and exercise or have serious health problems caused by obesity. There are different types of weight loss surgery. They often limit the amount of food you can take in. Some types of surgery also affect how you digest food and absorb nutrients. All types have risks and complications, such as infections, hernias, and blood clots. Many people who have the surgery lose weight quickly, but regain some weight later on. If you follow diet and exercise recommendations, you can keep most of the weight off. You will also need medical follow-up for the rest of your life. NIH: National Institute of Diabetes and Digestive and Kidney Diseases</dc:description>
+<dc:subject dcterms="mesh">Bariatric Surgery</dc:subject>
+<dc:subject dcterms="mesh">Obesity, Morbid</dc:subject>
+<dc:subject dcterms="mesh">Obesity</dc:subject>
+<dc:subject xml:lang="es">Cirugías para la obesidad</dc:subject>
+<dc:subject xml:lang="es">Bajar peso</dc:subject>
+<dc:subject xml:lang="es">Cirugía</dc:subject>
+<dc:subject xml:lang="en">Weight Loss Surgery</dc:subject>
+<dc:subject xml:lang="en">Bariatric Surgery</dc:subject>
+<dc:subject xml:lang="en">Gastric Bypass</dc:subject>
+<dc:subject xml:lang="en">Gastroplasty</dc:subject>
+<dc:subject xml:lang="en">Stomach Stapling</dc:subject>
+<dc:subject xml:lang="en">Obesity Surgery</dc:subject>
+</metadata>
+</record>
+</MedlinePlus-document>

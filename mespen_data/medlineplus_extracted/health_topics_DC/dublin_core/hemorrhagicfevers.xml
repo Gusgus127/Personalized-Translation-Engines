@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<MedlinePlus-document>
+<record>
+<header>
+<identifier>https://medlineplus.gov/hemorrhagicfevers.html</identifier>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title type="alternate" xml:lang="es">Fiebre del Valle del Rift</dc:title>
+<dc:title type="alternate" xml:lang="es">Valle del Rift, Fiebre del</dc:title>
+<dc:title type="alternate" xml:lang="es">Marburgo, Fiebre hemorrágica</dc:title>
+<dc:title type="alternate" xml:lang="en">Yellow Fever</dc:title>
+<dc:title type="alternate" xml:lang="en">Lassa Fever</dc:title>
+<dc:type>Text</dc:type>
+<dc:language>spa</dc:language>
+<dc:language>eng</dc:language>
+<dc:title xml:lang="es">Fiebres hemorrágicas</dc:title>
+<dc:title xml:lang="en">Hemorrhagic Fevers</dc:title>
+<dc:publisher>National Library of Medicine</dc:publisher>
+<dc:relation type="IsPartOf">Infections</dc:relation>
+<dc:date type="created">2002-07-21</dc:date>
+<dc:date type="modified">2017-09-25</dc:date>
+<dc:identifier type="URL" xml:lang="es">https://medlineplus.gov/spanish/hemorrhagicfevers.html</dc:identifier>
+<dc:identifier type="URL" xml:lang="en">https://medlineplus.gov/hemorrhagicfevers.html</dc:identifier>
+<dc:description xml:lang="es">Las fiebres hemorrágicas virales son un grupo de enfermedades causadas por cuatro familias de virus. Entre ellos se encuentran los virus del Ebola y Marburg, el virus de la fiebre de Lassa y el virus de la fiebre amarilla. Estas fiebres tienen características comunes: afectan muchos órganos, lesionan los vasos sanguíneos y alteran la capacidad del organismo para auto-regularse. Algunas de estas fiebres hemorrágicas causan una enfermedad leve, pero otras, como las causadas por los virus Ebola o Marburg, causan enfermedades graves y muerte. Las fiebres hemorrágicas virales se encuentran en todo el mundo. Las enfermedades específicas suelen estar limitadas a zonas donde viven los animales que las transmiten. Por ejemplo, la fiebre de Lassa se limita a las zonas rurales del oeste de África, donde hay ratas y ratones portadores del virus. El riesgo para las personas que viajan es bajo, pero deben evitar visitar zonas donde hay brotes de la enfermedad. Dado que no existen tratamientos eficaces para algunas de estas infecciones virales, existe preocupación por su uso en el bioterrorismo. Centros para el Control y la Prevención de Enfermedades</dc:description>
+<dc:description xml:lang="en">Viral hemorrhagic fevers (VHFs) are a group of illnesses caused by four families of viruses. These include the Ebola and Marburg, Lassa fever, and yellow fever viruses. VHFs have common features: they affect many organs, they damage the blood vessels, and they affect the body's ability to regulate itself. Some VHFs cause mild disease, but some, like Ebola or Marburg, cause severe disease and death. VHFs are found around the world. Specific diseases are usually limited to areas where the animals that carry them live. For example, Lassa fever is limited to rural areas of West Africa where rats and mice carry the virus. The risk for travelers is low, but you should avoid visiting areas where there are disease outbreaks. Because there are no effective treatments for some of these viral infections, there is concern about their use in bioterrorism. Centers for Disease Control and Prevention</dc:description>
+<dc:subject dcterms="mesh">Hemorrhagic Fevers, Viral</dc:subject>
+<dc:subject xml:lang="es">Fiebres hemorrágicas</dc:subject>
+<dc:subject xml:lang="es">Fiebre del Valle del Rift</dc:subject>
+<dc:subject xml:lang="es">Valle del Rift</dc:subject>
+<dc:subject xml:lang="es">Fiebre del</dc:subject>
+<dc:subject xml:lang="es">Marburgo</dc:subject>
+<dc:subject xml:lang="es">Fiebre hemorrágica</dc:subject>
+<dc:subject xml:lang="en">Hemorrhagic Fevers</dc:subject>
+<dc:subject xml:lang="en">Yellow Fever</dc:subject>
+<dc:subject xml:lang="en">Lassa Fever</dc:subject>
+</metadata>
+</record>
+</MedlinePlus-document>

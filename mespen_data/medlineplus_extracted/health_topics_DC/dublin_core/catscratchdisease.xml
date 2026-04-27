@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<MedlinePlus-document>
+<record>
+<header>
+<identifier>https://medlineplus.gov/catscratchdisease.html</identifier>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:type>Text</dc:type>
+<dc:language>spa</dc:language>
+<dc:language>eng</dc:language>
+<dc:title xml:lang="es">Enfermedad por arañazo de gato</dc:title>
+<dc:title xml:lang="en">Cat Scratch Disease</dc:title>
+<dc:publisher>National Library of Medicine</dc:publisher>
+<dc:relation type="IsPartOf">Infections</dc:relation>
+<dc:date type="created">2007-05-08</dc:date>
+<dc:date type="modified">2016-12-07</dc:date>
+<dc:identifier type="URL" xml:lang="es">https://medlineplus.gov/spanish/catscratchdisease.html</dc:identifier>
+<dc:identifier type="URL" xml:lang="en">https://medlineplus.gov/catscratchdisease.html</dc:identifier>
+<dc:description xml:lang="es">La enfermedad por arañazo de gato (EAG) es una enfermedad causada por la bacteria Bartonella henselae. Casi la mitad de los gatos son portadores de la infección en algún momento. La infección no enferma a los gatos. Sin embargo, el arañazo o la mordedura de un gato infectado puede causar síntomas en las personas, incluyendo: Ganglios linfáticos hinchados, especialmente alrededor de la cabeza, el cuello y las extremidades superiores Fiebre Dolor de cabeza Fatiga Pérdida del apetito En las personas con sistemas inmunitarios debilitados, la EAG puede causarles problemas más serios. La mejor forma de evitar la EAG es evitar los juegos rudos con los gatos que pudieran conducir a arañazos o mordidas. Si recibe un arañazo o una mordida, lávela bien con agua y jabón. Si la mordida o el arañazo se infectan o si tiene síntomas de EAG, llame al médico. Centros para el Control y la Prevención de Enfermedades</dc:description>
+<dc:description xml:lang="en">Cat scratch disease (CSD) is an illness caused by the bacterium Bartonella henselae. Almost half of all cats carry the infection at some point. The infection does not make cats sick. However, the scratch or bite of an infected cat can cause symptoms in people, including Swollen lymph nodes, especially around the head, neck, and upper limbs Fever Headache Fatigue Poor appetite For people with weak immune systems, CSD may cause more serious problems. The best way to avoid CSD is to avoid rough play with cats that could lead to scratches or bites. If you do get a scratch or bite, wash it well with soap and water. If the bite or scratch gets infected or if you have symptoms of CSD, call your doctor. Centers for Disease Control and Prevention</dc:description>
+<dc:subject dcterms="mesh">Cat-Scratch Disease</dc:subject>
+<dc:subject xml:lang="es">Enfermedad por arañazo de gato</dc:subject>
+<dc:subject xml:lang="en">Cat Scratch Disease</dc:subject>
+</metadata>
+</record>
+</MedlinePlus-document>

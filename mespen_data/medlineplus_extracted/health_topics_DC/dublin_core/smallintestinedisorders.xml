@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<MedlinePlus-document>
+<record>
+<header>
+<identifier>https://medlineplus.gov/smallintestinedisorders.html</identifier>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title type="alternate" xml:lang="es">Intestino delgado, Enfermedades del</dc:title>
+<dc:title type="alternate" xml:lang="en">Intestinal Diseases</dc:title>
+<dc:type>Text</dc:type>
+<dc:language>spa</dc:language>
+<dc:language>eng</dc:language>
+<dc:title xml:lang="es">Enfermedades del intestino delgado</dc:title>
+<dc:title xml:lang="en">Small Intestine Disorders</dc:title>
+<dc:publisher>National Library of Medicine</dc:publisher>
+<dc:relation type="IsPartOf">Digestive System</dc:relation>
+<dc:date type="created">2010-04-26</dc:date>
+<dc:date type="modified">2017-11-15</dc:date>
+<dc:identifier type="URL" xml:lang="es">https://medlineplus.gov/spanish/smallintestinedisorders.html</dc:identifier>
+<dc:identifier type="URL" xml:lang="en">https://medlineplus.gov/smallintestinedisorders.html</dc:identifier>
+<dc:description xml:lang="es">El intestino delgado es la parte más larga de su sistema digestivo - ¡casi 20 pies (6 metros) de largo! Conecta el estómago al intestino grueso (colon) y se dobla muchas veces para entrar en el abdomen. El intestino delgado hace la mayor parte de la digestión de la comida que usted come. Tiene tres áreas: el duodeno, el íleon y el yeyuno. Los posibles problemas con el intestino delgado pueden ser: Sangrado Enfermedad celíaca Enfermedad de Crohn Infecciones Cáncer de intestino Obstrucción intestinal Síndrome del intestino irritable Ulceras, como la úlcera péptica El tratamiento de estos problemas depende de la causa.</dc:description>
+<dc:description xml:lang="en">Your small intestine is the longest part of your digestive system - about twenty feet long! It connects your stomach to your large intestine (or colon) and folds many times to fit inside your abdomen. Your small intestine does most of the digesting of the foods you eat. It has three areas called the duodenum, the ileum, and the jejunum. Problems with the small intestine can include: Bleeding Celiac disease Crohn's disease Infections Intestinal cancer Intestinal obstruction Irritable bowel syndrome Ulcers, such as peptic ulcer Treatment of disorders of the small intestine depends on the cause.</dc:description>
+<dc:subject dcterms="mesh">Ileal Diseases</dc:subject>
+<dc:subject dcterms="mesh">Jejunal Diseases</dc:subject>
+<dc:subject dcterms="mesh">Duodenal Diseases</dc:subject>
+<dc:subject xml:lang="es">Enfermedades del intestino delgado</dc:subject>
+<dc:subject xml:lang="es">Intestino delgado</dc:subject>
+<dc:subject xml:lang="es">Enfermedades del</dc:subject>
+<dc:subject xml:lang="en">Small Intestine Disorders</dc:subject>
+<dc:subject xml:lang="en">Intestinal Diseases</dc:subject>
+</metadata>
+</record>
+</MedlinePlus-document>

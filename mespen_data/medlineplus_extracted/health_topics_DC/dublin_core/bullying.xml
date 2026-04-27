@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<MedlinePlus-document>
+<record>
+<header>
+<identifier>https://medlineplus.gov/bullying.html</identifier>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title type="alternate" xml:lang="es">Violencia en la escuela</dc:title>
+<dc:title type="alternate" xml:lang="es">Escuela, Acoso</dc:title>
+<dc:type>Text</dc:type>
+<dc:language>spa</dc:language>
+<dc:language>eng</dc:language>
+<dc:title xml:lang="es">Intimidación</dc:title>
+<dc:title xml:lang="en">Bullying</dc:title>
+<dc:publisher>National Library of Medicine</dc:publisher>
+<dc:relation type="IsPartOf">Children and Teenagers</dc:relation>
+<dc:relation type="IsPartOf">Social/Family Issues</dc:relation>
+<dc:date type="created">2004-12-15</dc:date>
+<dc:date type="modified">2018-01-08</dc:date>
+<dc:identifier type="URL" xml:lang="es">https://medlineplus.gov/spanish/bullying.html</dc:identifier>
+<dc:identifier type="URL" xml:lang="en">https://medlineplus.gov/bullying.html</dc:identifier>
+<dc:description xml:lang="es">La intimidación es cuando una persona o grupo intenta repetidamente lastimar a alguien que es más débil o que cree que es más débil. Algunas veces implica ataques directos, como golpes, insultos, provocaciones o burlas. Otras veces es indirecta, como difundir rumores o intentar que otros rechacen a alguien. Con frecuencia las personas restan importancia a la intimidación entre los niños y la consideran como una parte normal del crecimiento. Pero la intimidación es dañina. Puede conducir a que los niños y los adolescentes se sientan tensos y asustados. Puede llevarlos a evitar ir a la escuela. En los casos más severos, los adolescentes intimidados pueden sentir la necesidad de tomar medidas drásticas o reaccionar con violencia. Otros llegan hasta pensar en el suicidio. Para algunos, los efectos de la intimidación duran toda la vida. Centros para el Control y la Prevención de Enfermedades</dc:description>
+<dc:description xml:lang="en">Bullying is when a person or group repeatedly tries to harm someone who is weaker or who they think is weaker. Sometimes it involves direct attacks such as hitting, name calling, teasing or taunting. Sometimes it is indirect, such as spreading rumors or trying to make others reject someone. Often people dismiss bullying among kids as a normal part of growing up. But bullying is harmful. It can lead children and teenagers to feel tense and afraid. It may lead them to avoid school. In severe cases, teens who are bullied may feel they need to take drastic measures or react violently. Others even consider suicide. For some, the effects of bullying last a lifetime. Centers for Disease Control and Prevention</dc:description>
+<dc:subject dcterms="mesh">Bullying</dc:subject>
+<dc:subject xml:lang="es">Intimidación</dc:subject>
+<dc:subject xml:lang="es">Violencia en la escuela</dc:subject>
+<dc:subject xml:lang="es">Escuela</dc:subject>
+<dc:subject xml:lang="es">Acoso</dc:subject>
+<dc:subject xml:lang="en">Bullying</dc:subject>
+</metadata>
+</record>
+</MedlinePlus-document>

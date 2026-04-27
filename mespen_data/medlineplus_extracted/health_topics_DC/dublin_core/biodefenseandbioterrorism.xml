@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<MedlinePlus-document>
+<record>
+<header>
+<identifier>https://medlineplus.gov/biodefenseandbioterrorism.html</identifier>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title type="alternate" xml:lang="es">Guerra bactereológica</dc:title>
+<dc:title type="alternate" xml:lang="es">Ataques terroristas</dc:title>
+<dc:title type="alternate" xml:lang="es">Terrorismo</dc:title>
+<dc:title type="alternate" xml:lang="es">Desastres causados por el hombre</dc:title>
+<dc:title type="alternate" xml:lang="en">Terrorist Attacks</dc:title>
+<dc:title type="alternate" xml:lang="en">Germ Warfare</dc:title>
+<dc:title type="alternate" xml:lang="en">Bioterrorism</dc:title>
+<dc:title type="alternate" xml:lang="en">Tularemia</dc:title>
+<dc:title type="alternate" xml:lang="en">Biological Weapons</dc:title>
+<dc:title type="alternate" xml:lang="en">Man-Made Disasters</dc:title>
+<dc:type>Text</dc:type>
+<dc:language>spa</dc:language>
+<dc:language>eng</dc:language>
+<dc:title xml:lang="es">Biodefensa y bioterrorismo</dc:title>
+<dc:title xml:lang="en">Biodefense and Bioterrorism</dc:title>
+<dc:publisher>National Library of Medicine</dc:publisher>
+<dc:relation type="IsPartOf">Disasters</dc:relation>
+<dc:relation type="IsPartOf">Poisoning, Toxicology, Environmental Health</dc:relation>
+<dc:date type="created">2002-07-21</dc:date>
+<dc:date type="modified">2018-01-17</dc:date>
+<dc:identifier type="URL" xml:lang="es">https://medlineplus.gov/spanish/biodefenseandbioterrorism.html</dc:identifier>
+<dc:identifier type="URL" xml:lang="en">https://medlineplus.gov/biodefenseandbioterrorism.html</dc:identifier>
+<dc:description xml:lang="es">El terrorismo se refiere al uso o la amenaza de la fuerza o la violencia contra personas o propiedades. Un ataque bioterrorista lanza virus, bacterias u otros gérmenes para causar enfermedades o muertes. Estos gérmenes a menudo se encuentran en la naturaleza. Pero a veces pueden hacerse más peligrosos aumentando su capacidad para causar o diseminar enfermedades o para resistir el tratamiento médico. Los agentes biológicos se diseminan a través del aire, el agua o los alimentos. Algunos también pueden diseminarse de una persona a otra. Estos no causan enfermedad por varias horas o días. A los científicos les preocupa que el ántrax, el botulismo, otros virus de fiebre hemorrágica como el ébola, la peste o la viruela, puedan usarse como agentes biológicos. La biodefensa usa medidas médicas para proteger a las personas contra los agentes biológicos, incluyendo medicinas y vacunas. También incluye investigaciones y preparativos médicos para defenderse contra ataques bioterroristas. Centros para el Control y la Prevención de Enfermedades</dc:description>
+<dc:description xml:lang="en">A bioterrorism attack is the deliberate release of viruses, bacteria, or other germs to cause illness or death. These germs are often found in nature. But they can sometimes be made more harmful by increasing their ability to cause disease, spread, or resist medical treatment. Biological agents spread through the air, water, or in food. Some can also spread from person to person. They can be very hard to detect. They don't cause illness for several hours or days. Scientists worry that anthrax, botulism, Ebola and other hemorrhagic fever viruses, plague, or smallpox could be used as biological agents. Biodefense uses medical measures to protect people against bioterrorism. This includes medicines and vaccinations. It also includes medical research and preparations to defend against bioterrorist attacks. Centers for Disease Control and Prevention</dc:description>
+<dc:subject dcterms="mesh">Bioterrorism</dc:subject>
+<dc:subject dcterms="mesh">Biological Warfare</dc:subject>
+<dc:subject dcterms="mesh">Chemical Warfare</dc:subject>
+<dc:subject dcterms="mesh">Chemical Warfare Agents</dc:subject>
+<dc:subject xml:lang="es">Biodefensa y bioterrorismo</dc:subject>
+<dc:subject xml:lang="es">Guerra bactereológica</dc:subject>
+<dc:subject xml:lang="es">Ataques terroristas</dc:subject>
+<dc:subject xml:lang="es">Terrorismo</dc:subject>
+<dc:subject xml:lang="es">Desastres causados por el hombre</dc:subject>
+<dc:subject xml:lang="en">Biodefense and Bioterrorism</dc:subject>
+<dc:subject xml:lang="en">Terrorist Attacks</dc:subject>
+<dc:subject xml:lang="en">Germ Warfare</dc:subject>
+<dc:subject xml:lang="en">Bioterrorism</dc:subject>
+<dc:subject xml:lang="en">Tularemia</dc:subject>
+<dc:subject xml:lang="en">Biological Weapons</dc:subject>
+<dc:subject xml:lang="en">Man-Made Disasters</dc:subject>
+</metadata>
+</record>
+</MedlinePlus-document>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<MedlinePlus-document>
+<record>
+<header>
+<identifier>https://medlineplus.gov/jaundice.html</identifier>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:type>Text</dc:type>
+<dc:language>spa</dc:language>
+<dc:language>eng</dc:language>
+<dc:title xml:lang="es">Ictericia</dc:title>
+<dc:title xml:lang="en">Jaundice</dc:title>
+<dc:publisher>National Library of Medicine</dc:publisher>
+<dc:relation type="IsPartOf">Digestive System</dc:relation>
+<dc:relation type="IsPartOf">Symptoms</dc:relation>
+<dc:date type="created">2007-05-10</dc:date>
+<dc:date type="modified">2017-11-08</dc:date>
+<dc:identifier type="URL" xml:lang="es">https://medlineplus.gov/spanish/jaundice.html</dc:identifier>
+<dc:identifier type="URL" xml:lang="en">https://medlineplus.gov/jaundice.html</dc:identifier>
+<dc:description xml:lang="es">La ictericia hace que la piel y las partes blancas de los ojos se pongan amarillas. El exceso de bilirrubina causa la ictericia. La bilirrubina es una sustancia química color amarillo que contiene la hemoglobina, sustancia que transporta el oxígeno en los glóbulos rojos. A medida que los glóbulos rojos se degradan, el cuerpo desarrolla nuevas células para sustituirlos. Las células degradadas se procesan en el hígado. Si el hígado no puede manejar las células sanguíneas a medida que se degradan, se acumula bilirrubina en el organismo y la piel puede verse amarilla. Muchos bebés sanos tienen un poco de ictericia en la primera semana de vida. Por lo general, desaparece espontáneamente. Sin embargo, la ictericia puede ocurrir a cualquier edad y ser un signo de que existe un problema. La ictericia puede presentarse por varios motivos, tales como: Enfermedades de la sangre Síndromes genéticos Enfermedades hepáticas, tales como la hepatitis o la cirrosis Obstrucción de los conductos biliares Infecciones Medicamentos</dc:description>
+<dc:description xml:lang="en">Jaundice causes your skin and the whites of your eyes to turn yellow. Too much bilirubin causes jaundice. Bilirubin is a yellow chemical in hemoglobin, the substance that carries oxygen in your red blood cells. As red blood cells break down, your body builds new cells to replace them. The old ones are processed by the liver. If the liver cannot handle the blood cells as they break down, bilirubin builds up in the body and your skin may look yellow. Many healthy babies have some jaundice during the first week of life. It usually goes away. However, jaundice can happen at any age and may be a sign of a problem. Jaundice can happen for many reasons, such as Blood diseases Genetic syndromes Liver diseases, such as hepatitis or cirrhosis Blockage of bile ducts Infections Medicines</dc:description>
+<dc:subject dcterms="mesh">Hyperbilirubinemia</dc:subject>
+<dc:subject xml:lang="es">Ictericia</dc:subject>
+<dc:subject xml:lang="en">Jaundice</dc:subject>
+<dc:subject xml:lang="en">Kernicterus</dc:subject>
+<dc:subject xml:lang="en">Icterus</dc:subject>
+</metadata>
+</record>
+</MedlinePlus-document>

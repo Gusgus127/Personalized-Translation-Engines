@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<MedlinePlus-document>
+<record>
+<header>
+<identifier>https://medlineplus.gov/rheumatoidarthritis.html</identifier>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:type>Text</dc:type>
+<dc:language>spa</dc:language>
+<dc:language>eng</dc:language>
+<dc:title xml:lang="es">Artritis reumatoide</dc:title>
+<dc:title xml:lang="en">Rheumatoid Arthritis</dc:title>
+<dc:publisher>National Library of Medicine</dc:publisher>
+<dc:relation type="IsPartOf">Immune System</dc:relation>
+<dc:relation type="IsPartOf">Bones, Joints and Muscles</dc:relation>
+<dc:date type="created">2002-07-21</dc:date>
+<dc:date type="modified">2017-11-08</dc:date>
+<dc:identifier type="URL" xml:lang="es">https://medlineplus.gov/spanish/rheumatoidarthritis.html</dc:identifier>
+<dc:identifier type="URL" xml:lang="en">https://medlineplus.gov/rheumatoidarthritis.html</dc:identifier>
+<dc:description xml:lang="es">La artritis reumatoide es una forma de artritis que causa dolor, inflamación, rigidez y pérdida de la función de las articulaciones. Puede afectar cualquier articulación, pero es común en las muñecas y los dedos. Más mujeres que hombres padecen artritis reumatoide. Suele comenzar en la edad mediana y es más común entre los adultos mayores. Usted puede padecer la enfermedad por un corto período o los síntomas pueden aparecer y desaparecer. La forma severa puede durar toda la vida. La artritis reumatoide es diferente a la osteoartritis, la forma común de artritis a edad avanzada. La artritis reumatoide puede afectar otras partes del cuerpo además de las articulaciones, como los ojos, la boca y los pulmones. Ésta es una enfermedad autoinmune, lo que significa que la artritis es el resultado de un ataque de su sistema inmunitario a sus propios tejidos. No se conoce la causa de la artritis reumatoide. Los genes, el ambiente y las hormonas pueden tener un rol. Los tratamientos incluyen medicamentos, cambios en el estilo de vida y cirugía. Pueden disminuir o detener el daño en las articulaciones y reducir el dolor y la inflamación. NIH: Instituto Nacional de Artritis y Enfermedades Musculoesqueléticas y de la Piel</dc:description>
+<dc:description xml:lang="en">Rheumatoid arthritis (RA) is a form of arthritis that causes pain, swelling, stiffness and loss of function in your joints. It can affect any joint but is common in the wrist and fingers. More women than men get rheumatoid arthritis. It often starts in middle age and is most common in older people. You might have the disease for only a short time, or symptoms might come and go. The severe form can last a lifetime. Rheumatoid arthritis is different from osteoarthritis, the common arthritis that often comes with older age. RA can affect body parts besides joints, such as your eyes, mouth and lungs. RA is an autoimmune disease, which means the arthritis results from your immune system attacking your body's own tissues. No one knows what causes rheumatoid arthritis. Genes, environment, and hormones might contribute. Treatments include medicine, lifestyle changes, and surgery. These can slow or stop joint damage and reduce pain and swelling. NIH: National Institute of Arthritis and Musculoskeletal and Skin Diseases</dc:description>
+<dc:subject dcterms="mesh">Arthritis, Rheumatoid</dc:subject>
+<dc:subject xml:lang="es">Artritis reumatoide</dc:subject>
+<dc:subject xml:lang="en">Rheumatoid Arthritis</dc:subject>
+</metadata>
+</record>
+</MedlinePlus-document>

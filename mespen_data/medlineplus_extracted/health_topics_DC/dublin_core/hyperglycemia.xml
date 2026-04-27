@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<MedlinePlus-document>
+<record>
+<header>
+<identifier>https://medlineplus.gov/hyperglycemia.html</identifier>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:type>Text</dc:type>
+<dc:language>spa</dc:language>
+<dc:language>eng</dc:language>
+<dc:title xml:lang="es">Hiperglucemia</dc:title>
+<dc:title xml:lang="en">Hyperglycemia</dc:title>
+<dc:publisher>National Library of Medicine</dc:publisher>
+<dc:relation type="IsPartOf">Endocrine System</dc:relation>
+<dc:relation type="IsPartOf">Diabetes Mellitus</dc:relation>
+<dc:relation type="IsPartOf">Metabolic Problems</dc:relation>
+<dc:date type="created">2013-04-09</dc:date>
+<dc:date type="modified">2018-01-03</dc:date>
+<dc:identifier type="URL" xml:lang="es">https://medlineplus.gov/spanish/hyperglycemia.html</dc:identifier>
+<dc:identifier type="URL" xml:lang="en">https://medlineplus.gov/hyperglycemia.html</dc:identifier>
+<dc:description xml:lang="es">La hiperglucemia quiere decir azúcar o glucosa alta en la sangre. Esta glucosa proviene de los alimentos que uno ingiere. La insulina es una hormona que lleva la glucosa hasta las células para darles energía. Sin embargo, cuando alguien sufre de hiperglucemia, su cuerpo no produce una cantidad suficiente de insulina o no la puede usar en ese momento. Las personas con diabetes pueden sufrir de hiperglucemia si no comen los alimentos apropiados o no toman los medicamentos correctamente. Otros problemas que pueden subir el azúcar en la sangre son infecciones, ciertos medicamentos, desbalances hormonales o enfermedades graves.</dc:description>
+<dc:description xml:lang="en">Hyperglycemia means high blood sugar or glucose. Glucose comes from the foods you eat. Insulin is a hormone that moves glucose into your cells to give them energy. Hyperglycemia happens when your body doesn't make enough insulin or can't use it the right way. People with diabetes can get hyperglycemia from not eating the right foods or not taking medicines correctly. Other problems that can raise blood sugar include infections, certain medicines, hormone imbalances, or severe illnesses.</dc:description>
+<dc:subject dcterms="mesh">Hyperglycemia</dc:subject>
+<dc:subject xml:lang="es">Hiperglucemia</dc:subject>
+<dc:subject xml:lang="en">Hyperglycemia</dc:subject>
+<dc:subject xml:lang="en">High Blood Sugar</dc:subject>
+<dc:subject xml:lang="en">High Blood Glucose</dc:subject>
+</metadata>
+</record>
+</MedlinePlus-document>
