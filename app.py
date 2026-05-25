@@ -272,10 +272,12 @@ hr { border-color: #1e2530 !important; margin: 1.5rem 0 !important; }
 # ─────────────────────────────────────────────────────────────────────────────
 # CONSTANTS
 # ─────────────────────────────────────────────────────────────────────────────
-BASELINE_MODEL  = "Helsinki-NLP/opus-mt-es-en"
-FINETUNED_MODEL = "./mespen_medical_model"
+BASELINE_ES_EN  = "Helsinki-NLP/opus-mt-es-en"
+BASELINE_EN_ES  = "Helsinki-NLP/opus-mt-en-es"
+FINETUNED_ES_EN = "./mespen_medical_model"
+FINETUNED_EN_ES = "./mespen_medical_model_en_es"
 
-SAMPLE_SENTENCES = [
+SAMPLE_SENTENCES_ES = [
     "El paciente presenta fiebre alta, tos seca y dificultad para respirar.",
     "Se recomienda administrar amoxicilina 500 mg cada 8 horas durante 7 días.",
     "La resonancia magnética reveló una lesión hipointensa en el lóbulo temporal derecho.",
@@ -283,13 +285,28 @@ SAMPLE_SENTENCES = [
     "Se diagnosticó hipertensión arterial y se inició tratamiento con enalapril.",
 ]
 
+SAMPLE_SENTENCES_EN = [
+    "The patient presents with high fever, dry cough, and difficulty breathing.",
+    "It is recommended to administer amoxicillin 500 mg every 8 hours for 7 days.",
+    "The MRI revealed a hypointense lesion in the right temporal lobe.",
+    "The blood test showed elevated fasting glucose levels.",
+    "Arterial hypertension was diagnosed and treatment with enalapril was initiated.",
+]
+
 # ─────────────────────────────────────────────────────────────────────────────
 # HELPERS
 # ─────────────────────────────────────────────────────────────────────────────
-def finetuned_available():
-    return os.path.isdir(FINETUNED_MODEL) and os.path.isfile(
-        os.path.join(FINETUNED_MODEL, "model.safetensors")
-    )
+def finetuned_available(direction: str = "ES → EN") -> bool:
+    path = FINETUNED_EN_ES if direction == "EN → ES" else FINETUNED_ES_EN
+    return os.path.isdir(path) and os.path.isfile(os.path.join(path, "model.safetensors"))
+
+
+def resolve_model(direction: str, engine_choice: str) -> str:
+    ft = "Fine-tuned" in engine_choice
+    if direction == "EN → ES":
+        return FINETUNED_EN_ES if (ft and finetuned_available("EN → ES")) else BASELINE_EN_ES
+    else:
+        return FINETUNED_ES_EN if (ft and finetuned_available("ES → EN")) else BASELINE_ES_EN
 
 
 @st.cache_resource(show_spinner=False)
@@ -383,28 +400,24 @@ with st.sidebar:
     if domain != "🧬  Medical":
         st.info("Only the Medical domain is available in this demo.")
 
+    st.markdown("<div class='sidebar-label'>Direction</div>", unsafe_allow_html=True)
+    direction = st.radio(
+        "Direction", ["ES → EN", "EN → ES"],
+        label_visibility="collapsed",
+    )
+
     st.markdown("<div class='sidebar-label'>Engine</div>", unsafe_allow_html=True)
-    ft_ready = finetuned_available()
-    engine_options = ["Baseline (opus-mt-es-en)"]
+    ft_ready = finetuned_available(direction)
+    engine_options = [f"Baseline (opus-mt-{'es-en' if direction == 'ES → EN' else 'en-es'})"]
     if ft_ready:
         engine_options.append("Fine-tuned (MeSpEn Medical)")
     engine_choice = st.radio("Engine", engine_options, label_visibility="collapsed")
 
     if not ft_ready:
-        st.caption("Fine-tuned model not found at `./mespen_medical_model`.")
+        ft_path = FINETUNED_EN_ES if direction == "EN → ES" else FINETUNED_ES_EN
+        st.caption(f"Fine-tuned model not found at `{ft_path}`.")
 
-    selected_model = (
-        FINETUNED_MODEL if ("Fine-tuned" in engine_choice and ft_ready)
-        else BASELINE_MODEL
-    )
-
-    st.markdown("<div class='sidebar-label'>Direction</div>", unsafe_allow_html=True)
-    st.markdown(
-        "<div style='font-family:IBM Plex Mono,monospace;font-size:0.78rem;"
-        "color:#58a6ff;padding:4px 0'>ES → EN</div>",
-        unsafe_allow_html=True,
-    )
-    st.caption("EN → ES coming in next iteration.")
+    selected_model = resolve_model(direction, engine_choice)
 
     st.markdown("<div class='sidebar-label'>Device</div>", unsafe_allow_html=True)
     device_str = "CUDA · GPU" if torch.cuda.is_available() else "CPU"
@@ -444,17 +457,18 @@ with st.spinner(f"Loading `{selected_model}`…"):
 # HEADER
 # ─────────────────────────────────────────────────────────────────────────────
 engine_label = "Fine-tuned · MeSpEn" if "Fine-tuned" in engine_choice else "Baseline · opus-mt"
+dir_label    = direction  # "ES → EN" or "EN → ES"
 
 st.markdown(
     "<div class='page-title'>Med<span>Translate</span></div>"
-    "<div class='page-subtitle'>Spanish → English · Medical Domain · iDISC Demo v0.1</div>",
+    f"<div class='page-subtitle'>{dir_label} · Medical Domain · iDISC Demo v0.1</div>",
     unsafe_allow_html=True,
 )
 st.markdown(f"""
 <div class='status-bar'>
     <div class='status-item'><span class='status-dot dot-blue'></span>ENGINE &nbsp;<b>{engine_label}</b></div>
     <div class='status-item'>DOMAIN &nbsp;<b>Medical</b></div>
-    <div class='status-item'>DIRECTION &nbsp;<b>ES → EN</b></div>
+    <div class='status-item'>DIRECTION &nbsp;<b>{dir_label}</b></div>
     <div class='status-item'>DEVICE &nbsp;<b>{device_str}</b></div>
     <div class='status-item'>QA &nbsp;<b>Confidence Threshold</b></div>
 </div>
@@ -465,18 +479,25 @@ st.markdown(f"""
 # ─────────────────────────────────────────────────────────────────────────────
 col_src, col_tgt = st.columns(2, gap="medium")
 
+src_lang, tgt_lang = ("Español", "English") if direction == "ES → EN" else ("English", "Español")
+src_placeholder = (
+    "Escribe o pega el texto médico en español aquí…"
+    if direction == "ES → EN"
+    else "Type or paste medical text in English here…"
+)
+
 with col_src:
-    st.markdown("<div class='panel-label'>Source · Español</div>", unsafe_allow_html=True)
+    st.markdown(f"<div class='panel-label'>Source · {src_lang}</div>", unsafe_allow_html=True)
     source_input = st.text_area(
         "source",
         height=220,
-        placeholder="Escribe o pega el texto médico en español aquí…",
+        placeholder=src_placeholder,
         label_visibility="collapsed",
         key="src_area",
     )
 
 with col_tgt:
-    st.markdown("<div class='panel-label'>Translation · English</div>", unsafe_allow_html=True)
+    st.markdown(f"<div class='panel-label'>Translation · {tgt_lang}</div>", unsafe_allow_html=True)
     if st.session_state.translation:
         c   = st.session_state.confidence
         el  = st.session_state.elapsed
@@ -507,8 +528,9 @@ with col_tgt:
 # ── Translate button ──
 _, btn_col, _ = st.columns([2, 1, 2])
 with btn_col:
+    btn_label = "Translate →" if direction == "ES → EN" else "Traducir →"
     translate_btn = st.button(
-        "Translate →", use_container_width=True,
+        btn_label, use_container_width=True,
         disabled=not model_ok, type="primary",
     )
 
@@ -518,7 +540,8 @@ with btn_col:
 if translate_btn:
     text = source_input.strip()
     if not text:
-        st.warning("Please enter some Spanish text to translate.")
+        lang_hint = "Spanish" if direction == "ES → EN" else "English"
+        st.warning(f"Please enter some {lang_hint} text to translate.")
     else:
         with st.spinner("Translating…"):
             try:
@@ -545,6 +568,7 @@ if translate_btn:
 # ─────────────────────────────────────────────────────────────────────────────
 st.divider()
 st.markdown("<div class='panel-label'>Quick Examples</div>", unsafe_allow_html=True)
+SAMPLE_SENTENCES = SAMPLE_SENTENCES_ES if direction == "ES → EN" else SAMPLE_SENTENCES_EN
 ex_cols = st.columns(len(SAMPLE_SENTENCES))
 for i, (col, sentence) in enumerate(zip(ex_cols, SAMPLE_SENTENCES)):
     with col:
@@ -560,20 +584,30 @@ for i, (col, sentence) in enumerate(zip(ex_cols, SAMPLE_SENTENCES)):
 # ─────────────────────────────────────────────────────────────────────────────
 st.divider()
 with st.expander("⚖️  Baseline vs Fine-tuned — side-by-side"):
-    if not ft_ready:
-        st.info("Fine-tuned model not found at `./mespen_medical_model`. Run `mespen-medical-finetune.ipynb` first.")
+    ft_ready_cmp = finetuned_available(direction)
+    ft_path_cmp  = FINETUNED_EN_ES if direction == "EN → ES" else FINETUNED_ES_EN
+    base_path_cmp = BASELINE_EN_ES  if direction == "EN → ES" else BASELINE_ES_EN
+    base_label_cmp = f"opus-mt-{'en-es' if direction == 'EN → ES' else 'es-en'}"
+    cmp_placeholder = (
+        "Paste a Spanish medical sentence to compare both models…"
+        if direction == "ES → EN"
+        else "Paste an English medical sentence to compare both models…"
+    )
+
+    if not ft_ready_cmp:
+        st.info(f"Fine-tuned model not found at `{ft_path_cmp}`. Run the fine-tuning notebook first.")
     else:
         cmp_text = st.text_area(
             "Input for comparison", height=100,
-            placeholder="Paste a Spanish medical sentence to compare both models…",
+            placeholder=cmp_placeholder,
             key="cmp_input",
         )
         if st.button("Run comparison →", key="cmp_btn") and cmp_text.strip():
             c1, c2 = st.columns(2, gap="medium")
             with c1:
-                st.markdown("<div class='panel-label'>Baseline · opus-mt-es-en</div>", unsafe_allow_html=True)
+                st.markdown(f"<div class='panel-label'>Baseline · {base_label_cmp}</div>", unsafe_allow_html=True)
                 with st.spinner("Running baseline…"):
-                    pb, tb, _ = load_model(BASELINE_MODEL)
+                    pb, tb, _ = load_model(base_path_cmp)
                     ob, cb, timeb = translate_text(pb, tb, cmp_text.strip())
                 pct_b = int(cb * 100)
                 st.markdown(f"<div class='output-panel active'>{ob}</div>", unsafe_allow_html=True)
@@ -587,7 +621,7 @@ with st.expander("⚖️  Baseline vs Fine-tuned — side-by-side"):
             with c2:
                 st.markdown("<div class='panel-label'>Fine-tuned · MeSpEn Medical</div>", unsafe_allow_html=True)
                 with st.spinner("Running fine-tuned…"):
-                    pf, tf, _ = load_model(FINETUNED_MODEL)
+                    pf, tf, _ = load_model(ft_path_cmp)
                     of, cf, timef = translate_text(pf, tf, cmp_text.strip())
                 pct_f = int(cf * 100)
                 delta = pct_f - pct_b
