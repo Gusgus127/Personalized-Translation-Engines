@@ -1,0 +1,11 @@
+doc_id,src_pdf,ref_pdf,src_chars,ref_chars,hyp_chars,BLEU,ChrF,COMET,time_s
+029-6231-02f_Remote_Plus_user guide,pdfs\029-6231-02f_Remote_Plus_user guide_es.pdf,pdfs\029-6231-02f_Remote_Plus_user guide_en.pdf,24448,13902,12935,22.4,45.9,0.365,187.6
+aq_jam_xc_pro_r_user_guide,pdfs\aq_jam_xc_pro_r_user_guide_es.pdf,pdfs\aq_jam_xc_pro_r_user_guide_en.pdf,45845,44533,21676,19.4,38.8,0.541,414.4
+aq_sound_xc_r_user_guide,pdfs\aq_sound_xc_r_user_guide_es.pdf,pdfs\aq_sound_xc_r_user_guide_en.pdf,43830,42943,22695,29.0,44.5,0.684,420.0
+guide-user,pdfs\guide-user_es.pdf,pdfs\guide-user_en.pdf,43441,36737,20897,35.4,47.5,0.794,623.8
+UH_UserGuide_Moxi-V312_92x125,pdfs\UH_UserGuide_Moxi-V312_92x125_es.pdf,pdfs\UH_UserGuide_Moxi-V312_92x125_en.pdf,53331,48569,25132,14.1,40.8,0.269,699.3
+029-6231-02f_Remote_Plus_user guide,pdfs\029-6231-02f_Remote_Plus_user guide_es.pdf,pdfs\029-6231-02f_Remote_Plus_user guide_en.pdf,24448,13902,12935,22.4,45.9,0.365,267.5
+aq_jam_xc_pro_r_user_guide,pdfs\aq_jam_xc_pro_r_user_guide_es.pdf,pdfs\aq_jam_xc_pro_r_user_guide_en.pdf,45845,44533,21676,19.4,38.8,0.541,521.7
+aq_sound_xc_r_user_guide,pdfs\aq_sound_xc_r_user_guide_es.pdf,pdfs\aq_sound_xc_r_user_guide_en.pdf,43830,42943,22695,29.0,44.5,0.684,495.1
+guide-user,pdfs\guide-user_es.pdf,pdfs\guide-user_en.pdf,43441,36737,20897,35.4,47.5,0.794,445.1
+UH_UserGuide_Moxi-V312_92x125,pdfs\UH_UserGuide_Moxi-V312_92x125_es.pdf,pdfs\UH_UserGuide_Moxi-V312_92x125_en.pdf,53331,48569,25132,14.1,40.8,0.269,562.3

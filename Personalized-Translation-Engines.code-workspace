@@ -1,0 +1,17 @@
+{
+	"folders": [
+		{
+			"name": "Personalized-Translation-Engines",
+			"path": "."
+		},
+		{
+			"name": "mespen_medical_model_en_es",
+			"path": "../../Downloads/mespen_en_es/mespen_medical_model_en_es"
+		},
+		{
+			"name": "mespen_medical_model",
+			"path": "../../Downloads/mespen_es_en/mespen_medical_model"
+		}
+	],
+	"settings": {}
+}

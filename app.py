@@ -1,18 +1,16 @@
 """
 iDISC · Personalized Translation Engines
-Medical Domain Demo — Streamlit Interface
+Medical Domain Demo — Streamlit Interface (with Real COMET QA Thresholds)
 """
 
 import os
 import json
 import time
+import re
 import streamlit as st
 from transformers import MarianMTModel, MarianTokenizer, pipeline
 import torch
 
-# ─────────────────────────────────────────────────────────────────────────────
-# PAGE CONFIG
-# ─────────────────────────────────────────────────────────────────────────────
 st.set_page_config(
     page_title="iDISC · MedTranslate",
     page_icon="🧬",
@@ -20,252 +18,67 @@ st.set_page_config(
     initial_sidebar_state="expanded",
 )
 
-# ─────────────────────────────────────────────────────────────────────────────
-# STYLES
-# ─────────────────────────────────────────────────────────────────────────────
 st.markdown("""
 <style>
 @import url('https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:ital,wght@0,300;0,400;0,500;0,600;1,300&family=IBM+Plex+Sans:wght@300;400;500&display=swap');
 
-html, body, [class*="css"] {
-    font-family: 'IBM Plex Sans', sans-serif;
-    font-weight: 300;
-}
+html, body, [class*="css"] { font-family: 'IBM Plex Sans', sans-serif; font-weight: 300; }
 .stApp { background: #0d1117; }
 
-section[data-testid="stSidebar"] {
-    background: #090c10;
-    border-right: 1px solid #1e2530;
-}
+section[data-testid="stSidebar"] { background: #090c10; border-right: 1px solid #1e2530; }
 section[data-testid="stSidebar"] * { color: #8b949e !important; }
 section[data-testid="stSidebar"] h1,
 section[data-testid="stSidebar"] h2,
 section[data-testid="stSidebar"] h3 { color: #c9d1d9 !important; }
 
-.wordmark {
-    font-family: 'IBM Plex Mono', monospace;
-    font-size: 1.05rem;
-    font-weight: 600;
-    color: #58a6ff;
-    letter-spacing: 0.18em;
-    text-transform: uppercase;
-    margin-bottom: 0.15rem;
-}
-.wordmark-sub {
-    font-family: 'IBM Plex Mono', monospace;
-    font-size: 0.65rem;
-    color: #3d444d;
-    letter-spacing: 0.2em;
-    text-transform: uppercase;
-    margin-bottom: 1.8rem;
-}
+.wordmark { font-family:'IBM Plex Mono',monospace;font-size:1.05rem;font-weight:600;color:#58a6ff;letter-spacing:.18em;text-transform:uppercase;margin-bottom:.15rem; }
+.wordmark-sub { font-family:'IBM Plex Mono',monospace;font-size:.65rem;color:#3d444d;letter-spacing:.2em;text-transform:uppercase;margin-bottom:1.8rem; }
 
-.page-title {
-    font-family: 'IBM Plex Mono', monospace;
-    font-size: 1.7rem;
-    font-weight: 500;
-    color: #c9d1d9;
-    letter-spacing: -0.01em;
-    line-height: 1.2;
-}
-.page-title span { color: #58a6ff; }
-.page-subtitle {
-    font-family: 'IBM Plex Mono', monospace;
-    font-size: 0.72rem;
-    color: #3d444d;
-    letter-spacing: 0.15em;
-    text-transform: uppercase;
-    margin-top: 0.3rem;
-    margin-bottom: 2rem;
-}
+.page-title { font-family:'IBM Plex Mono',monospace;font-size:1.7rem;font-weight:500;color:#c9d1d9;letter-spacing:-.01em;line-height:1.2; }
+.page-title span { color:#58a6ff; }
+.page-subtitle { font-family:'IBM Plex Mono',monospace;font-size:.72rem;color:#3d444d;letter-spacing:.15em;text-transform:uppercase;margin-top:.3rem;margin-bottom:2rem; }
 
-.status-bar {
-    display: flex;
-    gap: 20px;
-    align-items: center;
-    padding: 8px 14px;
-    background: #090c10;
-    border: 1px solid #1e2530;
-    border-radius: 4px;
-    margin-bottom: 1.5rem;
-    flex-wrap: wrap;
-}
-.status-item {
-    font-family: 'IBM Plex Mono', monospace;
-    font-size: 0.68rem;
-    color: #3d444d;
-    letter-spacing: 0.08em;
-    text-transform: uppercase;
-}
-.status-item b { color: #8b949e; font-weight: 400; }
-.status-dot {
-    width: 6px; height: 6px; border-radius: 50%;
-    display: inline-block; margin-right: 6px; vertical-align: middle;
-}
-.dot-green { background: #3fb950; }
-.dot-amber { background: #d29922; }
-.dot-red   { background: #f85149; }
-.dot-blue  { background: #58a6ff; }
+.status-bar { display:flex;gap:20px;align-items:center;padding:8px 14px;background:#090c10;border:1px solid #1e2530;border-radius:4px;margin-bottom:1.5rem;flex-wrap:wrap; }
+.status-item { font-family:'IBM Plex Mono',monospace;font-size:.68rem;color:#3d444d;letter-spacing:.08em;text-transform:uppercase; }
+.status-item b { color:#8b949e;font-weight:400; }
+.status-dot { width:6px;height:6px;border-radius:50%;display:inline-block;margin-right:6px;vertical-align:middle; }
+.dot-green { background:#3fb950; } .dot-amber { background:#d29922; } .dot-red { background:#f85149; } .dot-blue { background:#58a6ff; }
 
-.panel-label {
-    font-family: 'IBM Plex Mono', monospace;
-    font-size: 0.65rem;
-    letter-spacing: 0.2em;
-    text-transform: uppercase;
-    color: #3d444d;
-    margin-bottom: 6px;
-    padding-bottom: 6px;
-    border-bottom: 1px solid #1e2530;
-}
+.panel-label { font-family:'IBM Plex Mono',monospace;font-size:.65rem;letter-spacing:.2em;text-transform:uppercase;color:#3d444d;margin-bottom:6px;padding-bottom:6px;border-bottom:1px solid #1e2530; }
 
-.stTextArea textarea {
-    background: #090c10 !important;
-    border: 1px solid #1e2530 !important;
-    border-radius: 4px !important;
-    color: #c9d1d9 !important;
-    font-family: 'IBM Plex Mono', monospace !important;
-    font-size: 0.88rem !important;
-    line-height: 1.8 !important;
-    caret-color: #58a6ff;
-}
-.stTextArea textarea:focus {
-    border-color: #58a6ff !important;
-    box-shadow: 0 0 0 2px rgba(88,166,255,0.08) !important;
-}
-.stTextArea textarea::placeholder { color: #3d444d !important; }
+.stTextArea textarea { background:#090c10 !important;border:1px solid #1e2530 !important;border-radius:4px !important;color:#c9d1d9 !important;font-family:'IBM Plex Mono',monospace !important;font-size:.88rem !important;line-height:1.8 !important;caret-color:#58a6ff; }
+.stTextArea textarea:focus { border-color:#58a6ff !important;box-shadow:0 0 0 2px rgba(88,166,255,.08) !important; }
+.stTextArea textarea::placeholder { color:#3d444d !important; }
 
-.output-panel {
-    background: #090c10;
-    border: 1px solid #1e2530;
-    border-radius: 4px;
-    padding: 14px 16px;
-    font-family: 'IBM Plex Mono', monospace;
-    font-size: 0.88rem;
-    line-height: 1.8;
-    color: #c9d1d9;
-    min-height: 200px;
-    white-space: pre-wrap;
-    word-break: break-word;
-}
-.output-panel.empty { color: #3d444d; font-style: italic; }
-.output-panel.active { animation: fadeIn 0.3s ease; }
-@keyframes fadeIn {
-    from { opacity: 0; transform: translateY(4px); }
-    to   { opacity: 1; transform: translateY(0); }
-}
+.output-panel { background:#090c10;border:1px solid #1e2530;border-radius:4px;padding:14px 16px;font-family:'IBM Plex Mono',monospace;font-size:.88rem;line-height:1.8;color:#c9d1d9;min-height:200px;white-space:pre-wrap;word-break:break-word; }
+.output-panel.empty { color:#3d444d;font-style:italic; }
+.output-panel.active { animation:fadeIn .3s ease; }
+@keyframes fadeIn { from{opacity:0;transform:translateY(4px)} to{opacity:1;transform:translateY(0)} }
 
-.conf-strip {
-    margin-top: 10px;
-    display: flex;
-    align-items: center;
-    gap: 10px;
-}
-.conf-bar-bg {
-    flex: 1;
-    height: 3px;
-    background: #1e2530;
-    border-radius: 2px;
-    overflow: hidden;
-}
-.conf-bar-fill { height: 3px; border-radius: 2px; transition: width 0.5s ease; }
-.conf-text {
-    font-family: 'IBM Plex Mono', monospace;
-    font-size: 0.68rem;
-    letter-spacing: 0.1em;
-    white-space: nowrap;
-    min-width: 110px;
-    text-align: right;
-}
+.comet-segment { display:inline;padding:2px 4px;margin:0 1px;border-radius:3px;position:relative;cursor:help;transition:background .2s ease; }
+.comet-segment:hover { filter:brightness(1.2); }
 
-.chip-row { display: flex; gap: 8px; flex-wrap: wrap; margin-top: 10px; }
-.chip {
-    font-family: 'IBM Plex Mono', monospace;
-    font-size: 0.65rem;
-    letter-spacing: 0.08em;
-    padding: 3px 10px;
-    border-radius: 2px;
-    border: 1px solid #1e2530;
-    color: #8b949e;
-    background: #090c10;
-    white-space: nowrap;
-}
-.chip b { color: #58a6ff; font-weight: 400; }
+.conf-strip { margin-top:10px;display:flex;align-items:center;gap:10px; }
+.conf-bar-bg { flex:1;height:3px;background:#1e2530;border-radius:2px;overflow:hidden; }
+.conf-bar-fill { height:3px;border-radius:2px;transition:width .5s ease; }
+.conf-text { font-family:'IBM Plex Mono',monospace;font-size:.68rem;letter-spacing:.1em;white-space:nowrap;min-width:110px;text-align:right; }
 
-.stButton > button {
-    background: #090c10 !important;
-    border: 1px solid #1e2530 !important;
-    color: #8b949e !important;
-    font-family: 'IBM Plex Mono', monospace !important;
-    font-size: 0.72rem !important;
-    letter-spacing: 0.05em !important;
-    border-radius: 3px !important;
-    padding: 6px 14px !important;
-    transition: all 0.15s ease !important;
-}
-.stButton > button:hover {
-    border-color: #58a6ff !important;
-    color: #58a6ff !important;
-    background: #090c10 !important;
-}
-.stButton > button[kind="primary"] {
-    background: #1f6feb !important;
-    border-color: #1f6feb !important;
-    color: #ffffff !important;
-}
-.stButton > button[kind="primary"]:hover {
-    background: #388bfd !important;
-    border-color: #388bfd !important;
-    color: #ffffff !important;
-}
+.chip-row { display:flex;gap:8px;flex-wrap:wrap;margin-top:10px; }
+.chip { font-family:'IBM Plex Mono',monospace;font-size:.65rem;letter-spacing:.08em;padding:3px 10px;border-radius:2px;border:1px solid #1e2530;color:#8b949e;background:#090c10;white-space:nowrap; }
+.chip b { color:#58a6ff;font-weight:400; }
 
-.hist-row {
-    display: grid;
-    grid-template-columns: 1fr 1fr auto;
-    gap: 12px;
-    align-items: start;
-    padding: 10px 0;
-    border-bottom: 1px solid #1e2530;
-    font-family: 'IBM Plex Mono', monospace;
-    font-size: 0.76rem;
-}
-.hist-src { color: #8b949e; line-height: 1.5; }
-.hist-tgt { color: #c9d1d9; line-height: 1.5; }
-.hist-badge {
-    font-size: 0.62rem;
-    padding: 2px 8px;
-    border-radius: 2px;
-    white-space: nowrap;
-    border: 1px solid;
-}
+.stButton > button { background:#090c10 !important;border:1px solid #1e2530 !important;color:#8b949e !important;font-family:'IBM Plex Mono',monospace !important;font-size:.72rem !important;letter-spacing:.05em !important;border-radius:3px !important;padding:6px 14px !important;transition:all .15s ease !important; }
+.stButton > button:hover { border-color:#58a6ff !important;color:#58a6ff !important;background:#090c10 !important; }
+.stButton > button[kind="primary"] { background:#1f6feb !important;border-color:#1f6feb !important;color:#ffffff !important; }
+.stButton > button[kind="primary"]:hover { background:#388bfd !important;border-color:#388bfd !important;color:#ffffff !important; }
 
-.stSelectbox > div > div {
-    background: #0d1117 !important;
-    border-color: #1e2530 !important;
-    color: #8b949e !important;
-    font-family: 'IBM Plex Mono', monospace !important;
-    font-size: 0.8rem !important;
-}
+.hist-row { display:grid;grid-template-columns:1fr 1fr auto;gap:12px;align-items:start;padding:10px 0;border-bottom:1px solid #1e2530;font-family:'IBM Plex Mono',monospace;font-size:.76rem; }
+.hist-src { color:#8b949e;line-height:1.5; } .hist-tgt { color:#c9d1d9;line-height:1.5; }
+.hist-badge { font-size:.62rem;padding:2px 8px;border-radius:2px;white-space:nowrap;border:1px solid; }
 
-.sidebar-label {
-    font-family: 'IBM Plex Mono', monospace;
-    font-size: 0.62rem;
-    letter-spacing: 0.18em;
-    text-transform: uppercase;
-    color: #3d444d;
-    margin-bottom: 4px;
-    margin-top: 16px;
-}
-
-hr { border-color: #1e2530 !important; margin: 1.5rem 0 !important; }
-
-.streamlit-expanderHeader {
-    font-family: 'IBM Plex Mono', monospace !important;
-    font-size: 0.78rem !important;
-    color: #8b949e !important;
-    background: #090c10 !important;
-    border: 1px solid #1e2530 !important;
-    border-radius: 3px !important;
-}
+.sidebar-label { font-family:'IBM Plex Mono',monospace;font-size:.62rem;letter-spacing:.18em;text-transform:uppercase;color:#3d444d;margin-bottom:4px;margin-top:16px; }
+hr { border-color:#1e2530 !important;margin:1.5rem 0 !important; }
+.streamlit-expanderHeader { font-family:'IBM Plex Mono',monospace !important;font-size:.78rem !important;color:#8b949e !important;background:#090c10 !important;border:1px solid #1e2530 !important;border-radius:3px !important; }
 </style>
 """, unsafe_allow_html=True)
 
@@ -276,6 +89,9 @@ BASELINE_ES_EN  = "Helsinki-NLP/opus-mt-es-en"
 BASELINE_EN_ES  = "Helsinki-NLP/opus-mt-en-es"
 FINETUNED_ES_EN = "./mespen_medical_model"
 FINETUNED_EN_ES = "./mespen_medical_model_en_es"
+
+COMET_THRESHOLD_HI = 0.85
+COMET_THRESHOLD_LO = 0.70
 
 SAMPLE_SENTENCES_ES = [
     "El paciente presenta fiebre alta, tos seca y dificultad para respirar.",
@@ -298,8 +114,10 @@ SAMPLE_SENTENCES_EN = [
 # ─────────────────────────────────────────────────────────────────────────────
 def finetuned_available(direction: str = "ES → EN") -> bool:
     path = FINETUNED_EN_ES if direction == "EN → ES" else FINETUNED_ES_EN
-    return os.path.isdir(path) and os.path.isfile(os.path.join(path, "model.safetensors"))
-
+    return os.path.isdir(path) and (
+        os.path.isfile(os.path.join(path, "model.safetensors")) or
+        os.path.isfile(os.path.join(path, "pytorch_model.bin"))
+    )
 
 def resolve_model(direction: str, engine_choice: str) -> str:
     ft = "Fine-tuned" in engine_choice
@@ -308,14 +126,12 @@ def resolve_model(direction: str, engine_choice: str) -> str:
     else:
         return FINETUNED_ES_EN if (ft and finetuned_available("ES → EN")) else BASELINE_ES_EN
 
-
 @st.cache_resource(show_spinner=False)
 def load_model(model_path: str):
     tokenizer = MarianTokenizer.from_pretrained(model_path)
     model     = MarianMTModel.from_pretrained(model_path)
     device    = 0 if torch.cuda.is_available() else -1
 
-    # Try pipeline task names across transformers versions
     pipe = None
     for task in ("translation", "text2text-generation"):
         try:
@@ -324,7 +140,6 @@ def load_model(model_path: str):
         except Exception:
             continue
 
-    # Final fallback: use model.generate directly
     if pipe is None:
         def _pipe(text, max_length=256, **kwargs):
             inputs = tokenizer(text, return_tensors="pt", truncation=True, max_length=512)
@@ -337,33 +152,170 @@ def load_model(model_path: str):
 
     return pipe, tokenizer, device
 
+@st.cache_resource(show_spinner=False)
+def load_comet():
+    """
+    Try COMET models in order of preference.
+    Returns (model, variant, model_name) or (None, None, None).
 
-def translate_text(pipe, tokenizer, text: str):
-    t0     = time.time()
+    Variants:
+      "kiwi"  — wmt22/wmt23-cometkiwi-da: outputs [0,1], higher=better, clamp only
+      "qe_da" — wmt20-comet-qe-da:        outputs [-1,1], map with (s+1)/2
+    """
+    candidates = [
+        ("Unbabel/wmt22-cometkiwi-da",    "kiwi"),
+        ("Unbabel/wmt23-cometkiwi-da-xl", "kiwi"),
+        ("Unbabel/wmt20-comet-qe-da",     "qe_da"),
+    ]
+    for model_name, variant in candidates:
+        try:
+            from comet import download_model, load_from_checkpoint
+            model_path = download_model(model_name)
+            model = load_from_checkpoint(model_path)
+            st.sidebar.success(f"✅ COMET loaded: {model_name}")
+            return model, variant, model_name
+        except Exception:
+            continue
+    st.sidebar.error("⚠️ No COMET model could be loaded. Falling back to heuristic.")
+    return None, None, None
+
+def _normalise_comet(raw_scores: list, variant: str) -> list:
+    """
+    Normalise raw COMET scores to [0, 1] depending on which model is loaded:
+
+    "kiwi"  — wmt22/wmt23-cometkiwi-da outputs scores already in [0, 1].
+               Higher = better. Just clamp.
+    "qe_da" — wmt20-comet-qe-da outputs scores in roughly [-1, 1].
+               Map to [0, 1] with (s + 1) / 2.
+    """
+    processed = []
+    for s in raw_scores:
+        if variant == "kiwi":
+            val = max(0.0, min(1.0, float(s)))
+        else:  # qe_da
+            val = max(0.0, min(1.0, (float(s) + 1.0) / 2.0))
+        processed.append(round(val, 3))
+    return processed
+
+def split_into_sentences(text: str) -> list:
+    """Split text into sentence-level segments."""
+    sentences = re.split(r'(?<=[.!?])\s+', text.strip())
+    return [s.strip() for s in sentences if s.strip()]
+
+def calculate_comet_scores(comet_model, comet_variant: str, sources: list, hypotheses: list) -> tuple:
+    """
+    Score a batch of (src, mt) sentence pairs in one COMET call.
+    Returns (mean_score, [per_sentence_scores]) both normalised to [0, 1].
+    """
+    if comet_model is None or not sources:
+        scores = []
+        for s_text, h_text in zip(sources, hypotheses):
+            s = len(s_text.split())
+            h = len(h_text.split()) if h_text else 1
+            scores.append(round(min(min(s, h) / max(s, h, 1) * 0.95, 0.95), 3))
+        mean = round(sum(scores) / len(scores), 3) if scores else 0.75
+        return mean, scores
+
+    gpus = 1 if torch.cuda.is_available() else 0
+    data = [{"src": s, "mt": h} for s, h in zip(sources, hypotheses)]
+
+    try:
+        result = comet_model.predict(data, batch_size=16, gpus=gpus, progress_bar=False)
+        if hasattr(result, "scores"):
+            raw_scores = [float(x) for x in result.scores]
+        elif isinstance(result, dict):
+            raw_scores = [float(x) for x in result.get("scores", [0.5] * len(sources))]
+        else:
+            return 0.75, [0.75] * len(sources)
+
+        # Log raw scores to sidebar so we can see what COMET actually outputs
+        st.sidebar.write(f"🔬 Raw COMET scores: {[round(x,4) for x in raw_scores]}")
+
+        norm_scores = _normalise_comet(raw_scores, comet_variant)
+        mean = round(sum(norm_scores) / len(norm_scores), 3)
+        return mean, norm_scores
+    except Exception as e:
+        st.sidebar.warning(f"⚠️ Scoring error: {str(e)}")
+        return 0.75, [0.75] * len(sources)
+
+def translate_text(pipe, tokenizer, comet_model, comet_variant: str, text: str):
+    t0 = time.time()
     result = pipe(text.strip(), max_length=256)
     elapsed = round(time.time() - t0, 2)
 
-    # transformers ≥4.40 uses "generated_text"; older builds use "translation_text"
     out = result[0]
     translation = out.get("generated_text") or out.get("translation_text") or ""
 
-    src_len    = len(tokenizer(text)["input_ids"])
-    tgt_len    = len(tokenizer(translation)["input_ids"]) if translation else 1
-    ratio      = min(src_len, tgt_len) / max(src_len, tgt_len)
-    confidence = round(min(ratio * 1.12, 1.0), 3)
+    # Split both sides into sentence-level segments
+    src_segs = split_into_sentences(text)
+    tgt_segs = split_into_sentences(translation)
 
-    return translation, confidence, elapsed
+    # Align lengths — pad the shorter list so indices match
+    while len(tgt_segs) < len(src_segs):
+        tgt_segs.append(tgt_segs[-1] if tgt_segs else translation)
+    while len(src_segs) < len(tgt_segs):
+        src_segs.append(src_segs[-1] if src_segs else text)
 
+    # Score all sentence pairs in a single batched COMET call
+    global_score, seg_scores = calculate_comet_scores(
+        comet_model, comet_variant, src_segs, tgt_segs
+    )
 
-def conf_color(c: float) -> str:
-    if c >= 0.80: return "#3fb950"
-    if c >= 0.60: return "#d29922"
+    segments_data = [
+        {"src_seg": s, "tgt_seg": t, "score": score}
+        for s, t, score in zip(src_segs, tgt_segs, seg_scores)
+    ]
+
+    return translation, round(global_score, 3), elapsed, segments_data
+
+def conf_color(c: float, hi: float = COMET_THRESHOLD_HI, lo: float = COMET_THRESHOLD_LO) -> str:
+    if c >= hi: return "#3fb950"
+    if c >= lo: return "#d29922"
     return "#f85149"
 
-def conf_label(c: float) -> str:
-    if c >= 0.80: return "AUTO-ACCEPT"
-    if c >= 0.60: return "REVIEW"
+def conf_label(c: float, hi: float = COMET_THRESHOLD_HI, lo: float = COMET_THRESHOLD_LO) -> str:
+    if c >= hi: return "AUTO-ACCEPT"
+    if c >= lo: return "REVIEW"
     return "FLAG"
+
+def render_segment_heatmap(segments: list, hi: float, lo: float) -> str:
+    """
+    Render each sentence on its own line with:
+    - coloured background + underline for the QA tier
+    - a small visible score badge inline after the sentence
+    - hover tooltip with full label
+    """
+    rows = []
+    for seg in segments:
+        score  = seg["score"]
+        color  = conf_color(score, hi, lo)
+        label  = conf_label(score, hi, lo)
+        alpha  = color + "18"
+        safe   = seg["tgt_seg"].replace("&", "&amp;").replace("<", "&lt;").replace(">", "&gt;")
+
+        badge = (
+            f"<span style='"
+            f"font-size:0.60rem;font-family:IBM Plex Mono,monospace;"
+            f"color:{color};border:1px solid {color};border-radius:2px;"
+            f"padding:1px 6px;margin-left:8px;vertical-align:middle;"
+            f"white-space:nowrap;letter-spacing:0.06em;opacity:0.9'>"
+            f"{score:.2f} · {label}"
+            f"</span>"
+        )
+
+        rows.append(
+            f"<div style='margin-bottom:10px;line-height:1.7'>"
+            f"<span class='comet-segment' "
+            f"style='background-color:{alpha};border-bottom:2px solid {color};"
+            f"border-radius:3px;padding:3px 5px'>"
+            f"{safe}"
+            f"</span>"
+            f"{badge}"
+            f"</div>"
+        )
+
+    inner = "".join(rows)
+    return f"<div class='output-panel active' style='line-height:2'>{inner}</div>"
 
 # ─────────────────────────────────────────────────────────────────────────────
 # SESSION STATE
@@ -373,14 +325,13 @@ for key, default in [
     ("translation",       ""),
     ("confidence",        None),
     ("elapsed",           None),
+    ("segments",          []),
     ("source_text",       ""),
     ("_pending_example",  None),
 ]:
     if key not in st.session_state:
         st.session_state[key] = default
 
-# Apply any pending example BEFORE widgets are instantiated.
-# This is the only safe window to write to a widget key.
 if st.session_state["_pending_example"] is not None:
     st.session_state["src_area"]         = st.session_state["_pending_example"]
     st.session_state["_pending_example"] = None
@@ -401,10 +352,7 @@ with st.sidebar:
         st.info("Only the Medical domain is available in this demo.")
 
     st.markdown("<div class='sidebar-label'>Direction</div>", unsafe_allow_html=True)
-    direction = st.radio(
-        "Direction", ["ES → EN", "EN → ES"],
-        label_visibility="collapsed",
-    )
+    direction = st.radio("Direction", ["ES → EN", "EN → ES"], label_visibility="collapsed")
 
     st.markdown("<div class='sidebar-label'>Engine</div>", unsafe_allow_html=True)
     ft_ready = finetuned_available(direction)
@@ -424,8 +372,18 @@ with st.sidebar:
     device_dot = "dot-green" if torch.cuda.is_available() else "dot-amber"
     st.markdown(
         f"<span class='status-dot {device_dot}'></span>"
-        f"<span style='font-family:IBM Plex Mono,monospace;font-size:0.78rem;"
-        f"color:#8b949e'>{device_str}</span>",
+        f"<span style='font-family:IBM Plex Mono,monospace;font-size:0.78rem;color:#8b949e'>{device_str}</span>",
+        unsafe_allow_html=True,
+    )
+
+    st.markdown("<div class='sidebar-label'>QA · COMET Thresholds</div>", unsafe_allow_html=True)
+    comet_hi = st.slider("Auto-accept  ≥", min_value=0.50, max_value=1.00, value=COMET_THRESHOLD_HI, step=0.01, format="%.2f", key="comet_hi")
+    comet_lo = st.slider("Review  ≥", min_value=0.40, max_value=float(comet_hi), value=min(COMET_THRESHOLD_LO, comet_hi), step=0.01, format="%.2f", key="comet_lo")
+    st.markdown(
+        f"<div style='font-family:IBM Plex Mono,monospace;font-size:0.62rem;color:#3d444d;margin-top:2px;line-height:1.8'>"
+        f"<span style='color:#3fb950'>■</span> ≥{comet_hi:.2f} AUTO-ACCEPT<br>"
+        f"<span style='color:#d29922'>■</span> ≥{comet_lo:.2f} REVIEW<br>"
+        f"<span style='color:#f85149'>■</span> &lt;{comet_lo:.2f} FLAG</div>",
         unsafe_allow_html=True,
     )
 
@@ -433,17 +391,17 @@ with st.sidebar:
     st.markdown("<div class='sidebar-label'>Session</div>", unsafe_allow_html=True)
     n = len(st.session_state.history)
     st.markdown(
-        f"<div style='font-family:IBM Plex Mono,monospace;font-size:0.75rem;"
-        f"color:#8b949e'>{n} translation{'s' if n != 1 else ''} this session</div>",
+        f"<div style='font-family:IBM Plex Mono,monospace;font-size:0.75rem;color:#8b949e'>"
+        f"{n} translation{'s' if n != 1 else ''} this session</div>",
         unsafe_allow_html=True,
     )
     if st.button("Clear history", use_container_width=True):
-        for k in ("history", "translation", "confidence", "elapsed", "source_text"):
-            st.session_state[k] = [] if k == "history" else ("" if k in ("translation","source_text") else None)
+        for k in ("history", "translation", "confidence", "elapsed", "segments", "source_text"):
+            st.session_state[k] = [] if k == "history" else ("" if k in ("translation", "source_text") else None)
         st.rerun()
 
 # ─────────────────────────────────────────────────────────────────────────────
-# LOAD MODEL
+# LOAD MODEL + COMET
 # ─────────────────────────────────────────────────────────────────────────────
 with st.spinner(f"Loading `{selected_model}`…"):
     try:
@@ -453,11 +411,18 @@ with st.spinner(f"Loading `{selected_model}`…"):
         st.error(f"**Model load failed:** `{selected_model}`\n\n```\n{e}\n```")
         model_ok = False
 
+with st.spinner("Loading COMET QA model…"):
+    _comet_result = load_comet()
+    comet_model, comet_variant, comet_model_name = (
+        _comet_result if _comet_result[0] is not None else (None, None, None)
+    )
+    comet_ready = comet_model is not None
+
 # ─────────────────────────────────────────────────────────────────────────────
 # HEADER
 # ─────────────────────────────────────────────────────────────────────────────
 engine_label = "Fine-tuned · MeSpEn" if "Fine-tuned" in engine_choice else "Baseline · opus-mt"
-dir_label    = direction  # "ES → EN" or "EN → ES"
+dir_label    = direction
 
 st.markdown(
     "<div class='page-title'>Med<span>Translate</span></div>"
@@ -470,7 +435,7 @@ st.markdown(f"""
     <div class='status-item'>DOMAIN &nbsp;<b>Medical</b></div>
     <div class='status-item'>DIRECTION &nbsp;<b>{dir_label}</b></div>
     <div class='status-item'>DEVICE &nbsp;<b>{device_str}</b></div>
-    <div class='status-item'>QA &nbsp;<b>Confidence Threshold</b></div>
+    <div class='status-item'>QA &nbsp;<b>{comet_model_name.split('/')[-1] if comet_ready else 'Heuristic'}</b></div>
 </div>
 """, unsafe_allow_html=True)
 
@@ -489,39 +454,39 @@ src_placeholder = (
 with col_src:
     st.markdown(f"<div class='panel-label'>Source · {src_lang}</div>", unsafe_allow_html=True)
     source_input = st.text_area(
-        "source",
-        height=220,
-        placeholder=src_placeholder,
-        label_visibility="collapsed",
-        key="src_area",
+        "source", height=220, placeholder=src_placeholder,
+        label_visibility="collapsed", key="src_area",
     )
 
 with col_tgt:
-    st.markdown(f"<div class='panel-label'>Translation · {tgt_lang}</div>", unsafe_allow_html=True)
+    st.markdown(
+        f"<div class='panel-label'>Translation · {tgt_lang} — COMET score per sentence</div>",
+        unsafe_allow_html=True,
+    )
     if st.session_state.translation:
         c   = st.session_state.confidence
         el  = st.session_state.elapsed
-        pct = int(c * 100)
-        st.markdown(
-            f"<div class='output-panel active'>{st.session_state.translation}</div>",
-            unsafe_allow_html=True,
-        )
+        pct = min(100, int(c * 100))
+
+        st.markdown(render_segment_heatmap(st.session_state.segments, comet_hi, comet_lo), unsafe_allow_html=True)
+
         st.markdown(f"""
 <div class='conf-strip'>
     <div class='conf-bar-bg'>
-        <div class='conf-bar-fill' style='width:{pct}%;background:{conf_color(c)}'></div>
+        <div class='conf-bar-fill' style='width:{pct}%;background:{conf_color(c, comet_hi, comet_lo)}'></div>
     </div>
-    <div class='conf-text' style='color:{conf_color(c)}'>{pct}% · {conf_label(c)}</div>
+    <div class='conf-text' style='color:{conf_color(c, comet_hi, comet_lo)}'>{pct}% · {conf_label(c, comet_hi, comet_lo)}</div>
 </div>
 <div class='chip-row'>
+    <div class='chip'>Global COMET &nbsp;<b>{c:.3f}</b></div>
+    <div class='chip'>Sentences &nbsp;<b>{len(st.session_state.segments)}</b></div>
     <div class='chip'>Time &nbsp;<b>{el}s</b></div>
     <div class='chip'>Engine &nbsp;<b>{engine_label}</b></div>
-    <div class='chip'>Chars &nbsp;<b>{len(st.session_state.translation)}</b></div>
 </div>
 """, unsafe_allow_html=True)
     else:
         st.markdown(
-            "<div class='output-panel empty'>Translation will appear here…</div>",
+            "<div class='output-panel empty'>Translation will appear here — each sentence scored individually…</div>",
             unsafe_allow_html=True,
         )
 
@@ -529,10 +494,7 @@ with col_tgt:
 _, btn_col, _ = st.columns([2, 1, 2])
 with btn_col:
     btn_label = "Translate →" if direction == "ES → EN" else "Traducir →"
-    translate_btn = st.button(
-        btn_label, use_container_width=True,
-        disabled=not model_ok, type="primary",
-    )
+    translate_btn = st.button(btn_label, use_container_width=True, disabled=not model_ok, type="primary")
 
 # ─────────────────────────────────────────────────────────────────────────────
 # TRANSLATION LOGIC
@@ -540,24 +502,27 @@ with btn_col:
 if translate_btn:
     text = source_input.strip()
     if not text:
-        lang_hint = "Spanish" if direction == "ES → EN" else "English"
-        st.warning(f"Please enter some {lang_hint} text to translate.")
+        st.warning("Please enter some text to translate.")
     else:
-        with st.spinner("Translating…"):
+        with st.spinner("Translating & scoring sentences with COMET…"):
             try:
-                translation, confidence, elapsed = translate_text(pipe, tokenizer, text)
+                translation, confidence, elapsed, segments = translate_text(
+                    pipe, tokenizer, comet_model, comet_variant, text
+                )
                 st.session_state.translation = translation
                 st.session_state.confidence  = confidence
                 st.session_state.elapsed     = elapsed
+                st.session_state.segments    = segments
                 st.session_state.source_text = text
                 st.session_state.history.insert(0, {
-                    "src":    text[:140],
-                    "tgt":    translation[:140],
-                    "conf":   confidence,
-                    "label":  conf_label(confidence),
-                    "color":  conf_color(confidence),
-                    "time":   elapsed,
-                    "engine": engine_label,
+                    "src":      text[:140],
+                    "tgt":      translation[:140],
+                    "conf":     confidence,
+                    "label":    conf_label(confidence, comet_hi, comet_lo),
+                    "color":    conf_color(confidence, comet_hi, comet_lo),
+                    "time":     elapsed,
+                    "engine":   engine_label,
+                    "segments": len(segments),
                 })
                 st.rerun()
             except Exception as e:
@@ -577,6 +542,7 @@ for i, (col, sentence) in enumerate(zip(ex_cols, SAMPLE_SENTENCES)):
             st.session_state.translation          = ""
             st.session_state.confidence           = None
             st.session_state.elapsed              = None
+            st.session_state.segments             = []
             st.rerun()
 
 # ─────────────────────────────────────────────────────────────────────────────
@@ -584,57 +550,38 @@ for i, (col, sentence) in enumerate(zip(ex_cols, SAMPLE_SENTENCES)):
 # ─────────────────────────────────────────────────────────────────────────────
 st.divider()
 with st.expander("⚖️  Baseline vs Fine-tuned — side-by-side"):
-    ft_ready_cmp = finetuned_available(direction)
-    ft_path_cmp  = FINETUNED_EN_ES if direction == "EN → ES" else FINETUNED_ES_EN
+    ft_ready_cmp  = finetuned_available(direction)
+    ft_path_cmp   = FINETUNED_EN_ES if direction == "EN → ES" else FINETUNED_ES_EN
     base_path_cmp = BASELINE_EN_ES  if direction == "EN → ES" else BASELINE_ES_EN
     base_label_cmp = f"opus-mt-{'en-es' if direction == 'EN → ES' else 'es-en'}"
-    cmp_placeholder = (
-        "Paste a Spanish medical sentence to compare both models…"
-        if direction == "ES → EN"
-        else "Paste an English medical sentence to compare both models…"
-    )
 
     if not ft_ready_cmp:
         st.info(f"Fine-tuned model not found at `{ft_path_cmp}`. Run the fine-tuning notebook first.")
     else:
         cmp_text = st.text_area(
             "Input for comparison", height=100,
-            placeholder=cmp_placeholder,
+            placeholder="Paste one or more sentences to compare models side by side…",
             key="cmp_input",
         )
         if st.button("Run comparison →", key="cmp_btn") and cmp_text.strip():
             c1, c2 = st.columns(2, gap="medium")
+
             with c1:
                 st.markdown(f"<div class='panel-label'>Baseline · {base_label_cmp}</div>", unsafe_allow_html=True)
                 with st.spinner("Running baseline…"):
                     pb, tb, _ = load_model(base_path_cmp)
-                    ob, cb, timeb = translate_text(pb, tb, cmp_text.strip())
-                pct_b = int(cb * 100)
-                st.markdown(f"<div class='output-panel active'>{ob}</div>", unsafe_allow_html=True)
-                st.markdown(f"""
-<div class='conf-strip'><div class='conf-bar-bg'>
-    <div class='conf-bar-fill' style='width:{pct_b}%;background:{conf_color(cb)}'></div>
-</div><div class='conf-text' style='color:{conf_color(cb)}'>{pct_b}% · {conf_label(cb)}</div></div>
-<div class='chip-row'><div class='chip'>Time &nbsp;<b>{timeb}s</b></div></div>
-""", unsafe_allow_html=True)
+                    ob, cb, timeb, segs_b = translate_text(pb, tb, comet_model, comet_variant, cmp_text.strip())
+                st.markdown(render_segment_heatmap(segs_b, comet_hi, comet_lo), unsafe_allow_html=True)
+                st.markdown(f"<div class='chip-row'><div class='chip'>Global COMET &nbsp;<b>{cb:.3f}</b></div><div class='chip'>Time &nbsp;<b>{timeb}s</b></div></div>", unsafe_allow_html=True)
 
             with c2:
                 st.markdown("<div class='panel-label'>Fine-tuned · MeSpEn Medical</div>", unsafe_allow_html=True)
                 with st.spinner("Running fine-tuned…"):
                     pf, tf, _ = load_model(ft_path_cmp)
-                    of, cf, timef = translate_text(pf, tf, cmp_text.strip())
-                pct_f = int(cf * 100)
-                delta = pct_f - pct_b
-                st.markdown(f"<div class='output-panel active'>{of}</div>", unsafe_allow_html=True)
-                st.markdown(f"""
-<div class='conf-strip'><div class='conf-bar-bg'>
-    <div class='conf-bar-fill' style='width:{pct_f}%;background:{conf_color(cf)}'></div>
-</div><div class='conf-text' style='color:{conf_color(cf)}'>{pct_f}% · {conf_label(cf)}</div></div>
-<div class='chip-row'>
-    <div class='chip'>Time &nbsp;<b>{timef}s</b></div>
-    <div class='chip'>Δ Confidence &nbsp;<b>{'+' if delta>=0 else ''}{delta}%</b></div>
-</div>
-""", unsafe_allow_html=True)
+                    of, cf, timef, segs_f = translate_text(pf, tf, comet_model, comet_variant, cmp_text.strip())
+                st.markdown(render_segment_heatmap(segs_f, comet_hi, comet_lo), unsafe_allow_html=True)
+                delta = round(cf - cb, 3)
+                st.markdown(f"<div class='chip-row'><div class='chip'>Global COMET &nbsp;<b>{cf:.3f}</b></div><div class='chip'>Δ &nbsp;<b>{'+' if delta>=0 else ''}{delta}</b></div><div class='chip'>Time &nbsp;<b>{timef}s</b></div></div>", unsafe_allow_html=True)
 
 # ─────────────────────────────────────────────────────────────────────────────
 # HISTORY
@@ -644,7 +591,7 @@ if st.session_state.history:
     with st.expander(f"📋  Translation History ({len(st.session_state.history)} entries)"):
         st.markdown("""
 <div class='hist-row' style='color:#3d444d;font-size:0.62rem;letter-spacing:0.15em'>
-    <div>SOURCE</div><div>TRANSLATION</div><div>QA</div>
+    <div>SOURCE</div><div>TRANSLATION</div><div>QA COMET STATUS</div>
 </div>""", unsafe_allow_html=True)
 
         for item in st.session_state.history[:20]:
@@ -654,9 +601,10 @@ if st.session_state.history:
     <div class='hist-src'>{item['src']}{'…' if len(item['src'])>=140 else ''}</div>
     <div class='hist-tgt'>{item['tgt']}{'…' if len(item['tgt'])>=140 else ''}</div>
     <div>
-        <span class='hist-badge' style='{badge_style}'>{item['label']}</span>
-        <div style='font-family:IBM Plex Mono,monospace;font-size:0.6rem;color:#3d444d;
-                    margin-top:4px'>{item['engine']}<br>{item['time']}s</div>
+        <span class='hist-badge' style='{badge_style}'>{item['label']} ({item['conf']:.3f})</span>
+        <div style='font-family:IBM Plex Mono,monospace;font-size:0.6rem;color:#3d444d;margin-top:4px'>
+            {item['engine']} · {item.get('segments',1)} sentence{'s' if item.get('segments',1)!=1 else ''}<br>{item['time']}s
+        </div>
     </div>
 </div>""", unsafe_allow_html=True)
 
@@ -679,6 +627,6 @@ st.markdown("""
 <div style='font-family:IBM Plex Mono,monospace;font-size:0.62rem;color:#3d444d;
             letter-spacing:0.1em;text-align:center;border-top:1px solid #1e2530;padding-top:1rem'>
     iDISC · PERSONALIZED TRANSLATION ENGINES · DEMO v0.1 · MEDICAL DOMAIN
-    &nbsp;·&nbsp; QA MODULE / AUTOMATED REPAIR / LEGAL / AUTOMOTIVE — COMING SOON
+    &nbsp;·&nbsp; COMET-Kiwi wmt22 · REFERENCE-FREE · PER-SENTENCE SCORING
 </div>
 """, unsafe_allow_html=True)

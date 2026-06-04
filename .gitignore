@@ -18,3 +18,21 @@ venv/
 # OS
 .DS_Store
 Thumbs.db
+
+# Block the entire pdfs folder
+pdfs/
+
+# Block the fine-tuned model directories
+mespen_medical_model/
+mespen_medical_model_en_es/
+
+# Block all large model weight files explicitly (safetensors, bin, pt, etc.)
+*.safetensors
+*.bin
+*.pt
+*.pth
+*.h5
+
+# Block local cache and logs
+comet_cache/
+logs/
