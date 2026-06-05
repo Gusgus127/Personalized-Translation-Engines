@@ -10,6 +10,7 @@ import re
 import streamlit as st
 from transformers import MarianMTModel, MarianTokenizer, pipeline
 import torch
+import pdfplumber  
 
 st.set_page_config(
     page_title="iDISC · MedTranslate",
@@ -197,6 +198,42 @@ def _normalise_comet(raw_scores: list, variant: str) -> list:
         processed.append(round(val, 3))
     return processed
 
+
+def clean_extracted_text(text: str) -> str:
+    """
+    Clean up pdfplumber output:
+    - Remove table-of-contents dot leaders (3+ dots or mixed dots/spaces)
+    - Collapse runs of 3+ repeated identical lines (loop artifacts)
+    - Remove lines that are pure page numbers or whitespace
+    - Collapse excessive blank lines
+    """
+    lines = text.splitlines()
+    cleaned = []
+    prev_line = None
+    repeat_count = 0
+    for line in lines:
+        # Strip trailing whitespace
+        line = line.rstrip()
+        # Drop TOC dot-leader lines (line is mostly dots/spaces after some text)
+        if re.search(r'[.·\s]{6,}', line) and re.search(r'\d+\s*$', line):
+            continue
+        # Drop lines that are only a number (page numbers)
+        if re.fullmatch(r'\s*\d{1,3}\s*', line):
+            continue
+        # Collapse repeated identical lines (loop artifacts from PDF layout)
+        if line == prev_line:
+            repeat_count += 1
+            if repeat_count >= 2:   # allow at most 2 identical consecutive lines
+                continue
+        else:
+            repeat_count = 0
+        prev_line = line
+        cleaned.append(line)
+    # Collapse 3+ consecutive blank lines into one
+    result = re.sub(r'(\n\s*){3,}', '\n\n', '\n'.join(cleaned))
+    return result.strip()
+
+
 def split_into_sentences(text: str) -> list:
     """Split text into sentence-level segments."""
     sentences = re.split(r'(?<=[.!?])\s+', text.strip())
@@ -238,32 +275,78 @@ def calculate_comet_scores(comet_model, comet_variant: str, sources: list, hypot
         st.sidebar.warning(f"⚠️ Scoring error: {str(e)}")
         return 0.75, [0.75] * len(sources)
 
+MAX_CHUNK_TOKENS = 400  # safe budget below MarianMT's 512-token limit
+
+def _chunk_sentences(sentences: list, tokenizer, max_tokens: int = MAX_CHUNK_TOKENS) -> list:
+    """
+    Group sentences into chunks that fit within `max_tokens` tokens.
+    Each chunk is a list of sentences.
+    """
+    chunks, current, current_len = [], [], 0
+    for sent in sentences:
+        sent_len = len(tokenizer.encode(sent, add_special_tokens=False))
+        # If a single sentence is already over the limit, split it by words
+        if sent_len > max_tokens:
+            words = sent.split()
+            sub, sub_len = [], 0
+            for word in words:
+                w_len = len(tokenizer.encode(word, add_special_tokens=False))
+                if sub_len + w_len > max_tokens and sub:
+                    chunks.append([" ".join(sub)])
+                    sub, sub_len = [word], w_len
+                else:
+                    sub.append(word)
+                    sub_len += w_len
+            if sub:
+                chunks.append([" ".join(sub)])
+            continue
+        if current_len + sent_len > max_tokens and current:
+            chunks.append(current)
+            current, current_len = [sent], sent_len
+        else:
+            current.append(sent)
+            current_len += sent_len
+    if current:
+        chunks.append(current)
+    return chunks
+
+
 def translate_text(pipe, tokenizer, comet_model, comet_variant: str, text: str):
     t0 = time.time()
-    result = pipe(text.strip(), max_length=256)
-    elapsed = round(time.time() - t0, 2)
 
-    out = result[0]
-    translation = out.get("generated_text") or out.get("translation_text") or ""
+    # Split into sentences then group into token-safe chunks
+    src_segs   = split_into_sentences(text)
+    chunks     = _chunk_sentences(src_segs, tokenizer)
 
-    # Split both sides into sentence-level segments
-    src_segs = split_into_sentences(text)
-    tgt_segs = split_into_sentences(translation)
+    tgt_segs   = []
+    used_src   = []   # flattened sentences actually translated
+    for chunk_sents in chunks:
+        chunk_text = " ".join(chunk_sents)
+        try:
+            result = pipe(chunk_text, max_length=512)
+            out    = result[0]
+            translated_chunk = out.get("generated_text") or out.get("translation_text") or ""
+        except Exception:
+            translated_chunk = chunk_text   # fallback: keep original on error
+        chunk_tgt_segs = split_into_sentences(translated_chunk)
+        # Align segment count to source sentences in this chunk
+        while len(chunk_tgt_segs) < len(chunk_sents):
+            chunk_tgt_segs.append(chunk_tgt_segs[-1] if chunk_tgt_segs else translated_chunk)
+        chunk_tgt_segs = chunk_tgt_segs[:len(chunk_sents)]
+        tgt_segs.extend(chunk_tgt_segs)
+        used_src.extend(chunk_sents)
 
-    # Align lengths — pad the shorter list so indices match
-    while len(tgt_segs) < len(src_segs):
-        tgt_segs.append(tgt_segs[-1] if tgt_segs else translation)
-    while len(src_segs) < len(tgt_segs):
-        src_segs.append(src_segs[-1] if src_segs else text)
+    translation = " ".join(tgt_segs)
+    elapsed     = round(time.time() - t0, 2)
 
     # Score all sentence pairs in a single batched COMET call
     global_score, seg_scores = calculate_comet_scores(
-        comet_model, comet_variant, src_segs, tgt_segs
+        comet_model, comet_variant, used_src, tgt_segs
     )
 
     segments_data = [
         {"src_seg": s, "tgt_seg": t, "score": score}
-        for s, t, score in zip(src_segs, tgt_segs, seg_scores)
+        for s, t, score in zip(used_src, tgt_segs, seg_scores)
     ]
 
     return translation, round(global_score, 3), elapsed, segments_data
@@ -279,43 +362,40 @@ def conf_label(c: float, hi: float = COMET_THRESHOLD_HI, lo: float = COMET_THRES
     return "FLAG"
 
 def render_segment_heatmap(segments: list, hi: float, lo: float) -> str:
-    """
-    Render each sentence on its own line with:
-    - coloured background + underline for the QA tier
-    - a small visible score badge inline after the sentence
-    - hover tooltip with full label
-    """
-    rows = []
+    html_out = "<div class='output-panel active'>"
     for seg in segments:
         score  = seg["score"]
-        color  = conf_color(score, hi, lo)
         label  = conf_label(score, hi, lo)
-        alpha  = color + "18"
+        color  = conf_color(score, hi, lo)
+
         safe   = seg["tgt_seg"].replace("&", "&amp;").replace("<", "&lt;").replace(">", "&gt;")
 
-        badge = (
-            f"<span style='"
-            f"font-size:0.60rem;font-family:IBM Plex Mono,monospace;"
-            f"color:{color};border:1px solid {color};border-radius:2px;"
-            f"padding:1px 6px;margin-left:8px;vertical-align:middle;"
-            f"white-space:nowrap;letter-spacing:0.06em;opacity:0.9'>"
-            f"{score:.2f} · {label}"
-            f"</span>"
-        )
+        # Only show badge and colour if NOT auto‑accepted
+        if label == "AUTO-ACCEPT":
+            # No background, no underline, no badge
+            span_style = ""
+            badge = ""
+        else:
+            alpha = color + "25"
+            span_style = f"background-color:{alpha};border-bottom:2px solid {color};border-radius:3px;padding:3px 5px"
+            badge = (
+                f"<span style='font-size:0.6rem;font-family:IBM Plex Mono,monospace;"
+                f"color:{color};border:1px solid {color};border-radius:2px;"
+                f"padding:1px 6px;margin-left:8px;vertical-align:middle;"
+                f"white-space:nowrap;letter-spacing:0.06em;opacity:0.9'>"
+                f"{score:.2f} · {label}"
+                f"</span>"
+            )
 
-        rows.append(
+        html_out += (
             f"<div style='margin-bottom:10px;line-height:1.7'>"
-            f"<span class='comet-segment' "
-            f"style='background-color:{alpha};border-bottom:2px solid {color};"
-            f"border-radius:3px;padding:3px 5px'>"
-            f"{safe}"
-            f"</span>"
+            f"<span class='comet-segment' style='{span_style}' "
+            f"title='COMET {score:.3f} · {label}'>{safe}</span>"
             f"{badge}"
             f"</div>"
         )
-
-    inner = "".join(rows)
-    return f"<div class='output-panel active' style='line-height:2'>{inner}</div>"
+    html_out += "</div>"
+    return html_out
 
 # ─────────────────────────────────────────────────────────────────────────────
 # SESSION STATE
@@ -328,13 +408,21 @@ for key, default in [
     ("segments",          []),
     ("source_text",       ""),
     ("_pending_example",  None),
+    ("_pending_pdf_text", None),
+    ("_last_extracted_pdf",    None),
+    ("_editing_translation",   False),
 ]:
     if key not in st.session_state:
         st.session_state[key] = default
 
+# Resolve any pending pre-fill before widgets are instantiated
 if st.session_state["_pending_example"] is not None:
     st.session_state["src_area"]         = st.session_state["_pending_example"]
     st.session_state["_pending_example"] = None
+
+if st.session_state["_pending_pdf_text"] is not None:
+    st.session_state["src_area"]          = st.session_state["_pending_pdf_text"]
+    st.session_state["_pending_pdf_text"] = None
 
 # ─────────────────────────────────────────────────────────────────────────────
 # SIDEBAR
@@ -453,40 +541,122 @@ src_placeholder = (
 
 with col_src:
     st.markdown(f"<div class='panel-label'>Source · {src_lang}</div>", unsafe_allow_html=True)
-    source_input = st.text_area(
-        "source", height=220, placeholder=src_placeholder,
-        label_visibility="collapsed", key="src_area",
-    )
+
+    # tabs for input method
+    tab1, tab2 = st.tabs(["✏️  Text input", "📄  PDF upload"])
+
+    with tab1:
+        source_input = st.text_area(
+            "source_text",
+            height=220,
+            placeholder=src_placeholder,
+            label_visibility="collapsed",
+            key="src_area",
+        )
+
+    with tab2:
+        uploaded_file = st.file_uploader(
+            "Choose a PDF file",
+            type=["pdf"],
+            key="pdf_uploader",
+        )
+        if uploaded_file is not None:
+            # Only extract if this is a newly uploaded file (guard against rerun loops)
+            if st.session_state["_last_extracted_pdf"] != uploaded_file.name:
+                with st.spinner("Extracting text from PDF…"):
+                    try:
+                        with pdfplumber.open(uploaded_file) as pdf:
+                            pages_text = []
+                            for page in pdf.pages:
+                                t = page.extract_text()
+                                if t:
+                                    pages_text.append(t.strip())
+                            extracted_text = "\n\n".join(pages_text)
+                        # Clean layout artifacts then stage
+                        extracted_text = clean_extracted_text(extracted_text)
+                        st.session_state["_last_extracted_pdf"] = uploaded_file.name
+                        st.session_state["_pending_pdf_text"]   = extracted_text
+                        st.rerun()
+                    except Exception as e:
+                        st.error(f"PDF extraction failed: {e}")
+            else:
+                char_count = len(st.session_state.get("src_area", ""))
+                st.success(f"✅ {uploaded_file.name} — {char_count:,} characters extracted.")
+                st.text_area(
+                    "Extracted text (read-only preview)",
+                    value=st.session_state.get("src_area", ""),
+                    height=200,
+                    disabled=True,
+                    label_visibility="collapsed",
+                    key="pdf_preview",
+                )
+                st.caption("Switch to the ✏️ Text input tab to edit before translating.")
+        else:
+            st.session_state["_last_extracted_pdf"] = None
+            st.info("Upload a PDF file and its text will appear in the source editor.")
 
 with col_tgt:
-    st.markdown(
-        f"<div class='panel-label'>Translation · {tgt_lang} — COMET score per sentence</div>",
-        unsafe_allow_html=True,
-    )
+    # Header row: label + edit/done toggle button
+    hdr_l, hdr_r = st.columns([3, 1])
+    with hdr_l:
+        st.markdown(f"<div class='panel-label'>Translation · {tgt_lang}</div>", unsafe_allow_html=True)
+    with hdr_r:
+        if st.session_state.translation:
+            editing = st.session_state["_editing_translation"]
+            btn_txt = "✅ Done" if editing else "✏️ Edit"
+            if st.button(btn_txt, key="toggle_edit", use_container_width=True):
+                st.session_state["_editing_translation"] = not editing
+                st.rerun()
+
     if st.session_state.translation:
-        c   = st.session_state.confidence
-        el  = st.session_state.elapsed
-        pct = min(100, int(c * 100))
+        c  = st.session_state.confidence
+        el = st.session_state.elapsed
 
-        st.markdown(render_segment_heatmap(st.session_state.segments, comet_hi, comet_lo), unsafe_allow_html=True)
+        if st.session_state["_editing_translation"]:
+            # ── EDIT MODE: plain editable text area ──────────────────────
+            edited_translation = st.text_area(
+                "editable_translation",
+                value=st.session_state.translation,
+                height=340,
+                label_visibility="collapsed",
+                key="editable_tgt",
+            )
+            if edited_translation != st.session_state.translation:
+                st.session_state.translation = edited_translation
+                st.session_state.segments    = []   # scores no longer valid
+                st.session_state.confidence  = None
+            st.caption("Editing mode — COMET scores cleared. Click ✅ Done to return to score view.")
+        else:
+            # ── SCORE VIEW: per-sentence COMET heatmap ───────────────────
+            if st.session_state.segments:
+                heatmap_html = render_segment_heatmap(
+                    st.session_state.segments, comet_hi, comet_lo
+                )
+                st.markdown(heatmap_html, unsafe_allow_html=True)
+            else:
+                # Edited text with no scores — show plain panel
+                safe_txt = st.session_state.translation.replace("&","&amp;").replace("<","&lt;").replace(">","&gt;")
+                st.markdown(f"<div class='output-panel active'>{safe_txt}</div>", unsafe_allow_html=True)
 
-        st.markdown(f"""
-<div class='conf-strip'>
-    <div class='conf-bar-bg'>
-        <div class='conf-bar-fill' style='width:{pct}%;background:{conf_color(c, comet_hi, comet_lo)}'></div>
-    </div>
-    <div class='conf-text' style='color:{conf_color(c, comet_hi, comet_lo)}'>{pct}% · {conf_label(c, comet_hi, comet_lo)}</div>
-</div>
-<div class='chip-row'>
-    <div class='chip'>Global COMET &nbsp;<b>{c:.3f}</b></div>
-    <div class='chip'>Sentences &nbsp;<b>{len(st.session_state.segments)}</b></div>
-    <div class='chip'>Time &nbsp;<b>{el}s</b></div>
-    <div class='chip'>Engine &nbsp;<b>{engine_label}</b></div>
-</div>
-""", unsafe_allow_html=True)
+            # Global confidence bar + chips
+            if c is not None:
+                color = conf_color(c, comet_hi, comet_lo)
+                label = conf_label(c, comet_hi, comet_lo)
+                pct   = min(100, int(c * 100))
+                st.markdown(f"""
+                <div class='conf-strip'>
+                    <div class='conf-bar-bg'><div class='conf-bar-fill' style='width:{pct}%;background:{color}'></div></div>
+                    <div class='conf-text' style='color:{color}'>{label} &nbsp;{c:.3f}</div>
+                </div>
+                <div class='chip-row'>
+                    <div class='chip'>COMET &nbsp;<b>{c:.3f}</b></div>
+                    <div class='chip'>Time &nbsp;<b>{el}s</b></div>
+                    <div class='chip'>Segments &nbsp;<b>{len(st.session_state.segments)}</b></div>
+                </div>
+                """, unsafe_allow_html=True)
     else:
         st.markdown(
-            "<div class='output-panel empty'>Translation will appear here — each sentence scored individually…</div>",
+            "<div class='output-panel empty'>Translation will appear here…</div>",
             unsafe_allow_html=True,
         )
 
