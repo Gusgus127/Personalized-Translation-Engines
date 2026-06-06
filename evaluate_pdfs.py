@@ -26,39 +26,56 @@ import pdfplumber
 from transformers import MarianMTModel, MarianTokenizer, pipeline
 import torch
 
-def split_text_into_token_chunks(text: str, tokenizer, max_tokens: int = 512) -> list:
-    """
-    Split text into chunks whose token length (after adding special tokens) is ≤ max_tokens.
-    We reserve 2 tokens for the start/end markers that the pipeline will add.
-    """
-    # Tokenize without special tokens to get a list of IDs
-    input_ids = tokenizer.encode(text, add_special_tokens=False, truncation=False)
-    chunks = []
-    # Reserve 2 slots for special tokens (e.g., <s> and </s> in Marian)
-    chunk_size = max_tokens - 2
-    for i in range(0, len(input_ids), chunk_size):
-        chunk_ids = input_ids[i:i + chunk_size]
-        # Decode back to text without special tokens – the pipeline will re‑add them
-        chunks.append(tokenizer.decode(chunk_ids, skip_special_tokens=True))
-    return chunks if chunks else [text]
+# Import the modular cleaning function if available, otherwise fallback to local equivalent
+try:
+    from glossary import clean_extracted_text
+except ImportError:
+    def clean_extracted_text(text: str) -> str:
+        """
+        Fallback implementation matching the app's clean_extracted_text logic.
+        Removes alignment dots, cleans up spacing, and filters extraction artifacts.
+        """
+        if not text:
+            return ""
+        # Remove lines or strings composed of multiple sequential dots (dot leaders)
+        text = re.sub(r'\.{2,}', ' ', text)
+        
+        # Split into lines to perform structural cleaning
+        cleaned_lines = []
+        for line in text.split('\n'):
+            line = line.strip()
+            # Ignore empty lines or lines with just standalone noise symbols
+            if not line or re.match(r'^[._\-\s•]+$', line):
+                continue
+            # Reduce multiple inline spaces to a single space
+            line = re.sub(r'\s+', ' ', line)
+            cleaned_lines.append(line)
+            
+        return "\n\n".join(cleaned_lines)
+
+def split_into_sentences(text: str) -> list:
+    """Split clean text into individual sentences using punctuation boundaries."""
+    sentences = re.split(r'(?<=[.!?])\s+', text.strip())
+    return [s.strip() for s in sentences if s.strip()]
 
 # ----------------------------------------------------------------------
 # PDF text extraction
 # ----------------------------------------------------------------------
 def extract_text_from_pdf(pdf_path: str) -> str:
-    """Extract plain text from a PDF, joining pages with double newlines."""
+    """Extract, filter, and normalize plain text from a PDF."""
     text_parts = []
     with pdfplumber.open(pdf_path) as pdf:
         for page in pdf.pages:
             page_text = page.extract_text()
             if page_text:
-                # Normalise whitespace
-                page_text = re.sub(r'\s+', ' ', page_text).strip()
                 text_parts.append(page_text)
-    return "\n\n".join(text_parts)
+                
+    raw_combined = "\n".join(text_parts)
+    # Apply the string layout normalization/sanitization fix used in the Streamlit UI
+    return clean_extracted_text(raw_combined)
 
 # ----------------------------------------------------------------------
-# Model loading (similar to your app)
+# Model loading
 # ----------------------------------------------------------------------
 def load_translation_model(model_path: str):
     """Load MarianMT model and tokenizer."""
@@ -70,15 +87,32 @@ def load_translation_model(model_path: str):
     return pipe, tokenizer, device
 
 def translate_text(pipe, tokenizer, text: str) -> str:
-    chunks = split_text_into_token_chunks(text, tokenizer, max_tokens=512)
+    """Translate text sentence-by-sentence to prevent MarianMT from truncating text."""
+    sentences = split_into_sentences(text)
     translated_chunks = []
-    for chunk in chunks:
-        out = pipe(chunk, max_length=512)
-        translated_chunks.append(out[0]["translation_text"])
+    max_chunk_tokens = 400
+    
+    for sent in sentences:
+        # Token length safety verification
+        tokens = tokenizer.encode(sent, add_special_tokens=False)
+        if len(tokens) > max_chunk_tokens:
+            sent = tokenizer.decode(tokens[:max_chunk_tokens], skip_special_tokens=True)
+            
+        if not sent.strip():
+            continue
+            
+        try:
+            out = pipe(sent, max_length=512)
+            # Account for varying internal pipeline return dictionary keys
+            translated = out[0].get("translation_text") or out[0].get("generated_text") or sent
+            translated_chunks.append(translated.strip())
+        except Exception:
+            translated_chunks.append(sent.strip())
+            
     return " ".join(translated_chunks)
 
 # ----------------------------------------------------------------------
-# COMET (reference-based) loading – different from Kiwi
+# COMET (reference-based) loading
 # ----------------------------------------------------------------------
 def load_comet_ref_based():
     """Load a reference-based COMET model (wmt22-comet-da)."""
@@ -87,10 +121,10 @@ def load_comet_ref_based():
     return load_from_checkpoint(model_path)
 
 def comet_score(ref_model, sources: List[str], hypotheses: List[str], references: List[str]) -> float:
-    """Compute corpus-level COMET score (higher = better, range ~0-1)."""
+    """Compute corpus-level COMET score."""
     data = [{"src": s, "mt": h, "ref": r} for s, h, r in zip(sources, hypotheses, references)]
     out = ref_model.predict(data, batch_size=8, gpus=1 if torch.cuda.is_available() else 0)
-    return out.system_score  # already in [0,1]
+    return out.system_score
 
 # ----------------------------------------------------------------------
 # Main evaluation
@@ -122,16 +156,15 @@ def evaluate_pairs(
             print("  WARNING: empty text, skipping.")
             continue
 
-        # Translate (full text as one segment, or split sentences for better scoring)
+        # Translate sentence by sentence
         hyp_text = translate_text(pipe, tokenizer, src_text)
 
-        # Compute BLEU and ChrF (sentence-level is more robust; we'll use sacrebleu corpus)
+        # Compute BLEU and ChrF
         import sacrebleu
-        # sacrebleu expects tokenized inputs; we'll let its internal tokenizer handle it
         bleu = sacrebleu.corpus_bleu([hyp_text], [[ref_text]]).score
         chrf = sacrebleu.corpus_chrf([hyp_text], [[ref_text]]).score
 
-        # COMET score (reference-based) – using full texts
+        # COMET score (reference-based)
         comet_val = comet_score(comet_ref, [src_text], [hyp_text], [ref_text])
 
         elapsed = time.time() - t_start
@@ -180,11 +213,9 @@ def main():
     pairs = []
     if args.input_dir:
         folder = Path(args.input_dir)
-        # Find all Spanish files
         es_files = list(folder.glob("*_es.pdf")) + list(folder.glob("*_ES.pdf"))
         for src_path in es_files:
             stem = src_path.stem
-            # Determine English counterpart
             ref_path = None
             for suffix in ["_en.pdf", "_EN.pdf"]:
                 candidate = folder / stem.replace("_es", suffix).replace("_ES", suffix)
@@ -197,7 +228,6 @@ def main():
             doc_id = stem.replace("_es", "").replace("_ES", "")
             pairs.append((doc_id, str(src_path), str(ref_path)))
     else:
-        # CSV mode
         df = pd.read_csv(args.csv)
         for _, row in df.iterrows():
             pairs.append((row["doc_id"], row["src_pdf"], row["ref_pdf"]))
