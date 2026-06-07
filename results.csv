@@ -1,11 +1,21 @@
-doc_id,src_pdf,ref_pdf,src_chars,ref_chars,hyp_chars,BLEU,ChrF,COMET,time_s
-029-6231-02f_Remote_Plus_user guide,pdfs\029-6231-02f_Remote_Plus_user guide_es.pdf,pdfs\029-6231-02f_Remote_Plus_user guide_en.pdf,17954,12482,16536,15.7,60.3,0.814,199.3
-aq_jam_xc_pro_r_user_guide,pdfs\aq_jam_xc_pro_r_user_guide_es.pdf,pdfs\aq_jam_xc_pro_r_user_guide_en.pdf,43626,42109,40245,38.6,68.5,0.818,505.2
-aq_sound_xc_r_user_guide,pdfs\aq_sound_xc_r_user_guide_es.pdf,pdfs\aq_sound_xc_r_user_guide_en.pdf,40959,39975,38490,38.7,69.8,0.833,505.5
-guide-user,pdfs\guide-user_es.pdf,pdfs\guide-user_en.pdf,41541,34828,35664,34.2,71.6,0.848,495.9
-UH_UserGuide_Moxi-V312_92x125,pdfs\UH_UserGuide_Moxi-V312_92x125_es.pdf,pdfs\UH_UserGuide_Moxi-V312_92x125_en.pdf,51185,46424,48309,28.1,70.7,0.825,608.4
-029-6231-02f_Remote_Plus_user guide,pdfs\029-6231-02f_Remote_Plus_user guide_es.pdf,pdfs\029-6231-02f_Remote_Plus_user guide_en.pdf,17954,12482,16536,15.7,60.3,0.814,193.1
-aq_jam_xc_pro_r_user_guide,pdfs\aq_jam_xc_pro_r_user_guide_es.pdf,pdfs\aq_jam_xc_pro_r_user_guide_en.pdf,43626,42109,40245,38.6,68.5,0.818,505.2
-aq_sound_xc_r_user_guide,pdfs\aq_sound_xc_r_user_guide_es.pdf,pdfs\aq_sound_xc_r_user_guide_en.pdf,40959,39975,38490,38.7,69.8,0.833,468.1
-guide-user,pdfs\guide-user_es.pdf,pdfs\guide-user_en.pdf,41541,34828,35664,34.2,71.6,0.848,413.0
-UH_UserGuide_Moxi-V312_92x125,pdfs\UH_UserGuide_Moxi-V312_92x125_es.pdf,pdfs\UH_UserGuide_Moxi-V312_92x125_en.pdf,51185,46424,48309,28.1,70.7,0.825,580.3
+doc_id,direction,src_pdf,ref_pdf,src_chars,ref_chars,hyp_chars,BLEU,ChrF,COMET,time_s
+029-6231-02f_Remote_Plus_user guide,ES → EN,pdfs\029-6231-02f_Remote_Plus_user guide_es.pdf,pdfs\029-6231-02f_Remote_Plus_user guide_en.pdf,17954,12482,16536,15.7,60.3,0.814,196.1
+aq_jam_xc_pro_r_user_guide,ES → EN,pdfs\aq_jam_xc_pro_r_user_guide_es.pdf,pdfs\aq_jam_xc_pro_r_user_guide_en.pdf,43626,42109,40245,38.6,68.5,0.818,547.1
+aq_sound_xc_r_user_guide,ES → EN,pdfs\aq_sound_xc_r_user_guide_es.pdf,pdfs\aq_sound_xc_r_user_guide_en.pdf,40959,39975,38490,38.7,69.8,0.833,476.6
+guide-user,ES → EN,pdfs\guide-user_es.pdf,pdfs\guide-user_en.pdf,41541,34828,35664,34.2,71.6,0.848,419.7
+UH_UserGuide_Moxi-V312_92x125,ES → EN,pdfs\UH_UserGuide_Moxi-V312_92x125_es.pdf,pdfs\UH_UserGuide_Moxi-V312_92x125_en.pdf,51185,46424,48309,28.1,70.7,0.825,653.5
+029-6231-02f_Remote_Plus_user guide,ES → EN,pdfs\029-6231-02f_Remote_Plus_user guide_es.pdf,pdfs\029-6231-02f_Remote_Plus_user guide_en.pdf,17954,12482,16536,15.7,60.3,0.814,236.6
+aq_jam_xc_pro_r_user_guide,ES → EN,pdfs\aq_jam_xc_pro_r_user_guide_es.pdf,pdfs\aq_jam_xc_pro_r_user_guide_en.pdf,43626,42109,40245,38.6,68.5,0.818,620.3
+aq_sound_xc_r_user_guide,ES → EN,pdfs\aq_sound_xc_r_user_guide_es.pdf,pdfs\aq_sound_xc_r_user_guide_en.pdf,40959,39975,38490,38.7,69.8,0.833,562.1
+guide-user,ES → EN,pdfs\guide-user_es.pdf,pdfs\guide-user_en.pdf,41541,34828,35664,34.2,71.6,0.848,519.2
+UH_UserGuide_Moxi-V312_92x125,ES → EN,pdfs\UH_UserGuide_Moxi-V312_92x125_es.pdf,pdfs\UH_UserGuide_Moxi-V312_92x125_en.pdf,51185,46424,48309,28.1,70.7,0.825,708.4
+029-6231-02f_Remote_Plus_user guide,EN → ES,pdfs\029-6231-02f_Remote_Plus_user guide_en.pdf,pdfs\029-6231-02f_Remote_Plus_user guide_es.pdf,12482,17954,13979,18.9,56.2,0.787,202.6
+aq_jam_xc_pro_r_user_guide,EN → ES,pdfs\aq_jam_xc_pro_r_user_guide_en.pdf,pdfs\aq_jam_xc_pro_r_user_guide_es.pdf,42109,43626,44226,39.3,74.9,0.731,646.2
+aq_sound_xc_r_user_guide,EN → ES,pdfs\aq_sound_xc_r_user_guide_en.pdf,pdfs\aq_sound_xc_r_user_guide_es.pdf,39975,40959,40924,41.8,75.8,0.768,521.9
+guide-user,EN → ES,pdfs\guide-user_en.pdf,pdfs\guide-user_es.pdf,34828,41541,37687,40.8,72.8,0.776,417.7
+UH_UserGuide_Moxi-V312_92x125,EN → ES,pdfs\UH_UserGuide_Moxi-V312_92x125_en.pdf,pdfs\UH_UserGuide_Moxi-V312_92x125_es.pdf,46424,51185,50277,30.6,73.7,0.816,689.0
+029-6231-02f_Remote_Plus_user guide,EN → ES,pdfs\029-6231-02f_Remote_Plus_user guide_en.pdf,pdfs\029-6231-02f_Remote_Plus_user guide_es.pdf,12482,17954,13979,18.9,56.2,0.787,202.8
+aq_jam_xc_pro_r_user_guide,EN → ES,pdfs\aq_jam_xc_pro_r_user_guide_en.pdf,pdfs\aq_jam_xc_pro_r_user_guide_es.pdf,42109,43626,44226,39.3,74.9,0.731,591.4
+aq_sound_xc_r_user_guide,EN → ES,pdfs\aq_sound_xc_r_user_guide_en.pdf,pdfs\aq_sound_xc_r_user_guide_es.pdf,39975,40959,40924,41.8,75.8,0.768,560.8
+guide-user,EN → ES,pdfs\guide-user_en.pdf,pdfs\guide-user_es.pdf,34828,41541,37687,40.8,72.8,0.776,506.6
+UH_UserGuide_Moxi-V312_92x125,EN → ES,pdfs\UH_UserGuide_Moxi-V312_92x125_en.pdf,pdfs\UH_UserGuide_Moxi-V312_92x125_es.pdf,46424,51185,50277,30.6,73.7,0.816,681.7
