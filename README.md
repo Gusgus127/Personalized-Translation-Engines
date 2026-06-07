@@ -19,6 +19,9 @@ The system delivers high-quality, trustworthy translations that maintain termino
 ├── glossary.py                     # Modular glossary, terminology rules, and text utilities
 ├── evaluate_pdfs.py                # PDF translation evaluation pipeline (BLEU, ChrF, COMET)
 ├── mespen-medical-finetune.ipynb   # Fine-tuning pipeline (MeSpEn / PubMed dataset)
+├── nllb-baseline.ipynb             # NLLB-200 baseline experiments
+├── sp-test.ipynb                   # Sanity-check / scratchpad notebook
+├── requirements.txt
 ├── mespen_data/                    # Raw MeSpEn dataset files
 │   └── medlineplus_extracted/      # Extracted XML health topic files
 ├── mespen_medical_model/           # Fine-tuned MarianMT model (ES→EN)
@@ -28,8 +31,10 @@ The system delivers high-quality, trustworthy translations that maintain termino
 │   ├── vocab.json
 │   ├── source.spm / target.spm
 │   └── checkpoint-96/              # Intermediate training checkpoint
+├── mespen_medical_model_en_es/     # Fine-tuned MarianMT model (EN→ES)
+├── pdfs/                           # Paired ES/EN PDF test documents
 └── results/
-    └── Baseline_Report.csv         # Baseline evaluation results (NLLB-200 3.3B)
+    └── results.csv                 # PDF evaluation results (BLEU, ChrF, COMET)
 ```
 
 ---
@@ -81,6 +86,8 @@ pdfplumber>=0.11.0
 pandas>=2.0.0
 ```
 
+> **GPU note:** If you have a CUDA-capable GPU, install the matching PyTorch build from [pytorch.org](https://pytorch.org/get-started/locally/) before running `pip install`. The app and evaluation scripts auto-detect CUDA at runtime.
+
 ---
 
 ## Running the Web App
@@ -105,6 +112,7 @@ The app opens at `http://localhost:8501`.
 | **Quick examples** | 5 pre-loaded medical sentences in each direction |
 | **Baseline vs Fine-tuned comparator** | Side-by-side comparison on any input text |
 | **Translation history** | Full session log with QA labels, exportable as JSON |
+| **PDF upload** | Text extraction from uploaded PDFs for direct translation |
 
 ### Engine paths expected by `app.py`
 
@@ -121,7 +129,7 @@ If a fine-tuned model directory is missing, the app falls back gracefully to the
 
 | Color | Score | Action |
 |---|---|---|
-|  Transparent | ≥ 0.85 | AUTO-ACCEPT |
+| Transparent | ≥ 0.85 | AUTO-ACCEPT |
 | 🟡 Amber | 0.70 – 0.85 | Review recommended |
 | 🔴 Red | < 0.70 | Mandatory human intervention |
 
@@ -160,19 +168,45 @@ After training, the model is saved to `./mespen_medical_model/` and is immediate
 
 ## Evaluating on PDF Documents
 
-`evaluate_pdfs.py` translates Spanish medical PDFs and scores them against reference English PDFs using BLEU, ChrF, and COMET.
+`evaluate_pdfs.py` runs evaluation in **both directions** (ES→EN and EN→ES) in a single pass. It discovers paired PDFs automatically by filename (`*_es.pdf` / `*_en.pdf`), loads the appropriate fine-tuned model for each direction (falling back to the HuggingFace baseline if a local model isn't found), and scores each document with BLEU, ChrF, and COMET.
 
 ```bash
-# All matched pairs in a folder (files must match *_es.pdf / *_en.pdf)
+# Point to your paired PDFs folder; models are resolved automatically
 python evaluate_pdfs.py --input_dir ./pdfs --model ./mespen_medical_model
 
-# Using a CSV mapping source files to references
-python evaluate_pdfs.py --csv pairs.csv --model ./mespen_medical_model --output_csv results.csv
 ```
 
-The CSV mapping file (`pairs.csv`) must have columns: `doc_id`, `src_pdf`, `ref_pdf`.
+PDFs must be named with `_es` / `_en` suffixes (e.g. `guide_es.pdf` + `guide_en.pdf`). The script resolves the EN→ES model as the sibling directory `mespen_medical_model_en_es/` next to the provided path.
 
-Output `results.csv` includes per-document BLEU, ChrF, COMET, character counts, and processing time, plus an aggregated summary printed to stdout.
+Output `results.csv` includes per-document direction, BLEU, ChrF, COMET, character counts, and processing time. A per-direction macro summary is printed to stdout on completion.
+
+### Evaluation Results — Unitron Hearing Aid User Guides (`pdfs/`)
+
+Both fine-tuned models were evaluated against 5 paired Unitron/hearing aid user guides (10 document-direction pairs total) — the same document type the glossary was designed for.
+
+**ES → EN (fine-tuned `mespen_medical_model`)**
+
+| Document | BLEU | ChrF | COMET |
+|---|---|---|---|
+| Remote Plus User Guide | 15.7 | 60.3 | 0.814 |
+| AQ JAM XC Pro R User Guide | 38.6 | 68.5 | 0.818 |
+| AQ Sound XC R User Guide | 38.7 | 69.8 | 0.833 |
+| User Guide (generic) | 34.2 | 71.6 | 0.848 |
+| Moxi V312 User Guide | 28.1 | 70.7 | 0.825 |
+| **Average** | **31.1** | **68.2** | **0.828** |
+
+**EN → ES (fine-tuned `mespen_medical_model_en_es`)**
+
+| Document | BLEU | ChrF | COMET |
+|---|---|---|---|
+| Remote Plus User Guide | 18.9 | 56.2 | 0.787 |
+| AQ JAM XC Pro R User Guide | 39.3 | 74.9 | 0.731 |
+| AQ Sound XC R User Guide | 41.8 | 75.8 | 0.768 |
+| User Guide (generic) | 40.8 | 72.8 | 0.776 |
+| Moxi V312 User Guide | 30.6 | 73.7 | 0.816 |
+| **Average** | **34.3** | **70.7** | **0.776** |
+
+The ES→EN direction scores higher on COMET (0.828 vs 0.776), which is expected given the model was fine-tuned primarily on ES→EN medical data. EN→ES gains a few points on BLEU and ChrF, likely due to the higher morphological regularity of Spanish output. COMET scores across both directions sit in the Amber range (0.70–0.85), reflecting solid fluency with terminology gaps that the glossary correction step is designed to close. The low BLEU on the Remote Plus guide in both directions is expected — it is a short, highly structured document where small wording differences penalise BLEU heavily.
 
 ---
 
@@ -184,18 +218,16 @@ Output `results.csv` includes per-document BLEU, ChrF, COMET, character counts, 
 - **`apply_glossary(text, direction, enabled_categories)`** — applies substitutions with regex word-boundary matching and returns `(corrected_text, list_of_changes)`.
 - **`clean_extracted_text(text)`** — normalises raw pdfplumber output by removing table-of-contents dot leaders, repeated lines, and excessive blank lines.
 
+The glossary was **hand-authored specifically for the Unitron Remote Plus user guide** use case, covering the terminology and brand-voice rules that Unitron applies to its hearing aid documentation. It is intended as a starting point that iDISC can extend with client-provided style guides.
+
 Glossary categories and their scope:
 
 | Category | Examples |
 |---|---|
-| Brand | "hearing device" → "hearing aid"; full Unitron product names |
+| Brand | "hearing device" → "hearing aid"; full Unitron Remote Plus product names |
 | Clinical | "eardrum" → "tympanic membrane"; person-first language |
 | Technical | "turn on" → "activate"; Bluetooth pairing qualifiers |
 | Style | "make sure" → "ensure"; removing informal filler |
-
----
-
-> Note: NLLB-200 was excluded from the final system due to its CC-BY-NC licence (non-commercial only). The production system uses MarianMT (Apache 2.0).
 
 ---
 
@@ -203,6 +235,8 @@ Glossary categories and their scope:
 
 ### Base Model
 **MarianMT** (`Helsinki-NLP/opus-mt-es-en` / `opus-mt-en-es`) — Apache 2.0 licensed, fast inference, runs fully locally for data privacy.
+
+> NLLB-200 was evaluated during the baseline phase (`nllb-baseline.ipynb`) but excluded from the final system due to its CC-BY-NC licence (non-commercial only).
 
 ### Domain Adaptation
 
@@ -226,7 +260,7 @@ Glossary categories and their scope:
 - [x] Segment editing mode for flagged translations
 - [x] Glossary correction pipeline with application report
 - [x] Baseline vs fine-tuned side-by-side comparator
-- [x] PDF evaluation script (`evaluate_pdfs.py`)
+- [x] PDF evaluation script (`evaluate_pdfs.py`) — bidirectional (ES→EN and EN→ES)
 - [x] Modular glossary and text utilities (`glossary.py`)
 - [x] File upload (.pdf) in the Streamlit UI (text extraction only)
 - [ ] Legal domain fine-tuning
