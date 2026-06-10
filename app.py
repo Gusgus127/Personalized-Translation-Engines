@@ -4,6 +4,9 @@ Medical Domain Demo — Streamlit Interface (with Real COMET QA Thresholds)
 """
 
 import os
+
+os.environ["HF_HUB_DISABLE_SYMLINKS_WARNING"] = "1"
+
 import json
 import time
 import re
@@ -102,8 +105,8 @@ hr { border-color:#1e2530 !important;margin:1.5rem 0 !important; }
 # ─────────────────────────────────────────────────────────────────────────────
 BASELINE_ES_EN  = "Helsinki-NLP/opus-mt-es-en"
 BASELINE_EN_ES  = "Helsinki-NLP/opus-mt-en-es"
-FINETUNED_ES_EN = "./mespen_medical_model"
-FINETUNED_EN_ES = "./mespen_medical_model_en_es"
+FINETUNED_ES_EN = "Gusgus127/marianmt-es-en-medical"
+FINETUNED_EN_ES = "Gusgus127/marianmt-en-es-medical"
 
 COMET_THRESHOLD_HI = 0.85
 COMET_THRESHOLD_LO = 0.70
@@ -129,6 +132,11 @@ SAMPLE_SENTENCES_EN = [
 # ─────────────────────────────────────────────────────────────────────────────
 def finetuned_available(direction: str = "ES → EN") -> bool:
     path = FINETUNED_EN_ES if direction == "EN → ES" else FINETUNED_ES_EN
+    # Hugging Face model hub path
+    if "/" in path and not os.path.exists(path):
+        return True
+        
+    # Standard local directory check fallbacks
     return os.path.isdir(path) and (
         os.path.isfile(os.path.join(path, "model.safetensors")) or
         os.path.isfile(os.path.join(path, "pytorch_model.bin"))
@@ -232,14 +240,19 @@ def calculate_comet_scores(comet_model, comet_variant: str, sources: list, hypot
 
 MAX_CHUNK_TOKENS = 400
 
-def translate_text(pipe, tokenizer, comet_model, comet_variant: str, text: str):
+def translate_text(pipe, tokenizer, comet_model, comet_variant: str, text: str, progress_callback=None):
     t0 = time.time()
     src_segs = split_into_sentences(text)
     if not src_segs:
         src_segs = [text.strip()]
 
     tgt_segs = []
-    for sent in src_segs:
+    total_segs = len(src_segs)
+    for idx, sent in enumerate(src_segs):
+        # Progress update
+        if progress_callback:
+            progress_callback(idx / total_segs)
+        
         tokens = tokenizer.encode(sent, add_special_tokens=False)
         if len(tokens) > MAX_CHUNK_TOKENS:
             sent = tokenizer.decode(tokens[:MAX_CHUNK_TOKENS], skip_special_tokens=True)
@@ -250,6 +263,10 @@ def translate_text(pipe, tokenizer, comet_model, comet_variant: str, text: str):
         except Exception:
             translated = sent   
         tgt_segs.append(translated.strip())
+
+    # Final progress 100%
+    if progress_callback:
+        progress_callback(1.0)
 
     translation = " ".join(tgt_segs)
     elapsed     = round(time.time() - t0, 2)
@@ -356,9 +373,14 @@ with st.sidebar:
 
     st.markdown("<div class='sidebar-label'>Engine</div>", unsafe_allow_html=True)
     ft_ready = finetuned_available(direction)
-    engine_options = [f"Baseline (opus-mt-{'es-en' if direction == 'ES → EN' else 'en-es'})"]
+    # Build engine options with fine-tuned first if available (default selection)
     if ft_ready:
-        engine_options.append("Fine-tuned (MeSpEn Medical)")
+        engine_options = [
+            "Fine-tuned (MeSpEn Medical)",
+            f"Baseline (opus-mt-{'es-en' if direction == 'ES → EN' else 'en-es'})"
+        ]
+    else:
+        engine_options = [f"Baseline (opus-mt-{'es-en' if direction == 'ES → EN' else 'en-es'})"]
     engine_choice = st.radio("Engine", engine_options, label_visibility="collapsed")
 
     if not ft_ready:
@@ -522,18 +544,29 @@ with btn_col2:
     glossary_btn = st.button("📖 Glossary", use_container_width=True, disabled=(not st.session_state.translation))
 
 if translate_btn and source_input.strip():
-    with st.spinner("Processing lines..."):
-        try:
-            translation, confidence, elapsed, segments = translate_text(pipe, tokenizer, comet_model, comet_variant, source_input.strip())
-            st.session_state.translation = translation
-            st.session_state.confidence  = confidence
-            st.session_state.elapsed     = elapsed
-            st.session_state.segments    = segments
-            st.session_state.source_text = source_input.strip()
-            st.session_state.history.insert(0, {"src": source_input.strip()[:140], "tgt": translation[:140], "conf": confidence, "label": conf_label(confidence, comet_hi, comet_lo), "color": conf_color(confidence, comet_hi, comet_lo), "time": elapsed, "engine": engine_label, "segments": len(segments)})
-            st.rerun()
-        except Exception as e:
-            st.error(f"Translation failure: {e}")
+    # Create progress bar and update callback
+    progress_bar = st.progress(0, text="Translating...")
+    def update_progress(frac):
+        progress_bar.progress(frac, text=f"Translating... {int(frac*100)}%")
+    try:
+        translation, confidence, elapsed, segments = translate_text(
+            pipe, tokenizer, comet_model, comet_variant, source_input.strip(),
+            progress_callback=update_progress
+        )
+        # Ensure progress reaches 100% and then clear the bar (optional)
+        progress_bar.progress(1.0, text="Done!")
+        time.sleep(0.2)  # brief visual feedback
+        progress_bar.empty()
+        st.session_state.translation = translation
+        st.session_state.confidence  = confidence
+        st.session_state.elapsed     = elapsed
+        st.session_state.segments    = segments
+        st.session_state.source_text = source_input.strip()
+        st.session_state.history.insert(0, {"src": source_input.strip()[:140], "tgt": translation[:140], "conf": confidence, "label": conf_label(confidence, comet_hi, comet_lo), "color": conf_color(confidence, comet_hi, comet_lo), "time": elapsed, "engine": engine_label, "segments": len(segments)})
+        st.rerun()
+    except Exception as e:
+        progress_bar.empty()
+        st.error(f"Translation failure: {e}")
 
 if glossary_btn and st.session_state.translation:
     corrected, applied = apply_glossary(st.session_state.translation, direction, enabled_cats)
