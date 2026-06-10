@@ -1,7 +1,7 @@
 # Personalized Translation Engines
 > A modular Spanish–English Machine Translation system with domain-specific fine-tuning for Medical, Legal, and Automotive sectors. Includes a Human-in-the-Loop QA module with COMET-based confidence scoring, per-segment heatmaps, and a glossary correction pipeline.
 
----
+![Application Interface](app_screenshot.png) ---
 
 ## Project Overview
 
