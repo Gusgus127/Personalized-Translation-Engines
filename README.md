@@ -24,14 +24,6 @@ The system delivers high-quality, trustworthy translations that maintain termino
 ├── requirements.txt
 ├── mespen_data/                    # Raw MeSpEn dataset files
 │   └── medlineplus_extracted/      # Extracted XML health topic files
-├── mespen_medical_model/           # Fine-tuned MarianMT model (ES→EN)
-│   ├── model.safetensors
-│   ├── config.json
-│   ├── tokenizer_config.json
-│   ├── vocab.json
-│   ├── source.spm / target.spm
-│   └── checkpoint-96/              # Intermediate training checkpoint
-├── mespen_medical_model_en_es/     # Fine-tuned MarianMT model (EN→ES)
 ├── pdfs/                           # Paired ES/EN PDF test documents
 └── results/
     └── results.csv                 # PDF evaluation results (BLEU, ChrF, COMET)
@@ -72,22 +64,6 @@ venv\Scripts\activate
 pip install -r requirements.txt
 ```
 
-`requirements.txt` contents:
-
-```
-streamlit>=1.32.0
-transformers>=4.40.0
-torch>=2.2.0
-sentencepiece>=0.2.0
-sacrebleu>=2.4.0
-evaluate>=0.4.0
-unbabel-comet>=2.2.0
-pdfplumber>=0.11.0
-pandas>=2.0.0
-```
-
-> **GPU note:** If you have a CUDA-capable GPU, install the matching PyTorch build from [pytorch.org](https://pytorch.org/get-started/locally/) before running `pip install`. The app and evaluation scripts auto-detect CUDA at runtime.
-
 ---
 
 ## Running the Web App
@@ -114,24 +90,42 @@ The app opens at `http://localhost:8501`.
 | **Translation history** | Full session log with QA labels, exportable as JSON |
 | **PDF upload** | Text extraction from uploaded PDFs for direct translation |
 
-### Engine paths expected by `app.py`
 
-| Engine | Path |
-|---|---|
-| Baseline ES→EN | Downloaded automatically from HuggingFace (`Helsinki-NLP/opus-mt-es-en`) |
-| Baseline EN→ES | Downloaded automatically from HuggingFace (`Helsinki-NLP/opus-mt-en-es`) |
-| Fine-tuned ES→EN | `./mespen_medical_model/` (must exist locally) |
-| Fine-tuned EN→ES | `./mespen_medical_model_en_es/` (must exist locally) |
+## Model Loading
 
+Models are hosted on Hugging Face Hub for easy access:
+
+| Model | HF ID | Direction |
+|-------|-------|-----------|
+| Baseline ES→EN | Downloaded automatically from HuggingFace (`Helsinki-NLP/opus-mt-es-en`) | Spanish → English |
+| Baseline EN→ES | Downloaded automatically from HuggingFace (`Helsinki-NLP/opus-mt-en-es`) | English → Spanish |
+| Medical Fine-tuned (ES→EN) | `Gusgus127/mespen-medical-es-en` | Spanish → English |
+| Medical Fine-tuned (EN→ES) | `Gusgus127/mespen-medical-en-es` | English → Spanish |
+
+The app automatically downloads models on first run (cached locally). No manual download needed! (but may take a while the first time)
 If a fine-tuned model directory is missing, the app falls back gracefully to the baseline only.
 
 ### COMET QA Thresholds
 
+> **Note:** We use the Kiwi model from HuggingFace. The very first time this model loads, it will take some additional time to download and initialize.
+
 | Color | Score | Action |
-|---|---|---|
-| Transparent | ≥ 0.85 | AUTO-ACCEPT |
-| 🟡 Amber | 0.70 – 0.85 | Review recommended |
-| 🔴 Red | < 0.70 | Mandatory human intervention |
+| :--- | :--- | :--- |
+| ⚪ **Transparent** | $\ge 0.85$ | **AUTO-ACCEPT** |
+| 🟡 **Amber** | $0.70 \le \text{Score} < 0.85$ | Review recommended |
+| 🔴 **Red** | $< 0.70$ | Mandatory human intervention |
+
+---
+
+#### 🔑 Configuration for COMET Kiwi Model
+
+The application utilizes [Unbabel/wmt22-cometkiwi-da](https://huggingface.co/Unbabel/wmt22-cometkiwi-da) for higher-quality quality estimation. Because this model requires authentication, please follow these steps to enable it:
+
+1. **Accept the license** on the official model page: [Unbabel/wmt22-cometkiwi-da](https://huggingface.co/Unbabel/wmt22-cometkiwi-da)
+2. **Create a "Read" token** in your Hugging Face settings: [huggingface.co/settings/tokens](https://huggingface.co/settings/tokens)
+3. **Log in via CLI** and paste your token when prompted:
+   ```bash
+   huggingface-cli login
 
 ---
 
@@ -180,9 +174,11 @@ PDFs must be named with `_es` / `_en` suffixes (e.g. `guide_es.pdf` + `guide_en.
 
 Output `results.csv` includes per-document direction, BLEU, ChrF, COMET, character counts, and processing time. A per-direction macro summary is printed to stdout on completion.
 
-### Evaluation Results — Unitron Hearing Aid User Guides (`pdfs/`)
+### Evaluation Results — Hearing Aid User Guides (`pdfs/`)
 
-Both fine-tuned models were evaluated against 5 paired Unitron/hearing aid user guides (10 document-direction pairs total) — the same document type the glossary was designed for.
+Both fine-tuned models were evaluated against 5 paired hearing aid user guides (10 document-direction pairs total) — the same document type the glossary was designed for. 
+
+> 🔒 **Note on Test Data:** Because these documents contain proprietary/private data, they are not included in this public repository. To test the evaluation pipeline with your own data, place your paired documents inside the `pdfs/` directory using the `_es.pdf` and `_en.pdf` naming convention described below.
 
 **ES → EN (fine-tuned `mespen_medical_model`)**
 
@@ -218,7 +214,7 @@ The ES→EN direction scores higher on COMET (0.828 vs 0.776), which is expected
 - **`apply_glossary(text, direction, enabled_categories)`** — applies substitutions with regex word-boundary matching and returns `(corrected_text, list_of_changes)`.
 - **`clean_extracted_text(text)`** — normalises raw pdfplumber output by removing table-of-contents dot leaders, repeated lines, and excessive blank lines.
 
-The glossary was **hand-authored specifically for the Unitron Remote Plus user guide** use case, covering the terminology and brand-voice rules that Unitron applies to its hearing aid documentation. It is intended as a starting point that iDISC can extend with client-provided style guides.
+The glossary was **hand-made specifically for the Unitron Remote Plus user guide** use case, covering the terminology and brand-voice rules that Unitron applies to its hearing aid documentation. It is intended as a starting point that iDISC can extend with client-provided style guides.
 
 Glossary categories and their scope:
 
@@ -272,5 +268,4 @@ Glossary categories and their scope:
 
 ## Requirements from iDISC
 
-- **Test files** — to validate the engine on real daily content.
 - **Style guides & glossaries** — to refine and tune the engine in later stages.
